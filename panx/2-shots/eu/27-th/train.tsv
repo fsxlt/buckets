@@ -1,0 +1,54 @@
+Leccoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Pablo	B-PER
+Prigioni	I-PER
+(	O
+BASK	O
+)	O
+
+Egun	O
+,	O
+aldaera	O
+bat	O
+Parisko	B-LOC
+Orsay	B-ORG
+museoan	I-ORG
+dago	O
+,	O
+eta	O
+bigarrena	O
+bilduma	O
+pribatu	O
+batean	O
+.	O
+
+'	O
+''	O
+Eduardo	B-PER
+VII.a	I-PER
+Erresuma	I-PER
+Batukoa	I-PER
+''	O
+'	O
+
+BIRZUZENDU	O
+Puerto	B-ORG
+Ricoko	I-ORG
+Alderdi	I-ORG
+Independentista	I-ORG
+
+Vareseko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O

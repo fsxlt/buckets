@@ -1,0 +1,90 @@
+Moluques	B-LOC
+du	I-LOC
+Nord	I-LOC
+
+'	O
+''	O
+Jakub	B-PER
+Kornfeil	I-PER
+''	O
+'	O
+
+Ministère	B-ORG
+fédéral	I-ORG
+de	I-ORG
+l'Environnement	I-ORG
+(	I-ORG
+Allemagne	I-ORG
+)	I-ORG
+
+**	O
+Matthew	B-PER
+Fox	I-PER
+pour	O
+Lost	B-ORG
+:	I-ORG
+Les	I-ORG
+Disparus	I-ORG
+''	O
+
+*Le	O
+'	O
+''	O
+BKE	B-ORG
+Budapest	I-ORG
+''	O
+'	O
+est	O
+champion	B-ORG
+de	I-ORG
+Hongrie	I-ORG
+.	O
+
+Barack	B-PER
+Obama	I-PER
+apparaît	O
+en	O
+tant	O
+qu'invité	O
+dans	O
+l'émission	O
+diffusée	O
+le	O
+.	O
+
+Timofeï	B-PER
+Mozgov	I-PER
+(	O
+12	O
+)	O
+
+Castell'Alfero	B-LOC
+,	O
+Cossombrato	B-LOC
+,	O
+Frinco	B-LOC
+,	O
+Tonco	B-LOC
+,	O
+Villa	B-LOC
+San	I-LOC
+Secondo	I-LOC
+
+Histoire	B-ORG
+des	I-ORG
+États-Unis	I-ORG
+de	I-ORG
+1776	I-ORG
+à	I-ORG
+1865	I-ORG
+
+Îles	B-LOC
+Malouines	I-LOC
+,	O
+4	O
+.	O
+
+Saint-Remimont	B-LOC
+(	I-LOC
+Vosges	I-LOC
+)	I-LOC

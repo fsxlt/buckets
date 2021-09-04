@@ -1,0 +1,43 @@
+'	O
+''	O
+Division	B-ORG
+2	I-ORG
+''	O
+'	O
+
+REDIRECTION	O
+BBC	B-ORG
+Sessions	I-ORG
+(	I-ORG
+album	I-ORG
+de	I-ORG
+Cream	I-ORG
+)	I-ORG
+
+Corey	B-PER
+Parker	I-PER
+&	O
+Justin	B-PER
+Hodges	I-PER
+
+Archidiocèse	B-LOC
+de	I-LOC
+Belém	I-LOC
+do	I-LOC
+Pará	I-LOC
+
+Équipe	B-LOC
+de	I-LOC
+France	I-LOC
+de	I-LOC
+Fed	I-LOC
+Cup	I-LOC
+
+Josephine	B-PER
+Hutchinson	I-PER
+,	O
+Guy	B-PER
+Kibbee	I-PER
+,	O
+George	B-PER
+Brent	I-PER

@@ -1,0 +1,31 @@
+La	B-LOC
+Chapelle-Montbrandeix	I-LOC
+(	O
+87037	O
+)	O
+
+Torre	B-ORG
+Iberdrola	I-ORG
+(	O
+arquitecto	O
+César	B-PER
+Pelli	I-PER
+)	O
+.	O
+
+Santiago	B-LOC
+de	I-LOC
+Chile	I-LOC
+(	O
+)	O
+
+Real	B-ORG
+Murcia	I-ORG
+Club	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+
+Pedro	B-PER
+I	I-PER
+de	I-PER
+Castilla	I-PER

@@ -1,0 +1,57 @@
+Lourdes	B-PER
+Domínguez	I-PER
+Lino	I-PER
+Lucie	B-PER
+Hradecká	I-PER
+Marta	B-PER
+Domachowska	I-PER
+Polona	B-PER
+Hercog	I-PER
+
+Livinallongo	B-LOC
+del	I-LOC
+Col	I-LOC
+di	I-LOC
+Lana	I-LOC
+
+''B-Side	O
+di	O
+Red	B-ORG
+Blooded	I-ORG
+Woman	I-ORG
+''	O
+
+Last	B-ORG
+One	I-ORG
+to	I-ORG
+Die	I-ORG
+''	O
+
+Regioni	B-LOC
+della	I-LOC
+Nuova	I-LOC
+Zelanda	I-LOC
+
+'	O
+''	O
+Andy	B-PER
+Andrews	I-PER
+/	O
+John	B-PER
+Sadri	I-PER
+''	O
+'	O
+hanno	O
+battuto	O
+in	O
+finale	O
+Syd	B-PER
+Ball	I-PER
+/	O
+Rod	B-PER
+Frawley	I-PER
+3-6	O
+,	O
+7-6	O
+,	O
+7-5	O

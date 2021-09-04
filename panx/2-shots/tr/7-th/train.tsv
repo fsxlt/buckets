@@ -1,0 +1,44 @@
+Çin	B-ORG
+Devrimi'yle	I-ORG
+Qing	B-LOC
+Hanedanı'na	I-LOC
+son	O
+verilir	O
+.	O
+
+20	O
+yaşına	O
+geldiğinde	O
+Kaliforniya'nın	B-LOC
+Los	B-LOC
+Angeles	I-LOC
+kentine	O
+yerleşti	O
+.	O
+
+:	O
+Georges	B-PER
+Bataille	I-PER
+(	O
+1897-1962	O
+)	O
+,	O
+F	O
+
+Daha	O
+sonra	O
+birçok	O
+2.	B-ORG
+Lig	I-ORG
+ekibinde	O
+forma	O
+giyid	O
+.	O
+
+Ünlü	O
+Amerika'lı	B-LOC
+şarkıcı	O
+Michael	B-PER
+Jackson'un	I-PER
+kardeşidir	O
+.	O

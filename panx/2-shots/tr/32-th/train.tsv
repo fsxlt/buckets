@@ -1,0 +1,46 @@
+Arena	B-ORG
+Națională	I-ORG
+,	O
+Bükreş	B-LOC
+,	O
+Romanya	B-LOC
+
+YÖNLENDİRME	O
+Silvino	B-PER
+João	I-PER
+de	I-PER
+Carvalho	I-PER
+
+Dean	B-PER
+R.	I-PER
+Koontz	I-PER
+
+YÖNLENDİRME	O
+Haseke	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC
+
+İran’ın	B-LOC
+doğusunda	O
+Hindukuş	B-LOC
+Dağları	I-LOC
+boyunca	O
+ve	O
+Tanrı	B-LOC
+Dağlarından	I-LOC
+Altay	B-LOC
+Dağlarına	I-LOC
+kadar	O
+olan	O
+alanda	O
+yaşarlar	O
+.	O
+
+1561-1563'de	O
+Trento	B-ORG
+Konsili'na	I-ORG
+delege	O
+olarak	O
+katıldı	O
+.	O

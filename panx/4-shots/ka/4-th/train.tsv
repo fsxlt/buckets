@@ -1,0 +1,99 @@
+შეტანილია	O
+ალბომში	O
+December	B-ORG
+'s	I-ORG
+Children	I-ORG
+(	I-ORG
+And	I-ORG
+Everybody	I-ORG
+'s	I-ORG
+)	I-ORG
+.	O
+
+გადამისამართება	O
+ევროპის	B-ORG
+საფეხბურთო	I-ORG
+ჩემპიონატი	I-ORG
+2008	I-ORG
+:	I-ORG
+ფინალი	I-ORG
+
+რეზინის	B-LOC
+რაიონი	I-LOC
+(	O
+Raionul	O
+Rezina	O
+)	O
+
+მისი	O
+რეჟისორია	O
+აკირა	B-PER
+კუროსავა	I-PER
+.	O
+
+**	O
+ბრაზილია	B-LOC
+(	O
+საელჩო	O
+)	O
+
+გადამისამართება	O
+ჰენრი	B-PER
+მორტონ	I-PER
+სტენლი	I-PER
+
+დედაქალაქი	O
+და	O
+უდიდესი	O
+ქალაქი	O
+—	O
+ლონგფორდი	B-LOC
+.	O
+
+გადამისამართება	O
+ბოსნია	B-LOC
+და	I-LOC
+ჰერცეგოვინა	I-LOC
+
+მეორე	O
+მხრივ	O
+,	O
+საერო	O
+პირებიც	O
+ხშირად	O
+აკრიტიკებდნენ	O
+შოთა	B-PER
+რუსთაველის	I-PER
+ნაწარმოებს	O
+.	O
+
+Singles	B-ORG
+Box	I-ORG
+Set	I-ORG
+1981-1985	I-ORG
+''	O
+
+შედის	O
+სალაჰ-ედ-დინის	B-LOC
+მუჰაფაზის	I-LOC
+შემადგენლობაში	O
+.	O
+
+'	O
+''	O
+ლოს-ანჯელეს	B-ORG
+ლეიკერსი	I-ORG
+''	O
+'	O
+
+ასევე	O
+იყენებდნენ	O
+ოსმალეთის	B-PER
+სულთნებიც	I-PER
+.	O
+
+გადამისამართება	O
+იორქტაუნი	B-LOC
+(	I-LOC
+ვირჯინია	I-LOC
+)	I-LOC

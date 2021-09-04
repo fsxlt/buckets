@@ -1,0 +1,24 @@
+Saenai	B-ORG
+Heroine	I-ORG
+no	I-ORG
+Sodatekata	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'6–3	O
+,	O
+6–7	O
+(	O
+6–8	O
+)	O
+,	O
+6–3	O

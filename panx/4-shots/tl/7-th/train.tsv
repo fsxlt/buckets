@@ -1,0 +1,85 @@
+'	O
+''	O
+Honduras	B-LOC
+''	O
+'	O
+
+Hiero	B-PER
+II	I-PER
+ng	I-PER
+Siracusa	I-PER
+
+Maria	B-PER
+Cristina	I-PER
+ng	I-PER
+Austria	I-PER
+
+Dalubhasaan	B-ORG
+ng	I-ORG
+Santa	I-ORG
+Escolastica	I-ORG
+
+Komisyon	B-ORG
+sa	I-ORG
+mga	I-ORG
+Panagot	I-ORG
+at	I-ORG
+Palitan	I-ORG
+(	I-ORG
+Pilipinas	I-ORG
+)	I-ORG
+
+Ilang	B-LOC
+ng	I-LOC
+Taklamakan	I-LOC
+
+Carson	B-LOC
+(	I-LOC
+California	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Jackie	B-PER
+Rice	I-PER
+''	O
+'	O
+
+Takamatsu	B-LOC
+(	O
+''Kabisera	O
+''	O
+)	O
+
+Seki	B-LOC
+,	I-LOC
+Gifu	I-LOC
+
+Mayang	B-LOC
+bato	I-LOC
+(	O
+''Lonchura	O
+leucogastra	O
+''	O
+o	O
+''White-bellied	O
+Munia	O
+''	O
+)	O
+
+Pagpapalabas	B-PER
+na	I-PER
+pambabae	I-PER
+
+12	B-ORG
+Songs	I-ORG
+(	I-ORG
+album	I-ORG
+ni	I-ORG
+Neil	I-ORG
+Diamond	I-ORG
+)	I-ORG
+
+Pandaigdigang	B-ORG
+mga	I-ORG
+Gideon	I-ORG

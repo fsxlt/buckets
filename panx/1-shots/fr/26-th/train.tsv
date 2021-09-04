@@ -1,0 +1,20 @@
+'	O
+''	O
+Italie	B-LOC
+''	O
+'	O
+
+Union	B-ORG
+économique	I-ORG
+belgo-luxembourgeoise	I-ORG
+
+Farquhar	B-PER
+Oliver	I-PER
+(	O
+fois	O
+)	O
+
+O	B-LOC
+Monte	I-LOC
+do	I-LOC
+Gozo	I-LOC

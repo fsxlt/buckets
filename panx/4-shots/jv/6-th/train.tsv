@@ -1,0 +1,77 @@
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O
+''	O
+'	O
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC
+
+(	O
+'	O
+''	O
+Tutugé	B-PER
+...	I-PER
+''	O
+'	O
+)	O

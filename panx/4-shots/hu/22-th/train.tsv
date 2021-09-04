@@ -1,0 +1,127 @@
+Jacques	B-PER
+Brel	I-PER
+,	O
+(	O
+1929–1978	O
+)	O
+
+Erről	O
+csak	O
+azért	O
+tudunk	O
+,	O
+mert	O
+nagynénje	O
+férje	O
+,	O
+I.	B-PER
+Ferdinánd	I-PER
+életjáradékkal	O
+támogatta.”	O
+
+(	O
+A	O
+Chrysler	B-ORG
+Corporation	I-ORG
+alapítója	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Royal	B-ORG
+Opera	I-ORG
+House	I-ORG
+
+Ennél	O
+a	O
+főleg	O
+az	O
+Egyesült	B-LOC
+Államokban	I-LOC
+elterjedt	O
+rendszernél	O
+a	O
+mozdony	O
+mindkét	O
+oldalán	O
+egy	O
+''nagy-	O
+''	O
+és	O
+egy	O
+''kisnyomású	O
+henger	O
+''	O
+található	O
+,	O
+melyeket	O
+egy	O
+blokkban	O
+öntenek	O
+ki	O
+.	O
+
+A	O
+volt	O
+hercegi	O
+nagyvendéglőben	O
+lépett	O
+fel	O
+először	O
+színészként	O
+Petőfi	B-PER
+Sándor	I-PER
+.	O
+
+Oláh	B-ORG
+Gábor	I-ORG
+utcai	I-ORG
+stadion	I-ORG
+,	O
+Debrecen	B-LOC
+
+ÁTIRÁNYÍTÁS	O
+Västra	B-LOC
+Götaland	I-LOC
+megye	I-LOC
+
+Bijou	B-PER
+Phillips	I-PER
+,	O
+színésznő	O
+
+A	O
+legközelebbi	O
+nagyváros	O
+Bloemfontein	B-LOC
+120	O
+km-re	O
+Winburgtól	O
+.	O
+
+Vall	B-LOC
+de	I-LOC
+Boí	I-LOC
+-	O
+1	O
+062	O
+
+A	O
+kölcsönszerződése	O
+lejártával	O
+visszatért	O
+a	O
+Manchester	B-ORG
+Unitedhez	I-ORG
+és	O
+a	O
+2013	B-LOC
+/	I-LOC
+14-es	I-LOC
+szezonra	I-LOC
+való	O
+felkészülést	O
+már	O
+ott	O
+kezdte	O
+meg	O
+.	O

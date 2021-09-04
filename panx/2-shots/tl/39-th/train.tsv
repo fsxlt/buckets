@@ -1,0 +1,32 @@
+'	O
+''	O
+Bryan	B-PER
+Termulo	I-PER
+''	O
+'	O
+
+Kalamnang	B-LOC
+aduktor	I-LOC
+ng	I-LOC
+balakang	I-LOC
+
+Lorenzo	B-PER
+de	I-PER
+'	I-PER
+Medici	I-PER
+
+'	O
+''	O
+Atlantis	B-ORG
+Princess	I-ORG
+''	O
+'	O
+''	O
+
+Partido	B-ORG
+Independentista	I-ORG
+Puertorriqueño	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Okayama	I-LOC

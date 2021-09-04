@@ -1,0 +1,29 @@
+ALIH	O
+David	B-PER
+Murphy	I-PER
+(	I-PER
+pemain	I-PER
+sepak	I-PER
+bola	I-PER
+)	I-PER
+
+Bus-bus	O
+ini	O
+jurusannya	O
+di	O
+antaranya	O
+rute-rute	O
+ke	O
+Cirebon	B-LOC
+,	O
+Jawa	B-LOC
+Tengah	I-LOC
+dan	O
+Jawa	B-LOC
+Timur	I-LOC
+.	O
+
+ALIH	O
+Universitas	B-ORG
+Nasional	I-ORG
+Seoul	I-ORG

@@ -1,0 +1,81 @@
+(	B-ORG
+You	I-ORG
+Want	I-ORG
+to	I-ORG
+)	I-ORG
+Make	I-ORG
+a	I-ORG
+Memory	I-ORG
+
+Santa	B-LOC
+Cruz	I-LOC
+de	I-LOC
+Tenerife	I-LOC
+
+YÖNLENDİRME	O
+I.	B-PER
+Charles	I-PER
+(	I-PER
+İngiltere	I-PER
+Kralı	I-PER
+)	I-PER
+
+Federica	B-PER
+Faiella	I-PER
+/	O
+Massimo	B-PER
+Scali	I-PER
+
+Bu	O
+işaret	O
+CE	B-LOC
+işareti	I-LOC
+dir	O
+.	O
+
+''	O
+'En	O
+fazla	O
+gol	O
+atan	O
+''	O
+'	O
+:	O
+Sebastian	B-PER
+Kehl	I-PER
+–	O
+2	O
+gol	O
+
+YÖNLENDİRME	O
+Gaffarlar	B-LOC
+,	I-LOC
+Koçarlı	I-LOC
+
+**	O
+G	O
+-	O
+Mitch	B-PER
+Richmond	I-PER
+,	O
+Washington	B-ORG
+Wizards	I-ORG
+
+Adana	B-ORG
+Demirspor	I-ORG
+(	O
+Adana	B-LOC
+)	O
+
+YÖNLENDİR	O
+Atatürk	B-ORG
+Havalimanı	I-ORG
+(	I-ORG
+Metro	I-ORG
+İstasyonu	I-ORG
+)	I-ORG
+
+YÖNLENDİRME	O
+Saint-Denis	B-LOC
+,	I-LOC
+Réunion	I-LOC

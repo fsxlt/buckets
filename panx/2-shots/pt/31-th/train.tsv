@@ -1,0 +1,33 @@
+Frederick	B-PER
+Varley	I-PER
+(	O
+1881-1969	O
+)	O
+
+Noyers	B-LOC
+(	I-LOC
+Yonne	I-LOC
+)	I-LOC
+
+The	B-ORG
+Big	I-ORG
+Bang	I-ORG
+Theory	I-ORG
+''	O
+
+*1884	O
+-	O
+Andrew	B-PER
+Ainslie	I-PER
+Common	I-PER
+
+Busby	B-LOC
+(	I-LOC
+Montana	I-LOC
+)	I-LOC
+
+Stade	B-ORG
+de	I-ORG
+Gerland	I-ORG
+,	O
+Lyon	B-LOC

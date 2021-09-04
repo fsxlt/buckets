@@ -1,0 +1,33 @@
+20px	O
+A.C.	B-ORG
+Pavia	I-ORG
+(	I-ORG
+B	I-ORG
+=	I-ORG
+riserve	I-ORG
+)	I-ORG
+,	I-ORG
+Pavia	I-ORG
+
+'	O
+''	O
+Atalanta	B-LOC
+''	O
+'	O
+-	O
+cittadina	O
+dello	O
+Stato	O
+di	O
+Santa	B-LOC
+Catarina	I-LOC
+,	O
+in	O
+Brasile	B-LOC
+
+Liev	B-PER
+Schreiber	I-PER
+–	O
+Ray	B-ORG
+Donovan	I-ORG
+''	O

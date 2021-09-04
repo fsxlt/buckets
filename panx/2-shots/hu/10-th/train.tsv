@@ -1,0 +1,46 @@
+Telmányi	B-PER
+Emil	I-PER
+(	O
+1892–1988	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Royal	B-ORG
+Opera	I-ORG
+House	I-ORG
+
+Víska	B-LOC
+u	I-LOC
+Jevíčka	I-LOC
+(	O
+falu	O
+,	O
+Svitavy	O
+)	O
+
+'	O
+''	O
+John	B-PER
+Mayer	I-PER
+''	O
+'	O
+
+Faster	B-ORG
+than	I-ORG
+the	I-ORG
+Speed	I-ORG
+of	I-ORG
+Night	I-ORG
+
+A	O
+visszavágót	O
+újfent	O
+Costa	B-LOC
+Ricában	I-LOC
+rendezték	O
+,	O
+Nicaragua	B-ORG
+volt	O
+a	O
+pályaválasztó	O
+.	O

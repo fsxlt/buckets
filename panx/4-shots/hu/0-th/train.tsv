@@ -1,0 +1,117 @@
+''	O
+Hirundo	B-LOC
+lucida	I-LOC
+''	O
+
+Bandar	B-LOC
+Seri	I-LOC
+Begawan	I-LOC
+
+Újgyalla	B-LOC
+(	O
+Dulovce	O
+,	O
+rég	O
+.	O
+
+A	O
+FIFA-elnök	B-ORG
+Joseph	B-PER
+Blatter	I-PER
+az	O
+eset	O
+után	O
+szükségszerűnek	O
+nevezte	O
+a	O
+videóbíró	O
+bevezetését	O
+.	O
+
+'	O
+''	O
+Stephen	B-PER
+Lang	I-PER
+''	O
+'	O
+
+'	O
+''	O
+III.	B-ORG
+Kerületi	I-ORG
+TVE	I-ORG
+''	O
+'	O
+
+Hedy	B-PER
+Lamarr	I-PER
+,	O
+színésznő	O
+és	O
+feltaláló	O
+
+Jacques	B-PER
+Audiard	I-PER
+–	O
+''A	O
+számat	O
+figyeld	O
+(	O
+Sur	O
+mes	O
+lèvres	O
+)	O
+''	O
+
+Ugyanebben	O
+az	O
+évben	O
+igazolt	O
+az	O
+MTK-hoz	B-ORG
+.	O
+
+ÁTIRÁNYÍTÁS	O
+São	B-LOC
+Tomé-i	I-LOC
+olajgalamb	I-LOC
+
+Hajduk	B-ORG
+Split	I-ORG
+(	O
+T	O
+)	O
+(	O
+11,200	O
+)	O
+
+Királyhalom	B-LOC
+(	O
+Vajdaság	B-LOC
+)	O
+
+ÁTIRÁNYÍTÁS	O
+1970-es	B-ORG
+Formula–1	I-ORG
+mexikói	I-ORG
+nagydíj	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Buxerolles	B-LOC
+(	I-LOC
+Côte-d'Or	I-LOC
+)	I-LOC
+
+Mérete	O
+nagyjából	O
+Ausztrália	B-LOC
+területének	O
+felel	O
+meg	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Kokuhaku	B-ORG
+(	I-ORG
+Chatmonchy-album	I-ORG
+)	I-ORG

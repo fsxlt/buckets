@@ -1,0 +1,37 @@
+იაკობინელთა	B-ORG
+კლუბის	O
+წევრი	O
+,	O
+მიემხრო	O
+ჟირონდისტებს	B-ORG
+.	O
+
+''Fallout	O
+3	O
+''	O
+-ის	O
+შემქმნელია	O
+Bethesda	B-ORG
+Game	I-ORG
+Studios	I-ORG
+,	O
+ხოლო	O
+გამომშვები	O
+არის	O
+Bethesda	B-ORG
+Softworks	I-ORG
+.	O
+
+მურთაზ	B-PER
+ხურცილავა	I-PER
+(	O
+1990–93	O
+)	O
+
+ის	O
+განსაკუთრებით	O
+პოპულარული	O
+იყო	O
+ლათინურ	B-LOC
+ამერიკაში	I-LOC
+.	O

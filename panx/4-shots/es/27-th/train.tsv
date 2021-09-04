@@ -1,0 +1,90 @@
+'	O
+''	O
+Ultimate	B-ORG
+Fighting	I-ORG
+Championship	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Miguel	B-PER
+II	I-PER
+Comneno	I-PER
+Ducas	I-PER
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Anthony	B-PER
+Ashley	I-PER
+Cooper	I-PER
+,	I-PER
+3er	I-PER
+conde	I-PER
+de	I-PER
+Shaftesbury	I-PER
+
+William	B-PER
+Motter	I-PER
+Inge	I-PER
+
+REDIRECCIÓN	O
+Juan	B-PER
+Meléndez	I-PER
+Valdés	I-PER
+
+Santuario	B-ORG
+de	I-ORG
+Aránzazu	I-ORG
+
+``	O
+The	B-ORG
+Lazy	I-ORG
+Song	I-ORG
+''	O
+
+Condado	B-LOC
+de	I-LOC
+Clark	I-LOC
+-	O
+noreste	O
+
+La	O
+precipitaciones	O
+anuales	O
+rondan	O
+entre	O
+los	O
+2500-3000	O
+mm	O
+en	O
+la	O
+Isla	B-LOC
+Wallis	I-LOC
+y	O
+casi	O
+4000	O
+mm	O
+en	O
+Futuna	B-LOC
+.	O
+
+REDIRECCIÓN	O
+Santuario	B-ORG
+de	I-ORG
+la	I-ORG
+Inmaculada	I-ORG
+Concepción	I-ORG
+
+**	O
+Puerto	B-LOC
+España	I-LOC
+(	O
+Embajada	O
+)	O

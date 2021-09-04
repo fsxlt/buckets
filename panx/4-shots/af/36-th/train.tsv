@@ -1,0 +1,111 @@
+AANSTUUR	O
+Puerto	B-ORG
+Ricaanse	I-ORG
+Onafhanklikheidsparty	I-ORG
+
+Die	O
+Wysigingswet	O
+op	O
+Standaarde	O
+het	O
+die	O
+Suid-Afrikaanse	B-ORG
+Buro	I-ORG
+vir	I-ORG
+Standaarde	I-ORG
+in	O
+die	O
+lewe	O
+geroep	O
+.	O
+
+Die	O
+jong	O
+Tharwat	O
+word	O
+dikwels	O
+met	O
+Jennifer	B-PER
+Lawrence	I-PER
+vergelyk	O
+.	O
+
+AANSTUUR	O
+Eduard	B-PER
+V	I-PER
+van	I-PER
+Engeland	I-PER
+
+'	O
+''	O
+Hermosillo	B-LOC
+''	O
+'	O
+
+Dit	O
+val	O
+onder	O
+die	O
+beheer	O
+van	O
+die	O
+Maruleng	B-LOC
+Plaaslike	I-LOC
+Munisipaliteit	I-LOC
+wat	O
+onder	O
+die	O
+Mopani-distriksmunisipaliteit	B-LOC
+ressorteer	O
+.	O
+
+AANSTUUR	O
+FC	B-ORG
+Internazionale	I-ORG
+Milano	I-ORG
+
+Dr.	O
+Johan	B-PER
+Heyns	I-PER
+vervang	O
+ds	O
+.	O
+
+AANSTUUR	O
+Estniese	B-LOC
+Sosialistiese	I-LOC
+Sowjetrepubliek	I-LOC
+
+Hulle	O
+het	O
+die	O
+Westelike	B-ORG
+Provinsie	I-ORG
+met	O
+33–19	O
+in	O
+die	O
+2013	B-LOC
+eindstryd	I-LOC
+op	O
+Nuweland	B-ORG
+verslaan	O
+.	O
+
+Nelson	B-PER
+Mandela	I-PER
+was	O
+die	O
+bekendste	O
+gevangene	O
+wat	O
+hier	O
+aangehou	O
+is	O
+.	O
+
+Demokratiese	B-LOC
+Republiek	I-LOC
+van	I-LOC
+die	I-LOC
+Kongo	I-LOC

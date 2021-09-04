@@ -1,0 +1,78 @@
+Ilang	B-LOC
+ng	I-LOC
+Taklamakan	I-LOC
+
+The	B-ORG
+Fame	I-ORG
+Monster	I-ORG
+''	O
+(	O
+2009	O
+)	O
+
+Victor	B-PER
+Emmanuel	I-PER
+II	I-PER
+
+Himnasyo	B-ORG
+ng	I-ORG
+Prepektura	I-ORG
+ng	I-ORG
+Aichi	I-ORG
+
+Barako	B-ORG
+Bull	I-ORG
+Energy	I-ORG
+Boosters	I-ORG
+(	I-ORG
+2000-2011	I-ORG
+)	I-ORG
+
+Teofisto	B-PER
+Guingona	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+'	O
+''	O
+Manuel	B-PER
+Roxas	I-PER
+''	O
+'	O
+
+Baku	B-LOC
+''	O
+(	O
+Bakı	O
+)	O
+
+The	B-ORG
+Greatest	I-ORG
+Love	I-ORG
+''	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Pavia	I-LOC
+
+Manhattan	B-LOC
+Beach	I-LOC
+(	I-LOC
+California	I-LOC
+)	I-LOC
+
+Aquilino	B-PER
+Pimentel	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Romano	B-LOC
+Katolikong	I-LOC
+Diyosesis	I-LOC
+ng	I-LOC
+Jeju	I-LOC

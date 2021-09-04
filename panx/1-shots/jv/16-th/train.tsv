@@ -1,0 +1,17 @@
+ALIH	O
+Victoria	B-PER
+saking	I-PER
+Britania	I-PER
+Raya	I-PER
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

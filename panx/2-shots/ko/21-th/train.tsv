@@ -1,0 +1,40 @@
+넘겨주기	O
+트웬티	B-ORG
+원	I-ORG
+파일럿츠	I-ORG
+
+넘겨주기	O
+카를	B-PER
+2세	I-PER
+(	I-PER
+동프랑크	I-PER
+)	I-PER
+
+고려	B-PER
+경종의	I-PER
+아들	O
+-	O
+고려	B-PER
+목종	I-PER
+
+오각별	O
+가운데에는	O
+동그라미가	O
+그려져	O
+있으며	O
+동그라미	O
+가운데에는	O
+아라라트	B-LOC
+산	I-LOC
+위에	O
+떠오르는	O
+태양이	O
+그려져	O
+있다	O
+.	O
+
+조슈	B-ORG
+번	I-ORG
+/	O
+사쓰마	B-LOC
+번	I-LOC

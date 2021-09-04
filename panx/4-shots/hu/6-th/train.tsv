@@ -1,0 +1,108 @@
+Turnézott	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államokban	I-LOC
+,	O
+Kanadában	B-LOC
+,	O
+Csehszlovákiában	B-LOC
+,	O
+Jugoszláviában	B-LOC
+és	O
+Svédországban	B-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Igaz	B-ORG
+Jézus	I-ORG
+Egyház	I-ORG
+
+Ezt	O
+követően	O
+a	O
+Magyar	B-ORG
+Tudományos	I-ORG
+Akadémia	I-ORG
+ösztöndíjasa	O
+volt	O
+három	O
+évig	O
+.	O
+
+Farewell	B-ORG
+My	I-ORG
+Summer	I-ORG
+Love	I-ORG
+''	O
+
+**	O
+PKP	B-ORG
+Intercity	I-ORG
+-	O
+Hosszútávú	O
+személyszállítás	O
+
+Jakabos	B-PER
+Zsuzsanna	I-PER
+(	O
+1989–	O
+)	O
+úszó	O
+
+ÁTIRÁNYÍTÁS	O
+Saint-Aubin-des-Bois	B-LOC
+(	I-LOC
+Eure-et-Loir	I-LOC
+)	I-LOC
+
+Válogatás	O
+Isaac	B-PER
+Newton	I-PER
+írásaiból	O
+,	O
+bevezető	O
+tanulmánnyal	O
+.	O
+
+Kezi	B-LOC
+járás	I-LOC
+,	O
+''Кезский	O
+район	O
+''	O
+–	O
+Kez	B-LOC
+
+Mihail	B-PER
+Boriszovics	I-PER
+Kornyijenko	I-PER
+fedélzeti	O
+mérnök	O
+,	O
+
+Sok	O
+szoborpályázaton	O
+(	O
+Erzsébet	B-PER
+királyné	I-PER
+,	O
+Kossuth-mauzóleum	B-PER
+,	O
+Vörösmarty	B-PER
+,	O
+Madách-emlékmű	B-PER
+)	O
+vett	O
+részt	O
+,	O
+és	O
+díjakat	O
+nyert	O
+.	O
+
+Berkeley	B-LOC
+megye	I-LOC
+(	I-LOC
+Nyugat-Virginia	I-LOC
+)	I-LOC

@@ -1,0 +1,79 @@
+Dewan	B-ORG
+Undangan	I-ORG
+Negeri	I-ORG
+N.34	O
+Gemas	B-LOC
+(	O
+17,966	O
+)	O
+
+20px	O
+Sandro	B-PER
+da	I-PER
+Silva	I-PER
+Mendonça	I-PER
+
+–	O
+Tentera	B-ORG
+Laut	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG
+
+LENCONG	O
+Muradiye	B-ORG
+(	I-ORG
+Daerah	I-ORG
+)	I-ORG
+,	I-ORG
+Van	I-ORG
+
+Semua	O
+lagu	O
+ditulis	O
+oleh	O
+Julian	B-PER
+Casablancas	I-PER
+,	O
+kecuali	O
+yang	O
+dinyatakan	O
+.	O
+
+Yaguchi	B-PER
+Mari	I-PER
+(	O
+矢口真里	O
+,	O
+Ketua	O
+)	O
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Times	B-ORG
+Higher	I-ORG
+Education	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC
+
+Victor	B-PER
+Emmanuel	I-PER
+II	I-PER
+dari	I-PER
+Itali	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Dordogne	I-LOC

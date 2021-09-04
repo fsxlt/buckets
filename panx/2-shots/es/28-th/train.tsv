@@ -1,0 +1,40 @@
+REDIRECCIÓN	O
+Parque	B-ORG
+nacional	I-ORG
+de	I-ORG
+las	I-ORG
+Islas	I-ORG
+Atlánticas	I-ORG
+de	I-ORG
+Galicia	I-ORG
+
+Condado	B-LOC
+de	I-LOC
+Dorchester	I-LOC
+noreste	O
+
+``	O
+Too	B-ORG
+Much	I-ORG
+Heaven	I-ORG
+''	O
+
+'	O
+''	O
+Terry	B-PER
+Cummings	I-PER
+''	O
+'	O
+
+``	B-PER
+Macho	I-PER
+Man	I-PER
+''	I-PER
+Randy	I-PER
+Savage	I-PER
+
+Estadio	B-LOC
+Atanasio	I-LOC
+Girardot	I-LOC
+,	O
+Medellín	B-LOC

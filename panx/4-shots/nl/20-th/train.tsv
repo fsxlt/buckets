@@ -1,0 +1,118 @@
+Lhomme	B-LOC
+(	I-LOC
+gemeente	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Bruine	B-LOC
+kikker	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+FC	B-ORG
+Metz	I-ORG
+''	O
+'	O
+
+Louisburg	B-LOC
+(	I-LOC
+North	I-LOC
+Carolina	I-LOC
+)	I-LOC
+
+Klenie	B-PER
+'	I-PER
+''	I-PER
+Bimolt	I-PER
+''	I-PER
+'	I-PER
+-	O
+
+Les	B-ORG
+Plus	I-ORG
+Beaux	I-ORG
+Villages	I-ORG
+de	I-ORG
+Wallonie	I-ORG
+
+Terwijl	O
+niet	O
+alle	O
+36	O
+ontwerpen	O
+zijn	O
+gebouwd	O
+zijn	O
+de	O
+meeste	O
+gebouwd	O
+in	O
+de	O
+omgeving	O
+van	O
+Los	B-LOC
+Angeles	I-LOC
+;	O
+enkelen	O
+kunnen	O
+teruggevonden	O
+worden	O
+in	O
+de	O
+San	B-LOC
+Francisco	I-LOC
+Bay	I-LOC
+Area	I-LOC
+en	O
+één	O
+werd	O
+gebouwd	O
+in	O
+Phoenix	B-LOC
+)	I-LOC
+.	O
+
+Ook	O
+trad	O
+hij	O
+op	O
+in	O
+toneelstukken	O
+van	O
+William	B-PER
+Shakespeare	I-PER
+onder	O
+regie	O
+van	O
+Kenneth	B-PER
+Branagh	I-PER
+.	O
+
+Keeping	B-ORG
+Up	I-ORG
+with	I-ORG
+the	I-ORG
+Kardashians	I-ORG
+
+Günter	B-PER
+Netzer	I-PER
+(	O
+1973–1976	O
+)	O
+
+'	O
+''	O
+Annette	B-PER
+Gerritsen	I-PER
+''	O
+'	O
+
+'	O
+''	O
+VV	B-ORG
+Berkum	I-ORG
+''	O
+'	O

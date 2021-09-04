@@ -1,0 +1,39 @@
+नेशनल	B-ORG
+असोसियेशन	I-ORG
+फॉर	I-ORG
+दि	I-ORG
+एडवान्स्मेन्ट	I-ORG
+ऑफ	I-ORG
+कलर्ड	I-ORG
+पीपल	I-ORG
+
+जिन	B-LOC
+राजवंश	I-LOC
+(	I-LOC
+१११५–१२३४	I-LOC
+)	I-LOC
+
+रिचर्ड	B-PER
+मिल्हौस	I-PER
+निक्सन	I-PER
+
+हिमानी	B-PER
+शिवपुरी	I-PER
+-	O
+पुलिस	O
+इंस्पेक्टर	O
+
+यशवन्त	B-ORG
+सिंह	I-ORG
+परमार	I-ORG
+औद्यानिकी	I-ORG
+एवं	I-ORG
+वानिकी	I-ORG
+विश्वविद्यालय	I-ORG
+,	O
+सोलन	B-LOC
+
+अनुप्रेषित	O
+न्येनचेन	B-LOC
+थंगल्हा	I-LOC
+पर्वत	I-LOC

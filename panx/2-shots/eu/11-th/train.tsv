@@ -1,0 +1,64 @@
+BIRZUZENDU	O
+Andre	B-ORG
+Maria	I-ORG
+erreginaren	I-ORG
+eliza	I-ORG
+(	I-ORG
+Zangoza	I-ORG
+)	I-ORG
+
+Ain	B-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+20px]]	O
+'	O
+''	O
+Eskozia	B-LOC
+''	O
+'	O
+
+BIRZUZENDU	O
+Elisabet	B-PER
+II.a	I-PER
+Erresuma	I-PER
+Batukoa	I-PER
+
+Reggio	B-LOC
+di	I-LOC
+Calabriako	I-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Calabria	B-LOC
+eskualdean	O
+.	O
+
+Club	B-ORG
+Atlético	I-ORG
+Peñarol	I-ORG
+eta	O
+Nacional	B-ORG
+de	I-ORG
+Montevideo	I-ORG
+dira	O
+dominatzaile	O
+nagusiak	O
+.	O
+
+Bi	O
+urte	O
+geroago	O
+,	O
+Eszipion	B-PER
+Afrikarrak	I-PER
+udaleko	O
+eta	O
+hiritar	O
+pribiliegioak	O
+eman	O
+zizkion	O
+hiriari	O
+.	O

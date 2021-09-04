@@ -1,0 +1,40 @@
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Premier	B-ORG
+ministre	I-ORG
+du	I-ORG
+Danemark	I-ORG
+
+3	O
+victoire	O
+pour	O
+Keke	B-PER
+Rosberg	I-PER
+.	O
+
+'	O
+''	O
+District	B-LOC
+de	I-LOC
+Lattaquié	I-LOC
+''	O
+'	O
+
+Il	O
+entre	O
+à	O
+Académie	B-ORG
+militaire	I-ORG
+Peekskill	I-ORG
+dans	O
+État	B-LOC
+de	I-LOC
+New	I-LOC
+York	I-LOC
+.	O

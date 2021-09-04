@@ -1,0 +1,43 @@
+DOORVERWIJZING	O
+Schleid	B-LOC
+(	I-LOC
+Rijnland-Palts	I-LOC
+)	I-LOC
+
+Eurythmics	B-ORG
+en	O
+Simply	B-ORG
+Red	I-ORG
+)	O
+ingeschakeld	O
+.	O
+
+Graaf	B-PER
+d’Erlon	I-PER
+viel	O
+de	O
+linkerflank	O
+van	O
+het	O
+geallieerde	O
+leger	O
+aan	O
+.	O
+
+Ali	B-PER
+Saibou	I-PER
+–	O
+Nationale	B-ORG
+Beweging	I-ORG
+voor	I-ORG
+de	I-ORG
+Ontwikkeling	I-ORG
+van	I-ORG
+de	I-ORG
+Maatschappij	I-ORG
+
+El	B-LOC
+Dorado	I-LOC
+(	I-LOC
+goudland	I-LOC
+)	I-LOC

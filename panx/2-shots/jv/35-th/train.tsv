@@ -1,0 +1,36 @@
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+Louis	B-PER
+Armstrong	I-PER
+,	O
+(	O
+1901-1971	O
+)	O
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

@@ -1,0 +1,36 @@
+شاہ	B-LOC
+جاد	I-LOC
+پور	I-LOC
+ذیلی	I-LOC
+ضلع	I-LOC
+
+بلند	B-PER
+ایجوت	I-PER
+(	O
+1925–2006	O
+)	O
+
+رجوع_مکرر	O
+ڈیکاٹور	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+رجوع_مکرر	O
+مہر	B-ORG
+ماہ	I-ORG
+سلطان	I-ORG
+مسجد	I-ORG
+(	I-ORG
+ادرنہ	I-ORG
+کاپی	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+آدم	B-PER
+علیہ	I-PER
+السلام	I-PER
+
+جمعیت	B-ORG
+اتحاد	I-ORG
+و	I-ORG
+ترقی	I-ORG

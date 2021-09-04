@@ -1,0 +1,55 @@
+Vanantaa	O
+tarkoittaa	O
+nykykielellä	O
+``	O
+Vanajan	B-LOC
+takainen	I-LOC
+''	O
+.	O
+
+OHJAUS	O
+Galați	B-LOC
+(	I-LOC
+piirikunta	I-LOC
+)	I-LOC
+
+Paul	B-PER
+Pierce	I-PER
+(	O
+3	O
+)	O
+
+'	O
+''	O
+Club	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Football	I-ORG
+''	O
+'	O
+
+Venäläis-amerikkalainen	B-ORG
+kauppakomppanian	I-ORG
+palveluksessa	O
+Alaskassa	B-LOC
+hän	O
+oli	O
+1839-1846	O
+,	O
+tehden	O
+oman	O
+aluksensa	O
+päällikönä	O
+laajoja	O
+purjehdusmatkoja	O
+.	O
+
+José	B-PER
+María	I-PER
+Montes	I-PER
+
+'	O
+''	O
+Hailuoto	B-LOC
+''	O
+'	O

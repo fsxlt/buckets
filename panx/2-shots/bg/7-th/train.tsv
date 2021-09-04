@@ -1,0 +1,53 @@
+виж	O
+Армия	B-ORG
+на	I-ORG
+Република	I-ORG
+Македония	I-ORG
+
+Неин	O
+настоящ	O
+председател	O
+е	O
+Фатмир	B-PER
+Медиу	I-PER
+.	O
+
+Влива	O
+се	O
+в	O
+Берингово	B-LOC
+море	I-LOC
+.	O
+
+**	O
+Маркус	B-PER
+Бабел	I-PER
+(	O
+р	O
+.	O
+
+Паго	B-LOC
+дел	I-LOC
+Вало	I-LOC
+ди	I-LOC
+Лауро	I-LOC
+
+Към	O
+''Love	O
+Struck	O
+Baby	O
+''	O
+е	O
+направен	O
+видеоклип	O
+,	O
+който	O
+влиза	O
+редовно	O
+в	O
+програмата	O
+на	O
+Ем	B-ORG
+Ти	I-ORG
+Ви	I-ORG
+.	O

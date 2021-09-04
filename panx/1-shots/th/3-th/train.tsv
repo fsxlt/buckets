@@ -1,0 +1,37 @@
+เ	B-LOC
+ฉ	I-LOC
+ิ	I-LOC
+ง	I-LOC
+ต	I-LOC
+ู	I-LOC
+
+#	O
+ว	B-PER
+ร	I-PER
+เ	I-PER
+ว	B-PER
+ช	I-PER
+#	O
+ด	I-PER
+า	I-PER
+น	I-PER
+ุ	I-PER
+ว	B-PER
+ง	I-PER
+ศ	I-PER
+์	I-PER
+
+ฟ	B-ORG
+ุ	I-ORG
+ต	I-ORG
+บ	I-ORG
+อ	I-ORG
+ล	I-ORG
+โ	I-ORG
+ล	I-ORG
+ก	I-ORG
+#	O
+1	I-ORG
+9	I-ORG
+9	I-ORG
+4	I-ORG

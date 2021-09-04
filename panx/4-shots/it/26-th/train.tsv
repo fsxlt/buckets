@@ -1,0 +1,82 @@
+Patrick	B-ORG
+Rafter	I-ORG
+/	O
+Fernon	B-PER
+Wibier	I-PER
+''	O
+(	O
+Finale	O
+)	O
+
+Friðþjófs	B-LOC
+saga	I-LOC
+ins	I-LOC
+frækna	I-LOC
+
+06.04	O
+Cerro	B-ORG
+Porteño	I-ORG
+Asunción	B-LOC
+-	O
+Vasco	B-ORG
+da	I-ORG
+Gama	I-ORG
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+1:1	O
+
+Katie	B-PER
+Douglas	I-PER
+,	O
+Indiana	B-ORG
+Fever	I-ORG
+
+È	O
+conservato	O
+nel	O
+Wallraf-Richartz	B-ORG
+Museum	I-ORG
+di	O
+Colonia	B-LOC
+.	O
+
+'	O
+''	O
+Ruxandra	B-PER
+Dragomir	I-PER
+''	O
+'	O
+/	O
+'	O
+''	O
+Karina	B-PER
+Habšudová	I-PER
+(	O
+campionesse	O
+)	O
+
+20px	O
+U.S.	B-LOC
+Pompeiana	I-LOC
+,	I-LOC
+Pompei	I-LOC
+
+Quarti	O
+di	O
+finale	O
+-	O
+13	O
+dicembre	O
+Tokyo	B-LOC
+Metropolitan	I-LOC
+Gymnasium	I-LOC
+,	O
+Tokyo	B-LOC
+
+Giuseppe	B-PER
+Spataro	I-PER
+(	O
+DC	B-ORG
+)	O
+,	O

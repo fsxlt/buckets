@@ -1,0 +1,17 @@
+SEA	B-ORG
+Games	I-ORG
+2015	I-ORG
+,	O
+Singapura	B-LOC
+
+Lerik	B-LOC
+(	I-LOC
+rayon	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Mark	B-PER
+Webber	I-PER
+''	O
+'	O

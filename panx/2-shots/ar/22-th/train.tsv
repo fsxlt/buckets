@@ -1,0 +1,39 @@
+**	O
+ماريا	B-PER
+دي	I-PER
+فيوتا،	I-PER
+سائقة	O
+فورمولا	B-ORG
+1	I-ORG
+إسبانية	B-LOC
+.	O
+
+طلحة	B-PER
+بن	I-PER
+عبيد	I-PER
+الله	I-PER
+كذلك	O
+
+تحويل	O
+بريسيلي	B-ORG
+بيمبروكشير	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+مقاطعة	B-LOC
+غلوستر	I-LOC
+(	I-LOC
+نيو	I-LOC
+جيرسي	I-LOC
+)	I-LOC
+
+تحويل	O
+هاريسبيرغ	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC

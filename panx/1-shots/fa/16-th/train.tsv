@@ -1,0 +1,18 @@
+ماهی‌برقی	B-LOC
+طلایی	I-LOC
+--	O
+-Golden	O
+shiner	O
+
+تغییرمسیر	O
+امین‌الله	B-PER
+آندره	I-PER
+حسین	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG

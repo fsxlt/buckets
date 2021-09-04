@@ -1,0 +1,83 @@
+محافظه‌کاری	B-ORG
+در	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+ملک‌آباد	B-LOC
+(	I-LOC
+شهداد	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+شاه	B-PER
+کوآنگ	I-PER
+ژو	I-PER
+
+تغییرمسیر	O
+جی.	B-PER
+لی	I-PER
+تامپسون	I-PER
+
+تغییرمسیر	O
+انجمن	B-ORG
+پزشکی	I-ORG
+هسته‌ای	I-ORG
+و	I-ORG
+تصویربرداری	I-ORG
+مولکولی	I-ORG
+آمریکا	I-ORG
+
+حاجی‌کلا	B-LOC
+علیا،	I-LOC
+روستایی	O
+است	O
+از	O
+توابع	O
+بخش	B-LOC
+سرخ‌رود	I-LOC
+شهرستان	B-LOC
+محمودآباد	I-LOC
+در	O
+استان	B-LOC
+مازندران	I-LOC
+ایران	B-LOC
+.	O
+
+تغییرمسیر	O
+جومار	B-PER
+خوزه	I-PER
+دا	I-PER
+کوستا	I-PER
+جونیور	I-PER
+
+تغییرمسیر	O
+ملک‌آباد	B-LOC
+(	I-LOC
+قروه	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+دادگاه‌های	B-ORG
+نظامی	I-ORG
+در	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+نظریه	B-PER
+فمینیستی	I-PER
+سینما	I-PER
+
+تغییرمسیر	O
+باغ	B-ORG
+گیاه‌شناسی	I-ORG
+جیندای	I-ORG
+
+تغییرمسیر	O
+نیش	B-LOC
+(	I-LOC
+شهر	I-LOC
+)	I-LOC

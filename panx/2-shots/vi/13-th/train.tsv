@@ -1,0 +1,42 @@
+đổi	O
+Đuôi	B-LOC
+cụt	I-LOC
+Elegant	I-LOC
+
+Quyển	O
+2	O
+-	O
+Thái	B-PER
+Tổ	I-PER
+Đạo	I-PER
+Vũ	I-PER
+Đế	I-PER
+
+``	O
+What	B-ORG
+Goes	I-ORG
+Around	I-ORG
+...	I-ORG
+Comes	I-ORG
+Around	I-ORG
+''	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Aisne	I-LOC
+
+Paolo	B-PER
+Maldini	I-PER
+647	O
+(	O
+1984-2009	O
+)	O
+
+Đảng	B-ORG
+Công	I-ORG
+Minh	I-ORG
+(	O
+''Kōmeitō	O
+''	O
+)	O

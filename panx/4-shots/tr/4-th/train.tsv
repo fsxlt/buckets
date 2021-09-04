@@ -1,0 +1,123 @@
+**	O
+Enerji	B-ORG
+dönüşüm	I-ORG
+verimliliği	I-ORG
+,	O
+belirli	O
+bir	O
+enerji	O
+girdisine	O
+karşılık	O
+elde	O
+edilen	O
+enerji	O
+miktarı	O
+
+Kısa	O
+programda	O
+Sasha	B-PER
+Cohen	I-PER
+ve	O
+Sarah	B-PER
+Hughes'un	I-PER
+ardında	O
+üçüncü	O
+sırada	O
+yer	O
+alan	O
+patenci	O
+;	O
+serbest	O
+programda	O
+iyi	O
+bir	O
+performans	O
+sergiledi	O
+ve	O
+9	O
+hakemin	O
+8'inden	O
+birincilik	O
+yönünde	O
+değerlendirme	O
+aldı	O
+.	O
+
+YÖNLENDİRME	O
+Kızılcakoru	B-LOC
+,	I-LOC
+Vezirköprü	I-LOC
+
+'	O
+''	O
+Michel	B-PER
+Platini	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Nico	B-PER
+Rosberg	I-PER
+''	O
+'	O
+
+'	O
+''	O
+System	B-ORG
+of	I-ORG
+a	I-ORG
+Down	I-ORG
+''	O
+'	O
+
+Süper	B-ORG
+Lig	I-ORG
+ekiplerinden	O
+Sivasspor	B-ORG
+forması	O
+giymektedir	O
+.	O
+
+Love	B-ORG
+the	I-ORG
+Way	I-ORG
+You	I-ORG
+Lie	I-ORG
+/	O
+Eminem	B-PER
+featuring	O
+Rihanna	B-PER
+
+Çağdaş	O
+Koyukon	O
+yontucusu	O
+Kathleen	B-PER
+Carlo-Kendall	I-PER
+
+San	B-LOC
+Fernando	I-LOC
+del	I-LOC
+Valle	I-LOC
+de	I-LOC
+Catamarca	I-LOC
+
+22x20px	O
+Avrupa	B-LOC
+-	O
+450.000	O
+kopya	O
+
+YÖNLENDİRME	O
+Conceição	B-LOC
+(	I-LOC
+Ribeira	I-LOC
+Grande	I-LOC
+)	I-LOC
+
+YÖNLENDİRME	O
+1968-69	B-LOC
+Türkiye	I-LOC
+1.	I-LOC
+Futbol	I-LOC
+Ligi	I-LOC

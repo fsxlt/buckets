@@ -1,0 +1,37 @@
+'	O
+''	O
+Kamui	B-PER
+Kobayashi	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Manche	I-LOC
+
+Tengku	B-PER
+Azlan	I-PER
+Ibni	I-PER
+Sultan	I-PER
+Abu	I-PER
+Bakar	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Manche	I-LOC
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-23	I-ORG
+Laos	I-ORG
+
+**	O
+Morning	B-ORG
+Musume	I-ORG
+(	O
+2000-2007	O
+)	O

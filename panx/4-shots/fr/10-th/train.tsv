@@ -1,0 +1,100 @@
+'	O
+''	O
+Jens	B-PER
+Fiedler	I-PER
+''	O
+'	O
+
+Divitz-Spoldershagen	B-LOC
+(	O
+491	O
+)	O
+
+São	B-LOC
+Miguel	I-LOC
+do	I-LOC
+Guaporé	I-LOC
+
+Texas	B-ORG
+Tech	I-ORG
+(	O
+1956–1996	O
+)	O
+
+Il	O
+entame	O
+sa	O
+carrière	O
+d'acteur	O
+à	O
+Berlin	B-LOC
+.	O
+
+Bien	O
+que	O
+né	O
+en	O
+France	B-LOC
+,	O
+il	O
+est	O
+élevé	O
+à	O
+Jersey	B-LOC
+City	I-LOC
+,	O
+dans	O
+le	O
+New	B-LOC
+Jersey	I-LOC
+.	O
+
+Louis	B-PER
+de	I-PER
+Viel-Castel	I-PER
+
+Pierre	B-PER
+Braine	I-PER
+(	O
+K	B-ORG
+Beerschot	I-ORG
+VAC	I-ORG
+)	O
+
+Réseau	B-ORG
+universitaire	I-ORG
+international	I-ORG
+de	I-ORG
+Genève	I-ORG
+
+Principauté	B-LOC
+de	I-LOC
+Schwarzbourg-Sondershausen	I-LOC
+
+L'Apogée	B-ORG
+''	O
+-	O
+Sexion	B-ORG
+d'Assaut	I-ORG
+
+Le	O
+District	B-LOC
+de	I-LOC
+Suakoko	I-LOC
+
+'	O
+''	O
+Jim	B-PER
+Clark	I-PER
+''	O
+'	O
+
+On	O
+en	O
+connaît	O
+une	O
+centaine	O
+d'espèces	O
+en	O
+Europe	B-LOC
+.	O

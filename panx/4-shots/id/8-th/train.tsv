@@ -1,0 +1,82 @@
+ALIH	O
+Rossair	B-ORG
+(	I-ORG
+Australia	I-ORG
+)	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+Universitas	B-ORG
+Udayana	I-ORG
+,	O
+Denpasar	B-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loire	I-LOC
+
+Sergey	B-PER
+Brin	I-PER
+/	O
+Larry	B-PER
+Page	I-PER
+
+'	O
+''	O
+Nelson	B-PER
+Piquet	I-PER
+''	O
+'	O
+
+Sulawesi	B-LOC
+Tengah	I-LOC
+(	O
+17-06-2016	O
+)	O
+.	O
+
+Red	B-ORG
+Line	I-ORG
+ke	O
+Stasiun	B-ORG
+Bogor	I-ORG
+atau	O
+Stasiun	B-ORG
+Jakarta	I-ORG
+Kota	I-ORG
+
+Francis	B-PER
+Crick	I-PER
+(	O
+NYU-POLY	O
+)	O
+
+Tim	B-PER
+Tebow	I-PER
+,	O
+QB	O
+(	O
+2012-	O
+)	O
+
+ALIH	O
+Konsulat	B-ORG
+Jenderal	I-ORG
+Indonesia	I-ORG
+di	I-ORG
+Houston	I-ORG
+,	I-ORG
+Amerika	I-ORG
+Serikat	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardennes	I-LOC

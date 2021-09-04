@@ -1,0 +1,35 @@
+Ta	O
+on	O
+kuulunud	O
+Eesti	B-ORG
+Reformierakonda	I-ORG
+ja	O
+Erakonda	B-ORG
+Res	I-ORG
+Publica	I-ORG
+.	O
+
+Øystre	B-LOC
+Slidre	I-LOC
+vald	I-LOC
+(	O
+3137	O
+)	O
+
+Artur	B-PER
+Alliksaar	I-PER
+,	O
+(	O
+1923–1966	O
+)	O
+
+'	O
+''	O
+Ingolstadt	B-LOC
+''	O
+'	O
+,	O
+Saksamaa	B-LOC
+(	O
+Baieri	B-LOC
+)	O

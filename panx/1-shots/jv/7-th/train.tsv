@@ -1,0 +1,19 @@
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+Komite	B-PER
+Nasional	I-PER
+Keselamatan	I-PER
+Transportasi	I-PER
+(	O
+KNKT	O
+)	O
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC

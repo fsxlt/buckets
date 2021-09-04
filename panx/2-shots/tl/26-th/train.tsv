@@ -1,0 +1,32 @@
+Naic	B-ORG
+,	I-ORG
+Kabite	I-ORG
+
+'	O
+''	O
+Republikang	B-LOC
+Tseko	I-LOC
+''	O
+'	O
+
+Hudas	B-PER
+ang	I-PER
+Alagad	I-PER
+
+Tina	B-PER
+Monzon-Palma	I-PER
+(	O
+1986–1992	O
+)	O
+
+Record	B-ORG
+of	I-ORG
+Lodoss	I-ORG
+War	I-ORG
+
+Distritong	B-LOC
+Pambatas	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Quirino	I-LOC

@@ -1,0 +1,28 @@
+==	O
+Oricon	B-ORG
+dan	O
+Jumlah	O
+Jualan	O
+==	O
+
+'	O
+''	O
+Juan	B-PER
+Pablo	I-PER
+Montoya	I-PER
+''	O
+'	O
+
+Running	B-ORG
+Man	I-ORG
+-	O
+Episod	O
+116,117	O
+(	O
+2012	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Hautes-Alpes	I-LOC

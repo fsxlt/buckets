@@ -1,0 +1,19 @@
+The	B-ORG
+Big	I-ORG
+Bang	I-ORG
+Theory	I-ORG
+''	O
+
+'	O
+''	O
+Jean	B-PER
+Robic	I-PER
+''	O
+'	O
+
+Condado	B-LOC
+de	I-LOC
+Rusk	I-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC

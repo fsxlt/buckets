@@ -1,0 +1,56 @@
+Belgikako	B-ORG
+futbol	I-ORG
+selekzio	I-ORG
+nazionalarekin	I-ORG
+gol	O
+gehien	O
+sartutako	O
+pertsona	O
+izan	O
+da	O
+,	O
+30	O
+golekin	O
+81	O
+partidatan	O
+,	O
+modu	O
+horretan	O
+Bernard	B-PER
+Voorhoofen	I-PER
+marka	O
+berdinduz	O
+.	O
+
+``	O
+diot	O
+''	O
+George	B-PER
+Bernard	I-PER
+Shaw	I-PER
+''	O
+
+La	B-LOC
+Garde-Freinet	I-LOC
+(	O
+83063	O
+)	O
+
+Rüstempaşa	B-ORG
+meskita	I-ORG
+eraikitzen	O
+hasi	O
+zen	O
+Istanbulen	B-LOC
+,	O
+Sinan	B-PER
+arkitektoaren	O
+agindupean	O
+.	O
+
+Hughes	B-LOC
+konderria	I-LOC
+(	I-LOC
+Hego	I-LOC
+Dakota	I-LOC
+)	I-LOC

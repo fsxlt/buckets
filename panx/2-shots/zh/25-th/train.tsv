@@ -1,0 +1,42 @@
+#	O
+芝	B-ORG
+加	I-ORG
+哥	I-ORG
+小	I-ORG
+熊	I-ORG
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+塞	B-LOC
+維	I-LOC
+索	I-LOC
+
+重	O
+定	O
+向	O
+#	O
+科	B-LOC
+库	I-LOC
+螺	I-LOC
+总	I-LOC
+科	B-LOC
+
+美	B-ORG
+荷	I-ORG
+樓	I-ORG
+
+李	B-PER
+珉	I-PER
+宇	I-PER
+
+#	O
+林	B-PER
+立	I-PER
+迎	I-PER

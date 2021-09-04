@@ -1,0 +1,34 @@
+تغییرمسیر	O
+حسین	B-PER
+بن	I-PER
+علی	I-PER
+
+تغییرمسیر	O
+علی‌آباد	B-LOC
+(	I-LOC
+مهریز	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+کانی‌سفید	B-LOC
+(	I-LOC
+سقز	I-LOC
+)	I-LOC
+
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+برزیل	I-ORG
+
+تغییر_مسیر	O
+هنری	B-PER
+پنجم	I-PER
+(	I-PER
+انگلستان	I-PER
+)	I-PER
+
+تغییرمسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+اسپورتینگ	I-ORG
+پرتغال	I-ORG

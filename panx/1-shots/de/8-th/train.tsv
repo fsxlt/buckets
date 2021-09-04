@@ -1,0 +1,30 @@
+Zudem	O
+war	O
+sie	O
+bereits	O
+Vorband	O
+von	O
+Jools	B-PER
+Holland	I-PER
+,	O
+Journey	B-ORG
+,	O
+Johnny	B-PER
+Winter	I-PER
+und	O
+Robben	B-PER
+Ford	I-PER
+.	O
+
+Titelverteidiger	O
+des	O
+Pokalwettbewerbes	O
+war	O
+Atlético	B-ORG
+Bilbao	I-ORG
+.	O
+
+Nõmme	B-LOC
+(	I-LOC
+Ridala	I-LOC
+)	I-LOC

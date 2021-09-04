@@ -1,0 +1,68 @@
+رجوع_مکرر	O
+خلیفہ	B-PER
+بن	I-PER
+زائد	I-PER
+آل	I-PER
+نہیان	I-PER
+
+رجوع_مکرر	O
+گڈمین،	B-LOC
+مغربی	I-LOC
+ورجینیا	I-LOC
+
+رجوع_مکرر	O
+اے	B-ORG
+آر	I-ORG
+وائی	I-ORG
+نیوز	I-ORG
+
+جموں	B-LOC
+و	I-LOC
+کشمیر	I-LOC
+(	O
+administered	O
+)	O
+
+رجوع_مکرر	O
+فرنٹیئر	B-ORG
+کرائمز	I-ORG
+ریگولیشنز	I-ORG
+
+رجوع_مکرر	O
+پال	B-PER
+ڈی	I-PER
+کانسٹنٹ	I-PER
+
+رجوع_مکرر	O
+جیکسن	B-LOC
+ٹاؤنشپ،	I-LOC
+بونے	I-LOC
+کاؤنٹی،	I-LOC
+انڈیانا	I-LOC
+
+رجوع_مکرر	O
+ایوب	B-ORG
+علیہ	I-ORG
+السلام	I-ORG
+
+رجوع_مکرر	O
+گریوینا	B-LOC
+(	I-LOC
+علاقائی	I-LOC
+اکائی	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+رفیع	B-PER
+محمد	I-PER
+چوہدری	I-PER
+
+رجوع_مکرر	O
+سوانت	B-PER
+اوگست	I-PER
+آرنیوس	I-PER
+
+رجوع_مکرر	O
+امری	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG

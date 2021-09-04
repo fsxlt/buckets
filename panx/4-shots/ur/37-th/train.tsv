@@ -1,0 +1,65 @@
+رجوع_مکرر	O
+افغانستان	B-ORG
+میں	I-ORG
+سوویت	I-ORG
+جنگ	I-ORG
+
+رجوع_مکرر	O
+آغا	B-PER
+سعادت	I-PER
+علی	I-PER
+
+رجوع_مکرر	O
+مورڈن،	B-LOC
+مینی	I-LOC
+ٹوبا	I-LOC
+
+رجوع_مکرر	O
+وائٹ	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+کنگمین	I-LOC
+کاؤنٹی،	I-LOC
+کنساس	I-LOC
+
+وزیر	B-ORG
+اعلیٰ	I-ORG
+خیبر	I-ORG
+پختونخوا	I-ORG
+
+رجوع_مکرر	O
+سکاٹ	B-LOC
+کاؤنٹی،	I-LOC
+کنساس	I-LOC
+
+رجوع_مکرر	O
+ام	B-PER
+کلثوم	I-PER
+سلطان	I-PER
+
+رجوع_مکرر	O
+ویے	B-ORG
+دیل	I-ORG
+کاؤکا	I-ORG
+محکمہ	I-ORG
+
+رجوع_مکرر	O
+شوکت	B-PER
+اللہ	I-PER
+خان	I-PER
+
+رجوع_مکرر	O
+کشمور	B-ORG
+کالونی	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+سینٹ	B-LOC
+جارج،	I-LOC
+بارباڈوس	I-LOC
+
+جعفر	B-PER
+ابن	I-PER
+ابی	I-PER
+طالب	I-PER

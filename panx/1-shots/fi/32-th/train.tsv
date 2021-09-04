@@ -1,0 +1,21 @@
+OHJAUS	O
+I	B-ORG
+Can’t	I-ORG
+Stop	I-ORG
+Drinking	I-ORG
+About	I-ORG
+You	I-ORG
+
+Nykyinen	O
+puheenjohtaja	O
+on	O
+Hannu	B-PER
+Tihinen	I-PER
+.	O
+
+**	O
+Abu	B-LOC
+Dhabi	I-LOC
+(	O
+Suurlähetystö	O
+)	O

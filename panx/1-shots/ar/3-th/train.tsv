@@ -1,0 +1,16 @@
+ريال	B-ORG
+سوسيداد	I-ORG
+(	O
+P	O
+)	O
+
+تحويل	O
+غويلاوم	B-PER
+داه	I-PER
+زادي	I-PER
+
+تحويل	O
+ليدين	B-LOC
+(	I-LOC
+ماساتشوستس	I-LOC
+)	I-LOC

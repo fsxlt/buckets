@@ -1,0 +1,36 @@
+Vasili	B-PER
+I.aren	I-PER
+semea	O
+zen	O
+.	O
+
+Trajanok	B-PER
+konkistatu	O
+eta	O
+Arabia	B-LOC
+Petraea	I-LOC
+bilakatu	O
+
+Iruñeko	B-ORG
+eta	O
+Aragoiko	B-ORG
+erregea	I-ORG
+zen	O
+Alfontso	B-PER
+I.arekin	I-PER
+lotura	O
+estua	O
+izan	O
+zuen	O
+.	O
+
+Norwich	B-ORG
+City	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+Qiaokou	B-LOC
+Barrutia	I-LOC
+(	O
+硚口区	O
+)	O

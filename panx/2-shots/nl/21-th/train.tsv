@@ -1,0 +1,35 @@
+Abdij	B-LOC
+van	I-LOC
+Sint-Bertinus	I-LOC
+
+Iheremias	B-PER
+(	I-PER
+Jeremia	I-PER
+)	I-PER
+
+Hij	O
+speelt	O
+als	O
+aanvaller	O
+bij	O
+Real	B-ORG
+Murcia	I-ORG
+.	O
+
+'	O
+''	O
+Jean	B-PER
+Alesi	I-PER
+''	O
+'	O
+
+*Belgisch	O
+kampioen	O
+-	O
+Telenet	B-ORG
+Oostende	I-ORG
+
+Augsburg	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC

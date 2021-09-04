@@ -1,0 +1,48 @@
+Hierna	O
+studeerde	O
+hij	O
+aan	O
+de	O
+École	B-ORG
+des	I-ORG
+Beaux-Arts	I-ORG
+.	O
+
+Jeßnitz	B-LOC
+(	I-LOC
+Anhalt	I-LOC
+)	I-LOC
+
+Autonome	B-LOC
+regio	I-LOC
+'s	I-LOC
+van	I-LOC
+Spanje	I-LOC
+
+In	O
+het	O
+seizoen	O
+2007-2008	O
+onder	O
+de	O
+nieuwe	O
+coach	O
+Laurent	B-PER
+Blanc	I-PER
+wist	O
+hij	O
+zijn	O
+goede	O
+vorm	O
+te	O
+hervinden	O
+.	O
+
+Thilo	B-PER
+Leugers	I-PER
+werd	O
+verhuurd	O
+aan	O
+NAC	B-ORG
+Breda	I-ORG
+.	O

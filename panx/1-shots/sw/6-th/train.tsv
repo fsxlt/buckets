@@ -1,0 +1,30 @@
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Ghana	I-ORG
+
+The	O
+Holy	O
+See	O
+-	O
+The	O
+Holy	O
+Father—website	O
+for	O
+the	O
+past	O
+and	O
+present	O
+Holy	O
+Fathers	O
+(	O
+since	O
+Papa	B-PER
+Leo	I-PER
+XIII	I-PER
+)	O
+
+Toronto	B-LOC
+,	I-LOC
+Ontario	I-LOC

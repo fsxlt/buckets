@@ -1,0 +1,81 @@
+Torremocha	B-LOC
+de	I-LOC
+Jiloca	I-LOC
+
+Bolu	B-LOC
+(	I-LOC
+província	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Serena	B-PER
+Williams	I-PER
+[1]	O
+
+Live	B-ORG
+at	I-ORG
+Roseland	I-ORG
+:	I-ORG
+Elements	I-ORG
+of	I-ORG
+4	I-ORG
+''	O
+
+REDIRECIONAMENTO	O
+Revolution	B-ORG
+Is	I-ORG
+My	I-ORG
+Name	I-ORG
+
+20px]]	O
+Toronto	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+REDIRECIONAMENTO	O
+Touro	B-LOC
+(	I-LOC
+Galiza	I-LOC
+)	I-LOC
+
+``	O
+Man	B-ORG
+in	I-ORG
+the	I-ORG
+Mirror	I-ORG
+''	O
+
+Melhor	O
+Trio	O
+(	O
+com	O
+Paul	B-PER
+Wesley	I-PER
+e	O
+Ian	B-PER
+Somerhalder	I-PER
+)	O
+
+Bayburt	B-LOC
+(	I-LOC
+província	I-LOC
+)	I-LOC
+
+10	O
+-	O
+Filipe	B-PER
+III	I-PER
+de	I-PER
+Espanha	I-PER
+(	O
+1578-1621	O
+)	O
+
+'	O
+''	O
+André	B-PER
+Cusaco	I-PER
+''	O
+'	O

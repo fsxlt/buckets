@@ -1,0 +1,32 @@
+Chicago	B-LOC
+,	O
+Verenigde	B-LOC
+State	I-LOC
+.	O
+
+Genl.	B-PER
+De	I-PER
+la	I-PER
+Rey	I-PER
+neem	O
+189	O
+soldate	O
+van	O
+die	O
+''Scots	O
+Greys	O
+and	O
+Lincolns	O
+''	O
+gevange	O
+.	O
+
+Basel	B-LOC
+word	O
+deel	O
+van	O
+die	O
+Heilige	B-ORG
+Romeinse	I-ORG
+Ryk	I-ORG
+.	O

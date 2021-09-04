@@ -1,0 +1,36 @@
+Pieter	B-PER
+van	I-PER
+Musschenbroek	I-PER
+
+Bhalswa	B-LOC
+Jahangir	I-LOC
+Pur	I-LOC
+
+Arena	B-LOC
+do	I-LOC
+Grêmio	I-LOC
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brasil	B-LOC
+
+'	O
+''	O
+Mike	B-PER
+Di	I-PER
+Meglio	I-PER
+''	O
+'	O
+
+Jaguar	B-ORG
+(	I-ORG
+automóvel	I-ORG
+)	I-ORG
+
+Muse	B-ORG
+–	O
+``	O
+Panic	B-ORG
+Station	I-ORG
+''	O

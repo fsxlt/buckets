@@ -1,0 +1,42 @@
+*Dato	O
+'	O
+Mohamed	B-PER
+Khaled	I-PER
+Nordin	I-PER
+-	O
+Menteri	B-ORG
+Besar	I-ORG
+Johor	I-ORG
+sekarang	O
+
+Yang	B-PER
+di-Pertuan	I-PER
+Besar	I-PER
+Negeri	I-PER
+Sembilan	I-PER
+Tuanku	B-PER
+Muhriz	I-PER
+Tuanku	B-PER
+Munawir	I-PER
+
+Tentera	B-ORG
+Udara	I-ORG
+Venezuela	I-ORG
+pada	O
+asalnya	O
+akan	O
+memperoleh	O
+14x	O
+MB-339FD	O
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+LENCONG	O
+Burung	B-LOC
+Botak	I-LOC
+Leher	I-LOC
+Hitam	I-LOC

@@ -1,0 +1,36 @@
+Miturut	O
+Homeros	B-PER
+,	O
+Sisifos	O
+punika	O
+tiyang	O
+ingkang	O
+licik	O
+sanget	O
+.	O
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+1998	B-ORG
+-	O
+''ora	O
+lolos	O
+''	O
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC

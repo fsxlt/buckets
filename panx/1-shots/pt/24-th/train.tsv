@@ -1,0 +1,16 @@
+Thunder	B-LOC
+Bay	I-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+(	O
+3	O
+)	O
+Seattle	B-ORG
+Seahawks	I-ORG
+
+Luísa	B-PER
+Guilhermina	I-PER
+da	I-PER
+Baviera	I-PER

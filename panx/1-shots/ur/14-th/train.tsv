@@ -1,0 +1,23 @@
+محمد	B-PER
+بن	I-PER
+سلیمان	I-PER
+الجزولی	I-PER
+
+رجوع_مکرر	O
+ٹریگو	B-LOC
+کاؤنٹی،	I-LOC
+کنساس	I-LOC
+
+(	O
+born	O
+in	O
+الجزائر	B-LOC
+)	O
+
+رجوع_مکرر	O
+مملکت	B-ORG
+اسرائیل	I-ORG
+(	I-ORG
+متحدہ	I-ORG
+بادشاہت	I-ORG
+)	I-ORG

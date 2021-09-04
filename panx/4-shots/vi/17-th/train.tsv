@@ -1,0 +1,107 @@
+Hải	B-ORG
+quân	I-ORG
+Hoàng	I-ORG
+gia	I-ORG
+Anh	I-ORG
+
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Incheon	I-ORG
+Munhak	I-ORG
+,	O
+Incheon	B-LOC
+
+Moosburg	B-LOC
+an	I-LOC
+der	I-LOC
+Isar	I-LOC
+,	O
+Đức	B-LOC
+
+Nền	B-LOC
+văn	I-LOC
+minh	I-LOC
+Lưỡng	I-LOC
+Hà	I-LOC
+
+'	O
+''	O
+Thế	B-ORG
+giới	I-ORG
+''	O
+'	O
+''	O
+
+Les	B-LOC
+Hauts-de-Chée	I-LOC
+(	O
+55123	O
+)	O
+
+Ôn	B-PER
+Gia	I-PER
+Bảo	I-PER
+,	O
+Thủ	O
+tướng	O
+
+''	O
+'	O
+''	O
+'	O
+-	O
+'	O
+''	O
+Rosemarie	B-PER
+Frankland	I-PER
+''	O
+'	O
+''	O
+
+đổi	O
+Giải	B-ORG
+bóng	I-ORG
+đá	I-ORG
+vô	I-ORG
+địch	I-ORG
+thế	I-ORG
+giới	I-ORG
+1970	I-ORG
+
+Santa	B-LOC
+Cruz	I-LOC
+das	I-LOC
+Palmeiras	I-LOC
+,	O
+Casa	B-LOC
+Branca	I-LOC
+,	O
+Vargem	B-LOC
+Grande	I-LOC
+do	I-LOC
+Sul	I-LOC
+,	O
+São	B-LOC
+João	I-LOC
+da	I-LOC
+Boa	I-LOC
+Vista	I-LOC
+
+Thang	B-PER
+Duy	I-PER
+vai	O
+Yu	O
+,	O
+vợ	O
+của	O
+Liu	O
+Jinxi	O
+.	O
+
+đổi	O
+Valerianus	B-PER
+(	I-PER
+hoàng	I-PER
+đế	I-PER
+)	I-PER

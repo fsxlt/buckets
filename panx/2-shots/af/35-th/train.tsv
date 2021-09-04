@@ -1,0 +1,47 @@
+20px]]	O
+Rio	B-LOC
+Grande	I-LOC
+do	I-LOC
+Sul	I-LOC
+
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+
+Stephanus	B-PER
+Jacobus	I-PER
+du	I-PER
+Toit	I-PER
+
+Die	O
+Rugbywêreldbeker	B-ORG
+1995-eindstryd	I-ORG
+,	O
+waar	O
+die	O
+Springbokke	B-ORG
+geseëvier	O
+het	O
+,	O
+het	O
+hier	O
+plaasgevind	O
+.	O
+
+Ankara	B-LOC
+(	O
+AF	O
+)	O
+
+AANSTUUR	O
+Tongaanse	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+AANSTUUR	O
+Bosnië	B-LOC
+en	I-LOC
+Herzegowina	I-LOC

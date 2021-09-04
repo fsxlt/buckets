@@ -1,0 +1,59 @@
+Vanantaa	O
+tarkoittaa	O
+nykykielellä	O
+``	O
+Vanajan	B-LOC
+takainen	I-LOC
+''	O
+.	O
+
+Lajia	O
+esiintyy	O
+Meksikossa	B-LOC
+,	O
+Guatemalassa	B-LOC
+,	O
+Hondurasissa	B-LOC
+ja	O
+El	B-LOC
+Salvadorissa	I-LOC
+.	O
+
+As	B-ORG
+the	I-ORG
+World	I-ORG
+Turns	I-ORG
+''	O
+(	O
+1995–2001	O
+)	O
+
+Kitchener	B-LOC
+,	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+
+Singlellä	O
+vierailivat	O
+Wiz	B-PER
+Khalifa	I-PER
+ja	O
+Lily	B-PER
+Allen	I-PER
+.	O
+
+Paranoid	B-ORG
+''	O
+-albumin	O
+samanniminen	B-ORG
+kappale	I-ORG
+lienee	O
+yhtyeen	O
+tunnetuin	O
+.	O
+
+Larry	B-PER
+Williams	I-PER
+–	O
+puhaltimet	O

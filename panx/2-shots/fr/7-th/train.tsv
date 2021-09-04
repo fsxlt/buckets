@@ -1,0 +1,35 @@
+Meuse]]	O
+-	O
+Canal	B-LOC
+Albert	I-LOC
+''	O
+
+'	O
+''	O
+Ola	B-PER
+Vigen	I-PER
+Hattestad	I-PER
+''	O
+'	O
+
+«	O
+Never	B-ORG
+Loved	I-ORG
+a	I-ORG
+Girl	I-ORG
+»	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Manche	I-LOC
+
+Glen	B-PER
+Hanlon	I-PER
+(	O
+Pirates	B-ORG
+de	I-ORG
+Portland	I-ORG
+)	O

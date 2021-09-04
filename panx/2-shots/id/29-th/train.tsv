@@ -1,0 +1,44 @@
+ALIH	O
+Jaguar	B-ORG
+(	I-ORG
+perusahaan	I-ORG
+otomotif	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[14]	O
+''	O
+'	O
+
+Terakhir	O
+ia	O
+bermain	O
+untuk	O
+Bolton	B-ORG
+Wanderers	I-ORG
+dan	O
+pernah	O
+pula	O
+bermain	O
+untuk	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Savoie	I-LOC
+
+Sa'ad	B-PER
+bin	I-PER
+Abi	I-PER
+Waqqas	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Dordogne	I-LOC

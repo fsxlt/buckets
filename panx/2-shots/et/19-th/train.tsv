@@ -1,0 +1,46 @@
+Arnold	B-PER
+Susi	I-PER
+18.09.1944	O
+–	O
+12.01.1953	O
+
+Joe	B-PER
+Wright	I-PER
+,	O
+inglise	O
+filmirežissöör	O
+(	O
+1972–	O
+)	O
+
+Ta	O
+on	O
+moodustatud	O
+Somaalia	B-LOC
+Bari	B-LOC
+ringkonna	I-LOC
+põhjaosast	O
+.	O
+
+''	O
+Eesti	B-ORG
+Ekspress	I-ORG
+,	O
+nr	O
+.	O
+
+Samasugune	O
+hoone	O
+ehitati	O
+samal	O
+ajal	O
+ka	O
+Lilleküla	B-ORG
+peatusse	I-ORG
+.	O
+
+Gilpini	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O

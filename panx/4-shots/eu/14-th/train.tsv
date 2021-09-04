@@ -1,0 +1,104 @@
+Egun	O
+,	O
+Nafarroako	B-ORG
+Parlamentuko	I-ORG
+kidea	O
+da	O
+.	O
+
+Leccoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Kirchgellersen	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+BIRZUZENDU	O
+Martin	B-ORG
+John	I-ORG
+Rees	I-ORG
+
+Zinedine	B-PER
+Zidane	I-PER
+(	O
+Juventus	B-ORG
+FC	I-ORG
+)	O
+'	O
+''	O
+63	O
+''	O
+'	O
+
+**	O
+Olaizola	B-PER
+II.a	I-PER
+(	O
+1	O
+/	O
+4	O
+)	O
+
+Berna	B-LOC
+kantonamenduan	I-LOC
+dago	O
+,	O
+barrutian	O
+.	O
+
+BIRZUZENDU	O
+Shanghaiko	B-ORG
+Elkarlan	I-ORG
+Erakundea	I-ORG
+
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Ipar]]	O
+eta	O
+Erdialdeko	B-LOC
+Amerika	I-LOC
+)	O
+
+Claude	B-PER
+Debussy	I-PER
+(	O
+1862-1918	O
+)	O
+,	O
+konposatzailea	O
+.	O
+
+'	O
+''	O
+Cadel	B-PER
+Evans	I-PER
+''	O
+'	O
+
+Vespasiano69	B-PER
+-	O
+79.Guardien	O
+kopurua	O
+murriztu	O
+zuen	O

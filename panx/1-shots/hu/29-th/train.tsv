@@ -1,0 +1,46 @@
+Európában	B-LOC
+és	O
+Ázsia	B-LOC
+keleti	O
+részén	O
+él	O
+.	O
+
+A	O
+versenyen	O
+Giedo	B-PER
+van	I-PER
+der	I-PER
+Garde	I-PER
+tartotta	O
+fel	O
+lekörözés	O
+közben	O
+,	O
+majd	O
+nem	O
+sokkal	O
+később	O
+ütközés	O
+következtében	O
+kiesett	O
+a	O
+versenyből	O
+.	O
+
+Yu-Gi-Oh	B-ORG
+!	I-ORG
+Duel	I-ORG
+Monsters	I-ORG
+''	O
+
+A	O
+Szombathelyi	B-LOC
+egyházmegye	I-LOC
+megalakulásával	O
+a	O
+települést	O
+is	O
+leválasztották	O
+Veszprémtől	B-LOC
+.	O

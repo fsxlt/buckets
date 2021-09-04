@@ -1,0 +1,42 @@
+''	O
+Uganda	B-LOC
+''	O
+'	O
+
+Benki	B-ORG
+ya	I-ORG
+Kenya	I-ORG
+Commercial	I-ORG
+Bank	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Murang'a	I-LOC
+
+Shirika	B-ORG
+la	I-ORG
+Huduma	I-ORG
+kwa	I-ORG
+Wanyama	I-ORG
+Pori	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+David	B-PER
+Ben	I-PER
+Gurion	I-PER
+
+Salisbury	B-LOC
+,	I-LOC
+Nassau	I-LOC
+County	I-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Bruce	B-PER
+Willis	I-PER
+kacheza	O
+kama	O
+Dk	O
+.	O

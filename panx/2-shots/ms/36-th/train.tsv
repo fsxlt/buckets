@@ -1,0 +1,37 @@
+LENCONG	O
+Anjing	B-ORG
+air	I-ORG
+St.	I-ORG
+John	I-ORG
+'s	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Somme	I-LOC
+
+Chien	B-PER
+Yu	I-PER
+Chin	I-PER
+/	O
+Cheng	B-PER
+Wen-Hsing	I-PER
+
+LENCONG	O
+Yar	B-LOC
+Ali	I-LOC
+,	I-LOC
+Azerbaijan	I-LOC
+Barat	I-LOC
+
+Persatuan	B-ORG
+Bolasepak	I-ORG
+Polis	I-ORG
+Di	I-ORG
+Raja	I-ORG
+Malaysia²	I-ORG
+
+'	O
+''	O
+Peter	B-PER
+Nicol	I-PER

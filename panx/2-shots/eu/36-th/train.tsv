@@ -1,0 +1,53 @@
+Administratiboki	O
+Frantziako	B-LOC
+Alpe	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Ain	B-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Espainiako	B-ORG
+futbol	I-ORG
+ligako	I-ORG
+lehen	I-ORG
+maila	I-ORG
+
+Gaur	O
+egun	O
+,	O
+Nazioarteko	B-ORG
+Txirrindularitza	I-ORG
+Batasuneko	I-ORG
+direktibako	O
+kide	O
+da	O
+.	O
+
+Tiger	B-PER
+Woods	I-PER
+(	O
+2	O
+)	O
+
+Azken	O
+horretan	O
+,	O
+Sylvester	B-PER
+Stallonek	I-PER
+,	O
+Michael	B-PER
+Cainek	I-PER
+eta	O
+Pelék	B-PER
+antzezten	O
+dute	O
+.	O

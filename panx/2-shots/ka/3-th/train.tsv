@@ -1,0 +1,34 @@
+მდებარეობს	O
+არაგაწოტნის	B-LOC
+პროვინციაში	I-LOC
+,	O
+სოფელ	O
+გარნაჰოვიტის	B-LOC
+ცენტრში	O
+.	O
+
+ჰოლკონდის	B-ORG
+სასულთნოს	I-ORG
+პირველი	O
+მმართველი	O
+.	O
+
+ბრიტნი	B-PER
+სპირსი	I-PER
+-	O
+...	B-ORG
+Baby	I-ORG
+One	I-ORG
+More	I-ORG
+Time	I-ORG
+''	O
+
+შედის	O
+ნიანზის	B-LOC
+პროვინციის	I-LOC
+შემადგენლობაში	O
+.	O
+
+ალფონსო	B-PER
+II	I-PER
+დ’ესტე	I-PER

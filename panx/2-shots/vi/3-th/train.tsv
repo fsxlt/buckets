@@ -1,0 +1,35 @@
+Xa	B-ORG
+lộ	I-ORG
+Liên	I-ORG
+tiểu	I-ORG
+bang	I-ORG
+12	I-ORG
+tại	O
+Hammond	B-LOC
+,	I-LOC
+Louisiana	I-LOC
+
+đổi	O
+Tê	B-ORG
+giác	I-ORG
+trắng	I-ORG
+phương	I-ORG
+Nam	I-ORG
+
+TCP	B-PER
+/	I-PER
+IP	I-PER
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+Dactylastele	B-LOC
+burnupi	I-LOC
+''	O
+(	O
+E.A	O
+.	O

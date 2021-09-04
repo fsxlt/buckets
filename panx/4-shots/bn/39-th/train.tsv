@@ -1,0 +1,66 @@
+*৬৮৩-৬৯৩	O
+–	O
+আবদুল্লাহ	B-PER
+ইবনুল	I-PER
+জুবায়েরের	I-PER
+অন্তর্বর্তী	O
+শাসন	O
+
+এম.	B-LOC
+চিন্নাস্বামী	I-LOC
+স্টেডিয়াম	I-LOC
+
+**	O
+বন্য-ঝুটিওয়ালা	B-LOC
+ধনেশ	I-LOC
+''Anorrhinus	O
+galeritus	O
+''	O
+
+আবাহনী	B-ORG
+ক্রীড়া	I-ORG
+চক্র	I-ORG
+৩-২	O
+মোহামেডান	B-ORG
+স্পোর্টিং	I-ORG
+ক্লাব	I-ORG
+
+সৈয়দ	B-PER
+আহমদ	I-PER
+খান	I-PER
+
+সন্দেশ	B-ORG
+(	I-ORG
+বাংলা	I-ORG
+পত্রিকা	I-ORG
+)	I-ORG
+
+অ্যাস্টন	B-ORG
+ভিলা	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+ভোল্‌ফগাংক্‌	B-PER
+আমাডেয়ুস	I-PER
+মোৎসার্ট	I-PER
+
+সিংহলীজ	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+গ্রাউন্ড	I-LOC
+
+ডেভিড	B-PER
+দে	I-PER
+গিয়া	I-PER
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+হারারে	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+,	O
+হারারে	B-LOC

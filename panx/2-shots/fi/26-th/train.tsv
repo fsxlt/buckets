@@ -1,0 +1,35 @@
+Syyskuussa	O
+2008	O
+hän	O
+siirtyi	O
+Cedomir	B-PER
+Janevskin	I-PER
+apuvalmentajaksi	O
+Belgradin	B-ORG
+Punaiseen	I-ORG
+tähteen	I-ORG
+.	O
+
+'	O
+''	O
+Rio	B-LOC
+Maior	I-LOC
+''	O
+'	O
+
+Levyt	O
+julkaisi	O
+Sanctuary	B-ORG
+Records	I-ORG
+.	O
+
+****	O
+''	O
+Tamias	B-LOC
+dorsalis	I-LOC
+''	O
+
+Taylor	B-PER
+Hawkins	I-PER
+–	O
+rummut	O

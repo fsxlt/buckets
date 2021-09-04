@@ -1,0 +1,22 @@
+Wilaya	B-ORG
+ya	I-ORG
+Mankono	I-ORG
+
+Telšiai	B-LOC
+(	I-LOC
+DM	I-LOC
+)	I-LOC
+
+Yosefu	B-PER
+(	I-PER
+mume	I-PER
+wa	I-PER
+Maria	I-PER
+)	I-PER
+
+Eneo	O
+lake	O
+ni	O
+43.0	O
+km²	B-ORG
+.	O

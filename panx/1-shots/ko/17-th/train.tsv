@@ -1,0 +1,23 @@
+중국공산당	B-ORG
+중앙서기처	I-ORG
+중국공산당	B-ORG
+중앙당교	I-ORG
+교장	O
+
+사와	B-LOC
+군	I-LOC
+(	O
+)	O
+
+한때	O
+50	B-PER
+센트를	I-PER
+디스했으며	O
+,	O
+자	B-PER
+룰에	I-PER
+곡	O
+'Holla	O
+Holla'에	O
+참여했다	O
+.	O

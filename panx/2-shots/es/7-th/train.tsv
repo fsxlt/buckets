@@ -1,0 +1,36 @@
+'	O
+''	O
+Marion	B-PER
+Bartoli	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Vicariato	B-LOC
+apostólico	I-LOC
+de	I-LOC
+Aysén	I-LOC
+
+REDIRECCIÓN	O
+Aída	B-ORG
+(	I-ORG
+serie	I-ORG
+de	I-ORG
+televisión	I-ORG
+)	I-ORG
+
+Commodity	B-ORG
+Futures	I-ORG
+Trading	I-ORG
+Commission	I-ORG
+
+REDIRECCIÓN	O
+Andrew	B-PER
+James	I-PER
+Henderson	I-PER
+
+Monte	B-LOC
+Ida	I-LOC
+(	I-LOC
+Turquía	I-LOC
+)	I-LOC

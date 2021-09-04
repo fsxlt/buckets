@@ -1,0 +1,45 @@
+Sen	O
+pääkaupunki	O
+on	O
+Forst	B-LOC
+(	I-LOC
+Lausitz	I-LOC
+)	I-LOC
+.	O
+
+Teini-ikäiset	B-ORG
+mutanttininjakilpikonnat	I-ORG
+(	O
+''2012–	O
+''	O
+)	O
+–	O
+Baxter	B-PER
+Stockman	I-PER
+
+20px]]	O
+'	O
+''	O
+Eddie	B-PER
+Irvine	I-PER
+''	O
+'	O
+
+Albumi	O
+kipusi	O
+Billboard	B-LOC
+200	I-LOC
+-listan	O
+ensimmäiseksi	O
+myyden	O
+185	O
+000	O
+kappaletta	O
+ensimmäisellä	O
+viikollaan	O
+.	O
+
+Fédération	B-ORG
+Internationale	I-ORG
+de	I-ORG
+Volleyball	I-ORG

@@ -1,0 +1,79 @@
+تحويل	O
+أمازون	B-ORG
+إي	I-ORG
+سي	I-ORG
+2	I-ORG
+
+وهو	O
+أول	O
+رئيس	O
+قبرص	B-LOC
+الشمالية	I-LOC
+.	O
+
+تحويل	O
+دنخا	B-PER
+الرابع	I-PER
+خننيا	I-PER
+
+علّم	O
+السلطان	O
+مصطفى	B-PER
+الثاني	I-PER
+والسلطان	O
+أحمد	B-PER
+الثالث	I-PER
+فنال	O
+حظوه	O
+.	O
+
+تحويل	O
+بلدة	B-LOC
+برادي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ساجينو	I-LOC
+)	I-LOC
+
+كأس	B-ORG
+العالم	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+1994	I-ORG
+
+'	O
+''	O
+هشام	B-PER
+الكروج	I-PER
+''	O
+'	O
+
+تحويل	O
+بروكتون	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+أوتسيغو	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+تصنيف	B-ORG
+إيلو	I-ORG
+العالمي	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+ولادة	B-PER
+بنت	I-PER
+المستكفي	I-PER
+
+لندن	B-ORG
+ريفيو	I-ORG
+أوف	I-ORG
+بوكس	I-ORG

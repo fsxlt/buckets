@@ -1,0 +1,85 @@
+Su	O
+presidente	O
+es	O
+Bernd	B-PER
+Lucke	I-PER
+.	O
+
+REDIRECCIÓN	O
+Provincia	B-LOC
+de	I-LOC
+Xiangkhoang	I-LOC
+
+**	O
+Diócesis	B-LOC
+de	I-LOC
+Little	I-LOC
+Rock	I-LOC
+
+Ha	O
+sido	O
+construido	O
+por	O
+Fincantieri	B-ORG
+,	O
+en	O
+Monfalcone	B-LOC
+,	O
+Italia	B-LOC
+.	O
+
+Copa	B-ORG
+Mundial	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+de	I-ORG
+1986	I-ORG
+
+Nat	B-ORG
+Geo	I-ORG
+Music	I-ORG
+.	O
+
+'	O
+''	O
+Robert	B-PER
+Millar	I-PER
+''	O
+'	O
+
+Niniano	B-PER
+de	I-PER
+Galloway	I-PER
+
+REDIRECCIÓN	O
+Mohammad	B-PER
+Sabah	I-PER
+al-Salem	I-PER
+al-Sabah	I-PER
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Saylla	I-LOC
+
+REDIRECCIÓN	O
+STAR	B-ORG
+,	I-ORG
+Bonifacio	I-ORG
+Echeverría	I-ORG
+S.A	I-ORG
+.	I-ORG
+
+REDIRECCIÓN	O
+Indianapolis	B-ORG
+Raceway	I-ORG
+Park	I-ORG
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O

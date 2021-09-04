@@ -1,0 +1,41 @@
+تغییرمسیر	O
+سخنرانی	B-ORG
+وضعیت	I-ORG
+کشور	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+کاتر	B-LOC
+(	I-LOC
+آرکانزاس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+لیگ	B-ORG
+قهرمانان	I-ORG
+آسیا	I-ORG
+۲۰۰۹	I-ORG
+
+تغییرمسیر	O
+چارلز	B-PER
+دبلیو.	I-PER
+واترمن	I-PER
+
+آغاز	O
+سلطنت	O
+سعید	B-PER
+بن	I-PER
+سلطان	I-PER
+بن	I-PER
+احمد	I-PER
+بر	O
+کشور	O
+عمان	B-LOC
+.	O
+
+تغییرمسیر	O
+شهرک	B-LOC
+وحدت	I-LOC
+(	I-LOC
+سنندج	I-LOC
+)	I-LOC

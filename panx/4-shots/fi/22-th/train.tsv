@@ -1,0 +1,118 @@
+Elokuvan	O
+ohjasi	O
+Jean-Jacques	B-PER
+Annaud	I-PER
+.	O
+
+Tikkurila	B-ORG
+Oyj	I-ORG
+,	O
+maalien	O
+valmistus	O
+ja	O
+jakelu	O
+
+Belyin	B-LOC
+piiri	I-LOC
+(	O
+Belyi	B-LOC
+)	O
+
+Nykyään	O
+Suomessa	O
+hyppytoimintaa	O
+harjoitetaan	O
+myös	O
+kaupallisesti	O
+Helsingin	B-LOC
+Malmilla	B-LOC
+.	O
+
+Monet	O
+samankaltaisuudet	O
+Vanhan	B-LOC
+Uppsalan	I-LOC
+kuningaskumpujen	O
+kanssa	O
+viittaavat	O
+myös	O
+samanaikaisuuteen	O
+.	O
+
+Jonathan	B-PER
+Bennett	I-PER
+(	I-PER
+näyttelijä	I-PER
+)	I-PER
+
+Vaanin	O
+sua	O
+(	O
+Hei	B-ORG
+soturit	I-ORG
+''	O
+)	O
+
+Perhe	O
+muutti	O
+kuitenkin	O
+varhain	O
+Rio	B-LOC
+de	I-LOC
+Janeiroon	I-LOC
+,	O
+jossa	O
+hän	O
+varttui	O
+.	O
+
+Se	O
+herätti	O
+suurta	O
+epäilystä	O
+NYSACin	O
+puhemiehessä	O
+Eddie	B-PER
+Eaganissa	I-PER
+,	O
+joka	O
+kävi	O
+varoittamassa	O
+ennen	O
+ottelua	O
+molempia	O
+ottelijoita	O
+.	O
+
+Ainoan	O
+MM-pisteen	O
+tallille	O
+toi	O
+Chris	B-PER
+Amon	I-PER
+Belgian	B-ORG
+GP	I-ORG
+:	I-ORG
+sta	I-ORG
+1973	I-ORG
+.	O
+
+Notre	B-ORG
+Damen	I-ORG
+yliopisto	I-ORG
+
+He	O
+johtivat	O
+myös	O
+kapinaa	O
+Treblinkassa	B-LOC
+ja	O
+Auschwitzissa	B-ORG
+.	O
+
+Dieppe	B-LOC
+,	O
+New	B-LOC
+Brunswick	I-LOC
+,	O
+Kanada	B-LOC

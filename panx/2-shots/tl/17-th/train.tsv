@@ -1,0 +1,51 @@
+San	B-LOC
+Francisco	I-LOC
+,	I-LOC
+Agusan	I-LOC
+del	I-LOC
+Sur	I-LOC
+
+Nang	O
+bumagsak	O
+ang	O
+Bataan	B-LOC
+noong	O
+1942	O
+,	O
+napiit	O
+siya	O
+sa	O
+Capas	B-LOC
+,	I-LOC
+Tarlac	I-LOC
+.	O
+
+Martin	B-PER
+del	I-PER
+Rosario	I-PER
+bilang	O
+Bagno	O
+
+Pamantasang	B-ORG
+De	I-ORG
+La	I-ORG
+Salle	I-ORG
+Maynila	I-ORG
+
+'	O
+''	O
+Arturo	B-PER
+Tolentino	I-PER
+''	O
+'	O
+
+Nag-aral	O
+siya	O
+sa	O
+Colegio	B-ORG
+de	I-ORG
+San	I-ORG
+Juan	I-ORG
+de	I-ORG
+Letran	I-ORG
+.	O

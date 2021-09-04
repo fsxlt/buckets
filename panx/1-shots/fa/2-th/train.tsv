@@ -1,0 +1,17 @@
+نیروی	B-ORG
+هوایی	I-ORG
+ارتش	I-ORG
+جمهوری	I-ORG
+اسلامی	I-ORG
+ایران	I-ORG
+
+تغییرمسیر	O
+بطلمیوس	B-PER
+یکم	I-PER
+سوتر	I-PER
+
+تغییرمسیر	O
+داربست	B-LOC
+(	I-LOC
+بستک	I-LOC
+)	I-LOC

@@ -1,0 +1,43 @@
+Sông	B-LOC
+Nho	I-LOC
+Quế	I-LOC
+
+''	O
+Apex	B-ORG
+Predator	I-ORG
+–	I-ORG
+Easy	I-ORG
+Meat	I-ORG
+''	O
+(	O
+2015	O
+)	O
+
+Chim	B-LOC
+nghệ	I-LOC
+đuôi	I-LOC
+trắng	I-LOC
+
+đổi	O
+Hội	B-PER
+đồng	I-PER
+Tham	I-PER
+mưu	I-PER
+trưởng	I-PER
+Liên	I-PER
+quân	I-PER
+Hoa	I-PER
+Kỳ	I-PER
+
+đổi	O
+Philip	B-PER
+Warren	I-PER
+Anderson	I-PER
+
+Ngân	B-ORG
+hàng	I-ORG
+Phát	I-ORG
+triển	I-ORG
+châu	I-ORG
+Á	I-ORG
+.	O

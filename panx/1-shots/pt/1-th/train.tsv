@@ -1,0 +1,19 @@
+redirecionamento	O
+Orquestra	B-ORG
+Sinfônica	I-ORG
+de	I-ORG
+Bamberg	I-ORG
+
+The	B-PER
+Six	I-PER
+Million	I-PER
+Dollar	I-PER
+Man	I-PER
+
+'	O
+''	O
+Juazeiro	B-LOC
+do	I-LOC
+Norte	I-LOC
+''	O
+'	O

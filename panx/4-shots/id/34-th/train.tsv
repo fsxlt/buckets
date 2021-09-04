@@ -1,0 +1,95 @@
+Dua	O
+bersaudara	O
+ini	O
+kemudian	O
+pindah	O
+ke	O
+Coburg	B-LOC
+,	O
+dimana	O
+disana	O
+mereka	O
+akan	O
+menjalankan	O
+pemerintahan	O
+.	O
+
+ALIH	O
+Ong	B-PER
+Hok	I-PER
+Ham	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pyrénées-Atlantiques	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+ALIH	O
+Svend	B-PER
+II	I-PER
+dari	I-PER
+Denmark	I-PER
+
+Red	B-ORG
+Line	I-ORG
+ke	O
+Stasiun	B-ORG
+Bogor	I-ORG
+atau	O
+Stasiun	B-ORG
+Jakarta	I-ORG
+Kota	I-ORG
+
+'	O
+''	O
+Ben	B-PER
+Spies	I-PER
+''	O
+'	O
+
+Perintis	O
+tidak	O
+resmi	O
+Bunavad	O
+adalah	O
+Balkan	B-ORG
+Bulgarian	I-ORG
+Airlines	I-ORG
+.	O
+
+ALIH	O
+John	B-PER
+B.	I-PER
+Cobb	I-PER
+
+Aisyah	B-ORG
+Putri	I-ORG
+The	I-ORG
+Series	I-ORG
+:	I-ORG
+Jilbab	I-ORG
+In	I-ORG
+Love	I-ORG
+
+Federasi	B-ORG
+Industri	I-ORG
+Musik	I-ORG
+Italia	I-ORG
+
+ALIH	O
+Altoona	B-LOC
+,	I-LOC
+Alabama	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gironde	I-LOC

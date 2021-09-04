@@ -1,0 +1,68 @@
+Wada	B-PER
+Ayaka	I-PER
+(	O
+和田彩花	O
+,	O
+Ketua	O
+)	O
+
+Ishak	B-PER
+Haji	I-PER
+Muhammad	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Orne	I-LOC
+
+lencong	O
+Sisters	B-ORG
+in	I-ORG
+Islam	I-ORG
+
+Jambatan	B-ORG
+Sultan	I-ORG
+Abdul	I-ORG
+Halim	I-ORG
+Muadzam	I-ORG
+Shah	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+LENCONG	O
+Terier	B-ORG
+Dandie	I-ORG
+Dinmont	I-ORG
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-17	I-ORG
+Brazil	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Guyane	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+Geoff	B-PER
+Hunt	I-PER
+(	O
+Australia	B-LOC
+)	O

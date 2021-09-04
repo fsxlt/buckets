@@ -1,0 +1,32 @@
+923	O
+urtean	O
+Hakozaki	B-ORG
+santutegia	I-ORG
+Dazaifutik	O
+Fukuokara	O
+ekarri	O
+zen	O
+.	O
+
+Euskal	B-LOC
+Herrian	I-LOC
+ETB3an	B-PER
+aireratu	O
+ohi	O
+da	O
+.	O
+
+Pertsonaia	O
+garrantzitsuek	O
+zeukaten	O
+,	O
+Julio	B-PER
+Zesarrek	I-PER
+,	O
+Marko	B-PER
+Antoniok	I-PER
+edo	O
+Augustok	B-PER
+besteak	O
+beste	O
+.	O

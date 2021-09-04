@@ -1,0 +1,70 @@
+ALIH	O
+Blind	B-ORG
+Love	I-ORG
+(	I-ORG
+lagu	I-ORG
+)	I-ORG
+
+ALIH	O
+Beruang	B-LOC
+hitam	I-LOC
+formosa	I-LOC
+
+Count	B-PER
+Claus-Casimir	I-PER
+dari	I-PER
+Oranye-Nassau	I-PER
+,	I-PER
+Jonkheer	I-PER
+van	I-PER
+Amsberg	I-PER
+
+ALIH	O
+François	B-PER
+Fébus	I-PER
+dari	I-PER
+Navarra	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC
+
+Australia	B-LOC
+-	O
+Jennifer	B-PER
+Hawkins	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pas-de-Calais	I-LOC
+
+How	B-ORG
+I	I-ORG
+Met	I-ORG
+Your	I-ORG
+Mother	I-ORG
+''	O
+
+Grand	B-ORG
+Prix	I-ORG
+Inggris	I-ORG
+2011	I-ORG
+oleh	O
+Fernando	B-PER
+Alonso	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Somme	I-LOC
+
+ALIH	O
+Daftar	B-ORG
+Perdana	I-ORG
+Menteri	I-ORG
+Moldova	I-ORG

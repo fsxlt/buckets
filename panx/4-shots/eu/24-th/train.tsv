@@ -1,0 +1,131 @@
+Lege	B-ORG
+Soziologiako	I-ORG
+Nazioarteko	I-ORG
+Erakundea	I-ORG
+
+1919ko	B-ORG
+Frantziako	I-ORG
+Tourra	I-ORG
+eta	O
+etapa	O
+1	O
+
+van	B-PER
+Persie	I-PER
+van	B-PER
+Nistelrooy	I-PER
+27	O
+'	O
+
+Rafael	B-PER
+Nadal	I-PER
+(	O
+2005-09	O
+)	O
+,	O
+5	O
+.	O
+
+'	O
+''	O
+Rielasingen-Worblingen	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Iruñeko	B-LOC
+Udalean	O
+Herri	B-ORG
+Batasuneko	I-ORG
+zinegotzia	O
+izan	O
+zen	O
+.	O
+
+Mazarronek	O
+Cartagena	B-LOC
+eta	O
+Murtziako	B-LOC
+Fuente	I-LOC
+Alamorekin	I-LOC
+egiten	O
+du	O
+muga	O
+ekialdean	O
+,	O
+Murtziako	B-LOC
+Alhama	I-LOC
+eta	O
+Totanarekin	B-LOC
+iparraldean	O
+,	O
+Lorcarekin	B-LOC
+mendebaldean	O
+,	O
+eta	O
+Mediterraneo	B-LOC
+itsasoarekin	I-LOC
+hegoaldean	O
+.	O
+
+Euskal	B-LOC
+Autonomia	I-LOC
+Erkidegoko	I-LOC
+hiriburu	O
+batetik	O
+bestera	O
+bidaiatzeko	O
+,	O
+ordubete	O
+baino	O
+gutxiago	O
+behar	O
+izango	O
+da	O
+.	O
+
+Comoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Guardia	B-ORG
+Zibilak	I-ORG
+ere	O
+parte	O
+hartu	O
+zuen	O
+.	O
+
+**	O
+Dover	B-LOC
+(	I-LOC
+Hampshire	I-LOC
+Berria	I-LOC
+)	I-LOC
+
+BIRZUZENDU	O
+Petri	B-PER
+II.a	I-PER
+Brasilgoa	I-PER
+
+'	O
+''	O
+Sexto	B-PER
+Julio	I-PER
+Afrikano	I-PER
+''	O
+'	O
+(	O
+Jurgi	B-PER
+Sintzeloren	I-PER
+bertsioa	O
+)	O
+.	O

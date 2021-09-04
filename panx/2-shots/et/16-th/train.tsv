@@ -1,0 +1,47 @@
+suuna	O
+Petilla	B-LOC
+de	I-LOC
+Aragóni	I-LOC
+vald	I-LOC
+
+Giorgi	B-PER
+Baramidze	I-PER
+''	O
+(	O
+kohusetäitja	O
+)	O
+''	O
+
+Ta	O
+õppis	O
+muu	O
+hulgas	O
+Karl	B-PER
+August	I-PER
+Senffi	I-PER
+käe	O
+all	O
+.	O
+
+suuna	O
+JK	B-ORG
+Tammeka	I-ORG
+naiskond	I-ORG
+
+Somaalias	B-LOC
+tegutsevate	O
+Aafrika	B-ORG
+Liidu	I-ORG
+rahutagamisüksustega	O
+liitusid	O
+esimesed	O
+sada	O
+Burundi	B-LOC
+sõdurit	O
+.	O
+
+Fredericki	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O

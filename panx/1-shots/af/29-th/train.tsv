@@ -1,0 +1,19 @@
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+
+Petrus	B-LOC
+Steyn	I-LOC
+→	O
+Mamafubedu	O
+(	O
+voorgestel	O
+)	O
+
+AANSTUUR	O
+Franse	B-ORG
+koloniale	I-ORG
+ryk	I-ORG

@@ -1,0 +1,106 @@
+ÁTIRÁNYÍTÁS	O
+Dampierre	B-LOC
+(	I-LOC
+Haute-Marne	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Vosztok	B-ORG
+Öszkemen	I-ORG
+FK	I-ORG
+
+Visszaútján	O
+megállt	O
+Korfun	B-LOC
+,	O
+ahol	O
+a	O
+hajót	O
+meglátogatta	O
+II.	B-PER
+Vilmos	I-PER
+német	I-PER
+császár	I-PER
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Saint-Sernin	B-LOC
+(	I-LOC
+Lot-et-Garonne	I-LOC
+)	I-LOC
+
+Tetején	O
+Szűz	B-PER
+Mária	I-PER
+és	O
+a	O
+megfeszített	O
+János	B-PER
+apostol	I-PER
+1649-1651	O
+között	O
+készült	O
+szobra	O
+áll	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Who’s	B-ORG
+Got	I-ORG
+the	I-ORG
+Last	I-ORG
+Laugh	I-ORG
+Now	I-ORG
+?	I-ORG
+
+'	O
+''	O
+Felipe	B-PER
+Massa	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Csongrád	B-LOC
+megyében	I-LOC
+''	O
+'	O
+a	O
+szavazásra	O
+jogosultak	O
+kevesebb	O
+mint	O
+fele	O
+ment	O
+el	O
+szavazni	O
+.	O
+
+I	B-ORG
+Remember	I-ORG
+Yesterday	I-ORG
+''	O
+
+'	O
+''	O
+Suzanne	B-PER
+Lenglen	I-PER
+''	O
+'	O
+
+'	O
+''	O
+(	O
+x	O
+)	O
+'	O
+''	O
+Phoenix	B-ORG
+Suns	I-ORG
+
+Skalice	B-LOC
+u	I-LOC
+České	I-LOC
+Lípy	I-LOC
+-	O

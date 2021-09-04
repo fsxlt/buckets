@@ -1,0 +1,36 @@
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Oxford	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Matsue	B-LOC
+(	O
+松江市	O
+)	O
+.	O
+
+'	O
+''	O
+Australia	B-LOC
+''	O
+'	O
+
+Kanisa	B-ORG
+la	I-ORG
+Kilatini	I-ORG
+
+Agostino	B-PER
+wa	I-PER
+Hippo	I-PER
+
+James	B-PER
+A.	I-PER
+Garfield	I-PER
+
+WF	O
+Wallis	B-LOC
+na	I-LOC
+Futuna	I-LOC

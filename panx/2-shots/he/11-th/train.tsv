@@ -1,0 +1,37 @@
+**	O
+ג'ושוע	B-PER
+ג'קסון	I-PER
+-	O
+פרינג	B-ORG
+'	I-ORG
+''	O
+
+למור	B-LOC
+צווארון	I-LOC
+שחור	I-LOC
+לבן	I-LOC
+
+הפניה	O
+פרידריך	B-PER
+וילהלם	I-PER
+הרביעי	I-PER
+,	I-PER
+מלך	I-PER
+פרוסיה	I-PER
+
+'	O
+''	O
+האימפריה	B-LOC
+הרומית	I-LOC
+''	O
+'	O
+
+רומא	B-LOC
+השתלם	O
+במשך	O
+שלוש	O
+שנים	O
+בסדנה	O
+ארמון	B-ORG
+ונציה	I-ORG
+.	O

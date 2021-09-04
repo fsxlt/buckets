@@ -1,0 +1,52 @@
+Repubblica	B-LOC
+di	I-LOC
+Venezia	I-LOC
+
+Kaitlyn	B-PER
+Weaver	I-PER
+/	O
+Andrew	B-PER
+Poje	I-PER
+
+La	O
+freddezza	O
+del	O
+testo	O
+e	O
+il	O
+senso	O
+di	O
+disperazione	O
+sono	O
+tuttavia	O
+attenuati	O
+dall'arrangiamento	O
+orchestrale	O
+di	O
+Mick	B-PER
+Ronson	I-PER
+e	O
+dalla	O
+sontuosità	O
+della	O
+registrazione	O
+.	O
+
+Corea	B-LOC
+del	I-LOC
+Nord	I-LOC
+
+'	O
+''	O
+Eintracht	B-ORG
+Frankfurt	I-ORG
+''	O
+'	O
+
+RINVIA	O
+8.	B-ORG
+SS-Kavallerie-Division	I-ORG
+``	I-ORG
+Florian	I-ORG
+Geyer	I-ORG
+''	I-ORG

@@ -1,0 +1,31 @@
+Myös	O
+Kansas	B-ORG
+City	I-ORG
+Scouts	I-ORG
+muutti	O
+,	O
+ja	O
+siitä	O
+tuli	O
+Colorado	B-ORG
+Rockies	I-ORG
+.	O
+
+Samuel	B-PER
+J.	I-PER
+Tilden	I-PER
+(	O
+dem	B-ORG
+.	I-ORG
+)	O
+'	O
+''	O
+184	O
+''	O
+'	O
+
+Jangtsejoki	B-LOC
+laskee	O
+Itä-Kiinan	B-LOC
+mereen	I-LOC
+.	O

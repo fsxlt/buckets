@@ -1,0 +1,35 @@
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+Etna	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC
+
+LENCONG	O
+Penguasa	B-ORG
+Maritim	I-ORG
+dan	I-ORG
+Pelabuhan	I-ORG
+Singapura	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Jenson	B-PER
+Button	I-PER
+''	O
+'	O

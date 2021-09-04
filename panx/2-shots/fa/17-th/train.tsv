@@ -1,0 +1,42 @@
+تغییرمسیر	O
+صاریغ	B-LOC
+قلمی	I-LOC
+شکم‌سفید	I-LOC
+
+تغییر_مسیر	O
+حزب	B-ORG
+جمهوری‌خواه	I-ORG
+(	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+)	I-ORG
+
+تغییر_مسیر	O
+جان	B-PER
+هانا	I-PER
+(	I-PER
+بازیگر	I-PER
+)	I-PER
+
+تغییرمسیر	O
+ورمزیار	B-LOC
+(	I-LOC
+ارومیه	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+فهرست	B-ORG
+پررفت‌وآمدترین	I-ORG
+فرودگاه‌های	I-ORG
+جهان	I-ORG
+بر	I-ORG
+پایه	I-ORG
+جابه‌جایی	I-ORG
+مسافران	I-ORG
+بین‌المللی	I-ORG
+
+تغییرمسیر	O
+جوزف	B-PER
+آر.	I-PER
+آندروود	I-PER

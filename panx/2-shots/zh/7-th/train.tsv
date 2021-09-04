@@ -1,0 +1,64 @@
+#	O
+大	B-LOC
+阪	I-LOC
+府	I-LOC
+#	O
+-	O
+#	O
+千	B-LOC
+早	I-LOC
+赤	I-LOC
+阪	I-LOC
+村	I-LOC
+
+李	B-PER
+翊	I-PER
+君	I-PER
+翻	O
+唱	O
+；	O
+收	O
+錄	O
+於	O
+〈	O
+淚	O
+的	O
+小	O
+雨	O
+#	O
+〉	O
+
+浣	B-ORG
+熊	I-ORG
+拉	I-ORG
+斯	I-ORG
+卡	I-ORG
+爾	I-ORG
+
+重	O
+定	O
+向	O
+#	O
+雀	B-LOC
+梅	I-LOC
+藤	I-LOC
+属	I-LOC
+
+銀	O
+獎	O
+：	O
+謝	B-PER
+安	I-PER
+琪	I-PER
+
+Y	B-ORG
+O	I-ORG
+U	I-ORG
+#	O
+(	I-ORG
+濱	I-ORG
+崎	I-ORG
+步	I-ORG
+單	I-ORG
+曲	I-ORG
+)	I-ORG

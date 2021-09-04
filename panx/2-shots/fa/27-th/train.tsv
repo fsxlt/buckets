@@ -1,0 +1,51 @@
+تغییرمسیر	O
+خطی	B-ORG
+در	I-ORG
+افق	I-ORG
+نیست	I-ORG
+
+تغییرمسیر	O
+یزدان‌آباد	B-LOC
+(	I-LOC
+بم	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+ارنست	B-PER
+گلد	I-PER
+(	I-PER
+آهنگساز	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+سلمی	B-PER
+بنت	I-PER
+عمیس	I-PER
+
+تغییرمسیر	O
+بهترین‌ها	B-ORG
+۳	I-ORG
+(	I-ORG
+آلبوم	I-ORG
+کوئین	I-ORG
+)	I-ORG
+
+'	O
+''	O
+کوچک	O
+نظرخانی	O
+''	O
+'،	O
+روستایی	O
+است	O
+از	O
+توابع	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	B-LOC
+علی‌آباد	I-LOC
+در	O
+استان	B-LOC
+گلستان	I-LOC
+ایران	B-LOC
+.	O

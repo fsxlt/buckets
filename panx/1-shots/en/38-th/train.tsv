@@ -1,0 +1,25 @@
+UC	B-ORG
+Irvine	I-ORG
+Anteaters	I-ORG
+
+**	O
+''	O
+Ethmia	B-LOC
+mulleri	I-LOC
+''	O
+Busck	O
+,	O
+1910	O
+
+``	O
+Yesterdays	B-ORG
+''	O
+(	O
+Otto	B-PER
+Harbach	I-PER
+,	O
+Jerome	B-PER
+Kern	I-PER
+)	O
+-	O
+4:05	O

@@ -1,0 +1,33 @@
+Pays	B-LOC
+de	I-LOC
+la	I-LOC
+Loire	I-LOC
+
+Nevada	B-LOC
+–	O
+$	O
+44,581	O
+(	O
+€33	O
+492	O
+)	O
+
+Oscar	B-PER
+Hammerstein	I-PER
+II	I-PER
+,	O
+Jerome	B-PER
+Kern	I-PER
+
+redirection	O
+Liste	B-ORG
+des	I-ORG
+chapitres	I-ORG
+de	I-ORG
+Dragon	I-ORG
+Quest	I-ORG
+:	I-ORG
+La	I-ORG
+Quête	I-ORG
+de	I-ORG
+Daï	I-ORG

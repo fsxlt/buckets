@@ -1,0 +1,70 @@
+Dhèwèké	O
+dikanonisasi	O
+déning	O
+Paus	B-PER
+Nikolas	I-PER
+I	I-PER
+.	O
+
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+Paus	B-PER
+Yohanes	I-PER
+XXIII	I-PER

@@ -1,0 +1,42 @@
+Hinlalato	B-ORG
+ng	I-ORG
+paa	I-ORG
+
+Pulo	B-ORG
+ng	I-ORG
+Norfolk	I-ORG
+
+Louis	B-PER
+VI	I-PER
+ng	I-PER
+Pransiya	I-PER
+,	O
+``	O
+ang	O
+Mataba	O
+''	O
+(	O
+1081–1137	O
+)	O
+.	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Tomas	B-LOC
+Oppus	I-LOC
+,	I-LOC
+Katimugang	I-LOC
+Leyte	I-LOC
+
+'	O
+''	O
+Andalucía	B-LOC
+''	O
+'	O
+
+Janon	B-PER
+ang	I-PER
+Manlalayag	I-PER

@@ -1,0 +1,21 @@
+Temporada	B-ORG
+do	I-ORG
+Clube	I-ORG
+de	I-ORG
+Regatas	I-ORG
+do	I-ORG
+Flamengo	I-ORG
+de	I-ORG
+2013	I-ORG
+
+Eddy	B-PER
+Pieters	I-PER
+Graafland	I-PER
+(	O
+1957-1967	O
+)	O
+
+Cuneo	B-LOC
+(	I-LOC
+província	I-LOC
+)	I-LOC

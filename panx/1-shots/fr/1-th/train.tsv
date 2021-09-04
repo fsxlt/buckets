@@ -1,0 +1,18 @@
+Jean-Jacques	B-PER
+Goldman	I-PER
+-	O
+Jean	B-ORG
+Jacques	I-ORG
+Goldman	I-ORG
+''	O
+(	O
+ou	O
+''Démodé	O
+''	O
+)	O
+
+République	B-LOC
+fédérative	I-LOC
+socialiste	I-LOC
+de	I-LOC
+Yougoslavie	I-LOC

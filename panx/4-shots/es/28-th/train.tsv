@@ -1,0 +1,82 @@
+Cnemotriccus	B-LOC
+fuscatus	I-LOC
+''	O
+,	O
+mosquero	O
+parduzco	O
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Narciso	B-PER
+Clavería	I-PER
+y	I-PER
+de	I-PER
+Palacios	I-PER
+
+Termina	O
+en	O
+el	O
+puesto	O
+12º	O
+el	O
+Critérium	B-ORG
+Internacional	I-ORG
+.	O
+
+El	O
+Distrito	B-LOC
+Escolar	I-LOC
+Unificado	I-LOC
+de	I-LOC
+Irvine	I-LOC
+gestiona	O
+escuelas	O
+públicas	O
+.	O
+
+Edie	B-PER
+Falco	I-PER
+como	O
+Carmela	B-PER
+Soprano	I-PER
+.	O
+
+James	B-PER
+Nunnally	I-PER
+,	O
+Texas	B-ORG
+Legends	I-ORG
+
+Norman	B-PER
+Reedus	I-PER
+como	O
+Daryl	B-PER
+Dixon	I-PER
+.	O
+
+•	O
+C.F.	B-ORG
+Gimnástico	I-ORG
+de	I-ORG
+Alcázar	I-ORG
+
+Derechos	B-ORG
+de	I-ORG
+los	I-ORG
+animales	I-ORG
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O

@@ -1,0 +1,16 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+ALIH	O
+Luxor	B-ORG
+Las	I-ORG
+Vegas	I-ORG
+
+Monty	B-PER
+Tiwa	I-PER
+-	O
+Berani	O
+Hidup	O

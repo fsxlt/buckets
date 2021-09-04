@@ -1,0 +1,41 @@
+1989–1992	O
+Division	B-ORG
+1	I-ORG
+(	O
+L1	O
+)	O
+
+Gwangju	B-LOC
+,	O
+Corea	B-LOC
+del	I-LOC
+Sur	I-LOC
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+Simón	I-LOC
+Bolívar	I-LOC
+(	I-LOC
+Anzoátegui	I-LOC
+)	I-LOC
+
+Ecuación	B-ORG
+de	I-ORG
+sexto	I-ORG
+grado	I-ORG
+
+Holidaze	B-PER
+:	I-PER
+The	I-PER
+Christmas	I-PER
+That	I-PER
+Almost	I-PER
+Did	I-PER
+n't	I-PER
+Happen	I-PER
+''	O
+
+REDIRECCIÓN	O
+Estanislao	B-PER
+I	I-PER
+Leszczynski	I-PER

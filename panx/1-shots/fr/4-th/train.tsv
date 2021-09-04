@@ -1,0 +1,30 @@
+Elle	O
+est	O
+desservie	O
+par	O
+la	O
+Bundesautobahn	B-ORG
+9	I-ORG
+(	O
+échangeurs	O
+37	O
+et	O
+38	O
+)	O
+.	O
+
+République	B-LOC
+du	I-LOC
+Bas-Canada	I-LOC
+
+``	O
+Tomorrow	B-ORG
+Never	I-ORG
+Dies	I-ORG
+''	O
+–	O
+Sheryl	B-PER
+Crow	I-PER
+(	O
+5:17	O
+)	O

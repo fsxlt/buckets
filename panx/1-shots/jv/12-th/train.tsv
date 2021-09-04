@@ -1,0 +1,15 @@
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+Usmar	B-PER
+Ismail	I-PER
+,	O
+sutradhara	O

@@ -1,0 +1,103 @@
+הפניה	O
+מקסימה	B-PER
+,	I-PER
+מלכת	I-PER
+הולנד	I-PER
+
+פיקסון	B-LOC
+ים-סופי	I-LOC
+(	O
+''Rhinecanthus	O
+assasi	O
+)	O
+''	O
+
+נוסף	O
+לכך	O
+,	O
+הוא	O
+שיחק	O
+נבחרת	B-ORG
+ישראל	I-ORG
+בכדורמים	I-ORG
+.	O
+
+הפניה	O
+ויז'ה	B-LOC
+קרלוס	I-LOC
+פאס	I-LOC
+
+יוליוס	B-PER
+קיסר	I-PER
+,	O
+למשל	O
+,	O
+שימש	O
+בתפקיד	O
+אחראי	O
+על	O
+הדרכים	O
+מחוץ	O
+לעיר	O
+ושיפץ	O
+חלק	O
+ויה	B-LOC
+אפיה	I-LOC
+.	O
+
+הפניה	O
+גוראן	B-PER
+דרגיץ	I-PER
+'	I-PER
+
+|	O
+'	O
+''	O
+לעוסית	B-LOC
+מטפסת	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+ורדר	B-ORG
+ברמן	I-ORG
+''	O
+'	O
+
+המשפט	B-ORG
+היסודי	I-ORG
+של	I-ORG
+האלגברה	I-ORG
+
+המדליות	O
+הרבות	O
+שצבר	O
+בחייו	O
+מוצגות	O
+כיום	O
+מוזיאון	B-ORG
+הלאומי	I-ORG
+של	I-ORG
+חיל	I-ORG
+האוויר	I-ORG
+האמריקאי	I-ORG
+דייטון	B-LOC
+,	O
+אוהיו	B-LOC
+.	O
+
+בתמורה	O
+הבטיח	O
+להעניק	O
+לבנו	O
+,	O
+איברהים	B-PER
+פאשה	I-PER
+,	O
+את	O
+הפלופונסוס	O
+כנחלה	O
+עוברת	O
+בירושה	O
+.	O

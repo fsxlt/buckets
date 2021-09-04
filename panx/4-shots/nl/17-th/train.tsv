@@ -1,0 +1,87 @@
+Lijst	B-PER
+van	I-PER
+bekende	I-PER
+honderdplussers	I-PER
+
+Rutherglen	B-LOC
+(	I-LOC
+Australië	I-LOC
+)	I-LOC
+
+Mate	B-PER
+'	I-PER
+''	I-PER
+Maleš	I-PER
+''	I-PER
+'	I-PER
+-	O
+
+'	O
+''	O
+Dan	B-PER
+Gurney	I-PER
+''	O
+'	O
+
+DOORVERWIJZING	O
+Lipps	B-ORG
+Inc	I-ORG
+.	I-ORG
+
+Station	B-ORG
+Leiden	I-ORG
+Centraal	I-ORG
+
+DOORVERWIJZING	O
+Gemlik	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+
+Vila	B-LOC
+Nova	I-LOC
+de	I-LOC
+Poiares	I-LOC
+
+Bobrowice	B-LOC
+,	O
+Brzeźnica	B-LOC
+,	O
+Dąbie	B-LOC
+,	O
+Jasień	B-LOC
+,	O
+Kożuchów	B-LOC
+,	O
+Lubsko	B-LOC
+,	O
+Świdnica	B-LOC
+,	O
+Zielona	B-LOC
+Góra	I-LOC
+,	O
+Żary	B-LOC
+
+'	O
+''	O
+Phil	B-PER
+Taylor	I-PER
+''	O
+'	O
+
+Zijn	O
+ploeg	O
+degradeerde	O
+dat	O
+jaar	O
+echter	O
+naar	O
+de	O
+Eerste	B-ORG
+divisie	I-ORG
+.	O
+
+DOORVERWIJZING	O
+Nationaal	B-ORG
+Sportcentrum	I-ORG
+Papendal	I-ORG

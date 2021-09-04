@@ -1,0 +1,129 @@
+Zurückzuführen	O
+war	O
+dies	O
+auf	O
+die	O
+nunmehr	O
+ausreichend	O
+zur	O
+Verfügung	O
+stehenden	O
+finanziellen	O
+Ressourcen	O
+und	O
+die	O
+Ideen	O
+von	O
+Patrick	B-PER
+Head	I-PER
+.	O
+
+2002	O
+Goldmedaille	O
+bei	O
+der	O
+U20-Junioren-Weltmeisterschaft	B-LOC
+
+White	B-ORG
+Sands	I-ORG
+National	I-ORG
+Monument	I-ORG
+
+Zusammen	O
+mit	O
+seiner	O
+Familie	O
+zog	O
+er	O
+als	O
+16-Jähriger	O
+nach	O
+Stillwater	B-LOC
+,	O
+Oklahoma	B-LOC
+.	O
+
+Es	O
+trägt	O
+die	O
+Sprockhoff-Nummer	B-PER
+672	O
+.	O
+
+Sergei	B-PER
+Sergejewitsch	I-PER
+Bodrow	I-PER
+
+WEITERLEITUNG	O
+Şükrü	B-ORG
+Saracoğlu	I-ORG
+Stadı	I-ORG
+
+Im	O
+Hintergrund	O
+ist	O
+die	O
+Stadt	B-LOC
+Ur	I-LOC
+erkennbar	O
+.	O
+
+'	O
+''	O
+Brøndby	B-ORG
+IF	I-ORG
+''	O
+'	O
+
+François	B-PER
+de	I-PER
+Bourbon	I-PER
+,	I-PER
+comte	I-PER
+d’Enghien	I-PER
+
+Zum	O
+Open-Turnier	O
+2009	O
+in	O
+Stare	B-LOC
+Jabłonki	I-LOC
+trat	O
+sie	O
+erstmals	O
+mit	O
+ihrer	O
+neuen	O
+Partnerin	O
+Tatjana	B-PER
+Maschkowa	I-PER
+an	O
+.	O
+
+**	O
+'	O
+''	O
+Grafschaft	B-LOC
+Toulouse	I-LOC
+''	O
+'	O
+
+Damit	O
+ist	O
+er	O
+nach	O
+der	O
+Oxford	B-ORG
+University	I-ORG
+Press	I-ORG
+und	O
+der	O
+Cambridge	B-ORG
+University	I-ORG
+Press	I-ORG
+der	O
+drittälteste	O
+des	O
+Vereinigten	B-LOC
+Königreiches	I-LOC
+.	O

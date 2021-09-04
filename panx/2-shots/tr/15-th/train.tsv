@@ -1,0 +1,56 @@
+Dave	B-PER
+Bing	I-PER
+(	O
+3	O
+)	O
+
+YÖNLENDİRME	O
+2008-2009	B-ORG
+ISU	I-ORG
+Junior	I-ORG
+Grand	I-ORG
+Prix	I-ORG
+
+Ayrıca	O
+Kuzey	B-LOC
+Amerika'da	I-LOC
+iyi	O
+bilinen	O
+bir	O
+türdür	O
+.	O
+
+Bu	O
+yapı	O
+o	O
+zamanda	O
+daha	O
+tam	O
+yapılamadığı	O
+için	O
+Amerika'yı	B-LOC
+tehdit	O
+etmemektedir	O
+.	O
+
+'	O
+''	O
+Andreas	B-PER
+Wagenhaus	I-PER
+''	O
+'	O
+
+'	O
+''	O
+One	B-ORG
+Direction	I-ORG
+''	O
+'	O
+
+1112'de	O
+Artuklu	B-LOC
+Beyliği	I-LOC
+hakimiyeti	O
+altına	O
+girdi	O
+.	O

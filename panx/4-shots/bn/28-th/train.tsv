@@ -1,0 +1,68 @@
+জলদাপাড়া	B-LOC
+জাতীয়	I-LOC
+উদ্যান	I-LOC
+
+বঙ্গবন্ধু	B-ORG
+শেখ	I-ORG
+মুজিব	I-ORG
+মেডিকেল	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+চামেলী	B-LOC
+(	I-LOC
+ফুল	I-LOC
+)	I-LOC
+,	O
+বা	O
+জুই	O
+প্রজাতির	O
+একটি	O
+ফুল।	O
+
+ব্রাজিল	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+জ্যাক	B-PER
+দ্য	I-PER
+রিপার	I-PER
+
+সৈয়দ	B-PER
+আশরাফুল	I-PER
+ইসলাম	I-PER
+
+সেন্ট্রাল	B-ORG
+ইন্টেলিজেন্স	I-ORG
+এজেন্সি	I-ORG
+
+'	O
+''	O
+মমতা	B-PER
+বন্দ্যোপাধ্যায়	I-PER
+''	O
+'	O
+
+নিউল্যান্ডস	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+কেপ	B-LOC
+টাউন	I-LOC
+
+'	O
+''	O
+টোকিও	B-LOC
+''	O
+'	O
+
+জাকির	B-PER
+হুসেইন	I-PER
+(	I-PER
+তবলা	I-PER
+বাদক	I-PER
+)	I-PER

@@ -1,0 +1,112 @@
+Vanantaa	O
+tarkoittaa	O
+nykykielellä	O
+``	O
+Vanajan	B-LOC
+takainen	I-LOC
+''	O
+.	O
+
+Suomen	B-ORG
+kansainväliset	I-ORG
+valmiusjoukot	I-ORG
+
+Piitimen	B-LOC
+kaupunki	I-LOC
+(	O
+ruots	O
+.	O
+
+Vuosina	O
+1849–1853	O
+hän	O
+oli	O
+Plymouthin	B-LOC
+kirjastonhoitaja	O
+.	O
+
+Se	O
+kuitenkin	O
+edellyttäisi	O
+San	B-LOC
+Franciscossa	I-LOC
+sijaitsevan	O
+mikrosirumarkkinoita	O
+hallitsevan	O
+teollisuusalueen	O
+Piilaakson	B-LOC
+tuhoamista	O
+.	O
+
+Piispanistuimia	O
+perustettiin	O
+Baijerin	B-LOC
+neljään	O
+kaupunkiin	O
+730-luvulla	O
+.	O
+
+As	B-ORG
+the	I-ORG
+World	I-ORG
+Turns	I-ORG
+''	O
+(	O
+1995–2001	O
+)	O
+
+R2-D2	B-ORG
+:	I-ORG
+ta	I-ORG
+kaikissa	O
+saagan	O
+aiemmissa	O
+osissa	O
+esittänyt	O
+Kenny	B-PER
+Baker	I-PER
+toimi	O
+konsulttina	O
+hahmoa	O
+varten	O
+.	O
+
+18-vuotiaana	O
+hän	O
+muutti	O
+New	B-LOC
+Yorkiin	I-LOC
+ja	O
+elätti	O
+itseään	O
+tekemällä	O
+mallintöitä	O
+.	O
+
+Kilpailun	O
+voitti	O
+James	B-PER
+Hunt	I-PER
+.	O
+
+Singlellä	O
+vierailivat	O
+Wiz	B-PER
+Khalifa	I-PER
+ja	O
+Lily	B-PER
+Allen	I-PER
+.	O
+
+All	B-ORG
+I	I-ORG
+Want	I-ORG
+for	I-ORG
+Christmas	I-ORG
+Is	I-ORG
+You	I-ORG
+
+Larry	B-PER
+Williams	I-PER
+–	O
+puhaltimet	O

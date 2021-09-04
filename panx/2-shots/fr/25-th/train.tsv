@@ -1,0 +1,43 @@
+Conseil	B-ORG
+des	I-ORG
+représentants	I-ORG
+des	I-ORG
+peuples	I-ORG
+(	I-ORG
+Éthiopie	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Elkeson	B-PER
+de	I-PER
+Oliveira	I-PER
+Cardoso	I-PER
+
+REDIRECTION	O
+32e	B-ORG
+cérémonie	I-ORG
+des	I-ORG
+César	I-ORG
+
+Il	O
+est	O
+le	O
+dernier	O
+fils	O
+Albert	B-PER
+et	O
+Élisabeth	B-PER
+de	I-PER
+Tyrol	I-PER
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+des	I-LOC
+Côtes-d'Armor	I-LOC
+
+Crosne	B-LOC
+(	I-LOC
+Essonne	I-LOC
+)	I-LOC

@@ -1,0 +1,52 @@
+''	O
+'Ireland	O
+''	O
+'	O
+-	O
+Máel	B-PER
+Sechnaill	I-PER
+mac	I-PER
+Domnaill	I-PER
+,	O
+High	B-PER
+King	I-PER
+of	I-PER
+Ireland	I-PER
+(	O
+1014–1022	O
+)	O
+
+Will	B-PER
+Ferrell	I-PER
+,	O
+Caroline	B-PER
+Rhea	I-PER
+
+Aeon	B-ORG
+(	I-ORG
+band	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Coppery-chested	B-LOC
+jacamar	I-LOC
+''	O
+'	O
+
+Polynesian	B-LOC
+longfinned	I-LOC
+eel	I-LOC
+
+''	O
+Ephestia	B-ORG
+kuehniella	I-ORG
+''	O
+Zeller	O
+,	O
+1879	O
+
+Goldfly	B-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG

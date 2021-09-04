@@ -1,0 +1,77 @@
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Jimmy	B-PER
+Santos	I-PER
+(	O
+1980-present	O
+)	O
+
+Pugo	B-LOC
+(	I-LOC
+mga	I-LOC
+ibon	I-LOC
+)	I-LOC
+
+Atimonan	B-ORG
+,	I-ORG
+Quezon	I-ORG
+
+Trentino-Alto	B-LOC
+Adige	I-LOC
+/	I-LOC
+Südtirol	I-LOC
+
+'	O
+''	O
+Teodoro	B-PER
+Plata	I-PER
+''	O
+'	O
+
+Sodegaura	B-ORG
+,	I-ORG
+Chiba	I-ORG
+
+Michael	B-PER
+Jackson	I-PER
+Dangerous	I-PER
+Live	I-PER
+in	I-PER
+Manila	I-PER
+''	O
+(	O
+1996	O
+)	O
+
+Kapisanan	B-ORG
+ng	I-ORG
+Pandaigdigang	I-ORG
+Kalakalan	I-ORG
+
+Mga	B-PER
+Gobernador-Heneral	I-PER
+ng	I-PER
+Pilipinas	I-PER
+
+Colegio	B-ORG
+de	I-ORG
+San	I-ORG
+Pascual	I-ORG
+Baylon	I-ORG
+
+Romano	B-LOC
+Katolikong	I-LOC
+Diyosesis	I-LOC
+ng	I-LOC
+Jeju	I-LOC
+
+**	O
+''	O
+Sanggol	B-ORG
+''	O
+(	O
+2011	O
+)	O

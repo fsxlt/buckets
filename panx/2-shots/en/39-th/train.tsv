@@ -1,0 +1,45 @@
+:	O
+Voiced	O
+by	O
+:	O
+Brian	B-PER
+Drummond	I-PER
+
+To	O
+New	B-ORG
+Jersey	I-ORG
+Devils	I-ORG
+Jeff	B-PER
+Friesen	I-PER
+Oleg	B-PER
+Tverdovsky	I-PER
+Maxim	B-PER
+Balmochnykh	I-PER
+
+Highlanders	B-ORG
+(	I-ORG
+rugby	I-ORG
+union	I-ORG
+)	I-ORG
+
+Columbia	B-LOC
+,	I-LOC
+South	I-LOC
+Carolina	I-LOC
+
+:	O
+''Times	O
+given	O
+below	O
+are	O
+in	O
+UTC+2	B-ORG
+.	O
+
+Communes	B-LOC
+of	I-LOC
+the	I-LOC
+Territoire	I-LOC
+de	I-LOC
+Belfort	I-LOC
+department	I-LOC

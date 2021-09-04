@@ -1,0 +1,57 @@
+BIRZUZENDU	O
+Kirchberg	B-LOC
+(	I-LOC
+Alsazia	I-LOC
+)	I-LOC
+
+Renania-Palatinatua	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+'	O
+''	O
+José	B-PER
+Antonio	I-PER
+González	I-PER
+Linares	I-PER
+''	O
+'	O
+
+'	O
+''	O
+14	O
+''	O
+'	O
+Real	B-ORG
+Betis	I-ORG
+Balompié	I-ORG
+
+Sobietar	B-LOC
+Batasunaren	I-LOC
+Venera	B-ORG
+Programaren	I-ORG
+barnean	O
+zegoen	O
+.	O
+
+Jorge	B-PER
+Luis	I-PER
+Borgesen	I-PER
+adiskide	O
+eta	O
+Adolfo	B-PER
+Bioy	I-PER
+Casaresen	I-PER
+emazte	O
+zen	O
+,	O
+eta	O
+bien	O
+lankide	O
+izan	O
+zen	O
+.	O

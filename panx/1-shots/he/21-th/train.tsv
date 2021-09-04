@@ -1,0 +1,25 @@
+*הרב	O
+אברהם	B-PER
+יצחק	I-PER
+הכהן	I-PER
+קוק	I-PER
+
+ריאיון	O
+באתר	O
+U.S.	B-ORG
+News	I-ORG
+&	I-ORG
+World	I-ORG
+Report	I-ORG
+
+היא	O
+גדלה	O
+בשכונת	O
+רחביה	B-LOC
+,	O
+ולאחר	O
+מכן	O
+בשכונת	O
+בית	B-LOC
+וגן	I-LOC
+.	O

@@ -1,0 +1,95 @@
+перенаправление	O
+О-Клэр	B-LOC
+(	I-LOC
+округ	I-LOC
+)	I-LOC
+
+Ирина	B-PER
+Муравьёва	I-PER
+—	O
+''Ворона	O
+''	O
+
+'	O
+''	O
+Михаткино	O
+''	O
+'	O
+(	O
+)	O
+—	O
+деревня	O
+в	O
+Горномарийском	B-LOC
+районе	I-LOC
+Марий	B-LOC
+Эл	I-LOC
+Российской	B-LOC
+Федерации	I-LOC
+.	O
+
+Театральный	B-ORG
+институт	I-ORG
+имени	I-ORG
+Бориса	I-ORG
+Щукина	I-ORG
+
+перенаправление	O
+Ищейка	B-ORG
+(	I-ORG
+телесериал	I-ORG
+)	I-ORG
+
+Ровненская	B-LOC
+область	I-LOC
+(	O
+)	O
+,	O
+административный	O
+центр	O
+—	O
+город	O
+Ровно	B-LOC
+
+''	O
+Hypatopa	B-LOC
+arxcis	I-LOC
+''	O
+
+Теодор	B-PER
+Хойс	I-PER
+''	O
+(	O
+)	O
+Der	O
+livländische	O
+Mirabeau	O
+.	O
+
+Питри	B-PER
+,	I-PER
+Флиндерс	I-PER
+
+нет	O
+1—4	B-ORG
+Маккавейских	I-ORG
+книг	I-ORG
+;	O
+
+Ожегов	B-PER
+,	I-PER
+Сергей	I-PER
+Иванович	I-PER
+
+**	O
+Полковник	B-ORG
+(	O
+с	O
+04.1919	O
+)	O
+.	O
+
+Всемирный	B-ORG
+день	I-ORG
+психического	I-ORG
+здоровья	I-ORG

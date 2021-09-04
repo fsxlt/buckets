@@ -1,0 +1,19 @@
+Victoria	B-LOC
+,	I-LOC
+British	I-LOC
+Columbia	I-LOC
+,	O
+Canada	B-LOC
+
+Basilika	B-ORG
+ng	I-ORG
+Tayabas	I-ORG
+
+Bunga	B-LOC
+(	I-LOC
+puno	I-LOC
+)	I-LOC
+
+Teresa	B-PER
+ng	I-PER
+Lisieux	I-PER

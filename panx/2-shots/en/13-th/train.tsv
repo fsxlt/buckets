@@ -1,0 +1,43 @@
+Choctaw	B-LOC
+County	I-LOC
+,	I-LOC
+Alabama	I-LOC
+
+Jean	B-PER
+De	I-PER
+Briac	I-PER
+-	O
+Shopkeeper	O
+
+'	O
+''	O
+Marianne	B-PER
+Thieme	I-PER
+''	O
+'	O
+
+**	O
+Sgùrr	B-LOC
+a	I-LOC
+'	I-LOC
+Ghreadaidh	I-LOC
+(	O
+973	O
+m	O
+)	O
+
+It	O
+is	O
+the	O
+site	O
+name	O
+for	O
+the	O
+Saqqaq	B-ORG
+culture	I-ORG
+.	O
+
+We	B-ORG
+Like	I-ORG
+to	I-ORG
+Rock	I-ORG

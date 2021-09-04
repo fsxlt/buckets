@@ -1,0 +1,101 @@
+'	O
+''	O
+Einhaus	O
+''	O
+'	O
+Almanya'nın	B-LOC
+kuzeyinde	O
+Schleswig-Holstein	B-LOC
+eyâletinde	O
+,	O
+Herzogtum	B-LOC
+Lauenburg	I-LOC
+iline	O
+bağlı	O
+bölge	O
+.	O
+
+Bağdat	B-LOC
+Eyaleti	I-LOC
+yerine	O
+Bağdat	B-LOC
+Vilayeti	I-LOC
+kurulmuştur	O
+.	O
+
+Kardemir	B-ORG
+Karabükspor'da	I-ORG
+ise	O
+ilk	O
+maçına	O
+Kasımpaşa	B-ORG
+SK	I-ORG
+karşısında	O
+çıkmış	O
+ve	O
+90	O
+dakika	O
+sahada	O
+kalmıştır	O
+.	O
+
+YÖNLENDİR	O
+FutureSex	B-ORG
+/	I-ORG
+LoveSounds	I-ORG
+
+Alfred	B-PER
+Molina	I-PER
+(	O
+Satipo	O
+)	O
+
+Mustafa	B-PER
+Kemal	I-PER
+Atatürk	I-PER
+,	O
+Silifke'ye	B-LOC
+olan	O
+ilgisini	O
+buraya	O
+dört	O
+kez	O
+gelerek	O
+göstermiştir	O
+.	O
+
+FC	B-ORG
+St.	I-ORG
+Pauli'de	I-ORG
+''kiralık	O
+''	O
+oynuyor	O
+.	O
+
+YÖNLENDİRME	O
+Kırmızı	B-PER
+Başlıklı	I-PER
+Kız	I-PER
+
+Thomas	B-PER
+Anders	I-PER
+ile	O
+oluşturdukları	O
+ikili	O
+grup	O
+Modern	B-ORG
+Talking	I-ORG
+ile	O
+tanınmaktadır	O
+.	O
+
+YÖNLENDİRME	O
+Karahallı	B-LOC
+,	I-LOC
+Şuhut	I-LOC
+
+yönlendirme	O
+Angut	B-LOC
+(	I-LOC
+kuş	I-LOC
+)	I-LOC

@@ -1,0 +1,67 @@
+Schutte	O
+,	O
+hier	O
+aangekom	O
+en	O
+is	O
+hy	O
+op	O
+Otjiwarongo	B-LOC
+bevestig	O
+.	O
+
+Die	O
+dorpie	O
+langs	O
+Valsbaai	B-LOC
+,	O
+Wes-Kaap	B-LOC
+,	O
+sien	O
+Rooiels	B-LOC
+,	I-LOC
+Wes-Kaap	I-LOC
+
+AANSTUUR	O
+Pous	B-PER
+Urbanus	I-PER
+II	I-PER
+
+Volksrepubliek	B-LOC
+van	I-LOC
+Sjina	I-LOC
+
+Dit	O
+het	O
+geëindig	O
+met	O
+Nectanebo	B-PER
+II	I-PER
+.	O
+
+Die	O
+meerderheid	O
+van	O
+die	O
+bevolking	O
+(	O
+85	O
+persent	O
+)	O
+is	O
+Bulgaars-Ortodokse	B-ORG
+Christene	I-ORG
+.	O
+
+Die	O
+stad	O
+handhaaf	O
+steeds	O
+sy	O
+historiese	O
+bande	O
+met	O
+die	O
+Amerikaanse	B-ORG
+Vloot	I-ORG
+.	O

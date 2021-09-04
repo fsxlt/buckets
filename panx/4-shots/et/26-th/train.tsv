@@ -1,0 +1,110 @@
+Henry	B-PER
+Purcell	I-PER
+,	O
+inglise	O
+helilooja	O
+ja	O
+organist	O
+(	O
+1659–1695	O
+)	O
+
+*4.	O
+jaoskond	O
+(	O
+dešireerimisalane	O
+luuretöö	O
+Itaalia	B-LOC
+ja	O
+Hispaania	B-LOC
+suhtes	O
+)	O
+
+Ta	O
+on	O
+abielus	O
+olnud	O
+Michael	B-PER
+Douglasega	I-PER
+.	O
+
+Ta	O
+abiellus	O
+Atalantaga	O
+ja	O
+nad	O
+said	O
+poja	O
+Parthenopaiose	B-PER
+.	O
+
+EÜB	O
+(	O
+Stepnoi	O
+asula	O
+,	O
+Rostovi	B-LOC
+oblast	I-LOC
+)	O
+
+Pala	B-LOC
+vald	I-LOC
+,	O
+Jõgeva	B-LOC
+maakond	I-LOC
+
+Väike	B-LOC
+konnarohi	I-LOC
+(	O
+''Alisma	O
+gramenium	O
+''	O
+)	O
+
+suuna	O
+Eesti	B-ORG
+Energia	I-ORG
+Õlitööstus	I-ORG
+
+Siberi	B-ORG
+Riiklik	I-ORG
+Lennundus-	I-ORG
+ja	I-ORG
+Kosmonautikaülikool	I-ORG
+
+Euroopa	B-ORG
+Ühendatud	I-ORG
+Vasakpoolsed	I-ORG
+ja	I-ORG
+Põhjala	I-ORG
+Vasak-Rohelised	I-ORG
+
+suuna	O
+John	B-PER
+William	I-PER
+Strutt	I-PER
+,	I-PER
+kolmas	I-PER
+parun	I-PER
+Rayleigh	I-PER
+
+Asub	O
+Náxose	B-LOC
+saarest	I-LOC
+8	O
+km	O
+läänes	O
+.	O
+
+Star	B-ORG
+Trek	I-ORG
+(	I-ORG
+animasari	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Petra	B-PER
+Majdič	I-PER
+''	O
+'	O

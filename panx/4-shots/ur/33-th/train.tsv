@@ -1,0 +1,61 @@
+رجوع_مکرر	O
+یاواپائی	B-LOC
+کاؤنٹی،	I-LOC
+ایریزونا	I-LOC
+
+شاہ	B-ORG
+تاج	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+سینٹ	B-LOC
+کیٹز	I-LOC
+و	I-LOC
+ناویس	I-LOC
+
+رجوع_مکرر	O
+امام	B-PER
+ابو	I-PER
+داؤد	I-PER
+
+رجوع_مکرر	O
+جعفرآباد	B-LOC
+علیا،	I-LOC
+قوچان	I-LOC
+عتيق	I-LOC
+
+رجوع_مکرر	O
+حلقہ	B-LOC
+این	I-LOC
+اے۔258	I-LOC
+
+عبد	B-PER
+المجید	I-PER
+اول	I-PER
+
+رجوع_مکرر	O
+ہولی	B-PER
+مک	I-PER
+کال	I-PER
+
+رجوع_مکرر	O
+جمہوریۂ	B-ORG
+چین	I-ORG
+کی	I-ORG
+انتظامی	I-ORG
+تقسیم	I-ORG
+
+رجوع_مکرر	O
+شميم	B-PER
+ديو	I-PER
+آزاد	I-PER
+
+رجوع_مکرر	O
+بسپا	B-ORG
+دانپہ	I-ORG
+جتی	I-ORG
+
+رجوع_مکرر	O
+آل	B-ORG
+محمد	I-ORG
+علی	I-ORG

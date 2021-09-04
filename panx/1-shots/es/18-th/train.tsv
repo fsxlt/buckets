@@ -1,0 +1,15 @@
+Aris	B-ORG
+Salónica	I-ORG
+BC	I-ORG
+(	O
+1999-2000	O
+)	O
+
+Troyano	B-LOC
+(	I-LOC
+informática	I-LOC
+)	I-LOC
+
+Juan	B-PER
+Natalicio	I-PER
+González	I-PER

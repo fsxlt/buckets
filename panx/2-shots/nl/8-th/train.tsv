@@ -1,0 +1,53 @@
+Mustin	B-LOC
+(	I-LOC
+Mecklenburg	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Linda	B-PER
+de	I-PER
+Mol	I-PER
+(	O
+RTL	B-PER
+4	I-PER
+)	O
+'	O
+''	O
+Wendy	B-PER
+van	I-PER
+Dijk	I-PER
+(	O
+RTL	B-PER
+4	I-PER
+)	O
+'	O
+''	O
+Chantal	B-PER
+Janzen	I-PER
+(	O
+AVRO	B-ORG
+/	O
+RTL	B-PER
+4	I-PER
+)	O
+''	O
+
+doorverwijzing	O
+Guy	B-PER
+van	I-PER
+Gisburne	I-PER
+
+''	O
+Vallonia	B-LOC
+declivis	I-LOC
+''	O
+
+Slavia	B-ORG
+Sofia	I-ORG
+-	O
+2.625	O
+
+Universiteit	B-ORG
+van	I-ORG
+Pisa	I-ORG

@@ -1,0 +1,31 @@
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O
+''	O
+'	O
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC

@@ -1,0 +1,75 @@
+Terres	B-LOC
+australes	I-LOC
+et	I-LOC
+antarctiques	I-LOC
+françaises	I-LOC
+
+**	O
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+Voyager	I-ORG
+''	O
+
+Ligne	B-ORG
+8	I-ORG
+du	I-ORG
+métro	I-ORG
+de	I-ORG
+Paris	I-ORG
+
+Duékoué	B-LOC
+vers	O
+l'est	O
+.	O
+
+Jean	B-PER
+IV	I-PER
+de	I-PER
+Nassau-Dillenbourg	I-PER
+
+Alliance	B-ORG
+des	I-ORG
+forces	I-ORG
+de	I-ORG
+progrès	I-ORG
+
+Andronic	B-PER
+II	I-PER
+de	I-PER
+Trébizonde	I-PER
+
+Nerlens	B-PER
+Noel	I-PER
+(	O
+15	O
+)	O
+
+REDIRECTION	O
+Crapaud	B-LOC
+de	I-LOC
+Woodhouse	I-LOC
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Oise	I-LOC
+
+Standoff	B-ORG
+:	I-ORG
+Les	I-ORG
+Négociateurs	I-ORG
+''	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Cher	I-LOC
+
+François	B-PER
+Marc	I-PER
+(	O
+PS	B-ORG
+)	O

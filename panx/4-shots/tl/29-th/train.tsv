@@ -1,0 +1,74 @@
+Bunga	B-LOC
+(	I-LOC
+puno	I-LOC
+)	I-LOC
+
+Papa	B-PER
+Tawadros	I-PER
+II	I-PER
+ng	I-PER
+Alehandriya	I-PER
+
+'	O
+''	O
+Puerto	B-LOC
+Carreño	I-LOC
+''	O
+'	O
+
+Enrique	B-PER
+II	I-PER
+ng	I-PER
+Inglatera	I-PER
+
+Bukas	B-ORG
+Na	I-ORG
+Lang	I-ORG
+Kita	I-ORG
+Mamahalin	I-ORG
+
+Konseho	B-ORG
+ng	I-ORG
+Constancia	I-ORG
+
+Nelson	B-PER
+Asaytono	I-PER
+(	O
+Sunkist	O
+)	O
+
+'	O
+''	O
+Ara	B-PER
+Mina	I-PER
+''	O
+'	O
+
+Mas	B-LOC
+malaking	I-LOC
+kalamnang	I-LOC
+pandibdib	I-LOC
+
+Kolehiyong	B-ORG
+Pang-agrikultura	I-ORG
+ng	I-ORG
+Pampanga	I-ORG
+
+**	O
+''	O
+Perya	B-ORG
+''	O
+(	O
+2011	O
+)	O
+
+Nord	B-LOC
+(	I-LOC
+Pransiya	I-LOC
+)	I-LOC
+
+Pamantasang	B-ORG
+Estatal	I-ORG
+ng	I-ORG
+Negros	I-ORG
+Oriental	I-ORG

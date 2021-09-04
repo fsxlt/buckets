@@ -1,0 +1,22 @@
+Bureau	B-ORG
+international	I-ORG
+de	I-ORG
+la	I-ORG
+paix	I-ORG
+
+Abbaye	B-ORG
+de	I-ORG
+Whitby	I-ORG
+(	O
+Whitby	B-LOC
+,	O
+Yorkshire	B-LOC
+du	I-LOC
+Nord	I-LOC
+)	O
+
+Chris	B-PER
+Waddle	I-PER
+(	O
+1960-	O
+)	O

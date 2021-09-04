@@ -1,0 +1,43 @@
+'	O
+''	O
+Ankara	B-ORG
+Demirspor	I-ORG
+''	O
+'	O
+
+La	B-LOC
+Plata	I-LOC
+,	O
+Arjantin	B-LOC
+
+Ostrogorsky	B-PER
+,	I-PER
+Georg	I-PER
+(	O
+çev	O
+.	O
+
+Resim	O
+:	O
+Mt	O
+erebus.jpg	O
+Erebus	B-LOC
+Dağı	I-LOC
+,	O
+(	O
+3.795	O
+m	O
+)	O
+,	O
+Antarktika	B-LOC
+.	O
+
+YÖNLENDİRME	O
+Mustafa	B-PER
+Yücel	I-PER
+Özbilgin	I-PER
+
+YÖNLENDİR	O
+Ah	B-ORG
+!	I-ORG
+Tanrıçam	I-ORG

@@ -1,0 +1,30 @@
+Usbong	B-LOC
+ng	I-LOC
+bruselas	I-LOC
+
+Magen	B-ORG
+David	I-ORG
+Adom	I-ORG
+
+''	O
+That	B-PER
+'s	I-PER
+Entertainment	I-PER
+''	O
+-	O
+GMA	B-ORG
+Network	I-ORG
+
+Alvin	B-PER
+Patrimonio	I-PER
+(	O
+Purefoods	O
+)	O
+
+Teresa	B-PER
+ng	I-PER
+Lisieux	I-PER
+
+Shibukawa	B-LOC
+,	I-LOC
+Gunma	I-LOC

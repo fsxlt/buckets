@@ -1,0 +1,82 @@
+في	B-PER
+-	I-PER
+رمز	I-PER
+الثأر	I-PER
+(	I-PER
+رواية	I-PER
+)	I-PER
+
+وهي	O
+أخت	O
+الفنانة	O
+أسيل	B-PER
+عمران	I-PER
+.	O
+
+تحويل	O
+موروس	B-LOC
+(	I-LOC
+لا	I-LOC
+كرونيا	I-LOC
+)	I-LOC
+
+تحويل	O
+أمريكا	B-ORG
+المفتوحة	I-ORG
+2004	I-ORG
+(	I-ORG
+كرة	I-ORG
+مضرب	I-ORG
+)	I-ORG
+
+تحويل	O
+هولند	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+براون	I-LOC
+)	I-LOC
+
+حقق	O
+بطولة	B-ORG
+المجلس	I-ORG
+العالمي	I-ORG
+للملاكمة	I-ORG
+.	O
+
+تحويل	O
+فرانكلين	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+كانت	O
+تستخدم	O
+بشكل	O
+أساسي	O
+من	O
+قبل	O
+القوات	B-ORG
+الجوية	I-ORG
+الفرنسية	I-ORG
+.	O
+
+ابن	B-PER
+أبي	I-PER
+رمثة	I-PER
+التميمي	I-PER
+
+تحويل	O
+نادي	B-ORG
+شنغهاي	I-ORG
+شينهوا	I-ORG
+
+تحويل	O
+غرينفيل	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+قائمة	B-PER
+ملوك	I-PER
+مصر	I-PER
+القديمة	I-PER

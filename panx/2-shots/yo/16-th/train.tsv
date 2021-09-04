@@ -1,0 +1,33 @@
+Pópù	B-PER
+Benedict	I-PER
+15k	I-PER
+
+Elena	B-PER
+Dementieva	I-PER
+''	O
+(	O
+Semifinals	O
+)	O
+
+Àgbájọ	B-ORG
+Káríayé	I-ORG
+fún	I-ORG
+Ìṣọ̀págun	I-ORG
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Ejigbo	I-LOC
+
+Ìkokò	B-LOC
+àbàwọ́n	I-LOC
+(	O
+''Crocuta	O
+crocuta	O
+''	O
+)	O
+
+Igbákejì	B-ORG
+Ààrẹ	I-ORG
+ilẹ̀	I-ORG
+Nàìjíríà	I-ORG

@@ -1,0 +1,68 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+-	O
+Unnur	B-PER
+Birna	I-PER
+Vilhjálmsdóttir	I-PER
+
+Shut	B-ORG
+Up	I-ORG
+'n	I-ORG
+Play	I-ORG
+Yer	I-ORG
+Guitar	I-ORG
+''	O
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Oise	I-LOC
+
+ALIH	O
+David	B-PER
+Friedrich	I-PER
+Strauss	I-PER
+
+'	O
+''	O
+Persija	B-ORG
+Jakarta	I-ORG
+''	O
+'	O
+
+Kota	B-LOC
+Kansas	I-LOC
+,	I-LOC
+Missouri	I-LOC
+
+ALIH	O
+Jugeodo	B-ORG
+Mot	I-ORG
+Bonae	I-ORG
+
+Pilihan	O
+Juri	O
+(	O
+Simon	B-PER
+Cowell	I-PER
+)	O
+Pilihan	O
+KontestanPilihan	O
+Produser	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gard	I-LOC
+
+Brad	B-PER
+Garrett	I-PER
+sebagai	O
+Kepala	B-ORG
+Pulau	I-ORG
+Paskah	I-ORG

@@ -1,0 +1,76 @@
+'	O
+''	O
+তিলকরত্নে	B-PER
+দিলশান	I-PER
+''	O
+'	O
+
+শহীদ	B-ORG
+জিয়াউর	I-ORG
+রহমান	I-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+**	O
+ইন্দোনেশিয়া	B-LOC
+(	O
+০.৮	O
+%	O
+জনসংখ্যা	O
+দ্বারা	O
+)	O
+
+পাকিস্তান	B-ORG
+পিপলস্‌	I-ORG
+পার্টি	I-ORG
+
+কোলেজ	B-ORG
+দ্য	I-ORG
+ফ্রঁস	I-ORG
+
+ফিনিক্স	B-LOC
+,	I-LOC
+অ্যারিজোনা	I-LOC
+
+টমাস	B-PER
+এডওয়ার্ড	I-PER
+লরেন্স	I-PER
+
+ব্রিটিশ	B-ORG
+ইস্ট	I-ORG
+ইন্ডিয়া	I-ORG
+কোম্পানি	I-ORG
+
+ওল্ড	B-LOC
+ট্রাফোর্ড	I-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+ম্যানচেস্টার	B-LOC
+
+'	O
+''	O
+ফ্রান্স	B-LOC
+''	O
+'	O
+
+জর্জ	B-PER
+ডব্লিউ	I-PER
+কেসি	I-PER
+,	I-PER
+জুনিয়র	I-PER
+
+রিও	B-LOC
+দে	I-LOC
+লা	I-LOC
+প্লাতা	I-LOC
+
+কোলোনিয়া	B-LOC
+দেল	I-LOC
+সাক্রামেন্তো	I-LOC

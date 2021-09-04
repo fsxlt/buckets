@@ -1,0 +1,31 @@
+Trương	B-PER
+Mạn	I-PER
+Ngọc	I-PER
+(	O
+张曼玉	O
+)	O
+
+Sayonara	B-ORG
+Zetsubō	I-ORG
+Sensei	I-ORG
+''	O
+(	O
+'	O
+''	O
+Kafuka	O
+Fuura	O
+''	O
+'	O
+)	O
+
+''	O
+Acianthera	B-LOC
+gracilisepala	I-LOC
+''	O
+(	O
+Brade	O
+)	O
+Luer	O
+,	O
+Monogr	O
+.	O

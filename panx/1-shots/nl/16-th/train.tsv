@@ -1,0 +1,28 @@
+Montcornet	B-LOC
+(	I-LOC
+Aisne	I-LOC
+)	I-LOC
+
+Fatick	B-LOC
+in	O
+het	O
+westen	O
+en	O
+het	O
+noordwesten	O
+.	O
+
+'	O
+''	O
+Jurgen	B-PER
+van	I-PER
+den	I-PER
+Goorbergh	I-PER
+''	O
+'	O
+
+Beijing	B-ORG
+Schmidt	I-ORG
+CCD	I-ORG
+Asteroid	I-ORG
+Program	I-ORG

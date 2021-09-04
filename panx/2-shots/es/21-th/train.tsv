@@ -1,0 +1,62 @@
+REDIRECCIÓN	O
+José	B-PER
+de	I-PER
+Gálvez	I-PER
+y	I-PER
+Gallardo	I-PER
+
+Poco	O
+después	O
+fue	O
+confirmado	O
+por	O
+su	O
+equipo	O
+para	O
+la	O
+Vuelta	B-ORG
+a	I-ORG
+España	I-ORG
+.	O
+
+Concepción	B-LOC
+de	I-LOC
+Buena	I-LOC
+Esperanza	I-LOC
+
+Para	O
+sanar	O
+golpes	O
+internos	O
+,	O
+se	O
+bebe	O
+el	O
+cocimiento	O
+mezclado	O
+con	O
+guaje	B-LOC
+cirial	I-LOC
+(	O
+sp	O
+.	O
+
+'	O
+''	O
+Kimiko	B-PER
+Date-Krumm	I-PER
+-	O
+Rika	B-PER
+Fujiwara	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Parque	B-ORG
+natural	I-ORG
+del	I-ORG
+Lago	I-ORG
+de	I-ORG
+Sanabria	I-ORG
+y	I-ORG
+alrededores	I-ORG

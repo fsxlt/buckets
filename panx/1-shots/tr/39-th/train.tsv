@@ -1,0 +1,25 @@
+Çin	B-LOC
+Halk	I-LOC
+Cumhuriyeti	I-LOC
+(	O
+Çin	B-ORG
+Halk	I-ORG
+Kurtuluş	I-ORG
+Ordusu	I-ORG
+)	O
+
+McDonald	B-ORG
+'s	I-ORG
+dizisinde	O
+Ronald	B-PER
+McDonald	I-PER
+seslendirmesi	O
+ile	O
+bilinmektedir	O
+.	O
+
+Porsche	B-ORG
+Type-935	O
+3.0L	O
+Turbo	O
+Flat-6	O

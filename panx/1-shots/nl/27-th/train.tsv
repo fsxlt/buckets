@@ -1,0 +1,41 @@
+Brawley	B-LOC
+,	O
+Calexico	B-LOC
+en	O
+El	B-LOC
+Centro	I-LOC
+zijn	O
+de	O
+steden	O
+met	O
+het	O
+meeste	O
+bevolkingsaantal	O
+.	O
+
+CDA	B-ORG
+(	O
+54	O
+zetels	O
+)	O
+===	O
+
+Het	O
+ligt	O
+aan	O
+een	O
+doodlopende	O
+afslag	O
+van	O
+de	O
+Europese	B-ORG
+weg	I-ORG
+10	I-ORG
+.	O
+
+'	O
+''	O
+Lionel	B-PER
+Barrymore	I-PER
+''	O
+'	O

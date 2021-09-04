@@ -1,0 +1,76 @@
+Martin	B-PER
+Luther	I-PER
+King	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+Louis	B-PER
+Armstrong	I-PER
+,	O
+(	O
+1901-1971	O
+)	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC

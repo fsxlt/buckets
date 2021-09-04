@@ -1,0 +1,40 @@
+ÁTIRÁNYÍTÁS	O
+1929-es	B-ORG
+indianapolisi	I-ORG
+500	I-ORG
+
+''A	O
+2014-es	B-ORG
+abu-dzabi	I-ORG
+nagydíj	I-ORG
+után	O
+frissítve	O
+.	O
+
+Sergio	B-PER
+Pérez	I-PER
+3.	O
+leggyorsabb	O
+köre	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Le	B-LOC
+Faouët	I-LOC
+(	I-LOC
+Côtes-d'Armor	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Ondřejov	B-LOC
+(	I-LOC
+Kelet-prágai	I-LOC
+járás	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O

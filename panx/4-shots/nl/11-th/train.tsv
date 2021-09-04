@@ -1,0 +1,108 @@
+''	O
+Kampioen	B-ORG
+Serie	I-ORG
+A	I-ORG
+
+DOORVERWIJZING	O
+SNV	B-ORG
+Netherlands	I-ORG
+Development	I-ORG
+Organisation	I-ORG
+
+'	O
+''	O
+Jack	B-PER
+Middelburg	I-PER
+''	O
+'	O
+
+DOORVERWIJZING	O
+Australische	B-LOC
+bonte	I-LOC
+scholekster	I-LOC
+
+Homicide	B-ORG
+:	I-ORG
+Life	I-ORG
+on	I-ORG
+the	I-ORG
+Street	I-ORG
+''	O
+
+De	O
+hoofdplaats	O
+is	O
+Kingfisher	B-LOC
+.	O
+
+==	O
+België	B-ORG
+&	I-ORG
+Nederland	I-ORG
+2000	I-ORG
+
+'	O
+''	O
+Boris	B-PER
+Becker	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Alex	B-PER
+Debón	I-PER
+''	O
+'	O
+
+Bannay	B-LOC
+(	I-LOC
+Marne	I-LOC
+)	I-LOC
+
+Hij	O
+reisde	O
+veel	O
+door	O
+onder	O
+andere	O
+Mexico	B-LOC
+,	O
+Europa	B-LOC
+en	O
+het	O
+Verre	B-LOC
+Oosten	I-LOC
+.	O
+
+Billie	B-PER
+Jean	I-PER
+King	I-PER
+''	O
+(	O
+halve	O
+finale	O
+)	O
+''	O
+
+Dit	O
+werd	O
+gedaan	O
+onder	O
+druk	O
+van	O
+Microsoft	B-ORG
+om	O
+het	O
+handelsmerk	O
+''Windows	O
+''	O
+(	O
+in	O
+het	O
+Verenigd	B-LOC
+Koninkrijk	I-LOC
+)	O
+te	O
+respecteren	O
+.	O

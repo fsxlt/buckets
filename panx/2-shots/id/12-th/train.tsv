@@ -1,0 +1,34 @@
+``	O
+Just	B-ORG
+the	I-ORG
+Way	I-ORG
+You	I-ORG
+Are	I-ORG
+''	O
+-	O
+Bruno	B-PER
+Mars	I-PER
+
+ALIH	O
+Lê	B-PER
+Văn	I-PER
+Khôi	I-PER
+
+Arsip	O
+kolom	O
+di	O
+The	B-ORG
+Guardian	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loir-et-Cher	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Saône-et-Loire	I-LOC

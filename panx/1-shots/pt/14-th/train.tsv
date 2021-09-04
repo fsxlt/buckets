@@ -1,0 +1,15 @@
+António	B-PER
+Vitorino	I-PER
+PS	B-ORG
+(	O
+Partido	B-ORG
+Socialista	I-ORG
+Europeu	I-ORG
+)	O
+
+Condado	B-LOC
+de	I-LOC
+Houston	I-LOC
+(	I-LOC
+Tennessee	I-LOC
+)	I-LOC

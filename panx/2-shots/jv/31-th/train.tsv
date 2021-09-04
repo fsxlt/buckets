@@ -1,0 +1,35 @@
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+ALIH	O
+Bacharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER

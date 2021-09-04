@@ -1,0 +1,67 @@
+Zama	B-ORG
+za	I-ORG
+Mwangaza	I-ORG
+
+Utegili	B-PER
+(	I-PER
+fizikia	I-PER
+)	I-PER
+
+Papa	B-PER
+Viktor	I-PER
+III	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+33314	O
+.	O
+
+Jangwa	B-LOC
+la	I-LOC
+Namib	I-LOC
+
+Tume	B-ORG
+ya	I-ORG
+Uchaguzi	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brazil	B-LOC
+
+2010	O
+Andre	B-PER
+Geim	I-PER
+na	O
+Konstantin	B-PER
+Novoselov	I-PER
+
+Papa	B-PER
+Innocent	I-PER
+XII	I-PER
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Tübingen	I-ORG
+
+Los	B-LOC
+Alamitos	I-LOC
+,	I-LOC
+California	I-LOC
+
+R	B-ORG
+U	I-ORG
+Still	I-ORG
+Down	I-ORG
+?	I-ORG
+(	I-ORG
+Remember	I-ORG
+Me	I-ORG
+)	I-ORG
+''	O

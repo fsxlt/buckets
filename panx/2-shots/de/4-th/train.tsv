@@ -1,0 +1,64 @@
+Der	O
+Landkreis	B-LOC
+Mittelsachsen	I-LOC
+umfasst	O
+das	O
+Gebiet	O
+der	O
+ehemaligen	O
+Landkreise	O
+Döbeln	B-LOC
+,	O
+Freiberg	B-LOC
+und	O
+Mittweida	B-LOC
+.	O
+
+George	B-PER
+R.	I-PER
+Davis	I-PER
+
+Koninklijk	B-ORG
+Instituut	I-ORG
+voor	I-ORG
+Taal-	I-ORG
+,	I-ORG
+Land-	I-ORG
+en	I-ORG
+Volkenkunde	I-ORG
+
+Sie	O
+befindet	O
+sich	O
+sieben	O
+Kilometer	O
+nördlich	O
+von	O
+Zlín	B-LOC
+und	O
+gehört	O
+zum	O
+Okres	B-LOC
+Zlín	I-LOC
+.	O
+
+===Erfolge	O
+in	O
+der	O
+UCI	B-ORG
+Europe	I-ORG
+Tour	I-ORG
+
+Der	O
+Gesamtsieg	O
+ging	O
+an	O
+Jacky	B-PER
+Ickx	I-PER
+und	O
+Ignazio	B-PER
+Giunti	I-PER
+in	O
+einem	O
+Werks	B-ORG
+.	O

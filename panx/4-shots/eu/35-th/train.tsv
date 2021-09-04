@@ -1,0 +1,106 @@
+BIRZUZENDU	O
+Tyne	B-ORG
+eta	I-ORG
+Wearko	I-ORG
+metroa	I-ORG
+
+'	O
+''	O
+Fuenmayor	B-LOC
+''	O
+'	O
+
+''	O
+Pseudocolaptes	B-LOC
+boissonneautii	I-LOC
+''	O
+
+Olivia	B-PER
+Molina	I-PER
+''	O
+''Veronica	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Corrèze	B-LOC
+departamenduan	O
+dago	O
+,	O
+Akitania-Limousin-Poitou-Charentes	B-LOC
+eskualdean	O
+.	O
+
+Bresciako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Tony	B-PER
+Rominger	I-PER
+''	O
+'	O
+96h	O
+14	O
+'	O
+50	O
+''	O
+
+Grant	B-LOC
+konderria	I-LOC
+(	I-LOC
+Kansas	I-LOC
+)	I-LOC
+
+Lankide	B-ORG
+Aurrezkiak	I-ORG
+finantzatu	O
+zuen	O
+eta	O
+libururaren	O
+azala	O
+nahiz	O
+argazkiak	O
+Nestor	B-PER
+Basterretxeak	I-PER
+egin	O
+zituen	O
+.	O
+
+**	O
+Forst	B-LOC
+(	I-LOC
+Baden	I-LOC
+)	I-LOC
+
+Ameriketako	B-ORG
+Estatu	I-ORG
+Batuetako	I-ORG
+gobernu	I-ORG
+sailak	I-ORG
+
+===	O
+Girondins	B-ORG
+de	I-ORG
+Bordeaux	I-ORG
+===	O
+
+'	O
+''	O
+Cadel	B-PER
+Evans	I-PER
+''	O
+'	O
+
+BIRZUZENDU	O
+The	B-ORG
+Sufferer	I-ORG
+&	I-ORG
+The	B-ORG
+Witness	I-ORG

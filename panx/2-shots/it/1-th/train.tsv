@@ -1,0 +1,51 @@
+Provincia	B-LOC
+autonoma	I-LOC
+di	I-LOC
+Trento	I-LOC
+
+Eduard	B-PER
+Sievers	I-PER
+(	O
+1850–1932	O
+)	O
+
+Il	O
+suo	O
+capoluogo	O
+è	O
+Calcutta	B-LOC
+.	O
+
+Anabel	B-PER
+Medina	I-PER
+Garrigues	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Memorial	B-ORG
+(	I-ORG
+associazione	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Flotta	B-ORG
+del	I-ORG
+Nord	I-ORG
+''	O
+'	O
+(	O
+quartier	O
+generale	O
+a	O
+Severomorsk	B-LOC
+)	O
+.	O
+
+Dobra	B-LOC
+(	I-LOC
+Hunedoara	I-LOC
+)	I-LOC

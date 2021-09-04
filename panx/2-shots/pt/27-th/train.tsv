@@ -1,0 +1,38 @@
+Ernie	B-PER
+Hudson	I-PER
+-	O
+Lucius	B-PER
+Fox	I-PER
+
+Krai	B-LOC
+de	I-LOC
+Krasnodar	I-LOC
+
+Nello	B-PER
+Pazzafini	I-PER
+-	O
+Jagoran	O
+
+Partido	B-ORG
+Democrático	I-ORG
+do	I-ORG
+Curdistão	I-ORG
+e	O
+União	B-ORG
+Patriótica	I-ORG
+do	I-ORG
+Curdistão	I-ORG
+
+``	O
+The	B-ORG
+Pale	I-ORG
+Haunt	I-ORG
+Departure	I-ORG
+''	O
+
+Condado	B-LOC
+de	I-LOC
+Ashland	I-LOC
+(	I-LOC
+Wisconsin	I-LOC
+)	I-LOC

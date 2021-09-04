@@ -1,0 +1,45 @@
+Hiervandaan	O
+staan	O
+die	O
+rivier	O
+bekend	O
+as	O
+die	O
+Kraairivier	B-LOC
+,	O
+wat	O
+deur	O
+diep	O
+klowe	O
+vanaf	O
+die	O
+dorp	O
+Barkly-Oos	B-LOC
+weswaarts	O
+tot	O
+in	O
+die	O
+Oranjerivier	B-LOC
+by	O
+Aliwal-Noord	B-ORG
+vloei	O
+.	O
+
+Volksrepubliek	B-LOC
+van	I-LOC
+Sjina	I-LOC
+
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Adrianus	I-PER
+I	I-PER
+.	O
+
+AANSTUUR	O
+Steve	B-ORG
+Biko	I-ORG
+Akademiese	I-ORG
+Hospitaal	I-ORG

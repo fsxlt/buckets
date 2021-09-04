@@ -1,0 +1,112 @@
+Melle	B-LOC
+6,9	O
+MW	O
+3,0	O
+WT	O
+2,3	O
+MW	O
+
+Bóbrka	B-LOC
+(	I-LOC
+powiat	I-LOC
+Krośnieński	I-LOC
+)	I-LOC
+
+Dit	O
+deed	O
+hij	O
+toen	O
+hij	O
+nog	O
+bij	O
+AFC	B-ORG
+Ajax	I-ORG
+speelde	O
+.	O
+
+'	O
+''	O
+Elina	B-PER
+Svitolina	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Francesca	B-PER
+Lollobrigida	I-PER
+''	O
+'	O
+
+DOORVERWIJZING	O
+Choszczno	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Dundee	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+Ernest	B-PER
+Claes	I-PER
+(	O
+1885-1968	O
+)	O
+
+Rijksmuseum	B-ORG
+Amsterdam	I-ORG
+,	O
+Amsterdam	B-LOC
+
+Żabia	B-LOC
+Wola	I-LOC
+(	I-LOC
+powiat	I-LOC
+Grodziski	I-LOC
+)	I-LOC
+
+Het	O
+bestond	O
+grofweg	O
+uit	O
+het	O
+huidige	O
+Piëmont	B-LOC
+(	O
+met	O
+uitzondering	O
+van	O
+het	O
+noordelijke	O
+Alpengebied	B-LOC
+)	O
+en	O
+het	O
+westelijk	O
+deel	O
+van	O
+de	O
+Ligurische	B-LOC
+kust	I-LOC
+tussen	O
+Ventimiglia	B-LOC
+en	O
+Savona	B-LOC
+.	O
+
+'	O
+''	O
+Yvonne	B-PER
+Nauta	I-PER
+''	O
+'	O
+
+DOORVERWIJZING	O
+Regen	B-ORG
+(	I-ORG
+neerslag	I-ORG
+)	I-ORG

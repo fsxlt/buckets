@@ -1,0 +1,43 @@
+Yumemiru	B-ORG
+Fifteen	I-ORG
+(	O
+夢見る	O
+15歳	O
+)	O
+
+Pasir	B-LOC
+Panjang	I-LOC
+,	I-LOC
+Negeri	I-LOC
+Sembilan	I-LOC
+
+Maharaja	B-PER
+Go-Daigo	I-PER
+naik	O
+takhta	O
+Jepun	B-LOC
+.	O
+
+Disney	B-ORG
+Channel	I-ORG
+Eropah	I-ORG
+Tengah	I-ORG
+dan	I-ORG
+Timur	I-ORG
+
+Beliau	O
+digantikan	O
+oleh	O
+anak	O
+lelaki	O
+kedua	O
+beliau	O
+,	O
+Cyrus	B-PER
+I	I-PER
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Drôme	I-LOC

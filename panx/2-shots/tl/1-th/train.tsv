@@ -1,0 +1,42 @@
+'	O
+''	O
+Katrina	B-PER
+Halili	I-PER
+,	O
+Alfred	B-PER
+Vargas	I-PER
+,	O
+Jewel	B-PER
+Mische	I-PER
+at	O
+JC	B-PER
+Tiuseco	I-PER
+''	O
+'	O
+
+Kaharian	B-ORG
+ng	I-ORG
+Tungning	I-ORG
+
+Tapa	B-ORG
+(	I-ORG
+karne	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Juan	B-PER
+Ponce	I-PER
+Enrile	I-PER
+''	O
+'	O
+
+Distritong	B-LOC
+pambatas	I-LOC
+ng	I-LOC
+Guimaras	I-LOC
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC

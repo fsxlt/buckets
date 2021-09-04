@@ -1,0 +1,103 @@
+ÁTIRÁNYÍTÁS	O
+Beaulieu	B-LOC
+(	I-LOC
+Haute-Loire	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Ayrton	B-PER
+Senna	I-PER
+''	O
+'	O
+
+Beastie	B-ORG
+Boys	I-ORG
+—	O
+''Sabotage	O
+''	O
+
+'	O
+''	O
+Héctor	B-PER
+Barberá	I-PER
+''	O
+'	O
+
+Üllői	B-ORG
+úti	I-ORG
+Stadion	I-ORG
+,	O
+[Budapest	O
+
+A	O
+főcímben	O
+mindig	O
+meggyújtanak	O
+egy	O
+kanócot	O
+,	O
+miközben	O
+az	O
+végigég	O
+Lalo	B-PER
+Schifrin	I-PER
+szintén	O
+legendás	O
+főcímzenéje	O
+szól	O
+.	O
+
+'	O
+''	O
+Thor	B-PER
+Hushovd	I-PER
+''	O
+'	O
+
+A	O
+főcsoportdöntőben	O
+a	O
+Chicago	B-ORG
+Bulls	I-ORG
+volt	O
+az	O
+ellenfelük	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Filadelfia	B-LOC
+(	I-LOC
+Olaszország	I-LOC
+)	I-LOC
+
+Indonézia	B-LOC
+és	O
+Pápua	B-LOC
+Új-Guinea	I-LOC
+területén	O
+honos	O
+.	O
+
+*Az	O
+A	B-ORG
+Momentary	I-ORG
+Lapse	I-ORG
+of	I-ORG
+Reason	I-ORG
+''	O
+című	O
+albumról	O
+.	O
+
+Düsseldorfba	B-LOC
+utazott	O
+Frankfurt	B-LOC
+am	I-LOC
+Mainon	I-LOC
+keresztül	O
+,	O
+ahol	O
+összeveszett	O
+kiadójával	O
+.	O

@@ -1,0 +1,46 @@
+Luis	B-PER
+I.a	I-PER
+Nafarroakoa	I-PER
+
+Herritartasuna	O
+lortu	O
+eta	O
+bi	O
+hilabetera	O
+Berlingo	B-ORG
+Harresia	I-ORG
+erori	O
+zen	O
+.	O
+
+'	O
+''	O
+Martina	B-PER
+Hingis	I-PER
+''	O
+'	O
+'	O
+''	O
+Anna	B-PER
+Kournikova	I-PER
+''	O
+'	O
+
+La	B-LOC
+Ferté-Macé	I-LOC
+(	O
+61168	O
+)	O
+
+BIRZUZENDU	O
+Vallières	B-LOC
+(	I-LOC
+Savoia	I-LOC
+Garaia	I-LOC
+)	I-LOC
+
+Roskildeko	B-ORG
+itsasontzi	I-ORG
+bikingoen	I-ORG
+museoa	I-ORG
+.	O

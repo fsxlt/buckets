@@ -1,0 +1,44 @@
+–	O
+Официално	O
+е	O
+регистриран	O
+ПФК	B-ORG
+Левски	I-ORG
+(	I-ORG
+София	I-ORG
+)	I-ORG
+.	O
+
+виж	O
+Снежанка	B-LOC
+(	I-LOC
+пещера	I-LOC
+)	I-LOC
+
+Надя	B-PER
+Петрова	I-PER
+''	O
+(	O
+полуфинал	O
+)	O
+
+``	O
+Soul	B-ORG
+to	I-ORG
+Squeeze	I-ORG
+''	O
+–	O
+4:50	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Западна	B-LOC
+Австралия	I-LOC
+.	O
+
+пренасочване	O
+Елън	B-PER
+Джонсън	I-PER
+Сърлийф	I-PER

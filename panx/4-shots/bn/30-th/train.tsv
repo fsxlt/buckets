@@ -1,0 +1,65 @@
+টার্কস্‌	B-LOC
+ও	I-LOC
+কেইকোস	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+এম-২৯৪	B-ORG
+(	I-ORG
+মিশিগান	I-ORG
+হাইওয়ে	I-ORG
+)	I-ORG
+
+আইওলুস	B-PER
+(	I-PER
+হেল্লেনের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+ম্যানচেস্টার	B-ORG
+ইউনাইটেড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+শ্রীলঙ্কার	B-LOC
+ধূসর	I-LOC
+ধনেশ	I-LOC
+
+ভারতীয়	B-ORG
+জাতীয়	I-ORG
+কংগ্রেস	I-ORG
+
+**	O
+পের্সেস	B-PER
+(	I-PER
+টাইটান	I-PER
+)	I-PER
+
+মেক্সিকো	B-ORG
+সিটি	I-ORG
+মেট্রো	I-ORG
+
+ইয়োহানেস	B-PER
+ডিডেরিক	I-PER
+ফান	I-PER
+ডার	I-PER
+ভাল্‌স	I-PER
+
+রানাসিংহে	B-LOC
+প্রেমাদাসা	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+কলম্বো	B-LOC
+,	O
+শ্রীলঙ্কা	B-LOC
+
+হ্যারি	B-PER
+পটার	I-PER
+-	O
+ড্যানিয়েল	B-PER
+র‌্যাডক্লিফ	I-PER
+
+হারারে	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+,	O
+হারারে	B-LOC

@@ -1,0 +1,37 @@
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+ALIH	O
+Muhammad	B-PER
+bin	I-PER
+Idris	I-PER
+asy-Syafi`i	I-PER
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG
+
+ALIH	O
+Bacharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER

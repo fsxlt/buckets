@@ -1,0 +1,34 @@
+ALIH	O
+Kromatografi	B-ORG
+cair	I-ORG
+kinerja	I-ORG
+tinggi	I-ORG
+
+ALIH	O
+Charlotte	B-LOC
+,	I-LOC
+Carolina	I-LOC
+Utara	I-LOC
+
+ALIH	O
+Konfederasi	B-ORG
+Swiss	I-ORG
+Lama	I-ORG
+
+ALIH	O
+Provinsi	B-LOC
+Dak	I-LOC
+Nong	I-LOC
+
+ALIH	O
+Jigme	B-PER
+Khesar	I-PER
+Namgyel	I-PER
+Wangchuck	I-PER
+
+***	O
+Borislav	B-PER
+Paravac	I-PER
+(	O
+2003–2006	O
+)	O

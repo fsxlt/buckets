@@ -1,0 +1,43 @@
+REDIRECCIÓN	O
+José	B-PER
+Baquíjano	I-PER
+y	I-PER
+Carrillo	I-PER
+de	I-PER
+Córdoba	I-PER
+
+REDIRECCIÓN	O
+Condado	B-LOC
+de	I-LOC
+Winkler	I-LOC
+
+==	O
+Isla	B-LOC
+de	I-LOC
+Gotland	I-LOC
+==	O
+
+Alejandra	B-PER
+Guzmán	I-PER
+-	O
+''Celia	O
+''	O
+
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Panamá	I-ORG
+
+REDIRECCIÓN	O
+Misión	B-ORG
+de	I-ORG
+las	I-ORG
+Naciones	I-ORG
+Unidas	I-ORG
+en	I-ORG
+la	I-ORG
+República	I-ORG
+Democrática	I-ORG
+del	I-ORG
+Congo	I-ORG

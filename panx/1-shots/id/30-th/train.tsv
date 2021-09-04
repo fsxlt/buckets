@@ -1,0 +1,15 @@
+Ratu	B-PER
+Ratna	I-PER
+dari	I-PER
+Nepal	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meuse	I-LOC
+
+Stairway	B-ORG
+To	I-ORG
+Heaven	I-ORG
+''	O

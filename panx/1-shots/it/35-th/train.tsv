@@ -1,0 +1,23 @@
+(	O
+)	O
+Squadre	O
+appartenenti	O
+alla	O
+Erste	B-ORG
+Liga	I-ORG
+.	O
+
+Borough	B-LOC
+di	I-LOC
+Fairbanks	I-LOC
+North	I-LOC
+Star	I-LOC
+
+Marcos	B-PER
+Baghdatis	I-PER
+''	O
+(	O
+quarti	O
+di	O
+finale	O
+)	O

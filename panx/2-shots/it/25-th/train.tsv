@@ -1,0 +1,36 @@
+Be	B-ORG
+Cool	I-ORG
+,	I-ORG
+Scooby-Doo	I-ORG
+!	I-ORG
+
+'	B-PER
+''	I-PER
+Uzo	I-PER
+Aduba	I-PER
+''	I-PER
+'	B-PER
+-	O
+Orange	B-ORG
+Is	I-ORG
+the	I-ORG
+New	I-ORG
+Black	I-ORG
+''	O
+
+Luisa	B-PER
+Maria	I-PER
+di	I-PER
+Baden	I-PER
+
+Ataköy	B-ORG
+,	O
+Provincia	B-LOC
+di	I-LOC
+Tokat	I-LOC
+
+San	B-LOC
+Gimignano	I-LOC
+(	O
+SI	B-LOC
+)	O

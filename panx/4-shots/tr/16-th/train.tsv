@@ -1,0 +1,101 @@
+**	O
+Tim	B-PER
+Robbins	I-PER
+/	O
+Jack	B-PER
+Black	I-PER
+
+YÖNLENDİRME	O
+Mahkemeağcin	B-LOC
+,	I-LOC
+Kızılcahamam	I-LOC
+
+Ancak	O
+eserin	O
+asıl	O
+konusu	O
+Moğol	B-ORG
+İmparatorluğu'nun	I-ORG
+nasıl	O
+kurulduğu	O
+ile	O
+ilgilidir	O
+.	O
+
+'	O
+''	O
+Quentin	B-PER
+Tarantino	I-PER
+''	O
+'	O
+
+Oyunda	O
+birçok	O
+araç	O
+,	O
+Londra	B-LOC
+ve	O
+San	B-LOC
+Francisco	I-LOC
+şehirlerinde	O
+sürebiliyor	O
+.	O
+
+Dizide	O
+,	O
+şovun	O
+çekildiği	O
+Lima	B-LOC
+,	I-LOC
+Ohio'da	I-LOC
+araba	O
+tamircisi	O
+olarak	O
+geçimini	O
+sağlamaktadır	O
+.	O
+
+Yarışa	O
+ilk	O
+sıradan	O
+başlayan	O
+Jean	B-PER
+Alesi	I-PER
+,	O
+sona	O
+kadar	O
+yarışta	O
+liderliği	O
+koruyamadı	O
+.	O
+
+YÖNLENDİR	O
+Uluslararası	B-ORG
+Adalet	I-ORG
+Divanı	I-ORG
+
+'	O
+''	O
+Bilal	B-PER
+Kısa	I-PER
+''	O
+'	O
+
+``	O
+Stir	B-ORG
+Me	I-ORG
+Up	I-ORG
+''	O
+
+Hint	B-LOC
+şebeği	I-LOC
+(	O
+''Macaca	O
+mulatta	O
+''	O
+)	O
+
+Thriller	B-ORG
+(	I-ORG
+şarkı	I-ORG
+)	I-ORG

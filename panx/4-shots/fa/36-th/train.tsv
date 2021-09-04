@@ -1,0 +1,72 @@
+دم‌بادبزنی	B-LOC
+شکم‌بلوطی	I-LOC
+,	O
+''Rhipidura	O
+hyperythra	O
+''	O
+
+تغییرمسیر	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	I-LOC
+علی‌آباد	I-LOC
+
+خورشیدگرفتگی	B-ORG
+۱۰	I-ORG
+تیر	I-ORG
+۱۳۹۰	I-ORG
+
+تغییرمسیر	O
+مورچه‌خوار	B-LOC
+درختی	I-LOC
+شمالی	I-LOC
+
+تیلور	B-PER
+لاتنر	I-PER
+در	O
+نقش	O
+جیکوب	B-PER
+بلک	I-PER
+
+تغییرمسیر	O
+شهرستان	B-LOC
+بیگ	I-LOC
+هورن،	I-LOC
+وایومینگ	I-LOC
+
+تغییرمسیر	O
+فرنسیس	B-PER
+دسوزا،	I-PER
+بارونس	I-PER
+دسوزا	I-PER
+
+تغییر_مسیر	O
+همه	B-ORG
+چراغ‌های	I-ORG
+کوچک	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+دریادار	B-PER
+حبیب‌الله	B-PER
+سیاری،	I-PER
+فرمانده	O
+نیروی	B-ORG
+دریایی	I-ORG
+ارتش	I-ORG
+جمهوری	I-ORG
+اسلامی	I-ORG
+ایران	I-ORG
+
+تغییرمسیر	O
+فرانتس	B-PER
+یکم،	I-PER
+امپراتور	I-PER
+مقدس	I-PER
+روم	I-PER

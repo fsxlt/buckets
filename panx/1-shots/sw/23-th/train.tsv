@@ -1,0 +1,15 @@
+Papa	B-PER
+Leo	I-PER
+I	I-PER
+
+``	O
+You	B-ORG
+Rock	I-ORG
+My	I-ORG
+World	I-ORG
+''	O
+
+Lake	B-LOC
+Forest	I-LOC
+,	I-LOC
+California	I-LOC

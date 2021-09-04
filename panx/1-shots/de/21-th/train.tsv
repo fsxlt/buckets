@@ -1,0 +1,24 @@
+Johann	B-PER
+Heinrich	I-PER
+Wilhelm	I-PER
+Tischbein	I-PER
+stellte	O
+dieses	O
+Grabmal	O
+im	O
+Hintergrund	O
+seines	O
+Bildes	O
+Goethe	B-ORG
+in	I-ORG
+der	I-ORG
+Campagna	I-ORG
+dar	O
+.	O
+
+3	O
+-	O
+teilweise	O
+im	O
+Winnebago	B-LOC
+County	I-LOC

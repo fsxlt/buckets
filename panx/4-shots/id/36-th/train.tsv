@@ -1,0 +1,87 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardennes	I-LOC
+
+'	O
+''	O
+Program	B-ORG
+Pangan	I-ORG
+Dunia	I-ORG
+''	O
+'	O
+
+ALIH	O
+Gereja	B-ORG
+Sion	I-ORG
+Jakarta	I-ORG
+
+-	O
+Elfin	B-PER
+Pertiwi	I-PER
+Rappa	I-PER
+
+Katy	B-PER
+Perry	I-PER
+featuring	O
+Snoop	B-PER
+Dogg	I-PER
+—	O
+``	O
+California	B-ORG
+Gurls	I-ORG
+''	O
+
+Say	B-ORG
+My	I-ORG
+Name	I-ORG
+oleh	O
+Destiny	B-ORG
+'s	I-ORG
+Child	I-ORG
+
+Terdapat	O
+tiga	O
+pilihan	O
+ukuran	O
+huruf	B-LOC
+,	O
+pilihan	O
+kecil	O
+,	O
+sedang	O
+,	O
+dan	O
+besar	O
+.	O
+
+ALIH	O
+Noh	B-PER
+Alam	I-PER
+Shah	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardèche	I-LOC
+
+'	O
+''	O
+-	O
+Vania	B-PER
+Larissa	I-PER
+''	O
+'	O
+
+ALIH	O
+Helena	B-LOC
+,	I-LOC
+Montana	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Charente-Maritime	I-LOC

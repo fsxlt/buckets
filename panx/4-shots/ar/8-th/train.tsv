@@ -1,0 +1,82 @@
+تحويل	O
+أميتي	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+ولد	O
+في	O
+فيلادلفيا،	B-LOC
+بنسيلفانيا	I-LOC
+.	O
+
+منتخب	B-ORG
+إسبانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+'	O
+''	O
+أوغوتشي	B-PER
+أونييوو	I-PER
+''	O
+'	O
+
+راؤول	B-PER
+راميريز	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+عبيد	B-PER
+الله	I-PER
+بن	I-PER
+زياد	I-PER
+
+تحويل	O
+مانتشستر	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+مع	O
+النادي	B-ORG
+الأهلي	I-ORG
+'	O
+''	O
+
+تحويل	O
+ثوم	B-ORG
+ثلاثي	I-ORG
+الأوراق	I-ORG
+
+تحويل	O
+أمام	B-LOC
+زادة	I-LOC
+محمد	I-LOC
+حسن	I-LOC
+(	I-LOC
+زلاغي	I-LOC
+الغربي	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251406	O
+
+تحويل	O
+آن	B-PER
+أميرة	I-PER
+أورانج	I-PER

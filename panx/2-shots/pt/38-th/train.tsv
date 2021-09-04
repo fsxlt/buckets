@@ -1,0 +1,40 @@
+Janet	B-PER
+Jackson	I-PER
+—	O
+``	O
+Miss	B-ORG
+You	I-ORG
+Much	I-ORG
+''	O
+
+'	O
+''	O
+RBS	B-LOC
+TV	I-LOC
+(	O
+Rede	B-ORG
+Globo	I-ORG
+)	O
+'	O
+''	O
+
+República	B-LOC
+da	I-LOC
+Udmúrtia	I-LOC
+
+'	O
+''	O
+Pastor	B-PER
+Maldonado	I-PER
+''	O
+'	O
+
+''	O
+Habrosyne	O
+pyritoides	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG

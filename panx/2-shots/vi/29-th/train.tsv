@@ -1,0 +1,47 @@
+Vùng	B-LOC
+đô	I-LOC
+thị	I-LOC
+phức	I-LOC
+hợp	I-LOC
+Dallas–Fort	I-LOC
+Worth	I-LOC
+
+đổi	O
+Cô	B-ORG
+bé	I-ORG
+đến	I-ORG
+từ	I-ORG
+những	I-ORG
+đám	I-ORG
+mây	I-ORG
+
+Lexington]]	O
+,	O
+Massachusetts	B-LOC
+,	O
+Hoa	B-LOC
+Kỳ	I-LOC
+
+Alicia	B-PER
+Keys	I-PER
+cho	O
+``	O
+Fallin	B-ORG
+'	I-ORG
+''	O
+
+Hay	O
+tin	O
+,	O
+tướng	O
+Nguyễn	B-PER
+Tri	I-PER
+Phương	I-PER
+liền	O
+đốc	O
+lính	O
+bộ	O
+tới	O
+đánh	O
+đuổi	O
+.	O

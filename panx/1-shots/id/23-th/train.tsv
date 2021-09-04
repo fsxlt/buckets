@@ -1,0 +1,22 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loir-et-Cher	I-LOC
+
+'	O
+''	O
+Park	B-PER
+Bom	I-PER
+''	O
+'	O
+(	O
+2NE1	B-ORG
+)	O
+
+'	O
+''	O
+Eintracht	B-ORG
+Frankfurt	I-ORG
+''	O
+'	O

@@ -1,0 +1,56 @@
+ÁTIRÁNYÍTÁS	O
+Bodiong	B-PER
+Christian	I-PER
+Ebala	I-PER
+
+ÁTIRÁNYÍTÁS	O
+Autódromo	B-LOC
+Oscar	I-LOC
+y	I-LOC
+Juan	I-LOC
+Gálvez	I-LOC
+
+'	O
+''	O
+Szovjet	B-ORG
+bajnok	I-ORG
+''	O
+'	O
+
+I.	B-PER
+Konstantin	I-PER
+és	O
+Zsófia	B-PER
+porosz	I-PER
+királyi	I-PER
+hercegnő	I-PER
+első	O
+fia	O
+,	O
+Sándor	B-PER
+bátyja	O
+.	O
+
+Avanai	B-ORG
+cumori	I-ORG
+no	I-ORG
+,	I-ORG
+genki	I-ORG
+de	I-ORG
+ne	I-ORG
+''	O
+
+Észak-Ukrajnában	O
+a	O
+csernobili	B-LOC
+atomerőmű-balesetet	I-LOC
+követő	O
+sugárszennyezés	O
+máig	O
+káros	O
+hatással	O
+van	O
+az	O
+ott	O
+élőkre	O
+.	O

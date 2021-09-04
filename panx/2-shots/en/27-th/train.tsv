@@ -1,0 +1,35 @@
+'	O
+''	O
+Louisville	B-LOC
+,	I-LOC
+Kentucky	I-LOC
+''	O
+'	O
+
+``	O
+Aku	B-ORG
+Memilih	I-ORG
+Setia	I-ORG
+''	O
+
+Manchukuo	B-ORG
+Air	I-ORG
+Force	I-ORG
+
+16	O
+-	O
+Tony	B-PER
+Hall	I-PER
+
+Jarrod	B-PER
+Saltalamacchia	I-PER
+(	O
+2006–2007	O
+)	O
+
+A	O
+typical	O
+example	O
+is	O
+Earith	B-LOC
+Bulwark	I-LOC

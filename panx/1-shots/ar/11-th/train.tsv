@@ -1,0 +1,15 @@
+بيل	B-ORG
+وسيباستيان	I-ORG
+(	I-ORG
+أنمي	I-ORG
+)	I-ORG
+
+جين	B-PER
+كلود	I-PER
+فان	I-PER
+دام	I-PER
+
+تحويل	O
+قبردينو	B-LOC
+-	I-LOC
+بلقاريا	I-LOC

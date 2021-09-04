@@ -1,0 +1,19 @@
+''populifolius	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+Célestin	B-PER
+Alfred	I-PER
+Cogniaux	I-PER
+
+'	O
+''	O
+Grand	B-LOC
+Cape	I-LOC
+Mount	I-LOC
+''	O
+'	O

@@ -1,0 +1,91 @@
+REDIRECCIÓN	O
+Arión	B-PER
+de	I-PER
+Lesbos	I-PER
+
+Estación	B-ORG
+de	I-ORG
+Orense-Empalme	I-ORG
+
+Además	O
+la	O
+banda	O
+cita	O
+a	O
+McFly	B-ORG
+,	O
+Blink-182	B-ORG
+,	O
+All	B-ORG
+Time	I-ORG
+Low	I-ORG
+,	O
+Mayday	B-ORG
+Parade	I-ORG
+,	O
+Green	B-ORG
+Day	I-ORG
+,	O
+Boys	B-ORG
+Like	I-ORG
+Girls	I-ORG
+y	O
+Busted	B-ORG
+como	O
+sus	O
+principales	O
+influencias	O
+.	O
+
+**	O
+John	B-PER
+Stockton	I-PER
+,	O
+Utah	B-ORG
+Jazz	I-ORG
+
+El	O
+alcalde	O
+es	O
+Pieter	B-PER
+De	I-PER
+Crem	I-PER
+.	O
+
+REDIRECCIÓN	O
+San	B-LOC
+Giorgio	I-LOC
+su	I-LOC
+Legnano	I-LOC
+
+Condado	B-LOC
+de	I-LOC
+Crawford	I-LOC
+(	I-LOC
+Míchigan	I-LOC
+)	I-LOC
+
+Parque	B-ORG
+nacional	I-ORG
+Iguazú	I-ORG
+-	O
+Argentina	B-LOC
+y	O
+Brasil	B-LOC
+
+Hermann	B-PER
+Wilhelm	I-PER
+Rudolf	I-PER
+Marloth	I-PER
+
+Acre	B-LOC
+(	I-LOC
+Brasil	I-LOC
+)	I-LOC
+.	O
+
+Seúl	B-LOC
+,	O
+Corea	B-LOC
+del	I-LOC
+Sur	I-LOC

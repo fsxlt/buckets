@@ -1,0 +1,33 @@
+ইউনিভার্সিটি	B-ORG
+অফ	I-ORG
+ওয়েস্টার্ন	I-ORG
+অন্টারিও	I-ORG
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+জুডো	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৭৩	I-ORG
+কেজি	I-ORG
+
+আলেকজান্ডার	B-PER
+গ্রাহাম	I-PER
+বেল	I-PER
+
+বুলবুল	B-PER
+আহমেদ	I-PER
+ও	O
+কবরী	B-PER
+সারোয়ার	I-PER
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+ফিনিক্স	B-LOC
+,	I-LOC
+অ্যারিজোনা	I-LOC

@@ -1,0 +1,30 @@
+Namanya	O
+diambil	O
+dari	O
+nama	O
+Albert	B-PER
+Einstein	I-PER
+dan	O
+belum	O
+diketahui	O
+penggunaannya	O
+.	O
+
+*Prem	O
+=	O
+Liga	B-ORG
+Primer	I-ORG
+(	O
+)	O
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Hautes-Pyrénées	I-LOC

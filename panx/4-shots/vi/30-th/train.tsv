@@ -1,0 +1,78 @@
+'	O
+''	O
+Frances	B-PER
+McDormand	I-PER
+''	O
+'	O
+
+ĐỔI	O
+Lot	B-LOC
+,	I-LOC
+Midi-Pyrénées	I-LOC
+
+đổi	O
+Thám	B-ORG
+tử	I-ORG
+Conan	I-ORG
+:	I-ORG
+Mười	I-ORG
+lăm	I-ORG
+phút	I-ORG
+im	I-ORG
+lặng	I-ORG
+
+Maroon	B-ORG
+5	I-ORG
+và	O
+Christina	B-PER
+Aguilera	I-PER
+
+đổi	O
+Kane	B-PER
+(	I-PER
+đô	I-PER
+vật	I-PER
+)	I-PER
+
+Tống	B-PER
+Tương	I-PER
+Công	I-PER
+mắc	O
+lừa	O
+nước	O
+Sở	O
+
+đổi	O
+Hút	B-LOC
+mật	I-LOC
+lưng	I-LOC
+tím	I-LOC
+miền	I-LOC
+tây	I-LOC
+
+Đảng	B-ORG
+Cộng	I-ORG
+sản	I-ORG
+Liên	I-ORG
+Xô	I-ORG
+
+đổi	O
+Bắp	B-LOC
+chuối	I-LOC
+đốm	I-LOC
+đen	I-LOC
+
+*[2005.02.16]	O
+NEED	B-ORG
+YOUR	I-ORG
+LOVE	I-ORG
+3	O
+
+đổi	O
+Xã	B-LOC
+Reily	I-LOC
+,	I-LOC
+Quận	I-LOC
+Butler	I-LOC
+,	I-LOC
+Ohio	I-LOC

@@ -1,0 +1,85 @@
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+Punika	O
+ugi	O
+langkung	O
+amargi	O
+kabegjan	O
+,	O
+amargi	O
+Michael	B-PER
+Schumacher	I-PER
+ingkang	O
+nalika	O
+punika	O
+saweg	O
+mimpin	O
+balapan	O
+,	O
+ngalami	O
+perkawis	O
+transmisi	O
+wonten	O
+ing	O
+lap	O
+ingkang	O
+pungkasan	O
+.	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Komite	B-PER
+Nasional	I-PER
+Keselamatan	I-PER
+Transportasi	I-PER
+(	O
+KNKT	O
+)	O
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC

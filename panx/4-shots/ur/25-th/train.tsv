@@ -1,0 +1,81 @@
+رجوع_مکرر	O
+مورگن	B-LOC
+کاؤنٹی،	I-LOC
+کینٹکی	I-LOC
+
+حنا	B-PER
+دلپذیر	I-PER
+بطور	O
+مومو	O
+/	O
+ممتاز	O
+
+رجوع_مکرر	O
+پناہ	B-ORG
+گزینوں	I-ORG
+کا	I-ORG
+عالمی	I-ORG
+دن	I-ORG
+
+رجوع_مکرر	O
+بٹلر	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+میامی	I-LOC
+کاؤنٹی،	I-LOC
+انڈیانا	I-LOC
+
+رجوع_مکرر	O
+تووائی	B-ORG
+عوامی	I-ORG
+جمہوریہ	I-ORG
+
+'	O
+''	O
+داوید	B-PER
+بن	I-PER
+گوریون	I-PER
+''	O
+'	O
+
+'	O
+''	O
+ولیم	B-PER
+ہاورڈ	I-PER
+ٹافٹ	I-PER
+''	O
+'	O
+(	O
+1857–1930	O
+)	O
+
+رجوع_مکرر	O
+دار	B-ORG
+العلوم	I-ORG
+ندوۃ	I-ORG
+العلماء	I-ORG
+
+رجوع_مکرر	O
+احمد	B-PER
+بن	I-PER
+محمد	I-PER
+ثعلبی	I-PER
+
+رجوع_مکرر	O
+شہرستان	B-LOC
+ثلاث	I-LOC
+باباجانی	I-LOC
+
+رجوع_مکرر	O
+ایبٹ	B-ORG
+آباد	I-ORG
+کرکٹ	I-ORG
+ٹیم	I-ORG
+
+رجوع_مکرر	O
+وائٹ	B-LOC
+ریور	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مشی	I-LOC
+گن	I-LOC

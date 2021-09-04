@@ -1,0 +1,19 @@
+Marshall	B-LOC
+County	I-LOC
+,	I-LOC
+Minnesota	I-LOC
+
+''	O
+The	B-ORG
+Stars	I-ORG
+Come	I-ORG
+out	I-ORG
+on	I-ORG
+Sesame	I-ORG
+Street	I-ORG
+''	O
+
+--	O
+Vince	B-PER
+Courville	I-PER
+''	O

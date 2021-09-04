@@ -1,0 +1,56 @@
+**	O
+Terry	B-PER
+Cummings	I-PER
+,	O
+Milwaukee	B-ORG
+Bucks	I-ORG
+
+Labor	O
+que	O
+compartió	O
+con	O
+Pedro	B-PER
+de	I-PER
+Répide	I-PER
+.	O
+
+Se	O
+encuentra	O
+en	O
+Bolivia	B-LOC
+,	O
+Brasil	B-LOC
+,	O
+Colombia	B-LOC
+,	O
+Costa	B-LOC
+Rica	I-LOC
+,	O
+Ecuador	B-LOC
+,	O
+Honduras	B-LOC
+,	O
+Nicaragua	B-LOC
+,	O
+Panamá	B-LOC
+,	O
+Perú	B-LOC
+,	O
+y	O
+Venezuela	B-LOC
+.	O
+
+Unión	B-ORG
+Internacional	I-ORG
+de	I-ORG
+la	I-ORG
+Marioneta	I-ORG
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O

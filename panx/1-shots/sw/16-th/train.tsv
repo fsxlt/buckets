@@ -1,0 +1,23 @@
+Jimbo	B-LOC
+ya	I-LOC
+Béjaïa	I-LOC
+(	I-LOC
+Aljeria	I-LOC
+)	I-LOC
+
+Chuo	B-ORG
+Kikuu	I-ORG
+Huria	I-ORG
+cha	I-ORG
+Tanzania	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+100.01	O
+km²	B-ORG
+.	O
+
+Agostino	B-PER
+wa	I-PER
+Hippo	I-PER

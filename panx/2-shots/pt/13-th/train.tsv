@@ -1,0 +1,45 @@
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Copa	B-ORG
+do	I-ORG
+Mundo	I-ORG
+de	I-ORG
+Futebol	I-ORG
+Feminino	I-ORG
+de	I-ORG
+2007	I-ORG
+
+'	O
+''	O
+Jackie	B-PER
+Stewart	I-PER
+''	O
+'	O
+
+Columbus	B-LOC
+(	I-LOC
+Ohio	I-LOC
+)	I-LOC
+
+Rhapsody	B-ORG
+of	I-ORG
+Fire	I-ORG
+
+'	O
+''	O
+Berlim	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Andrea	B-PER
+Hlaváčková	I-PER
+Lucie	B-PER
+Hradecká	I-PER

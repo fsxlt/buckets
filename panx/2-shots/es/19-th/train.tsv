@@ -1,0 +1,47 @@
+Mountain	B-LOC
+Green	I-LOC
+(	O
+lugar	O
+no	O
+incorporado	O
+)	O
+
+João	B-PER
+de	I-PER
+Santarém	I-PER
+
+REDIRECCIÓN	O
+Adiós	B-ORG
+Sui	I-ORG
+Géneris	I-ORG
+,	I-ORG
+parte	I-ORG
+I	I-ORG
+&	I-ORG
+parte	I-ORG
+II	I-ORG
+
+REDIRECCIÓN	O
+Música	B-ORG
+folclórica	I-ORG
+de	I-ORG
+Turquía	I-ORG
+
+Frecuenta	O
+a	O
+Miguel	B-PER
+Hernández	I-PER
+(	O
+con	O
+quien	O
+mantiene	O
+una	O
+relación	O
+amorosa	O
+)	O
+.	O
+
+Newport	B-LOC
+(	I-LOC
+desambiguación	I-LOC
+)	I-LOC

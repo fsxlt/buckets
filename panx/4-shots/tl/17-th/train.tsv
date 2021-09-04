@@ -1,0 +1,84 @@
+Dahil	B-ORG
+May	I-ORG
+Isang	I-ORG
+Ikaw	I-ORG
+''	O
+
+'	O
+''	O
+Shine	B-ORG
+We	I-ORG
+Are	I-ORG
+!	I-ORG
+''	O
+'	O
+''	O
+
+''	O
+Tasya	B-ORG
+Fantasya	I-ORG
+''	O
+(	O
+2008	O
+)	O
+
+Talatuntunan	B-ORG
+ng	I-ORG
+Kaunlarang	I-ORG
+Pantao	I-ORG
+
+Lawa	B-LOC
+ng	I-LOC
+Victoria	I-LOC
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Kahoku	B-LOC
+,	I-LOC
+Ishikawa	I-LOC
+
+Emperador	B-PER
+Wu	I-PER
+ng	I-PER
+Han	I-PER
+
+Juan	B-PER
+Marcos	I-PER
+Arellano	I-PER
+
+Dupax	B-LOC
+del	I-LOC
+Sur	I-LOC
+,	I-LOC
+Nueva	I-LOC
+Vizcaya	I-LOC
+
+Ikalawang	B-ORG
+Linya	I-ORG
+ng	I-ORG
+Sistema	I-ORG
+ng	I-ORG
+Magaan	I-ORG
+na	I-ORG
+Riles	I-ORG
+Panlulan	I-ORG
+ng	I-ORG
+Maynila	I-ORG
+
+The	B-ORG
+Voice	I-ORG
+of	I-ORG
+the	I-ORG
+Philippines	I-ORG
+''	O
+
+Papa	B-PER
+Félix	I-PER
+III	I-PER
+
+Paul	B-PER
+Oscar	I-PER
+Blocq	I-PER

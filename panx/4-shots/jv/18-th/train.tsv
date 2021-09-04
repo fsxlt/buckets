@@ -1,0 +1,86 @@
+kang	O
+dikomandani	O
+déning	O
+Ahmad	B-PER
+Dhani	I-PER
+,	O
+sawisé	O
+vokalis	O
+sadurungé	O
+ya	O
+iku	O
+amarga	O
+Ari	B-PER
+Lasso	I-PER
+ditokaké	O
+.	O
+
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+ALIH	O
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+Livas	O
+short	O
+introductory	O
+videos	O
+on	O
+YouTube	B-ORG
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

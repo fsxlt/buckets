@@ -1,0 +1,64 @@
+Faz	O
+fronteira	O
+com	O
+Asola	B-LOC
+,	O
+Castel	B-LOC
+Goffredo	I-LOC
+,	O
+Ceresara	B-LOC
+,	O
+Piubega	B-LOC
+.	O
+
+Aleixo	B-PER
+II	I-PER
+de	I-PER
+Moscou	I-PER
+
+``	O
+Elisha	B-PER
+Cuthbert	I-PER
+''	O
+``	O
+Chad	B-PER
+Michael	I-PER
+Murray	I-PER
+''	O
+``	O
+Brian	B-PER
+Van	I-PER
+Holt	I-PER
+''	O
+
+Aeroporto	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Genebra	I-ORG
+
+Basílica	B-ORG
+de	I-ORG
+Santa	I-ORG
+Maria	I-ORG
+della	I-ORG
+Salute	I-ORG
+
+Faz	O
+fronteira	O
+com	O
+Arcidosso	B-LOC
+,	O
+Campagnatico	B-LOC
+,	O
+Castel	B-LOC
+del	I-LOC
+Piano	I-LOC
+,	O
+Civitella	B-LOC
+Paganico	I-LOC
+,	O
+Montalcino	B-LOC
+(	O
+SI	O
+)	O
+.	O

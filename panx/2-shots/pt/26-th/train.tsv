@@ -1,0 +1,49 @@
+'	O
+''	O
+Torre	B-ORG
+Sport	I-ORG
+Club	I-ORG
+''	O
+'	O
+''	O
+'3°	O
+Título	O
+''	O
+'	O
+
+'	O
+''	O
+Paul	B-PER
+di	I-PER
+Resta	I-PER
+''	O
+'	O
+
+Rio	B-LOC
+Azul	I-LOC
+(	O
+PR	O
+)	O
+
+Lisboa	B-LOC
+e	I-LOC
+Vale	I-LOC
+do	I-LOC
+Tejo	I-LOC
+
+Stefan	B-PER
+'	I-PER
+''	I-PER
+Kuntz	I-PER
+''	I-PER
+'	I-PER
+
+redirecionamento	O
+Autoridade	B-ORG
+Portuária	I-ORG
+de	I-ORG
+Nova	I-ORG
+York	I-ORG
+e	I-ORG
+Nova	I-ORG
+Jersey	I-ORG

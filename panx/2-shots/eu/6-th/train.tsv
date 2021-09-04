@@ -1,0 +1,35 @@
+Leonhard	B-PER
+Eulerren	I-PER
+omenez	O
+dauka	O
+izena	O
+.	O
+
+Altes	B-ORG
+Museumren	I-ORG
+iparraldean	O
+dago	O
+.	O
+
+Gaur	O
+egun	O
+Nafarroako	B-ORG
+Parlamentuko	I-ORG
+kidea	O
+da	O
+.	O
+
+Ramiro	B-PER
+Gartzia	I-PER
+,	O
+Viguerako	B-LOC
+erregea	I-LOC
+
+Bresciako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O

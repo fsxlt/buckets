@@ -1,0 +1,52 @@
+Marco	B-PER
+Hietala	I-PER
+,	O
+Kuopio	B-LOC
+
+Piz	B-LOC
+Bernina	I-LOC
+(	O
+4	O
+049	O
+m	O
+)	O
+–	O
+Reettiset	B-LOC
+Alpit	I-LOC
+
+Hän	O
+osallistui	O
+Vatikaanin	B-ORG
+toiseen	I-ORG
+kirkolliskokoukseen	I-ORG
+.	O
+
+Kolmen	O
+ajetun	O
+kierroksen	O
+jälkeen	O
+oli	O
+ero	O
+toisena	O
+ajaneeseen	O
+Jarno	B-PER
+Trulliin	I-PER
+jo	O
+lähes	O
+neljä	O
+sekuntia	O
+.	O
+
+OHJAUS	O
+Mylopótamos	B-LOC
+(	I-LOC
+kunta	I-LOC
+)	I-LOC
+
+Vaikutteita	O
+saatiin	O
+esimerkiksi	O
+Vanilla	B-ORG
+Fudge	I-ORG
+-yhtyeeltä	O
+.	O

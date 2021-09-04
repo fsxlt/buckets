@@ -1,0 +1,37 @@
+رجوع_مکرر	O
+الیگزنڈر	B-PER
+باؤ	I-PER
+مگارٹین	I-PER
+
+کولڈواٹر	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+برانچ	I-LOC
+کاؤنٹی،	I-LOC
+مشی	I-LOC
+گن	I-LOC
+
+رجوع_مکرر	O
+ایڈاہو	B-LOC
+کاؤنٹی،	I-LOC
+ایڈاہو	B-LOC
+
+رجوع_مکرر	O
+شاہ	B-ORG
+زیب	I-ORG
+قتل	I-ORG
+واقعہ،	I-ORG
+2012ء	I-ORG
+
+رجوع_مکرر	O
+صفیہ	B-PER
+بنت	I-PER
+حی	I-PER
+بن	I-PER
+اخطب	I-PER
+
+رجوع_مکرر	O
+سائیلینٹ	B-ORG
+ویلی	I-ORG
+قومی	I-ORG
+باغستان	I-ORG

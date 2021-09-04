@@ -1,0 +1,100 @@
+ويلمر	B-PER
+أليسون	I-PER
+''	O
+(	O
+'	O
+''	O
+البطل	O
+''	O
+'	O
+)	O
+''	O
+
+نادي	B-ORG
+موناكو	I-ORG
+/	O
+ريال	B-ORG
+مدريد	I-ORG
+
+تحويل	O
+أوك	B-LOC
+بارك	I-LOC
+هايتس	I-LOC
+
+``	O
+'	O
+''	O
+تشيرز	B-ORG
+(	I-ORG
+درنك	I-ORG
+تو	I-ORG
+ذات	I-ORG
+)	I-ORG
+''	O
+'	O
+''	O
+-	O
+(	O
+4:22	O
+)	O
+
+تحويل	O
+جاهد	B-PER
+ظريف	I-PER
+أوغلي	I-PER
+
+تحويل	O
+القمة	B-LOC
+العربية	I-LOC
+1967	I-LOC
+(	I-LOC
+الخرطوم	I-LOC
+)	I-LOC
+
+تحويل	O
+كهوان	B-LOC
+(	I-LOC
+کوهبایة	I-LOC
+الشرقي	I-LOC
+)	I-LOC
+
+الأرقم	B-PER
+بن	I-PER
+أبي	I-PER
+الأرقم	B-PER
+
+التصنيف	B-ORG
+الدولي	I-ORG
+للجمهورية	I-ORG
+اليمنية	I-ORG
+
+**	O
+جامعة	B-ORG
+فيلادلفيا	I-ORG
+-	O
+خاصة	O
+
+تحويل	O
+فانس	B-LOC
+كورنر	I-LOC
+(	I-LOC
+إيداهو	I-LOC
+)	I-LOC
+
+المرأة	B-PER
+في	I-PER
+الجيولوجيا	I-PER
+.	O
+
+عدم	O
+تعلم	O
+كيفية	O
+التعامل	O
+مع	O
+(	O
+أو	O
+التحكم	O
+في	O
+)	O
+مشاعر	O
+الغضب؛	B-ORG

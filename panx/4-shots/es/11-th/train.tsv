@@ -1,0 +1,84 @@
+Amadio	B-PER
+de	I-PER
+los	I-PER
+Amidei	I-PER
+
+También	O
+hubo	O
+protestas	O
+en	O
+el	O
+Condado	B-LOC
+de	I-LOC
+Mayo	I-LOC
+el	O
+mismo	O
+día	O
+.	O
+
+REDIRECCIÓN	O
+Oseas	B-PER
+de	I-PER
+Israel	I-PER
+
+Fresco	O
+transpuesto	O
+sobre	O
+tela	O
+,	O
+Museo	B-ORG
+Jacquemart-André	I-ORG
+,	O
+París	B-LOC
+.	O
+
+Se	O
+encuentra	O
+en	O
+Nueva	B-LOC
+Zelanda	I-LOC
+.	O
+
+Federación	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Derechos	I-ORG
+Humanos	I-ORG
+
+REDIRECCIÓN	O
+Charles	B-PER
+Taze	I-PER
+Russell	I-PER
+
+REDIRECCIÓN	O
+Tripolium	B-LOC
+pannonicum	I-LOC
+subsp.	I-LOC
+tripolium	I-LOC
+
+Condado	B-LOC
+de	I-LOC
+Scott	I-LOC
+(	O
+sureste	O
+)	O
+
+EWE	B-ORG
+Baskets	I-ORG
+Oldenburg	I-ORG
+(	O
+3	O
+)	O
+
+REDIRECCIÓN	O
+Yosef	B-PER
+Hayim	I-PER
+Yerushalmi	I-PER
+
+Estación	B-ORG
+de	I-ORG
+Malakoff	I-ORG
+-	I-ORG
+Rue	I-ORG
+Étienne	I-ORG
+Dolet	I-ORG

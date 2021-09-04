@@ -1,0 +1,14 @@
+রবার্ট	B-PER
+আউমান	I-PER
+;	O
+টমাস	B-PER
+শেলিং	I-PER
+
+ওয়াশিংটন	B-LOC
+(	I-LOC
+অঙ্গরাজ্য	I-LOC
+)	I-LOC
+
+হাকা	B-ORG
+চিন	I-ORG
+ভাষা	I-ORG

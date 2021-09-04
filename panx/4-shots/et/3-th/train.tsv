@@ -1,0 +1,140 @@
+suuna	O
+‘Abbās	B-PER
+II	I-PER
+(	I-PER
+Egiptus	I-PER
+)	I-PER
+
+Camillo	B-PER
+Golgi	I-PER
+,	O
+Santiago	B-PER
+Ramón	I-PER
+y	I-PER
+Cajal	I-PER
+
+Kõikide	O
+lugude	O
+autor	O
+on	O
+Steve	B-PER
+Harris	I-PER
+,	O
+kui	O
+teisiti	O
+pole	O
+märgitud	O
+.	O
+
+Jerez	B-LOC
+de	I-LOC
+la	I-LOC
+Frontera	I-LOC
+
+Aastatel	O
+2000–2006	O
+mängis	O
+ta	O
+Eesti	B-ORG
+naiste	I-ORG
+jalgpallikoondises	I-ORG
+.	O
+
+Tandinski	B-LOC
+kožuun	I-LOC
+(	O
+Тандинский	O
+кожуун	O
+)	O
+
+Plagioklass	B-ORG
+ning	O
+muud	O
+kerged	O
+olid	O
+väikse	O
+osakaaluga	O
+,	O
+vastavalt	O
+1,5	O
+%	O
+ning	O
+vähem	O
+kui	O
+1	O
+%	O
+.	O
+
+Aastail	O
+2006–2009	O
+tuli	O
+FC	B-ORG
+Levadia	I-ORG
+särgis	O
+neljal	O
+järjestikusel	O
+hooajal	O
+Eesti	B-ORG
+meistriks	I-ORG
+.	O
+
+Valitsuliidu	O
+moodustasid	O
+Kõrgõzstani	B-ORG
+Sotsiaaldemokraatlik	I-ORG
+Partei	I-ORG
+,	O
+Ata-Džurt	B-ORG
+ja	O
+Respublika	B-ORG
+.	O
+
+Ungari	B-LOC
+kuningriik	I-LOC
+(	O
+''Königreich	O
+Ungarn	O
+''	O
+)	O
+
+suuna	O
+Charles-Michel	B-PER
+de	I-PER
+l'Épée	I-PER
+
+.su	B-ORG
+–	O
+endine	O
+Nõukogude	B-LOC
+Liit	I-LOC
+(	O
+seisuga	O
+7.04.2010	O
+domeen	O
+eksisteerib	O
+,	O
+aga	O
+on	O
+likvideerimisel	O
+)	O
+
+Rünnakud	O
+mõistis	O
+hukka	O
+ka	O
+suur	O
+osa	O
+Lähis-Ida	B-LOC
+riikidest	O
+ja	O
+ka	O
+Afganistan	B-LOC
+.	O
+
+Ta	O
+on	O
+bändi	O
+The	B-ORG
+Rasmus	I-ORG
+liige	O
+.	O

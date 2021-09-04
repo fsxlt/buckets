@@ -1,0 +1,91 @@
+''	O
+Inu	B-ORG
+x	I-ORG
+Boku	I-ORG
+SS	I-ORG
+''	O
+(	O
+Karuta	O
+Roromiya	O
+)	O
+
+Hudas	B-PER
+ang	I-PER
+Alagad	I-PER
+
+''Pinakamahusay	O
+na	O
+Pangunahing	O
+Aktres	O
+''	O
+Gina	B-PER
+Alajar	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Tolomeo	B-PER
+XV	I-PER
+Caesarion	I-PER
+
+Thomas	B-PER
+Lynch	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Piramide	B-ORG
+ni	I-ORG
+Djoser	I-ORG
+
+Awtonomong	B-LOC
+Rehiyon	I-LOC
+sa	I-LOC
+Muslim	I-LOC
+Mindanao	I-LOC
+
+252	O
+–	O
+Somalia	B-LOC
+(	O
+ginagamit	O
+rin	O
+sa	O
+Somaliland	B-LOC
+)	O
+
+Ang	O
+pagsama	O
+kay	O
+Momand	O
+sa	O
+misyon	O
+ay	O
+naging	O
+makabulang	O
+simbolo	O
+sa	O
+digmaang	B-ORG
+Soviet	I-ORG
+sa	I-ORG
+Afghanistan	I-ORG
+.	O
+
+Distritong	B-LOC
+Pambatas	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Rizal	I-LOC
+
+Pieta	B-ORG
+(	I-ORG
+seryeng	I-ORG
+pangtelebisyon	I-ORG
+)	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Fukuoka	I-LOC

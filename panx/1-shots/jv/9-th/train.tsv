@@ -1,0 +1,19 @@
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG

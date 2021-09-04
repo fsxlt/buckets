@@ -1,0 +1,38 @@
+رابرٹ	B-PER
+لیوکس	I-PER
+,	I-PER
+جے	I-PER
+آر	I-PER
+
+رجوع_مکرر	O
+ملک	B-PER
+راج	I-PER
+آنند	I-PER
+
+رجوع_مکرر	O
+وائٹ	B-LOC
+واٹر	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+وینونا	I-LOC
+کاؤنٹی،	I-LOC
+مینیسوٹا	I-LOC
+
+فیصل	B-ORG
+آباد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+برنزوک	B-LOC
+ہلز	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مدینہ	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+سینٹ	B-ORG
+پیٹرز	I-ORG
+کالج،	I-ORG
+آکلینڈ	I-ORG

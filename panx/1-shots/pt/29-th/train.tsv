@@ -1,0 +1,13 @@
+John	B-PER
+Lennon	I-PER
+(	O
+The	B-ORG
+Beatles	I-ORG
+)	O
+
+REDIRECIONAMENTO	O
+Springfield	B-LOC
+(	I-LOC
+The	I-LOC
+Simpsons	I-LOC
+)	I-LOC

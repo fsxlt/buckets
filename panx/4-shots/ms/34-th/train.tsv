@@ -1,0 +1,92 @@
+Burung	B-LOC
+Cinta	I-LOC
+Fischer	I-LOC
+(	O
+''Agapornis	O
+fischeri	O
+''	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vaucluse	I-LOC
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+[2]	O
+
+'	O
+''	O
+Ong	B-PER
+Beng	I-PER
+Hee	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Lot	I-LOC
+
+''	O
+The	B-ORG
+Penguins	I-ORG
+of	I-ORG
+Madagascar	I-ORG
+''	O
+(	O
+March	O
+28	O
+,	O
+2009	O
+–	O
+present	O
+)	O
+
+Istana	B-ORG
+Lama	I-ORG
+Seri	I-ORG
+Menanti	I-ORG
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+'	O
+''	O
+Georges	B-PER
+Bizet	I-PER
+''	O
+'	O
+
+Jawatankuasa	B-ORG
+Penganjuran	I-ORG
+Beijing	I-ORG
+
+**	O
+Tentera	B-ORG
+Laut	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG
+(	O
+40	O
+)	O
+
+Alleycats	B-ORG
+,	O
+Jamal	B-PER
+Abdillah	I-PER
+,	O
+M.	B-PER
+Nasir	I-PER
+,	O
+Sudirman	B-PER
+Haji	I-PER
+Arshad	I-PER
+dan	O
+P.	B-PER
+Ramlee	I-PER
+.	O

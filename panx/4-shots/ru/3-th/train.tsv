@@ -1,0 +1,132 @@
+**	O
+Милан	B-LOC
+(	O
+Генеральное	O
+консульство	O
+)	O
+
+Дерек	B-PER
+Риггс	I-PER
+—	O
+иллюстрация	O
+
+'	O
+''	O
+Тохо́й	O
+''	O
+'	O
+—	O
+село	O
+в	O
+Джидинском	B-LOC
+районе	I-LOC
+Бурятии	B-LOC
+.	O
+
+Цветы	B-ORG
+(	I-ORG
+группа	I-ORG
+)	I-ORG
+
+перенаправление	O
+Блайх	B-PER
+,	I-PER
+Яков	I-PER
+Дов	I-PER
+
+перенаправление	O
+Академическая	B-ORG
+гребля	I-ORG
+на	I-ORG
+летних	I-ORG
+Олимпийских	I-ORG
+играх	I-ORG
+1900	I-ORG
+—	I-ORG
+двойки	I-ORG
+с	I-ORG
+рулевыми	I-ORG
+
+Расстояние	O
+до	O
+районного	O
+центра	O
+Тарногского	B-LOC
+Городка	I-LOC
+по	O
+автодороге	O
+—	O
+41	O
+км	O
+.	O
+
+—	O
+«Валентин	O
+и	O
+Валентина»	O
+М.	B-PER
+Рощина	I-PER
+.	O
+
+Менталист	B-ORG
+/	O
+''The	O
+Mentalist	O
+''	O
+
+на	O
+западе	O
+—	O
+с	O
+Дубовским	B-LOC
+районом	I-LOC
+.	O
+
+I	B-ORG
+Am	I-ORG
+the	I-ORG
+Club	I-ORG
+Rocker	I-ORG
+''	O
+
+Известен	O
+как	O
+участник	O
+группы	O
+Дискотека	B-ORG
+Авария	I-ORG
+.	O
+
+Петросян	B-PER
+,	I-PER
+Вардан	I-PER
+(	I-PER
+актёр	I-PER
+)	I-PER
+(	O
+род	O
+.	O
+
+'	O
+''	O
+Беллаффе́р	O
+''	O
+'	O
+(	O
+,	O
+)	O
+—	O
+коммуна	B-LOC
+во	O
+Франции	B-LOC
+,	O
+находится	O
+в	O
+регионе	O
+Прованс	B-LOC
+—	I-LOC
+Альпы	I-LOC
+—	I-LOC
+Лазурный	I-LOC
+Берег	I-LOC
+.	O

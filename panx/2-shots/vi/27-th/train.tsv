@@ -1,0 +1,33 @@
+Ed	B-PER
+Sheeran	I-PER
+—	O
+``	O
+Lego	B-ORG
+House	I-ORG
+''	O
+
+Vùng	B-LOC
+quốc	I-LOC
+hải	I-LOC
+Hoa	I-LOC
+Kỳ	I-LOC
+
+Ngô	B-ORG
+Thừa	I-ORG
+Ân	I-ORG
+và	I-ORG
+Tây	I-ORG
+du	I-ORG
+ký	I-ORG
+-	O
+Trư	B-PER
+Bát	I-PER
+Giới	I-PER
+(	O
+2007	O
+)	O
+
+đổi	O
+An	B-LOC
+ca	I-LOC
+lớn	I-LOC

@@ -1,0 +1,70 @@
+تغییرمسیر	O
+مهتر	B-LOC
+(	I-LOC
+خرم‌آباد	I-LOC
+)	I-LOC
+
+سید	B-PER
+حسن	I-PER
+طباطبایی	I-PER
+قمی	I-PER
+
+تغییر_مسیر	O
+روزی	B-ORG
+دیگر	I-ORG
+در	I-ORG
+بهشت	I-ORG
+
+تغییرمسیر	O
+علی‌آباد	B-LOC
+(	I-LOC
+اشنویه	I-LOC
+)	I-LOC
+
+نیروی	B-ORG
+هوایی	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+فرانکفورتر	B-ORG
+آلگماینه	I-ORG
+زایتونگ	I-ORG
+
+تغییرمسیر	O
+هرکس	B-LOC
+(	I-LOC
+دهانه	I-LOC
+)	I-LOC
+
+دیکیتر،	B-LOC
+آلاباما	I-LOC
+,	O
+United	O
+States	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+پرسیوس	B-PER
+(	I-PER
+سراینده	I-PER
+)	I-PER
+
+تغییرمسیر	O
+یوهان	B-PER
+آلبرشت	I-PER
+فون	I-PER
+ماندلسلو	I-PER
+
+تغییرمسیر	O
+نیل	B-PER
+ای.	I-PER
+میلر	I-PER

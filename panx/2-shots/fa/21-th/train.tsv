@@ -1,0 +1,36 @@
+تغییرمسیر	O
+اومبرتوی	B-PER
+یکم	I-PER
+ایتالیا	I-PER
+
+تغییرمسیر	O
+سلم‌آباد	B-LOC
+(	I-LOC
+سربیشه	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آلن	B-PER
+راک	I-PER
+(	I-PER
+بازیگر	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+آزمایشگاه	B-ORG
+رسانه	I-ORG
+ام‌آی‌تی	I-ORG
+
+تغییرمسیر	O
+حشره‌خوارهای	B-LOC
+آبی	I-LOC
+آسیایی	I-LOC
+
+تغییرمسیر	O
+ساتردی	B-ORG
+نایت	I-ORG
+لایو	I-ORG
+(	I-ORG
+فصل	I-ORG
+۳۷	I-ORG
+)	I-ORG

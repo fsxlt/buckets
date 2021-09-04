@@ -1,0 +1,68 @@
+বাংলাদেশ	B-ORG
+ইউনিভার্সিটি	I-ORG
+অব	I-ORG
+বিজনেস	I-ORG
+অ্যান্ড	I-ORG
+টেকনোলজি	I-ORG
+
+আন্তর্জাতিক	B-ORG
+অপরাধী	I-ORG
+আদালত	I-ORG
+
+'	O
+''	O
+ঢাকা	B-LOC
+''	O
+'	O
+
+অখিল	B-ORG
+ভারতীয়	I-ORG
+আয়ুর্বিজ্ঞান	I-ORG
+সংস্থান	I-ORG
+
+দক্ষিণ	B-LOC
+দিনাজপুর	I-LOC
+জেলা	I-LOC
+
+ব্রায়ান	B-PER
+ডেভিড	I-PER
+জোসেফসন	I-PER
+
+লিয়াকত	B-PER
+আলি	I-PER
+খান	I-PER
+
+জোট-নিরপেক্ষ	B-ORG
+আন্দোলন	I-ORG
+(	O
+NAM	O
+)	O
+
+সালাহ্উদ্দীন	B-PER
+আহমদ	I-PER
+,	O
+ইতিহাসের	O
+অধ্যাপক	O
+
+জগদীশ	B-PER
+চন্দ্র	I-PER
+বসু	I-PER
+
+ফুলবাড়ী	B-LOC
+উপজেলা	I-LOC
+(	I-LOC
+দিনাজপুর	I-LOC
+)	I-LOC
+
+ভুবন	B-LOC
+চিল	I-LOC
+(	O
+''Milvus	O
+migrans	O
+''	O
+)	O
+
+আয়ারল্যান্ড	B-LOC
+(	I-LOC
+দ্বীপ	I-LOC
+)	I-LOC

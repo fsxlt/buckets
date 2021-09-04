@@ -1,0 +1,42 @@
+Lăng	B-ORG
+mộ	I-ORG
+Tần	I-ORG
+Thủy	I-ORG
+Hoàng	I-ORG
+
+'	O
+''	O
+Hậu	B-PER
+Lương	I-PER
+Thái	I-PER
+Tổ	I-PER
+''	O
+'	O
+
+Không	B-ORG
+lực	I-ORG
+Hải	I-ORG
+quân	I-ORG
+Đế	I-ORG
+quốc	I-ORG
+Nhật	I-ORG
+Bản	I-ORG
+
+====	O
+Torre	B-LOC
+de	I-LOC
+las	I-LOC
+Arcas	I-LOC
+====	O
+
+đổi	O
+Cự	B-LOC
+đà	I-LOC
+xanh	I-LOC
+
+'	O
+''	O
+Colin	B-PER
+Firth	I-PER
+''	O
+'	O

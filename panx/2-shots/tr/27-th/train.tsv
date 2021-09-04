@@ -1,0 +1,52 @@
+YÖNLENDİRME	O
+Luis	B-PER
+Ramírez	I-PER
+Zapata	I-PER
+
+Kuzeyinden	O
+Bahia	B-LOC
+,	O
+güneyinden	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+eyaleti	I-LOC
+,	O
+ve	O
+batısından	O
+Minas	B-LOC
+Gerais	I-LOC
+tarafından	O
+çevrelenir	O
+.	O
+
+1978	B-ORG
+FIFA	I-ORG
+Dünya	I-ORG
+Kupası	I-ORG
+elemeleri	I-ORG
+(	I-ORG
+CONMEBOL	I-ORG
+)	I-ORG
+
+YÖNLENDİRME	O
+The	B-ORG
+Gathering	I-ORG
+(	I-ORG
+müzik	I-ORG
+grubu	I-ORG
+)	I-ORG
+
+YÖNLENDİRME	O
+Imran	B-PER
+Khan	I-PER
+(	I-PER
+şarkıcı	I-PER
+)	I-PER
+
+YÖNLENDİRME	O
+Doğu	B-LOC
+Avrupa	I-LOC
+Yaz	I-LOC
+Zaman	I-LOC
+Dilimi	I-LOC

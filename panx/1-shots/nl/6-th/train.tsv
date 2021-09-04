@@ -1,0 +1,12 @@
+Islay	B-LOC
+(	I-LOC
+provincie	I-LOC
+)	I-LOC
+-	O
+
+Juan	B-PER
+Sebastián	I-PER
+Cabal	I-PER
+Robert	B-ORG
+Farah	I-ORG
+Maksoud	I-ORG

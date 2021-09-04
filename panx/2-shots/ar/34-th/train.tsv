@@ -1,0 +1,32 @@
+تحويل	O
+إلاتي	B-LOC
+(	I-LOC
+تريكالا	I-LOC
+)	I-LOC
+
+تحويل	O
+مصرف	B-ORG
+البحرين	I-ORG
+المركزي	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+بوتلر	I-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+تحويل	O
+ديتا	B-PER
+فون	I-PER
+تيسي	I-PER
+
+علي	B-PER
+بن	I-PER
+أبي	I-PER
+طالب	I-PER
+
+مركبة	B-ORG
+القيادة	I-ORG
+ووحدة	I-ORG
+الخدمة	I-ORG

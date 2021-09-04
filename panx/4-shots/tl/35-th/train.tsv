@@ -1,0 +1,64 @@
+Panghuli	B-ORG
+ng	I-ORG
+pangarap	I-ORG
+
+Bosnia	B-LOC
+at	I-LOC
+Herzegovina	I-LOC
+
+Yu-Gi-Oh	B-ORG
+!	I-ORG
+Duel	I-ORG
+Monsters	I-ORG
+''	O
++	O
+
+'	O
+''	O
+Mike	B-PER
+Tan	I-PER
+''	O
+'	O
+
+Pamumukaw	B-ORG
+ng	I-ORG
+suso	I-ORG
+
+Magyar]]	O
+(	O
+Hungary	B-LOC
+)	O
+.	O
+
+Estado	B-LOC
+ng	I-LOC
+Simbahan	I-LOC
+
+Ne	B-PER
+Win	I-PER
+(	O
+Ika-1	O
+Panahon	O
+)	O
+
+Distrito	B-LOC
+ng	I-LOC
+Imishli	I-LOC
+
+Saint	B-LOC
+Bernard	I-LOC
+,	I-LOC
+Katimugang	I-LOC
+Leyte	I-LOC
+
+Hubert	B-PER
+van	I-PER
+Eyck	I-PER
+
+Tunel	B-ORG
+ng	I-ORG
+Malinta	I-ORG
+
+Joseph	B-PER
+Marie	I-PER
+Jacquard	I-PER

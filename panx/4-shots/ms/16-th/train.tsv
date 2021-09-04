@@ -1,0 +1,69 @@
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+Republik	I-ORG
+Czech	I-ORG
+
+'	O
+''	O
+Roger	B-PER
+Kwok	I-PER
+''	O
+'	O
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Karpatos	I-PER
+
+Du	B-PER
+Jing	I-PER
+/	O
+Yu	B-PER
+Yang	I-PER
+
+'	O
+''	O
+Robert	B-PER
+Kubica	I-PER
+''	O
+'	O
+
+Barisan	B-ORG
+Alternatif	I-ORG
+dan	O
+Pakatan	B-ORG
+Rakyat	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Tarn-et-Garonne	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+Sinhala	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Allier	I-LOC
+
+**	O
+Morning	B-ORG
+Musume	I-ORG
+(	O
+2000-2007	O
+)	O
+
+Burung	B-LOC
+Layang-layang	I-LOC
+Jambul	I-LOC
+Kelabu	I-LOC
+
+Neustadt	B-LOC
+an	I-LOC
+der	I-LOC
+Donau	I-LOC

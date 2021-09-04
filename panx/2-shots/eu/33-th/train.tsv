@@ -1,0 +1,66 @@
+BIRZUZENDU	O
+Egiptoko	B-ORG
+Inperio	I-ORG
+Zaharra	I-ORG
+
+'	O
+''	O
+Paolo	B-PER
+Savoldelli	I-PER
+''	O
+'	O
+
+Seguru	O
+asko	O
+,	O
+Tito	B-PER
+Livioren	I-PER
+maisu-lanek	O
+garai	O
+haiek	O
+itxita	O
+utzi	O
+eta	O
+kontatzeko	O
+gutxi	O
+utzi	O
+zuten	O
+.	O
+
+Llŷn	B-LOC
+penintsulan	I-LOC
+kokatzen	O
+da	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Haute-Loire	B-LOC
+departamenduan	O
+dago	O
+,	O
+Auvernia-Rhône-Alpeak	B-LOC
+eskualdean	O
+.	O
+
+Bertan	O
+Bundesrat	B-ORG
+edota	O
+Alemaniarko	B-ORG
+Kontseilu	I-ORG
+Federala	I-ORG
+kokatzen	O
+da	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Tarn	B-LOC
+eta	I-LOC
+Garona	I-LOC
+departamenduan	O
+dago	O
+,	O
+Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O

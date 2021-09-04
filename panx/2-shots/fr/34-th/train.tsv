@@ -1,0 +1,29 @@
+Arrondissement	B-LOC
+de	I-LOC
+Darmstadt-Dieburg	I-LOC
+
+BoA	B-PER
+avec	O
+Xiah	B-ORG
+Junsu	I-ORG
+
+Fleetwood	B-ORG
+Mac	I-ORG
+/	O
+Stevie	B-PER
+Nicks	I-PER
+
+Randonnée	B-LOC
+dans	I-LOC
+les	I-LOC
+Pyrénées-Orientales	I-LOC
+
+*CON	O
+=	O
+Parti	B-PER
+conservateur	I-PER
+du	I-PER
+Canada	I-PER
+(	I-PER
+ancien	I-PER
+)	I-PER

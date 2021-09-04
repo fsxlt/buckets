@@ -1,0 +1,96 @@
+His	O
+funeral	O
+took	O
+place	O
+in	O
+his	O
+hometown	O
+of	O
+Cihanbeyli	B-LOC
+,	O
+Konya	B-LOC
+Province	I-LOC
+and	O
+was	O
+attended	O
+by	O
+many	O
+pro-Kurdish	O
+political	O
+leaders	O
+including	O
+the	O
+Peoples	B-ORG
+'	I-ORG
+Democratic	I-ORG
+Party	I-ORG
+(	O
+HDP	O
+)	O
+co-leader	O
+Selahattin	B-PER
+Demirtaş	I-PER
+.	O
+
+Al	B-PER
+Barr	I-PER
+,	O
+vocalist	O
+for	O
+Dropkick	B-ORG
+Murphys	I-ORG
+
+Date	B-ORG
+A	I-ORG
+Live	I-ORG
+''	O
+(	O
+Tohka	O
+Yatogami	O
+)	O
+
+**	O
+Pascal-Firmin	B-PER
+Ndimira	I-PER
+.	O
+
+2002	O
+:	O
+Miroslav	B-PER
+Volf	I-PER
+
+1982	O
+,	O
+former	O
+member	O
+of	O
+the	O
+Florida	B-ORG
+House	I-ORG
+of	I-ORG
+Representatives	I-ORG
+(	O
+2001-2007	O
+)	O
+
+''	O
+Furcula	B-LOC
+furcula	I-LOC
+''	O
+(	O
+Clerck	O
+,	O
+1759	O
+)	O
+
+Serbian	B-LOC
+Despotate	I-LOC
+(	O
+1402–1459	O
+)	O
+
+New	B-LOC
+Hampshire	I-LOC
+(	O
+primary	O
+)	O

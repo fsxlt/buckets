@@ -1,0 +1,61 @@
+In	O
+2001	O
+kwam	O
+hun	O
+eerste	O
+album	O
+uit	O
+en	O
+dat	O
+was	O
+meteen	O
+een	O
+succes	O
+in	O
+met	O
+name	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Egmond	B-LOC
+aan	I-LOC
+den	I-LOC
+Hoef	I-LOC
+
+Peggy	B-ORG
+Guggenheim	I-ORG
+Collection	I-ORG
+in	O
+Venetië	B-LOC
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+Mike	B-PER
+Bryan	I-PER
+''	O
+'	O
+
+The	B-ORG
+Sacramento	I-ORG
+Bee	I-ORG
+''	O
+-	O
+Sacramento	B-LOC
+,	O
+Californië	B-LOC
+
+De	O
+winnaars	O
+waren	O
+de	O
+Amerikanen	O
+Charles	B-PER
+Sands	I-PER
+en	O
+Margaret	B-PER
+Abbott	I-PER
+.	O

@@ -1,0 +1,70 @@
+تغییرمسیر	O
+کیپ	B-LOC
+کورال،	I-LOC
+فلوریدا	I-LOC
+
+باشگاه	B-ORG
+فوتبال	I-ORG
+آژاکس	I-ORG
+آمستردام	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+فرانک	B-PER
+او.	I-PER
+بریگس	I-PER
+
+تغییر_مسیر	O
+حاجی‌آباد	B-LOC
+(	I-LOC
+شاهین‌دژ	I-LOC
+)	I-LOC
+
+'	O
+''	O
+بری	B-PER
+لوینسون	I-PER
+''	O
+'	O
+
+تغییر_مسیر	O
+کانتون	B-LOC
+آپنتزل	I-LOC
+اینرهودن	I-LOC
+
+تغییرمسیر	O
+یاسر	B-PER
+هاشمی	I-PER
+رفسنجانی	I-PER
+
+تغییرمسیر	O
+ده	B-LOC
+سفید	I-LOC
+درویش	I-LOC
+
+تغییرمسیر	O
+خوزه	B-PER
+ایگناسیو	I-PER
+سانچز	I-PER
+گالان	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+مجمع	B-ORG
+کشورهای	I-ORG
+صادرکننده	I-ORG
+گاز	I-ORG

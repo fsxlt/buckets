@@ -1,0 +1,33 @@
+L'aumento	O
+della	O
+popolazione	O
+può	O
+essere	O
+spiegato	O
+con	O
+la	O
+stabilità	O
+politica	O
+imposta	O
+dalla	O
+Serenissima	B-LOC
+Repubblica	I-LOC
+di	I-LOC
+Venezia	I-LOC
+.	O
+
+PKNA	B-ORG
+-	I-ORG
+Paperinik	I-ORG
+New	I-ORG
+Adventures	I-ORG
+
+Pete	B-PER
+Sampras	I-PER
+'	O
+''	O
+(	O
+campione	O
+)	O
+'	O
+''	O

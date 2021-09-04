@@ -1,0 +1,111 @@
+SC	B-ORG
+Corinthians	I-ORG
+Paulista	I-ORG
+
+Russiese	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+Vergesel	O
+van	O
+sy	O
+eggenote	O
+en	O
+kinders	O
+het	O
+hy	O
+met	O
+die	O
+Celt	O
+na	O
+Algoabaai	B-LOC
+geseil	O
+om	O
+vandaar	O
+na	O
+sy	O
+nuwe	O
+standplaas	O
+te	O
+reis	O
+.	O
+
+Mount	B-LOC
+Frere	I-LOC
+(	O
+setel	O
+)	O
+
+SAP	B-ORG
+(	I-ORG
+maatskappy	I-ORG
+)	I-ORG
+
+Dit	O
+was	O
+een	O
+van	O
+die	O
+gasheerstadions	O
+vir	O
+die	O
+FIFA	B-ORG
+Sokker-Wêreldbekertoernooi	I-ORG
+in	I-ORG
+2014	I-ORG
+.	O
+
+'	O
+''	O
+Daniel	B-PER
+Ricciardo	I-PER
+''	O
+'	O
+
+Ekurhuleni	B-LOC
+Metropolitaanse	I-LOC
+Munisipaliteit	I-LOC
+
+Pous	B-PER
+Bonifatius	I-PER
+VI	I-PER
+(	O
+896-896	O
+)	O
+
+Charles	B-PER
+Robberts	I-PER
+Swart	I-PER
+(	O
+1894–1982	O
+)	O
+
+**	O
+Pous	B-PER
+Gregorius	I-PER
+VIII	I-PER
+.	O
+
+Alfabetiese	B-LOC
+lys	I-LOC
+van	I-LOC
+slange	I-LOC
+
+Bloeiende	O
+tekstielvervaardiging	O
+in	O
+die	O
+Lae	B-LOC
+Lande	I-LOC
+het	O
+dit	O
+een	O
+van	O
+die	O
+rykste	O
+''realms	O
+''	O
+in	O
+Europa	B-LOC
+gemaak	O
+.	O

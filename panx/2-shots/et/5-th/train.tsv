@@ -1,0 +1,39 @@
+Vassili	B-PER
+Dokutšajev	I-PER
+(	O
+1846–1903	O
+)	O
+
+Kalmõkkia	B-LOC
+Halmg	I-LOC
+Tangtši	I-LOC
+Vabariik	I-LOC
+-	O
+Республика	O
+Калмыкия	O
+-	O
+Хальмг	O
+Тангч	O
+
+suuna	O
+Peeter	B-ORG
+Suure	I-ORG
+merekindlus	I-ORG
+
+''	O
+South	B-ORG
+Park	I-ORG
+''	O
+
+suuna	O
+Lutsu	B-LOC
+(	I-LOC
+Kose	I-LOC
+)	I-LOC
+
+Missiooni	O
+spetsialist	O
+1	O
+-	O
+Sandra	B-PER
+Magnus	I-PER

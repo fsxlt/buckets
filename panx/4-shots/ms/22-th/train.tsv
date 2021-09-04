@@ -1,0 +1,95 @@
+'	O
+''	O
+Jean-Éric	B-PER
+Vergne	I-PER
+''	O
+'	O
+
+Stesen	B-ORG
+keretapi	I-ORG
+Tanjong	I-ORG
+Pagar	I-ORG
+
+Kehilangan	O
+ini	O
+termasuklah	O
+ramai	O
+askar-askar	O
+berpengalaman	O
+,	O
+PTT	B-ORG
+dan	O
+pegawai	B-PER
+bertauliah	I-PER
+,	O
+yang	O
+mana	O
+tidak	O
+dapat	O
+digantikan	O
+oleh	O
+Wehrmacht	B-ORG
+''	O
+.	O
+
+'	O
+''	O
+Warsaw	B-LOC
+''	O
+'	O
+(	O
+Poland	B-LOC
+)	O
+''1960	O
+''	O
+
+LENCONG	O
+Borek	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Prague-Timur	I-LOC
+)	I-LOC
+
+Sport	B-ORG
+Club	I-ORG
+Corinthians	I-ORG
+Paulista	I-ORG
+
+Koo	B-PER
+Kien	I-PER
+Keat	I-PER
+Tan	B-PER
+Boon	I-PER
+Heong	I-PER
+
+LENCONG	O
+Dumbrăvița	B-LOC
+,	I-LOC
+Timiș	I-LOC
+
+Parti	B-ORG
+Punjabi	I-ORG
+Malaysia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Marne	I-LOC
+
+Rajiv	B-PER
+Ouseph	I-PER
+''	O
+(	O
+Pusingan	O
+1	O
+)	O
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Bohemia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Maine-et-Loire	I-LOC

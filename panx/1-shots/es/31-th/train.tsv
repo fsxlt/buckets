@@ -1,0 +1,38 @@
+Real	B-ORG
+Academia	I-ORG
+de	I-ORG
+Ciencias	I-ORG
+Exactas	I-ORG
+,	I-ORG
+Físicas	I-ORG
+y	I-ORG
+Naturales	I-ORG
+.	O
+
+Julio	B-PER
+César	I-PER
+de	I-PER
+León	I-PER
+
+También	O
+se	O
+lo	O
+ha	O
+citado	O
+en	O
+Colombia	B-LOC
+,	O
+Venezuela	B-LOC
+,	O
+y	O
+Chile	B-LOC
+.	O
+
+Se	O
+encuentra	O
+en	O
+Estados	B-LOC
+Unidos	I-LOC
+y	O
+México	B-LOC
+.	O

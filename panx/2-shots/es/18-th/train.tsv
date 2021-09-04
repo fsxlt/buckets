@@ -1,0 +1,46 @@
+REDIRECCIÓN	O
+Saint-André	B-LOC
+(	I-LOC
+Gers	I-LOC
+)	I-LOC
+
+Justicia	B-ORG
+y	I-ORG
+Verdad	I-ORG
+8	O
+
+'	O
+''	O
+América	B-LOC
+del	I-LOC
+Norte	I-LOC
+''	O
+'	O
+
+José	B-PER
+Antonio	I-PER
+de	I-PER
+la	I-PER
+Vega	I-PER
+Asmitia	I-PER
+
+Federica	B-PER
+Sofía	I-PER
+(	O
+1736-1798	O
+)	O
+,	O
+casada	O
+con	O
+Federico	B-PER
+II	I-PER
+Eugenio	I-PER
+de	I-PER
+Wurtemberg	I-PER
+.	O
+
+Batería	B-ORG
+de	I-ORG
+plomo	I-ORG
+y	I-ORG
+ácido	I-ORG

@@ -1,0 +1,33 @@
+Poisid	O
+(	O
+Dannii	B-PER
+Minogue	I-PER
+)	O
+
+Ta	O
+kuulus	O
+Eesti	B-ORG
+U-19	I-ORG
+koondisesse	O
+,	O
+mis	O
+osales	O
+kodusel	O
+2012.	B-ORG
+aasta	I-ORG
+U-19	I-ORG
+Euroopa	I-ORG
+meistrivõistluste	I-ORG
+finaalturniiril	I-ORG
+.	O
+
+Asub	O
+Seimi	B-LOC
+jõe	I-LOC
+ääres	O
+,	O
+47	O
+km	O
+kaugusel	O
+Kurskist	B-LOC
+.	O

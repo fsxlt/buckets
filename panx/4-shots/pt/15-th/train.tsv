@@ -1,0 +1,98 @@
+REDIRECIONAMENTO	O
+João	B-PER
+de	I-PER
+Inglaterra	I-PER
+
+Redirecionamento	O
+Eugénia	B-PER
+Maximilianovna	I-PER
+de	I-PER
+Leuchtenberg	I-PER
+
+Campeonato	B-LOC
+Mundial	I-LOC
+de	I-LOC
+Motociclismo	I-LOC
+(	I-LOC
+MotoGP	I-LOC
+)	I-LOC
+
+República	B-LOC
+Socialista	I-LOC
+Soviética	I-LOC
+Cazaque	I-LOC
+
+The	B-ORG
+New	I-ORG
+Pornographers	I-ORG
+
+Roy	B-PER
+Emerson	I-PER
+(	O
+3	O
+/	O
+12	O
+)	O
+
+Todas	O
+as	O
+músicas	O
+feitas	O
+por	O
+Trent	B-PER
+Reznor	I-PER
+.	O
+
+O	O
+episódio	O
+foi	O
+exibido	O
+pela	O
+primeira	O
+vez	O
+nos	O
+Estados	B-LOC
+Unidos	I-LOC
+em	O
+pela	O
+Fox	B-ORG
+.	O
+
+REDIRECIONAMENTO	O
+The	B-ORG
+Ultimate	I-ORG
+Fighter	I-ORG
+5	I-ORG
+:	I-ORG
+Team	I-ORG
+Penn	I-ORG
+vs.	I-ORG
+Team	I-ORG
+Pulver	I-ORG
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Botafogo	B-ORG
+Futebol	I-ORG
+Clube	I-ORG
+(	I-ORG
+João	I-ORG
+Pessoa	I-ORG
+)	I-ORG
+
+''	O
+Agriphila	O
+tristella	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O

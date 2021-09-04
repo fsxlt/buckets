@@ -1,0 +1,33 @@
+Pintuyan	B-LOC
+,	I-LOC
+Katimugang	I-LOC
+Leyte	I-LOC
+
+The	B-ORG
+One	I-ORG
+I	I-ORG
+Love	I-ORG
+''	O
+
+Arsoduke	B-PER
+Franz	I-PER
+Ferdinand	I-PER
+ng	I-PER
+Austria	I-PER
+
+Itogon	B-LOC
+,	I-LOC
+Benguet	I-LOC
+
+''	O
+Ka-Blog	B-ORG
+!	I-ORG
+''	O
+(	O
+2008–2010	O
+)	O
+
+Enrique	B-PER
+Dupuy	I-PER
+de	I-PER
+Lôme	I-PER

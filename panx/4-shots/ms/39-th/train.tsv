@@ -1,0 +1,83 @@
+LENCONG	O
+Burung	B-LOC
+Puchong	I-LOC
+Seriap	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+Pyrénées	I-ORG
+besar	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gers	I-LOC
+
+'	O
+''	O
+Damon	B-PER
+Hill	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Zaman	B-ORG
+Heian	I-ORG
+''	O
+'	O
+(	O
+794–1185	O
+)	O
+
+'	O
+''	O
+Patrick	B-PER
+Friesacher	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Allier	I-LOC
+
+Dia	O
+banyak	O
+berlakon	O
+dengan	O
+Jackie	B-PER
+Chan	I-PER
+sekitar	O
+tahun	O
+1980an	O
+dan	O
+1990an	O
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+Running	B-ORG
+Man	I-ORG
+(	O
+episod	O
+233	O
+)	O
+(	O
+2015	O
+)	O
+
+Tour	B-ORG
+de	I-ORG
+Langkawi	I-ORG
+2004	I-ORG
+
+'	O
+''	O
+Zhang	B-PER
+Nan	I-PER
+Zhao	B-PER
+Yunlei	I-PER

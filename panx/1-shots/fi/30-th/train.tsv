@@ -1,0 +1,36 @@
+Yrityksen	O
+pääkonttori	O
+sijaitsee	O
+Kalifornian	B-LOC
+Palo	B-LOC
+Altossa	I-LOC
+.	O
+
+Seuraava	O
+pääministeri	O
+Abhisit	B-PER
+Vejjajiva	I-PER
+aloitti	O
+virkakautensa	O
+joulukuussa	O
+2008	O
+.	O
+
+Harvoin	O
+nähdystä	O
+filmistä	O
+ei	O
+ole	O
+kunnollista	O
+DVD-julkaisua	B-ORG
+.	O
+
+'	O
+''	O
+Borussia	B-ORG
+Dortmund	I-ORG
+''	O
+'	O
+(	O
+Saksa	B-LOC
+)	O

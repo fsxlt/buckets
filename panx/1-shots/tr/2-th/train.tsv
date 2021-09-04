@@ -1,0 +1,35 @@
+Grup	O
+ile	O
+şirketin	O
+arasındaki	O
+anlaşmazlıklar	O
+geçince	O
+grup	O
+,	O
+Warner	B-ORG
+Bros.	I-ORG
+Records'a	I-ORG
+geçti	O
+.	O
+
+YÖNLENDİRME	O
+Büyük	B-LOC
+Mandıra	I-LOC
+,	I-LOC
+Babaeski	I-LOC
+
+Ama	O
+bu	O
+isyandan	O
+dolayı	O
+II.	B-PER
+Bayezid	I-PER
+nüfuzunu	O
+kaybetmiş	O
+ve	O
+oğulları	O
+arasında	O
+taht	O
+kavgaları	O
+başlamıştır	O
+.	O

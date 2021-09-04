@@ -1,0 +1,38 @@
+Jimbo	B-LOC
+ya	I-LOC
+Skikda	I-LOC
+(	I-LOC
+Aljeria	I-LOC
+)	I-LOC
+
+Maurice	B-PER
+Michael	I-PER
+Otunga	I-PER
+
+Mkoa	B-LOC
+wa	I-LOC
+Niigata	I-LOC
+katika	O
+Japani	B-LOC
+
+Strictly	B-ORG
+4	I-ORG
+My	I-ORG
+N.I.G.G.A.Z	I-ORG
+.	I-ORG
+''	O
+
+Wizara	B-ORG
+ya	I-ORG
+Fedha	I-ORG
+na	I-ORG
+Uchumi	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Anacletus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Evaristus	I-PER
+.	O

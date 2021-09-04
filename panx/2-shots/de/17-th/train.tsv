@@ -1,0 +1,46 @@
+Bad	B-LOC
+Homburg	I-LOC
+vor	I-LOC
+der	I-LOC
+Höhe	I-LOC
+
+hinter	O
+Yvonne	B-PER
+van	I-PER
+Vlerken	I-PER
+auf	O
+dem	O
+2	O
+.	O
+
+''	O
+Deeez	O
+Nuuuts	O
+''	O
+by	O
+Dr.	B-PER
+Dre	I-PER
+
+Nachruf	O
+in	O
+der	O
+Los	B-ORG
+Angeles	I-ORG
+Times	I-ORG
+vom	O
+25	O
+.	O
+
+'	O
+''	O
+Königreich	B-LOC
+Großbritannien	I-LOC
+''	O
+'	O
+und	O
+'	O
+''	O
+Königreich	B-ORG
+Irland	I-ORG
+''	O
+'	O

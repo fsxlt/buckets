@@ -1,0 +1,67 @@
+'	O
+''	O
+Ayrton	B-PER
+Senna	I-PER
+''	O
+'	O
+
+ALIH	O
+Offa	B-PER
+dari	I-PER
+Mercia	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meuse	I-LOC
+
+ALIH	O
+Abdullah	B-PER
+bin	I-PER
+Salam	I-PER
+
+Henry	B-PER
+I	I-PER
+dari	I-PER
+Inggris	I-PER
+
+ALIH	O
+Buku	B-ORG
+Harian	I-ORG
+Nayla	I-ORG
+
+Rumah	B-ORG
+Sakit	I-ORG
+Dr.	I-ORG
+Kariadi	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Seine-Maritime	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Calvados	I-LOC
+(	I-LOC
+A-L	I-LOC
+)	I-LOC
+
+ALIH	O
+Himpunan	B-ORG
+Mahasiswa	I-ORG
+Islam	I-ORG
+
+Suwon	B-LOC
+,	O
+Korea	B-LOC
+Selatan	I-LOC
+
+alih	O
+Stasiun	B-ORG
+MRT	I-ORG
+Promenade	I-ORG

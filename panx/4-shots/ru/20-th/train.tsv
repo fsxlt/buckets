@@ -1,0 +1,98 @@
+Гербе	B-PER
+,	I-PER
+Натан	I-PER
+
+Ждановка	B-LOC
+(	I-LOC
+река	I-LOC
+)	I-LOC
+
+перенаправление	O
+Осада	B-ORG
+Люксембурга	I-ORG
+(	I-ORG
+1794—1795	I-ORG
+)	I-ORG
+
+Дом	B-ORG
+Анны	I-ORG
+Франк	I-ORG
+(	O
+«Убежище»	O
+)	O
+
+Леонард	B-PER
+Бернстайн	I-PER
+;	O
+композитор	O
+и	O
+дирижёр	O
+
+'	O
+''	O
+Ню́вчим	O
+''	O
+'	O
+(	O
+)	O
+—	O
+посёлок	O
+в	O
+Сыктывдинском	B-LOC
+районе	I-LOC
+Республики	B-LOC
+Коми	I-LOC
+.	O
+
+'	O
+''	O
+Арена	B-LOC
+Омск	I-LOC
+''	O
+'	O
+
+**	O
+Лучший	O
+режиссёр	O
+(	O
+Карен	B-PER
+Монкрифф	I-PER
+)	O
+
+Muse	B-ORG
+—	O
+New	B-ORG
+Born	I-ORG
+
+|width=	O
+''	O
+35	O
+%	O
+''	O
+Парусный	B-LOC
+спорт	I-LOC
+(	O
+мужчины	O
+,	O
+класс	O
+«470»	O
+)	O
+
+'	O
+''	O
+Норвегия	B-LOC
+''	O
+'	O
+-	O
+
+Мартен	B-PER
+Гренье	I-PER
+—	O
+2	O
+раунд	O
+,	O
+45	O
+номер	O
+,	O
+Колорадо	B-ORG
+Эвеланш	I-ORG

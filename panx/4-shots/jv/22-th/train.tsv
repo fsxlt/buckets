@@ -1,0 +1,81 @@
+kang	O
+dikomandani	O
+déning	O
+Ahmad	B-PER
+Dhani	I-PER
+,	O
+sawisé	O
+vokalis	O
+sadurungé	O
+ya	O
+iku	O
+amarga	O
+Ari	B-PER
+Lasso	I-PER
+ditokaké	O
+.	O
+
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+ALIH	O
+Victoria	B-PER
+saking	I-PER
+Britania	I-PER
+Raya	I-PER
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Powiat	B-LOC
+Puławy	I-LOC
+,	O
+Puławy	B-LOC
+
+Komite	B-PER
+Nasional	I-PER
+Keselamatan	I-PER
+Transportasi	I-PER
+(	O
+KNKT	O
+)	O
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

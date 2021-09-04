@@ -1,0 +1,48 @@
+Seinen	O
+größten	O
+Erfolg	O
+erreichte	O
+er	O
+1989	O
+,	O
+als	O
+er	O
+mit	O
+den	O
+Oakland	B-ORG
+Athletics	I-ORG
+die	O
+World	B-LOC
+Series	I-LOC
+gewann	O
+.	O
+
+Pieter	B-PER
+de	I-PER
+Molijn	I-PER
+
+'	O
+''	O
+New	B-PER
+Jersey	I-PER
+''	O
+'	O
+
+Deutschen	B-ORG
+Künstlerbundes	I-ORG
+und	O
+als	O
+Jurymitglied	O
+auch	O
+zum	O
+erweiterten	O
+Vorstand	O
+des	O
+DKB	O
+.	O
+
+2.	B-LOC
+Fußball-Bundesliga	I-LOC
+1983	I-LOC
+/	I-LOC
+84	I-LOC

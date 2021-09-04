@@ -1,0 +1,37 @@
+টালাহাসি	B-LOC
+,	I-LOC
+ফ্লোরিডা	I-LOC
+
+জন	B-PER
+ভন	I-PER
+নিউম্যান	I-PER
+
+ফোর্ড	B-ORG
+মোটর	I-ORG
+কোম্পানি	I-ORG
+
+'	O
+''	O
+আগারগাঁও	O
+''	O
+'	O
+বাংলাদেশের	B-LOC
+রাজধানী	O
+ঢাকার	B-LOC
+একটি	O
+স্থান।	O
+
+জোন	B-PER
+অব	I-PER
+আর্ক	I-PER
+
+''	O
+মির্জাপুর	B-LOC
+উপজেলা	I-LOC
+''	O
+'	O
+
+ভারত	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG

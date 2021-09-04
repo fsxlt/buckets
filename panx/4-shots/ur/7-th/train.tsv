@@ -1,0 +1,73 @@
+رجوع_مکرر	O
+چیچن-انگش	B-ORG
+خود	I-ORG
+مختار	I-ORG
+سوویت	I-ORG
+اشتراکی	I-ORG
+جمہوریہ	I-ORG
+
+رجوع_مکرر	O
+فیئرویو	B-LOC
+ٹاؤنشپ،	I-LOC
+فولٹن	I-LOC
+کاؤنٹی،	I-LOC
+الینوس	I-LOC
+
+بین	B-ORG
+الاقوامی	I-ORG
+نظام	I-ORG
+اکائیات	I-ORG
+
+محمد	B-PER
+قلی	I-PER
+قطب	I-PER
+شاہ	I-PER
+
+رجوع_مکرر	O
+جواد	B-PER
+ایس	I-PER
+خواجہ	I-PER
+
+رجوع_مکرر	O
+اطالوی	B-LOC
+صومالی	I-LOC
+لینڈ	I-LOC
+
+رجوع_مکرر	O
+پروویڈنس،	B-LOC
+روڈ	I-LOC
+آئلینڈ	I-LOC
+
+رڈیارڈ	B-PER
+کپلنگ	I-PER
+,	O
+''برطانیہ	O
+''	O
+
+رجوع_مکرر	O
+گیارہواں	B-PER
+دلائی	I-PER
+لاما	I-PER
+
+رجوع_مکرر	O
+میانمار	B-ORG
+میں	I-ORG
+سفارتی	I-ORG
+مشنوں	I-ORG
+کی	I-ORG
+فہرست	I-ORG
+
+رجوع_مکرر	O
+آئین	B-ORG
+پاکستان	I-ORG
+میں	I-ORG
+ساتویں	I-ORG
+ترمیم	I-ORG
+
+رجوع_مکرر	O
+بئیر	B-LOC
+کریک	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مشی	I-LOC
+گن	I-LOC

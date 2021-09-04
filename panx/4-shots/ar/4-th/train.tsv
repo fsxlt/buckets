@@ -1,0 +1,72 @@
+تحويل	O
+الإسماعيلية	B-ORG
+(	I-ORG
+مدينة	I-ORG
+)	I-ORG
+
+دلائل	O
+الاعجاز	O
+عبد	B-PER
+القاهر	I-PER
+الجرجاني	I-PER
+
+تحويل	O
+جماعات	B-ORG
+مسلحة	I-ORG
+عراقية	I-ORG
+
+ملعب	B-ORG
+مدينة	I-ORG
+الملك	I-ORG
+عبد	I-ORG
+الله	I-ORG
+الرياضية	I-ORG
+
+تحويل	O
+بطولة	B-ORG
+أمم	I-ORG
+أوروبا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+2012	I-ORG
+-	I-ORG
+المجموعة	I-ORG
+الأولى	I-ORG
+
+**	O
+جعفر	B-PER
+النميري،	I-PER
+رئيس	O
+جمهورية	B-LOC
+السودان	I-LOC
+.	O
+
+تحويل	O
+اتحاد	B-LOC
+أوغندا	I-LOC
+لكرة	I-LOC
+القدم	I-LOC
+
+تحويل	O
+انفانتي	B-PER
+دينيس	I-PER
+(	I-PER
+لورد	I-PER
+سيفوينتيس	I-PER
+)	I-PER
+
+جوزيف	B-PER
+روتبلت	I-PER
+(	O
+1908–2005	O
+)	O
+
+مون	B-LOC
+ليت	I-LOC
+جرامي،	I-LOC
+،	O
+
+تحويل	O
+جمعية	B-LOC
+القيصر	I-LOC
+فيلهلم	I-LOC

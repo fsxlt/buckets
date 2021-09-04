@@ -1,0 +1,19 @@
+BIRZUZENDU	O
+Georg	B-PER
+Joachim	I-PER
+Rheticus	I-PER
+
+'	O
+''	O
+Wolverhampton	B-LOC
+''	O
+'	O
+,	O
+West	B-LOC
+Midlands	I-LOC
+
+BIRZUZENDU	O
+Batez	B-ORG
+besteko	I-ORG
+balioaren	I-ORG
+teorema	I-ORG

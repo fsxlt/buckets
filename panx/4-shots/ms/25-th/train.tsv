@@ -1,0 +1,78 @@
+'	O
+''	O
+Petro	B-PER
+Poroshenko	I-PER
+''	O
+'Петро	O
+Порошенко	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Savoie	I-LOC
+
+Matthew	B-PER
+Broderick	I-PER
+-	O
+actor	O
+
+Beliau	O
+berkelulusan	O
+dari	O
+Institut	B-ORG
+polytechnique	I-ORG
+des	I-ORG
+sciences	I-ORG
+avancées	I-ORG
+''	O
+.	O
+
+Battlestar	B-ORG
+Galactica	I-ORG
+''	O
+(	O
+2005—	O
+)	O
+
+Mohsin	B-PER
+Fadzli	I-PER
+Samsuri	I-PER
+(	O
+IND	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Eure	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+LENCONG	O
+Calanda	B-LOC
+,	I-LOC
+Sepanyol	I-LOC
+
+``	O
+Kekal	O
+''	O
+nyanyian	O
+Ziana	B-PER
+Zain	I-PER
+
+Tabung	B-ORG
+Kanak-kanak	I-ORG
+Pertubuhan	I-ORG
+Bangsa-Bangsa	I-ORG
+Bersatu	I-ORG
+
+Running	B-ORG
+Man	I-ORG
+Episod	O
+123-124	O
+(	O
+2012	O
+)	O

@@ -1,0 +1,46 @@
+Alessandro	B-PER
+Pier	I-PER
+Guidi	I-PER
+3	O
+,	O
+Ho-Pin	B-PER
+Tung	I-PER
+1	O
+
+Pavilhão	B-ORG
+alemão	I-ORG
+na	I-ORG
+Feira	I-ORG
+Universal	I-ORG
+de	I-ORG
+Barcelona	I-ORG
+
+Hardtner	B-LOC
+(	I-LOC
+Kansas	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Valentino	B-PER
+Rossi	I-PER
+''	O
+'	O
+
+''	O
+Bulbophyllum	B-LOC
+rubiferum	I-LOC
+''	O
+J.J.Sm	O
+.	O
+
+''	O
+Stemmatophora	O
+borgialis	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O

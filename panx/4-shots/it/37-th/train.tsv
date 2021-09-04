@@ -1,0 +1,111 @@
+Antipatro	B-PER
+(	I-PER
+generale	I-PER
+)	I-PER
+,	O
+Cassandro	B-PER
+,	O
+Tolomeo	B-PER
+,	O
+Seleuco	B-PER
+,	O
+Pirro	B-PER
+
+20px]]	O
+'	O
+''	O
+Santa	B-LOC
+Lucia	I-LOC
+di	I-LOC
+Piave	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Spinetta	B-LOC
+Marengo	I-LOC
+''	O
+'	O
+
+Shawty	B-ORG
+''	O
+'	O
+''	O
+(	O
+Plies	B-PER
+feat	O
+.	O
+
+'	O
+''	O
+Jeff	B-PER
+Salzenstein	I-PER
+(	O
+Qualificato	O
+)	O
+'	O
+''	O
+
+Pablo	B-PER
+Cuevas	I-PER
+/	O
+Brian	B-PER
+Dabul	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+Othyus	B-PER
+Jeffers	I-PER
+,	O
+Iowa	B-ORG
+Energy	I-ORG
+
+Primo	B-ORG
+Partito	I-ORG
+di	I-ORG
+Lettonia	I-ORG
+-	I-ORG
+Via	I-ORG
+Lettone	I-ORG
+
+**	O
+Biblioteca	B-ORG
+Nazionale	I-ORG
+Centrale	I-ORG
+di	I-ORG
+Roma	I-ORG
+;	O
+
+Cane	B-ORG
+da	I-ORG
+orso	I-ORG
+della	I-ORG
+Carelia	I-ORG
+
+1966-1967	B-LOC
+•	O
+?	O
+ª	O
+nella	O
+Kategoria	B-LOC
+e	I-LOC
+Parë	I-LOC
+.	O
+
+Duchi	B-LOC
+e	I-LOC
+principi	I-LOC
+di	I-LOC
+Benevento	I-LOC
+
+***	O
+Prahova	B-LOC
+(	O
+vicino	O
+ad	O
+Adâncata	B-LOC
+)	O

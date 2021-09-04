@@ -1,0 +1,36 @@
+Papa	B-PER
+Felix	I-PER
+III	I-PER
+
+Wote	O
+kwa	O
+pamoja	O
+waliingia	O
+katika	O
+LDP	B-ORG
+.	O
+
+Papa	B-PER
+Innocent	I-PER
+XIII	I-PER
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Nouakchott	B-LOC
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+Huria	I-ORG
+cha	I-ORG
+Tanzania	I-ORG
+
+Namibe	B-LOC
+(	I-LOC
+mkoa	I-LOC
+)	I-LOC
+
+Face	B-ORG
+to	I-ORG
+Face	B-ORG

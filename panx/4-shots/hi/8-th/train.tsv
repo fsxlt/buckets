@@ -1,0 +1,77 @@
+बिग	B-PER
+शो	I-PER
+(	O
+45	O
+सेकंडस	O
+)	O
+
+देखें	O
+,	O
+मास्को	B-ORG
+राज्य	I-ORG
+विश्वविद्यालय	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+बोरशिया	B-ORG
+मौनचेंगलाडबाख	I-ORG
+''	O
+'	O
+''	O
+'प्रथम	O
+खिताब	O
+''	O
+'	O
+
+पुनर्प्रेषित	O
+विदेश	B-ORG
+मंत्रालय	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+सरदार	B-LOC
+पटेल	I-LOC
+स्टेडियम	I-LOC
+,	O
+अहमदाबाद	B-LOC
+
+दीनदयाल	B-PER
+उपाध्याय	I-PER
+(	O
+967–68	O
+)	O
+
+ब्रिटेन	B-PER
+के	I-PER
+प्रधान	I-PER
+मन्त्री	I-PER
+
+वर्तमान	O
+में	O
+,	O
+अरुण	B-PER
+जेटली	I-PER
+भारत	B-ORG
+के	I-ORG
+वित्त	I-ORG
+मंत्री	I-ORG
+है।	O
+
+लाल	B-LOC
+सिर	I-LOC
+वाला	I-LOC
+गिद्ध	I-LOC
+
+पुनर्प्रेषित	O
+दरख़ान	B-LOC
+(	I-LOC
+शहर	I-LOC
+)	I-LOC
+
+बलूचिस्तान	B-LOC
+(	I-LOC
+पाकिस्तान	I-LOC
+)	I-LOC

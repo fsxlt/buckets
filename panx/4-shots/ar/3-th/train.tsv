@@ -1,0 +1,84 @@
+تحويل	O
+بلدة	B-LOC
+ويبستر	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+يان	B-PER
+سفاتوبلوك	I-PER
+بريسل	I-PER
+
+موطنها	O
+كل	O
+أوروبا	B-LOC
+القوقاز	B-LOC
+.	O
+
+تولت	O
+مناصب	O
+جامعة	B-ORG
+هارفارد،	I-ORG
+جامعة	B-ORG
+شيكاغو	I-ORG
+.	O
+
+والرئيس	O
+الحالي	O
+هو	O
+حسن	B-PER
+شيخ	I-PER
+محمود	I-PER
+.	O
+
+الترويكا	B-ORG
+(	I-ORG
+تونس	I-ORG
+)	I-ORG
+
+تحويل	O
+إيفراتا	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO249675	O
+
+قائمة	B-PER
+ملوك	I-PER
+مصر	I-PER
+القديمة	I-PER
+
+تحويل	O
+تسيل	B-LOC
+أم	I-LOC
+زيه	I-LOC
+
+ماريغان	O
+في	O
+السيف	B-ORG
+القاطع	I-ORG
+
+تحويل	O
+يوحنا	B-PER
+الثالث	I-PER
+(	I-PER
+بابا	I-PER
+روما	I-PER
+)	I-PER
+
+تحويل	O
+باكينغتون	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC

@@ -1,0 +1,84 @@
+REDIRECIONAMENTO	O
+Ride	B-ORG
+the	I-ORG
+Lightning	I-ORG
+
+'	O
+''	O
+Ilhas	B-LOC
+Virgens	I-LOC
+Britânicas	I-LOC
+''	O
+'	O
+
+MALTEZ	B-PER
+,	I-PER
+José	I-PER
+Adelino	I-PER
+.	O
+
+'	O
+''	O
+Caetano	B-PER
+Veloso	I-PER
+''	O
+'	O
+
+Juntamente	O
+com	O
+Serj	B-PER
+Tankian	I-PER
+integra	O
+o	O
+projecto	O
+''SerArt	O
+''	O
+.	O
+
+Enema	B-ORG
+of	I-ORG
+the	I-ORG
+State	I-ORG
+''	O
+
+Roberto	B-PER
+Néstor	I-PER
+Sensini	I-PER
+
+Partido	B-ORG
+Democrático	I-ORG
+(	I-ORG
+Portugal	I-ORG
+)	I-ORG
+
+Puente	B-LOC
+de	I-LOC
+Vallecas	I-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+Viana	B-LOC
+do	I-LOC
+Castelo	I-LOC
+Ponte	B-ORG
+da	I-ORG
+Barca	I-ORG
+/	O
+Arcos	B-LOC
+de	I-LOC
+Valdevez	I-LOC
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+**	O
+Odessa	B-LOC
+(	O
+Consulado-Geral	O
+)	O

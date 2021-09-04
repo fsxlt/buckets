@@ -1,0 +1,61 @@
+尖	B-ORG
+子	I-ORG
+攻	I-ORG
+略	I-ORG
+
+#	O
+比	B-LOC
+西	I-LOC
+勒	I-LOC
+隆	I-LOC
+
+金	B-LOC
+門	I-LOC
+縣	I-LOC
+選	O
+舉	O
+區	O
+
+#	O
+黃	B-PER
+真	I-PER
+伊	I-PER
+
+稗	O
+田	O
+礼	O
+二	O
+郎	O
+：	O
+澤	B-ORG
+田	I-ORG
+研	I-ORG
+二	I-ORG
+
+#	O
+夏	B-PER
+尔	I-PER
+·	I-PER
+尼	I-PER
+科	I-PER
+勒	I-PER
+：	O
+细	O
+菌	O
+学	O
+家	O
+，	O
+1	O
+9	O
+2	O
+8	O
+年	O
+诺	O
+贝	O
+尔	O
+医	O
+学	O
+奖	O
+获	O
+得	O
+者	O

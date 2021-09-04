@@ -1,0 +1,50 @@
+'	O
+''	O
+Juan	B-PER
+Echanove	I-PER
+''	O
+'	O
+
+Erresuma	B-ORG
+Batuko	I-ORG
+Legebiltzarra	I-ORG
+Erresuma	B-LOC
+Batua	I-LOC
+
+Anconako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Markak	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Brockel	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+The	B-ORG
+Best	I-ORG
+of	I-ORG
+Kiss	I-ORG
+,	I-ORG
+Volume	I-ORG
+3	I-ORG
+:	I-ORG
+The	B-ORG
+Millennium	I-ORG
+Collection	I-ORG
+''	O
+
+Juliano	B-PER
+Apostata	I-PER
+(	O
+361-363	O
+)	O

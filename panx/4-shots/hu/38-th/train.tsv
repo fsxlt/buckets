@@ -1,0 +1,131 @@
+Az	O
+éves	O
+csapadék	O
+átlagosan	O
+600	O
+mm	O
+körüli	O
+,	O
+évente	O
+egyszer	O
+havazik	O
+is	O
+,	O
+amikor	O
+a	O
+Balkán	B-LOC
+felől	O
+a	O
+hideg	O
+légtömegek	O
+ideérnek	O
+.	O
+
+Makedóniában	B-ORG
+trónra	O
+lép	O
+II.	B-PER
+Philipposz	I-PER
+
+A	O
+2011-12-es	B-LOC
+szezon	I-LOC
+után	O
+vonult	O
+vissza	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+The	B-ORG
+Soft	I-ORG
+Parade	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Your	B-ORG
+Funeral…	I-ORG
+My	I-ORG
+Trial	I-ORG
+
+1.	B-ORG
+FC	I-ORG
+Union	I-ORG
+Berlin	I-ORG
+
+Nyikolaj	B-PER
+Mihajlovics	I-PER
+Budarin	I-PER
+fedélzeti	O
+mérnök	O
+
+Az	O
+AXN	B-ORG
+Sci-Fi	I-ORG
+tv-csatornának	O
+a	O
+hangja	O
+volt	O
+,	O
+jelenleg	O
+a	O
+jogutód	O
+,	O
+AXN	B-ORG
+White	I-ORG
+bemondósa	O
+.	O
+
+A	O
+verseny	O
+a	O
+Tátrából	B-LOC
+,	O
+a	O
+Csorba	B-LOC
+tótól	I-LOC
+rajtolt	O
+és	O
+Balatonfüreden	B-LOC
+ért	O
+véget	O
+.	O
+
+Connecticut	B-LOC
+államban	O
+,	O
+Salisbury	B-LOC
+külvárosában	O
+nőtt	O
+fel	O
+,	O
+de	O
+öt	O
+évig	O
+Los	B-LOC
+Angelesben	I-LOC
+éltek	O
+.	O
+
+'	O
+''	O
+Fabrice	B-PER
+Santoro	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Mikes	B-PER
+György	I-PER
+(	I-PER
+humorista	I-PER
+,	I-PER
+1912–1987	I-PER
+)	I-PER
+
+'	O
+''	O
+Bělá	B-LOC
+nad	I-LOC
+Radbuzou	I-LOC
+''	O
+'	O
+-	O

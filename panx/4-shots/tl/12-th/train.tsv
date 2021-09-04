@@ -1,0 +1,70 @@
+Kapuluang	B-LOC
+Cocos	I-LOC
+(	I-LOC
+Keeling	I-LOC
+)	I-LOC
+
+**	O
+''	O
+Bulong	B-ORG
+ng	I-ORG
+Puso	I-ORG
+''	O
+(	O
+2009	O
+)	O
+
+Partidong	B-ORG
+Komunista	I-ORG
+ng	I-ORG
+Nepal	I-ORG
+
+Kapisanan	B-ORG
+ng	I-ORG
+Pandaigdigang	I-ORG
+Kalakalan	I-ORG
+
+Samahan	B-ORG
+ng	I-ORG
+mga	I-ORG
+Bansa	I-ORG
+sa	I-ORG
+Timog-Silangang	I-ORG
+Asya	I-ORG
+
+Estados	B-LOC
+Unidos	I-LOC
+(	O
+1894	O
+)	O
+
+Eksarkado	B-LOC
+ng	I-LOC
+Pilipinas	I-LOC
+
+Maria	B-PER
+Faustina	I-PER
+Kowalska	I-PER
+
+'	O
+''	O
+Gil	B-PER
+Puyat	I-PER
+''	O
+'	O
+
+United	B-LOC
+Kingdom	I-LOC
+(	O
+900,000	O
+)	O
+
+Cirilo	B-PER
+ng	I-PER
+Alehandriya	I-PER
+
+Charles	B-PER
+,	I-PER
+Prinsipe	I-PER
+ng	I-PER
+Wales	I-PER

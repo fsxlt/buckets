@@ -1,0 +1,120 @@
+부뇨드코르는	O
+상대적으로	O
+국제적으로	O
+알려지지	O
+않은	O
+클럽이었으나	O
+,	O
+FC	B-ORG
+바르셀로나의	I-ORG
+공격수인	O
+사뮈엘	B-PER
+에토의	I-PER
+이적설이	O
+나돌면서	O
+알려지게	O
+되었다	O
+.	O
+
+캐럴턴	B-LOC
+(	I-LOC
+오하이오	I-LOC
+주	I-LOC
+)	I-LOC
+
+**	O
+고스게	B-LOC
+촌	I-LOC
+(	O
+)	O
+,	O
+다바야마	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+'	O
+''	O
+마크	B-PER
+웨버	I-PER
+''	O
+'	O
+
+넘겨주기	O
+FC	B-ORG
+톰	I-ORG
+톰스크	I-ORG
+
+나폴리	B-LOC
+역사지구	I-LOC
+(	O
+1995	O
+)	O
+
+고구려	B-LOC
+(	O
+高句麗	O
+)	O
+광개토왕	B-PER
+(	O
+廣開土王	O
+)	O
+14년	O
+
+HTC	B-ORG
+J	I-ORG
+버터플라이의	I-ORG
+후속	O
+기종이다	O
+.	O
+
+금	B-LOC
+(	O
+金	O
+)	O
+태조	B-PER
+(	O
+太祖	O
+)	O
+2년	O
+
+본가는	O
+현재	O
+루마니아의	B-LOC
+부쿠레슈티에	B-LOC
+있는	O
+엘리사베타	B-ORG
+궁전에	I-ORG
+거주하고	O
+있으나	O
+,	O
+카롤	B-PER
+2세의	I-PER
+사생아의	O
+자손으로	O
+구성된	O
+분가가	O
+현재	O
+포르투갈에	B-LOC
+거주하고	O
+있다	O
+.	O
+
+'	O
+''	O
+조지마	B-PER
+겐지	I-PER
+''	O
+'	O
+
+기노모토	B-LOC
+정	I-LOC
+(	O
+)	O
+
+포켓몬스터	B-ORG
+AG》12화에서	I-ORG
+웅의	O
+포켓몬이	O
+된다	O
+.	O

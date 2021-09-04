@@ -1,0 +1,99 @@
+Frantzisko	B-PER
+I.a	I-PER
+,	O
+1515-1547	O
+
+PSOEk	B-ORG
+eta	O
+EAJk	B-ORG
+ere	O
+idazkia	O
+sinatu	O
+zuten	O
+.	O
+
+23px]]	O
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Vaucluse	B-LOC
+departamenduan	O
+dago	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Nave-ko	B-ORG
+San	I-ORG
+Pedro	I-ORG
+eliza	I-ORG
+
+''Emilio	O
+''	O
+,	O
+Jean-Jacques	B-PER
+Rousseau	I-PER
+
+BIRZUZENDU	O
+Margny	B-LOC
+(	I-LOC
+Ardenak	I-LOC
+)	I-LOC
+
+Peñamellera	B-LOC
+Baja	I-LOC
+/	I-LOC
+Baxa	I-LOC
+
+119	O
+kadeteetan	O
+,	O
+20.	O
+izan	O
+zen	O
+eta	O
+omen	O
+handiko	O
+Chuichi	B-PER
+Nagumo	I-PER
+almirantea	O
+ikaskide	O
+izan	O
+zuen	O
+.	O
+
+Bad	B-LOC
+Blankenburg	I-LOC
+,	O
+Turingia	B-LOC
+
+18	B-ORG
+Zenbakia	I-ORG
+erasorako	O
+prest	O
+!	O
+
+Derby	B-ORG
+Museum	I-ORG
+and	I-ORG
+Art	I-ORG
+Gallery	I-ORG
+
+Bilbon	B-LOC
+hasi	O
+zen	O
+bere	O
+karrera	O
+Athletic	B-ORG
+Clubeko	I-ORG
+harrobian	O
+hain	O
+zuzen	O
+ere	O
+.	O

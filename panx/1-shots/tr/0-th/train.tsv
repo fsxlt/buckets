@@ -1,0 +1,17 @@
+YÖNLENDİRME	O
+Halep	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC
+
+``	O
+The	B-ORG
+Road	I-ORG
+To	I-ORG
+Mandalay	I-ORG
+''	O
+
+Stacy	B-PER
+Ferguson	I-PER
+-	O
+Saraghina	O

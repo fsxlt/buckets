@@ -1,0 +1,56 @@
+Novarako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+Halere	O
+,	O
+Euskal	B-LOC
+Herriko	I-LOC
+leku	O
+askoetan	O
+Gabonetan	B-LOC
+,	O
+Olentzeroaren	B-PER
+etorrerarekin	O
+batera	O
+,	O
+ohikoa	O
+da	O
+haurrek	O
+kaikua	O
+janztea	O
+.	O
+
+Joanes	B-PER
+Ezpondaren	I-PER
+anaia	O
+izan	O
+zen	O
+.	O
+
+Aipagarriak	O
+dira	O
+Saint-Gatian	B-ORG
+katedral	I-ORG
+gotiko-pizkundekoa	I-ORG
+,	O
+XI.-XIII	O
+.	O
+
+Puebla	B-ORG
+(	I-ORG
+Mexiko	I-ORG
+)	I-ORG
+
+María	B-PER
+Barranco	I-PER
+aktorearekin	O
+alaba	O
+bat	O
+dauka	O
+.	O

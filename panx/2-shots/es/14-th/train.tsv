@@ -1,0 +1,45 @@
+Marítima	B-LOC
+(	I-LOC
+Togo	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Mate	B-PER
+Pavić	I-PER
+''	O
+'	O
+'	O
+''	O
+Michael	B-PER
+Venus	I-PER
+''	O
+'	O
+
+Conservatorio	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Música	I-ORG
+(	I-ORG
+Líbano	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Economía	B-ORG
+de	I-ORG
+Bolivia	I-ORG
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Eduardo	B-PER
+Schwank	I-PER
+(	O
+198º	O
+)	O

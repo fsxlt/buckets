@@ -1,0 +1,27 @@
+Marcel	B-PER
+Breuer	I-PER
+ontwerpt	O
+de	O
+Kandinsky-stoel	O
+.	O
+
+Hij	O
+werd	O
+legerarts	O
+in	O
+het	O
+Koninkrijk	B-LOC
+Pruisen	I-LOC
+en	O
+maakte	O
+tevens	O
+als	O
+zakenman	O
+fortuin	O
+.	O
+
+'	O
+''	O
+Red	B-ORG
+Bull	I-ORG
+Salzburg	I-ORG

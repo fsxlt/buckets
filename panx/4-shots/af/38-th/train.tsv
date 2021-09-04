@@ -1,0 +1,123 @@
+Egoli	B-ORG
+:	I-ORG
+Plek	I-ORG
+van	I-ORG
+Goud	I-ORG
+
+AANSTUUR	O
+Panic	B-ORG
+at	I-ORG
+the	I-ORG
+Disco	I-ORG
+
+'	O
+''	O
+Nico	B-PER
+Hülkenberg	I-PER
+''	O
+'	O
+
+AANSTUUR	O
+Universiteit	B-ORG
+van	I-ORG
+Hasselt	I-ORG
+
+'	O
+''	O
+Westelike	B-ORG
+Provinsie	I-ORG
+''	O
+'	O
+
+Andrew	B-PER
+Murray	I-PER
+gewikkel	O
+geraak	O
+het	O
+toe	O
+hy	O
+ds	O
+.	O
+
+Prinses	B-PER
+Dagmar	I-PER
+van	I-PER
+Denemarke	I-PER
+(	O
+1890–1961	O
+)	O
+
+Dit	O
+word	O
+deur	O
+die	O
+Demokratiese	B-LOC
+Republiek	I-LOC
+van	I-LOC
+die	I-LOC
+Kongo	I-LOC
+,	O
+Tanzanië	B-LOC
+,	O
+Malawi	B-LOC
+,	O
+Mosambiek	B-LOC
+,	O
+Zimbabwe	B-LOC
+,	O
+Botswana	B-LOC
+,	O
+Namibië	B-LOC
+en	O
+Angola	B-LOC
+begrens	O
+.	O
+
+Oos-Europese	B-LOC
+Tyd	I-LOC
+(	O
+in	O
+Kaliningrad-oblast	B-LOC
+,	O
+''Kalingradtyd	O
+''	O
+genoem	O
+)	O
+
+AANSTUUR	O
+Bosnië	B-LOC
+en	I-LOC
+Herzegowina	I-LOC
+
+Dit	O
+is	O
+later	O
+verkoop	O
+aan	O
+Cecil	B-PER
+John	I-PER
+Rhodes	I-PER
+)	O
+.	O
+
+AANSTUUR	O
+Burchell	B-LOC
+se	I-LOC
+rooivlerkie	I-LOC
+
+Noord-Korea	B-LOC
+,	O
+geëis	O
+deur	O
+Suid-Korea	B-LOC
+en	O
+word	O
+net	O
+deur	O
+Suid-Korea	B-LOC
+en	O
+Japan	B-LOC
+nie	O
+erken	O
+nie	O
+.	O

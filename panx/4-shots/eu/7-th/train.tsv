@@ -1,0 +1,125 @@
+Paviako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Debussyrekin	B-PER
+eta	O
+Ravelekin	O
+aldera	O
+daiteke	O
+bere	O
+obren	O
+edertasunagatik	O
+eta	O
+sakontasunagatik	O
+.	O
+
+Arratsaldeko	O
+lauretan	O
+,	O
+Goardia	B-ORG
+Zibila	I-ORG
+,	O
+matxinatuen	O
+aldekoa	O
+,	O
+kalera	O
+irten	O
+zen	O
+.	O
+
+'	O
+''	O
+Biarritz	B-ORG
+Olympique	I-ORG
+''	O
+'	O
+
+Udineko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Friuli-Venezia-Julia	B-LOC
+eskualdean	O
+.	O
+
+Jorge	B-PER
+Luis	I-PER
+Borges	I-PER
+(	O
+1899–1986	O
+)	O
+
+Idazlearen	O
+aitonak	O
+haren	O
+ama	O
+Bilboko	B-ORG
+Arte	I-ORG
+Eder	I-ORG
+Museoa	I-ORG
+bisitatzera	O
+eraman	O
+zuen	O
+(	O
+12-13	O
+orr	O
+.	O
+
+BIRZUZENDU	O
+Luzio	B-PER
+Kornelio	I-PER
+Sila	I-PER
+
+Anaia	O
+Simon	B-PER
+Petri	I-PER
+izan	O
+zuen	O
+.	O
+
+Renania-Palatinatua	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+Partido	B-ORG
+Aragonés	I-ORG
+(	O
+PAR	O
+)	O
+
+El	B-LOC
+Paso	I-LOC
+(	O
+Texas	B-LOC
+)	O
+(	O
+I-10ren	B-ORG
+bidez	O
+)	O
+
+Jon	B-PER
+Ander	I-PER
+Lopez	I-PER
+Maquiera	I-PER

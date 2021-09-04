@@ -1,0 +1,38 @@
+জর্জিয়া	B-LOC
+(	I-LOC
+রাষ্ট্র	I-LOC
+)	I-LOC
+
+অস্ট্রিয়ার	B-ORG
+সমাজবাদী	I-ORG
+গণতন্ত্রী	I-ORG
+পার্টি	I-ORG
+
+মেরিনা	B-LOC
+সমুদ্র	I-LOC
+সৈকত	I-LOC
+
+'	O
+''	O
+মাহেলা	B-PER
+জয়াবর্ধনে	I-PER
+''	O
+'	O
+
+জর্জ	B-PER
+আর.	I-PER
+মিনট	I-PER
+;	O
+উইলিয়াম	B-PER
+পি	I-PER
+মারফি	I-PER
+;	O
+জর্জ	B-PER
+এইচ.	I-PER
+উইপেল	I-PER
+
+জাতীয়	B-ORG
+পার্টি	I-ORG
+(	I-ORG
+এরশাদ	I-ORG
+)	I-ORG

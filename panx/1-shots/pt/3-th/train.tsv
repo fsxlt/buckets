@@ -1,0 +1,16 @@
+Zachary	B-PER
+Hietala	I-PER
+-	O
+Guitarra	B-ORG
+
+New	B-LOC
+London	I-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC
+
+Kraft	B-ORG
+Foods	I-ORG
+(	I-ORG
+2012	I-ORG
+)	I-ORG

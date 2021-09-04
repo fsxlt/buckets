@@ -1,0 +1,75 @@
+Juan	B-PER
+Andrés	I-PER
+Fontaine	I-PER
+
+Teatro	B-ORG
+Popular	I-ORG
+Melico	I-ORG
+Salazar	I-ORG
+en	O
+San	B-LOC
+José	I-LOC
+.	O
+
+Que	O
+Será	O
+-	O
+Diego	B-PER
+Torres	I-PER
+.	O
+
+'	O
+''	O
+Andes	B-ORG
+(	I-ORG
+aldea	I-ORG
+)	I-ORG
+''	O
+'	O
+.	O
+
+'	O
+''	O
+SK	B-ORG
+Sturm	I-ORG
+Graz	I-ORG
+''	O
+'	O
+
+David	B-PER
+Palmer	I-PER
+(	O
+ABC	B-ORG
+)	O
+
+Masters	B-ORG
+Nórdico	I-ORG
+de	I-ORG
+Fórmula	I-ORG
+3	I-ORG
+
+Vall	B-LOC
+de	I-LOC
+Uxó	I-LOC
+
+Condado	B-LOC
+de	I-LOC
+Morton	I-LOC
+(	O
+este	O
+)	O
+
+Carlos	B-PER
+Huertas	I-PER
+'	O
+''	O
+(	O
+N	O
+)	O
+'	O
+''	O
+
+Región	B-LOC
+Centro-Oeste	I-LOC
+de	I-LOC
+Brasil	I-LOC

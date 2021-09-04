@@ -1,0 +1,37 @@
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+Powiat	B-LOC
+Puławy	I-LOC
+,	O
+Puławy	B-LOC
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC
+
+Kasor	O
+PF	O
+vs	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O

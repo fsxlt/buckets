@@ -1,0 +1,113 @@
+Afganistani	B-LOC
+pealinnas	O
+Kabulis	B-LOC
+ründasid	O
+islamiliikumise	O
+Ţālebān	B-ORG
+võitlejad	O
+riigi	O
+parlamendihoonet	O
+.	O
+
+Jan	B-PER
+Henryk	I-PER
+Dąbrowski	I-PER
+
+suuna	O
+Kes	B-ORG
+tahab	I-ORG
+saada	I-ORG
+miljonäriks	I-ORG
+?	I-ORG
+
+Bernhard	B-PER
+II	I-PER
+(	I-PER
+Lippe	I-PER
+)	I-PER
+
+Need	O
+maod	O
+elavad	O
+Nicaraguas	B-LOC
+,	O
+Hondurases	B-LOC
+,	O
+Costa	B-LOC
+Ricas	I-LOC
+,	O
+Panamas	B-LOC
+ja	O
+Colombias	B-LOC
+.	O
+
+Washingtoni	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+Hinsdale'i	B-LOC
+maakond	I-LOC
+(	O
+loodes	O
+)	O
+
+Läti	B-LOC
+pealinnas	O
+Riias	B-LOC
+toimus	O
+Euroopa	B-ORG
+Liidu	I-ORG
+energeetikaministrite	O
+kohtumine	O
+.	O
+
+Herbert	B-PER
+Spencer	I-PER
+,	O
+inglise	O
+filosoof	O
+ja	O
+sotsioloog	O
+(	O
+1820–1903	O
+)	O
+
+Valikturniiril	O
+õnnestus	O
+saudidel	O
+MM-i	O
+pilet	O
+lunastada	O
+alles	O
+viimases	O
+voorus	O
+,	O
+kus	O
+suudeti	O
+kodus	O
+alistada	O
+Tai	B-ORG
+meeskond	I-ORG
+4:1	O
+.	O
+
+suuna	O
+Euroopa	B-ORG
+Söe-	I-ORG
+ja	I-ORG
+Teraseühendus	I-ORG
+
+Nimiosa	O
+mängis	O
+Denzel	B-PER
+Washington	I-PER
+.	O
+
+Burleigh	B-LOC
+'	I-LOC
+maakond	I-LOC
+(	O
+kirdes	O
+)	O

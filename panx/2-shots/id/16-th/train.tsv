@@ -1,0 +1,40 @@
+ALIH	O
+Elizabeth	B-PER
+I	I-PER
+dari	I-PER
+Inggris	I-PER
+
+ALIH	O
+En	B-ORG
+Su	I-ORG
+Intimidad	I-ORG
+
+Kekecewaannya	O
+terhadap	O
+pemerintah	O
+pusat	O
+semakin	O
+membulatkan	O
+tekadnya	O
+untuk	O
+membentuk	O
+Negara	B-ORG
+Islam	I-ORG
+Indonesia	I-ORG
+.	O
+
+Antiokhos	B-PER
+I	I-PER
+Soter	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Tarn-et-Garonne	I-LOC
+
+ALIH	O
+Shusha	B-LOC
+(	I-LOC
+rayon	I-LOC
+)	I-LOC

@@ -1,0 +1,113 @@
+לאחר	O
+המלחמה	B-ORG
+העות'מאנית-רוסית	I-ORG
+(	I-ORG
+1877-1878	I-ORG
+)	I-ORG
+הפך	O
+חלק	O
+נסיכות	B-LOC
+בולגריה	I-LOC
+מתוקף	O
+סיכומי	O
+קונגרס	B-ORG
+ברלין	I-ORG
+.	O
+
+במצרים	O
+הוא	O
+אחד	O
+האתרים	O
+המתויירים	O
+ביותר	O
+,	O
+והוא	O
+שני	O
+רק	O
+פירמידה	B-ORG
+של	I-ORG
+גיזה	I-ORG
+ליד	O
+קהיר	B-LOC
+.	O
+
+הידוע	O
+בהם	O
+הוא	O
+הפרדוקס	B-ORG
+הצרפתי	I-ORG
+.	O
+
+פרופיל	O
+באתר	O
+פיב	B-ORG
+''	I-ORG
+א	I-ORG
+אירופה	I-ORG
+
+האחות	O
+הבוגרת	O
+של	O
+קתרין	B-PER
+מאראגון	I-PER
+.	O
+
+'	O
+''	O
+סטבאן	B-PER
+יובטיץ	I-PER
+'	I-PER
+''	O
+'	O
+
+מנצ'סטר	B-LOC
+(	I-LOC
+ניו	I-LOC
+המפשייר	I-LOC
+)	I-LOC
+,	O
+ארצות	B-LOC
+הברית	I-LOC
+
+'	O
+''	O
+נצרת	B-LOC
+עילית	I-LOC
+''	O
+'	O
+
+``	O
+''Prince	O
+Rupert	O
+Awakes	O
+''	O
+''	O
+-	O
+מושר	O
+על	O
+ידי	O
+ג'ון	B-PER
+אנדרסון	I-PER
+מלהקת	O
+יס	B-ORG
+.	O
+
+נייט	B-PER
+דוג	I-PER
+-	O
+``	O
+Rollin	O
+'	O
+20s	O
+Long	O
+Beach	O
+Crip	O
+''	O
+
+ננדו	B-LOC
+מצוי	I-LOC
+(	O
+''Rhea	O
+americana	O
+''	O
+)	O

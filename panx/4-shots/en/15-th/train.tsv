@@ -1,0 +1,111 @@
+He	O
+was	O
+born	O
+in	O
+Hallson	B-LOC
+,	I-LOC
+North	I-LOC
+Dakota	I-LOC
+,	O
+in	O
+the	O
+United	B-LOC
+States	I-LOC
+of	I-LOC
+America	I-LOC
+,	O
+to	O
+parents	O
+of	O
+Icelandic	B-LOC
+origin	O
+.	O
+
+Derick	B-ORG
+Thompson	I-ORG
+(	O
+unknown	O
+)	O
+
+''	O
+'Ireland	O
+''	O
+'	O
+-	O
+Máel	B-PER
+Sechnaill	I-PER
+mac	I-PER
+Domnaill	I-PER
+,	O
+High	B-PER
+King	I-PER
+of	I-PER
+Ireland	I-PER
+(	O
+1014–1022	O
+)	O
+
+Will	B-PER
+Ferrell	I-PER
+,	O
+Caroline	B-PER
+Rhea	I-PER
+
+Bad	B-ORG
+Education	I-ORG
+(	I-ORG
+TV	I-ORG
+series	I-ORG
+)	I-ORG
+
+Zane	B-PER
+Lowe	I-PER
+:	O
+November	O
+3	O
+,	O
+2008	O
+
+BUS	B-ORG
+US	I-ORG
+10	I-ORG
+–	O
+Midland	B-LOC
+,	I-LOC
+Michigan	I-LOC
+
+Pink	B-PER
+(	O
+8	O
+)	O
+
+'	O
+''	O
+Coppery-chested	B-LOC
+jacamar	I-LOC
+''	O
+'	O
+
+Polynesian	B-LOC
+longfinned	I-LOC
+eel	I-LOC
+
+Texas	B-ORG
+State	I-ORG
+Highway	I-ORG
+316	I-ORG
+
+''	O
+Ephestia	B-ORG
+kuehniella	I-ORG
+''	O
+Zeller	O
+,	O
+1879	O
+
+'	O
+''	O
+Neil	B-PER
+Symes	I-PER
+''	O
+'	O

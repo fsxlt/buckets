@@ -1,0 +1,71 @@
+पुदुचेरी	B-ORG
+के	I-ORG
+जिले	I-ORG
+
+2004	O
+-	O
+जूडी	B-PER
+ब्लूम	I-PER
+
+गैसों	B-ORG
+का	I-ORG
+अणुगति	I-ORG
+सिद्धान्त	I-ORG
+
+भगवती	B-PER
+चरण	I-PER
+वर्मा	I-PER
+
+मदुरै	B-LOC
+नायक	I-LOC
+राजवंश	I-LOC
+का	O
+राजा।	O
+
+पुनर्प्रेषित	O
+मोहम्मद	B-PER
+अली	I-PER
+जिन्नाह	I-PER
+
+उत्तर	B-LOC
+कोरिया	I-LOC
+-	O
+3.8	O
+इंच	O
+
+गोर्खालैंड	B-LOC
+क्षेत्रीय	I-LOC
+प्रशासन	I-LOC
+
+तमिल	B-LOC
+नाडु	I-LOC
+(	O
+357	O
+)	O
+
+'	O
+''	O
+ए	B-ORG
+एस	I-ORG
+मोनाको	I-ORG
+''	O
+'	O
+
+माहिकेन्ग	B-LOC
+(	O
+माफ़िकेन्ग	O
+)	O
+Mahikeng	O
+(	O
+Mafikeng	O
+)	O
+
+पुनर्प्रेषित	O
+दिल्ली	B-ORG
+नगर	I-ORG
+निगम	I-ORG
+
+अनुप्रेषित	O
+वसुन्धरा	B-PER
+राजे	I-PER
+सिंधिया	I-PER

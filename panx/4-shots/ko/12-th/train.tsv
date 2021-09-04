@@ -1,0 +1,132 @@
+조너선	B-PER
+셱	I-PER
+-	O
+타랙	O
+
+성우	O
+-	O
+호소이	B-PER
+오사무	I-PER
+(	O
+)	O
+
+충청북도	B-LOC
+청주에서	B-LOC
+출생했으며	O
+,	O
+동국대학교	B-ORG
+국문과를	O
+졸업하였다	O
+.	O
+
+SHE	B-ORG
+!	I-ORG
+HER	I-ORG
+!	I-ORG
+HER	I-ORG
+!	I-ORG
+〉	I-ORG
+
+'	O
+''	O
+몬테네로디비사차	O
+''	O
+'	O
+(	O
+)	O
+는	O
+이탈리아	B-LOC
+몰리세	B-LOC
+주	I-LOC
+캄포바소	B-LOC
+현의	I-LOC
+코무네다	B-LOC
+.	O
+
+'	O
+''	O
+길성리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+우에다	B-PER
+타츠야「LOST	I-PER
+-	O
+작곡・편곡」	O
+
+린잉	B-LOC
+현	I-LOC
+(	O
+临颍县	O
+)	O
+
+넘겨주기	O
+앨프리드	B-PER
+세이어	I-PER
+머핸	I-PER
+
+이	B-LOC
+시즌과	I-LOC
+다음	B-LOC
+시즌동안	I-LOC
+,	O
+그는	O
+5번의	O
+라	B-ORG
+리가	I-ORG
+경기에	O
+더	O
+출전하였다	O
+.	O
+
+차드	B-LOC
+호를	I-LOC
+통과함	O
+은자메나의	B-LOC
+바로	O
+서쪽을	O
+통과함	O
+
+그러나	O
+울산의	O
+주요	O
+선수였던	O
+최인영	B-PER
+,	O
+정종선	B-PER
+,	O
+최영일	B-PER
+,	O
+신홍기가	B-PER
+1994년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+대표로	O
+차출된	O
+후	O
+급격한	O
+하락세를	O
+보였고	O
+,	O
+기록적인	O
+11경기	O
+무승	O
+행진을	O
+이어갔다	O
+.	O
+
+I	B-ORG
+Am	I-ORG
+...	I-ORG
+Sasha	I-ORG
+Fierce	I-ORG
+''	O
+(	O
+2008	O
+)	O

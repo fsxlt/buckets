@@ -1,0 +1,91 @@
+Dhèwèké	O
+dikanonisasi	O
+déning	O
+Paus	B-PER
+Nikolas	I-PER
+I	I-PER
+.	O
+
+Vereenigde	B-ORG
+Oostindische	I-ORG
+Compagnie	I-ORG
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Louis	B-PER
+Armstrong	I-PER
+,	O
+(	O
+1901-1971	O
+)	O
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+Usmar	B-PER
+Ismail	I-PER
+,	O
+sutradhara	O
+
+Tiyang	O
+kekalih	O
+punika	O
+mendhet	O
+ulam	O
+ingkang	O
+mawarni-warni	O
+kondur	O
+dhateng	O
+Éropah	B-LOC
+kelebet	O
+''Incisus	O
+Glossolepis	O
+''	O
+.	O
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Aki	B-PER
+Takajo	I-PER
+(	O
+高城	O
+亜樹	O
+)	O
+
+Klinika	O
+''Famila	O
+''	O
+impor	O
+saka	O
+SCTV	B-ORG
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

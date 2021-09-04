@@ -1,0 +1,104 @@
+Magnificent	B-LOC
+snake	I-LOC
+eel	I-LOC
+
+This	O
+section	O
+is	O
+called	O
+the	O
+Red	B-ORG
+River	I-ORG
+State	I-ORG
+Recreation	I-ORG
+Area	I-ORG
+.	O
+
+2005	O
+:	O
+Stephen	B-PER
+Edgar	I-PER
+
+Oh	B-ORG
+!	I-ORG
+Gravity	I-ORG
+.	I-ORG
+''	O
+
+Hertford	B-ORG
+County	I-ORG
+High	I-ORG
+School	I-ORG
+,	O
+Ahoskie	B-LOC
+
+PS1491	O
+by	O
+John	B-PER
+Tesh	I-PER
+
+In	O
+the	O
+past	O
+,	O
+students	O
+have	O
+studied	O
+,	O
+served	O
+,	O
+and	O
+worked	O
+in	O
+England	B-LOC
+,	O
+Sweden	B-LOC
+,	O
+Australia	B-LOC
+,	O
+New	B-LOC
+Zealand	I-LOC
+,	O
+Brazil	B-LOC
+,	O
+South	B-LOC
+Africa	I-LOC
+,	O
+Nepal	B-LOC
+,	O
+Costa	B-LOC
+Rica	I-LOC
+,	O
+Mexico	B-LOC
+,	O
+Ghana	B-LOC
+,	O
+and	O
+more	O
+.	O
+
+Electorate	B-LOC
+of	I-LOC
+Württemberg	I-LOC
+
+VM91	O
+:	O
+Đắk	B-LOC
+Nông	I-LOC
+Province	I-LOC
+
+'	O
+''	O
+With	O
+Bob	B-PER
+Cooper	I-PER
+''	O
+'	O
+
+``	O
+Keep	B-ORG
+A-Knockin	I-ORG
+'	I-ORG
+''	O
+Little	B-PER
+Richard	I-PER

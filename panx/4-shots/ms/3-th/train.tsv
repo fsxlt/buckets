@@ -1,0 +1,90 @@
+``	O
+Speech	B-ORG
+of	I-ORG
+Silence	I-ORG
+''	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Oise	I-LOC
+
+'	O
+''	O
+Sébastien	B-PER
+Buemi	I-PER
+''	O
+'	O
+
+Anaknya	O
+Hassan	B-PER
+al	I-PER
+Banna	I-PER
+.	O
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Masya	B-ORG
+Allah	I-ORG
+(	O
+ما	O
+شاء	O
+الله	O
+)	O
+(	O
+Apa	O
+yang	O
+Allah	O
+kehendaki	O
+)	O
+
+Beliau	O
+juga	O
+terlibat	O
+sebagai	O
+tenaga	O
+pengajar	O
+untuk	O
+Akademi	B-ORG
+Fantasia	I-ORG
+.	O
+
+Sharifah	B-PER
+Rodziah	I-PER
+Syed	I-PER
+Alwi	I-PER
+Barakbah	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vosges	I-LOC
+
+'	O
+''	O
+Kuala	B-LOC
+Lumpur	I-LOC
+''	O
+'	O
+,	O
+Malaysia	B-LOC
+
+'	O
+''	O
+Sergio	B-PER
+Pérez	I-PER
+''	O
+'	O
+
+'	O
+''	O
+'	O
+''	O
+-	O
+Parti	B-ORG
+Buruh	I-ORG
+Australia	I-ORG

@@ -1,0 +1,23 @@
+Placidus	B-PER
+Gervasius	I-PER
+Nkalanga	I-PER
+
+``	O
+I	B-ORG
+Believe	I-ORG
+I	B-ORG
+Can	I-ORG
+Fly	I-ORG
+''	O
+umeimbwa	O
+na	O
+R.	B-PER
+Kelly	I-PER
+–	O
+5:22	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brazil	B-LOC

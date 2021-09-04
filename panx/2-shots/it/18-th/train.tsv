@@ -1,0 +1,44 @@
+Giuseppe	B-PER
+Olivi	I-PER
+(	I-PER
+naturalista	I-PER
+)	I-PER
+
+Armillaria	B-LOC
+tabescens	I-LOC
+''	O
+.	O
+
+Stănești	B-LOC
+(	I-LOC
+Gorj	I-LOC
+)	I-LOC
+
+RINVIA	O
+Università	B-ORG
+degli	I-ORG
+Studi	I-ORG
+``	I-ORG
+Mediterranea	I-ORG
+''	I-ORG
+di	I-ORG
+Reggio	I-ORG
+Calabria	I-ORG
+
+'	O
+''	O
+Morrigan	B-PER
+Aensland	I-PER
+''	O
+'	O
+-	O
+Succube	B-LOC
+
+Avventisti	B-ORG
+del	I-ORG
+settimo	I-ORG
+giorno	I-ORG
+del	I-ORG
+movimento	I-ORG
+di	I-ORG
+riforma	I-ORG

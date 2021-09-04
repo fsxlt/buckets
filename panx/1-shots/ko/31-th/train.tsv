@@ -1,0 +1,24 @@
+이	O
+시즌의	O
+UEFA	B-LOC
+챔피언스리그에서	I-LOC
+,	O
+발뷔에나는	O
+처음	O
+5경기에서	O
+공격포인트를	O
+쌓지	O
+못하였다	O
+.	O
+
+좋아하는	O
+가수는	O
+YUI	B-PER
+,	O
+야마다	B-PER
+료스케	I-PER
+
+벌린	B-ORG
+(	I-ORG
+밴드	I-ORG
+)	I-ORG

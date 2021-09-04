@@ -1,0 +1,50 @@
+YÖNLENDİRME	O
+Kömürcüler	B-LOC
+,	I-LOC
+Döşemealtı	I-LOC
+
+Kanal	B-ORG
+D	I-ORG
+de	O
+yayınlanmıştır	O
+.	O
+
+1998	B-LOC
+Amerika	I-LOC
+Birleşik	I-LOC
+Devletleri	I-LOC
+konsoloslukları	I-LOC
+saldırıları	I-LOC
+
+Sonraki	O
+yıllarda	O
+başta	O
+Sergio	B-PER
+Leone	I-PER
+olmak	O
+üzere	O
+birçok	O
+yönetmen	O
+bu	O
+türün	O
+saygın	O
+örneklerini	O
+ürettiler	O
+.	O
+
+Ayrıca	O
+2008	B-ORG
+Eurovision	I-ORG
+Şarkı	I-ORG
+Yarışması'nda	I-ORG
+sunuculardan	O
+biri	O
+olmuştur	O
+.	O
+
+Zara	B-PER
+(	I-PER
+şarkıcı	I-PER
+,	I-PER
+1983	I-PER
+)	I-PER

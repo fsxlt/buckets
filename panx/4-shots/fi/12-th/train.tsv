@@ -1,0 +1,137 @@
+Yksi	O
+Sharif	B-PER
+Sheikh	I-PER
+Ahmedin	I-PER
+vaimoista	O
+on	O
+Mohamedin	O
+tytär	O
+.	O
+
+``	O
+On	B-ORG
+a	I-ORG
+Night	I-ORG
+Like	I-ORG
+This	I-ORG
+''	O
+
+Bratislava	B-LOC
+(	O
+Slovakia	B-LOC
+)	O
+
+Se	O
+sijaitsee	O
+Lovatjoen	B-LOC
+rannalla	O
+116	O
+kilometriä	O
+Novgorodista	B-LOC
+maanteitse	O
+etelään	O
+ja	O
+20	O
+kilometriä	O
+Staraja	B-LOC
+Russan	I-LOC
+kaupungista	O
+itään	O
+.	O
+
+OHJAUS	O
+Music	B-ORG
+(	I-ORG
+Madonnan	I-ORG
+albumi	I-ORG
+)	I-ORG
+
+Se	O
+sijaitsee	O
+pääosin	O
+Mynämäen	B-LOC
+kunnassa	O
+,	O
+tosin	O
+suon	O
+eteläosa	O
+ulottuu	O
+Nousiaisten	B-LOC
+kunnan	O
+alueelle	O
+.	O
+
+'	O
+''	O
+Missy	B-PER
+Elliott	I-PER
+''	O
+'	O
+
+Aiemmin	O
+se	O
+oli	O
+Madhya	B-LOC
+Pradeshin	I-LOC
+osavaltion	O
+kaakkoisin	O
+osa	O
+.	O
+
+Joukkue	O
+varasi	O
+hänet	O
+kuudentena	O
+pelaajana	O
+NHL	B-ORG
+:	I-ORG
+n	I-ORG
+varaustilaisuudessa	I-ORG
+2011	I-ORG
+.	O
+
+Martin	B-PER
+Axenrot	I-PER
+–	O
+rummut	O
+
+Olen	B-ORG
+pahoillani	I-ORG
+–	I-ORG
+Valitut	I-ORG
+teokset	I-ORG
+1994–2000	I-ORG
+
+Kahtia	O
+jaetun	O
+Längelmäen	B-LOC
+kunnan	O
+väestö	O
+on	O
+kuitenkin	O
+vuosina	O
+1980–2005	O
+laskettu	O
+kokonaan	O
+osaksi	O
+Keski-Suomessa	B-LOC
+sijaitsevaa	O
+Jämsää	B-LOC
+,	O
+joka	O
+kuuluu	O
+Jämsän	B-LOC
+seutukuntaan	I-LOC
+.	O
+
+Häntä	O
+esittää	O
+Corbin	B-PER
+Bleu	I-PER
+.	O
+
+OHJAUS	O
+Lari	B-LOC
+(	I-LOC
+eläin	I-LOC
+)	I-LOC

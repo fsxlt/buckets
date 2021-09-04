@@ -1,0 +1,90 @@
+Hier	O
+kreeg	O
+hij	O
+de	O
+taak	O
+Luuk	B-PER
+de	I-PER
+Jong	I-PER
+op	O
+te	O
+volgen	O
+,	O
+die	O
+eerder	O
+werd	O
+getransfereerd	O
+naar	O
+Borussia	B-ORG
+Mönchengladbach	I-ORG
+.	O
+
+'	O
+''	O
+Felipe	B-PER
+Massa	I-PER
+''	O
+'	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Arroyo	B-LOC
+del	I-LOC
+Medio	I-LOC
+(	I-LOC
+Misiones	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Valentino	B-PER
+Rossi	I-PER
+''	O
+'	O
+
+Itambé	B-LOC
+do	I-LOC
+Mato	I-LOC
+Dentro	I-LOC
+
+Areeiro	B-ORG
+(	I-ORG
+metrostation	I-ORG
+)	I-ORG
+
+John	B-PER
+'	I-PER
+''	I-PER
+Sivebæk	I-PER
+''	I-PER
+'	I-PER
+-	O
+
+World	B-ORG
+Trade	I-ORG
+Center	I-ORG
+(	I-ORG
+Amsterdam	I-ORG
+)	I-ORG
+
+Ze	O
+kregen	O
+een	O
+platencontract	O
+bij	O
+Laurie	B-ORG
+Records	I-ORG
+.	O
+
+Napoleon	B-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC

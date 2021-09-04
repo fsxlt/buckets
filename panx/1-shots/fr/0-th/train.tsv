@@ -1,0 +1,24 @@
+Ivete	B-PER
+Sangalo	I-PER
+(	O
+Fortaleza	B-LOC
+et	O
+Recife	B-LOC
+,	O
+Brésil	B-LOC
+)	O
+
+Dandenong	B-ORG
+Rangers	I-ORG
+19	O
+v.	O
+/	O
+5	O
+d	O
+.	O
+
+REDIRECTION	O
+Malå	B-LOC
+(	I-LOC
+commune	I-LOC
+)	I-LOC

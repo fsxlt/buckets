@@ -1,0 +1,38 @@
+Suurimad	O
+mälestamisüritused	O
+toimusid	O
+Suurbritannias	B-LOC
+laeva	O
+ehitamispaigas	O
+Belfastis	B-LOC
+ja	O
+laeva	O
+kodusadamas	O
+Southamptonis	B-LOC
+.	O
+
+Niki	B-PER
+Lauda	I-PER
+(	O
+1982–1985	O
+)	O
+
+Kenti	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+mängis	O
+ta	O
+aastatel	O
+1974–1976	O
+12	O
+mängu	O
+ja	O
+lõi	O
+2	O
+väravat	O
+.	O

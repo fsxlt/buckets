@@ -1,0 +1,50 @@
+``	O
+Tell	B-ORG
+Her	I-ORG
+About	I-ORG
+It	I-ORG
+''	O
+Billy	B-PER
+Joel	I-PER
+
+Certaines	O
+œuvres	O
+Alfred	B-PER
+Schnittke	I-PER
+,	O
+Edison	B-PER
+Denisov	I-PER
+,	O
+et	O
+Sofia	B-PER
+Goubaïdoulina	I-PER
+ont	O
+été	O
+écrites	O
+pour	O
+elle	O
+.	O
+
+La	O
+Sicile	B-LOC
+est	O
+réunie	O
+au	O
+Saint-Empire	B-ORG
+romain	I-ORG
+germanique	I-ORG
+.	O
+
+Liste	B-LOC
+13	I-LOC
+Jeunesse	I-LOC
+socialiste	I-LOC
+fribourgeoise	I-LOC
+JungsozialistInnen	I-LOC
+Freiburg	I-LOC
+
+Championnat	B-LOC
+d'Angleterre	I-LOC
+de	I-LOC
+football	I-LOC
+2004-2005	I-LOC

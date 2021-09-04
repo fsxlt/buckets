@@ -1,0 +1,35 @@
+بابان]]	O
+,	O
+39’	O
+زفونيمير	B-PER
+بوبان	I-PER
+
+تحويل	O
+القط	B-ORG
+الأسود	I-ORG
+(	I-ORG
+مانغا	I-ORG
+)	I-ORG
+
+تحويل	O
+شريف	B-PER
+عبد	I-PER
+الرحيم	I-PER
+
+تحويل	O
+بزرغ	B-LOC
+آب	I-LOC
+(	I-LOC
+مازو	I-LOC
+)	I-LOC
+
+**	O
+أديس	B-LOC
+أبابا	I-LOC
+(	O
+البعثة	O
+الدائمة	O
+لدى	O
+الاتحاد	B-ORG
+الأفريقي	I-ORG
+)	O

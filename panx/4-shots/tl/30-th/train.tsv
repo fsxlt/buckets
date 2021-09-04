@@ -1,0 +1,69 @@
+San	B-PER
+Juan	I-PER
+Bautista	I-PER
+
+**	O
+Ursula	B-PER
+K.	I-PER
+Le	I-PER
+Guin	I-PER
+''	O
+
+'	O
+''	O
+Best	B-ORG
+of	I-ORG
+Soul	I-ORG
+''	O
+'	O
+''	O
+
+Tangway	B-LOC
+ng	I-LOC
+Malaya	I-LOC
+
+Alvin	B-PER
+Patrimonio	I-PER
+(	O
+Purefoods	O
+)	O
+
+Siya	O
+ay	O
+anak	O
+ni	O
+Francis	B-PER
+Magalona	I-PER
+.	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC
+
+Sumoto	B-LOC
+,	I-LOC
+Hyogo	I-LOC
+
+Dupax	B-LOC
+del	I-LOC
+Sur	I-LOC
+,	I-LOC
+Nueva	I-LOC
+Vizcaya	I-LOC
+
+Adbentistang	B-ORG
+Unibersidad	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+
+Lingguhang	B-ORG
+kabahagi	I-ORG
+ng	I-ORG
+Tora	I-ORG
+
+Juken	B-ORG
+Sentai	I-ORG
+Gekiranger	I-ORG

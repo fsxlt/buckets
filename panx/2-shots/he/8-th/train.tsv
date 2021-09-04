@@ -1,0 +1,54 @@
+הפניה	O
+הרפובליקה	B-LOC
+הטורקית	I-LOC
+של	I-LOC
+צפון	I-LOC
+קפריסין	I-LOC
+
+הפניה	O
+Bring	B-ORG
+Me	I-ORG
+the	I-ORG
+Horizon	I-ORG
+
+חביבה	B-PER
+רייק	I-PER
+-	O
+נחתה	O
+סלובקיה	B-LOC
+.	O
+
+טו	B-ORG
+אנלימיטד	I-ORG
+-	O
+``	O
+Twilight	O
+Zone	O
+''	O
+
+שארל	B-PER
+השביעי	I-PER
+ובנו	O
+,	O
+לואי	B-PER
+העשירי	I-PER
+שמרו	O
+מרחק	O
+מהעיר	O
+,	O
+העדיפו	O
+להתגורר	O
+עמק	B-LOC
+הלואר	I-LOC
+,	O
+ושהו	O
+בפריז	O
+רק	O
+לעתים	O
+נדירות	O
+.	O
+
+הפניה	O
+ארנסט	B-PER
+היינריך	I-PER
+ובר	I-PER

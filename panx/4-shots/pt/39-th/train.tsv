@@ -1,0 +1,86 @@
+REDIRECIONAMENTO	O
+José	B-PER
+Manuel	I-PER
+Pinto	I-PER
+
+Thelma	B-PER
+Coyne	I-PER
+Long	I-PER
+(	O
+4	O
+/	O
+12	O
+)	O
+Nancye	B-PER
+Wynne	I-PER
+Bolton	I-PER
+(	O
+4	O
+/	O
+10	O
+)	O
+
+Glory	B-ORG
+14	I-ORG
+:	I-ORG
+Zagreb	I-ORG
+Zagreb	B-LOC
+
+Faz	O
+fronteira	O
+com	O
+Bagnara	B-LOC
+Calabra	I-LOC
+,	O
+San	B-LOC
+Procopio	I-LOC
+,	O
+Sant'Eufemia	B-LOC
+d'Aspromonte	I-LOC
+,	O
+Seminara	B-LOC
+.	O
+
+;	O
+'	O
+''	O
+Campeonato	B-ORG
+Tocantinense	I-ORG
+''	O
+'	O
+
+Moto	B-ORG
+Clube	I-ORG
+(	O
+Porto	B-LOC
+Velho	I-LOC
+''	O
+)	O
+
+'	O
+''	O
+Herman	B-PER
+Cain29	I-PER
+%	O
+'	O
+''	O
+
+REDIRECIONAMENTO	O
+Argeu	B-PER
+Hortêncio	I-PER
+Monjardim	I-PER
+
+Condado	B-LOC
+de	I-LOC
+Blois	I-LOC
+
+''	O
+Acanthiza	B-LOC
+inornata	I-LOC
+''	O
+
+REDIRECIONAMENTO	O
+Ponte	B-ORG
+do	I-ORG
+Rio	I-ORG
+Tacutu	I-ORG

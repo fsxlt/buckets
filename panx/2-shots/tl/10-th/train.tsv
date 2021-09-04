@@ -1,0 +1,33 @@
+Estado	B-LOC
+ng	I-LOC
+Palestina	I-LOC
+
+Rod	B-ORG
+Santiago	I-ORG
+'s	I-ORG
+The	I-ORG
+Sisters	I-ORG
+''	O
+
+Lani	B-PER
+Mercado	I-PER
+(	O
+1989-1990	O
+)	O
+
+Mas	B-LOC
+malaking	I-LOC
+kalamnang	I-LOC
+pandibdib	I-LOC
+
+Muhammad	B-PER
+ibn	I-PER
+Abd	I-PER
+al-Wahhab	I-PER
+(	O
+1703–1792	O
+)	O
+
+Aklat	B-ORG
+ni	I-ORG
+Abdias	I-ORG

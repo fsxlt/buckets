@@ -1,0 +1,102 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Allier	I-LOC
+
+Rancangan	O
+ini	O
+berformatkan	O
+kekeluargaan	O
+dan	O
+merupakan	O
+musim	O
+baru	O
+bagi	O
+Family	B-ORG
+Outing	I-ORG
+''	O
+.	O
+
+Al	B-ORG
+Qaeda	I-ORG
+Ikhwanul	B-ORG
+Muslimun	I-ORG
+Jamaat-e-Islami	B-ORG
+Hizbut	B-ORG
+Tahrir	I-ORG
+
+'	O
+''	O
+One	B-ORG
+in	I-ORG
+a	I-ORG
+Million	I-ORG
+''	O
+'	O
+
+Kolej	B-ORG
+Islam	I-ORG
+Sultan	I-ORG
+Alam	I-ORG
+Shah	I-ORG
+,	O
+Klang	B-LOC
+(	O
+KISAS	O
+)	O
+
+'	O
+''	O
+Kevin	B-PER
+Cheng	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Seine-et-Marne	I-LOC
+
+Stephen	B-PER
+Kalong	I-PER
+Ningkan	I-PER
+(	O
+Penggal	O
+pertama	O
+)	O
+
+Wilayah	B-LOC
+Ústí	I-LOC
+nad	I-LOC
+Labem	I-LOC
+
+Kawasan	B-LOC
+Autonomi	I-LOC
+Tibet	I-LOC
+(	O
+penguasaan	O
+sebenar	O
+)	O
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Maremma	I-PER
+
+''Dinyanyikan	O
+oleh	O
+Michishige	B-PER
+Sayumi	I-PER
+,	O
+Fukumura	B-PER
+Mizuki	I-PER
+,	O
+Ikuta	B-PER
+Erina	I-PER
+,	O
+Iikubo	B-PER
+Haruna	I-PER
+dan	O
+Ishida	B-PER
+Ayumi	I-PER
+''	O

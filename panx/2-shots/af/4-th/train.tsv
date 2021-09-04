@@ -1,0 +1,51 @@
+Man	B-LOC
+(	I-LOC
+eiland	I-LOC
+)	I-LOC
+
+AANSTUUR	O
+Sosialistiese	B-ORG
+Party	I-ORG
+(	I-ORG
+Nederland	I-ORG
+)	I-ORG
+
+''	O
+(	O
+Kannemeyer	B-PER
+,	I-PER
+J.C	I-PER
+.	I-PER
+Uitgewer	O
+Academica,1978	O
+)	O
+.	O
+
+AANSTUUR	O
+Riviersonderend	B-LOC
+(	I-LOC
+rivier	I-LOC
+)	I-LOC
+
+Hulle	O
+hoofkantoor	O
+is	O
+in	O
+die	O
+Carlton-sentrum	B-ORG
+in	O
+Johannesburg	B-LOC
+gesetel	O
+.	O
+
+Jacob	B-PER
+Zuma	I-PER
+,	O
+die	O
+Demokratiese	B-ORG
+Alliansie	I-ORG
+onder	O
+leiding	O
+van	O
+me	O
+.	O

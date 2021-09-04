@@ -1,0 +1,79 @@
+2,000	B-ORG
+Guineas	I-ORG
+Stakes	I-ORG
+–	O
+El	B-LOC
+Gran	I-LOC
+Senor	I-LOC
+
+Early	O
+customers	O
+include	O
+City	B-LOC
+of	I-LOC
+San	I-LOC
+Jose	I-LOC
+,	O
+Autodesk	B-ORG
+,	O
+and	O
+Netflix	B-ORG
+.	O
+
+Araguari	B-LOC
+River	I-LOC
+(	I-LOC
+Amapá	I-LOC
+)	I-LOC
+
+Mikulić	B-PER
+,	I-PER
+Branko	I-PER
+–	O
+(	O
+April	O
+1982	O
+–	O
+26	O
+April	O
+1984	O
+)	O
+
+Richard	B-PER
+J.	I-PER
+Daley	I-PER
+-	O
+2	O
+(	O
+0.07	O
+%	O
+)	O
+
+To	O
+Vancouver	B-ORG
+Canucks	I-ORG
+Peter	B-PER
+Zezel	I-PER
+
+Stade	B-ORG
+Léo	I-ORG
+Lagrange	I-ORG
+-	O
+Poissy	B-LOC
+(	O
+Yvelines	B-LOC
+)	O
+
+Kevin	B-PER
+Garnett	I-PER
+(	O
+12	O
+)	O
+
+Beltzville	B-ORG
+State	I-ORG
+Park	I-ORG
+(	O
+Carbon	B-LOC
+County	I-LOC
+)	O

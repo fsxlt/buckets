@@ -1,0 +1,22 @@
+야지마	B-PER
+아키코	I-PER
+(	O
+짱구	O
+역	O
+)	O
+,	O
+AKB48	B-ORG
+
+와카야마	B-LOC
+시	I-LOC
+(	O
+和歌山市	O
+)	O
+
+'	O
+''	O
+13	O
+''	O
+'	O
+콜론	B-ORG
+산타페	I-ORG

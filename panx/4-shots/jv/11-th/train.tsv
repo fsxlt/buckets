@@ -1,0 +1,76 @@
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+Mayu	B-PER
+Watanabe	I-PER
+(	O
+渡辺	O
+麻友	O
+)	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+'	O
+''	O
+Jayanagara	B-PER
+''	O
+'	O
+(	O
+1309-1328	O
+)	O
+
+Paus	B-PER
+Yohanes	I-PER
+XXIII	I-PER
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG

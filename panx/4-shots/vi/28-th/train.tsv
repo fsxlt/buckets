@@ -1,0 +1,74 @@
+đổi	O
+Raina	B-PER
+(	I-PER
+ca	I-PER
+sĩ	I-PER
+)	I-PER
+
+Sankt	B-LOC
+Margarethen	I-LOC
+an	I-LOC
+der	I-LOC
+Raab	I-LOC
+
+Humam	B-PER
+Khalif	I-PER
+Abu	I-PER
+Mulal	I-PER
+al-Balawi	I-PER
+
+'	O
+''	O
+Mirai	B-ORG
+Sentai	I-ORG
+Timeranger	I-ORG
+''	O
+'	O
+.	O
+
+Lực	B-ORG
+lượng	I-ORG
+Ða	I-ORG
+quốc	I-ORG
+gia	I-ORG
+-	I-ORG
+Iraq	I-ORG
+
+đổi	O
+Seleukos	B-PER
+II	I-PER
+Kallinikos	I-PER
+
+đổi	O
+Báo	B-LOC
+Đông	I-LOC
+Dương	I-LOC
+
+Le	B-LOC
+Louroux	I-LOC
+(	O
+37136	O
+)	O
+
+Văn	B-ORG
+phòng	I-ORG
+Chính	I-ORG
+phủ	I-ORG
+
+Franz	B-PER
+Beckenbauer	I-PER
+(	O
+1970-1977	O
+)	O
+
+''	O
+Bulbophyllum	B-LOC
+pristis	I-LOC
+''	O
+J.J.Sm	O
+.	O
+
+''	O
+Raimuiro	B-ORG
+Senkitan	I-ORG
+''	O

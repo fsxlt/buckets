@@ -1,0 +1,25 @@
+Kristína	B-PER
+Kučová	I-PER
+Marta	B-PER
+Domachowska	I-PER
+Stephanie	B-PER
+Vogt	I-PER
+Ioana	B-PER
+Raluca	I-PER
+Olaru	I-PER
+
+Pilot	B-ORG
+Pen	I-ORG
+Tennis	I-ORG
+,	O
+New	B-LOC
+Haven	I-LOC
+
+Vienna	B-LOC
+(	O
+uomini	O
+)	O
+Udine	B-LOC
+(	O
+donne	O
+)	O

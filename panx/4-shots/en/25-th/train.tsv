@@ -1,0 +1,70 @@
+National	B-ORG
+Party	I-ORG
+of	I-ORG
+Western	I-ORG
+Australia	I-ORG
+
+Red-winged	B-LOC
+grey	I-LOC
+warbler	I-LOC
+
+Ardrossan]]	O
+,	O
+)	O
+Strathcona	B-LOC
+County	I-LOC
+
+Flashlight	B-ORG
+Brown	I-ORG
+(	O
+inactive	O
+)	O
+
+East	B-LOC
+St.	I-LOC
+Louis	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+''	O
+Thames	B-ORG
+TV	I-ORG
+''	O
+'	O
+
+Billy	B-PER
+Gilbert	I-PER
+,	O
+2B	O
+,	O
+1908-1909	O
+
+Chris	B-ORG
+Milburn	I-ORG
+(	O
+Sydney—Victoria	B-LOC
+)	O
+===	O
+
+Khanpur	B-LOC
+,	I-LOC
+Uttar	I-LOC
+Pradesh	I-LOC
+
+Yvonne	B-PER
+Strahovski	I-PER
+–	O
+Chuck	B-ORG
+''	O
+
+Joseph	B-PER
+Bonomi	I-PER
+the	I-PER
+Younger	I-PER
+
+''	O
+Stretching	O
+''	O
+by	O
+Art	B-PER
+Blakey	I-PER

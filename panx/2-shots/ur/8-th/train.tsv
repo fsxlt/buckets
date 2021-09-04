@@ -1,0 +1,39 @@
+رجوع_مکرر	O
+سانتا	B-LOC
+فے	I-LOC
+دے	I-LOC
+انتیوکیا	I-LOC
+
+رجوع_مکرر	O
+یاہو	B-PER
+(	I-PER
+پیدائش	I-PER
+841	I-PER
+قبل	I-PER
+مسیح	I-PER
+)	I-PER
+
+'	O
+''	O
+کیربین	B-ORG
+کمیونٹی	I-ORG
+''	O
+'	O
+''	O
+
+رجوع_مکرر	O
+لاند	B-LOC
+(	I-LOC
+محکمہ	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+ارسالا	B-ORG
+خان	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+مصطفٰی	B-PER
+کمال	I-PER
+اتاترک	I-PER

@@ -1,0 +1,77 @@
+Lalawigan	B-LOC
+ng	I-LOC
+Florencia	I-LOC
+
+'	O
+''	O
+Liberia	B-LOC
+''	O
+'	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Pavia	I-LOC
+
+Maalaala	B-ORG
+Mo	I-ORG
+Kaya	I-ORG
+(	I-ORG
+seryeng	I-ORG
+pantelebisyon	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Papua	B-LOC
+New	I-LOC
+Guinea	I-LOC
+''	O
+'	O
+
+Silangang	B-ORG
+Linya	I-ORG
+ng	I-ORG
+Rikuu	I-ORG
+
+**	O
+San	B-LOC
+Francisco	I-LOC
+(	O
+Konsulado-Heneral	O
+)	O
+
+John	B-PER
+C.	I-PER
+Swallow	I-PER
+
+William	B-PER
+T.	I-PER
+G.	I-PER
+Morton	I-PER
+
+As	B-ORG
+Time	I-ORG
+Goes	I-ORG
+By	I-ORG
+
+Dama	B-PER
+Jane	I-PER
+Seymour	I-PER
+
+'	O
+''	O
+Iran	B-LOC
+''	O
+'	O
+
+Karapatang	B-ORG
+sibil	I-ORG
+at	I-ORG
+pampolitika	I-ORG
+
+Jon	B-PER
+Bon	I-PER
+Jovi	I-PER

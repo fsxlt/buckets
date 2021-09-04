@@ -1,0 +1,35 @@
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC
+
+Paus	B-PER
+Yohanes	I-PER
+XXIII	I-PER

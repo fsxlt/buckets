@@ -1,0 +1,114 @@
+(	O
+이	O
+사이로	O
+간몬	B-ORG
+터널을	I-ORG
+지나	O
+간몬	B-LOC
+해협을	I-LOC
+횡단한다	O
+)	O
+
+유럽	B-ORG
+방송	I-ORG
+연맹	I-ORG
+소속이다	O
+.	O
+
+현재	O
+수페르리가	B-ORG
+엘라다에	I-ORG
+소속되어	O
+있다	O
+.	O
+
+주애	O
+(	O
+오늘날의	O
+하이난	B-LOC
+성	I-LOC
+)	O
+
+'	O
+''	O
+Love	B-ORG
+,	I-ORG
+Day	I-ORG
+After	I-ORG
+Tomorrow	I-ORG
+''	O
+'	O
+[4:00]	O
+
+인목왕후도	B-PER
+서궁에	O
+유폐되었을	O
+때	O
+친필을	O
+내린	O
+바	O
+있다	O
+.	O
+
+북아메리카와	B-LOC
+남아메리카	B-LOC
+그리고	O
+카리브	B-LOC
+해뿐	I-LOC
+아니라	O
+남유럽과	B-LOC
+북아프리카	B-LOC
+,	O
+중동	B-LOC
+,	O
+중앙아시아에도	B-LOC
+분포한다	O
+.	O
+
+'	O
+''	O
+야마가타	B-PER
+아리토모	I-PER
+''	O
+'	O
+
+**	O
+우타시나이	B-LOC
+시	I-LOC
+(	O
+)	O
+
+명	B-LOC
+(	O
+明	O
+)	O
+무종	B-PER
+정덕제	I-PER
+(	O
+武宗	O
+正德帝	O
+)	O
+3년	O
+
+'	O
+''	O
+코모티니	B-LOC
+''	O
+'	O
+
+성	B-PER
+마티아는	I-PER
+바투미	B-LOC
+근처의	O
+고니오	B-ORG
+요새에	O
+묻혔다고	O
+전해진다	O
+.	O
+
+'	O
+''	O
+니코	B-PER
+휠켄베르크	I-PER
+''	O
+'	O

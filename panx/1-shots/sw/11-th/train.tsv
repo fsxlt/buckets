@@ -1,0 +1,22 @@
+Dublin	B-LOC
+-	O
+''Dublin	O
+Airport	O
+''	O
+
+Kebbi	B-ORG
+(	I-ORG
+jimbo	I-ORG
+)	I-ORG
+
+Pleasant	B-LOC
+Hill	I-LOC
+,	I-LOC
+California	I-LOC
+
+'	O
+''	O
+Haile	B-PER
+Selassie	I-PER
+''	O
+'	O

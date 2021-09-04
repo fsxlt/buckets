@@ -1,0 +1,81 @@
+शान्ति	B-PER
+स्वरूप	I-PER
+भटनागर	I-PER
+
+'	O
+''	O
+न्याय	B-ORG
+दर्शन	I-ORG
+''	O
+'	O
+जो	O
+भारतीय	B-PER
+दर्शन	I-PER
+का	O
+एक	O
+अंग	O
+है।	O
+
+लाजपत	B-LOC
+नगर	I-LOC
+,	I-LOC
+दिल्ली	I-LOC
+
+पुनर्प्रेषित	O
+ज़िला	B-ORG
+न्यायालय	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+'	O
+''	O
+उत्तर	B-LOC
+प्रदेश	I-LOC
+''	O
+'	O
+
+अल्मोड़ा	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+अनुप्रेषित	O
+सिन्धु-गंगा	B-LOC
+के	I-LOC
+मैदान	I-LOC
+
+माहिकेन्ग	B-LOC
+(	O
+माफ़िकेन्ग	O
+)	O
+Mahikeng	O
+(	O
+Mafikeng	O
+)	O
+
+पिंचू	B-PER
+कपूर	I-PER
+-	O
+जज	O
+
+पुनर्प्रेषित	O
+जॉर्ज़	B-PER
+३	I-PER
+,	I-PER
+युनाइटेड	I-PER
+किंगडम	I-PER
+का	I-PER
+महाराजा	I-PER
+
+सैंटियागो	B-ORG
+बर्नबू	I-ORG
+स्टेडियम	I-ORG
+,	O
+मद्रिद	B-LOC

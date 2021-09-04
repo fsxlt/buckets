@@ -1,0 +1,62 @@
+Bram	B-ORG
+Stoker	I-ORG
+'s	I-ORG
+Dracula	I-ORG
+''	O
+
+Dolf	B-PER
+van	I-PER
+der	I-PER
+Voort	I-PER
+van	I-PER
+Zijp	I-PER
+
+De	O
+Auto-Cycle	B-ORG
+Union	I-ORG
+had	O
+hier	O
+duidelijk	O
+met	O
+twee	O
+maten	O
+gemeten	O
+.	O
+
+Een	O
+klein	O
+aantal	O
+migraties	O
+met	O
+elk	O
+een	O
+eigen	O
+taal	O
+(	O
+Edward	B-PER
+Sapir	I-PER
+was	O
+een	O
+voorstander	O
+van	O
+deze	O
+hypothese	O
+)	O
+
+Highland	B-LOC
+Heights	I-LOC
+(	I-LOC
+Kentucky	I-LOC
+)	I-LOC
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Mexico	B-LOC
+en	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O

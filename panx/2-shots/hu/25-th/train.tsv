@@ -1,0 +1,59 @@
+ÁTIRÁNYÍTÁS	O
+Müller	B-PER
+Ferenc	I-PER
+József	I-PER
+
+Agárdy	B-PER
+Gábor	I-PER
+(	O
+8	O
+;	O
+1979–1982	O
+)	O
+
+Ebben	O
+az	O
+időszakban	O
+kezdett	O
+ismert	O
+lenni	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államokban	I-LOC
+és	O
+Európában	B-LOC
+is	O
+,	O
+ahol	O
+számos	O
+ismert	O
+előadóművésszel	O
+dolgozhatott	O
+,	O
+mint	O
+pl	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Crosby	B-ORG
+,	I-ORG
+Stills	I-ORG
+&	I-ORG
+Nash	I-ORG
+(	I-ORG
+and	I-ORG
+Young	I-ORG
+)	I-ORG
+
+Közigazgatásilag	O
+Zagorska	B-LOC
+Selához	I-LOC
+tartozik	O
+.	O
+
+Windsor	B-ORG
+Park	I-ORG
+Stadion	I-ORG
+,	O
+Belfast	B-LOC

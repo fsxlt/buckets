@@ -1,0 +1,19 @@
+ALIH	O
+Daftar	B-ORG
+Presiden	I-ORG
+Timor	I-ORG
+Leste	I-ORG
+
+Shia	B-PER
+LaBeouf	I-PER
+,	O
+Tyrese	B-PER
+Gibson	I-PER
+,	O
+John	B-PER
+Malkovich	I-PER
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Oise	I-LOC

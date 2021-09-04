@@ -1,0 +1,14 @@
+Brad	B-PER
+Garrett	I-PER
+-	O
+Lobo	B-PER
+
+Karuizawa	B-LOC
+,	I-LOC
+Nagano	I-LOC
+
+Pamantasan	B-ORG
+ng	I-ORG
+Lungsod	I-ORG
+ng	I-ORG
+Kalookan	I-ORG

@@ -1,0 +1,62 @@
+넘겨주기	O
+휘틀리	B-PER
+(	I-PER
+포탈	I-PER
+)	I-PER
+
+대한민국에서는	B-LOC
+타인에게	O
+이러한	O
+행위로	O
+피해를	O
+준	O
+경우에는	O
+법적으로	O
+처벌받을	O
+수	O
+있다	O
+.	O
+
+모라바	B-LOC
+강	I-LOC
+유역에	O
+위치하며	O
+크루셰바츠	B-LOC
+북쪽과	O
+크라구예바츠	B-LOC
+남동쪽에	O
+위치한다	O
+.	O
+
+현재	O
+스페인	B-LOC
+프리메라리가	B-ORG
+소속팀인	O
+아틀레틱	B-ORG
+빌바오에서	I-ORG
+활약하고	O
+있으며	O
+,	O
+포지션은	O
+스트라이커이다	B-PER
+.	O
+
+에르퀼	B-PER
+푸아로	I-PER
+,	O
+아리아드네	B-PER
+올리버	I-PER
+
+라파	B-LOC
+누이	I-LOC
+국립공원	I-LOC
+(	O
+1995	O
+)	O
+
+넘겨주기	O
+도요	B-ORG
+고속	I-ORG
+철도	I-ORG
+도요	B-ORG
+고속선	I-ORG

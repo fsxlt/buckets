@@ -1,0 +1,101 @@
+Ühinedes	O
+Šilkaga	B-LOC
+,	O
+moodustab	O
+Amuuri	B-LOC
+.	O
+
+Kuid	O
+asjad	O
+muutusid	O
+pärast	O
+Bütsantsi	B-ORG
+keisririigi	I-ORG
+langemist	I-ORG
+aastal	I-ORG
+1204	I-ORG
+.	O
+
+suuna	O
+Hines	B-ORG
+Interests	I-ORG
+Limited	I-ORG
+Partnership	I-ORG
+
+''	O
+Aba	B-LOC
+jõgi	I-LOC
+''	O
+'	O
+Nigeeria	B-LOC
+lõunaosas	O
+
+Vassili	B-PER
+Dokutšajev	I-PER
+(	O
+1846–1903	O
+)	O
+
+Utah	B-LOC
+'	I-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+suuna	O
+Aberdeen	B-ORG
+F.C	I-ORG
+.	I-ORG
+
+Ta	O
+on	O
+Saint	B-LOC
+Vincenti	I-LOC
+ja	I-LOC
+Grenadiinide	I-LOC
+rahvuskangelane	O
+.	O
+
+Õppis	O
+1926–1934	O
+(	O
+lõpetas	O
+)	O
+Tartu	B-ORG
+Ülikoolis	I-ORG
+.	O
+
+Donetski	B-LOC
+oblastis	I-LOC
+hukkus	O
+sama	O
+ajavahemiku	O
+jooksul	O
+neli	O
+rahulikku	O
+elanikku	O
+,	O
+6	O
+sai	O
+haavata	O
+.	O
+
+Mariotto	B-PER
+Albertinelli	I-PER
+(	O
+1474–1515	O
+)	O
+
+Missiooni	O
+spetsialist	O
+1	O
+-	O
+Sandra	B-PER
+Magnus	I-PER
+
+James	B-PER
+Moriarty	I-PER
+/	O
+Irene	B-PER
+Adler	I-PER

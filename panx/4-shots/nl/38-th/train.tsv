@@ -1,0 +1,117 @@
+Reg	B-PER
+Armstrong	I-PER
+(	O
+AJS	B-ORG
+)	O
+
+In	O
+de	O
+klim	O
+naar	O
+de	O
+Col	B-LOC
+du	I-LOC
+Grand	I-LOC
+Cucheron	I-LOC
+dunde	O
+de	O
+kopgroep	O
+uit	O
+.	O
+
+All	B-PER
+That	I-PER
+-	O
+(	O
+2000-2005	O
+)	O
+
+De	O
+belangrijkste	O
+steden	O
+zijn	O
+de	O
+buursteden	O
+Minneapolis	B-LOC
+en	O
+Saint	B-LOC
+Paul	I-LOC
+,	O
+respectievelijk	O
+ten	O
+westen	O
+en	O
+ten	O
+oosten	O
+van	O
+de	O
+Mississippi	B-LOC
+gelegen	O
+en	O
+bekend	O
+onder	O
+de	O
+bijnaam	O
+Twin	B-LOC
+Cities	I-LOC
+''	O
+.	O
+
+Burcht	B-ORG
+Stahleck	I-ORG
+in	O
+Bacharach	B-LOC
+
+==	O
+België	B-ORG
+&	I-ORG
+Nederland	I-ORG
+2000	I-ORG
+
+DOORVERWIJZING	O
+Lodewijk	B-PER
+van	I-PER
+Saint-Pol	I-PER
+
+'	O
+''	O
+Lyngby	B-ORG
+BK	I-ORG
+''	O
+'	O
+
+**	O
+''	O
+Neusticomys	B-LOC
+mussoi	I-LOC
+''	O
+
+Eerder	O
+speelde	O
+hij	O
+voor	O
+onder	O
+meer	O
+FC	B-ORG
+Metz	I-ORG
+en	O
+RC	B-ORG
+Strasbourg	I-ORG
+.	O
+
+Lieutenant	B-PER
+Green	I-PER
+—	O
+Cy	B-PER
+Grant	I-PER
+
+De	O
+lijn	O
+loopt	O
+van	O
+Bangkok	B-LOC
+tot	O
+aan	O
+Chiang	B-LOC
+Mai	I-LOC
+.	O

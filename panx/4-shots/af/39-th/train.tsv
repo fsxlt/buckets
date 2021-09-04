@@ -1,0 +1,99 @@
+Sy	O
+was	O
+ook	O
+die	O
+bekende	O
+akteur	O
+en	O
+televisie-aanbieder	O
+Nico	B-PER
+Panagio	I-PER
+se	O
+ma	O
+.	O
+
+Noord-Oos	B-LOC
+distrik	I-LOC
+,	I-LOC
+Botswana	I-LOC
+
+Port	B-LOC
+Elizabeth	I-LOC
+,	O
+Suid-Afrika	B-LOC
+.	O
+
+(	O
+saam	O
+met	O
+Katharina	B-PER
+Reiss	I-PER
+)	O
+''Grundlegung	O
+einer	O
+allgemeinen	O
+Translationstheorie	O
+''	O
+.	O
+
+AANSTUUR	O
+Eerste	B-ORG
+Nasionale	I-ORG
+Bank	I-ORG
+
+Die	O
+Nasionale	B-ORG
+Party	I-ORG
+onder	O
+genl	O
+.	O
+
+Abraham	B-PER
+H.	I-PER
+de	I-PER
+Vries	I-PER
+,	O
+skrywer	O
+.	O
+
+AANSTUUR	O
+Konserwatiewe	B-ORG
+Party	I-ORG
+(	I-ORG
+Verenigde	I-ORG
+Koninkryk	I-ORG
+)	I-ORG
+
+AANSTUUR	O
+Skotse	B-ORG
+Nasionale	I-ORG
+Party	I-ORG
+
+Sargon	B-PER
+van	I-PER
+Akkad	I-PER
+,	O
+die	O
+stigter	O
+van	O
+die	O
+Akkadiese	B-LOC
+Ryk	I-LOC
+.	O
+
+Dit	O
+val	O
+onder	O
+beheer	O
+van	O
+die	O
+Groter	B-LOC
+Tzaneen	I-LOC
+Plaaslike	I-LOC
+Munisipaliteit	I-LOC
+wat	O
+onder	O
+die	O
+Mopani-distriksmunisipaliteit	B-LOC
+ressorteer	O
+.	O

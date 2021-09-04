@@ -1,0 +1,19 @@
+पूर्वी	B-LOC
+खासी	I-LOC
+हिल्स	I-LOC
+जिला	I-LOC
+
+गया	B-LOC
+(	O
+SC	O
+)	O
+राजेश	B-PER
+कुमार	I-PER
+मांझी	I-PER
+
+टिहरी	B-ORG
+गढ़वाल	I-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG

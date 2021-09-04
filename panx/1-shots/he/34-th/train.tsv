@@ -1,0 +1,14 @@
+הצבא	B-ORG
+הסורי	I-ORG
+החופשי	I-ORG
+
+הפניה	O
+לואיס	B-PER
+צ'ארלס	I-PER
+לוין	I-PER
+
+הפניה	O
+קום	B-LOC
+(	I-LOC
+מחוז	I-LOC
+)	I-LOC

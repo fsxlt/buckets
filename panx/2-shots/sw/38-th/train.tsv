@@ -1,0 +1,37 @@
+Elizabeth	B-PER
+I	I-PER
+wa	I-PER
+Uingereza	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+33404	O
+.	O
+
+Uhusika	O
+ulichezwa	O
+na	O
+William	B-PER
+Devane	I-PER
+.	O
+
+Milima	B-ORG
+ya	I-ORG
+Lebanoni	I-ORG
+ndogo	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Lome	B-LOC
+.	O
+
+``	O
+With	B-ORG
+a	I-ORG
+Child	I-ORG
+'s	I-ORG
+Heart	I-ORG
+''	O

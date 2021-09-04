@@ -1,0 +1,60 @@
+tydens	O
+die	O
+FIFA	B-ORG
+Sokker-Wêreldbekertoernooi	I-ORG
+in	I-ORG
+1998	I-ORG
+
+Dit	O
+val	O
+onder	O
+die	O
+beheer	O
+van	O
+die	O
+Maruleng	B-LOC
+Plaaslike	I-LOC
+Munisipaliteit	I-LOC
+wat	O
+onder	O
+die	O
+Mopani-distriksmunisipaliteit	B-LOC
+ressorteer	O
+.	O
+
+'	O
+''	O
+VfB	B-ORG
+Stuttgart	I-ORG
+''	O
+'	O
+
+Dit	O
+is	O
+die	O
+geboortedorp	O
+van	O
+Walter	B-PER
+Sisulu	I-PER
+.	O
+
+Wilma	B-PER
+Stockenström	I-PER
+(	O
+1933–	O
+)	O
+,	O
+skryfster	O
+en	O
+aktrise	O
+
+UM	O
+Klein	B-LOC
+afgeleë	I-LOC
+eilande	I-LOC
+van	I-LOC
+die	I-LOC
+Verenigde	I-LOC
+State	I-LOC
+van	I-LOC
+Amerika	I-LOC

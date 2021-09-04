@@ -1,0 +1,134 @@
+ÁTIRÁNYÍTÁS	O
+Beaulieu	B-LOC
+(	I-LOC
+Haute-Loire	I-LOC
+)	I-LOC
+
+Ezek	O
+után	O
+a	O
+''Sydney	O
+''	O
+Alexandriába	B-LOC
+hajózott	O
+,	O
+ahol	O
+karbantartási	O
+és	O
+javítási	O
+munkákat	O
+végeztek	O
+el	O
+rajta	O
+.	O
+
+tudat	B-PER
+(	O
+''viññāṇa	O
+''	O
+•	O
+''vijñāna	O
+''	O
+)	O
+
+A	O
+Ferences	B-ORG
+rend	I-ORG
+alapítása	O
+.	O
+
+I.	B-PER
+Ardasír	I-PER
+szászánida	I-PER
+király	I-PER
+új	O
+nevet	O
+adott	O
+a	O
+városnak	O
+és	O
+bővítette	O
+.	O
+
+Ivancsics	B-PER
+Gellért	I-PER
+''	O
+(	O
+Szigetszentmiklósi	B-ORG
+TK	I-ORG
+,	O
+kölcsönbe	O
+)	O
+''	O
+
+A	O
+Haifán	B-LOC
+megrendezett	O
+fesztiválokon	O
+a	O
+világ	O
+minden	O
+részéről	O
+jött	O
+táncegyüttesek	O
+mutatják	O
+be	O
+művészetüket	O
+és	O
+országuk	O
+táncait	O
+.	O
+
+falu	O
+Ukrajnában	B-LOC
+,	O
+Kárpátalján	B-LOC
+,	O
+az	O
+Ungvári	B-LOC
+járásban	I-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Bob	B-ORG
+a	I-ORG
+2006.	I-ORG
+évi	I-ORG
+téli	I-ORG
+olimpiai	I-ORG
+játékokon	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Kötélhúzás	B-ORG
+az	I-ORG
+1920.	I-ORG
+évi	I-ORG
+nyári	I-ORG
+olimpiai	I-ORG
+játékokon	I-ORG
+
+'	O
+''	O
+Martina	B-PER
+Navratilova	I-PER
+Pam	B-PER
+Shriver	I-PER
+
+ÁTIRÁNYÍTÁS	O
+Saint-Urbain	B-LOC
+(	I-LOC
+Finistère	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Margaret	B-PER
+Court	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Ausztrália	B-LOC
+(	I-LOC
+ország	I-LOC
+)	I-LOC

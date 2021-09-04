@@ -1,0 +1,45 @@
+Hans	B-PER
+Isaac	I-PER
+-	O
+''Cuci	O
+''	O
+
+Datin	B-PER
+Seri	I-PER
+Tiara	I-PER
+Jacquelina	I-PER
+-	O
+Pengetua	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC
+
+``	O
+Some	B-ORG
+Kind	I-ORG
+of	I-ORG
+Bliss	I-ORG
+''	O
+—	O
+IP	B-ORG
+''	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente	I-LOC
+
+'	O
+''	O
+Terengganu	B-ORG
+FA	I-ORG
+'	O
+''	O
+'	O
+''	O
+Gelaran	O
+Pertama	O
+''	O
+'	O

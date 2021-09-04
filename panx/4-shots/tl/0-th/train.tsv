@@ -1,0 +1,84 @@
+115px	O
+'	O
+''	O
+Rodrigo	B-PER
+Duterte	I-PER
+''	O
+'	O
+
+Ang	O
+'	O
+''	O
+Dabel	O
+''	O
+'	O
+ay	O
+isang	O
+munisipalidad	O
+sa	O
+Alemanya	B-LOC
+.	O
+
+Ganassi	B-LOC
+,	I-LOC
+Lanao	I-LOC
+del	I-LOC
+Sur	I-LOC
+
+Otto	B-PER
+von	I-PER
+Bismarck	I-PER
+
+Alcuino	B-PER
+ng	I-PER
+York	I-PER
+
+Arsoduke	B-PER
+Franz	I-PER
+Ferdinand	I-PER
+ng	I-PER
+Austria	I-PER
+
+Kapulungan	B-ORG
+ng	I-ORG
+mga	I-ORG
+Kinatawan	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+
+''	O
+Cooking	B-ORG
+with	I-ORG
+the	I-ORG
+Stars	I-ORG
+''	O
+(	O
+2012	O
+)	O
+
+Santa	B-LOC
+Maria	I-LOC
+,	I-LOC
+Bulacan	I-LOC
+
+''	O
+70th	B-LOC
+Birthday	I-LOC
+Concert	I-LOC
+''	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Pavia	I-LOC
+
+Itanong	B-ORG
+Mo	I-ORG
+kay	I-ORG
+Soriano	I-ORG
+
+Unibersidad	B-ORG
+ng	I-ORG
+Pilipinas	I-ORG

@@ -1,0 +1,18 @@
+''	O
+Capcom	B-ORG
+Fighting	I-ORG
+Jam	I-ORG
+''	O
+
+Pierre	B-PER
+Braine	I-PER
+(	O
+K	B-ORG
+Beerschot	I-ORG
+VAC	I-ORG
+)	O
+
+Požega	B-LOC
+(	I-LOC
+Serbie	I-LOC
+)	I-LOC

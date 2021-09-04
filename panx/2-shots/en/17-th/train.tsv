@@ -1,0 +1,44 @@
+Jean-Baptiste	B-PER
+Stouf	I-PER
+(	O
+1785	O
+)	O
+
+India	B-LOC
+(	O
+Uttar	B-LOC
+Pradesh	I-LOC
+)	O
+
+Eurasian	B-LOC
+jay	I-LOC
+,	O
+''Garrulus	O
+glandarius	O
+''	O
+
+``	O
+Dancing	B-ORG
+in	I-ORG
+the	I-ORG
+Street	I-ORG
+''	O
+quickly	O
+went	O
+to	O
+number	O
+one	O
+on	O
+release	O
+.	O
+
+Lancaster	B-ORG
+Independent	I-ORG
+School	I-ORG
+District	I-ORG
+
+Reg	B-PER
+Baker	I-PER
+(	O
+1899–	O
+?	O

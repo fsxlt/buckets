@@ -1,0 +1,24 @@
+Bloukranspas	B-LOC
+(	I-LOC
+Noord-Kaap	I-LOC
+)	I-LOC
+
+Hy	O
+studeer	O
+aan	O
+die	O
+Universiteit	B-ORG
+van	I-ORG
+Kaapstad	I-ORG
+en	O
+behaal	O
+eers	O
+sy	O
+B.Sc	O
+.	O
+
+AANSTUUR	O
+Georg	B-PER
+Heinrich	I-PER
+Ferdinand	I-PER
+Nesselmann	I-PER

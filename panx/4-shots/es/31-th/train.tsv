@@ -1,0 +1,88 @@
+REDIRECCIÓN	O
+Plaza	B-LOC
+de	I-LOC
+Cataluña	I-LOC
+
+Sturluson	B-PER
+,	I-PER
+Snorri	I-PER
+.	O
+
+'	O
+''	O
+Go	B-PER
+Soeda	I-PER
+''	O
+'6–3	O
+,	O
+6–0	O
+
+Steve	B-PER
+Nash	I-PER
+(	O
+Dallas	B-ORG
+Mavericks	I-ORG
+)	O
+
+REDIRECCIÓN	O
+Parque	B-LOC
+nacional	I-LOC
+de	I-LOC
+las	I-LOC
+Montañas	I-LOC
+de	I-LOC
+Guadalupe	I-LOC
+
+Carrascal	B-LOC
+del	I-LOC
+Río	I-LOC
+.	O
+
+En	O
+el	O
+minuto	O
+43	O
+,	O
+Jurado	B-PER
+empaló	O
+un	O
+rechace	O
+en	O
+la	O
+frontal	O
+,	O
+adelantando	O
+al	O
+conjunto	O
+colchonero	O
+.	O
+
+REDIRECCIÓN	O
+Sinfonía	B-ORG
+n.º	I-ORG
+6	I-ORG
+(	I-ORG
+Mahler	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Cuenca	B-LOC
+del	I-LOC
+Mediterráneo	I-LOC
+
+'	O
+''	O
+Kashiwa	B-ORG
+Reysol	I-ORG
+''	O
+'1er	O
+título	O
+
+Colgando	B-ORG
+en	I-ORG
+tus	I-ORG
+manos	I-ORG
+''	O
+,	O
+Carlos	B-PER
+Baute	I-PER

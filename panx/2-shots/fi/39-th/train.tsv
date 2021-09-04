@@ -1,0 +1,63 @@
+Euroopan	B-ORG
+unionin	I-ORG
+vanhoista	O
+15	O
+jäsenmaasta	O
+hallintotuomioistuimia	O
+onkin	O
+kaikissa	O
+muissa	O
+paitsi	O
+Tanskassa	B-LOC
+,	O
+Isossa-Britanniassa	B-LOC
+ja	O
+Irlannissa	B-LOC
+.	O
+
+Sen	O
+jälkeen	O
+hän	O
+työskenteli	O
+vuosia	O
+Ruotsissa	B-LOC
+osallistuen	O
+Svenska	B-ORG
+Aero	I-ORG
+-lentokonetehtaan	O
+perustamiseen	O
+.	O
+
+Soccer	B-LOC
+City	I-LOC
+,	O
+Johannesburg	B-LOC
+,	O
+Etelä-Afrikka	B-LOC
+
+Hänet	O
+tunnetaan	O
+siitä	O
+,	O
+että	O
+hän	O
+kiipesi	O
+ensimmäisenä	O
+Qullai	B-LOC
+Ismoili	I-LOC
+Somonīn	I-LOC
+huipulle	O
+.	O
+
+Kari	B-PER
+Peitsamo	I-PER
+,	O
+muusikko	O
+
+George	B-PER
+Kollias	I-PER
+–	O
+rummut	O
+(	O
+2002–2007	O
+)	O

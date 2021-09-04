@@ -1,0 +1,20 @@
+Benito	B-PER
+Pérez	I-PER
+Galdós	I-PER
+idazlearen	O
+''Halma	O
+''	O
+eleberrian	O
+oinarrituta	O
+dago	O
+.	O
+
+Nafarroako	B-ORG
+Kutxaren	I-ORG
+egoitza	I-ORG
+nagusia	I-ORG
+
+Aude	B-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC

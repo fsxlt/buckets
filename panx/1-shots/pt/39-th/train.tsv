@@ -1,0 +1,16 @@
+Brigada	B-ORG
+Victor	I-ORG
+Jara	I-ORG
+
+Ángel	B-PER
+Nieto	I-PER
+(	O
+Derbi	B-ORG
+)	O
+
+Malhada	B-LOC
+de	I-LOC
+Pedras	I-LOC
+(	O
+BA	O
+)	O

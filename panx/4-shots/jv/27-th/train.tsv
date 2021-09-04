@@ -1,0 +1,95 @@
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Turki	B-LOC
+(	O
+laladan	O
+Anatolia	B-LOC
+)	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Asosiasi	B-ORG
+Bangsa	I-ORG
+Bangsa	I-ORG
+Asia	I-ORG
+Kidul	I-ORG
+Wétan	I-ORG
+
+Topaz	B-ORG
+(	O
+Al2SiO4	O
+(	O
+OH-	O
+,	O
+F-	O
+)	O
+2	O
+)	O

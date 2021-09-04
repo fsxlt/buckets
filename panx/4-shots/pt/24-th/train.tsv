@@ -1,0 +1,70 @@
+Congregação	B-ORG
+para	I-ORG
+os	I-ORG
+Bispos	I-ORG
+
+Henri	B-PER
+Joseph	I-PER
+Anastase	I-PER
+Perrotin	I-PER
+1880—1904	O
+
+George	B-PER
+Tupou	I-PER
+I	I-PER
+
+Adolfo	B-PER
+Luxúria	I-PER
+Canibal	I-PER
+–	O
+voz	O
+/	O
+
+Redirecionamento	O
+Casa	B-PER
+de	I-PER
+Schleswig-Holstein-Sonderburg-Glücksburg	I-PER
+
+Cultura	B-ORG
+de	I-ORG
+La	I-ORG
+Tène	I-ORG
+
+``	O
+Man	B-ORG
+in	I-ORG
+the	I-ORG
+Box	I-ORG
+''	O
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Sociedade	B-ORG
+das	I-ORG
+Nações	I-ORG
+
+REDIRECIONAMENTO	O
+Lista	B-LOC
+de	I-LOC
+departamentos	I-LOC
+de	I-LOC
+El	I-LOC
+Salvador	I-LOC
+
+Villa	B-LOC
+Santa	I-LOC
+Rita	I-LOC
+de	I-LOC
+Catuna	I-LOC
+
+“	O
+-	O
+Glória	B-LOC
+de	I-LOC
+Dourados	I-LOC

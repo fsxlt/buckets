@@ -1,0 +1,18 @@
+গ্রে'স	B-ORG
+অ্যানাটমি	I-ORG
+(	I-ORG
+টিভি	I-ORG
+সিরিজ	I-ORG
+)	I-ORG
+
+শহীদ	B-LOC
+সোহরাওয়ার্দী	I-LOC
+মেডিকেল	I-LOC
+কলেজ	I-LOC
+হাসপাতাল	I-LOC
+,	O
+ঢাকা	B-LOC
+
+বুত্রোস	B-PER
+বুত্রোস	B-PER
+গালি	I-PER

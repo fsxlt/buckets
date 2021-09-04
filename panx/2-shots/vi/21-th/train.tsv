@@ -1,0 +1,46 @@
+Stephen	B-PER
+Hawking	I-PER
+,	O
+ed	O
+.	O
+
+Phòng	B-ORG
+trưng	I-ORG
+bày	I-ORG
+quốc	I-ORG
+gia	I-ORG
+Jeu	I-ORG
+de	I-ORG
+Paume	I-ORG
+
+đổi	O
+Giải	B-LOC
+bóng	I-LOC
+đá	I-LOC
+vô	I-LOC
+địch	I-LOC
+quốc	I-LOC
+gia	I-LOC
+2011	I-LOC
+
+'	O
+''	O
+Suzanne	B-PER
+Lenglen	I-PER
+''	O
+'	O
+
+Pesaro	B-LOC
+và	I-LOC
+Urbino	I-LOC
+(	I-LOC
+tỉnh	I-LOC
+)	I-LOC
+
+đổi	O
+Học	B-ORG
+viện	I-ORG
+Phòng	I-ORG
+vệ	I-ORG
+Nhật	I-ORG
+Bản	I-ORG

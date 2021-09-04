@@ -1,0 +1,34 @@
+'	O
+''	O
+Gerhard	B-PER
+Berger	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Leóninpaimenkoira	B-ORG
+''	O
+'	O
+
+Yhdistynyt	B-LOC
+kuningaskunta	I-LOC
+'	O
+''	O
+''	O
+'	O
+
+Tuon	O
+jälkeen	O
+hän	O
+aloitti	O
+musiikkijournalistin	O
+uran	O
+Danmarks	B-ORG
+Radio	I-ORG
+yleisradioyhtiössä	O
+ja	O
+myöhemmin	O
+editoijana	O
+Euroman-lehdessä	O
+.	O

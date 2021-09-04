@@ -1,0 +1,31 @@
+The	B-ORG
+Powerpuff	I-ORG
+Girls	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Corse	I-LOC
+
+ALIH	O
+Yakobus	B-PER
+anak	I-PER
+Alfeus	I-PER
+
+ALIH	O
+Stadion	B-ORG
+delle	I-ORG
+Alpi	I-ORG
+
+ALIH	O
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Bouches-du-Rhône	I-LOC

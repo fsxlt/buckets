@@ -1,0 +1,85 @@
+''	O
+Azerbaiyán	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+VC	B-ORG
+CSKA	I-ORG
+Moscú	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Liga	B-ORG
+Croata	I-ORG
+de	I-ORG
+Baloncesto	I-ORG
+
+Debutó	O
+en	O
+la	O
+Primera	B-ORG
+División	I-ORG
+del	I-ORG
+Perú	I-ORG
+en	O
+la	O
+temporada	B-LOC
+2005	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Santiago	B-PER
+González	I-PER
+(	I-PER
+tenista	I-PER
+)	I-PER
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Taurija	I-LOC
+
+Saint	B-PER
+Thomas	I-PER
+More	I-PER
+(	O
+1478–1535	O
+)	O
+
+REDIRECCIÓN	O
+José	B-PER
+Batlle	I-PER
+y	I-PER
+Ordóñez	I-PER
+
+REDIRECCIÓN	O
+San	B-LOC
+Adrián	I-LOC
+de	I-LOC
+Besós	I-LOC
+
+Obras]]	O
+(	O
+Buenos	B-LOC
+Aires	I-LOC
+)	O
+
+'	O
+''	O
+Cristiano	B-PER
+Ronaldo	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Partido	B-ORG
+Popular	I-ORG
+(	O
+PP	O
+)	O
+'	O
+''	O

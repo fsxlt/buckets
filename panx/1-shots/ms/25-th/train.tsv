@@ -1,0 +1,16 @@
+Bos	B-PER
+(	I-PER
+permainan	I-PER
+video	I-PER
+)	I-PER
+
+赤いフリージア	O
+(	O
+Akai	B-ORG
+Freesia	I-ORG
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC

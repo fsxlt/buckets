@@ -1,0 +1,32 @@
+ALIH	O
+Baudouin	B-PER
+dari	I-PER
+Belgia	I-PER
+
+ALIH	O
+Benedetta	B-PER
+dari	I-PER
+Cagliari	I-PER
+
+ALIH	O
+Cowboys	B-ORG
+and	I-ORG
+Cadillacs	I-ORG
+
+ALIH	O
+Kōfu	B-LOC
+,	I-LOC
+Yamanashi	I-LOC
+
+**	O
+The	B-ORG
+Penguins	I-ORG
+of	I-ORG
+Madagascar	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Bas-Rhin	I-LOC

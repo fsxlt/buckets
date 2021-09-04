@@ -1,0 +1,58 @@
+'	O
+''	O
+Go	B-ORG
+Ahead	I-ORG
+Eagles	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Marc	B-PER
+Surer	I-PER
+''	O
+'	O
+
+Hirshhorn	B-ORG
+Museum	I-ORG
+and	I-ORG
+Sculpture	I-ORG
+Garden	I-ORG
+,	O
+Washington	B-LOC
+
+De	O
+belangrijkste	O
+handelspartners	O
+zijn	O
+Duitsland	B-LOC
+,	O
+Italië	B-LOC
+,	O
+Oost-Europa	B-LOC
+,	O
+Japan	B-LOC
+en	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Claude	B-PER
+(	O
+1499–1524	O
+)	O
+,	O
+gehuwd	O
+met	O
+Frans	B-PER
+I	I-PER
+van	I-PER
+Frankrijk	I-PER
+,	O
+
+Vinski	B-LOC
+Vrh	I-LOC
+(	I-LOC
+Ormož	I-LOC
+)	I-LOC

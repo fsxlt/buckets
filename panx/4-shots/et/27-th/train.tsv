@@ -1,0 +1,133 @@
+Le	B-LOC
+Mans	I-LOC
+72	O
+181	O
+
+Ta	O
+oli	O
+Peeter	B-PER
+III	I-PER
+abikaasa	O
+ning	O
+Paul	B-PER
+I	I-PER
+ema	O
+.	O
+
+'	O
+''	O
+Dima	B-PER
+Bilan	I-PER
+''	O
+'	O
+
+Hiljem	O
+lõi	O
+ta	O
+värava	O
+mängus	O
+Manchester	B-ORG
+Unitediga	I-ORG
+.	O
+
+Esindas	O
+aastail	O
+1987–1998	O
+Saksamaa	B-ORG
+koondist	I-ORG
+108	O
+korda	O
+ja	O
+lõi	O
+47	O
+väravat	O
+.	O
+
+aastal	O
+süüdistused	O
+kahele	O
+kõrgele	O
+politseiohvitserile	O
+ja	O
+viiele	O
+islamiliikumise	O
+Ţālebān	B-ORG
+liikmele	O
+.	O
+
+Neid	O
+madusid	O
+võib	O
+kohata	O
+Zimbabwes	B-LOC
+,	O
+Botswanas	B-LOC
+,	O
+Angolas	B-LOC
+,	O
+Sambias	B-LOC
+,	O
+Malawis	B-LOC
+,	O
+Kongo	B-LOC
+Demokraatlikus	I-LOC
+Vabariigis	I-LOC
+,	O
+Kamerunis	B-LOC
+,	O
+Tansaanias	B-LOC
+ja	O
+Namiibias	B-LOC
+.	O
+
+aastast	O
+hoitud	O
+Helsingis	B-LOC
+Soome	B-ORG
+Kirjanduse	I-ORG
+Seltsis	I-ORG
+,	O
+ja	O
+hakkas	O
+seejärel	O
+koondama	O
+kõiki	O
+varasemaid	O
+rahvaluulekogusid	O
+.	O
+
+Georges	B-PER
+Cuvier	I-PER
+(	O
+1769–1832	O
+)	O
+
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+mängis	O
+ta	O
+aastatel	O
+2004–2005	O
+4	O
+mängu	O
+.	O
+
+**	O
+'	O
+''	O
+19	O
+''	O
+'	O
+Daniel	B-PER
+Ricciardo	I-PER
+
+Lepalind	B-LOC
+(	I-LOC
+perekond	I-LOC
+)	I-LOC
+
+Alamosa	B-LOC
+maakond	I-LOC
+(	O
+loodes	O
+)	O

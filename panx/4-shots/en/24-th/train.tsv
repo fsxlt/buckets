@@ -1,0 +1,82 @@
+Dave	B-PER
+Righetti	I-PER
+(	O
+1	O
+)	O
+
+Genipa	B-LOC
+americana	I-LOC
+(	O
+''hawa	O
+''	O
+,	O
+''jagua	O
+''	O
+,	O
+''huito	O
+''	O
+,	O
+''genipapo	O
+''	O
+)	O
+
+West	B-ORG
+Texas	I-ORG
+A	I-ORG
+&	I-ORG
+M	I-ORG
+University	I-ORG
+
+World	B-ORG
+Mental	I-ORG
+Health	I-ORG
+Day	I-ORG
+(	O
+International	B-ORG
+)	O
+
+Wachenheim	B-ORG
+an	I-ORG
+der	I-ORG
+Weinstraße	I-ORG
+(	O
+Rhl.-Pf	O
+.	O
+
+Tollak	B-PER
+B.	I-PER
+Sirnes	I-PER
+
+Recorded	O
+at	O
+Compass	B-ORG
+Point	I-ORG
+Studios	I-ORG
+in	O
+Nassau	B-LOC
+,	I-LOC
+Bahamas	I-LOC
+.	O
+
+Nate	B-PER
+Robinson	I-PER
+(	O
+15	O
+)	O
+
+Lesser	B-LOC
+Polish	I-LOC
+Way	I-LOC
+
+Her	O
+brother	O
+was	O
+poet	O
+Chittadhar	B-PER
+Hridaya	I-PER
+.	O
+
+Spirulina	B-LOC
+(	I-LOC
+genus	I-LOC
+)	I-LOC

@@ -1,0 +1,32 @@
+Atikah	O
+(	O
+Chelsea	B-PER
+Olivia	I-PER
+)	O
+gadis	O
+lugu	O
+,	O
+lucu	O
+,	O
+baik	O
+,	O
+tulus	O
+,	O
+sabar	O
+,	O
+serta	O
+suka	O
+bekerja	O
+keras	O
+.	O
+
+Siang	B-ORG
+(	I-ORG
+buku	I-ORG
+)	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gers	I-LOC

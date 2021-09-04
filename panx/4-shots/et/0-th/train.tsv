@@ -1,0 +1,103 @@
+Eesti	B-LOC
+välisminister	O
+Urmas	B-PER
+Paet	I-PER
+alustas	O
+kolmepäevast	O
+ametlikku	O
+visiiti	O
+Aserbaidžaanis	B-LOC
+.	O
+
+Töötab	O
+ajalehe	O
+Pärnu	B-ORG
+Postimees	I-ORG
+arvamustoimetuse	O
+juhatajana	O
+.	O
+
+Üleliiduline	B-ORG
+V.	I-ORG
+I.	I-ORG
+Lenini	I-ORG
+nimeline	I-ORG
+Pioneeriorganisatsioon	I-ORG
+
+Linateose	O
+lavastas	O
+Gérard	B-PER
+Krawczyk	I-PER
+.	O
+
+Oli	O
+Eesti	B-ORG
+Kongressi	I-ORG
+liige	O
+.	O
+
+Mortoni	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+Järve	B-LOC
+(	I-LOC
+Tallinn	I-LOC
+)	I-LOC
+
+Moma	B-LOC
+rahvusuluss	I-LOC
+(	O
+Момский	O
+Национальный	O
+улус	O
+)	O
+
+Algselt	O
+oli	O
+nende	O
+residentsiks	O
+Biržai	B-ORG
+loss	I-ORG
+.	O
+
+Tema	O
+tööd	O
+on	O
+hinnatud	O
+ja	O
+neid	O
+leidub	O
+valdavalt	O
+erakogudes	O
+üle	O
+maailma	O
+,	O
+muuhulgas	O
+Rootsis	B-LOC
+,	O
+Šveitsis	B-LOC
+,	O
+Venemaal	B-LOC
+,	O
+Prantsusmaal	B-LOC
+,	O
+Soomes	B-LOC
+,	O
+Ameerika	B-LOC
+Ühendriikides	I-LOC
+ja	O
+mujal	O
+.	O
+
+Bertrand	B-PER
+Arthur	I-PER
+William	I-PER
+Russell	I-PER
+
+suuna	O
+Karl	B-PER
+August	I-PER
+Senff	I-PER

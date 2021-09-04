@@ -1,0 +1,35 @@
+Dewan	B-ORG
+Undangan	I-ORG
+Negeri	I-ORG
+N.34	O
+Gemas	B-LOC
+(	O
+17,966	O
+)	O
+
+20px	O
+Sandro	B-PER
+da	I-PER
+Silva	I-PER
+Mendonça	I-PER
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Lebuhraya	B-ORG
+Tun	I-ORG
+Razak	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC
+
+Victor	B-PER
+Emmanuel	I-PER
+II	I-PER
+dari	I-PER
+Itali	I-PER

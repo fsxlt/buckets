@@ -1,0 +1,34 @@
+رجوع_مکرر	O
+سومترا	B-PER
+(	I-PER
+اداکارہ	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+مشعر	B-ORG
+آزادی	I-ORG
+صحافت	I-ORG
+
+رجوع_مکرر	O
+برٹرام	B-PER
+بروک	I-PER
+ہاؤس	I-PER
+
+رجوع_مکرر	O
+جیکسن	B-LOC
+ٹاؤنشپ،	I-LOC
+گرنزی	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+پاکستان	B-ORG
+مسلم	I-ORG
+لیگ	I-ORG
+(	I-ORG
+ن	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+جیروم	B-LOC
+کاؤنٹی،	I-LOC
+ایڈاہو	I-LOC

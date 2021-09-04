@@ -1,0 +1,20 @@
+ALIH	O
+Daftar	B-ORG
+Raja	I-ORG
+Nepal	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Calvados	I-LOC
+(	I-LOC
+M-Z	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Ronnie	B-PER
+Peterson	I-PER
+''	O
+'	O

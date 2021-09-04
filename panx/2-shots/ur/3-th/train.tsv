@@ -1,0 +1,39 @@
+رجوع_مکرر	O
+پیٹر	B-PER
+ڈی	I-PER
+میشل	I-PER
+
+رجوع_مکرر	O
+تھانیداروالا	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+کنگمین	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مینیسوٹا	I-LOC
+
+رجوع_مکرر	O
+آئین	B-ORG
+پاکستان	I-ORG
+میں	I-ORG
+چھٹی	I-ORG
+ترمیم	I-ORG
+
+رجوع_مکرر	O
+جوان	B-PER
+سوار	I-PER
+محمد	I-PER
+حسین	I-PER
+شہید	I-PER
+
+رجوع_مکرر	O
+دینار	B-LOC
+(	I-LOC
+ضلع	I-LOC
+)	I-LOC
+،	I-LOC
+افیون	I-LOC
+قرہ	I-LOC
+حصار	I-LOC

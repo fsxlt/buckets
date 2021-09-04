@@ -1,0 +1,48 @@
+نادي	B-ORG
+موناكو	I-ORG
+/	O
+ريال	B-ORG
+مدريد	I-ORG
+
+``	O
+'	O
+''	O
+تشيرز	B-ORG
+(	I-ORG
+درنك	I-ORG
+تو	I-ORG
+ذات	I-ORG
+)	I-ORG
+''	O
+'	O
+''	O
+-	O
+(	O
+4:22	O
+)	O
+
+تحويل	O
+جاهد	B-PER
+ظريف	I-PER
+أوغلي	I-PER
+
+تحويل	O
+القمة	B-LOC
+العربية	I-LOC
+1967	I-LOC
+(	I-LOC
+الخرطوم	I-LOC
+)	I-LOC
+
+تحويل	O
+ألماغلن	B-LOC
+(	I-LOC
+فولاد	I-LOC
+لوي	I-LOC
+الجنوبی	I-LOC
+)	I-LOC
+
+الأرقم	B-PER
+بن	I-PER
+أبي	I-PER
+الأرقم	B-PER

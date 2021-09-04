@@ -1,0 +1,90 @@
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+Đảng	B-ORG
+Cộng	I-ORG
+sản	I-ORG
+Liên	I-ORG
+bang	I-ORG
+Nga	I-ORG
+
+đổi	O
+Amou	B-LOC
+,	I-LOC
+Landes	I-LOC
+
+Ga	B-ORG
+Ichon	I-ORG
+của	O
+và	O
+
+Enantia	B-LOC
+''	O
+Hübner	O
+,	O
+[1819]	O
+
+Thuyền	O
+trưởng	O
+'	O
+''	O
+Monkey	B-PER
+D.	I-PER
+Luffy	I-PER
+''	O
+'	O
+.	O
+
+''	O
+Alucita	B-LOC
+hemicyclus	I-LOC
+''	O
+
+đổi	O
+Xã	B-LOC
+Nixon	I-LOC
+,	I-LOC
+Quận	I-LOC
+DeWitt	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+đổi	O
+Ptolemaios	B-PER
+III	I-PER
+Euergetes	I-PER
+
+Yeovil	B-ORG
+and	I-ORG
+District	I-ORG
+League	I-ORG
+Division	O
+Two	O
+–	O
+''10	O
+CLB	O
+''	O
+
+''	O
+Always	B-ORG
+Be	I-ORG
+My	I-ORG
+Baby	I-ORG
+''	O
+
+====	O
+Hinojosa	B-LOC
+de	I-LOC
+Jarque	I-LOC
+====	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O

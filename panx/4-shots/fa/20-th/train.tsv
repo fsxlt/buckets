@@ -1,0 +1,77 @@
+日本代表	O
+試合別出場記録	O
+منتشرشده	O
+توسط	O
+فدراسیون	B-ORG
+فوتبال	I-ORG
+ژاپن	I-ORG
+
+هرمز	B-PER
+فرهت	I-PER
+...	O
+.	O
+آهنگساز	O
+
+تغییرمسیر	O
+جاده	B-ORG
+ئی۶۱۱	I-ORG
+اروپا	I-ORG
+
+تغییرمسیر	O
+بالر	B-LOC
+(	I-LOC
+فیلیپین	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+یحیی‌آباد	B-LOC
+(	I-LOC
+زنجان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+قهرمان‌ها	B-PER
+(	I-PER
+مجموعه	I-PER
+تلویزیونی	I-PER
+)	I-PER
+
+تغییرمسیر	O
+شهرک	B-LOC
+چاه	I-LOC
+اسحاق	I-LOC
+
+تغییرمسیر	O
+دوج	B-LOC
+اسنتر،	I-LOC
+مینه‌سوتا	I-LOC
+
+تغییرمسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+رئال	I-ORG
+مادرید	I-ORG
+در	I-ORG
+فصل	I-ORG
+۱۱–۲۰۱۰	I-ORG
+
+تغییرمسیر	O
+حزب	B-ORG
+سوسیال	I-ORG
+دموکرات	I-ORG
+(	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+خوزه	B-PER
+ایگناسیو	I-PER
+سانچز	I-PER
+گالان	I-PER
+
+تغییرمسیر	O
+مایکل	B-PER
+دی	I-PER
+هیگینز	I-PER

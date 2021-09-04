@@ -1,0 +1,111 @@
+مادرش	O
+جزو	O
+نخستین	O
+گروه	O
+فارغ‌التحصیلان	O
+مدرسه	B-ORG
+پرستاری	I-ORG
+دانشگاه	B-ORG
+تهران	I-ORG
+بود	O
+.	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+قهرمان‌ها	B-PER
+(	I-PER
+مجموعه	I-PER
+تلویزیونی	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+هارت	B-LOC
+(	I-LOC
+تگزاس	I-LOC
+)	I-LOC
+
+از	O
+باشگاه‌هایی	O
+که	O
+در	O
+آن	O
+بازی	O
+کرده‌است	O
+می‌توان	O
+به	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+والنسیا،	I-ORG
+باشگاه	B-ORG
+فوتبال	I-ORG
+پورتو،	I-ORG
+باشگاه	B-ORG
+ورزشی	I-ORG
+القطر،	I-ORG
+و	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+نصر	I-ORG
+حسین	I-ORG
+دای	I-ORG
+اشاره	O
+کرد	O
+.	O
+
+تغییرمسیر	O
+کارهای	B-ORG
+کثیف	I-ORG
+(	I-ORG
+مجموعه	I-ORG
+تلویزیونی	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+شریف	B-PER
+شیخ	I-PER
+احمد	I-PER
+
+تغییرمسیر	O
+ارم	B-LOC
+(	I-LOC
+نکا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+امیلی	B-PER
+واتسون	I-PER
+''	O
+'	O
+
+تغییرمسیر	O
+زرنه	B-LOC
+(	I-LOC
+بوئین	I-LOC
+و	I-LOC
+میاندشت	I-LOC
+)	I-LOC
+
+این	O
+لایحه	O
+را	O
+رئیس	O
+جمهور	O
+توماس	B-PER
+وودرو	I-PER
+ویلسون	I-PER
+امضا	O
+کرد	O
+.	O
+
+تغییرمسیر	O
+اسلام‌آباد	B-LOC
+برگ	I-LOC
+بیدی	I-LOC

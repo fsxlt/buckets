@@ -1,0 +1,90 @@
+Aillant-sur-Tholon	B-LOC
+,	O
+Champvallon	B-LOC
+,	O
+Villiers-sur-Tholon	B-LOC
+et	O
+Volgré	B-LOC
+
+**	O
+Micheline	B-PER
+Calmy-Rey	I-PER
+,	O
+PSS	B-ORG
+,	O
+
+Huey	B-ORG
+Lewis	I-ORG
+and	I-ORG
+the	I-ORG
+News	I-ORG
+
+Fairuz	B-PER
+Fauzy	I-PER
+(	O
+)	O
+2	O
+min	O
+14	O
+s	O
+728	O
+
+Cervières	B-LOC
+(	I-LOC
+Loire	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Gare	B-ORG
+de	I-ORG
+l'aéroport	I-ORG
+de	I-ORG
+Düsseldorf	I-ORG
+
+La	O
+ville	O
+héberge	O
+un	O
+club	B-ORG
+de	I-ORG
+football	I-ORG
+.	O
+
+Rosibel	B-PER
+García	I-PER
+4	O
+min	O
+22	O
+s	O
+18	O
+
+Université	B-ORG
+de	I-ORG
+la	I-ORG
+Nouvelle-Calédonie	I-ORG
+
+Mark	B-PER
+Langston	I-PER
+(	O
+2	O
+)	O
+
+====	O
+Walt	B-LOC
+Disney	I-LOC
+Studios	I-LOC
+====	O
+
+REDIRECTION	O
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+Lot-et-Garonne	I-LOC
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Nièvre	I-LOC

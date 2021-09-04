@@ -1,0 +1,40 @@
+''	O
+Back	B-ORG
+Up	I-ORG
+''	O
+
+Sư	B-ORG
+đoàn	I-ORG
+9	I-ORG
+Bộ	I-ORG
+binh	I-ORG
+Quân	I-ORG
+lực	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+Cộng	I-ORG
+hòa	I-ORG
+
+đổi	O
+Quận	B-LOC
+Davidson	I-LOC
+,	I-LOC
+Bắc	I-LOC
+Carolina	I-LOC
+
+'	O
+''	O
+Natalie	B-PER
+Portman	I-PER
+''	O
+'	O
+
+đổi	O
+Đoàn	B-PER
+Chính	I-PER
+Minh	I-PER
+
+Asparn	B-LOC
+an	I-LOC
+der	I-LOC
+Zaya	I-LOC

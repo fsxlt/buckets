@@ -1,0 +1,39 @@
+REDIRECCIÓN	O
+Ana	B-PER
+de	I-PER
+Borbón-Parma	I-PER
+
+Condado	B-LOC
+de	I-LOC
+Smith	I-LOC
+noroeste	O
+
+'	O
+''	O
+Yves	B-PER
+Allegro	I-PER
+''	O
+'	O
+
+Explotación	B-ORG
+(	I-ORG
+ecología	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Iglesia	B-ORG
+de	I-ORG
+San	I-ORG
+Esteban	I-ORG
+(	I-ORG
+Aramil	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Gregorio	B-LOC
+del	I-LOC
+Pilar	I-LOC
+(	I-LOC
+Ilocos	I-LOC
+Sur	I-LOC
+)	I-LOC

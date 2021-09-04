@@ -1,0 +1,27 @@
+1998	B-ORG
+''nicht	O
+qualifiziert	O
+''	O
+
+Er	O
+war	O
+Professor	O
+an	O
+der	O
+Universität	B-ORG
+Uppsala	I-ORG
+.	O
+
+'	O
+''	O
+Robbie	B-PER
+Williams	I-PER
+''	O
+'	O
+-	O
+Escapology	B-ORG
+''	O
+
+Città	B-LOC
+di	I-LOC
+Castello	I-LOC

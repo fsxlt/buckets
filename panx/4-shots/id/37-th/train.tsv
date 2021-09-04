@@ -1,0 +1,88 @@
+ALIH	O
+Paul	B-PER
+van	I-PER
+Dyk	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Moselle	I-LOC
+
+``	O
+Bersama	B-ORG
+Meraih	I-ORG
+Mimpi	I-ORG
+''	O
+
+ALIH	O
+St.	B-ORG
+Bernard	I-ORG
+(	I-ORG
+anjing	I-ORG
+)	I-ORG
+
+Mickey	B-ORG
+Mouse	I-ORG
+Clubhouse	I-ORG
+''	O
+
+Ayat	O
+ini	O
+mengawali	O
+bagian	O
+kedua	O
+dari	O
+Kitab	B-PER
+Yosua	I-PER
+.	O
+
+'	O
+''	O
+Christian	B-PER
+Klien	I-PER
+''	O
+'	O
+
+ALIH	O
+Morong	B-LOC
+,	I-LOC
+Bataan	I-LOC
+
+Hal	O
+ini	O
+mendapat	O
+keluhan	O
+dari	O
+Venesia	B-LOC
+,	O
+namun	O
+tidak	O
+dihiraukan	O
+oleh	O
+pemerintahan	O
+Inggris	B-LOC
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aube	I-LOC
+
+**	O
+Lihat	O
+Orang	B-ORG
+Indonesia	I-ORG
+perantauan	I-ORG
+
+Syaikh	O
+Muhammad	B-PER
+Nashiruddin	I-PER
+Al-Albani	I-PER
+
+ALIH	O
+Kota	B-LOC
+Johnson	I-LOC
+,	I-LOC
+Texas	I-LOC

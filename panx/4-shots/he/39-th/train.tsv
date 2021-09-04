@@ -1,0 +1,122 @@
+Thug	B-ORG
+Life	I-ORG
+:	I-ORG
+Volume	I-ORG
+1	I-ORG
+
+הפניה	O
+ג'ון	B-PER
+דנס	I-PER
+סקוטוס	I-PER
+
+ארברו	B-LOC
+,	O
+שוודיה	B-LOC
+(	O
+מ-1940	O
+)	O
+
+**	O
+ארכף	B-LOC
+שחור	I-LOC
+רגל	I-LOC
+(	O
+''E	O
+.	O
+
+למצודה	O
+נודע	O
+תפקיד	O
+מרכזי	O
+במאבקי	O
+השליטה	O
+בין	O
+הבריטים	O
+וההולנדים	O
+על	O
+השליטה	O
+חוף	B-LOC
+הזהב	I-LOC
+.	O
+
+להופעות	O
+הללו	O
+היו	O
+מגיעים	O
+אורחים	O
+מכובדים	O
+כמו	O
+מקס	B-PER
+רואץ	I-PER
+'	I-PER
+רוי	B-PER
+היינס	I-PER
+.	O
+
+סולנית	B-ORG
+הלהקה	O
+איימי	B-PER
+לי	I-PER
+,	O
+הצהירה	O
+שלשיר	O
+ישנן	O
+מספר	O
+משמעויות	O
+.	O
+
+הפניה	O
+המרכז	B-ORG
+הרפואי	I-ORG
+ע	I-ORG
+''	I-ORG
+ש	I-ORG
+חיים	I-ORG
+שיבא	I-ORG
+-	I-ORG
+תל	I-ORG
+השומר	I-ORG
+
+לאחר	O
+מספר	O
+שנים	O
+עברה	O
+המשפחה	O
+דאלאס	B-LOC
+.	O
+
+בימיה	O
+הראשונים	O
+פעלה	O
+החברה	O
+במחסן	O
+קריית	B-LOC
+שמונה	I-LOC
+.	O
+
+קול	B-ORG
+ישראל	I-ORG
+של	O
+רשות	B-ORG
+השידור	I-ORG
+
+'	O
+''	O
+ספורטינג	B-ORG
+ליסבון	I-ORG
+''	O
+'	O
+''	O
+
+הפניה	O
+יוקון	B-LOC
+(	I-LOC
+נהר	I-LOC
+)	I-LOC
+
+'	O
+''	O
+מאטס	B-PER
+וילאנדר	I-PER
+''	O
+'	O

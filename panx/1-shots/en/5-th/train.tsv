@@ -1,0 +1,25 @@
+West	B-LOC
+Ukrainian	I-LOC
+People	I-LOC
+'s	I-LOC
+Republic	I-LOC
+
+University	B-ORG
+of	I-ORG
+Akron	I-ORG
+(	O
+Akron	B-LOC
+)	O
+
+''	O
+Kingdom	B-ORG
+of	I-ORG
+France	I-ORG
+''	O
+'	O
+–	O
+Charles	B-PER
+IV	I-PER
+(	O
+1322–1328	O
+)	O

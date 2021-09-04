@@ -1,0 +1,62 @@
+''	O
+Geki	B-PER
+''	O
+(	O
+1965-1966	O
+)	O
+
+``	O
+Pennyroyal	B-ORG
+Tea	I-ORG
+''	O
+–	O
+4:16	O
+
+OHJAUS	O
+Daimler	B-ORG
+(	I-ORG
+yritys	I-ORG
+)	I-ORG
+
+Feira	B-LOC
+de	I-LOC
+Santana	I-LOC
+-	O
+535	O
+284	O
+
+San	B-LOC
+Salvador	I-LOC
+(	I-LOC
+Bahama	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Nadja	B-PER
+Benaissa	I-PER
+''	O
+'	O
+
+Startissa	O
+kolmosruudusta	O
+liikkelle	O
+lähtenyt	O
+Ferrarin	B-ORG
+Sebastian	B-PER
+Vettel	I-PER
+pystyi	O
+ohittamaan	O
+kakkospaikalta	O
+lähteneen	O
+Lewis	B-PER
+Hamiltonin	I-PER
+.	O
+
+Yhtiön	O
+henkilökunta	O
+lähtee	O
+viikonloppumatkalle	O
+Unkarin	B-LOC
+metsiin	O
+.	O

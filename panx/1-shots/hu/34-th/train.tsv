@@ -1,0 +1,23 @@
+ÁTIRÁNYÍTÁS	O
+Châteauneuf	B-LOC
+(	I-LOC
+Loire	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Lewis	B-PER
+Hamilton	I-PER
+''	O
+'	O
+
+'	O
+''	O
+1.	B-ORG
+FC	I-ORG
+Köln	I-ORG
+''	O
+'	O
+(	O
+II	O
+.	O

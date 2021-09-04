@@ -1,0 +1,73 @@
+.lk	B-ORG
+–	O
+Sri	B-LOC
+Lanka	I-LOC
+
+Trương	B-PER
+Mỹ	I-PER
+Hoa	I-PER
+(	O
+1945-	O
+)	O
+
+Đảng	B-ORG
+Quốc	I-ORG
+Đại	I-ORG
+Ấn	I-ORG
+Độ	I-ORG
+
+Ca	O
+dao	O
+mẹ	O
+(	O
+Trịnh	B-PER
+Công	I-PER
+Sơn	I-PER
+)	O
+
+Danh	B-ORG
+sách	I-ORG
+vua	I-ORG
+Triều	I-ORG
+Tiên	I-ORG
+
+đổi	O
+Maximilian	B-PER
+II	I-PER
+của	I-PER
+đế	I-PER
+quốc	I-PER
+La	I-PER
+Mã	I-PER
+Thần	I-PER
+thánh	I-PER
+
+đổi	O
+Chuột	B-LOC
+nhảy	I-LOC
+jerboa	I-LOC
+tai	I-LOC
+dài	I-LOC
+
+Levi	B-ORG
+Strauss	I-ORG
+&	I-ORG
+Co	I-ORG
+.	I-ORG
+
+Thành	B-ORG
+phố	I-ORG
+Biên	I-ORG
+Hòa	I-ORG
+,	O
+Việt	B-LOC
+Nam	I-LOC
+
+Hút	B-LOC
+mật	I-LOC
+bụng	I-LOC
+vạch	I-LOC
+
+Knud	B-PER
+Đại	I-PER
+đế	I-PER

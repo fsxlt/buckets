@@ -1,0 +1,106 @@
+*1980	O
+Bernd	B-PER
+und	I-PER
+Hilla	I-PER
+Becher	I-PER
+
+N	O
+833	O
+/	O
+N	O
+834	O
+in	O
+La	B-LOC
+Roche-en-Ardenne	I-LOC
+–	O
+N	O
+89	O
+in	O
+La	B-LOC
+Roche-en-Ardenne	I-LOC
+
+Marija	B-PER
+Bronislawowna	I-PER
+Worobjowa-Stebelskaja	I-PER
+
+===	O
+34	O
+Westhessisches	B-LOC
+Bergland	I-LOC
+===	O
+
+'	O
+''	O
+Li	B-PER
+Yongbo	I-PER
+/	O
+Tian	B-PER
+Bingyi	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Provinz	B-LOC
+Chapare	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+England	B-LOC
+''	O
+'	O
+
+Seit	O
+2000	O
+hat	O
+er	O
+zusätzlich	O
+eine	O
+Professur	O
+an	O
+der	O
+Tulane	B-ORG
+University	I-ORG
+in	O
+New	B-LOC
+Orleans	I-LOC
+,	O
+Louisiana	B-LOC
+.	O
+
+Der	O
+für	O
+den	O
+Lauf	O
+gemeldete	O
+Simon	B-PER
+Kipkemboi	I-PER
+aus	O
+Kenia	B-LOC
+trat	O
+nicht	O
+an	O
+.	O
+
+RC	B-ORG
+Strasbourg	I-ORG
+D1	O
+-	O
+FC	B-ORG
+Sète	I-ORG
+D2	O
+4:0	O
+
+Rock	B-ORG
+’n’	I-ORG
+Roll	I-ORG
+''	O
+,	O
+1987	O
+
+Camp	B-ORG
+H.	I-ORG
+M.	I-ORG
+Smith	I-ORG

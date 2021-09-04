@@ -1,0 +1,40 @@
+New	B-ORG
+York	I-ORG
+Giants	I-ORG
+(	O
+3	O
+)	O
+
+Kabupaten	B-LOC
+Manokwari	I-LOC
+Selatan	I-LOC
+(	O
+DOB	O
+)	O
+,	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Manche	I-LOC
+
+Ryan	B-PER
+Harrison	I-PER
+''	O
+(	O
+Putaran	O
+Pertama	O
+)	O
+
+ALIH	O
+Eric	B-PER
+Arsène	I-PER
+Bayemi	I-PER
+Maemble	I-PER
+
+ALIH	O
+Trem	B-ORG
+Paris	I-ORG
+Jalur	I-ORG
+2	I-ORG

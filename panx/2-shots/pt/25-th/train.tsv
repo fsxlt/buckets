@@ -1,0 +1,43 @@
+Wrigley	B-ORG
+Field	I-ORG
+(	O
+2	O
+)	O
+
+Paulo	B-PER
+Miklos	I-PER
+-	O
+voz	O
+
+San	B-LOC
+Pietro	I-LOC
+in	I-LOC
+Montorio	I-LOC
+
+Redirecionamento	O
+Manuel	B-PER
+Alfredo	I-PER
+Tito	I-PER
+de	I-PER
+Morais	I-PER
+
+''	O
+Akodon	B-LOC
+mystax	I-LOC
+''	O
+-	O
+'	O
+''	O
+rato-do-chão	O
+''	O
+'	O
+
+**	O
+Auld	B-ORG
+Alliance	I-ORG
+-	O
+Escócia	B-LOC
+,	O
+França	B-LOC
+,	O
+Noruega	B-LOC

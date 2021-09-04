@@ -1,0 +1,22 @@
+Federazione	B-ORG
+Italiana	I-ORG
+Giuoco	I-ORG
+Calcio	I-ORG
+
+Si	O
+tiene	O
+ogni	O
+anno	O
+presso	O
+la	O
+Indian	B-LOC
+Wells	I-LOC
+Tennis	I-LOC
+Garden	I-LOC
+.	O
+
+Richard	B-PER
+Henry	I-PER
+Dana	I-PER
+Jr	I-PER
+.	I-PER

@@ -1,0 +1,43 @@
+Mr.	B-ORG
+President	I-ORG
+-	O
+A	B-ORG
+Kind	I-ORG
+of	I-ORG
+Magic	I-ORG
+3:45	O
+
+'	O
+''	O
+მირიან	B-PER
+III	I-PER
+''	O
+'	O
+
+ესაზღვრება	O
+სირიას	B-LOC
+,	O
+იორდანიასა	B-LOC
+და	O
+საუდის	B-LOC
+არაბეთს	I-LOC
+.	O
+
+უკრაინის	B-LOC
+მიერ	O
+დამოუკიდებლობის	O
+მოპოვების	O
+შემდეგ	O
+,	O
+მისი	O
+ოჯახი	O
+დაბრუნდა	O
+ყირიმში	B-LOC
+.	O
+
+ურ-ნამუს	B-PER
+ადრეული	O
+კოდექსი	O
+(	O
+ძვ	O
+.	O

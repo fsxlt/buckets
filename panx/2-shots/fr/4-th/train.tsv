@@ -1,0 +1,46 @@
+George	B-PER
+Bernard	I-PER
+Shaw	I-PER
+(	O
+1856–1950	O
+)	O
+
+Raymond	B-PER
+Riotte	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Elles	O
+se	O
+rencontrent	O
+au	O
+Queensland	B-LOC
+,	O
+en	O
+Nouvelle-Galles	B-LOC
+du	I-LOC
+Sud	I-LOC
+et	O
+au	O
+Victoria	B-LOC
+.	O
+
+''	O
+One	B-ORG
+Day	I-ORG
+at	I-ORG
+a	I-ORG
+Time	I-ORG
+''	O
+
+We	B-ORG
+Are	I-ORG
+the	I-ORG
+Champions	I-ORG
+''	O
+
+Alexandre	B-LOC
+(	I-LOC
+cratère	I-LOC
+)	I-LOC

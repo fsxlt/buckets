@@ -1,0 +1,113 @@
+Michelle	B-PER
+Rocca	I-PER
+ve	O
+Pat	B-PER
+Kenny	I-PER
+
+Angel	B-ORG
+(	I-ORG
+dizi	I-ORG
+)	I-ORG
+
+YÖNLENDİR	O
+The	B-ORG
+Writing	I-ORG
+'s	I-ORG
+on	I-ORG
+the	I-ORG
+Wall	I-ORG
+
+Balkanlar’da	B-LOC
+Kumanlarla	I-LOC
+ilgili	I-LOC
+şehir	I-LOC
+:	I-LOC
+Kumanova	I-LOC
+
+Şansını	O
+denemek	O
+adına	O
+Yeni	B-LOC
+Dünya'ya	I-LOC
+giden	O
+seferlere	O
+katılmaya	O
+karar	O
+verir	O
+.	O
+
+Primeira	B-ORG
+Liga	I-ORG
+ekiplerinden	O
+Belenenses'de	B-ORG
+oynuyor	O
+.	O
+
+(	O
+1882-1951	O
+)	O
+Henri-René	B-PER
+Lenormand	I-PER
+
+San	B-ORG
+Marino	I-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı'yla	I-ORG
+31	O
+maça	O
+çıkıp	O
+bir	O
+gol	O
+atmıştır	O
+.	O
+
+'	O
+''	O
+Möhnsen	O
+''	O
+'	O
+Almanya'nın	B-LOC
+kuzeyinde	O
+Schleswig-Holstein	B-LOC
+eyâletinde	O
+,	O
+Herzogtum	B-LOC
+Lauenburg	I-LOC
+iline	O
+bağlı	O
+bölge	O
+.	O
+
+Albüm	O
+şu	O
+an	O
+grupta	O
+basist	O
+olarak	O
+yer	O
+alan	O
+isim	O
+Johnny	B-PER
+Christ	I-PER
+'	O
+ın	O
+grupla	O
+ilk	O
+kaydıdır	O
+.	O
+
+**	O
+G	O
+-	O
+Michael	B-PER
+Jordan	I-PER
+,	O
+Chicago	B-ORG
+Bulls	I-ORG
+
+YÖNLENDİR	O
+Zakintos	B-LOC
+(	I-LOC
+Yunanistan	I-LOC
+)	I-LOC

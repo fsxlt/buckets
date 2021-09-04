@@ -1,0 +1,34 @@
+Burung	B-LOC
+Camar	I-LOC
+Topeng	I-LOC
+Hitam	I-LOC
+
+''	O
+Sonic	B-ORG
+X	I-ORG
+''	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meuse	I-LOC
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+
+'	O
+''	O
+Kashima	B-ORG
+Antlers	I-ORG
+''	O
+'	O

@@ -1,0 +1,157 @@
+Cortina	B-LOC
+d’Ampezzo	I-LOC
+,	O
+17	O
+Kilometer	O
+südwestlich	O
+gelegen	O
+,	O
+ist	O
+die	O
+größte	O
+Stadt	O
+in	O
+der	O
+Umgebung	O
+.	O
+
+'	O
+''	O
+Ipswich	B-ORG
+Town	I-ORG
+''	O
+'	O
+
+===	O
+Neuburg	B-LOC
+an	I-LOC
+der	I-LOC
+Kammel	I-LOC
+===	O
+
+Der	O
+Inhalt	O
+der	O
+Single	O
+ist	O
+ein	O
+etwa	O
+15	O
+Minuten	O
+langes	O
+Interview	O
+von	O
+Noel	B-PER
+und	O
+Liam	B-PER
+Gallagher	I-PER
+,	O
+das	O
+am	O
+7	O
+.	O
+
+'	O
+''	O
+Missouri	B-PER
+''	O
+'	O
+
+Damit	O
+erreichte	O
+die	O
+''Corrientes	O
+''	O
+eine	O
+Geschwindigkeit	O
+von	O
+10,5	O
+Knoten	B-ORG
+.	O
+
+Die	O
+Gruppe	O
+G	O
+spielte	O
+in	O
+Hongkong	B-LOC
+.	O
+
+The	B-ORG
+Grass	I-ORG
+Roots	I-ORG
+
+eine	O
+Etappe	O
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+
+Dort	O
+sah	O
+er	O
+sich	O
+in	O
+der	O
+Nachspielzeit	O
+einem	O
+entscheidenden	O
+Elfmeterduell	O
+gegen	O
+Francesco	B-PER
+Totti	I-PER
+ausgesetzt	O
+und	O
+blieb	O
+chancenlos	O
+,	O
+obwohl	O
+er	O
+die	O
+richtige	O
+Ecke	O
+antizipiert	O
+hatte	O
+.	O
+
+Mordechai	B-PER
+Jaffe	I-PER
+zufolge	O
+wurde	O
+die	O
+Verwendung	O
+des	O
+Liedes	O
+beschränkt	O
+,	O
+damit	O
+es	O
+nicht	O
+zu	O
+gewohnt	O
+und	O
+alltäglich	O
+würde	O
+.	O
+
+25	O
+''	O
+von	O
+Murray	B-PER
+Perahia	I-PER
+
+Nalón	B-LOC
+(	I-LOC
+Fluss	I-LOC
+)	I-LOC
+
+Štadión	B-ORG
+na	I-ORG
+Sihoti	I-ORG
+,	O
+Trenčín	B-LOC
+
+Nõmme	B-LOC
+(	I-LOC
+Ridala	I-LOC
+)	I-LOC

@@ -1,0 +1,88 @@
+''	O
+'	O
+''	O
+Oxycarpus	O
+''	O
+'	O
+''	O
+Lour	B-PER
+.	I-PER
+
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Hàng	I-ORG
+Đẫy	I-ORG
+
+Đảng	B-ORG
+Cộng	I-ORG
+sản	I-ORG
+Anh	I-ORG
+
+đổi	O
+Xã	B-LOC
+Soap	I-LOC
+Creek	I-LOC
+,	I-LOC
+Quận	I-LOC
+Davis	I-LOC
+,	I-LOC
+Iowa	I-LOC
+
+'	O
+''	O
+''huyện	O
+Duyên	B-LOC
+Hải	I-LOC
+''	O
+'	O
+''	O
+
+đổi	O
+Quốc	B-ORG
+ca	I-ORG
+Liên	I-ORG
+bang	I-ORG
+Xô	I-ORG
+Viết	I-ORG
+
+Khánh	B-PER
+Ly	I-PER
+,	O
+Thế	B-PER
+Sơn	I-PER
+
+Las	B-LOC
+Vegas	I-LOC
+,	I-LOC
+Nevada	I-LOC
+
+''	O
+Zosterops	B-LOC
+gibbsi	I-LOC
+''	O
+.	O
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Carmen	B-PER
+Josefina	I-PER
+Leon	I-PER
+Crespo	I-PER
+
+đổi	O
+Khải	B-ORG
+Hoàn	I-ORG
+Môn	I-ORG
+(	I-ORG
+Paris	I-ORG
+)	I-ORG
+
+Trường	B-PER
+Chinh	I-PER
+(	O
+1907–1988	O
+)	O

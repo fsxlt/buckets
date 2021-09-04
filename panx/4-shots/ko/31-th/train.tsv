@@ -1,0 +1,127 @@
+넘겨주기	O
+다니엘	B-PER
+판	I-PER
+바위턴	I-PER
+
+모로니	B-LOC
+(	I-LOC
+코모로	I-LOC
+)	I-LOC
+
+촉	B-LOC
+(	O
+蜀	O
+)	O
+후주	B-PER
+(	O
+後主	O
+)	O
+11년	O
+
+넘겨주기	O
+무함마드	B-PER
+사이드	I-PER
+알사하프	I-PER
+
+모라바	B-LOC
+강	I-LOC
+유역에	O
+위치하며	O
+크루셰바츠	B-LOC
+북쪽과	O
+크라구예바츠	B-LOC
+남동쪽에	O
+위치한다	O
+.	O
+
+JTBC의	B-ORG
+비정상회담	B-ORG
+20화에	O
+오스트레일리아	B-LOC
+대표	O
+다니엘	B-ORG
+스눅스의	I-ORG
+하차로	O
+인해	O
+일일비정상으로	O
+출연하였으며	O
+28회부터	O
+고정	O
+패널로	O
+출연했으나	O
+52회를	O
+마지막으로	O
+하차하였다	O
+.	O
+
+그러나	O
+길이가	O
+짧음에도	O
+불구하고	O
+메릴랜드	B-LOC
+주의	I-LOC
+주도인	O
+아나폴리스와	B-LOC
+대도시인	O
+볼티모어를	B-LOC
+직접적으로	O
+연결하는	O
+주요한	O
+도로이다	O
+.	O
+
+앨범	O
+작업	O
+기간	O
+내내	O
+,	O
+카니예	B-PER
+웨스트는	I-PER
+그의	O
+음악에	O
+무게를	O
+실어주기	O
+위해	O
+'당근과	O
+채찍'을	O
+이용해	O
+다른	O
+프로듀서들과	O
+아티스트들을	O
+끌어들었다	O
+.	O
+
+도카이	B-ORG
+여객철도	I-ORG
+도카이도	B-ORG
+본선	I-ORG
+
+스테판	B-PER
+에드베리	I-PER
+(	O
+2	O
+)	O
+
+저장	B-LOC
+성	I-LOC
+(	O
+浙江省	O
+)	O
+해령	B-LOC
+(	O
+海寧	O
+)	O
+에서	O
+출생	O
+.	O
+
+시코쿠	B-ORG
+여객철도	I-ORG
+요산	B-ORG
+선	I-ORG
+
+넘겨주기	O
+2010년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+B조	I-ORG

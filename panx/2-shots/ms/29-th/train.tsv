@@ -1,0 +1,37 @@
+LENCONG	O
+Raja	B-PER
+Putih	I-PER
+Sarawak	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Eure	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Shibata	B-PER
+Ayumi	I-PER
+adalah	O
+salah	O
+seorang	O
+anggota	O
+dari	O
+kumpulan	O
+Melon	B-ORG
+Kinenbi	I-ORG
+.	O
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+rubah	I-ORG
+Virginia	I-ORG
+hitam	I-ORG
+dan	I-ORG
+sawo	I-ORG
+matang	I-ORG

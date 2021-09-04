@@ -1,0 +1,97 @@
+Judge	B-PER
+Reinhold	I-PER
+,	O
+Fred	B-PER
+Savage	I-PER
+
+Francesco	B-PER
+Botticini	I-PER
+or	O
+Andrea	B-ORG
+Castagna	I-ORG
+
+John	B-PER
+Randolph	I-PER
+Tucker	I-PER
+(	I-PER
+politician	I-PER
+)	I-PER
+
+*Strange	O
+''	O
+(	O
+from	O
+Hellbound	B-ORG
+)	O
+''	O
+
+''	O
+Papilio	B-LOC
+thuraui	I-LOC
+''	O
+Karsch	O
+,	O
+1900	O
+
+*2006-09-10	O
+:	O
+119,0	O
+m	O
+-	O
+Tobias	B-PER
+Bogner	I-PER
+,	O
+Germany	B-LOC
+
+Durhamville	B-ORG
+(	I-ORG
+disambiguation	I-ORG
+)	I-ORG
+
+He	O
+holds	O
+a	O
+position	O
+at	O
+the	O
+Jawaharlal	B-ORG
+Nehru	I-ORG
+Centre	I-ORG
+for	I-ORG
+Advanced	I-ORG
+Scientific	I-ORG
+Research	I-ORG
+in	O
+Bangalore	B-LOC
+.	O
+
+Hazel	B-LOC
+Green	I-LOC
+,	I-LOC
+Alabama	I-LOC
+$	O
+18,397	O
+
+'	O
+''	O
+KV20	B-ORG
+''	O
+'	O
+
+McMinn	B-LOC
+County	I-LOC
+,	I-LOC
+Tennessee	I-LOC
+
+St.	B-ORG
+Paul	I-ORG
+'s	I-ORG
+College	I-ORG
+,	I-ORG
+Macau	I-ORG
+
+''	O
+Union	B-LOC
+County	I-LOC
+''	O
+'	O

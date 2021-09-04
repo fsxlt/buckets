@@ -1,0 +1,102 @@
+REDIRECIONAMENTO	O
+Recife	B-LOC
+de	I-LOC
+Maria	I-LOC
+Teresa	I-LOC
+
+Concorre	O
+diretamente	O
+com	O
+o	O
+Estado	B-ORG
+de	I-ORG
+Minas	I-ORG
+''	O
+.	O
+
+Condado	B-LOC
+de	I-LOC
+Wilkinson	I-LOC
+(	I-LOC
+Geórgia	I-LOC
+)	I-LOC
+
+REDIRECIONAMENTO	O
+Imagine	B-ORG
+(	I-ORG
+canção	I-ORG
+de	I-ORG
+John	I-ORG
+Lennon	I-ORG
+)	I-ORG
+
+Diourbel	B-LOC
+(	I-LOC
+região	I-LOC
+)	I-LOC
+
+Raquel	B-PER
+del	I-PER
+Rosario	I-PER
+
+Windsor	B-LOC
+Heights	I-LOC
+(	I-LOC
+Iowa	I-LOC
+)	I-LOC
+
+``	O
+Ele	O
+''	O
+revive	O
+e	O
+ao	O
+ver	O
+a	O
+deusa	O
+Sif	B-PER
+decide	O
+tomá-la	O
+como	O
+sua	O
+companheira	O
+.	O
+
+'	O
+''	O
+Helen	B-PER
+Wills	I-PER
+Moody	I-PER
+
+O	O
+episódio	O
+foi	O
+escrito	O
+por	O
+Kevin	B-PER
+Etten	I-PER
+e	O
+Susan	B-PER
+Nirah	I-PER
+Jaffee	I-PER
+e	O
+realizado	O
+por	O
+Matthew	B-PER
+Diamond	I-PER
+.	O
+
+Campeonato	B-ORG
+Catarinense	I-ORG
+de	I-ORG
+Futebol	I-ORG
+
+Francisco	B-PER
+Manuel	I-PER
+Chaves	I-PER
+Pinheiro	I-PER
+
+Federação	B-ORG
+Mexicana	I-ORG
+de	I-ORG
+Futebol	I-ORG

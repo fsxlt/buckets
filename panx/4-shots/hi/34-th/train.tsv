@@ -1,0 +1,86 @@
+दादरा	B-LOC
+और	I-LOC
+नगर	I-LOC
+हवेली	I-LOC
+
+ब्रिटिश	B-LOC
+विदेशी	I-LOC
+प्रदेश	I-LOC
+
+बैरी	B-PER
+मार्शल	I-PER
+,	O
+रॉबिन	B-PER
+वारेन	I-PER
+
+सतीश	B-PER
+शाह	I-PER
+-	O
+प्रिंसिपल	O
+
+भारतीय	B-ORG
+सांख्यिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+कोलकाता	B-LOC
+
+अर्नस्ट-हैपल-स्टेडियोन	O
+,	O
+वियना	B-LOC
+,	O
+ऑस्ट्रिया	B-LOC
+
+'	O
+''	O
+देखें	O
+,	O
+विक्टर	B-PER
+इमानुएल	I-PER
+द्वितीय	I-PER
+''	O
+'	O
+
+'	O
+''	O
+हुआन	B-PER
+मार्टिन	I-PER
+डेल	I-PER
+पोट्रो	I-PER
+''	O
+'	O
+
+परमाणु	B-ORG
+ऊर्जा	I-ORG
+आयोग	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+लोकमान्य	B-ORG
+तिलक	I-ORG
+टर्मिनस	I-ORG
+रेलवे	I-ORG
+स्टेशन	I-ORG
+
+**	O
+साओ	B-LOC
+पाउलो	I-LOC
+(	O
+जनरल-वाणिज्य	O
+दूतावास	O
+)	O
+
+पुनर्प्रेषित	O
+दृश्यम	B-ORG
+(	I-ORG
+२०१५	I-ORG
+फ़िल्म	I-ORG
+)	I-ORG
+
+'	O
+''	O
+संयुक्त	B-LOC
+राज्य	I-LOC
+अमेरिका	I-LOC
+''	O
+'	O

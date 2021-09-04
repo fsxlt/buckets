@@ -1,0 +1,41 @@
+đổi	O
+Thanh	B-LOC
+đạm	I-LOC
+lông	I-LOC
+mi	I-LOC
+
+'	O
+''	O
+Elvis	B-PER
+Presley	I-PER
+''	O
+'	O
+-	O
+''Roustabout	O
+''	O
+
+đổi	O
+Blackout	B-ORG
+(	I-ORG
+album	I-ORG
+của	I-ORG
+Britney	I-ORG
+Spears	I-ORG
+)	I-ORG
+
+Bành	B-ORG
+Vu	I-ORG
+Yến	I-ORG
+,	O
+diễn	O
+viên	O
+Đài	B-LOC
+Loan	I-LOC
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Marjorie	B-PER
+Wallace	I-PER

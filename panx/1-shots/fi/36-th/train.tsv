@@ -1,0 +1,24 @@
+Matkustajaliikenne	O
+keskittyy	O
+Etelä-	B-ORG
+ja	O
+Länsisatamaan	B-ORG
+ja	O
+tavaraliikenne	O
+Vuosaaren	B-ORG
+satamaan	I-ORG
+.	O
+
+Toinen	O
+oli	O
+Nathan	B-PER
+Bedford	I-PER
+Forrest	I-PER
+.	O
+
+Halifax]]	O
+,	O
+Nova	B-LOC
+Scotia	I-LOC
+,	O
+Kanada	B-LOC

@@ -1,0 +1,91 @@
+Maria	B-PER
+Sharapova	I-PER
+''	O
+(	O
+Juara	O
+Kedua	O
+)	O
+
+'	O
+''	O
+Mariya	B-PER
+Suzuki	I-PER
+''	O
+Sakiko	B-PER
+Matsui	I-PER
+
+ALIH	O
+Region	B-LOC
+Timur	I-LOC
+(	I-LOC
+Ghana	I-LOC
+)	I-LOC
+
+==	O
+Kepulauan	B-ORG
+Bangka	I-ORG
+Belitung	I-ORG
+==	O
+
+ALIH	O
+Arc	B-ORG
+de	I-ORG
+triomphe	I-ORG
+de	I-ORG
+l'Étoile	I-ORG
+
+25px]]	O
+'	O
+''	O
+Giancarlo	B-PER
+Fisichella	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aube	I-LOC
+
+Dengan	O
+penampilan	O
+sangat	O
+baik	O
+,	O
+ia	O
+menjadi	O
+salah	O
+satu	O
+faktor	O
+yang	O
+membuat	O
+Perseru	B-ORG
+Serui	I-ORG
+promosi	O
+ke	O
+Liga	B-ORG
+Super	I-ORG
+Indonesia	I-ORG
+.	O
+
+ALIH	O
+Teorema	B-ORG
+nilai	I-ORG
+purata	I-ORG
+
+ALIH	O
+Konstantin	B-LOC
+,	I-LOC
+Aljazair	I-LOC
+
+ALIH	O
+Juan	B-PER
+Manuel	I-PER
+Vargas	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Eure	I-LOC

@@ -1,0 +1,79 @@
+Thông	B-ORG
+tấn	I-ORG
+xã	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+
+Tào	B-PER
+Tháo	I-PER
+,	O
+Điển	B-PER
+Vi	I-PER
+
+Họ	B-LOC
+Hươu	I-LOC
+cao	I-LOC
+cổ	I-LOC
+
+đổi	O
+Xã	B-LOC
+Clay	I-LOC
+,	I-LOC
+Quận	I-LOC
+Scioto	I-LOC
+,	I-LOC
+Ohio	I-LOC
+
+``	O
+We	B-ORG
+Are	I-ORG
+Never	I-ORG
+Ever	I-ORG
+Getting	I-ORG
+Back	I-ORG
+Together	I-ORG
+''	O
+-	O
+Taylor	B-PER
+Swift	I-PER
+
+Khi	B-ORG
+bình	I-ORG
+minh	I-ORG
+đến	I-ORG
+
+Thị	B-LOC
+trấn	I-LOC
+của	I-LOC
+tỉnh	I-LOC
+Haut-Rhin	I-LOC
+
+đổi	O
+Xã	B-LOC
+Glendale	I-LOC
+,	I-LOC
+Quận	I-LOC
+Logan	I-LOC
+,	I-LOC
+Bắc	I-LOC
+Dakota	I-LOC
+
+Beauty	B-ORG
+and	I-ORG
+the	I-ORG
+Beast	I-ORG
+(	I-ORG
+nhạc	I-ORG
+phim	I-ORG
+)	I-ORG
+
+đổi	O
+Vladimir	B-PER
+Alekseyevich	I-PER
+Konkin	I-PER
+
+đổi	O
+Tây	B-PER
+Lương	I-PER
+Minh	I-PER
+Đế	I-PER

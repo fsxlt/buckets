@@ -1,0 +1,117 @@
+OHJAUS	O
+Gaius	B-PER
+Julius	I-PER
+Avitus	I-PER
+Alexianus	I-PER
+
+Nyt	O
+saatavilla	O
+on	O
+taas	O
+n.	O
+300	O
+omenalajiketta	O
+,	O
+joista	O
+10	O
+menestyy	O
+jopa	O
+Lapin	B-LOC
+läänin	I-LOC
+alueella	O
+.	O
+
+Hänen	O
+ensimmäinen	O
+MM-rallinsa	O
+oli	O
+Monte	B-LOC
+Carlo-ralli	I-LOC
+,	O
+joka	O
+päättyi	O
+ulosajoon	O
+.	O
+
+One	B-ORG
+Life	I-ORG
+to	I-ORG
+Live	I-ORG
+''	O
+
+Napoleon	B-PER
+III	I-PER
+huolestui	O
+tästä	O
+kehityksestä	O
+.	O
+
+Jenni	B-PER
+Mikkonen	I-PER
+(	O
+kajakkikaksikko	O
+500	O
+m	O
+)	O
+
+Karakorumin	B-ORG
+maantie	I-ORG
+yhdistää	O
+Kašgarin	B-LOC
+Pakistanin	B-LOC
+Islamabadiin	B-LOC
+.	O
+
+Hän	O
+nimesi	O
+itsensä	O
+Kontrolloijaksi	O
+ja	O
+suunnitteli	O
+orjuuttavansa	O
+koko	O
+New	B-LOC
+Yorkin	I-LOC
+.	O
+
+Asukkaista	O
+17	O
+132	O
+asui	O
+saaren	O
+pääkaupungissa	O
+Santa	B-LOC
+Cruz	I-LOC
+de	I-LOC
+La	I-LOC
+Palmassa	I-LOC
+.	O
+
+30	O
+Jakub	B-PER
+Krejčík	I-PER
+(	O
+Slavia	B-ORG
+Praha	I-ORG
+)	O
+
+Hän	O
+on	O
+mukana	O
+taiteilijakollektiivi	O
+Helsinki	B-ORG
+Schoolin	I-ORG
+toiminnassa	O
+.	O
+
+Saarelta	O
+lähti	O
+1900-luvun	O
+alussa	O
+paljon	O
+ihmisiä	O
+siirtolaisiksi	O
+Yhdysvaltoihin	B-LOC
+ja	O
+Australiaan	B-LOC
+.	O

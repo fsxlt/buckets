@@ -1,0 +1,133 @@
+YÖNLENDİRME	O
+Fraşırili	B-PER
+Abdül	I-PER
+Bey	I-PER
+
+:	O
+'	O
+''	O
+Not	O
+:	O
+'	O
+''	O
+''Tablo	O
+Süper	B-ORG
+Lig	I-ORG
+sezonlarını	O
+içerir	O
+.	O
+
+YÖNLENDİRME	O
+Kilikya	B-ORG
+Ermeni	I-ORG
+Krallığı	I-ORG
+
+The	B-PER
+Notorious	I-PER
+B.I.G	I-PER
+.	I-PER
+(	O
+ö	O
+.	O
+
+Scarlett	B-PER
+Johansson	I-PER
+ve	O
+Joaquin	B-PER
+Phoenix	I-PER
+
+YÖNLENDİRME	O
+Karacaören	B-LOC
+,	I-LOC
+Şuhut	I-LOC
+
+YÖNLENDİRME	O
+Derecikören	B-LOC
+,	I-LOC
+Gölpazarı	I-LOC
+
+Ziyaretçi	O
+çekimi	O
+sırasında	O
+ikinci	O
+olan	O
+Arizona	B-LOC
+eyaletınde	O
+bulunan	O
+Büyük	B-LOC
+Kanyon	I-LOC
+Ulusal	I-LOC
+Parkı'dır	I-LOC
+ve	O
+bu	O
+parka	O
+2011'de	O
+gelen	O
+ziyaretçi	O
+sayısı	O
+4.298.178	O
+kişi	O
+olmuştur	O
+.	O
+
+YÖNLENDİRME	O
+Türk	B-ORG
+Hava	I-ORG
+Yolları	I-ORG
+
+Şirketin	O
+merkezi	O
+Poznań	B-LOC
+yakınlarında	O
+Bolechowo'da	O
+yer	O
+almaktadır	O
+.	O
+
+'	O
+''	O
+Ergül	B-PER
+Avcı	I-PER
+''	O
+'	O
+
+Cumhuriyet	B-ORG
+Halk	I-ORG
+Partisi	I-ORG
+ve	O
+Adalet	B-ORG
+ve	I-ORG
+Kalkınma	I-ORG
+Partisi'de	I-ORG
+1'er	O
+milletvekili	O
+artarken	O
+,	O
+Milliyetçi	B-ORG
+Hareket	I-ORG
+Partisi	I-ORG
+ve	O
+Halkların	B-ORG
+Demokratik	I-ORG
+Partisi'nde	I-ORG
+ise	O
+1'er	O
+milletvekili	O
+azalmıştır	O
+.	O
+
+YÖNLENDİRME	O
+Groß-Rosen	B-LOC
+Toplama	I-LOC
+Kampı	I-LOC
+
+Hakimiyet	O
+bölgeleri	O
+günümüz	O
+İngiltere'sinin	B-LOC
+Norfolk	B-LOC
+ve	O
+Suffolk	B-LOC
+bölgelerini	O
+kapsamaktadır	O
+.	O

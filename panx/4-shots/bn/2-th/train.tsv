@@ -1,0 +1,69 @@
+২০১১	B-ORG
+ক্রিকেট	I-ORG
+বিশ্বকাপ	I-ORG
+ফাইনাল	I-ORG
+
+'	O
+''	O
+ঢাকা	B-LOC
+''	O
+'	O
+
+চুনারুঘাট	B-LOC
+উপজেলা	I-LOC
+এবং	O
+মাধবপুর	B-LOC
+উপজেলা	I-LOC
+
+উমর	B-PER
+ইবনে	I-PER
+আবদুল	I-PER
+আজিজ	I-PER
+
+সঁত্র্‌	B-ORG
+জর্জ	I-ORG
+পম্পিদু	I-ORG
+
+সমরেশ	B-PER
+বসু	I-PER
+,	O
+ঔপন্যাসিক।	O
+
+ঋতুপর্ণ	B-PER
+ঘোষ	I-PER
+,	O
+ইন্দ্রনীল	B-PER
+সেনগুপ্ত	I-PER
+,	O
+রাইমা	B-PER
+সেন	I-PER
+
+জর্জ	B-PER
+গর্ডন	I-PER
+বায়রন	I-PER
+
+লাওখোয়া	B-LOC
+বন্যপ্ৰাণ	I-LOC
+অভয়ারণ্য	I-LOC
+
+আমলা	B-LOC
+(	I-LOC
+মধ্য	I-LOC
+প্রদেশ	I-LOC
+)	I-LOC
+
+আন্তর্জাতিক	B-ORG
+অলিম্পিক	I-ORG
+কমিটি	I-ORG
+
+হারারে	B-LOC
+স্পোর্টস	I-LOC
+ক্লাব	I-LOC
+,	O
+হারারে	B-LOC
+
+শিক্ষা	B-ORG
+মন্ত্রণালয়	I-ORG
+(	I-ORG
+বাংলাদেশ	I-ORG
+)	I-ORG

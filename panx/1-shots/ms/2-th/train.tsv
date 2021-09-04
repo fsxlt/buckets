@@ -1,0 +1,20 @@
+Yu	B-PER
+Aida	I-PER
+(	O
+相田	O
+裕	O
+)	O
+
+Mudi	B-ORG
+(	O
+''Mudi	O
+''	O
+)	O
+
+Estádio	B-ORG
+Beira-Rio	I-ORG
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brazil	B-LOC

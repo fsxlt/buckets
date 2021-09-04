@@ -1,0 +1,82 @@
+24	B-ORG
+(	I-ORG
+टीवी	I-ORG
+शृंखला	I-ORG
+)	I-ORG
+
+बोस्टन	B-LOC
+,	O
+संयुक्त	B-LOC
+राज्य	I-LOC
+अमेरिका	I-LOC
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+२१	I-ORG
+
+सोनी	B-PER
+राज़दान	I-PER
+-	O
+मान्या	O
+की	O
+माँ	O
+
+नरसिंहवर्मन	B-PER
+१	I-PER
+(	O
+ममल्ल	O
+)	O
+630	O
+-	O
+668	O
+ई	O
+.	O
+
+अनुप्रेषित	O
+ऐन्डीज़	B-LOC
+पर्वत	I-LOC
+शृंखला	I-LOC
+
+यहाँ	B-ORG
+मैं	I-ORG
+घर	I-ORG
+घर	I-ORG
+खेली	I-ORG
+
+'	O
+''	O
+हरिद्वार	B-LOC
+''	O
+'	O
+
+गुरु	B-PER
+राम	I-PER
+दास	I-PER
+
+भारतीय	B-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+खड़गपुर	I-ORG
+
+मेँ	O
+वे	O
+भुवनेश्वर	B-LOC
+और	O
+पुरी	B-LOC
+भ्रमण	O
+करने	O
+गये।	O
+
+पुनर्प्रेषित	O
+फ़ोर्थ	B-LOC
+का	I-LOC
+नदमुख	I-LOC
+
+ब्रिटेन	B-PER
+के	I-PER
+प्रधान	I-PER
+मन्त्री	I-PER
+
+उत्तर	B-LOC
+ख़ोरासान	I-LOC
+प्रांत	I-LOC

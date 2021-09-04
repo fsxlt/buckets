@@ -1,0 +1,46 @@
+الشيخ	O
+محمد	B-PER
+مهدي	I-PER
+شمس	I-PER
+الدين	I-PER
+.	O
+
+تحويل	O
+صالح	B-PER
+عبد	I-PER
+الله	I-PER
+كامل	I-PER
+
+معظم	O
+اراضيه	O
+يقع	O
+عليه	O
+مخيم	B-ORG
+البرج	I-ORG
+الشمالي	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+سوليفان	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+غاريت	I-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+أي	O
+أن	O
+إذا	O
+كانت	O
+هناك	O
+دالة	B-ORG
+هميومرفية	I-ORG
+مثل	O
+أن	O
+تكون	O
+.	O

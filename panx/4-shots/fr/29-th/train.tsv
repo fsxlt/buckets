@@ -1,0 +1,74 @@
+'	O
+''	O
+Ole	B-PER
+Einar	I-PER
+Bjørndalen	I-PER
+
+Dontnod	B-ORG
+Entertainment	I-ORG
+(	O
+France	B-LOC
+)	O
+
+Cartago	B-LOC
+(	I-LOC
+province	I-LOC
+)	I-LOC
+
+Dubaï]]	O
+,	O
+Émirats	B-LOC
+arabes	I-LOC
+unis	I-LOC
+
+'	O
+''	O
+Gigi	B-PER
+Fernández	I-PER
+Lori	B-PER
+McNeil	I-PER
+
+REDIRECTION	O
+Pál	B-PER
+Harkai	I-PER
+Schiller	I-PER
+
+Création	O
+au	O
+Grand	B-ORG
+Théâtre	I-ORG
+de	I-ORG
+Genève	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Dordogne	I-LOC
+
+Il	O
+évolue	O
+au	O
+poste	O
+arrière	B-PER
+latéral	I-PER
+.	O
+
+Singapore	B-ORG
+Airlines	I-ORG
+(	O
+Singapour	B-LOC
+)	O
+
+redirection	O
+Poisson	B-ORG
+cru	I-ORG
+à	I-ORG
+la	I-ORG
+tahitienne	I-ORG
+
+REDIRECTION	O
+Piéride	B-LOC
+du	I-LOC
+tapier	I-LOC

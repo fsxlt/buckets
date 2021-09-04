@@ -1,0 +1,113 @@
+Бистрица	B-LOC
+(	O
+322	O
+km	O
+)	O
+,	O
+влива	O
+се	O
+в	O
+Бяло	B-LOC
+море	I-LOC
+
+Джовани	B-PER
+Мария	I-PER
+Висконти	I-PER
+(	O
+1388–1412	O
+,	O
+убит	O
+)	O
+,	O
+2	O
+.	O
+
+Намира	O
+се	O
+в	O
+Западната	B-LOC
+провинция	I-LOC
+на	O
+страната	O
+.	O
+
+пренасочване	O
+Безмер	B-LOC
+(	I-LOC
+област	I-LOC
+Ямбол	I-LOC
+)	I-LOC
+
+пренасочване	O
+Рио	B-ORG
+–	I-ORG
+Нитерой	I-ORG
+(	I-ORG
+мост	I-ORG
+)	I-ORG
+
+пренасочване	O
+Apple	B-ORG
+Inc	I-ORG
+.	I-ORG
+
+'	O
+''	O
+Голди	B-PER
+Хоун	I-PER
+''	O
+'	O
+
+Роджър	B-PER
+Федерер	I-PER
+''	O
+(	O
+Финал	O
+,	O
+Сребърен	O
+медал	O
+)	O
+
+участък	O
+от	O
+12,8	O
+km	O
+от	O
+Републикански	B-ORG
+път	I-ORG
+I-9	I-ORG
+(	O
+от	O
+km	O
+137,2	O
+до	O
+km	O
+150,0	O
+)	O
+;	O
+
+Дейв	B-PER
+Мъри	I-PER
+(	O
+р	O
+.	O
+
+пренасочване	O
+Централен	B-ORG
+парк	I-ORG
+Горки	I-ORG
+
+Разпространен	O
+е	O
+в	O
+Екваториална	B-LOC
+Гвинея	I-LOC
+(	O
+Биоко	B-LOC
+)	O
+и	O
+Сао	B-LOC
+Томе	I-LOC
+и	I-LOC
+Принсипи	I-LOC
+.	O

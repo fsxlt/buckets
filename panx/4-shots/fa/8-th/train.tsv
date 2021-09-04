@@ -1,0 +1,72 @@
+تغییر_مسیر	O
+یوزف	B-PER
+دوم،	I-PER
+امپراتور	I-PER
+مقدس	I-PER
+روم	I-PER
+
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+ایتالیا	I-ORG
+
+تغییرمسیر	O
+شیرن	B-LOC
+(	I-LOC
+آلمان	I-LOC
+)	I-LOC
+
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+آلمان	I-ORG
+
+تغییرمسیر	O
+عایشه	B-PER
+حفصه	I-PER
+سلطان	I-PER
+
+تغییرمسیر	O
+خورشیدگرفتگی	B-ORG
+۱۷	I-ORG
+فوریه	I-ORG
+۲۰۶۴	I-ORG
+
+تغییرمسیر	O
+زیارتگاه	B-LOC
+(	I-LOC
+شهرضا	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+سنت.	B-LOC
+جیمز	I-LOC
+پریش	I-LOC
+
+شعار	O
+علیه	O
+سید	B-PER
+حسن	I-PER
+خمینی	I-PER
+و	O
+برهم	O
+زدن	O
+مراسم	O
+۱۴	O
+خرداد	O
+
+تغییرمسیر	O
+نیاب	B-LOC
+(	I-LOC
+اسفراین	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+مجموعه	B-ORG
+ورزشی	I-ORG
+تانچئون	I-ORG
+
+تغییر_مسیر	O
+کارل	B-PER
+لملی	I-PER
+جونیور	I-PER

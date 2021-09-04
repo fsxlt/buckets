@@ -1,0 +1,40 @@
+Wizara	B-ORG
+ya	I-ORG
+Ushirikiano	I-ORG
+wa	I-ORG
+Afrika	I-ORG
+ya	I-ORG
+Mashariki	I-ORG
+,	I-ORG
+Tanzania	I-ORG
+
+Uhusika	O
+huu	O
+ulichezwa	O
+na	O
+Wentworth	B-PER
+Miller	I-PER
+.	O
+
+Alex	B-PER
+La	I-PER
+Guma	I-PER
+(	O
+1925-1985	O
+)	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30204	O
+.	O
+
+Party	B-ORG
+of	I-ORG
+National	I-ORG
+Unity	I-ORG
+
+Mkoa	B-LOC
+wa	I-LOC
+Mwaro	I-LOC

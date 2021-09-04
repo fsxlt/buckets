@@ -1,0 +1,41 @@
+ÁTIRÁNYÍTÁS	O
+Morgan	B-LOC
+megye	I-LOC
+(	I-LOC
+Nyugat-Virginia	I-LOC
+)	I-LOC
+
+Pázmány	B-ORG
+Péter	I-ORG
+Katolikus	I-ORG
+Egyetem	I-ORG
+-	O
+Bölcsészettudományi	O
+Kar	O
+
+Avril	B-PER
+Lavigne	I-PER
+–	O
+Under	B-ORG
+My	I-ORG
+Skin	I-ORG
+''	O
+
+Vaszilij	B-PER
+Szmiszlov	I-PER
+(	O
++6	O
+−0	O
+=6	O
+)	O
+
+''	O
+Sinsheim	B-LOC
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Cervantes	B-LOC
+(	I-LOC
+Galicia	I-LOC
+)	I-LOC

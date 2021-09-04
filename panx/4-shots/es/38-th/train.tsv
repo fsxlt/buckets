@@ -1,0 +1,103 @@
+''	O
+'1998-99	O
+''	O
+'	O
+Marathon	B-ORG
+Franca	I-ORG
+Sao	I-ORG
+Paulo	I-ORG
+.	O
+
+Departamento	B-LOC
+del	I-LOC
+Bajo	I-LOC
+Rin	I-LOC
+
+'	O
+''	O
+Penélope	B-PER
+Cruz	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Star	B-ORG
+Wars	I-ORG
+:	I-ORG
+The	I-ORG
+Clone	I-ORG
+Wars	I-ORG
+(	I-ORG
+serie	I-ORG
+de	I-ORG
+televisión	I-ORG
+de	I-ORG
+2008	I-ORG
+)	I-ORG
+
+El	O
+territorio	O
+actualmente	O
+está	O
+repartido	O
+entre	O
+Brunéi	B-LOC
+,	O
+Timor	B-LOC
+Oriental	I-LOC
+,	O
+Indonesia	B-LOC
+,	O
+y	O
+Malasia	B-LOC
+.	O
+
+REDIRECCIÓN	O
+Policía	B-ORG
+de	I-ORG
+la	I-ORG
+Provincia	I-ORG
+de	I-ORG
+Santa	I-ORG
+Fe	I-ORG
+
+'	O
+''	O
+Martin	B-PER
+Kližan	I-PER
+''	O
+'	O
+'	O
+''	O
+Alessandro	B-PER
+Motti	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+San	B-LOC
+Cristóbal	I-LOC
+(	I-LOC
+Arenas	I-LOC
+de	I-LOC
+Iguña	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+Woodstock	I-LOC
+(	I-LOC
+Illinois	I-LOC
+)	I-LOC
+
+Edward	B-PER
+Wilber	I-PER
+Berry	I-PER
+
+Brandon	B-PER
+Paul	I-PER
+-	O
+Illinois	B-ORG
+Fighting	I-ORG
+Illini	I-ORG

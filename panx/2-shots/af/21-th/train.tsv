@@ -1,0 +1,48 @@
+Hendrik	B-PER
+van	I-PER
+der	I-PER
+Bijl	I-PER
+-	O
+industrialis	O
+
+Dit	O
+word	O
+in	O
+die	O
+weste	O
+en	O
+die	O
+suide	O
+deur	O
+die	O
+grensrivier	O
+Ryn	B-LOC
+begrens	O
+.	O
+
+Federale	B-LOC
+stad	I-LOC
+Sint	B-LOC
+Petersburg	I-LOC
+
+Patricia	B-PER
+de	I-PER
+Lille	I-PER
+,	O
+leier	O
+van	O
+die	O
+Onafhanklike	B-ORG
+Demokrate	I-ORG
+.	O
+
+30	B-LOC
+Mei	I-LOC
+–	O
+Die	O
+Europese	B-ORG
+Ruimtevaartorganisasie	I-ORG
+word	O
+amptelik	O
+gestig	O
+.	O

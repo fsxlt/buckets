@@ -1,0 +1,137 @@
+'	O
+''	O
+Yas	B-LOC
+Marina-renbaan	I-LOC
+''	O
+'	O
+
+Daarna	O
+was	O
+dit	O
+oorgedra	O
+na	O
+die	O
+nedersetting	O
+by	O
+New	B-LOC
+Orleans	I-LOC
+.	O
+
+Die	O
+dam	O
+se	O
+naam	O
+is	O
+later	O
+na	O
+die	O
+Kwenadam	B-ORG
+verander	O
+.	O
+
+NSU	B-ORG
+Motorenwerke	I-ORG
+AG	I-ORG
+
+Pous	B-PER
+Johannes	I-PER
+XV	I-PER
+(	O
+985-996	O
+)	O
+
+Lockerbie	B-LOC
+,	O
+Skotland	B-LOC
+,	O
+Verenigde	B-LOC
+Koninkryk	I-LOC
+
+FIFA	B-ORG
+Sokker-Wêreldbekertoernooi	I-ORG
+in	I-ORG
+2014	I-ORG
+
+Dit	O
+is	O
+’n	O
+nieregeringsorganisasie	O
+met	O
+amptelike	O
+bande	O
+met	O
+die	O
+Verenigde	B-ORG
+Nasies	I-ORG
+.	O
+
+Die	O
+brug	O
+en	O
+grenspos	O
+is	O
+na	O
+die	O
+mynmagnaat	O
+Alfred	B-PER
+Beit	I-PER
+vernoem	O
+,	O
+wat	O
+fondse	O
+vir	O
+die	O
+konstruksie	O
+voorsien	O
+het	O
+.	O
+
+AANSTUUR	O
+Hongaarse	B-ORG
+Sosialistiese	I-ORG
+Party	I-ORG
+
+Daar	O
+is	O
+ook	O
+sprekers	O
+in	O
+res	O
+van	O
+die	O
+wêreld	O
+,	O
+vernaamlik	O
+in	O
+Engeland	B-LOC
+,	O
+die	O
+Verenigde	B-LOC
+State	I-LOC
+,	O
+Kanada	B-LOC
+,	O
+Australië	B-LOC
+en	O
+Nieu-Seeland	B-LOC
+.	O
+
+**	O
+Jane	B-PER
+Fonda	I-PER
+–	O
+''The	O
+Morning	O
+After	O
+''	O
+
+Freud	B-PER
+,	I-PER
+Sigmund	I-PER
+.	O
+
+'	O
+''	O
+Fukuoka	B-LOC
+''	O
+'	O

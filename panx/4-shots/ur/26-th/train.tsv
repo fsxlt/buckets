@@ -1,0 +1,78 @@
+رجوع_مکرر	O
+آرمی	B-ORG
+پبلک	I-ORG
+اسکول	I-ORG
+اینڈ	I-ORG
+کالج	I-ORG
+سسٹم	I-ORG
+
+رجوع_مکرر	O
+نیشنل	B-ORG
+پارٹی	I-ORG
+(	I-ORG
+پاکستان	I-ORG
+)	I-ORG
+
+عصمت	B-PER
+انونو	I-PER
+(	O
+1884–1973	O
+)	O
+
+رجوع_مکرر	O
+کونوے،	B-LOC
+نیو	I-LOC
+ہیمپشائر	I-LOC
+
+رجوع_مکرر	O
+گنی	B-LOC
+بساؤ	I-LOC
+کے	I-LOC
+علاقہ	I-LOC
+جات	I-LOC
+
+رجوع_مکرر	O
+اڈوارڈ	B-PER
+وکٹر	I-PER
+اپلیٹن	I-PER
+
+رجوع_مکرر	O
+سری	B-ORG
+لنکا	I-ORG
+کے	I-ORG
+ڈویژنل	I-ORG
+سیکریٹریٹ	I-ORG
+
+'	O
+''	O
+عبد	B-PER
+الرحمٰن	I-PER
+الناصر	I-PER
+''	O
+'	O
+-	O
+اندلس	B-LOC
+میں	O
+خلافت	B-ORG
+امویہ	I-ORG
+کا	O
+سب	O
+سے	O
+مشہور	O
+حکمران	O
+
+رجوع_مکرر	O
+سالٹ	B-LOC
+لک،	I-LOC
+کینٹکی	I-LOC
+
+رجوع_مکرر	O
+ڈیوڈلی	B-PER
+آر	I-PER
+ہرچبچ	I-PER
+
+رجوع_مکرر	O
+شیرڈین	B-LOC
+کاؤنٹی،	I-LOC
+شمالی	I-LOC
+ڈکوٹا	I-LOC

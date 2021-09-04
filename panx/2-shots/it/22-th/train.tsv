@@ -1,0 +1,47 @@
+Post-Filosofia	O
+di	O
+Richard	B-PER
+Rorty	I-PER
+.	O
+
+''Joyride	O
+''	O
+-	O
+episodio	O
+di	O
+X-Men	B-ORG
+:	I-ORG
+Evolution	I-ORG
+''	O
+
+Las	B-ORG
+Vegas	I-ORG
+Strip	I-ORG
+,	O
+Las	B-LOC
+Vegas	I-LOC
+,	O
+Nevada	B-LOC
+
+Contea	B-LOC
+di	I-LOC
+Northampton	I-LOC
+(	I-LOC
+Australia	I-LOC
+)	I-LOC
+
+Mönchengladbach	B-LOC
+-	O
+Düsseldorf	B-LOC
+-	O
+Essen	B-LOC
+-	O
+Gelsenkirchen	B-LOC
+
+Matt	B-PER
+Anger	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O

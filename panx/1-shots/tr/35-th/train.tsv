@@ -1,0 +1,20 @@
+Saltanatı	O
+I.	B-PER
+Ahmed	I-PER
+dönemine	O
+rastgelmektedir	O
+.	O
+
+Dubai	B-LOC
+,	O
+Birleşik	B-LOC
+Arap	I-LOC
+Emirlikleri'nde	I-LOC
+yaşamaktaydi	O
+.	O
+
+YÖNLENDİR	O
+Adalet	B-ORG
+ve	I-ORG
+Kalkınma	I-ORG
+Partisi	I-ORG

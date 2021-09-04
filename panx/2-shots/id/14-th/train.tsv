@@ -1,0 +1,64 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Indre	I-LOC
+
+ALIH	O
+Daftar	B-ORG
+Presiden	I-ORG
+Timor	I-ORG
+Leste	I-ORG
+
+Ia	O
+mengalahkan	O
+mantan	O
+peringkat	O
+pertama	O
+Juan	B-PER
+Carlos	I-PER
+Ferrero	I-PER
+tiga	O
+set	O
+langsung	O
+pada	O
+putaran	O
+pertama	O
+,	O
+kemudian	O
+mengalahkan	O
+Michaël	B-PER
+Llodra	I-PER
+di	O
+putaran	O
+kedua	O
+setelah	O
+memutuskan	O
+untuk	O
+berhenti	O
+,	O
+tertinggal	O
+di	O
+set	O
+kedua	O
+.	O
+
+Dia	O
+menjawab	O
+``	O
+Ali	B-PER
+bin	I-PER
+Husain	I-PER
+''	O
+.	O
+
+Angkatan	B-ORG
+Udara	I-ORG
+Rusia	I-ORG
+7	O
+aktif	O
+
+ALIH	O
+Mankato	B-LOC
+,	I-LOC
+Minnesota	I-LOC

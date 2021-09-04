@@ -1,0 +1,33 @@
+Dalarna	B-LOC
+megye	I-LOC
+és	O
+Jämtland	B-LOC
+megye	I-LOC
+
+'	O
+''	O
+Széll	B-ORG
+Kálmán	I-ORG
+tér	I-ORG
+M	O
+''	O
+'végállomás	O
+
+—	O
+Felipe	B-PER
+Nasr	I-PER
+autója	O
+a	O
+kivezető	O
+körön	O
+váltóhiba	O
+miatt	O
+megállt	O
+,	O
+ezért	O
+nem	O
+tudott	O
+elrajtolni	O
+a	O
+futamon	O
+.	O

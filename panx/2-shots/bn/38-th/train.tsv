@@ -1,0 +1,34 @@
+আমির	B-PER
+আবদুল্লাহ	I-PER
+খান	I-PER
+নিয়াজী	I-PER
+
+জেট	B-ORG
+প্রপালশন	I-ORG
+ল্যাবরেটরি	I-ORG
+
+রেডিং	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+ভুবন	B-LOC
+চিল	I-LOC
+(	O
+''Milvus	O
+migrans	O
+''	O
+)	O
+
+তেইরা	B-LOC
+কাঁটা	I-LOC
+,	O
+''Mimosa	O
+diplotricha	O
+''	O
+C.Wright	O
+ex	O
+Sauvalle	O
+
+জন	B-PER
+ল্য	I-PER
+কারে	I-PER

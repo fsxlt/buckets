@@ -1,0 +1,53 @@
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Θόλος	B-ORG
+του	I-ORG
+Βράχου	I-ORG
+
+'	O
+''	O
+Λι	B-PER
+Κέρσλεηκ	I-PER
+''	O
+'	O
+-	O
+''τύμπανα	O
+''	O
+
+'	O
+''	O
+Αυστρία	B-LOC
+''	O
+'	O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Bowling	B-ORG
+for	I-ORG
+Soup	I-ORG
+
+'	O
+''	O
+Ίαν	B-PER
+Πέις	I-PER
+''	O
+'	O
+-	O
+''τύμπανα	O
+''	O
+
+Φρεγάτα	B-LOC
+της	I-LOC
+Νήσου	I-LOC
+των	I-LOC
+Χριστουγέννων	I-LOC
+(	O
+''Fregata	O
+andrewsi	O
+''	O
+)	O
+
+==	O
+--	O
+Δήμος	B-LOC
+Είρας	I-LOC
+--	O
+==	O

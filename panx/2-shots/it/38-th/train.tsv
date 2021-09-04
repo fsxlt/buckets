@@ -1,0 +1,47 @@
+Yes	B-ORG
+!	I-ORG
+Pretty	I-ORG
+Cure	I-ORG
+5	I-ORG
+;	O
+
+Primo	B-ORG
+Partito	I-ORG
+di	I-ORG
+Lettonia	I-ORG
+-	I-ORG
+Via	I-ORG
+Lettone	I-ORG
+
+Ungureni	B-LOC
+(	I-LOC
+Botoșani	I-LOC
+)	I-LOC
+
+La	O
+sede	O
+del	O
+OSPA	O
+è	O
+Città	B-LOC
+del	I-LOC
+Messico	I-LOC
+.	O
+
+in	O
+Francia	B-LOC
+(	O
+''S.O.S	O
+.	O
+
+'	O
+''	O
+Dara	B-PER
+Torres	I-PER
+''	O
+'	O
+
+Tyler	B-PER
+,	I-PER
+The	I-PER
+Creator	I-PER

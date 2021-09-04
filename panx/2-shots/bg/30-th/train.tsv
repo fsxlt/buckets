@@ -1,0 +1,55 @@
+Entertainment	B-ORG
+Software	I-ORG
+Rating	I-ORG
+Board	I-ORG
+
+пренасочване	O
+Американска	B-ORG
+психологична	I-ORG
+асоциация	I-ORG
+
+Аниций	B-PER
+Авхений	I-PER
+Бас	I-PER
+(	I-PER
+консул	I-PER
+431	I-PER
+г	I-PER
+.	I-PER
+)	I-PER
+
+'	O
+''	O
+Франсоа	B-PER
+Север	I-PER
+''	O
+'	O
+
+Разпространен	O
+е	O
+в	O
+Албания	B-LOC
+,	O
+Хърватия	B-LOC
+и	O
+Черна	B-LOC
+гора	I-LOC
+.	O
+
+От	O
+Бъндеришките	B-LOC
+езера	I-LOC
+изглежда	O
+незначителен	O
+,	O
+но	O
+от	O
+страната	O
+на	O
+Василашките	B-LOC
+езера	I-LOC
+е	O
+внушителен	O
+и	O
+красив	O
+.	O

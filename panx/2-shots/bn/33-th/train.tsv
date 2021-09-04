@@ -1,0 +1,36 @@
+ওসামা	B-PER
+বিন	I-PER
+লাদেন	I-PER
+
+উলিপুর	B-LOC
+উপজেলার	I-LOC
+অংশবিশেষ	O
+ও	O
+চিলমারী	B-LOC
+উপজেলার	I-LOC
+অংশবিশেষ	O
+
+অস্ট্রেলিয়া	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+ক্রিকেটের	B-ORG
+ইতিহাস	I-ORG
+১৭২৬	I-ORG
+-	I-ORG
+১৭৬৩	I-ORG
+
+''অভিমন্যু	O
+''	O
+চরিত্রে	O
+দেব	B-PER
+
+হলুদ	B-LOC
+পাহাড়ি	I-LOC
+কচ্ছপ	I-LOC
+
+ডলি	B-PER
+(	I-PER
+ভেড়া	I-PER
+)	I-PER

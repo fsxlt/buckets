@@ -1,0 +1,105 @@
+'	O
+''	O
+Нелсън	B-PER
+Пикет	I-PER
+''	O
+'	O
+
+Нейната	O
+дъщеря	O
+Корнелия	B-PER
+Метела	I-PER
+е	O
+последната	O
+жена	O
+на	O
+Помпей	B-PER
+Велики	I-PER
+.	O
+
+**	O
+Прага	B-LOC
+(	O
+посолство	O
+)	O
+
+Разпространен	O
+е	O
+в	O
+Бахамски	B-LOC
+острови	I-LOC
+.	O
+
+Той	O
+е	O
+ученик	O
+на	O
+Джовани	B-PER
+Белини	I-PER
+.	O
+
+Бяла	B-LOC
+Слатина	I-LOC
+за	O
+г	O
+.	O
+
+По	O
+външни	O
+белези	O
+наподобява	O
+газелата	B-LOC
+на	I-LOC
+Томсън	I-LOC
+.	O
+
+**	O
+Рияд	B-LOC
+(	O
+посолство	O
+)	O
+
+Министерство	B-ORG
+на	I-ORG
+външните	I-ORG
+работи	I-ORG
+(	I-ORG
+Бразилия	I-ORG
+)	I-ORG
+
+Зев	B-PER
+бен	I-PER
+Шимон	I-PER
+Халеви	I-PER
+
+виж	O
+Пункт	B-ORG
+(	I-ORG
+типография	I-ORG
+)	I-ORG
+
+виж	O
+'74	B-ORG
+Jailbreak	I-ORG
+(	I-ORG
+плоча	I-ORG
+)	I-ORG
+
+Храм	B-ORG
+на	I-ORG
+Венера	I-ORG
+и	I-ORG
+Рома	I-ORG
+
+е	O
+през	O
+1758	O
+година	O
+в	O
+Смолян	B-LOC
+,	O
+тогава	O
+в	O
+Османската	B-LOC
+империя	I-LOC
+.	O

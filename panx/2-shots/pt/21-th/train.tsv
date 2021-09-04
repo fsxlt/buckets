@@ -1,0 +1,36 @@
+``	O
+Thriller	B-ORG
+(	I-ORG
+canção	I-ORG
+)	I-ORG
+''	O
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+República	B-LOC
+da	I-LOC
+Irlanda	I-LOC
+
+Zachary	B-PER
+Hietala	I-PER
+-	O
+Guitarra	B-ORG
+
+Letícia	B-PER
+Spiller	I-PER
+-	O
+Gavita	O
+
+REDIRECIONAMENTO	O
+Lista	B-ORG
+de	I-ORG
+presidentes	I-ORG
+da	I-ORG
+Costa	I-ORG
+Rica	I-ORG

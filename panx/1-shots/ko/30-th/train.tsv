@@ -1,0 +1,45 @@
+또	O
+이시카와	B-PER
+리카가	I-PER
+졸업한	O
+후	O
+센터를	O
+맡았다	O
+.	O
+
+****	O
+숲들쥐	B-LOC
+(	O
+''Myodes	O
+rutilus	O
+''	O
+)	O
+
+피오	B-PER
+(	O
+블락비	B-ORG
+)	O
+
+노가타	B-LOC
+시	I-LOC
+,	O
+이즈카	B-LOC
+시	I-LOC
+,	O
+가마	B-LOC
+시	I-LOC
+,	O
+나카마	B-LOC
+시	I-LOC
+,	O
+미야와카	B-ORG
+시	I-ORG
+,	O
+온가	B-LOC
+군	I-LOC
+,	O
+구라테	B-LOC
+군	I-LOC
+,	O
+가호	B-LOC
+군	I-LOC

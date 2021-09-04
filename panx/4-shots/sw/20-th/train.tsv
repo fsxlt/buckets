@@ -1,0 +1,93 @@
+'	O
+''	O
+Work	B-ORG
+It	I-ORG
+Out”	I-ORG
+''	O
+'	O
+
+Songea	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Kikanisa	O
+linahusiana	O
+na	O
+Jimbo	B-ORG
+Kuu	I-ORG
+la	I-ORG
+Mwanza	I-ORG
+.	O
+
+Eneo	O
+lake	O
+ni	O
+42	O
+km²	B-ORG
+.	O
+
+'	O
+''	O
+Mengistu	B-PER
+Haile	I-PER
+Mariam	I-PER
+''	O
+'	O
+
+Maurice	B-PER
+Michael	I-PER
+Otunga	I-PER
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Nouakchott	B-LOC
+.	O
+
+José	B-PER
+Echegaray	I-PER
+y	I-PER
+Eizaguirre	I-PER
+
+Rahway	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Dominiko	B-PER
+Ibáñez	I-PER
+de	I-PER
+Erquicia	I-PER
+
+Vipimo	B-ORG
+sanifu	I-ORG
+vya	I-ORG
+kimataifa	I-ORG
+
+Pia	O
+kuna	O
+wasemaji	O
+nchini	O
+Msumbiji	B-LOC
+na	O
+Zimbabwe	B-LOC
+.	O
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Jibuti	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Juba	B-LOC
+,	O
+wenye	O
+wakazi	O
+1.118.233	O
+.	O

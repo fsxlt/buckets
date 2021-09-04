@@ -1,0 +1,37 @@
+suuna	O
+Eesti	B-ORG
+Diplomaatide	I-ORG
+Kool	I-ORG
+
+``	O
+Koerkorter	O
+''	O
+(	O
+Vaiko	B-PER
+Eplik	I-PER
+)	O
+–	O
+3:06	O
+
+Soome	B-ORG
+Demokraatlik	I-ORG
+Vabariik	I-ORG
+
+Leisi	B-LOC
+vald	I-LOC
+,	O
+Saare	B-LOC
+maakond	I-LOC
+
+Puka	B-LOC
+vald	I-LOC
+,	O
+Valga	B-LOC
+maakond	I-LOC
+
+'	O
+''	O
+Alexander	B-PER
+Rybak	I-PER
+''	O
+'	O

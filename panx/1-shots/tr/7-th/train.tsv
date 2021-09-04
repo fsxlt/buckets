@@ -1,0 +1,18 @@
+Arno	B-PER
+Allan	I-PER
+Penzias	I-PER
+
+Diğer	O
+takım	O
+Göztepe	B-ORG
+SK'dir	I-ORG
+.	O
+
+YÖNLENDİRME	O
+Clarence	B-LOC
+Adası	I-LOC
+(	I-LOC
+Güney	I-LOC
+Shetland	I-LOC
+Adaları	I-LOC
+)	I-LOC

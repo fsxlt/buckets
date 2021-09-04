@@ -1,0 +1,14 @@
+अफ्रीकन	B-ORG
+नेशनल	I-ORG
+कांग्रेस	I-ORG
+
+अभय	B-PER
+देयोल	I-PER
+,	O
+सोनम	B-PER
+कपूर	I-PER
+
+खान	B-LOC
+मार्किट	I-LOC
+,	I-LOC
+दिल्ली	I-LOC

@@ -1,0 +1,52 @@
+``	O
+The	B-ORG
+Girl	I-ORG
+Is	I-ORG
+Mine	I-ORG
+''	O
+(	O
+დუეტი	O
+პოლ	B-PER
+მაკ-კარტნისთან	I-PER
+)	O
+
+Here	B-ORG
+,	I-ORG
+There	I-ORG
+and	I-ORG
+Everywhere	I-ORG
+–	O
+3:18	O
+
+სათავეს	O
+იღებს	O
+ალპებში	B-LOC
+და	O
+ჩაედინება	O
+ადრიატიკის	B-LOC
+ზღვაში	I-LOC
+,	O
+ტრიესტსა	B-LOC
+და	O
+ვენეციას	B-LOC
+შორის	O
+.	O
+
+გადამისამართება	O
+ჩარლზი	B-PER
+(	I-PER
+უელსის	I-PER
+პრინცი	I-PER
+)	I-PER
+
+პირველი	O
+შეტაკება	O
+სიღნაღთან	B-LOC
+მოხდა	O
+.	O
+
+ეკუთვნის	O
+პაპუა-ახალი	B-LOC
+გვინეის	I-LOC
+სახელმწიფოს	O
+.	O

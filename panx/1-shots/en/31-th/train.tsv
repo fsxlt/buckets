@@ -1,0 +1,19 @@
+List	B-PER
+of	I-PER
+Serbian	I-PER
+monarchs	I-PER
+
+'	O
+''	O
+Ifni	B-LOC
+''	O
+'	O
+
+Aspropotamos	B-LOC
+,	I-LOC
+Trikala	I-LOC
+
+Dean	B-ORG
+Lane	I-ORG
+railway	I-ORG
+station	I-ORG

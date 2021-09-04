@@ -1,0 +1,96 @@
+Ia	O
+memegang	O
+keyakinan	O
+bahwa	O
+Allah	O
+adalah	O
+sosok	O
+pribadi	O
+,	O
+yang	O
+berbeda	O
+dengan	O
+pandangan	O
+sahabatnya	O
+,	O
+Albert	B-PER
+Einstein	I-PER
+.	O
+
+Light	B-LOC
+Rail	I-LOC
+Transit	I-LOC
+(	I-LOC
+Singapura	I-LOC
+)	I-LOC
+
+Angkatan	B-ORG
+Laut	I-ORG
+Bela	I-ORG
+Diri	I-ORG
+Jepang	I-ORG
+
+Australia	B-LOC
+-	O
+Jennifer	B-PER
+Hawkins	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Yvelines	I-LOC
+
+Atal	B-PER
+Behari	I-PER
+Vajpayee	I-PER
+
+Kampus	O
+utamanya	O
+terletak	O
+di	O
+Shah	B-LOC
+Alam	I-LOC
+,	O
+Selangor	B-LOC
+,	O
+Malaysia	B-LOC
+.	O
+
+ALIH	O
+Audio	B-PER
+Video	I-PER
+Interleave	I-PER
+
+Daily	B-ORG
+News	I-ORG
+and	I-ORG
+Analysis	I-ORG
+
+Tahap-tahap	O
+ini	O
+semua	O
+berdasarkan	O
+lokasi	O
+nyata	O
+,	O
+seperti	O
+San	B-LOC
+Francisco	I-LOC
+dan	O
+Tokyo	B-ORG
+subway	I-ORG
+.	O
+
+Sedangkan	O
+Republik	B-ORG
+Rakyat	I-ORG
+Tiongkok	I-ORG
+dan	O
+Irak	B-ORG
+berhasil	O
+menembus	O
+masuk	O
+babak	O
+semifinal	O
+.	O

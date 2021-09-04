@@ -1,0 +1,47 @@
+Erroman	B-LOC
+,	O
+Maximinoren	B-PER
+Pretoriar	B-ORG
+Goardiako	I-ORG
+prefektoa	O
+hil	O
+zuten	O
+.	O
+
+Leccoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Bere	O
+izena	O
+Nikolai	B-PER
+Lobatxevskigatik	I-PER
+jasotzen	O
+du	O
+.	O
+
+'	O
+''	O
+HŠK	B-ORG
+Zrinjski	I-ORG
+Mostar	I-ORG
+''	O
+Bosnia-Herzegovina	B-LOC
+
+'	O
+''	O
+Jenson	B-PER
+Button	I-PER
+''	O
+'	O
+
+BIRZUZENDU	O
+Zell	B-LOC
+(	I-LOC
+Zürich	I-LOC
+)	I-LOC

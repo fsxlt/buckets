@@ -1,0 +1,67 @@
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG

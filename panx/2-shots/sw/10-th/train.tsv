@@ -1,0 +1,45 @@
+'	O
+''	O
+Sahle	B-PER
+Dengel	I-PER
+''	O
+'	O
+
+Franklin	B-PER
+D.	I-PER
+Roosevelt	I-PER
+
+``	O
+I	B-ORG
+Got	I-ORG
+a	I-ORG
+Girl	I-ORG
+''	O
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Zwolle	B-LOC
+.	O
+
+Mkoa	B-LOC
+wa	I-LOC
+Mwaro	I-LOC
+
+Ushindi	O
+ulichukuliwa	O
+na	O
+Chama	B-ORG
+cha	I-ORG
+Mapinduzi	I-ORG
+cha	I-ORG
+Kidemokrasi	I-ORG
+cha	I-ORG
+Watu	I-ORG
+wa	I-ORG
+Ethiopia	I-ORG
+(	O
+EPRDF	O
+)	O
+.	O

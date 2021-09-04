@@ -1,0 +1,42 @@
+History	B-LOC
+of	I-LOC
+Western	I-LOC
+Australia	I-LOC
+
+Lower	B-ORG
+Klamath	I-ORG
+National	I-ORG
+Wildlife	I-ORG
+Refuge	I-ORG
+
+'	O
+''	O
+With	O
+Art	B-PER
+Farmer	I-PER
+''	O
+'	O
+
+''	O
+Monochroa	B-LOC
+arundinetella	I-LOC
+''	O
+(	O
+Stainton	O
+,	O
+1858	O
+)	O
+
+Party	B-ORG
+of	I-ORG
+Regions	I-ORG
+,	O
+№	O
+166	O
+
+Jodi	B-PER
+Albert	I-PER
+(	O
+Debbie	B-PER
+Dean	I-PER
+)	O

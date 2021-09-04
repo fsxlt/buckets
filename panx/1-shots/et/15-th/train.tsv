@@ -1,0 +1,52 @@
+aastal	O
+)	O
+,	O
+San	B-LOC
+Marino	I-LOC
+,	O
+(	O
+osales	O
+viimati	O
+2008	B-ORG
+.	O
+
+Adolf	B-PER
+Hitler	I-PER
+ei	O
+lubanud	O
+linna	O
+kaitsvatel	O
+sõjavägedel	O
+linna	O
+loovutada	O
+.	O
+
+Caddo	B-ORG
+vald	I-ORG
+(	O
+kirdes	O
+)	O
+
+Ta	O
+asub	O
+Kohtla-Järvest	B-LOC
+ja	O
+Jõhvist	B-LOC
+lõuna	O
+pool	O
+kuni	O
+Atsalama	B-LOC
+ja	O
+Ohakvere	B-LOC
+külani	O
+.	O
+
+Smilers	B-ORG
+–	O
+``	O
+Sinu	O
+süles	O
+''	O
+(	O
+569	O
+)	O

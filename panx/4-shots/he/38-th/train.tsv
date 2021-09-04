@@ -1,0 +1,116 @@
+העיר	O
+ג'דה	B-LOC
+הצליחה	O
+להישאר	O
+מחוץ	O
+לתום	O
+שלטונו	O
+.	O
+
+מבוסס	O
+על	O
+ספרטקוס	B-PER
+באופיו	O
+ועל	O
+קירק	B-PER
+דאגלס	I-PER
+במראהו	O
+.	O
+
+'	O
+''	O
+סם	B-PER
+בראונבק	I-PER
+''	O
+'	O
+
+נשוי	O
+ואב	O
+לשבעה	O
+ומתגורר	O
+ביתר	B-LOC
+עילית	I-LOC
+.	O
+
+בגיל	O
+שנה	O
+עברה	O
+משפחתו	O
+אוסטרליה	B-LOC
+,	O
+אחרי	O
+שאביו	O
+קיבל	O
+הצעה	O
+לשחק	O
+ליגת	B-ORG
+העל	I-ORG
+האוסטרלית	I-ORG
+.	O
+
+הפניה	O
+המחוז	B-LOC
+היהודי	I-LOC
+האוטונומי	I-LOC
+
+ריו	B-LOC
+דה	I-LOC
+ז'ניירו	I-LOC
+,	O
+ברזיל	B-LOC
+
+*חבר	O
+בוועדת	O
+התכנון	O
+של	O
+הר	B-LOC
+הרצל	I-LOC
+
+``	O
+Hot	B-ORG
+n	I-ORG
+Cold	I-ORG
+''	O
+
+הפניה	O
+R	B-ORG
+U	I-ORG
+Still	I-ORG
+Down	I-ORG
+?	I-ORG
+(	I-ORG
+Remember	I-ORG
+Me	I-ORG
+)	I-ORG
+
+בשיר	O
+משתתף	O
+ראפר	B-ORG
+ליל	B-PER
+ויין	I-PER
+.	O
+
+הפניה	O
+איזיאסלאב	B-PER
+הראשון	I-PER
+,	I-PER
+נסיך	I-PER
+קייב	I-PER
+
+התחנך	O
+ברזוויל	B-LOC
+,	O
+ולאחר	O
+לימודיו	O
+עבד	O
+זמן-מה	O
+בשירות	O
+הציבורי	O
+ולאחר	O
+מכן	O
+שירת	O
+כקצין	O
+חיל	B-ORG
+האוויר	I-ORG
+הצרפתי	I-ORG
+.	O

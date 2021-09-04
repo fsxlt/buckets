@@ -1,0 +1,30 @@
+Tufted	B-LOC
+duck	I-LOC
+,	O
+''Aythya	O
+fuligula	O
+''	O
+
+There	O
+he	O
+was	O
+brought	O
+into	O
+the	O
+Armed	B-ORG
+Resistance	I-ORG
+by	O
+Jan	B-PER
+Nowak-Jeziorański	I-PER
+.	O
+
+Communist	B-ORG
+Party	I-ORG
+of	I-ORG
+the	I-ORG
+Peoples	I-ORG
+of	I-ORG
+Spain	I-ORG
+(	O
+PCPE	O
+)	O

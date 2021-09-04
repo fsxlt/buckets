@@ -1,0 +1,47 @@
+Beste	O
+Originele	O
+Scenario	O
+-	O
+Colin	B-PER
+Welland	I-PER
+
+Hij	O
+stichtte	O
+de	O
+''Caisse	O
+de	O
+l'Escompte	O
+''	O
+,	O
+een	O
+voorloper	O
+van	O
+de	O
+Banque	B-ORG
+de	I-ORG
+France	I-ORG
+.	O
+
+Kali	B-LOC
+(	I-LOC
+Uttarakhand	I-LOC
+)	I-LOC
+-	O
+
+Het	O
+hoofdkwartier	O
+van	O
+het	O
+Korps	B-ORG
+Mariniers	I-ORG
+verhuisde	O
+naar	O
+Den	B-LOC
+Helder	I-LOC
+.	O
+
+Denis	B-PER
+Law	I-PER
+(	O
+1962-1973	O
+)	O

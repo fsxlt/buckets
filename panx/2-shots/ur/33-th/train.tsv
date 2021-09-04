@@ -1,0 +1,42 @@
+رجوع_مکرر	O
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+رجوع_مکرر	O
+جمہوریۂ	B-ORG
+چین	I-ORG
+کی	I-ORG
+انتظامی	I-ORG
+تقسیم	I-ORG
+
+رجوع_مکرر	O
+کینٹ	B-LOC
+کاؤنٹی،	I-LOC
+روڈ	I-LOC
+آئلینڈ	I-LOC
+
+رجوع_مکرر	O
+فقیر	B-ORG
+آباد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+صلاح	B-PER
+الدین	I-PER
+یوسف	I-PER
+بن	I-PER
+ایوب	I-PER
+1185–1193	O
+
+رجوع_مکرر	O
+لا	B-LOC
+سالی	I-LOC
+ٹاؤنشپ،	I-LOC
+مشی	I-LOC
+گن	I-LOC

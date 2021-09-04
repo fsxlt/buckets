@@ -1,0 +1,51 @@
+REDIRECCIÓN	O
+Football	B-LOC
+League	I-LOC
+One	I-LOC
+2012-13	I-LOC
+
+Acre	B-LOC
+-	O
+Binho	B-PER
+Marques	I-PER
+(	O
+PT	O
+)	O
+
+Ottobono	B-PER
+Fieschi	I-PER
+dei	I-PER
+Conti	I-PER
+di	I-PER
+Lavagna	I-PER
+
+El	O
+álbum	O
+debutó	O
+en	O
+el	O
+puesto	O
+8	O
+en	O
+el	O
+Billboard	B-LOC
+200	I-LOC
+con	O
+ventas	O
+cercanas	O
+a	O
+las	O
+39.500	O
+unidades	O
+.	O
+
+REDIRECCIÓN	O
+Liga	B-ORG
+de	I-ORG
+Delos	I-ORG
+
+Instituto	B-ORG
+para	I-ORG
+Mujeres	I-ORG
+de	I-ORG
+California	I-ORG

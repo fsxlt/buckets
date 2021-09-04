@@ -1,0 +1,70 @@
+رجوع_مکرر	O
+سلیمان	B-ORG
+آباد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+بیلیز	B-LOC
+کے	I-LOC
+اضلاع	I-LOC
+
+رجوع_مکرر	O
+زکسزے،	B-LOC
+ردومسکو	I-LOC
+کاؤنٹی	I-LOC
+
+رجوع_مکرر	O
+دیر	B-LOC
+(	I-LOC
+نوابی	I-LOC
+ریاست	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+عارف	B-PER
+حسین	I-PER
+الحسینی	I-PER
+
+رجوع_مکرر	O
+راشد	B-PER
+منہاس	I-PER
+شہید	I-PER
+
+بینک	B-ORG
+آف	I-ORG
+انگلینڈ	I-ORG
+
+رجوع_مکرر	O
+لاہی،	B-LOC
+لانی-ویرو	I-LOC
+کاؤنٹی	I-LOC
+
+رجوع_مکرر	O
+آئی	B-ORG
+بی	I-ORG
+ای	I-ORG
+ایکس	I-ORG
+ائیرلائنز	I-ORG
+
+آصف	B-PER
+احمد	I-PER
+علی،	I-PER
+(	O
+16-11-1993	O
+تا	O
+04-11-1996	O
+)	O
+
+رجوع_مکرر	O
+سینٹ	B-ORG
+میری	I-ORG
+پیرش،	I-ORG
+جمیکا	I-ORG
+
+رجوع_مکرر	O
+گورو	B-PER
+(	I-PER
+مارٹل	I-PER
+کامبیٹ	I-PER
+)	I-PER

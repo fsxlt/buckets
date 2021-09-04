@@ -1,0 +1,20 @@
+Non	B-ORG
+Zero	I-ORG
+Sumness	I-ORG
+,	O
+музыкальный	O
+альбом	O
+группы	O
+Planet	B-ORG
+Funk	I-ORG
+.	O
+
+Ампква	B-LOC
+(	I-LOC
+река	I-LOC
+)	I-LOC
+
+Григорьев	B-PER
+,	I-PER
+Александр	I-PER
+Андреевич	I-PER

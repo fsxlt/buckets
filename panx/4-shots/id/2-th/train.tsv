@@ -1,0 +1,90 @@
+Saint	B-ORG
+Helena	I-ORG
+,	I-ORG
+Ascension	I-ORG
+,	I-ORG
+dan	I-ORG
+Tristan	I-ORG
+da	I-ORG
+Cunha	I-ORG
+
+'	O
+''	O
+The	B-ORG
+Mirage	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Eure	I-LOC
+
+ALIH	O
+Eléonore	B-PER
+dari	I-PER
+Belgia	I-PER
+
+Love	B-ORG
+(	I-ORG
+film	I-ORG
+2008	I-ORG
+)	I-ORG
+
+ALIH	O
+Plymouth	B-LOC
+,	I-LOC
+Vermont	I-LOC
+
+ALIH	O
+Pengeboman	B-ORG
+atom	I-ORG
+Hiroshima	I-ORG
+dan	I-ORG
+Nagasaki	I-ORG
+
+ALIH	O
+Carlo	B-PER
+I	I-PER
+dari	I-PER
+Napoli	I-PER
+
+Raden	B-PER
+Wijaya	I-PER
+selaku	O
+ahli	O
+waris	O
+Kertanagara	B-PER
+siap	O
+menyerahkan	O
+diri	O
+asalkan	O
+ia	O
+terlebih	O
+dahulu	O
+dibantu	O
+memerdekakan	O
+diri	O
+dari	O
+Jayakatwang	B-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Cantal	I-LOC

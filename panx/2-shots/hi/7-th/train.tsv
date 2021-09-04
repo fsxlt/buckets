@@ -1,0 +1,32 @@
+लातिनी	B-LOC
+अमरीका	I-LOC
+के	O
+अन्य	O
+देश	O
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+जॉन	B-PER
+फोर्ब्स	I-PER
+नैश	I-PER
+जूनियर	I-PER
+
+मंगल	B-PER
+पांडे	I-PER
+(	I-PER
+क्रांतिकारी	I-PER
+)	I-PER
+
+सूचना	B-ORG
+और	I-ORG
+प्रसारण	I-ORG
+मंत्रालय	I-ORG
+
+पुनर्प्रेषित	O
+द	B-ORG
+टाइम्स	I-ORG
+ऑफ़	I-ORG
+इण्डिया	I-ORG

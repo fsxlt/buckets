@@ -1,0 +1,103 @@
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+2006	B-ORG
+-	O
+''Ora	O
+lolos	O
+''	O
+
+Deheweke	O
+wis	O
+kaping	O
+112	O
+mbela	O
+timnas	O
+,	O
+iku	O
+ndadekake	O
+dheweke	O
+urutan	O
+nomer	O
+telu	O
+wong	O
+kang	O
+paling	O
+akeh	O
+mbela	O
+timnas	O
+,	O
+nomer	O
+siji	O
+Paolo	B-PER
+Maldini	I-PER
+lan	O
+nomer	O
+loro	O
+Fabio	B-PER
+Cannavaro	I-PER
+.	O
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+Kasor	O
+PF	O
+vs	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O

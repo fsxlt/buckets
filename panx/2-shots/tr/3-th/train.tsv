@@ -1,0 +1,39 @@
+'	O
+''	O
+Kyrie	B-PER
+Irving	I-PER
+''	O
+'	O
+''	O
+^	O
+
+Rocko	B-ORG
+'s	I-ORG
+Modern	I-ORG
+Life	I-ORG
+
+III.	B-PER
+Murad	I-PER
+tarafından	O
+sefer	O
+ile	O
+görevlendirilen	O
+Lala	B-ORG
+Mustafa	I-ORG
+Paşa	I-ORG
+,	O
+önce	O
+Erzurum'a	B-LOC
+geldi	O
+.	O
+
+YÖNLENDİRME	O
+Arruda	B-LOC
+dos	I-LOC
+Vinhos	I-LOC
+
+Valensiya	B-LOC
+(	I-LOC
+özerk	I-LOC
+topluluk	I-LOC
+)	I-LOC

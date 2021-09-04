@@ -1,0 +1,39 @@
+Franklin	B-PER
+D.	I-PER
+Roosevelt	I-PER
+
+KN	O
+Saint	B-LOC
+Kitts	I-LOC
+na	I-LOC
+Nevis	I-LOC
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25214	O
+
+2007	O
+Peter	B-PER
+Grünberg	I-PER
+na	O
+Albert	B-PER
+Fert	I-PER
+
+The	B-ORG
+Rose	I-ORG
+That	I-ORG
+Grew	I-ORG
+from	I-ORG
+Concrete	I-ORG
+
+Do	B-ORG
+n't	I-ORG
+Stop	I-ORG
+'til	I-ORG
+You	I-ORG
+Get	I-ORG
+Enough	I-ORG
+-	O
+6:02	O

@@ -1,0 +1,84 @@
+पश्चिम	B-LOC
+सिक्किम	I-LOC
+जिला	I-LOC
+
+प्रधानमंत्री	B-ORG
+कार्यालय	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+झगड़ते	B-ORG
+राज्यों	I-ORG
+का	I-ORG
+काल	I-ORG
+
+आइल	B-LOC
+ऑफ़	I-LOC
+मैन	I-LOC
+
+सारन	B-LOC
+,	O
+बिहार	B-LOC
+का	O
+एक	O
+प्रखण्ड।	O
+
+अनुप्रेषित	O
+डॉ॰	B-ORG
+बी॰आर॰	I-ORG
+अम्बेडकर	I-ORG
+राष्ट्रीय	I-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+जालंधर	I-ORG
+
+कुमकुम	B-PER
+(	I-PER
+टीवी	I-PER
+धारावाहिक	I-PER
+)	I-PER
+
+ताज	B-PER
+बीबी	I-PER
+बिलक़िस	I-PER
+मकानी	I-PER
+
+उत्तर	B-LOC
+प्रदेश	I-LOC
+(	O
+75	O
+)	O
+,	O
+मध्य	B-LOC
+प्रदेश	I-LOC
+(	O
+96	O
+)	O
+
+रसायन	B-LOC
+विज्ञान	I-LOC
+का	I-LOC
+इतिहास	I-LOC
+
+महमूद	B-PER
+,	O
+शाहरुख़	B-PER
+ख़ान	I-PER
+,	O
+मनीषा	B-PER
+कोइराला	I-PER
+
+पुनर्प्रेषित	O
+भारतीय	B-ORG
+कृषि	I-ORG
+अनुसंधान	I-ORG
+परिषद	I-ORG
+
+शाद	B-PER
+खान	I-PER
+,	O
+''	O
+टी.वी	O
+.	O

@@ -1,0 +1,36 @@
+수	B-PER
+문제는	I-PER
+이	O
+사실을	O
+듣고	O
+글을	O
+보내	O
+이를	O
+꾸짖었다	O
+.	O
+
+'	O
+''	O
+리모사노	O
+''	O
+'	O
+(	O
+)	O
+는	O
+이탈리아	B-LOC
+몰리세	B-LOC
+주	I-LOC
+캄포바소	B-LOC
+현의	I-LOC
+코무네다	B-LOC
+.	O
+
+루다크리스가	B-PER
+피쳐링으로	O
+참여했으며	O
+,	O
+The	B-ORG
+Dutchess에	I-ORG
+수록되어	O
+있다	O
+.	O

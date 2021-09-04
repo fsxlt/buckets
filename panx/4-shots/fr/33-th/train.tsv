@@ -1,0 +1,98 @@
+Centre	B-ORG
+médical	I-ORG
+Cedars-Sinai	I-ORG
+
+Asciano	B-LOC
+,	O
+Bucine	B-LOC
+,	O
+Castellina	B-LOC
+in	I-LOC
+Chianti	I-LOC
+,	O
+Gaiole	B-LOC
+in	I-LOC
+Chianti	I-LOC
+,	O
+Monteriggioni	B-LOC
+,	O
+Radda	B-LOC
+in	I-LOC
+Chianti	I-LOC
+,	O
+Rapolano	B-LOC
+Terme	I-LOC
+,	O
+Sienne	B-LOC
+
+Illustré	O
+par	O
+Jean	B-PER
+Sidobre	I-PER
+.	O
+
+Elle	O
+se	O
+rencontre	O
+en	O
+Australie-Occidentale	B-LOC
+,	O
+en	O
+Australie-Méridionale	B-LOC
+et	O
+dans	O
+le	O
+Territoire	B-LOC
+du	I-LOC
+Nord	I-LOC
+.	O
+
+'	O
+''	O
+Marin	B-PER
+Čilić	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Lézard	B-LOC
+des	I-LOC
+murailles	I-LOC
+
+Ligne	B-ORG
+de	I-ORG
+Bordeaux-Saint-Jean	I-ORG
+à	I-ORG
+Sète-Ville	I-ORG
+
+Lewis	B-PER
+A.	I-PER
+Coser	I-PER
+
+Sun	B-ORG
+Life	I-ORG
+Stadium	I-ORG
+,	O
+Miami	B-LOC
+(	O
+Floride	B-LOC
+)	O
+
+'	O
+''	O
+'	O
+—	O
+Triton	B-LOC
+palmé	I-LOC
+
+New	B-ORG
+York	I-ORG
+Hall	I-ORG
+of	I-ORG
+Science	I-ORG
+
+Peggy	B-PER
+Shannon	I-PER
+,	O
+Sidney	B-PER
+Blackmer	I-PER

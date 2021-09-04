@@ -1,0 +1,89 @@
+đổi	O
+Lý	B-PER
+Hi	I-PER
+Liệt	I-PER
+
+Cảnh	B-LOC
+(	I-LOC
+huyện	I-LOC
+)	I-LOC
+
+''	O
+Roy	B-PER
+Kim	I-PER
+''	O
+'	O
+
+Lee	B-PER
+Hyori	I-PER
+đệm	O
+bởi	O
+Ceejay	O
+
+đổi	O
+Kim	B-LOC
+oanh	I-LOC
+mỏ	I-LOC
+đỏ	I-LOC
+
+Asiana	B-ORG
+Airlines	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+'	O
+''	O
+Bulgaria	B-LOC
+''	O
+'	O
+
+đổi	O
+Chi	B-LOC
+Màn	I-LOC
+màn	I-LOC
+
+Kane]]	O
+,	O
+Randy	B-PER
+Orton	I-PER
+và	O
+Roman	B-PER
+Reigns	I-PER
+
+Khâm	B-ORG
+định	I-ORG
+Việt	I-ORG
+sử	I-ORG
+Thông	I-ORG
+giám	I-ORG
+Cương	I-ORG
+mục	I-ORG
+
+**	O
+'	O
+''	O
+Sgt.	B-ORG
+Pepper	I-ORG
+'s	I-ORG
+Lonely	I-ORG
+Hearts	I-ORG
+Club	I-ORG
+Band	I-ORG
+''	O
+–	O
+The	B-ORG
+Beatles	I-ORG
+''	O
+'	O
+
+đổi	O
+Cắt	B-LOC
+nhỏ	I-LOC
+họng	I-LOC
+trắng	I-LOC
+
+đổi	O
+Honey	B-ORG
+and	I-ORG
+Clover	I-ORG

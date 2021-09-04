@@ -1,0 +1,39 @@
+'	O
+''	O
+दक्षिण	B-LOC
+कोरिया	I-LOC
+''	O
+'	O
+
+अखिल	B-ORG
+भारतीय	I-ORG
+अण्णा	I-ORG
+द्रविड	I-ORG
+मुन्नेत्र	I-ORG
+कळघम	I-ORG
+
+'	O
+''	O
+तातियाना	B-PER
+गोलोविन	I-PER
+
+पुणे	B-ORG
+स्टेशन	I-ORG
+बस	I-ORG
+स्थानक	I-ORG
+
+पुनर्निर्देशन	O
+शाह	B-LOC
+आलम	I-LOC
+,	I-LOC
+मलेशिया	I-LOC
+
+'	O
+''	O
+जेम्स	B-PER
+गारफील्ड	I-PER
+''	O
+'	O
+(	O
+1831–1881	O
+)	O

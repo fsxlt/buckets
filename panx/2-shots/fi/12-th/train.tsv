@@ -1,0 +1,83 @@
+Yksi	O
+Sharif	B-PER
+Sheikh	I-PER
+Ahmedin	I-PER
+vaimoista	O
+on	O
+Mohamedin	O
+tytär	O
+.	O
+
+``	O
+On	B-ORG
+a	I-ORG
+Night	I-ORG
+Like	I-ORG
+This	I-ORG
+''	O
+
+Se	O
+sijaitsee	O
+Lovatjoen	B-LOC
+rannalla	O
+116	O
+kilometriä	O
+Novgorodista	B-LOC
+maanteitse	O
+etelään	O
+ja	O
+20	O
+kilometriä	O
+Staraja	B-LOC
+Russan	I-LOC
+kaupungista	O
+itään	O
+.	O
+
+'	O
+''	O
+Porvoon	B-ORG
+Akilles	I-ORG
+''	O
+'	O
+
+Osa	O
+matkustajaliikenteenkin	O
+junavuoroista	O
+liikennöidään	O
+Ukrainan	B-LOC
+,	O
+Venäjän	B-LOC
+(	O
+Pietari	B-LOC
+,	O
+Moskova	B-LOC
+)	O
+tai	O
+Valko-Venäjän	B-LOC
+suuntaan	O
+,	O
+osin	O
+sikäläisellä	O
+vaunukalustolla	O
+.	O
+
+'	O
+''	O
+Missy	B-PER
+Elliott	I-PER
+''	O
+'	O
+
+Abraham	B-PER
+on	O
+myös	O
+raamatullinen	O
+hahmo	O
+.	O
+
+OHJAUS	O
+Lari	B-LOC
+(	I-LOC
+eläin	I-LOC
+)	I-LOC

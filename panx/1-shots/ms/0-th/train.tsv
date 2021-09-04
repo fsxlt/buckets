@@ -1,0 +1,17 @@
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Penjajahan	B-ORG
+Sepanyol	I-ORG
+di	I-ORG
+Amerika	I-ORG
+
+Mohd	B-PER
+Ali	I-PER
+bin	I-PER
+Mohd	B-PER
+Rustam	I-PER
+.	O

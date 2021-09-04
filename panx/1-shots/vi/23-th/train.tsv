@@ -1,0 +1,18 @@
+Thủy	B-ORG
+quân	I-ORG
+Lục	I-ORG
+chiến	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+Aishwarya	B-PER
+Rai	I-PER
+
+đổi	O
+Bờ	B-LOC
+Biển	I-LOC
+Ngà	I-LOC

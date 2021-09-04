@@ -1,0 +1,43 @@
+تحويل	O
+سلمة	B-LOC
+(	I-LOC
+يافا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+دونالد	B-PER
+جونسون	I-PER
+جاريد	B-PER
+بالمر	I-PER
+
+تحويل	O
+إينولا	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251634	O
+
+حقق	O
+المركز	O
+الـ	O
+9	O
+في	O
+طواف	B-ORG
+إيطاليا	I-ORG
+2001	I-ORG
+
+تحويل	O
+عبد	B-PER
+الحكيم	I-PER
+عامر	I-PER

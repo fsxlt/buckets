@@ -1,0 +1,36 @@
+الوليد	B-PER
+بن	I-PER
+عبد	I-PER
+الملك	I-PER
+
+خوان	B-PER
+مارتن	I-PER
+ديل	I-PER
+بوترو	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+
+القوات	B-ORG
+الجوية	I-ORG
+الملكية	I-ORG
+الأسترالية	I-ORG
+
+تحويل	O
+ضرعاء	B-LOC
+هلباء	I-LOC
+شائكة	I-LOC
+
+تحويل	O
+تنس	B-ORG
+الريشة	I-ORG
+في	I-ORG
+أولمبياد	I-ORG
+2004	I-ORG
+
+تحويل	O
+الإمارات	B-LOC
+العربية	I-LOC
+المتحدة	I-LOC

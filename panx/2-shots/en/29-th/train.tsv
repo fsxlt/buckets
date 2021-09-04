@@ -1,0 +1,52 @@
+Blaze	B-PER
+Ya	I-PER
+Dead	I-PER
+Homie	I-PER
+-	O
+(	O
+9	O
+)	O
+
+Franklin	B-ORG
+County	I-ORG
+School	I-ORG
+,	O
+Eastpoint	B-LOC
+
+Mirko	B-PER
+and	I-PER
+Stjepan	I-PER
+Seljan	I-PER
+
+''	O
+Mamluk	B-LOC
+Sultanate	I-LOC
+of	I-LOC
+Egypt	I-LOC
+''	O
+'	O
+–	O
+Barsbay	B-PER
+(	O
+1422–1437	O
+)	O
+
+McKean	B-LOC
+County	I-LOC
+,	I-LOC
+Pennsylvania	I-LOC
+
+1887	O
+first	O
+elected	O
+in	O
+1935	O
+as	O
+Social	B-ORG
+Credit	I-ORG
+member	O
+for	O
+Vegreville	B-LOC
+,	O
+Alberta	B-LOC
+.	O

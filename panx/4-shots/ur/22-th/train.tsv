@@ -1,0 +1,72 @@
+آپ	O
+سے	O
+پہلے	O
+وزیراعظم	O
+ذوالفقار	B-PER
+علی	I-PER
+بھٹو	I-PER
+
+رجوع_مکرر	O
+2013	B-ORG
+پشاور	I-ORG
+گرجا	I-ORG
+گھر	I-ORG
+بم	I-ORG
+دھماکا	I-ORG
+
+رجوع_مکرر	O
+برٹرام	B-PER
+بروک	I-PER
+ہاؤس	I-PER
+
+رجوع_مکرر	O
+اسٹیٹ	B-ORG
+آف	I-ORG
+افیئرز	I-ORG
+(	I-ORG
+ٹی	I-ORG
+وی	I-ORG
+سلسلہ	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+حسن	B-PER
+بن	I-PER
+علی	I-PER
+عسکری	I-PER
+
+رجوع_مکرر	O
+ایوان	B-ORG
+بالا	I-ORG
+پاکستان	I-ORG
+
+رجوع_مکرر	O
+ہینری	B-LOC
+کاؤنٹی،	I-LOC
+ٹینیسی	I-LOC
+
+رجوع_مکرر	O
+لٹل	B-LOC
+رینچیریا	I-LOC
+دریا	I-LOC
+
+رجوع_مکرر	O
+جمراؤ	B-ORG
+جنکشن	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+لا	B-LOC
+بروییری،	I-LOC
+ہوٹی-ساونی	I-LOC
+
+رجوع_مکرر	O
+برززکے،	B-LOC
+مسوویاں	I-LOC
+صوبہ	I-LOC
+
+رجوع_مکرر	O
+عیسیٰ	B-PER
+علیہ	I-PER
+السلام	I-PER

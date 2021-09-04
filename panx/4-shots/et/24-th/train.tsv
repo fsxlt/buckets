@@ -1,0 +1,104 @@
+''	O
+Kuidas	B-ORG
+ma	I-ORG
+kohtasin	I-ORG
+teie	I-ORG
+ema	I-ORG
+''	O
+
+Teeninduspiirkondadeks	O
+Narva	B-LOC
+,	O
+Jõhvi	B-LOC
+,	O
+Rakvere	B-LOC
+,	O
+Ida-Viru	B-LOC
+ja	O
+Lääne-Viru	B-LOC
+maakond	I-LOC
+.	O
+
+suuna	O
+Vipera	B-LOC
+berus	I-LOC
+bosniensis	I-LOC
+
+Pärast	O
+voolamist	O
+läbi	O
+Papilė	B-LOC
+ja	O
+Venta	B-LOC
+jõuab	O
+ta	O
+tagasi	O
+Telšiai	B-LOC
+maakonda	I-LOC
+,	O
+kus	O
+läbib	O
+Viekšniai	B-LOC
+ja	O
+Mažeikiai	B-LOC
+.	O
+
+Et	B-ORG
+uus	I-ORG
+saaks	I-ORG
+alguse	I-ORG
+
+Mali	B-LOC
+üleminekuvalitsuse	O
+peaministriks	O
+nimetati	O
+astrofüüsik	O
+Cheick	B-PER
+Modibo	I-PER
+Diarra	I-PER
+.	O
+
+Notoddeni	B-LOC
+vald	I-LOC
+(	O
+12	O
+314	O
+)	O
+
+Larry	B-PER
+Mullen	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Ta	O
+oli	O
+Eesti	B-ORG
+Üliõpilaste	I-ORG
+Seltsi	I-ORG
+vilistlane	O
+.	O
+
+*1891	O
+-	O
+Alexander	B-PER
+von	I-PER
+Keyserling	I-PER
+(	O
+1815–1891	O
+)	O
+
+aastal	O
+liitus	O
+ta	O
+Rootsi	B-ORG
+Sotsiaaldemokraatliku	I-ORG
+Tööparteiga	I-ORG
+.	O
+
+Ingvild	B-PER
+Flugstad	I-PER
+Østberg	I-PER
+/	O
+Marit	B-PER
+Bjørgen	I-PER

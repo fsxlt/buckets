@@ -1,0 +1,68 @@
+পশ্চিম	B-LOC
+জৈন্তিয়া	I-LOC
+পাহাড়	I-LOC
+জেলা	I-LOC
+(	O
+জাওয়াই	B-ORG
+)	O
+
+ঘানা	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+এভার্টন	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+উইলিয়াম	B-PER
+বাটলার	I-PER
+ইয়েটস	I-PER
+
+এই	O
+প্রজাতিটি	O
+মেটেঝুঁটি	B-LOC
+সারস	I-LOC
+,	O
+''B	O
+.	O
+
+'	O
+''	O
+গ্যারি	B-PER
+নেভিল	I-PER
+''	O
+'	O
+
+ঙ্গাগ-দ্বাং-র্নাম-র্গ্যাল	B-PER
+(	I-PER
+রিনপুংপা	I-PER
+)	I-PER
+
+ব্যাবিলনবাসীরা	O
+পিথাগোরাসের	B-ORG
+উপপাদ্য	I-ORG
+সম্পর্কে	O
+অবহিত	O
+ছিল।	O
+
+কিন	B-PER
+শি	I-PER
+হুয়াং	I-PER
+
+ভারতীয়	B-LOC
+প্রমাণ	I-LOC
+সময়	I-LOC
+
+ঢাকা	B-LOC
+সম্পর্কে	I-LOC
+আরো	I-LOC
+জানতে	I-LOC
+লেখার	I-LOC
+উপর	I-LOC
+ক্লিক	I-LOC
+করুন	I-LOC
+
+বাংলাদেশ	B-ORG
+শিল্পকলা	I-ORG
+একাডেমী	I-ORG

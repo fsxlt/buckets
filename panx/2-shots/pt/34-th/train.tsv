@@ -1,0 +1,44 @@
+Redirecionamento	O
+Gyanendra	B-PER
+Bir	I-PER
+Bikram	I-PER
+Shah	I-PER
+Dev	I-PER
+
+Foi	O
+assassinada	O
+pelo	O
+marido	O
+em	O
+Los	B-LOC
+Angeles	I-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Redirecionamento	O
+Forças	B-ORG
+Armadas	I-ORG
+de	I-ORG
+Uganda	I-ORG
+
+Jason	B-PER
+Dolley	I-PER
+(	O
+2008-present	O
+)	O
+
+Hayward]]	O
+,	O
+Wisconsin	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Illustrated	I-ORG
+''	O
+'	O

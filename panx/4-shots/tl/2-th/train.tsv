@@ -1,0 +1,68 @@
+Papa	B-PER
+Juan	I-PER
+Pablo	I-PER
+II	I-PER
+
+Lungsod	B-ORG
+ng	I-ORG
+Puebla	I-ORG
+
+Mariah	B-PER
+Carey	I-PER
+-	O
+1994	O
+
+Mustafa	B-PER
+Kemal	I-PER
+Atatürk	I-PER
+
+Lupain	B-ORG
+ng	I-ORG
+Punt	I-ORG
+
+**	O
+San	B-LOC
+Francisco	I-LOC
+(	O
+Konsulado-Heneral	O
+)	O
+
+Radio	B-ORG
+Philippines	I-ORG
+Network	I-ORG
+
+Papa	B-PER
+Gregorio	I-PER
+IV	I-PER
+
+Ōita	B-LOC
+(	O
+''Kabisera	O
+''	O
+)	O
+
+Sobyet	B-LOC
+na	I-LOC
+Sosyalistang	I-LOC
+Republika	I-LOC
+ng	I-LOC
+Armenia	I-LOC
+
+Lungsod	B-LOC
+ng	I-LOC
+Vaticano	I-LOC
+
+**	O
+Yuasa	B-LOC
+-	O
+Hirogawa	B-LOC
+-	O
+Aridagawa	B-LOC
+
+Aklat	B-ORG
+ni	I-ORG
+Ageo	I-ORG
+
+Bisen	B-LOC
+,	I-LOC
+Okayama	I-LOC

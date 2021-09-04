@@ -1,0 +1,107 @@
+Behind	B-ORG
+the	I-ORG
+Wheel	I-ORG
+–	O
+5:55	O
+
+გადამისამართება	O
+Live	B-ORG
+at	I-ORG
+Hammersmith	I-ORG
+'82	I-ORG
+!	I-ORG
+
+The	B-ORG
+Book	I-ORG
+of	I-ORG
+Taliesyn	I-ORG
+
+მარქსენთან	O
+(	O
+ფორტეპიანო	B-ORG
+)	O
+.	O
+
+იშვიათად	O
+გვხვდება	O
+ზოლებიანი	B-LOC
+აფთარი	I-LOC
+.	O
+
+სათავე	O
+აქვს	O
+დასავლეთ	B-LOC
+რუმინეთის	I-LOC
+მთებში	I-LOC
+.	O
+
+გადამისამართება	O
+სუსილო	B-PER
+ბამბანგ	I-PER
+იუდჰოიონო	I-PER
+
+ზოგმა	O
+მათგანმა	O
+,	O
+თავი	O
+ქვეყნის	O
+ფარგლებს	O
+გარეთაც	O
+გამოიჩინა	O
+და	O
+საბჭოთა	B-LOC
+კავშირის	I-LOC
+ლიდერებადაც	O
+ითვლებოდნენ	O
+,	O
+როგორებიც	O
+იყვნენ	O
+ლავრენტი	B-PER
+ბერია	I-PER
+და	O
+ედუარდ	B-PER
+შევარდნაძე	I-PER
+.	O
+
+გავრცელებულია	O
+სამხრეთ	B-LOC
+ევროპაში	I-LOC
+,	O
+ჩრდილოეთ	B-LOC
+აფრიკასა	I-LOC
+და	O
+აზიაში	B-LOC
+.	O
+
+ალბომის	O
+გარეკანის	O
+ავტორია	O
+როჯერ	B-PER
+დინი	I-PER
+,	O
+რომელსაც	O
+ეკუთვნის	O
+ჯგუფის	O
+გარეკნების	O
+უმეტესობა	O
+.	O
+
+თავისი	O
+ხანმოკლე	O
+მმართველობის	O
+მანძილზე	O
+თეოდორე	B-PER
+II	I-PER
+(	O
+1254-1258	O
+წ	O
+.	O
+
+Stay	B-ORG
+(	I-ORG
+Faraway	I-ORG
+,	I-ORG
+So	I-ORG
+Close	I-ORG
+!	I-ORG
+)	I-ORG

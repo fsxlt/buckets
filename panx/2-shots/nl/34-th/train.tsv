@@ -1,0 +1,64 @@
+Santa	B-LOC
+Rosa	I-LOC
+(	O
+167.815	O
+)	O
+
+Sinds	O
+2010	O
+hoort	O
+de	O
+wedstrijd	O
+bij	O
+de	O
+in	O
+dat	O
+jaar	O
+opgerichte	O
+Diamond	B-ORG
+League	I-ORG
+.	O
+
+Hij	O
+mocht	O
+de	O
+laatste	O
+drie	O
+minuten	O
+van	O
+de	O
+wedstrijd	O
+meedoen	O
+als	O
+vervanger	O
+van	O
+Kristof	B-PER
+D'haene	I-PER
+.	O
+
+Spoorlijn	B-ORG
+Keulen	I-ORG
+-	I-ORG
+Hamm	I-ORG
+
+Alfons	B-PER
+Henriques’	I-PER
+ambities	O
+gingen	O
+echter	O
+verder	O
+,	O
+dan	O
+alleen	O
+de	O
+heerschappij	O
+van	O
+Portucale	O
+en	O
+Coimbra	B-LOC
+.	O
+
+Freiburg	B-LOC
+(	I-LOC
+Elbe	I-LOC
+)	I-LOC

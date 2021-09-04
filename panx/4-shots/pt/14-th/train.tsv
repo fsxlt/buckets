@@ -1,0 +1,90 @@
+REDIRECIONAMENTO	O
+Zé	B-ORG
+Ramalho	I-ORG
+Canta	I-ORG
+Bob	I-ORG
+Dylan	I-ORG
+-	I-ORG
+Tá	I-ORG
+Tudo	I-ORG
+Mudando	I-ORG
+
+São	B-LOC
+José	I-LOC
+do	I-LOC
+Rio	I-LOC
+Preto	I-LOC
+
+**	O
+Bogotá	B-LOC
+(	O
+Embaixada	O
+)	O
+
+Príncipe	B-PER
+Real	I-PER
+de	I-PER
+Portugal	I-PER
+
+Clube	B-ORG
+Atlético	I-ORG
+Mineiro	I-ORG
+(	O
+Belo	B-LOC
+Horizonte	I-LOC
+)	O
+
+Teste	B-ORG
+de	I-ORG
+primalidade	I-ORG
+de	I-ORG
+Fermat	I-ORG
+
+Liedtke	B-PER
+,	I-PER
+Jochen	I-PER
+''	O
+
+Ataques	B-ORG
+de	I-ORG
+11	I-ORG
+de	I-ORG
+setembro	I-ORG
+de	I-ORG
+2001	I-ORG
+
+Guarabira	B-LOC
+(	O
+1	O
+loja	O
+)	O
+
+===	O
+Ilha	B-LOC
+de	I-LOC
+São	I-LOC
+Tomé	I-LOC
+===	O
+
+'	O
+''	O
+Brian	B-PER
+Battistone	I-PER
+''	O
+'	O
+'	O
+''	O
+Ryler	B-PER
+DeHeart	I-PER
+''	O
+'	O
+
+REDIRECIONAMENTO	O
+Coletividade	B-LOC
+de	I-LOC
+ultramar	I-LOC
+
+REDIRECIONAMENTO	O
+Alex	B-PER
+D.	I-PER
+Linz	I-PER

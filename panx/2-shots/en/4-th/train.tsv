@@ -1,0 +1,37 @@
+7	B-ORG
+November	I-ORG
+-	O
+Richard	B-PER
+Barrett	I-PER
+,	O
+composer	O
+
+Qasr	B-LOC
+el	I-LOC
+Banat	I-LOC
+,	I-LOC
+Lebanon	I-LOC
+
+Zlatorog	B-ORG
+Arena	I-ORG
+(	O
+5,500	O
+)	O
+
+Perry	B-LOC
+Township	I-LOC
+,	I-LOC
+Coshocton	I-LOC
+County	I-LOC
+,	I-LOC
+Ohio	I-LOC
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+Mike	B-PER
+Bryan	I-PER
+[1]	O
+''	O
+'	O

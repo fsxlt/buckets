@@ -1,0 +1,34 @@
+Jacob	B-PER
+Bronowski	I-PER
+(	O
+1908-1974	O
+)	O
+
+doorverwijzing	O
+RSC	B-LOC
+Anderlecht	I-LOC
+in	I-LOC
+het	I-LOC
+seizoen	I-LOC
+2009	I-LOC
+/	I-LOC
+10	I-LOC
+
+Hij	O
+was	O
+een	O
+seizoen	O
+actief	O
+in	O
+Enschede	B-LOC
+en	O
+vertrok	O
+daarna	O
+naar	O
+De	B-ORG
+Graafschap	I-ORG
+(	O
+seizoen	O
+'76-'77	O
+)	O
+.	O

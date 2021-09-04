@@ -1,0 +1,18 @@
+Saare	B-LOC
+(	I-LOC
+Noarootsi	I-LOC
+)	I-LOC
+
+*Piibeleht	O
+(	O
+Eduard	B-PER
+Vilde	I-PER
+„Pisuhänd“	O
+)	O
+4	O
+.	O
+
+suuna	O
+Barney	B-ORG
+ja	I-ORG
+sõbrad	I-ORG

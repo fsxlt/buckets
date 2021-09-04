@@ -1,0 +1,112 @@
+Peaministri	O
+asetäitjaks	O
+sai	O
+Tõnis	B-PER
+Kint	I-PER
+.	O
+
+suuna	O
+Fábio	B-PER
+Pereira	I-PER
+da	I-PER
+Silva	I-PER
+
+suuna	O
+Suursilmmadu	B-LOC
+(	I-LOC
+perekond	I-LOC
+)	I-LOC
+
+Leedu	B-LOC
+,	I-LOC
+Vene	I-LOC
+ja	I-LOC
+Žemaitija	I-LOC
+suurvürstiriik	I-LOC
+
+Võru	B-LOC
+vald	I-LOC
+,	O
+Võru	B-LOC
+maakond	I-LOC
+
+High	B-ORG
+'n	I-ORG
+'	I-ORG
+Dry	I-ORG
+
+aastani	O
+hoidis	O
+hertsogitiitlit	O
+enda	O
+käes	O
+Saksa-Rooma	B-PER
+keiser	I-PER
+Karl	B-PER
+V	I-PER
+,	O
+kes	O
+loobus	O
+siis	O
+sellest	O
+oma	O
+poja	O
+,	O
+Hispaania	B-ORG
+kuningas	I-ORG
+Felipe	B-PER
+II	I-PER
+kasuks	O
+.	O
+
+Eesti	B-ORG
+Punase	I-ORG
+Risti	I-ORG
+teenetemärk	I-ORG
+
+Läänetuuli	O
+võimendab	O
+veelgi	O
+Coriolisi	B-ORG
+efekt	I-ORG
+.	O
+
+Lake	B-LOC
+Worth	I-LOC
+,	O
+Ameerika	B-LOC
+Ühendriigid	I-LOC
+
+Søren	B-PER
+Kierkegaard	I-PER
+väidab	O
+,	O
+et	O
+omadustepõhine	O
+armastus	O
+peab	O
+lõppkokkuvõttes	O
+nurjuma	O
+,	O
+sest	O
+inimestel	O
+on	O
+mitteligitõmbavaid	O
+omadusi	O
+.	O
+
+Eelkooli	O
+pikkuseks	O
+on	O
+Šveitsis	B-LOC
+üks	O
+kuni	O
+kaks	O
+aastat	O
+,	O
+seega	O
+alustatakse	O
+viie-	O
+või	O
+kuueaastaselt	O
+.	O

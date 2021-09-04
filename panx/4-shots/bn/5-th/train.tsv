@@ -1,0 +1,69 @@
+জর্জ	B-PER
+ডব্লিউ.	I-PER
+বুশ	I-PER
+
+কোহগিলুইয়ে	B-LOC
+ও	I-LOC
+বুইয়ার	I-LOC
+আহমাদ	I-LOC
+প্রদেশ	I-LOC
+
+শেরে	B-ORG
+বাংলা	I-ORG
+কৃষি	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+সঁত্র্‌	B-ORG
+জর্জ	I-ORG
+পম্পিদু	I-ORG
+
+ইয়োহান	B-PER
+ভোলফগাং	I-PER
+ফন	I-PER
+গ্যোটে	I-PER
+
+কসমস	B-ORG
+:	I-ORG
+অ্য	I-ORG
+পারসোনাল	I-ORG
+ভয়েজ	I-ORG
+
+ইবনে	B-PER
+আন	I-PER
+নাফীস	I-PER
+
+'	O
+''	O
+মারাইজ	B-PER
+ইরাসমাস	I-PER
+''	O
+'	O
+
+বঙ্গবন্ধু	B-LOC
+জাতীয়	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+ঢাকা	B-LOC
+
+শারজাহ]]	O
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+ফুটবল	B-ORG
+ক্লাব	I-ORG
+ইন্তারনাজিওনালে	I-ORG
+মিলানো	I-ORG
+
+(	O
+1829	O
+)	O
+-	O
+ইকুয়েডর	B-LOC
+,	O
+পেরু	B-LOC
+
+গ্রেট	B-LOC
+ব্যারিয়ার	I-LOC
+রিফ	I-LOC

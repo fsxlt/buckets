@@ -1,0 +1,41 @@
+Abtwil	B-LOC
+(	I-LOC
+Argovia	I-LOC
+)	I-LOC
+
+final	O
+laurdenetan	O
+1970ean	B-ORG
+eta	O
+1986an	B-ORG
+
+Ita	B-PER
+Rina	I-PER
+(	O
+1907-1979	O
+)	O
+,	O
+aktoresa	O
+.	O
+
+Estiloa	O
+bere	O
+garai	O
+gailenera	O
+Efesoko	B-ORG
+Artemisaren	I-ORG
+Tenpluarekin	I-ORG
+iritsi	O
+zen	O
+,	O
+Munduko	B-ORG
+Zazpi	I-ORG
+Mirarietako	I-ORG
+bat	O
+zena	O
+eta	O
+gaur	O
+egun	O
+desagertua	O
+dagoena	O
+.	O

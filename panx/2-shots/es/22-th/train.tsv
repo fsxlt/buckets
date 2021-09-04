@@ -1,0 +1,38 @@
+Jeannie	B-PER
+(	I-PER
+serie	I-PER
+animada	I-PER
+)	I-PER
+
+Constantino	B-PER
+VI	I-PER
+de	I-PER
+Constantinopla	I-PER
+
+''	O
+Coronel	B-LOC
+Suárez	I-LOC
+''	O
+'	O
+
+Juega	O
+sus	O
+partidos	O
+como	O
+local	O
+en	O
+el	O
+Estadio	B-ORG
+Florentino	I-ORG
+Oropeza	I-ORG
+,	O
+ubicado	O
+en	O
+San	B-LOC
+Felipe	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Armada	B-ORG
+de	I-ORG
+Rusia	I-ORG

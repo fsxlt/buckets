@@ -1,0 +1,65 @@
+Günümüzde	O
+Sahil	O
+ülkeleri	O
+Senegal	B-LOC
+,	O
+Moritanya	B-LOC
+,	O
+Mali	B-LOC
+,	O
+Burkina	B-LOC
+Faso	I-LOC
+,	O
+Nijer	B-LOC
+,	O
+Nijerya	B-LOC
+,	O
+Çad	B-LOC
+,	O
+Sudan	B-LOC
+,	O
+ve	O
+Eritredir	B-LOC
+.	O
+
+İstanbul	B-ORG
+Arkeoloji	I-ORG
+Müzeleri'nde	I-ORG
+bulunan	O
+en	O
+önemli	O
+eser	O
+kabul	O
+edilmektedir	O
+.	O
+
+Didier	B-PER
+Deschamps	I-PER
+,	O
+3.torbanın	O
+kura	O
+çekimini	O
+yaptı	O
+.	O
+
+YÖNLENDİRME	O
+Honduras	B-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı	I-ORG
+
+'	O
+''	O
+Gerhard	B-PER
+Berger	I-PER
+''	O
+'	O
+
+Katılımcının	O
+en	O
+fazla	O
+olduğu	O
+ülke	O
+Güney	B-LOC
+Kore'dir	I-LOC
+.	O

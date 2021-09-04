@@ -1,0 +1,42 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Saône	I-LOC
+
+Perkembangan	O
+pemikirannya	O
+sangat	O
+dipengaruhi	O
+oleh	O
+Charles	B-PER
+Darwin	I-PER
+dan	O
+Sigmund	B-PER
+Freud	I-PER
+.	O
+
+``	O
+All	B-ORG
+We	I-ORG
+Know	I-ORG
+''	O
+
+**Presiden	O
+-	O
+José	B-PER
+Eduardo	I-PER
+dos	I-PER
+Santos	I-PER
+,	O
+Presiden	B-ORG
+Angola	I-ORG
+(	O
+1979–present	O
+)	O
+
+ALIH	O
+Republik	B-LOC
+Sosialis	I-LOC
+Soviet	I-LOC
+Armenia	I-LOC

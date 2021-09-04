@@ -1,0 +1,43 @@
+تحويل	O
+سويو	B-PER
+(	I-PER
+مغنية	I-PER
+)	I-PER
+
+وخلفه	O
+على	O
+عرشه	O
+ابنه	O
+نصير	B-PER
+الدين	I-PER
+همايون	I-PER
+.	O
+
+تحويل	O
+وروار	B-LOC
+أزرق	I-LOC
+الخد	I-LOC
+
+تحويل	O
+دوك	B-ORG
+دي	I-ORG
+باسترانا	I-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+مدريد	I-ORG
+)	I-ORG
+
+تحويل	O
+نيوتونيا	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+'	O
+''	O
+الأولمبي	B-ORG
+الباجي	I-ORG
+''	O
+'	O

@@ -1,0 +1,69 @@
+'	O
+''	O
+اسحاق	B-PER
+شامیر	I-PER
+''	O
+'	O
+
+رجوع_مکرر	O
+سرہاڑی	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+محمد	B-PER
+حسین	I-PER
+طباطبائی	I-PER
+
+رجوع_مکرر	O
+نویاتی	B-ORG
+بجلی	I-ORG
+گھر	I-ORG
+
+رجوع_مکرر	O
+کونوے،	B-LOC
+نیو	I-LOC
+ہیمپشائر	I-LOC
+
+رجوع_مکرر	O
+مورس	B-LOC
+ٹاؤن	I-LOC
+(	I-LOC
+گاؤں	I-LOC
+)	I-LOC
+،	I-LOC
+نیو	I-LOC
+یارک	I-LOC
+
+رجوع_مکرر	O
+وینانگو	B-LOC
+کاؤنٹی،	I-LOC
+پنسلوانیا	I-LOC
+
+جون	B-PER
+فریڈرک	I-PER
+پفاف	I-PER
+
+رجوع_مکرر	O
+جیکسن	B-LOC
+ٹاؤنشپ،	I-LOC
+اینڈریو	I-LOC
+کاؤنٹی،	I-LOC
+مسوری	I-LOC
+
+رجوع_مکرر	O
+بستی	B-ORG
+عبد	I-ORG
+الله	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+جون	B-PER
+برنولی	I-PER
+سوم	I-PER
+
+رجوع_مکرر	O
+مقبرہ	B-ORG
+جانی	I-ORG
+خان	I-ORG

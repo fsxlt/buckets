@@ -1,0 +1,37 @@
+Tào	B-PER
+Tháo	I-PER
+,	O
+Điển	B-PER
+Vi	I-PER
+
+Sơn	B-LOC
+Dương	I-LOC
+(	O
+山陽縣	O
+)	O
+
+Họ	B-LOC
+Hươu	I-LOC
+cao	I-LOC
+cổ	I-LOC
+
+Thủy	B-ORG
+quân	I-ORG
+Lục	I-ORG
+chiến	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+♠	O
+
+đổi	O
+Quảng	B-ORG
+Châu	I-ORG
+Hằng	I-ORG
+Đại	I-ORG
+Đào	I-ORG
+Bảo	I-ORG
+
+đổi	O
+Vladimir	B-PER
+Alekseyevich	I-PER
+Konkin	I-PER

@@ -1,0 +1,33 @@
+تغییرمسیر	O
+گلشن‌آباد	B-LOC
+(	I-LOC
+قوچان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+کنت	B-PER
+استوارت	I-PER
+کول	I-PER
+
+سلام	B-ORG
+و	I-ORG
+خوش‌آمدی	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+کلاته	B-LOC
+علی	I-LOC
+سیاه	I-LOC
+
+فهرست	B-PER
+برندگان	I-PER
+جایزه	I-PER
+نوبل	I-PER
+اقتصاد	I-PER

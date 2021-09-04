@@ -1,0 +1,90 @@
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Kamerun	B-LOC
+(	O
+5	O
+%	O
+)	O
+
+Louis	B-PER
+Armstrong	I-PER
+,	O
+(	O
+1901-1971	O
+)	O
+
+'	O
+''	O
+Ronaldo	B-PER
+''	O
+'	O
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+Komisi	B-ORG
+Dhuwur	I-ORG
+tumrap	I-ORG
+Pengungsi	I-ORG
+Perserikatan	I-ORG
+Bangsa-Bangsa	I-ORG
+(	I-ORG
+UNHCR	I-ORG
+)	I-ORG
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+ALIH	O
+Nikolas	B-PER
+saka	I-PER
+Myra	I-PER
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC

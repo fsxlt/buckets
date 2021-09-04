@@ -1,0 +1,41 @@
+Casa	B-ORG
+das	I-ORG
+Liberdades	I-ORG
+
+Dan	B-PER
+Peter	I-PER
+McKenzie	I-PER
+
+REDIRECIONAMENTO	O
+12.ª	B-ORG
+Divisão	I-ORG
+de	I-ORG
+Infantaria	I-ORG
+(	I-ORG
+Alemanha	I-ORG
+)	I-ORG
+
+Comunas	B-LOC
+do	I-LOC
+departamento	I-LOC
+de	I-LOC
+Ariège	I-LOC
+
+Fernando	B-PER
+de	I-PER
+Noronha	I-PER
+,	O
+2.º	B-PER
+Conde	I-PER
+de	I-PER
+Vila	I-PER
+Real	I-PER
+(	O
+''c	O
+.	O
+''	O
+
+Cicero	B-LOC
+(	I-LOC
+Illinois	I-LOC
+)	I-LOC

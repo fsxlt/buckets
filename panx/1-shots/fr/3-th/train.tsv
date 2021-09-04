@@ -1,0 +1,19 @@
+Collision	B-ORG
+Course	I-ORG
+''	O
+(	O
+avec	O
+Linkin	B-ORG
+Park	I-ORG
+)	O
+
+Charmoille	B-LOC
+(	I-LOC
+Haute-Saône	I-LOC
+)	I-LOC
+
+Antoine	B-PER
+Sfeir	I-PER
+(	O
+dir	O
+.	O

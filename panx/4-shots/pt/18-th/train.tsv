@@ -1,0 +1,100 @@
+Faz	O
+fronteira	O
+com	O
+Calvi	B-LOC
+Risorta	I-LOC
+,	O
+Carinola	B-LOC
+,	O
+Falciano	B-LOC
+del	I-LOC
+Massico	I-LOC
+,	O
+Grazzanise	B-LOC
+,	O
+Pignataro	B-LOC
+Maggiore	I-LOC
+,	O
+Sparanise	B-LOC
+,	O
+Teano	B-LOC
+.	O
+
+The	B-ORG
+Best	I-ORG
+of	I-ORG
+Rainbow	I-ORG
+''	O
+
+Redirecionamento	O
+Frente	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Libertação	I-ORG
+de	I-ORG
+Angola	I-ORG
+
+Actualmente	O
+é	O
+suportado	O
+na	O
+União	B-ORG
+Europeia	I-ORG
+pela	O
+qual	O
+é	O
+financiado	O
+.	O
+
+REDIRECIONAMENTO	O
+Spa	B-LOC
+(	I-LOC
+Liège	I-LOC
+)	I-LOC
+
+Boleslau	B-PER
+Sverkersson	I-PER
+da	I-PER
+Suécia	I-PER
+
+San	B-LOC
+Sebastián	I-LOC
+de	I-LOC
+Garabandal	I-LOC
+
+Jack	B-PER
+Perrin	I-PER
+(	O
+cap	O
+.	O
+
+Mega	B-ORG
+Man	I-ORG
+Zero	I-ORG
+3	I-ORG
+
+Pertence	O
+ao	O
+município	B-LOC
+de	I-LOC
+Luleå	I-LOC
+.	O
+
+Teodoro	B-PER
+de	I-PER
+Beza	I-PER
+
+Todas	O
+as	O
+faixas	O
+por	O
+Neil	B-PER
+Tennant	I-PER
+e	O
+Chris	B-PER
+Lowe	I-PER
+,	O
+exceto	O
+onde	O
+anotado	O
+.	O

@@ -1,0 +1,35 @@
+رجوع_مکرر	O
+شاہ	B-ORG
+پور	I-ORG
+جہانیاں	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+جان	B-PER
+فوربس	I-PER
+ناش	I-PER
+جے	I-PER
+آر	I-PER
+
+رجوع_مکرر	O
+ولیم	B-PER
+ہاورڈ	I-PER
+ٹافٹ	I-PER
+
+رجوع_مکرر	O
+سان	B-LOC
+ماتیو	I-LOC
+کاؤنٹی،	I-LOC
+کیلیفورنیا	I-LOC
+
+رجوع_مکرر	O
+لاہ	B-LOC
+ڈیراز،	I-LOC
+بوروجین	I-LOC
+
+کھاریاں	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+(	O
+KRN	O
+)	O

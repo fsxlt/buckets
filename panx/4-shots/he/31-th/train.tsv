@@ -1,0 +1,105 @@
+במדינה	O
+שורר	O
+אקלים	B-LOC
+טרופי	I-LOC
+.	O
+
+בבחירות	O
+ניצח	O
+יצחק	B-PER
+הרצוג	I-PER
+את	O
+שלי	B-PER
+יחימוביץ	I-PER
+'	I-PER
+שכיהנה	O
+לפניו	O
+.	O
+
+יוסטון	B-LOC
+,	O
+טקסס	B-LOC
+,	O
+ארצות	B-LOC
+הברית	I-LOC
+
+מיקומו	O
+של	O
+הר	B-ORG
+סיני	I-ORG
+ערב	B-LOC
+הסעודית	I-LOC
+
+השיר	O
+המנצח	O
+,	O
+היה	O
+ללהיט	O
+במדינות	O
+רבות	O
+ובעיקר	O
+בלגיה	B-LOC
+יוון	B-LOC
+.	O
+
+הוא	O
+מונה	O
+למאמנה	O
+של	O
+ריאל	B-ORG
+בטיס	I-ORG
+שבעה	O
+מחזורים	O
+לאחר	O
+פתיחת	O
+עונת	O
+,	O
+כשהקבוצה	O
+הייתה	O
+במקום	O
+האחרון	O
+בליגה	O
+.	O
+
+הפניה	O
+אלכסנדר	B-PER
+הראשון	I-PER
+,	I-PER
+מלך	I-PER
+יוגוסלביה	I-PER
+
+``	O
+Me	B-ORG
+,	I-ORG
+Myself	I-ORG
+&	I-ORG
+I	I-ORG
+''	O
+
+הפניה	O
+כנופיית	B-ORG
+העץ	I-ORG
+העליז	I-ORG
+
+בנו	O
+הבכור	O
+של	O
+וסבולוד	B-PER
+הקן	I-PER
+הגדול	I-PER
+.	O
+
+Y.	B-PER
+Censor	I-PER
+,	O
+M.	O
+Jiang	O
+and	O
+A.K	O
+.	O
+
+הפניה	O
+אייזקראוקלה	B-LOC
+(	I-LOC
+מחוז	I-LOC
+)	I-LOC

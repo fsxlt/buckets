@@ -1,0 +1,23 @@
+Siya	O
+ang	O
+tanging	O
+anak	O
+na	O
+lalaki	O
+nina	O
+dating	O
+Pangulong	B-LOC
+Ferdinand	B-PER
+at	O
+Imelda	B-PER
+Marcos	I-PER
+.	O
+
+Silangang	B-LOC
+Imperyong	I-LOC
+Romano	I-LOC
+
+Mahabang	B-ORG
+Muog	I-ORG
+ng	I-ORG
+Tsina	I-ORG

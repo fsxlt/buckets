@@ -1,0 +1,117 @@
+'	O
+''	O
+Atlético	B-ORG
+de	I-ORG
+Madrid	I-ORG
+''	O
+'	O
+
+A	O
+rádióhoz	B-ORG
+soha	O
+nem	O
+ment	O
+,	O
+mert	O
+hangminőségét	O
+merényletnek	O
+tartotta	O
+a	O
+zenével	O
+szemben	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Nádasd	B-LOC
+(	I-LOC
+Szlovákia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+III.	B-PER
+(	I-PER
+Nagy	I-PER
+)	I-PER
+Alfonz	I-PER
+''	O
+'	O
+(	O
+838	O
+?	O
+,	O
+848	O
+?	O
+
+.lc	B-ORG
+–	O
+Saint	B-LOC
+Lucia	I-LOC
+
+Jacques	B-PER
+Audiard	I-PER
+–	O
+''A	O
+számat	O
+figyeld	O
+(	O
+Sur	O
+mes	O
+lèvres	O
+)	O
+''	O
+
+Anne	B-PER
+Smith	I-PER
+''	O
+(	O
+Harmadik	O
+kör	O
+)	O
+''	O
+
+[[Nio	O
+,	O
+Tódai-dzsi	B-ORG
+,	O
+Unkei]]	O
+
+II.	B-PER
+Rákóczi	I-PER
+Ferenc	I-PER
+magánélete	O
+
+Ausztrália	B-LOC
+,	O
+Indonézia	B-LOC
+és	O
+Pápua	B-LOC
+Új-Guinea	I-LOC
+területén	O
+honos	O
+.	O
+
+Az	B-ORG
+Egyesített	I-ORG
+Csapat	I-ORG
+az	I-ORG
+olimpiai	I-ORG
+játékokon	I-ORG
+
+Hajduk	B-ORG
+Split	I-ORG
+(	O
+6,224	O
+)	O
+
+Phoenix	B-ORG
+Suns	I-ORG
+(	O
+5	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Bîc	B-LOC
+(	I-LOC
+folyó	I-LOC
+)	I-LOC

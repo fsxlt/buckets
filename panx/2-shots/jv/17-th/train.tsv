@@ -1,0 +1,31 @@
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG

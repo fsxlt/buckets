@@ -1,0 +1,40 @@
+Church	B-ORG
+Missionary	I-ORG
+Society	I-ORG
+(	I-ORG
+CMS	I-ORG
+)	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Moshi	I-LOC
+Mjini	I-LOC
+;	O
+
+Fat	B-PER
+Joe	I-PER
+na	O
+Big	B-PER
+Pun	I-PER
+5:23	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25304	O
+.	O
+
+Papa	B-PER
+Boniface	I-PER
+I	I-PER
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Sokoine	I-ORG
+cha	I-ORG
+Kilimo	I-ORG
+(	I-ORG
+SUA	I-ORG
+)	I-ORG

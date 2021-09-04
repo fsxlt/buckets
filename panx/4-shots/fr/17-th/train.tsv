@@ -1,0 +1,72 @@
+Stefano	B-PER
+Zanatta	I-PER
+(	O
+ITA	B-LOC
+)	O
+
+**	O
+Jordan	B-PER
+Staal	I-PER
+,	O
+Penguins	B-ORG
+de	I-ORG
+Pittsburgh	I-ORG
+
+San	B-LOC
+Fernando	I-LOC
+del	I-LOC
+Valle	I-LOC
+de	I-LOC
+Catamarca	I-LOC
+(	O
+la	O
+capitale	O
+)	O
+
+Xian	B-LOC
+de	I-LOC
+Songpan	I-LOC
+
+Emirates	B-ORG
+Team	I-ORG
+New	I-ORG
+Zealand	I-ORG
+,	O
+''NZL-92	O
+''	O
+
+Liste	B-ORG
+des	I-ORG
+chefs	I-ORG
+d'État	I-ORG
+de	I-ORG
+Corée	I-ORG
+
+Mer	B-LOC
+de	I-LOC
+Célèbes	I-LOC
+
+'	O
+''	O
+Tohru	B-PER
+Ukawa	I-PER
+''	O
+'	O
+
+Jacek	B-PER
+Ziober	I-PER
+(	O
+1997-1999	O
+)	O
+
+Journal	B-ORG
+of	I-ORG
+Physical	I-ORG
+and	I-ORG
+Chemical	I-ORG
+Reference	I-ORG
+Data	I-ORG
+
+Comté	B-LOC
+de	I-LOC
+Clifton	I-LOC

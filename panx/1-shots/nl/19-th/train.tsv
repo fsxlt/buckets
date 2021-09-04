@@ -1,0 +1,18 @@
+Ghost	B-ORG
+riders	I-ORG
+in	I-ORG
+the	I-ORG
+sky	I-ORG
+
+Het	O
+scenario	O
+werd	O
+geschreven	O
+door	O
+Ingmar	B-PER
+Bergman	I-PER
+.	O
+
+Pays	B-LOC
+de	I-LOC
+Caux	I-LOC

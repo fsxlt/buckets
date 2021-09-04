@@ -1,0 +1,33 @@
+REDIRECTION	O
+Arrondissement	B-LOC
+spécial	I-LOC
+de	I-LOC
+Tokyo	I-LOC
+
+Lac	B-LOC
+de	I-LOC
+Gaube	I-LOC
+
+'	O
+''	O
+D.C.	B-ORG
+United	I-ORG
+''	O
+'	O
+
+Zach	B-PER
+LaVine	I-PER
+(	O
+20	O
+)	O
+
+Tourte	B-ORG
+(	I-ORG
+plat	I-ORG
+)	I-ORG
+
+Tatsuo	B-PER
+Suzuki	I-PER
+(	I-PER
+1928-2011	I-PER
+)	I-PER

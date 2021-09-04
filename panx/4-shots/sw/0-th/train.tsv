@@ -1,0 +1,78 @@
+Eneo	O
+lake	O
+ni	O
+136	O
+km²	B-ORG
+.	O
+
+Uhusika	O
+huu	O
+ulichezwa	O
+na	O
+Wentworth	B-PER
+Miller	I-PER
+.	O
+
+Do	B-ORG
+for	I-ORG
+Love	I-ORG
+
+Surinam	B-LOC
+(	I-LOC
+mto	I-LOC
+)	I-LOC
+
+Eric	B-PER
+Balfour	I-PER
+kama	O
+Milo	B-PER
+Pressman	I-PER
+
+Alex	B-PER
+La	I-PER
+Guma	I-PER
+(	O
+1925-1985	O
+)	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30204	O
+.	O
+
+Ol	B-LOC
+Doinyo	I-LOC
+Lengai	I-LOC
+
+Party	B-ORG
+of	I-ORG
+National	I-ORG
+Unity	I-ORG
+
+Papa	B-PER
+Benedikto	I-PER
+XV	I-PER
+
+Mkoa	B-LOC
+wa	I-LOC
+Mwaro	I-LOC
+
+``	O
+With	B-ORG
+a	I-ORG
+Child	I-ORG
+'s	I-ORG
+Heart	I-ORG
+''	O
+
+The	B-ORG
+Don	I-ORG
+Killuminati	I-ORG
+:	I-ORG
+The	B-ORG
+7	I-ORG
+Day	I-ORG
+Theory	I-ORG
+''	O

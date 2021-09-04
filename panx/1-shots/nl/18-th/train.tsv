@@ -1,0 +1,21 @@
+'	O
+''	O
+Hamburger	B-ORG
+SV	I-ORG
+''	O
+'	O
+
+Antoine	B-PER
+Laurent	I-PER
+de	I-PER
+Jussieu	I-PER
+
+Kentucky	B-LOC
+Bend	I-LOC
+(	O
+van	O
+Kentucky	B-LOC
+,	O
+Verenigde	B-LOC
+Staten	I-LOC
+)	O

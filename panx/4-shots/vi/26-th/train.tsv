@@ -1,0 +1,78 @@
+*Huyện	O
+Thạch	B-ORG
+Đài	I-ORG
+(	O
+石台县	O
+)	O
+
+S7	B-ORG
+Airlines	I-ORG
+(	O
+Moscow-Domodedovo	O
+)	O
+
+Le	B-LOC
+Monastier-Pin-Moriès	I-LOC
+(	O
+48099	O
+)	O
+
+'	O
+''	O
+Novak	B-PER
+Djokovic	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Kevin	B-PER
+Spacey	I-PER
+''	O
+'	O
+
+''	O
+Saguinus	B-LOC
+inustus	I-LOC
+''	O
+
+Sông	B-LOC
+Kinh	I-LOC
+Thầy	I-LOC
+
+Thiên	B-PER
+hoàng	I-PER
+Minh	I-PER
+Trị	I-PER
+
+đổi	O
+Trường	B-ORG
+Trung	I-ORG
+học	I-ORG
+phổ	I-ORG
+thông	I-ORG
+chuyên	I-ORG
+Hà	I-ORG
+Nội	I-ORG
+-	I-ORG
+Amsterdam	I-ORG
+
+**	O
+'	O
+''	O
+Lady	B-PER
+Gaga	I-PER
+—	O
+``	O
+Bad	B-ORG
+Romance	I-ORG
+''	O
+'	O
+''	O
+
+Linh	B-LOC
+dương	I-LOC
+sừng	I-LOC
+thẳng	I-LOC
+Ả	I-LOC
+Rập	I-LOC

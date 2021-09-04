@@ -1,0 +1,88 @@
+kang	O
+dikomandani	O
+déning	O
+Ahmad	B-PER
+Dhani	I-PER
+,	O
+sawisé	O
+vokalis	O
+sadurungé	O
+ya	O
+iku	O
+amarga	O
+Ari	B-PER
+Lasso	I-PER
+ditokaké	O
+.	O
+
+Vereenigde	B-ORG
+Oostindische	I-ORG
+Compagnie	I-ORG
+
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+Komisi	B-ORG
+Dhuwur	I-ORG
+tumrap	I-ORG
+Pengungsi	I-ORG
+Perserikatan	I-ORG
+Bangsa-Bangsa	I-ORG
+(	I-ORG
+UNHCR	I-ORG
+)	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+Paus	B-PER
+Yohanes	I-PER
+XXIII	I-PER
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

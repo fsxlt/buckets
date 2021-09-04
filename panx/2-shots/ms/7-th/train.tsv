@@ -1,0 +1,33 @@
+'	O
+''	O
+Urawa	B-ORG
+Red	I-ORG
+Diamonds	I-ORG
+''	O
+'	O
+
+''Dinyanyikan	O
+oleh	O
+Tanaka	B-PER
+Reina	I-PER
+''	O
+
+Harry	B-PER
+James	I-PER
+Potter	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Yonne	I-LOC
+
+Pilihan	B-ORG
+raya	I-ORG
+umum	I-ORG
+Malaysia	I-ORG
+1990	I-ORG
+
+LENCONG	O
+Pokok	B-LOC
+Selaput	I-LOC
+Tunggul	I-LOC

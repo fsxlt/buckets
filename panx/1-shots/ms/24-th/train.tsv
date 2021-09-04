@@ -1,0 +1,19 @@
+Rutherford	B-PER
+B.	I-PER
+Hayes	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Seine-et-Marne	I-LOC
+
+Brazil	B-ORG
+adalah	O
+juara	O
+bertahan	O
+.	O
+
+Astro	B-ORG
+All	I-ORG
+Asia	I-ORG
+Networks	I-ORG

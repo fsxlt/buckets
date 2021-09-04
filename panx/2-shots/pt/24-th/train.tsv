@@ -1,0 +1,44 @@
+''	O
+Bruno	B-PER
+Gagliasso	I-PER
+''	O
+'	O
+-	O
+(	O
+Caminho	B-ORG
+das	I-ORG
+Índias	I-ORG
+''	O
+)	O
+
+''	O
+Dikoleps	O
+cutleriana	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O
+
+REDIRECIONAMENTO	O
+Maria	B-PER
+Teresa	I-PER
+da	I-PER
+Áustria	I-PER
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+REDIRECIONAMENTO	O
+Lista	B-LOC
+de	I-LOC
+subdivisões	I-LOC
+de	I-LOC
+Anhui	I-LOC

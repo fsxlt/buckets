@@ -1,0 +1,99 @@
+팡위안	B-LOC
+향	I-LOC
+(	O
+芳苑鄉	O
+)	O
+
+우루과이	B-ORG
+프리메라	I-ORG
+디비시온	I-ORG
+(	O
+Primera	O
+División	O
+Uruguaya	O
+)	O
+
+로런츠	B-ORG
+변환에	I-ORG
+대하여	O
+불변량이다	O
+.	O
+
+1996년	B-ORG
+-	O
+''예선	O
+탈락	O
+''	O
+
+Like	B-ORG
+Money	I-ORG
+(	O
+feat	O
+.	O
+
+원피스	B-ORG
+그랜드	I-ORG
+배틀	I-ORG
+(	O
+와폴	O
+)	O
+
+'	O
+''	O
+펠리피	B-PER
+마사	I-PER
+''	O
+'	O
+
+)	O
+은	O
+일제	B-LOC
+강점기의	I-LOC
+지방행정	O
+관료이다	O
+.	O
+
+체르노빌	B-PER
+사고	I-PER
+사망자	I-PER
+명단	I-PER
+
+북서쪽으로는	O
+비딘	B-LOC
+주	I-LOC
+,	O
+동쪽으로는	O
+브라차	B-LOC
+주	I-LOC
+,	O
+남쪽으로는	O
+소피아	B-LOC
+주와	I-LOC
+접하며	O
+북쪽으로는	O
+루마니아	B-LOC
+,	O
+남서쪽과	O
+서쪽으로는	O
+세르비아와	B-LOC
+국경을	O
+접한다	O
+.	O
+
+넘겨주기	O
+헤르젝	B-PER
+노비의	I-PER
+레오폴도	I-PER
+
+넘겨주기	O
+요한	B-PER
+아담	I-PER
+샬	I-PER
+폰	I-PER
+벨	I-PER
+
+발타쳅스키	B-LOC
+군	I-LOC
+(	O
+Балтачевский	O
+)	O

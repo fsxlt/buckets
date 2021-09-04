@@ -1,0 +1,35 @@
+Wilaya	B-ORG
+ya	I-ORG
+Mankono	I-ORG
+
+'	O
+''	O
+Sahle	B-PER
+Dengel	I-PER
+''	O
+'	O
+
+Simu	O
+hizi	O
+mbili	O
+zinafanana	O
+na	O
+Nokia	B-PER
+1100	I-PER
+.	O
+
+Machansela	B-LOC
+wa	I-LOC
+Ujerumani	I-LOC
+
+Zauditu	B-ORG
+wa	I-ORG
+Ethiopia	I-ORG
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Rachuonyo	I-LOC
+''	O
+'	O

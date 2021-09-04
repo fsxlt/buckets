@@ -1,0 +1,111 @@
+''미개통	O
+''	O
+국도	B-ORG
+제7호선	I-ORG
+구간	O
+
+남중국해와	B-LOC
+맞닿아	O
+있는	O
+해안을	O
+제외하고는	O
+말레이시아	B-LOC
+사라왁	B-LOC
+주에	I-LOC
+둘러싸여	O
+있고	O
+,	O
+사라왁	B-LOC
+주의	I-LOC
+림방에	B-LOC
+의해	O
+두	O
+지역으로	O
+나뉘어	O
+져	O
+있다	O
+.	O
+
+잉그리아	B-LOC
+(	O
+1583-1595	O
+,	O
+1617-1703	O
+)	O
+
+케난	B-PER
+에브렌	I-PER
+(	O
+1980~1989	O
+)	O
+
+**	O
+프리드리히	B-PER
+빌헬름	I-PER
+2세	I-PER
+(	O
+1744~1797	O
+)	O
+
+넘겨주기	O
+아드리안	B-PER
+로페스	I-PER
+알바레스	I-PER
+
+넘겨주기	O
+베를린	B-ORG
+필하모니	I-ORG
+관현악단	I-ORG
+
+**	O
+가고시마	B-LOC
+현	I-LOC
+-	O
+가고시마	B-LOC
+시	I-LOC
+
+치	B-LOC
+현	I-LOC
+(	O
+磁県	O
+)	O
+
+수도	O
+다카르에서	B-LOC
+북쪽으로	O
+약	O
+320km	O
+정도	O
+떨어진	O
+곳에	O
+위치하며	O
+세네갈	B-LOC
+강	I-LOC
+어귀와	O
+접한다	O
+.	O
+
+넘겨주기	O
+이와테	B-ORG
+아사히	I-ORG
+TV	I-ORG
+
+명	B-LOC
+(	O
+明	O
+)	O
+대종	B-PER
+경태제	I-PER
+(	O
+代宗	O
+景泰帝	O
+)	O
+7년	O
+
+중화인민공화국	B-ORG
+국무원	I-ORG
+국토자원부가	O
+공식으로	O
+지정하는	O
+지질공원이다	O
+.	O

@@ -1,0 +1,50 @@
+'	O
+''	O
+Monica	B-PER
+Seles	I-PER
+(	O
+3	O
+)	O
+
+Hän	O
+ei	O
+kuitenkaan	O
+siirtynyt	O
+seuraan	O
+,	O
+vaan	O
+liittyi	O
+Golden	B-ORG
+State	I-ORG
+Warriorsiin	I-ORG
+.	O
+
+Moskovan	B-ORG
+patriarkaatin	I-ORG
+Viron	I-ORG
+ortodoksinen	I-ORG
+kirkko	I-ORG
+
+Elokuvan	O
+ulkokuvissa	O
+näytetään	O
+myös	O
+San	B-LOC
+Franciscon	I-LOC
+satamaa	O
+.	O
+
+Kuningas	O
+Kustaa	B-PER
+Vaasan	I-PER
+mahdollinen	O
+syntymäkoti	O
+Rydboholmin	B-LOC
+linna	I-LOC
+sijaitsee	O
+kunnassa	O
+ja	O
+on	O
+nykyään	O
+yksityisomistuksessa	O
+.	O

@@ -1,0 +1,55 @@
+''	O
+Baba	B-ORG
+O'Riley	I-ORG
+''	O
+–	O
+5:01	O
+
+Calhoun	B-LOC
+County	I-LOC
+(	I-LOC
+West	I-LOC
+Virginia	I-LOC
+)	I-LOC
+
+Belsk	B-LOC
+Duży	I-LOC
+,	O
+Błędów	B-LOC
+,	O
+Goszczyn	B-LOC
+,	O
+Nowe	B-LOC
+Miasto	I-LOC
+nad	I-LOC
+Pilicą	I-LOC
+,	O
+Promna	B-LOC
+,	O
+Sadkowice	B-LOC
+,	O
+Wyśmierzyce	B-LOC
+
+DOORVERWIJZING	O
+When	B-ORG
+a	I-ORG
+dog	I-ORG
+loves	I-ORG
+a	I-ORG
+cat	I-ORG
+
+'	O
+''	O
+John	B-PER
+Lowe	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Anna-Lena	B-PER
+Grönefeld	I-PER
+Květa	B-PER
+Peschke	I-PER
+''	O
+'	O

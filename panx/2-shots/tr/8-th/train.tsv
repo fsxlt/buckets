@@ -1,0 +1,25 @@
+Kavalye	B-LOC
+(	I-LOC
+şehir	I-LOC
+)	I-LOC
+
+**	O
+Kim	B-PER
+Delaney	I-PER
+,	O
+NYPD	B-ORG
+Blue	I-ORG
+''	O
+
+**	O
+Alvin	B-PER
+Robertson	I-PER
+,	O
+San	B-ORG
+Antonio	I-ORG
+Spurs	I-ORG
+
+YÖNLENDİRME	O
+Küçükaltınbulak	B-LOC
+,	I-LOC
+Göle	I-LOC

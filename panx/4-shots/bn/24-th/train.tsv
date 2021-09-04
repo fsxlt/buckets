@@ -1,0 +1,81 @@
+গ্রেস	B-PER
+হপার	I-PER
+(	O
+১৯০৬–১৯৯২	O
+)	O
+
+বাংলাদেশ	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+হামযা	B-PER
+ইবন	I-PER
+আবদুল	I-PER
+মুত্তালিব	I-PER
+
+আদম	B-PER
+(	I-PER
+ইসলামের	I-PER
+পয়গম্বর	I-PER
+)	I-PER
+
+মতিঝিল	B-LOC
+,	O
+ঢাকা	B-LOC
+,	O
+ঢাকা	B-LOC
+বিভাগ	I-LOC
+
+ঢাকা	B-LOC
+,	O
+ঢাকা	B-LOC
+বিভাগ	I-LOC
+,	O
+বাংলাদেশ	B-LOC
+
+জর্জ	B-PER
+সায়মন	I-PER
+ও'ম	I-PER
+
+মহাবিশ্বের	B-ORG
+বৃহৎ-পরিসর	I-ORG
+গঠন	I-ORG
+
+২০১৪	B-ORG
+সাফ	I-ORG
+মহিলা	I-ORG
+চ্যাম্পিয়নশিপ	I-ORG
+
+অ্যান্টার্কটিকা	B-LOC
+,	O
+ফিলিস্তিন	B-LOC
+,	O
+ভ্যাটিকান	B-LOC
+সিটি	I-LOC
+আর	O
+পশ্চিম	B-LOC
+সাহারা	I-LOC
+বাদ	O
+দিয়ে	O
+(	O
+ধূসর	O
+রঙে	O
+চিহ্নিত	O
+)	O
+]]	O
+
+'	O
+''	O
+বাংলাদেশ	B-ORG
+প্রিমিয়ার	I-ORG
+লীগ	I-ORG
+''	O
+'	O
+
+হ্যারি	B-LOC
+পটার	I-LOC
+অ্যান্ড	I-LOC
+দ্য	I-LOC
+হাফ-ব্লাড	I-LOC
+প্রিন্স	I-LOC

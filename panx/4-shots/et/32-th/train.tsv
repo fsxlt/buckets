@@ -1,0 +1,103 @@
+Eesti	B-ORG
+Üliõpilaste	I-ORG
+Seltsi	I-ORG
+vilistlane	O
+.	O
+
+Rein	B-PER
+Raud	I-PER
+``	O
+Ja	O
+tuleb	O
+kord	O
+''	O
+.	O
+
+Amnesty	B-ORG
+International	I-ORG
+on	O
+pidanud	O
+süüdistusi	O
+alusetuteks	O
+.	O
+
+Kuusalu	B-LOC
+vald	I-LOC
+,	O
+Harju	B-LOC
+maakond	I-LOC
+
+''	O
+'3	O
+''	O
+'	O
+–	O
+Maxi	B-PER
+Rodríguez	I-PER
+,	O
+
+'	O
+''	O
+Põhjaprovints	B-LOC
+''	O
+'	O
+Paapua	B-LOC
+Uus-Guineas	I-LOC
+
+Samast	O
+suguvõsast	O
+oli	O
+pärinenud	O
+ka	O
+paavst	O
+Agapetus	B-PER
+I	I-PER
+.	O
+
+Sõmeru	B-LOC
+vald	I-LOC
+,	O
+Lääne-Viru	B-LOC
+maakond	I-LOC
+
+Linnas	O
+asub	O
+Salisbury	B-ORG
+katedraal	I-ORG
+.	O
+
+Eksikülalisena	O
+satub	O
+ta	O
+regulaarselt	O
+Lääne-Euroopasse	B-LOC
+.	O
+
+Rahvuslik	B-ORG
+Liit	I-ORG
+``	I-ORG
+Kõik	I-ORG
+Läti	I-ORG
+eest	I-ORG
+!	I-ORG
+''	I-ORG
+–	I-ORG
+``	I-ORG
+Isamaale	I-ORG
+ja	I-ORG
+Vabadusele	I-ORG
+/	I-ORG
+LNNK	I-ORG
+''	I-ORG
+
+Gunnisoni	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O
+
+Marie	B-PER
+Curie	I-PER
+(	O
+1867–1934	O
+)	O

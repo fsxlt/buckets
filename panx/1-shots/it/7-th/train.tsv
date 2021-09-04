@@ -1,0 +1,25 @@
+Peter	B-PER
+Falk	I-PER
+–	O
+Colombo	B-ORG
+''	O
+(	O
+''Columbo	O
+''	O
+)	O
+
+20px	O
+Pol.	B-LOC
+C.E.P.	I-LOC
+,	I-LOC
+Castel	I-LOC
+di	I-LOC
+Sangro	I-LOC
+
+Chiesa	B-ORG
+di	I-ORG
+Santa	I-ORG
+Maria	I-ORG
+presso	I-ORG
+San	I-ORG
+Satiro	I-ORG

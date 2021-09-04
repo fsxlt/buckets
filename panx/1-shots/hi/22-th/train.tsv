@@ -1,0 +1,15 @@
+सराइकेला	B-LOC
+खरसावाँ	I-LOC
+जिला	I-LOC
+
+अजातशत्रु	B-ORG
+(	I-ORG
+मगध	I-ORG
+का	I-ORG
+राजा	I-ORG
+)	I-ORG
+
+ओम	B-PER
+पुरी	I-PER
+...	O
+नत्थू	O

@@ -1,0 +1,132 @@
+총	O
+10개의	O
+팀이	O
+참가하며	O
+1위	O
+팀은	O
+스코틀랜드	B-ORG
+챔피언십으로	I-ORG
+승격하고	O
+10위	O
+팀은	O
+자동으로	O
+스코틀랜드	B-ORG
+리그	I-ORG
+2로	I-ORG
+강등된다	O
+.	O
+
+인구	O
+약	O
+150만	O
+명의	O
+고베	B-LOC
+시에서	I-LOC
+피해가	O
+특히	O
+컸다	O
+.	O
+
+코브는	O
+인셉션을	O
+위해	O
+``	O
+포저Forger	O
+''	O
+임스	O
+(	O
+톰	B-PER
+하디	I-PER
+분	O
+)	O
+와	O
+``	O
+약제사Chemist	O
+''	O
+유서프	O
+(	O
+딜리프	B-PER
+라오	I-PER
+분	O
+)	O
+,	O
+``	O
+설계자Architect	O
+''	O
+아리아드네	B-PER
+(	O
+엘런	B-PER
+페이지	I-PER
+분	O
+)	O
+를	O
+끌어모은다	O
+.	O
+
+**	O
+도미니카	B-LOC
+공화국의	I-LOC
+전	O
+야구선수	O
+호세	B-PER
+카페얀	I-PER
+
+인민진보당	B-ORG
+(	O
+PPP	O
+)	O
+
+강석우	B-PER
+(	O
+홍풍구	O
+역	O
+)	O
+
+둥하이	B-ORG
+대교	I-ORG
+(	O
+)	O
+를	O
+통과함	O
+
+넘겨주기	O
+해남	B-LOC
+우항리	I-LOC
+공룡·익룡·새발자국화석	I-LOC
+산지	I-LOC
+
+'	O
+''	O
+멜레스	B-PER
+제나위	I-PER
+''	O
+'	O
+
+**	O
+쇼난	B-ORG
+모노레일	I-ORG
+(	O
+현수식	O
+)	O
+
+송재림	B-PER
+&	O
+김소은	B-PER
+(	O
+우리	B-ORG
+결혼했어요4	I-ORG
+)	O
+
+넘겨주기	O
+경원군	B-LOC
+(	I-LOC
+함경북도	I-LOC
+)	I-LOC
+
+**	O
+아베	B-PER
+신조	I-PER
+(	O
+2012	O
+~	O
+)	O

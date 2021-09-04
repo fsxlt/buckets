@@ -1,0 +1,65 @@
+رجوع_مکرر	O
+ہشام	B-PER
+بن	I-PER
+عبدالملک	I-PER
+
+رجوع_مکرر	O
+لک	B-LOC
+آؤٹ	I-LOC
+ماؤنٹین،	I-LOC
+جارجیا	I-LOC
+
+محمد	B-PER
+یونس	I-PER
+,	O
+بنگلہ	B-LOC
+دیش	I-LOC
+''	O
+
+جامعہ	B-ORG
+ہجویری	I-ORG
+,	O
+لاہور	B-LOC
+
+اسحاق	B-PER
+رابین	I-PER
+and	O
+شمعون	B-PER
+پیریز	I-PER
+
+رجوع_مکرر	O
+حسین	B-PER
+احمد	I-PER
+مدنی	I-PER
+
+رجوع_مکرر	O
+تحریک	B-ORG
+ختم	I-ORG
+نبوت	I-ORG
+1974ء	I-ORG
+
+رجوع_مکرر	O
+اقتصادی	B-ORG
+تعاون	I-ORG
+تنظیم	I-ORG
+
+رجوع_مکرر	O
+سینٹ	B-LOC
+میری	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+واسیکا	I-LOC
+کاؤنٹی،	I-LOC
+مینیسوٹا	I-LOC
+
+رجوع_مکرر	O
+چیک	B-ORG
+فوجی	I-ORG
+محکمہ	I-ORG
+خفیہ	I-ORG
+اطلاعات	I-ORG
+
+رجوع_مکرر	O
+ویسٹ	B-LOC
+ہیون،	I-LOC
+کنیکٹیکٹ	I-LOC

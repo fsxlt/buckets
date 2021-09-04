@@ -1,0 +1,42 @@
+넘겨주기	O
+크롬	B-PER
+(	I-PER
+메로빙거	I-PER
+)	I-PER
+
+후쿠쓰	B-LOC
+시	I-LOC
+(	O
+)	O
+
+2002년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+국가대표	O
+
+높이는	O
+632m	O
+,	O
+121층으로	O
+아랍에미리트	B-LOC
+두바이의	B-LOC
+부르즈	B-ORG
+할리파	I-ORG
+다음으로	O
+높은	O
+건물이다	O
+.	O
+
+가이타	B-LOC
+정	I-LOC
+(	O
+)	O
+
+;	O
+'	O
+''	O
+젠포우지	O
+오키아유	B-PER
+료타로）	I-PER
+''	O
+'	O

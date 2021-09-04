@@ -1,0 +1,52 @@
+이스탄불에	B-LOC
+이어	O
+두	O
+번째로	O
+큰	O
+도시이며	O
+앙카라	B-LOC
+주의	I-LOC
+주도이기도	O
+하다	O
+.	O
+
+아버지는	O
+빅	B-PER
+밴	I-PER
+베이더이다	I-PER
+.	O
+
+넘겨주기	O
+연합	B-ORG
+이스라엘	I-ORG
+왕국	I-ORG
+
+넘겨주기	O
+기자	B-PER
+(	I-PER
+고조선	I-PER
+)	I-PER
+
+산인	B-ORG
+방송	I-ORG
+(	O
+BSS	O
+)	O
+
+트라브존	B-LOC
+주는	I-LOC
+면적	O
+약	O
+4,685km2이며	O
+,	O
+리제	B-LOC
+주	I-LOC
+,	O
+기레순	B-LOC
+주	I-LOC
+,	O
+귀뮈샤네	B-LOC
+주와	I-LOC
+접하고	O
+있다	O
+.	O

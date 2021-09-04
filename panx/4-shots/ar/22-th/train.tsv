@@ -1,0 +1,78 @@
+تحويل	O
+ناتئ	B-LOC
+وجني	I-LOC
+للعظم	I-LOC
+الجبهي	I-LOC
+
+*237	O
+عدد	B-ORG
+مضلعي	I-ORG
+(	O
+80	O
+أضلاع-	O
+...	O
+)	O
+
+**	O
+ماريا	B-PER
+دي	I-PER
+فيوتا،	I-PER
+سائقة	O
+فورمولا	B-ORG
+1	I-ORG
+إسبانية	B-LOC
+.	O
+
+طلحة	B-PER
+بن	I-PER
+عبيد	I-PER
+الله	I-PER
+كذلك	O
+
+تحويل	O
+ميلروس	B-LOC
+(	I-LOC
+نيومكسيكو	I-LOC
+)	I-LOC
+
+مقاطعة	B-LOC
+غلوستر	I-LOC
+(	I-LOC
+نيو	I-LOC
+جيرسي	I-LOC
+)	I-LOC
+
+تحويل	O
+هاريسبيرغ	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+تحويل	O
+المجمع	B-ORG
+العربي	I-ORG
+للإدارة	I-ORG
+والمعرفة	I-ORG
+
+سعد	B-PER
+بن	I-PER
+عبد	I-PER
+العزيز	I-PER
+آل	I-PER
+سعود	I-PER
+
+ستاد	B-ORG
+القاهرة	I-ORG
+الدولي،	I-ORG
+القاهرة،	B-LOC
+مصر	B-LOC
+
+تحويل	O
+أحمد	B-PER
+عبد	I-PER
+الله	I-PER
+(	I-PER
+لاعب	I-PER
+كرة	I-PER
+قدم	I-PER
+)	I-PER

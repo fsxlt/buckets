@@ -1,0 +1,62 @@
+전	O
+시즌	O
+우승	O
+팀은	O
+맨체스터	B-ORG
+유나이티드	I-ORG
+FC로	I-ORG
+지난	O
+2008-09시즌에	B-LOC
+팀의	O
+18번째	O
+우승을	O
+하였다	O
+.	O
+
+**	O
+하니시나	B-LOC
+군	I-LOC
+사카키	B-LOC
+정	I-LOC
+
+저장	B-LOC
+성	I-LOC
+항저우	B-LOC
+시	I-LOC
+
+'	O
+''	O
+송병구	B-PER
+''	O
+'	O
+
+시코쿠	B-ORG
+여객철도	I-ORG
+요산	B-ORG
+선	I-ORG
+
+대통령	B-ORG
+―	O
+펠리페	B-PER
+칼데론	I-PER
+(	O
+2006	O
+~	O
+)	O
+
+줄리아는	O
+톰	B-PER
+크루즈와	I-PER
+톰	B-PER
+행크스같은	I-PER
+유명인보다	O
+높게	O
+평가되는	O
+울머	O
+스케일의	O
+최고	O
+정상급	O
+스타로	O
+인정받고	O
+있다	O
+.	O

@@ -1,0 +1,83 @@
+``	O
+1	B-ORG
+!	I-ORG
+2	I-ORG
+!	I-ORG
+3	I-ORG
+!	I-ORG
+4	I-ORG
+!	I-ORG
+Yoroshiku	I-ORG
+!	I-ORG
+''	O
+
+ALIH	O
+Jacques	B-PER
+Martin	I-PER
+(	I-PER
+komik	I-PER
+)	I-PER
+
+ALIH	O
+Idols	B-ORG
+(	I-ORG
+Finlandia	I-ORG
+)	I-ORG
+
+Iwan	B-PER
+Fals	I-PER
+(	O
+7	O
+)	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Nord	I-LOC
+
+``	O
+Made	B-ORG
+in	I-ORG
+the	I-ORG
+USA	I-ORG
+''	O
+
+Tukang	B-ORG
+Bubur	I-ORG
+Naik	I-ORG
+Haji	I-ORG
+The	I-ORG
+Series	I-ORG
+''	O
+sebagai	O
+Tuning	O
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+ALIH	O
+Danau	B-LOC
+Garam	I-LOC
+Besar	I-LOC
+
+ALIH	O
+Ellen	B-PER
+Axson	I-PER
+Wilson	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ille-et-Vilaine	I-LOC

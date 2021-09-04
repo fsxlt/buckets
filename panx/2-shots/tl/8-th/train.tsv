@@ -1,0 +1,39 @@
+Isabel	B-PER
+ng	I-PER
+Ungria	I-PER
+
+'	O
+''	O
+Niger	B-LOC
+''	O
+'	O
+
+San	B-LOC
+Fernando	I-LOC
+,	I-LOC
+La	I-LOC
+Union	I-LOC
+
+Do	B-ORG
+n't	I-ORG
+Cry	I-ORG
+for	I-ORG
+Me	I-ORG
+,	I-ORG
+Argentina	I-ORG
+
+NBA	B-ORG
+Inside	I-ORG
+Stuff	I-ORG
+''	O
+(	O
+1988–1995	O
+)	O
+
+Obando	B-LOC
+,	I-LOC
+Bulacan	I-LOC
+
+Eleanor	B-PER
+ng	I-PER
+Aquitania	I-PER

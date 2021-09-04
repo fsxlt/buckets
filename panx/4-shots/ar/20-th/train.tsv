@@ -1,0 +1,101 @@
+أما	O
+الابن	O
+الأصغر	O
+فهو	O
+يدير	O
+تجارته	O
+الصغيرة	O
+بالقرب	O
+من	O
+مادوراي	B-LOC
+.	O
+
+الشيخ	O
+محمد	B-PER
+مهدي	I-PER
+شمس	I-PER
+الدين	I-PER
+.	O
+
+تحويل	O
+صالح	B-PER
+عبد	I-PER
+الله	I-PER
+كامل	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+غاريت	I-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+ميريل	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Sparrman	O
+''	O
+'	O
+-	O
+أنديرس	B-ORG
+إريكسون	I-ORG
+سبارمان	I-ORG
+(	O
+1781–1826	O
+)	O
+
+لاإطار]]	O
+'	O
+''	O
+إيه	B-ORG
+سي	I-ORG
+ميلان	I-ORG
+'	O
+''	O
+
+المهرجان	B-ORG
+الدولي	I-ORG
+للفيلم	I-ORG
+بمراكش	I-ORG
+
+تحويل	O
+سراب‌شيان	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+إسلام	I-LOC
+آباد	I-LOC
+غرب	I-LOC
+)	I-LOC
+
+تحويل	O
+رضا	B-PER
+حسيني	I-PER
+نسب	I-PER
+
+تحويل	O
+ذبابة	B-LOC
+ثمار	I-LOC
+الزيتون	I-LOC
+
+أبو	B-PER
+العباس	I-PER
+عبد	I-PER
+الله	I-PER
+السفاح	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251732	O

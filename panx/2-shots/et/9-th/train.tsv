@@ -1,0 +1,60 @@
+'	O
+''	O
+Hispaania	B-LOC
+''	O
+'	O
+
+suuna	O
+¡Viva	B-ORG
+Nueva	I-ORG
+!	I-ORG
+
+Venemaa	B-LOC
+Riigiduuma	B-ORG
+tunnistas	O
+,	O
+et	O
+käsu	O
+Katõni	B-LOC
+massimõrva	I-LOC
+sooritamiseks	O
+andis	O
+Jossif	B-PER
+Stalin	I-PER
+.	O
+
+Vaatamata	O
+teiste	O
+arvamusele	O
+,	O
+usaldas	O
+Albus	B-PER
+Dumbledore	I-PER
+Snape´i	O
+põhjustel	O
+,	O
+mida	O
+nad	O
+hoidsid	O
+saladuses	O
+.	O
+
+Tallinnas	B-LOC
+kogunenud	O
+Sotsiaaldemokraatliku	B-ORG
+erakonna	I-ORG
+juhatuse	O
+koosolekul	O
+arutati	O
+Jüri	B-PER
+Pihli	I-PER
+tegevust	O
+seoses	O
+riigireetmissüüdistusega	O
+.	O
+
+Tapa	B-LOC
+vald	I-LOC
+,	O
+Lääne-Viru	B-LOC
+maakond	I-LOC

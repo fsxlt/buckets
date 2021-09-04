@@ -1,0 +1,126 @@
+''	O
+Moskovan	B-LOC
+keisarikunta	I-LOC
+''	O
+'	O
+
+Vuosina	O
+1967–1970	O
+hän	O
+oli	O
+virassa	O
+Princetonin	B-ORG
+yliopistossa	I-ORG
+,	O
+vuosina	O
+1970–1976	O
+Rockefeller-yliopistossa	B-ORG
+ja	O
+vuosina	O
+1976–1981	O
+Chicagon	B-ORG
+yliopistossa	I-ORG
+.	O
+
+Tästä	O
+poikkeuksena	O
+Mayhemin	B-ORG
+Deathcrush-EP	B-ORG
+ja	O
+De	B-ORG
+Mysteriis	I-ORG
+Dom	I-ORG
+Sathanas	I-ORG
+-albumi	O
+ovat	O
+helposti	O
+saatavissa	O
+suurimpien	O
+levykauppojen	O
+valikoimista	O
+myös	O
+Suomessa	O
+.	O
+
+OHJAUS	O
+Crank	B-ORG
+That	I-ORG
+(	I-ORG
+Soulja	I-ORG
+Boy	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Kevin	B-PER
+Magnussen	I-PER
+''	O
+'	O
+
+Kilpailun	O
+voitti	O
+Jackie	B-PER
+Stewart	I-PER
+,	O
+jolle	O
+voitto	O
+oli	O
+kauden	O
+neljäs	O
+.	O
+
+Tadžikit	B-ORG
+200	O
+303	O
+(	O
+0,15	O
+%	O
+)	O
+
+Titon	B-LOC
+Jugoslavia	I-LOC
+voimisti	O
+muslimien	O
+asemaa	O
+,	O
+mikä	O
+herätti	O
+serbeissä	O
+vastustusta	O
+.	O
+
+Hän	O
+oli	O
+isoäitinsä	O
+puolelta	O
+Sverkerin	B-ORG
+sukua	I-ORG
+(	O
+kts	O
+.	O
+
+Hän	O
+syntyi	O
+México	B-LOC
+Cityssä	I-LOC
+ja	O
+oli	O
+Ricardo	B-PER
+Rodríguezin	I-PER
+isoveli	O
+.	O
+
+Danny	B-PER
+DeVito	I-PER
+,	O
+Bette	B-PER
+Midler	I-PER
+,	O
+Neve	B-PER
+Campbell	I-PER
+
+OHJAUS	O
+Cotopaxi	B-LOC
+(	I-LOC
+maakunta	I-LOC
+)	I-LOC

@@ -1,0 +1,20 @@
+Партия	B-ORG
+на	I-ORG
+обединените	I-ORG
+демократи	I-ORG
+на	I-ORG
+Македония	I-ORG
+
+пренасочване	O
+Згорни	B-LOC
+Слемен	I-LOC
+(	I-LOC
+община	I-LOC
+Марибор	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Хуан	B-PER
+Карлос	I-PER
+Фереро	I-PER

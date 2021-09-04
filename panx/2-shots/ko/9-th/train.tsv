@@ -1,0 +1,55 @@
+넘겨주기	O
+2005년	B-ORG
+FIFA	I-ORG
+U-17	I-ORG
+세계	I-ORG
+축구	I-ORG
+선수권	I-ORG
+대회	I-ORG
+
+이	O
+때문에	O
+유럽이	B-LOC
+학문의	O
+암흑에	O
+뒤덮인	O
+시기에도	O
+이	O
+지역에서는	O
+학문이	O
+발전해	O
+나갔다	O
+.	O
+
+넘겨주기	O
+알리바바와	B-PER
+사십	I-PER
+인의	I-PER
+도적	I-PER
+
+前	O
+중화민국	B-LOC
+타이완	I-LOC
+총통	B-ORG
+.	O
+
+넘겨주기	O
+2010년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+C조	I-ORG
+
+넘겨주기	O
+윌리엄	B-PER
+1세	I-PER
+(	I-PER
+잉글랜드	I-PER
+)	I-PER
+
+그런데	O
+갑자기	O
+전세는	O
+마른	B-LOC
+강에서	I-LOC
+역전되었다	O
+.	O

@@ -1,0 +1,103 @@
+Diocesi	B-LOC
+di	I-LOC
+Mantova	I-LOC
+
+Il	O
+secondo	O
+rifacimento	O
+venne	O
+fatto	O
+dallo	O
+Studio	B-ORG
+Shaw	I-ORG
+di	O
+Hong	B-LOC
+Kong	I-LOC
+.	O
+
+Doctor	B-ORG
+Who	I-ORG
+''	O
+(	O
+1971-1976	O
+)	O
+
+Egli	O
+stesso	O
+,	O
+nelle	O
+proprie	O
+opere	O
+,	O
+vanterà	O
+più	O
+volte	O
+una	O
+parentela	O
+con	O
+Cesare	B-PER
+Beccaria	I-PER
+.	O
+
+Città	B-LOC
+di	I-LOC
+South	I-LOC
+Perth	I-LOC
+(	O
+South	B-LOC
+Perth	I-LOC
+)	O
+
+Roberta	B-PER
+Vinci	I-PER
+ha	O
+sconfitto	O
+in	O
+finale	O
+Lucie	B-PER
+Hradecká	I-PER
+per	O
+4-6	O
+,	O
+6-2	O
+,	O
+6-2	O
+.	O
+
+Questa	O
+presentazione	O
+avvenne	O
+come	O
+atto	O
+ufficiale	O
+nel	O
+Palau	B-ORG
+de	I-ORG
+la	I-ORG
+Generalitat	I-ORG
+de	I-ORG
+Catalunya	I-ORG
+.	O
+
+È	O
+Roberto	B-PER
+Rossellini	I-PER
+a	O
+dargli	O
+la	O
+prima	O
+opportunità	O
+.	O
+
+Ralph	B-PER
+Sampson	I-PER
+,	O
+Houston	B-ORG
+Rockets	I-ORG
+
+'	O
+''	O
+Friuli-Venezia	B-LOC
+Giulia	I-LOC
+''	O
+'	O

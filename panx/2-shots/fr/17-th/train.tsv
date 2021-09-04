@@ -1,0 +1,39 @@
+==	O
+Oblast	B-LOC
+de	I-LOC
+Khmelnitski	I-LOC
+==	O
+
+Cathédrale	B-ORG
+de	I-ORG
+Göteborg	I-ORG
+(	O
+Göteborg	B-LOC
+)	O
+
+Parti	B-ORG
+socialiste	I-ORG
+de	I-ORG
+Serbie	I-ORG
+(	O
+SPS	O
+)	O
+
+Paresseux	B-LOC
+à	I-LOC
+gorge	I-LOC
+brune	I-LOC
+
+Axel	B-PER
+Kahn	I-PER
+et	O
+Jean-François	B-PER
+Kahn	I-PER
+
+rect	O
+290	O
+500	O
+380	O
+570	O
+Patrick	B-PER
+Vieira	I-PER

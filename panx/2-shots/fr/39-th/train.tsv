@@ -1,0 +1,44 @@
+Musée	B-ORG
+archéologique	I-ORG
+de	I-ORG
+Gandie	I-ORG
+,	O
+à	O
+Gandie	B-LOC
+
+Ligue	B-LOC
+des	I-LOC
+champions	I-LOC
+de	I-LOC
+l'UEFA	I-LOC
+1997-1998	I-LOC
+
+***	O
+Remixé	O
+par	O
+John	B-PER
+Powell	I-PER
+
+Collection	B-ORG
+de	I-ORG
+l'art	I-ORG
+brut	I-ORG
+
+Cette	O
+étape	O
+est	O
+remportée	O
+par	O
+l'Américain	O
+Tyler	B-PER
+Farrar	I-PER
+.	O
+
+San	B-LOC
+Cristóbal	I-LOC
+de	I-LOC
+La	I-LOC
+Laguna	I-LOC
+,	O
+en	O
+Espagne	B-LOC

@@ -1,0 +1,37 @@
+**	O
+मोहम्मद	B-PER
+अली	I-PER
+जिन्नाह	I-PER
+,	O
+पाकिस्तान	B-LOC
+
+हर्ड	B-LOC
+द्वीप	I-LOC
+और	I-LOC
+मैकडोनाल्ड	I-LOC
+द्वीप	I-LOC
+
+हैरी	B-LOC
+पॉटर	I-LOC
+और	I-LOC
+हाफ़-ब्लड	I-LOC
+प्रिंस	I-LOC
+
+कार्टून	B-ORG
+नेटवर्क	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+मोतीलाल	B-PER
+वोरा	I-PER
+(	O
+२	O
+)	O
+
+ईरान	B-LOC
+के	O
+सफ़वी	B-ORG
+वंश	I-ORG
+का	O
+शासक।	O

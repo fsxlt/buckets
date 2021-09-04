@@ -1,0 +1,96 @@
+đổi	O
+Zeno	B-PER
+xứ	I-PER
+Elea	I-PER
+
+20px]]	O
+Phanxicô	B-PER
+Xaviê	I-PER
+Lê	I-PER
+Văn	I-PER
+Hồng	I-PER
+
+Tổ	B-ORG
+chức	I-ORG
+Giáo	I-ORG
+dục	I-ORG
+,	I-ORG
+Khoa	I-ORG
+học	I-ORG
+và	I-ORG
+Văn	I-ORG
+hóa	I-ORG
+Liên	I-ORG
+Hiệp	I-ORG
+Quốc	I-ORG
+
+đổi	O
+Nuốc	B-LOC
+đầu	I-LOC
+đỏ	I-LOC
+
+Tuluá	B-LOC
+170	O
+243	O
+Valle	B-ORG
+del	I-ORG
+Cauca	I-ORG
+
+Hắc	B-LOC
+Long	I-LOC
+Giang	I-LOC
+(	O
+4.410	O
+km	O
+)	O
+
+THPT	O
+Đội	O
+Cấn	O
+,	O
+Vĩnh	B-LOC
+Phúc	I-LOC
+
+Không	B-ORG
+quân	I-ORG
+Hoàng	I-ORG
+gia	I-ORG
+
+đổi	O
+Ridgeway	B-LOC
+(	I-LOC
+thị	I-LOC
+trấn	I-LOC
+)	I-LOC
+,	I-LOC
+Quận	I-LOC
+Iowa	I-LOC
+,	I-LOC
+Wisconsin	I-LOC
+
+'	O
+''	O
+Đinh	B-PER
+Tiến	I-PER
+Thành	I-PER
+''	O
+'	O
+(	O
+)	O
+
+''Giận	O
+hờn	O
+''	O
+(	O
+LVCD194	O
+)	O
+với	O
+Hương	B-PER
+Lan	I-PER
+
+đổi	O
+Mặt	B-ORG
+trời	I-ORG
+của	I-ORG
+Chủ	I-ORG
+quân	I-ORG

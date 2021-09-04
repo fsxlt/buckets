@@ -1,0 +1,35 @@
+'	O
+''	O
+Anna	B-PER
+Fenninger	I-PER
+''	O
+'	O
+
+Sainte-Suzanne	B-LOC
+(	I-LOC
+Mayenne	I-LOC
+)	I-LOC
+
+Mohammed	B-PER
+V	I-PER
+al-Ghanî	I-PER
+reprend	O
+le	O
+pouvoir	O
+.	O
+
+Rivière	B-LOC
+Saskatchewan	I-LOC
+Nord	I-LOC
+
+Cocathédrale	B-ORG
+Saint-Antoine-de-Padoue	I-ORG
+de	I-ORG
+Longueuil	I-ORG
+
+Équipe	B-ORG
+de	I-ORG
+Belgique	I-ORG
+de	I-ORG
+volley-ball	I-ORG
+féminin	I-ORG

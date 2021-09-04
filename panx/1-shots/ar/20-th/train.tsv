@@ -1,0 +1,17 @@
+ماريا	B-PER
+كيريلينكو	I-PER
+أنابيل	B-PER
+ميدينا	I-PER
+غاريغيس	I-PER
+
+تحويل	O
+سينيه	B-LOC
+(	I-LOC
+أين	I-LOC
+)	I-LOC
+
+تاريخ	B-ORG
+إصدارات	I-ORG
+آي	I-ORG
+أو	I-ORG
+إس	I-ORG

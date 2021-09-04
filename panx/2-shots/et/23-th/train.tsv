@@ -1,0 +1,54 @@
+suuna	O
+Siil	B-LOC
+(	I-LOC
+perekond	I-LOC
+)	I-LOC
+
+Herbert	B-PER
+Spencer	I-PER
+,	O
+inglise	O
+filosoof	O
+ja	O
+sotsioloog	O
+(	O
+1820–1903	O
+)	O
+
+Samoa	B-LOC
+-	O
+Riigipea	B-PER
+Tupua	B-PER
+Tamasese	I-PER
+Tupuola	I-PER
+Tufuga	I-PER
+Efi	I-PER
+
+'	O
+''	O
+Peterburi	B-LOC
+Kaitsejaoskond	O
+''	O
+'	O
+
+suuna	O
+Euroopa	B-ORG
+Söe-	I-ORG
+ja	I-ORG
+Teraseühendus	I-ORG
+
+Lisaks	O
+ka	O
+Uus-Meremaal	B-LOC
+,	O
+Tongas	B-LOC
+ning	O
+ameerika	B-LOC
+Ühendriikides	I-LOC
+.	O
+
+''	O
+Wrocławi	B-ORG
+linnastaadion	I-ORG
+''	O
+'	O

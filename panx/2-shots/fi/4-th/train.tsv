@@ -1,0 +1,65 @@
+Se	O
+sijaitsee	O
+15	O
+kilometriä	O
+Gaboronesta	B-LOC
+pohjoiseen	O
+.	O
+
+Josh	B-PER
+Farro	I-PER
+–	O
+kitara	O
+,	O
+taustalaulu	O
+
+'	O
+''	O
+Kuopio	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Adrian	B-PER
+Sutil	I-PER
+''	O
+'	O
+
+Se	O
+kuuluu	O
+Pohjoiseen	B-LOC
+provinssiin	I-LOC
+.	O
+
+Se	O
+sijaitsee	O
+Länsi-Ghatien	B-LOC
+vuoristoon	O
+kuuluvilla	O
+Nilgirivuorilla	B-LOC
+,	O
+ja	O
+on	O
+osa	O
+Nilgirin	B-LOC
+biosfäärialuetta	I-LOC
+.	O
+
+'	O
+''	O
+BM	B-ORG
+Atletico	I-ORG
+de	I-ORG
+Madrid	I-ORG
+''	O
+'	O
+
+The	B-ORG
+Sound	I-ORG
+of	I-ORG
+Zen	I-ORG
+''	O
+(	O
+2002	O
+)	O

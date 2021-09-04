@@ -1,0 +1,53 @@
+अनुप्रेषित	O
+फकिंग	B-LOC
+,	I-LOC
+ऑस्ट्रिया	I-LOC
+
+पुनर्प्रेषित	O
+विदेश	B-ORG
+मंत्रालय	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+डॉ॰	B-PER
+मोहनराव	I-PER
+मधुकरराव	I-PER
+भागवत	I-PER
+(	O
+2009	O
+...	O
+)	O
+
+संयुक्त	B-ORG
+राष्ट्र	I-ORG
+की	I-ORG
+समुद्री	I-ORG
+क़ानून	I-ORG
+संधि	I-ORG
+
+अमरीश	B-PER
+पुरी	I-PER
+-	O
+के	O
+के	O
+
+'	O
+''	O
+पाले	O
+''	O
+'	O
+भारत	B-LOC
+के	O
+गोवा	B-LOC
+राज्य	B-ORG
+के	O
+उत्तर	B-LOC
+गोवा	I-LOC
+जिले	I-LOC
+में	O
+स्थित	O
+एक	O
+जनगणना	B-LOC
+नगर	I-LOC
+है।	O

@@ -1,0 +1,138 @@
+Borromeo	B-PER
+Szent	I-PER
+Károly	I-PER
+
+Az	O
+első	O
+mérkőzésen	O
+kikaptak	O
+a	O
+britektől	B-ORG
+7–3-ra	O
+,	O
+majd	O
+3–2-re	O
+győztek	O
+a	O
+magyar	B-ORG
+válogatott	I-ORG
+ellen	O
+.	O
+
+A	O
+vízelvezető	O
+csatorna	O
+kezdőpontja	O
+Kocsértól	B-LOC
+nyugatra	O
+található	O
+.	O
+
+Hugh	B-PER
+Laurie	I-PER
+''	O
+(	O
+Doktor	B-ORG
+House	I-ORG
+)	O
+''	O
+
+Jeunesse	B-ORG
+Esch	I-ORG
+(	O
+1,925	O
+)	O
+
+Intézetének	O
+világszerte	O
+híre	O
+kelt	O
+,	O
+Európában	B-LOC
+és	O
+Amerikában	B-LOC
+(	O
+Samuel	B-PER
+Gridley	I-PER
+Howe	I-PER
+)	O
+is	O
+modellé	O
+vált	O
+.	O
+
+'	O
+''	O
+TSV	B-ORG
+1860	I-ORG
+München	I-ORG
+''	O
+'	O
+
+zenész	O
+,	O
+a	O
+Nirvana	B-ORG
+frontembere	O
+
+ÁTIRÁNYÍTÁS	O
+Buxerolles	B-LOC
+(	I-LOC
+Côte-d'Or	I-LOC
+)	I-LOC
+
+Rybolovlev	O
+pénzügyi	O
+támogatásának	O
+köszönhetően	O
+a	O
+csapat	O
+hozott	O
+számos	O
+elsőrangú	O
+játékost	O
+,	O
+köztük	O
+van	O
+Radamel	B-PER
+Falcao	I-PER
+,	O
+João	B-PER
+Moutinho	I-PER
+,	O
+James	B-PER
+Rodríguez	I-PER
+és	O
+Ricardo	B-PER
+Carvalho	I-PER
+.	O
+
+Az	O
+út	O
+Kijevtől	B-LOC
+észak	O
+felé	O
+,	O
+Fehéroroszország	B-LOC
+irányába	O
+halad	O
+.	O
+
+''	O
+L’Aquila	B-LOC
+megye	I-LOC
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Olivet	B-LOC
+(	I-LOC
+Mayenne	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Biskoupky	B-LOC
+(	I-LOC
+Brno-vidéki	I-LOC
+járás	I-LOC
+)	I-LOC

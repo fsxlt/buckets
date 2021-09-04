@@ -1,0 +1,17 @@
+تحويل	O
+نيكولاي	B-PER
+يغوروفيتش	I-PER
+جوكوفسكي	I-PER
+
+تحويل	O
+أكيشيما	B-LOC
+(	I-LOC
+طوكيو	I-LOC
+)	I-LOC
+
+تحويل	O
+صدم	B-ORG
+(	I-ORG
+خواص	I-ORG
+المواد	I-ORG
+)	I-ORG

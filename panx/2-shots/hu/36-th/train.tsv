@@ -1,0 +1,39 @@
+Puerto	B-LOC
+Rico	I-LOC
+postai	O
+rövidítése	O
+
+FC	B-ORG
+Porto	I-ORG
+(	O
+76,659	O
+)	O
+
+A	B-LOC
+Budapest	I-LOC
+Honvéd	I-LOC
+FC	I-LOC
+2011–2012-es	I-LOC
+szezonja	I-LOC
+
+'	O
+''	O
+Thomas	B-PER
+Lüthi	I-PER
+''	O
+'	O
+
+A	O
+főcsoportdöntőben	O
+a	O
+Chicago	B-ORG
+Bulls	I-ORG
+volt	O
+az	O
+ellenfelük	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Szergej	B-PER
+Gennagyjevics	I-PER
+Karaszjov	I-PER

@@ -1,0 +1,91 @@
+'	O
+''	O
+Andrés	B-PER
+Iniesta	I-PER
+''	O
+'	O
+
+Phùng	B-PER
+Quang	I-PER
+Thanh	I-PER
+;	O
+
+Đồng	B-LOC
+bằng	I-LOC
+sông	I-LOC
+Cửu	I-LOC
+Long	I-LOC
+
+====	O
+Navarrete	B-LOC
+,	I-LOC
+La	I-LOC
+Rioja	I-LOC
+====	O
+
+Vương	B-LOC
+quốc	I-LOC
+Tây	I-LOC
+Ban	I-LOC
+Nha	I-LOC
+(	O
+1975-nay	O
+)	O
+===	O
+
+''	O
+Moi	B-ORG
+...	I-ORG
+Lolita	I-ORG
+''	O
+
+đổi	O
+Thiên	B-PER
+hoàng	I-PER
+Ninkō	I-PER
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Nord	I-LOC
+
+Học	B-ORG
+viện	I-ORG
+Quân	I-ORG
+sự	I-ORG
+West	I-ORG
+Point	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+
+Vành	B-ORG
+đai	I-ORG
+Sao	I-ORG
+Hải	I-ORG
+Vương	I-ORG
+
+Con	O
+là	O
+Tần	B-PER
+Công	I-PER
+Bá	I-PER
+lên	O
+ngôi	O
+.	O
+
+'	O
+''	O
+Hạm	B-ORG
+đội	I-ORG
+Phương	I-ORG
+Bắc	I-ORG
+''	O
+'	O
+(	O
+Sở	O
+chỉ	O
+huy	O
+tại	O
+Severomorsk	B-LOC
+)	O
+.	O

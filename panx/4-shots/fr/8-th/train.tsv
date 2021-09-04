@@ -1,0 +1,99 @@
+REDIRECTION	O
+Symphonie	B-ORG
+nº	I-ORG
+6	I-ORG
+de	I-ORG
+Beethoven	I-ORG
+
+REDIRECTION	O
+Chef	B-ORG
+de	I-ORG
+l'État	I-ORG
+du	I-ORG
+Yémen	I-ORG
+
+Erlend	B-PER
+Mamelund	I-PER
+(	O
+Haslum	B-ORG
+HK	I-ORG
+)	O
+
+Les	O
+agglomérations	O
+les	O
+plus	O
+importantes	O
+se	O
+situent	O
+en	O
+amont	O
+,	O
+Loudéac	B-LOC
+(	O
+)	O
+,	O
+ou	O
+en	O
+aval	O
+,	O
+Redon	B-LOC
+(	O
+)	O
+.	O
+
+Colico	B-LOC
+,	O
+Dongo	B-LOC
+,	O
+Pianello	B-LOC
+del	I-LOC
+Lario	I-LOC
+
+John	B-PER
+Ambrose	I-PER
+Fleming	I-PER
+
+Congrès	B-ORG
+ornithologique	I-ORG
+international	I-ORG
+
+Alain	B-PER
+Corbin	I-PER
+(	O
+dir	O
+.	O
+
+redirection	O
+Huitième	B-LOC
+circonscription	I-LOC
+de	I-LOC
+l'Essonne	I-LOC
+
+REDIRECTION	O
+Xian	B-LOC
+de	I-LOC
+Fu	I-LOC
+
+'	O
+''	O
+Gary	B-PER
+Player	I-PER
+(	O
+2	O
+)	O
+'	O
+''	O
+
+la	O
+Sâne	B-LOC
+Vive	I-LOC
+(	O
+rg	O
+)	O
+,	O
+qui	O
+conflue	O
+à	O
+La	B-LOC
+Genête	I-LOC

@@ -1,0 +1,79 @@
+Villalbilla	B-LOC
+de	I-LOC
+Burgos	I-LOC
+
+REDIRECCIÓN	O
+John	B-PER
+F.	I-PER
+Kennedy	I-PER
+Jr	I-PER
+.	I-PER
+
+'	O
+''	O
+Gregor	B-PER
+Braun	I-PER
+''	O
+'	O
+
+Víctor	B-PER
+Estrella	I-PER
+Eduardo	B-PER
+Struvay	I-PER
+Jordi	B-PER
+Samper-Montaña	I-PER
+Gastão	B-PER
+Elias	I-PER
+
+REDIRECCIÓN	O
+Naval	B-ORG
+and	I-ORG
+Military	I-ORG
+Club	I-ORG
+
+Catedral	B-ORG
+de	I-ORG
+Santa	I-ORG
+María	I-ORG
+de	I-ORG
+Valencia	I-ORG
+
+'	O
+''	O
+Werder	B-ORG
+Bremen	I-ORG
+''	O
+'	O
+
+Sunny	B-PER
+Leone	I-PER
+(	O
+2005-2010	O
+)	O
+
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Irak	I-ORG
+
+REDIRECCIÓN	O
+De	B-LOC
+Tour	I-LOC
+Village	I-LOC
+(	I-LOC
+Míchigan	I-LOC
+)	I-LOC
+
+Condado	B-LOC
+de	I-LOC
+Todd	I-LOC
+(	O
+este	O
+)	O
+
+Ciudad	B-LOC
+de	I-LOC
+México	I-LOC
+(	O
+)	O

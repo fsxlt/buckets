@@ -1,0 +1,37 @@
+ÁTIRÁNYÍTÁS	O
+2001.	B-ORG
+szeptember	I-ORG
+11-ei	I-ORG
+terrortámadások	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Útszéli	B-LOC
+zsákhordó	I-LOC
+lepke	I-LOC
+
+Hedy	B-PER
+Lamarr	I-PER
+,	O
+színésznő	O
+és	O
+feltaláló	O
+
+'	O
+''	O
+FC	B-ORG
+Barcelona	I-ORG
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Csekefa	B-LOC
+(	I-LOC
+Szlovénia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Noskó	B-PER
+Ernő	I-PER
+''	O
+'	O

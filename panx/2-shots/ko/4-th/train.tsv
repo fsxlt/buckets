@@ -1,0 +1,45 @@
+동쪽으로는	O
+이란	B-LOC
+,	O
+남쪽으로는	O
+쿠웨이트와	B-LOC
+국경을	O
+접하며	O
+페르시아	B-LOC
+만과	I-LOC
+접한다	O
+.	O
+
+넘겨주기	O
+제2대	B-PER
+그래프턴	I-PER
+공작	I-PER
+찰스	I-PER
+피츠로이	I-PER
+
+데리	B-LOC
+(	I-LOC
+뉴햄프셔	I-LOC
+주	I-LOC
+)	I-LOC
+
+수도	O
+레이캬비크	B-LOC
+출신이며	O
+,	O
+아이슬란드	B-ORG
+상업전문학교를	I-ORG
+졸업하였다	O
+.	O
+
+넘겨주기	O
+작센코부르크고타의	B-PER
+빅토리아	I-PER
+멜리타	I-PER
+
+==	O
+메이저	B-ORG
+리그	I-ORG
+사커	I-ORG
+제휴팀	O
+==	O

@@ -1,0 +1,24 @@
+Sie	O
+lag	O
+im	O
+Aggertal	B-LOC
+nordöstlich	O
+von	O
+Overath	B-LOC
+im	O
+Rheinisch-Bergischen	B-LOC
+Kreis	I-LOC
+in	O
+Nordrhein-Westfalen	B-LOC
+.	O
+
+WEITERLEITUNG	O
+Nationalpark	B-ORG
+Desembarco	I-ORG
+del	I-ORG
+Granma	I-ORG
+
+WEITERLEITUNG	O
+Elizabeth	B-PER
+F.	I-PER
+Neufeld	I-PER

@@ -1,0 +1,26 @@
+Brandon	B-PER
+Knight	I-PER
+wurde	O
+am	O
+19	O
+.	O
+
+I	B-ORG
+Just	I-ORG
+Called	I-ORG
+to	I-ORG
+Say	I-ORG
+I	B-ORG
+Love	I-ORG
+You	I-ORG
+
+In	O
+der	O
+Nordostecke	O
+befand	O
+sich	O
+das	O
+Macellum	B-LOC
+von	I-LOC
+Pompeji	I-LOC
+.	O

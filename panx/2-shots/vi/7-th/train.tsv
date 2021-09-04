@@ -1,0 +1,39 @@
+Cao	B-PER
+Ly	I-PER
+Thần	I-PER
+Thánh	I-PER
+Đại	I-PER
+Vương	I-PER
+
+Xe	B-ORG
+bọc	I-ORG
+thép	I-ORG
+chở	I-ORG
+quân	I-ORG
+lội	O
+nước	O
+
+ĐỔI	O
+Nguyên	B-PER
+Thủy	I-PER
+Thiên	I-PER
+Tôn	I-PER
+
+*Hãng	O
+truyền	O
+hình	O
+TV	B-ORG
+Asahi	I-ORG
+.	O
+
+Hongcheon	B-LOC
+,	O
+Hàn	B-LOC
+Quốc	I-LOC
+
+*2007	O
+Praha	B-LOC
+,	O
+Cộng	B-LOC
+hòa	I-LOC
+Séc	I-LOC

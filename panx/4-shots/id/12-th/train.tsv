@@ -1,0 +1,79 @@
+ALIH	O
+Victoria	B-LOC
+,	I-LOC
+Labuan	I-LOC
+
+''	O
+Kaori	B-PER
+Ishihara	I-PER
+''	O
+'	O
+
+ALIH	O
+Daniel	B-PER
+Salvador	I-PER
+Reyes	I-PER
+Avellán	I-PER
+
+'	O
+''	O
+Pete	B-PER
+Sampras	I-PER
+''	O
+'	O
+
+Pada	O
+saat	O
+ini	O
+ia	O
+bermain	O
+untuk	O
+tim	O
+FC	B-ORG
+Dynamo	I-ORG
+Kirov	I-ORG
+.	O
+
+Ice	B-PER
+Cube	I-PER
+,	O
+Cuba	B-ORG
+Gooding	I-ORG
+,	I-ORG
+Jr	I-ORG
+.	I-ORG
+,	O
+Laurence	B-PER
+Fishburne	I-PER
+
+ALIH	O
+County	B-LOC
+Camp	I-LOC
+,	I-LOC
+Texas	I-LOC
+
+ALIH	O
+Piala	B-ORG
+Dunia	I-ORG
+U-17	I-ORG
+FIFA	I-ORG
+2013	I-ORG
+
+ALIH	O
+Partai	B-ORG
+Kebangkitan	I-ORG
+Bangsa	I-ORG
+
+(	O
+Jawa	B-LOC
+Barat	I-LOC
+)	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Calvados	I-LOC
+(	I-LOC
+A-L	I-LOC
+)	I-LOC

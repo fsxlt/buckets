@@ -1,0 +1,16 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Lot	I-LOC
+
+Lord	B-PER
+Voldemort	I-PER
+(	O
+suara	O
+)	O
+
+Stadium	B-ORG
+Moses	I-ORG
+Mabhida	I-ORG
+,	O
+Durban	B-LOC

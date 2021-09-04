@@ -1,0 +1,84 @@
+Vampire	B-ORG
+Ang	I-ORG
+Daddy	I-ORG
+Ko	I-ORG
+''	O
+
+**	O
+'	O
+''	O
+Maging	B-PER
+Sino	I-PER
+Ka	I-PER
+Man	I-PER
+:	I-PER
+Ang	I-PER
+Pagbabalik	I-PER
+''	O
+'	O
+''	O
+,	O
+ang	O
+kasunod	O
+na	O
+yugto	O
+
+``	O
+No	B-ORG
+me	I-ORG
+Enseñaste	I-ORG
+''	O
+''	O
+(	O
+Estéfano	O
+Remix	O
+)	O
+''	O
+–	O
+4:18	O
+
+Aparri	B-ORG
+,	I-ORG
+Cagayan	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Barcelona	I-LOC
+
+Henry	B-PER
+Ossawa	I-PER
+Tanner	I-PER
+
+'	O
+''	O
+Rusya	B-LOC
+''	O
+'	O
+
+James	B-PER
+Clerk	I-PER
+Maxwell	I-PER
+
+Monica	B-PER
+ng	I-PER
+Hipona	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Lalawigan	B-LOC
+ng	I-LOC
+Cagliary	I-LOC
+
+Kabundukan	B-LOC
+ng	I-LOC
+Zambales	I-LOC
+
+LAMMP]]	O
+)	O
+Laban	B-ORG
+ng	I-ORG
+Demokratikong	I-ORG
+Pilipino	I-ORG

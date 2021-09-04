@@ -1,0 +1,71 @@
+OMSHAP	O
+(	O
+Kalinyingrád-Cskalovszk	B-LOC
+44	O
+gép	O
+)	O
+
+Két	O
+évig	O
+dolgozott	O
+a	O
+Magyar	B-ORG
+Rádióban	I-ORG
+.	O
+
+''	O
+Grallaria	B-LOC
+quitensis	I-LOC
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Mackenzie	B-LOC
+(	I-LOC
+folyó	I-LOC
+)	I-LOC
+
+A	O
+Blink-182	B-ORG
+,	O
+a	O
+Good	B-ORG
+Charlotte	I-ORG
+,	O
+a	O
+Sum	B-ORG
+41	I-ORG
+,	O
+és	O
+mások	O
+felbukkantak	O
+az	O
+MTV-n	B-ORG
+és	O
+más	O
+média	O
+orgánumokban	O
+is	O
+.	O
+
+Ali	B-PER
+Hassan	I-PER
+Kuban	I-PER
+,	O
+Egyiptom	B-LOC
+
+Ezekben	O
+főként	O
+Norvégia	B-LOC
+környékéről	O
+vittek	O
+ellátmányt	O
+a	O
+Kola-félszigetre	B-LOC
+.	O
+
+'	O
+''	O
+Gaël	B-PER
+Monfils	I-PER
+''	O
+'	O

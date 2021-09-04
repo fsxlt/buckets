@@ -1,0 +1,23 @@
+*Praha	O
+(	O
+Kastil	B-ORG
+Praha	I-ORG
+)	O
+
+Maktoum	B-PER
+bin	I-PER
+Rashid	I-PER
+Al	I-PER
+Maktoum	B-PER
+''	O
+(	O
+Periode	O
+ke-2	O
+)	O
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aude	I-LOC

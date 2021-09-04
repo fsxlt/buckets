@@ -1,0 +1,99 @@
+'	O
+''	O
+Ana	B-PER
+Antonijević	I-PER
+''	O
+'	O
+
+Diocesi	B-LOC
+di	I-LOC
+Down	I-LOC
+e	I-LOC
+Connor	I-LOC
+.	O
+
+Per	O
+accelerare	O
+i	O
+tempi	O
+,	O
+il	O
+parroco	O
+si	O
+recò	O
+moltissime	O
+volte	O
+negli	O
+Stati	B-LOC
+Uniti	I-LOC
+d'America	I-LOC
+ottenendo	O
+finanziamenti	O
+dai	O
+locali	O
+emigranti	O
+.	O
+
+Taylor	B-PER
+Swift	I-PER
+—	O
+Blank	B-ORG
+Space	I-ORG
+''	O
+
+Kəpəz	B-ORG
+Professional	I-ORG
+Futbol	I-ORG
+Klubu	I-ORG
+
+Partecipò	O
+alle	O
+varie	O
+competizioni	O
+in	O
+rappresentanza	O
+della	O
+Repubblica	B-LOC
+Democratica	I-LOC
+Tedesca	I-LOC
+.	O
+
+'	O
+''	O
+Jakob	B-PER
+Hlasek	I-PER
+''	O
+'7-6	O
+6-3	O
+
+**	O
+'	O
+''	O
+Tony	B-PER
+Shalhoub	I-PER
+''	O
+'	O
+–	O
+Detective	B-ORG
+Monk	I-ORG
+''	O
+(	O
+''Monk	O
+''	O
+)	O
+
+Futbol'nyj	B-ORG
+Klub	I-ORG
+Metalurh	I-ORG
+Donec'k	I-ORG
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O
+
+border	O
+Regno	B-LOC
+delle	I-LOC
+Hawaii	I-LOC

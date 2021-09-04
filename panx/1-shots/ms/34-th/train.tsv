@@ -1,0 +1,18 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Oise	I-LOC
+
+モーニング娘。のひょっこりひょうたん島	O
+(	O
+Morning	B-ORG
+Musume	I-ORG
+no	I-ORG
+Hyokkori	I-ORG
+Hyoutanjima	I-ORG
+)	O
+
+Jeff	B-PER
+Ooi	I-PER
+Chuan	I-PER
+Aun	I-PER

@@ -1,0 +1,77 @@
+;	O
+-	O
+Tentera	B-ORG
+Udara	I-ORG
+Diraja	I-ORG
+Belanda	I-ORG
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Pyrénées	I-ORG
+
+Pertubuhan	B-ORG
+Meteorologi	I-ORG
+Sedunia	I-ORG
+(	O
+WMO	O
+)	O
+
+11	O
+,	O
+Jakarta	B-LOC
+Timur	I-LOC
+,	O
+Indonesia	B-LOC
+.	O
+
+'	O
+''	O
+Kamui	B-PER
+Kobayashi	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+Jepun	B-LOC
+(	O
+Waktu	B-LOC
+Piawai	I-LOC
+Jepun	I-LOC
+)	O
+
+Lee	B-PER
+Kyung-won	I-PER
+/	O
+Lee	B-PER
+Hyo-jung	I-PER
+
+Quack	B-PER
+Pack	I-PER
+''	O
+(	O
+1996-1997	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vosges	I-LOC
+
+Beliau	O
+juga	O
+membawa	O
+masuk	O
+Daley	B-PER
+Blind	I-PER
+dari	O
+Ajax	B-ORG
+Amsterdam	I-ORG
+sebanyak	O
+£14	O
+juta	O
+.	O

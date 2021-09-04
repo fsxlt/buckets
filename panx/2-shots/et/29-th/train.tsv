@@ -1,0 +1,57 @@
+Charlie	B-PER
+Sheen	I-PER
+–	O
+``	O
+Kaks	B-ORG
+ja	I-ORG
+pool	I-ORG
+meest	I-ORG
+''	O
+
+Québec	B-LOC
+(	I-LOC
+linn	I-LOC
+)	I-LOC
+
+Nii	O
+Euroopa	B-ORG
+Liit	I-ORG
+kui	O
+ka	O
+Rahvusvaheline	B-ORG
+Valuutafond	I-ORG
+olid	O
+seaduse	O
+juba	O
+enne	O
+selle	O
+vastuvõtmist	O
+hukka	O
+mõistnud	O
+.	O
+
+Sõjategevuse	O
+tulemusel	O
+jäi	O
+Lugansk	B-LOC
+täielikult	O
+elektrita	O
+.	O
+
+suuna	O
+Osariik	B-LOC
+(	I-LOC
+USA	I-LOC
+)	I-LOC
+
+Tema	O
+peamine	O
+vastaskandidaat	O
+Henrique	B-PER
+Capriles	I-PER
+Radonski	I-PER
+sai	O
+48,98	O
+protsenti	O
+häältest	O
+.	O

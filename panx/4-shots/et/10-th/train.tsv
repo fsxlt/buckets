@@ -1,0 +1,96 @@
+``	O
+Inimene	O
+õpib	O
+''	O
+(	O
+R.	B-PER
+Rannap	I-PER
+–	O
+O.	B-PER
+Arder	I-PER
+)	O
+
+'	O
+''	O
+Araabia	B-LOC
+Ühendemiraadid	I-LOC
+''	O
+'	O
+
+Buskerud	B-LOC
+,	O
+Hordaland	B-LOC
+,	O
+Sogn	B-LOC
+og	I-LOC
+Fjordane	I-LOC
+
+Sambia	B-LOC
+pealinnas	O
+Lusakas	B-LOC
+vannutati	O
+teiseks	O
+ametiajaks	O
+presidendiks	O
+Levy	B-PER
+Mwanawasa	I-PER
+.	O
+
+'	O
+''	O
+Daniel	B-PER
+Ricciardo	I-PER
+''	O
+'	O
+
+Hardini	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O
+
+suuna	O
+Edward	B-PER
+J.	I-PER
+Singler	I-PER
+
+Eestimaa	B-ORG
+Rahvaliit	I-ORG
+(	O
+ERL	O
+)	O
+
+*2009–2010	O
+mängis	O
+ta	O
+Kaunase	B-ORG
+Žalgirises	I-ORG
+.	O
+
+1224.	O
+aastal	O
+võeti	O
+lõplikult	O
+võim	O
+üle	O
+kogu	O
+Tālavas	B-LOC
+.	O
+
+A.	B-ORG
+Le	I-ORG
+Coq	I-ORG
+Arena	I-ORG
+,	O
+Tallinn	B-LOC
+
+Juuru	B-LOC
+vald	I-LOC
+,	O
+Rapla	B-LOC
+maakond	I-LOC
+
+suuna	O
+JK	B-ORG
+Tammeka	I-ORG
+naiskond	I-ORG

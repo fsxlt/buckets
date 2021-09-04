@@ -1,0 +1,38 @@
+*1965	O
+–	O
+Franz	B-PER
+Sondheimer	I-PER
+,	O
+Cambridge	B-LOC
+/	O
+Inglaterra	B-LOC
+
+REDIRECIONAMENTO	O
+Fotbal	B-ORG
+Club	I-ORG
+Steaua	I-ORG
+București	I-ORG
+
+Fernando	B-PER
+Haddad	I-PER
+-	O
+ministro	B-ORG
+da	I-ORG
+Educação	I-ORG
+do	I-ORG
+Brasil	I-ORG
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+REDIRECIONAMENTO	O
+Lista	B-LOC
+de	I-LOC
+subdivisões	I-LOC
+de	I-LOC
+Anhui	I-LOC

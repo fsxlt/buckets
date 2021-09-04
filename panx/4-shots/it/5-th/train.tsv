@@ -1,0 +1,81 @@
+Špindlerův	B-LOC
+Mlýn	I-LOC
+,	O
+Repubblica	B-LOC
+Ceca	I-LOC
+
+cambia	O
+nome	O
+in	O
+Settimo	B-LOC
+Milanese	I-LOC
+
+Vengono	O
+eliminati	O
+Kimi	B-PER
+Räikkönen	I-PER
+,	O
+le	O
+due	O
+McLaren	B-ORG
+,	O
+Daniil	B-PER
+Kvjat	I-PER
+,	O
+Adrian	B-PER
+Sutil	I-PER
+e	O
+Sergio	B-PER
+Pérez	I-PER
+.	O
+
+Do	B-ORG
+You	I-ORG
+Want	I-ORG
+to	I-ORG
+Know	I-ORG
+a	I-ORG
+Secret	I-ORG
+''	O
+
+RINVIA	O
+Ginga	B-ORG
+densetsu	I-ORG
+Weed	I-ORG
+
+Karel	B-PER
+van	I-PER
+Mander	I-PER
+
+Marcelo	B-PER
+Ríos	I-PER
+''	O
+(	O
+terzo	O
+turno	O
+)	O
+
+Canal+	B-ORG
+Sport	I-ORG
+1	I-ORG
+/	I-ORG
+SF-kanalen	I-ORG
+
+Javi	B-PER
+Rodríguez	I-PER
+Nebreda	I-PER
+
+**	O
+''	O
+Modern	B-ORG
+Family	I-ORG
+''	O
+
+Port	B-LOC
+Antonio	I-LOC
+,	O
+Giamaica	B-LOC
+
+Contea	B-LOC
+di	I-LOC
+Muscogee	I-LOC

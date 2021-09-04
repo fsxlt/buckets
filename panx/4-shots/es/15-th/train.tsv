@@ -1,0 +1,96 @@
+Torlak	B-PER
+de	I-PER
+Islandia	I-PER
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Provincia	B-LOC
+de	I-LOC
+Córdoba	I-LOC
+(	I-LOC
+Argentina	I-LOC
+)	I-LOC
+
+Primera	B-ORG
+División	I-ORG
+de	I-ORG
+Costa	I-ORG
+de	I-ORG
+Marfil	I-ORG
+
+REDIRECCIÓN	O
+Santa	B-LOC
+Eulalia	I-LOC
+de	I-LOC
+Ronsana	I-LOC
+
+'	O
+''	O
+Puebla	B-ORG
+de	I-ORG
+Zaragoza	I-ORG
+,	O
+México	B-LOC
+
+REDIRECCIÓN	O
+Siempre	B-ORG
+contigo	I-ORG
+(	I-ORG
+álbum	I-ORG
+de	I-ORG
+José	I-ORG
+José	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Chris	B-PER
+Guccione	I-PER
+''	O
+'	O
+'	O
+''	O
+André	B-PER
+Sá	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Deconstructed	B-ORG
+(	I-ORG
+EP	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Pat	B-PER
+Cash	I-PER
+Mark	B-PER
+Woodforde	I-PER
+''	O
+'	O
+
+Juana	B-PER
+de	I-PER
+Austria	I-PER
+(	O
+1535-1573	O
+)	O
+.	O

@@ -1,0 +1,104 @@
+'	O
+''	O
+Porto	B-LOC
+Velho	I-LOC
+''	O
+'	O
+
+Mas	O
+antes	O
+disso	O
+,	O
+''Kazarian	O
+''	O
+tinha	O
+se	O
+machucado	O
+,	O
+e	O
+o	O
+personagem	O
+então	O
+começou	O
+a	O
+ser	O
+feito	O
+por	O
+Christopher	B-PER
+Daniels	I-PER
+.	O
+
+Sint	B-LOC
+Maarten	I-LOC
+(	I-LOC
+Países	I-LOC
+Baixos	I-LOC
+)	I-LOC
+
+Scott	B-PER
+Weiland	I-PER
+(	O
+Stone	B-ORG
+Temple	I-ORG
+Pilots	I-ORG
+)	O
+
+'	O
+''	O
+Keelung	B-LOC
+''	O
+'	O
+,	O
+Taiwan	B-LOC
+
+Harry	B-PER
+Reid	I-PER
+(	O
+D	O
+)	O
+
+Visitaram	O
+muitos	O
+locais	O
+sagrados	O
+na	O
+Terra	B-ORG
+Santa	I-ORG
+,	O
+tais	O
+como	O
+o	O
+Monte	B-LOC
+Sinai	I-LOC
+.	O
+
+Zigurate	B-ORG
+de	I-ORG
+Ur	I-ORG
+
+Selena	B-PER
+Gomez	I-PER
+como	O
+Alex	B-PER
+Russo	I-PER
+
+Graneros	B-ORG
+(	O
+Graneros	B-LOC
+)	O
+
+''	O
+Kick	B-ORG
+Buttowski	I-ORG
+:	I-ORG
+Um	I-ORG
+Projeto	I-ORG
+de	I-ORG
+Dublê	I-ORG
+''	O
+
+Woodmere	B-LOC
+(	I-LOC
+Nova	I-LOC
+Iorque	I-LOC
+)	I-LOC

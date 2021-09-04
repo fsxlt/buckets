@@ -1,0 +1,54 @@
+ÁTIRÁNYÍTÁS	O
+PAE	B-ORG
+Olimbiakósz	I-ORG
+SZFP	I-ORG
+
+A	O
+választás	O
+végül	O
+Sven-Göran	B-PER
+Erikssonra	I-PER
+esett	O
+,	O
+aki	O
+előtte	O
+a	O
+Sampdoria	B-ORG
+csapatát	O
+irányította	O
+.	O
+
+Milwaukee	B-ORG
+Bucks	I-ORG
+(	O
+11	O
+)	O
+
+'	O
+''	O
+Christopher	B-PER
+Lee	I-PER
+''	O
+'	O
+
+Jackson	B-LOC
+megye	I-LOC
+(	I-LOC
+Minnesota	I-LOC
+)	I-LOC
+
+Működési	O
+körzetükbe	O
+tartozott	O
+Irkutszk	B-LOC
+,	O
+Harbin	B-LOC
+és	O
+Vlagyivosztok	B-LOC
+környéke	O
+.	O
+
+Atlanta	B-LOC
+,	O
+Egyesült	B-LOC
+Államok	I-LOC

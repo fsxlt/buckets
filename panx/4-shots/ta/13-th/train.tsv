@@ -1,0 +1,101 @@
+வழிமாற்று	O
+கொழும்பு	B-ORG
+றோயல்	I-ORG
+கல்லூரி	I-ORG
+
+தனித்த	B-LOC
+பகுதி	I-LOC
+(	I-LOC
+அமெரிக்கா	I-LOC
+)	I-LOC
+of	O
+the	O
+United	O
+States	O
+of	O
+America	O
+
+VI	O
+அமெரிக்க	B-LOC
+கன்னித்	I-LOC
+தீவுகள்	I-LOC
+
+வழிமாற்று	O
+ஈ.	B-PER
+வெ.	I-PER
+இராமசாமி	I-PER
+
+வழிமாற்று	O
+முழு	B-LOC
+அக	I-LOC
+எதிரொளிப்பு	I-LOC
+
+வட	B-ORG
+மாகாண	I-ORG
+சபையின்	I-ORG
+கொடி	I-ORG
+
+இத்திரைப்படத்தில்	O
+வேதிகா	B-ORG
+குமார்	I-ORG
+,	O
+ராஜ்கிரண்	B-PER
+ஆகியோரும்	O
+நடித்துள்ளனர்	O
+.	O
+
+வழிமாற்று	O
+சான்	B-PER
+வில்லியம்ஸ்	I-PER
+(	I-PER
+கிதார்	I-PER
+கலைஞர்	I-PER
+)	I-PER
+
+இவர்	O
+சென்னையிலுள்ள	B-LOC
+கணித	B-ORG
+அறிவியல்	I-ORG
+கழகத்தின்	I-ORG
+நிறுவனர்	O
+ஆவார்	O
+.	O
+
+அர்ஜுன்	B-PER
+கபூர்	I-PER
+,	O
+பிரித்விராஜ்	B-PER
+சுகுமாரன்	I-PER
+,	O
+ஜாக்கி	B-PER
+செராப்	I-PER
+,	O
+ரிசி	B-PER
+கபூர்	I-PER
+,	O
+Sasheh	O
+Aagha	O
+
+பிரேமகுமார்	O
+ஆத்திரேலியாவில்	B-LOC
+குடியுரிமை	O
+பெற்றவர்	O
+.	O
+
+அதை	O
+வளர்த்து	O
+விட்டவர்	O
+வழுவூர்	B-PER
+பி.	I-PER
+இராமையா	I-PER
+பிள்ளை	I-PER
+.	O
+
+225	O
+–	O
+கோட்	B-LOC
+டிவார்	I-LOC
+(	I-LOC
+ஐவரி	I-LOC
+கோஸ்ட்	I-LOC
+)	I-LOC

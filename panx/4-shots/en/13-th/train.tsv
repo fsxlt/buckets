@@ -1,0 +1,84 @@
+Assemblyman	O
+Peter	B-PER
+J.	I-PER
+Barnes	I-PER
+III	I-PER
+(	O
+D	O
+)	O
+
+was	O
+a	O
+village	B-ORG
+located	O
+in	O
+Ito	B-LOC
+District	I-LOC
+,	O
+Wakayama	B-LOC
+Prefecture	I-LOC
+,	O
+Japan	B-LOC
+.	O
+
+Jean	B-PER
+De	I-PER
+Briac	I-PER
+-	O
+Shopkeeper	O
+
+'	O
+''	O
+Marianne	B-PER
+Thieme	I-PER
+''	O
+'	O
+
+*1982	O
+Armed	B-ORG
+Forces	I-ORG
+Staff	I-ORG
+College	I-ORG
+,	O
+Norfolk	B-LOC
+,	I-LOC
+Virginia	I-LOC
+
+)	O
+who	O
+emigrated	O
+from	O
+Ennis	B-LOC
+,	O
+County	B-LOC
+Clare	I-LOC
+,	O
+Ireland	B-LOC
+.	O
+
+Old	B-LOC
+Crow	I-LOC
+(	O
+Vuntut	B-ORG
+Gwitchin	I-ORG
+First	I-ORG
+Nation	I-ORG
+)	O
+
+''	O
+Sultanate	B-ORG
+of	I-ORG
+Rûm	I-ORG
+''	O
+'	O
+–	O
+Kilij	B-PER
+Arslan	I-PER
+I	I-PER
+(	O
+1092–1107	O
+)	O
+
+The	B-ORG
+Phone	I-ORG
+Co-op	I-ORG

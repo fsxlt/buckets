@@ -1,0 +1,90 @@
+Aníbal	B-PER
+de	I-PER
+Mar	I-PER
+(	O
+''El	O
+Tremendo	O
+Juez	O
+''	O
+)	O
+
+'	O
+''	O
+American	B-ORG
+Wrestling	I-ORG
+Association	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Artemisa	B-LOC
+(	I-LOC
+Cuba	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Borussia	B-ORG
+Dortmund	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Tonnerre	B-ORG
+Yaoundé	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Federación	B-ORG
+Moldava	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+
+'	O
+''	O
+Faustino	B-PER
+Rupérez	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Barthélemy	B-PER
+Charles	I-PER
+Joseph	I-PER
+Dumortier	I-PER
+
+Eva	B-PER
+Green	I-PER
+como	O
+Circe	B-PER
+
+'	O
+''	O
+Kingston	B-LOC
+upon	I-LOC
+Hull	I-LOC
+''	O
+'	O
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Quishuar	I-LOC
+
+Se	O
+encuentra	O
+en	O
+Malaui	B-LOC
+,	O
+Tanzania	B-LOC
+y	O
+Zimbabue	B-LOC
+.	O
+
+REDIRECCIÓN	O
+Vicariato	B-LOC
+apostólico	I-LOC
+de	I-LOC
+Mitú	I-LOC

@@ -1,0 +1,27 @@
+Abadía	B-ORG
+de	I-ORG
+Solesmes	I-ORG
+
+Dibujo	O
+atribuido	O
+a	O
+Leonardo	B-PER
+Alenza	I-PER
+en	O
+''Los	O
+Españoles	O
+pintados	O
+por	O
+sí	O
+mismos	O
+''	O
+(	O
+1843-4	O
+)	O
+.	O
+
+REDIRECCIÓN	O
+Roxas	B-LOC
+(	I-LOC
+Palawan	I-LOC
+)	I-LOC

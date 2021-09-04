@@ -1,0 +1,78 @@
+تحويل	O
+حزب	B-ORG
+الاتحاد	I-ORG
+الاجتماعي	I-ORG
+المسيحي	I-ORG
+بولاية	I-ORG
+بافاريا	I-ORG
+
+تحويل	O
+أغار	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+مقاطعة	B-LOC
+ليبيريتس	I-LOC
+Okres	O
+Liberec	O
+
+بي	B-ORG
+إم	I-ORG
+دبليو	I-ORG
+والصناعات	O
+الدوائية	O
+
+تحويل	O
+ديوار	B-LOC
+(	I-LOC
+أوكلاهوما	I-LOC
+)	I-LOC
+
+سو	B-PER
+باركر	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O
+
+لم	O
+يصعب	O
+على	O
+سليمان	B-PER
+فرنجية	I-PER
+ان	O
+يشقّ	O
+طريقه	O
+بسرعة	O
+.	O
+
+فرانشيسكو	B-PER
+كوسيغا	I-PER
+(	O
+1928–2010	O
+)	O
+
+تحويل	O
+كاستيخون	B-LOC
+(	I-LOC
+قونكة	I-LOC
+)	I-LOC
+
+الخط	B-ORG
+الملكي	I-ORG
+القطبي	I-ORG
+الشمالي	I-ORG
+
+تحويل	O
+جامع	B-ORG
+طولمه	I-ORG
+باغجه	I-ORG
+
+تحويل	O
+سر	B-PER
+الختم	I-PER
+الخليفة	I-PER

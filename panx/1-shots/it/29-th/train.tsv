@@ -1,0 +1,44 @@
+Il	O
+suo	O
+caso	O
+causò	O
+un	O
+enorme	O
+seguito	O
+da	O
+parte	O
+dei	O
+media	O
+negli	O
+Stati	B-LOC
+Uniti	I-LOC
+,	O
+e	O
+rimane	O
+irrisolto	O
+.	O
+
+Struttura	B-ORG
+elettronica	I-ORG
+a	I-ORG
+bande	I-ORG
+
+'	O
+''	O
+Owen	B-PER
+Farrell	I-PER
+''	O
+'	O
+
+Il	O
+4	O
+settembre	O
+contro	O
+la	O
+Russia	B-ORG
+mette	O
+a	O
+segno	O
+23	O
+punti	O
+.	O

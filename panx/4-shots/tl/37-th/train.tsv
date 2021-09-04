@@ -1,0 +1,85 @@
+Kapatid	B-ORG
+sa	I-ORG
+kasal	I-ORG
+
+Francisco	B-PER
+ng	I-PER
+Asisi	I-PER
+
+'	O
+''	O
+Florencia	B-LOC
+''	O
+'	O
+
+Ang	O
+'	O
+''	O
+Groß	O
+Godems	O
+''	O
+'	O
+ay	O
+isang	O
+munisipalidad	O
+sa	O
+Alemanya	B-LOC
+.	O
+
+Toreng	B-ORG
+U.S.	I-ORG
+Bank	I-ORG
+
+José	B-ORG
+Basco	I-ORG
+y	I-ORG
+Vargas	I-ORG
+
+Pangulo	B-LOC
+ng	I-LOC
+Pilipinas	I-LOC
+
+Dahil	O
+ginagaya	O
+niya	O
+ang	O
+dating	O
+presidente	O
+na	O
+si	O
+Gloria	B-ORG
+Macapagal-Arroyo	I-ORG
+.	O
+
+Wawa	B-LOC
+,	I-LOC
+Pilar	I-LOC
+,	I-LOC
+Bataan	I-LOC
+
+Juan	B-PER
+ang	I-PER
+Alagad	I-PER
+
+Louis	B-PER
+de	I-PER
+Broglie	I-PER
+
+**	O
+Yuasa	B-LOC
+-	O
+Hirogawa	B-LOC
+-	O
+Aridagawa	B-LOC
+
+Lungsod	B-LOC
+ng	I-LOC
+Zagreb	I-LOC
+
+Papa	B-PER
+Leo	I-PER
+IV	I-PER
+
+Satsumasendai	B-LOC
+,	I-LOC
+Kagoshima	I-LOC

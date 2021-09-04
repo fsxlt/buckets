@@ -1,0 +1,70 @@
+Kildeer	B-LOC
+,	I-LOC
+Illinois	I-LOC
+,	O
+USA	B-ORG
+
+Karl	B-PER
+Patterson	I-PER
+Schmidt	I-PER
+,	O
+Deceased	O
+.	O
+
+*1958	O
+-	O
+Ottawa-Hull	B-ORG
+Junior	I-ORG
+Canadiens	I-ORG
+
+``	O
+Angels	B-ORG
+Brought	I-ORG
+Me	I-ORG
+Here	I-ORG
+''	O
+-	O
+Guy	B-PER
+Sebastian	I-PER
+
+Kiichi	B-PER
+Kunimoto	I-PER
+-	O
+(	O
+UFC	B-ORG
+,	O
+Pancrase	B-ORG
+)	O
+
+He	O
+was	O
+also	O
+a	O
+roommate	O
+of	O
+Major	B-ORG
+League	I-ORG
+Baseball	I-ORG
+Commissioner	I-ORG
+Bud	B-PER
+Selig	I-PER
+.	O
+
+Brownville	B-LOC
+(	I-LOC
+town	I-LOC
+)	I-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Minneapolis	B-ORG
+,	I-ORG
+Minnesota	I-ORG
+,	O
+United	B-LOC
+States	I-LOC
+
+Cates	B-LOC
+,	I-LOC
+Indiana	I-LOC

@@ -1,0 +1,19 @@
+আফিয়া	B-PER
+নুসরাত	I-PER
+বর্ষা	I-PER
+
+এশিয়াটিক	B-ORG
+সোসাইটি	I-ORG
+(	I-ORG
+কলকাতা	I-ORG
+)	I-ORG
+
+দক্ষিণ	B-LOC
+খোরসন	I-LOC
+প্রদেশ	I-LOC
+
+**	O
+ব্যাংকক	B-LOC
+(	O
+দূতাবাস	O
+)	O

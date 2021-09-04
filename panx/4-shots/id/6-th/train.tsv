@@ -1,0 +1,99 @@
+'	O
+''	O
+Mikhail	B-PER
+Kukushkin	I-PER
+(	O
+Juara	O
+)	O
+'	O
+''	O
+
+Kabupaten	B-LOC
+Fak-Fak	I-LOC
+(	O
+wilayah	O
+Kepala	O
+Pemerintahan	O
+Setempat	O
+Fak-Fak	B-LOC
+,	O
+Kaimana	B-LOC
+,	O
+dan	O
+Mimika	B-LOC
+)	O
+;	O
+6	O
+.	O
+
+ALIH	O
+Masjid	B-ORG
+Darul	I-ORG
+Ghufran	I-ORG
+
+Edison	B-PER
+Chen	I-PER
+-	O
+Kazaf	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Bas-Rhin	I-LOC
+
+ALIH	O
+Richard	B-PER
+Olaf	I-PER
+Windstedt	I-PER
+
+Stadion	B-LOC
+Nasional	I-LOC
+Mỹ	I-LOC
+Đình	I-LOC
+,	O
+Vietnam	B-LOC
+
+Sebelum	O
+bergabung	O
+dengan	O
+Johnny	B-ORG
+&	I-ORG
+Associates	I-ORG
+,	O
+nama	O
+panggungnya	O
+adalah	O
+.	O
+
+ALIH	O
+The	B-ORG
+Album	I-ORG
+(	I-ORG
+album	I-ORG
+ABBA	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Bad	B-LOC
+Essen	I-LOC
+(	O
+15.852	O
+)	O
+
+ALIH	O
+Domingo	B-ORG
+(	I-ORG
+album	I-ORG
+Caetano	I-ORG
+Veloso	I-ORG
+dan	I-ORG
+Gal	I-ORG
+Costa	I-ORG
+)	I-ORG

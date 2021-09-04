@@ -1,0 +1,43 @@
+Erinn	B-PER
+Hayes	I-PER
+in	O
+Shark	B-ORG
+-	I-ORG
+Giustizia	I-ORG
+a	I-ORG
+tutti	I-ORG
+i	I-ORG
+costi	I-ORG
+''	O
+
+RINVIA	O
+Abu	B-ORG
+Dhabi	I-ORG
+United	I-ORG
+Group	I-ORG
+
+Nocera	B-LOC
+Superiore	I-LOC
+(	O
+SA	O
+)	O
+
+Johan	B-PER
+Kriek	I-PER
+''	O
+(	O
+secondo	O
+turno	O
+)	O
+
+''Catanzaro	O
+''	O
+(	O
+Catanzaro	B-LOC
+,	O
+Cosenza	B-LOC
+,	O
+Reggio	B-LOC
+Calabria	I-LOC
+)	O
+;	O

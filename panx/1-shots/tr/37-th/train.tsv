@@ -1,0 +1,34 @@
+YÖNLENDİRME	O
+Abdülhamîd	B-PER
+ibn	I-PER
+Türk	I-PER
+
+YÖNLENDİRME	O
+Kadir	B-ORG
+Has	I-ORG
+Üniversitesi	I-ORG
+
+''	O
+Euroleague	B-ORG
+''	O
+'	O
+
+Genelde	O
+Afrika	B-LOC
+Boynuzu	I-LOC
+diye	O
+tanımlanan	O
+bölgede	O
+konuşulmakla	O
+birlikte	O
+bazı	O
+ülkelerdeki	O
+göçmen	O
+topluluklarda	O
+ve	O
+Arap	B-LOC
+Yarımadası'ndaki	I-LOC
+Yemen'de	B-LOC
+de	O
+konuşulur	O
+.	O

@@ -1,0 +1,114 @@
+평단은	O
+또한	O
+주연인	O
+레이철	B-PER
+매캐덤스와	I-PER
+킬리언	B-PER
+머피의	I-PER
+연기도	O
+호평했다	O
+.	O
+
+하야시	B-PER
+센주로	I-PER
+(	O
+林銑十郎	O
+)	O
+중장	O
+
+●	O
+수도권	B-ORG
+전철	I-ORG
+1호선	I-ORG
+병점역	B-ORG
+
+나라	B-LOC
+현	I-LOC
+나라	B-LOC
+시	I-LOC
+
+그	O
+시즌	O
+그는	O
+아메리칸	B-ORG
+리그뿐만	I-ORG
+아니라	O
+,	O
+메이저	B-ORG
+리그	I-ORG
+통합	O
+홈런왕이	O
+되었다	O
+.	O
+
+몽키	B-PER
+D.	I-PER
+루피	I-PER
+-	O
+짱피	O
+
+'	O
+''	O
+조선	B-PER
+순조	I-PER
+''	O
+'	O
+
+가면라이더	B-ORG
+OOO	I-ORG
+(	O
+메즈루	O
+)	O
+
+국제	B-ORG
+표준화	I-ORG
+기구	I-ORG
+,	O
+Geneva	O
+,	O
+1975	O
+.	O
+
+파라	B-LOC
+주	I-LOC
+,	O
+헬만드	B-LOC
+주	I-LOC
+,	O
+파키스탄의	B-LOC
+발루치스탄	B-LOC
+주	I-LOC
+및	O
+이란의	B-LOC
+시스탄오발루체스탄	B-LOC
+주와	I-LOC
+접하고	O
+있다	O
+.	O
+
+가스가	B-LOC
+시	I-LOC
+(	O
+)	O
+
+Flag	O
+of	O
+the	O
+Department	O
+of	O
+Vichada]]	O
+''	O
+비차다	B-LOC
+주	I-LOC
+''	O
+'	O
+
+금	B-LOC
+(	O
+金	O
+)	O
+희종	B-PER
+(	O
+熙宗	O
+)	O
+3년	O

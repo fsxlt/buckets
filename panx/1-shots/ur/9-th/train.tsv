@@ -1,0 +1,19 @@
+رجوع_مکرر	O
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+رجوع_مکرر	O
+ژوب	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+محافظہ	B-LOC
+ذی	I-LOC
+قار	I-LOC

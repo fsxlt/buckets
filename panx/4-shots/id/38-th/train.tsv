@@ -1,0 +1,59 @@
+Annette	B-PER
+Bening	I-PER
+sebagai	O
+Nic	O
+.	O
+
+Girl	B-ORG
+'s	I-ORG
+Day	I-ORG
+dan	O
+Ailee	B-PER
+
+Black	B-ORG
+Holes	I-ORG
+&	I-ORG
+Revelations	I-ORG
+
+ALIH	O
+David	B-PER
+Lloyd	I-PER
+George	I-PER
+
+Gianni	B-PER
+Rivera	I-PER
+(	O
+Italia	B-ORG
+1968	I-ORG
+)	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Seine-Maritime	I-LOC
+
+**	O
+Juan	B-PER
+Carlos	I-PER
+Navarro	I-PER
+-	O
+Memphis	B-ORG
+Grizzlies	I-ORG
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Oise	I-LOC
+
+''	O
+Papua	B-LOC
+Nugini	I-LOC
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Lot	I-LOC

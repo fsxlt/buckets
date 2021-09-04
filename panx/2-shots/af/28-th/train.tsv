@@ -1,0 +1,57 @@
+Nogtans	O
+is	O
+ook	O
+filmkuns	O
+van	O
+hoë	O
+gehalte	O
+deur	O
+die	O
+Deutsche	B-ORG
+Film	I-ORG
+AG	I-ORG
+(	I-ORG
+DEFA	I-ORG
+)	I-ORG
+''	O
+geskep	O
+.	O
+
+Birmaanse	B-LOC
+luislang	I-LOC
+(	O
+''Python	O
+bivittatus	O
+''	O
+)	O
+
+Sir	O
+George	B-PER
+Albu	I-PER
+(	O
+1857–1935	O
+)	O
+
+Apostoliese	B-ORG
+Kerk	I-ORG
+-	I-ORG
+Aposteleenheid	I-ORG
+
+AANSTUUR	O
+Teenpous	B-PER
+Johannes	I-PER
+XVI	I-PER
+
+Hy	O
+het	O
+aangekondig	O
+dat	O
+hy	O
+na	O
+die	O
+Curriebeker-seisoen	B-LOC
+van	I-LOC
+2013	I-LOC
+gaan	O
+uittree	O
+.	O

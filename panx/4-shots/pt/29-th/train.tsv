@@ -1,0 +1,84 @@
+Asimov	B-ORG
+'s	I-ORG
+Science	I-ORG
+Fiction	I-ORG
+''	O
+
+1978–1984	O
+Carlo	B-PER
+Maria	I-PER
+Giulini	I-PER
+
+Vila	B-LOC
+Real	I-LOC
+de	I-LOC
+Santo	I-LOC
+António	I-LOC
+
+Federação	B-LOC
+da	I-LOC
+Rodésia	I-LOC
+e	I-LOC
+Niassalândia	I-LOC
+
+'	O
+''	O
+Víctor	B-PER
+Paz	I-PER
+Estenssoro	I-PER
+''	O
+'	O
+
+Residência	O
+=	O
+São	B-LOC
+Paulo	I-LOC
+,	O
+Brasil	B-LOC
+
+Santa	B-LOC
+Bárbara	I-LOC
+do	I-LOC
+Pará	I-LOC
+''	O
+'	O
+
+Frances	B-PER
+Dafoe	I-PER
+/	O
+Norris	B-PER
+Bowden	I-PER
+
+Museu	B-ORG
+da	I-ORG
+Imagem	I-ORG
+e	I-ORG
+do	I-ORG
+Som	I-ORG
+de	I-ORG
+São	I-ORG
+Paulo	I-ORG
+
+REDIRECIONAMENTO	O
+12.ª	B-ORG
+Divisão	I-ORG
+de	I-ORG
+Infantaria	I-ORG
+(	I-ORG
+Alemanha	I-ORG
+)	I-ORG
+
+Nia	B-PER
+Vardalos	I-PER
+...	O
+Toula	O
+Portokalos	O
+(	O
+Toula	O
+)	O
+
+REDIRECIONAMENTO	O
+Sport	B-ORG
+Clube	I-ORG
+Mineiro	I-ORG
+Aljustrelense	I-ORG

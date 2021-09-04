@@ -1,0 +1,55 @@
+Vi	O
+eseguono	O
+concerti	O
+anche	O
+i	O
+Wiener	B-ORG
+Philharmoniker	I-ORG
+ed	O
+altri	O
+complessi	O
+orchestrali	O
+.	O
+
+**Nomination	O
+''Miglior	O
+regia	O
+''	O
+a	O
+Ang	B-PER
+Lee	I-PER
+
+tecnico	O
+ad	O
+UFC	B-ORG
+Live	I-ORG
+:	I-ORG
+Jones	I-ORG
+vs.	I-ORG
+Matyushenko	I-ORG
+.	O
+
+Nuova	B-LOC
+Guinea	I-LOC
+(	O
+amministrata	O
+Australia	B-LOC
+)	O
+
+Gepy	B-PER
+&	I-PER
+Gepy	B-PER
+-	O
+''Sera	O
+sarà	O
+''	O
+
+Lago	B-LOC
+di	I-LOC
+Campotosto	I-LOC
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O

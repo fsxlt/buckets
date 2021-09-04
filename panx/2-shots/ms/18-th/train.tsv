@@ -1,0 +1,33 @@
+Joko	B-PER
+Tingkir	I-PER
+''	O
+►	O
+
+Tentera	B-ORG
+Darat	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Hautes-Alpes	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Lot	I-LOC
+
+Cut	B-PER
+Tari	I-PER
+sebagai	O
+'	O
+''	O
+Sofie	O
+''	O
+'	O
+
+Kor	B-ORG
+Marin	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG

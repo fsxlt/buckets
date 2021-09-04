@@ -1,0 +1,17 @@
+عطاء	B-PER
+اللہ	I-PER
+خان	I-PER
+عیسی	I-PER
+خیلوی	I-PER
+
+رجوع_مکرر	O
+بئیر	B-ORG
+کریک	I-ORG
+گاؤں	I-ORG
+تاریخی	I-ORG
+ضلع	I-ORG
+
+رجوع_مکرر	O
+گیلیٹن	B-LOC
+کاؤنٹی،	I-LOC
+مونٹانا	I-LOC

@@ -1,0 +1,71 @@
+2003	O
+Peter	B-PER
+Agre	I-PER
+na	O
+Roderick	B-PER
+MacKinnon	I-PER
+
+Songea	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Mkoa	B-LOC
+wa	I-LOC
+Bonde	I-LOC
+la	I-LOC
+Ufa	I-LOC
+
+Saint	B-LOC
+Vincent	I-LOC
+na	I-LOC
+Grenadini	I-LOC
+
+Casey	B-PER
+Motsisi	I-PER
+(	O
+1932-1977	O
+)	O
+
+Alimfuata	O
+Papa	B-PER
+Formosus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Stefano	I-PER
+VI	I-PER
+.	O
+
+Kiagta	B-ORG
+ya	I-ORG
+Dupaninan	I-ORG
+
+Kamuli	B-LOC
+,	I-LOC
+Uganda	I-LOC
+,	O
+Wilaya	B-LOC
+ya	I-LOC
+Kamuli	I-LOC
+
+Democratic	B-ORG
+Party	I-ORG
+(	I-ORG
+Kenya	I-ORG
+)	I-ORG
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Feira	I-ORG
+de	I-ORG
+Santana	I-ORG
+
+Kanisa	B-ORG
+la	I-ORG
+Moravian	I-ORG
+
+Kaizari	B-PER
+Maximilian	I-PER
+II	I-PER

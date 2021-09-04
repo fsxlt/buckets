@@ -1,0 +1,53 @@
+đổi	O
+Câu	B-ORG
+lạc	I-ORG
+bộ	I-ORG
+bóng	I-ORG
+đá	I-ORG
+Jeonbuk	I-ORG
+Hyundai	I-ORG
+Motors	I-ORG
+
+Tiêu	O
+biểu	O
+là	O
+tác	O
+phẩm	O
+của	O
+Conan	B-PER
+Doyle	I-PER
+.	O
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Lesley	B-PER
+Langley	I-PER
+
+Chính	B-ORG
+phủ	I-ORG
+với	I-ORG
+Công	I-ORG
+dân	I-ORG
+(	O
+G2C	B-ORG
+)	O
+
+'	O
+''	O
+''huyện	O
+Thốt	B-LOC
+Nốt	I-LOC
+''	O
+'	O
+''	O
+
+Sankt	B-LOC
+Georgen	I-LOC
+am	I-LOC
+Längsee	I-LOC
+(	O
+3.551	O
+)	O

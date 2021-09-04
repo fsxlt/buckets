@@ -1,0 +1,19 @@
+تحويل	O
+لجنة	B-ORG
+أولمبية	I-ORG
+وطنية	I-ORG
+
+تحويل	O
+قیة	B-LOC
+دیبي	I-LOC
+(	I-LOC
+تشهاردانغة	I-LOC
+)	I-LOC
+
+فضيلة	O
+الشيخ	O
+العلامة	O
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+جبرين	I-PER

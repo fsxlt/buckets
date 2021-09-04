@@ -1,0 +1,99 @@
+suuna	O
+Cry	B-ORG
+Just	I-ORG
+a	I-ORG
+Little	I-ORG
+Bit	I-ORG
+
+suuna	O
+Vanamõisa	B-LOC
+(	I-LOC
+Viljandi	I-LOC
+)	I-LOC
+
+Pottawatomie	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+/	O
+/	O
+Ученые	O
+записки	O
+Императорского	O
+Юрьевского	B-ORG
+университета	I-ORG
+,	O
+№	O
+2	O
+,	O
+[прил	O
+.	O
+
+470	O
+paatkond	O
+Toomas	B-PER
+Tõniste	I-PER
+–	O
+Tõnu	B-PER
+Tõniste	I-PER
+
+Merceri	B-LOC
+maakond	I-LOC
+(	I-LOC
+New	I-LOC
+Jersey	I-LOC
+)	I-LOC
+
+Egiptuses	B-LOC
+Kairos	B-LOC
+jätkati	O
+pärast	O
+kahekuist	O
+pausi	O
+ekspresident	O
+Ḩusnī	B-PER
+Mubāraki	I-PER
+kohtuprotsessi	O
+.	O
+
+'	O
+''	O
+Red	B-ORG
+Bull	I-ORG
+Racing	I-ORG
+''	O
+'	O
+
+Makedoonias	B-LOC
+astus	O
+ametisse	O
+president	B-ORG
+Đorge	B-PER
+Ivanov	I-PER
+.	O
+
+See	O
+juhtus	O
+Avisi	B-ORG
+dünastia	I-ORG
+hääbumise	O
+tõttu	O
+.	O
+
+Jõelähtme	B-LOC
+vald	I-LOC
+,	O
+Harju	B-LOC
+maakond	I-LOC
+
+Ingemar	B-PER
+Teever	I-PER
+'	O
+''	O
+(	O
+24	O
+)	O
+'	O
+''	O

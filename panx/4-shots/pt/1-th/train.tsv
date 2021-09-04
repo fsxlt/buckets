@@ -1,0 +1,82 @@
+secção	O
+=	O
+Alpes	B-LOC
+Cócios	I-LOC
+
+U	B-ORG
+Ca	I-ORG
+n't	I-ORG
+Touch	I-ORG
+This	I-ORG
+
+Max	B-PER
+von	I-PER
+Sydow	I-PER
+-	O
+Pedro	B-PER
+
+Instituto	B-ORG
+Cristão	I-ORG
+de	I-ORG
+Pesquisas	I-ORG
+
+Faz	O
+fronteira	O
+com	O
+Asola	B-LOC
+,	O
+Castel	B-LOC
+Goffredo	I-LOC
+,	O
+Ceresara	B-LOC
+,	O
+Piubega	B-LOC
+.	O
+
+REDIRECIONAMENTO	O
+Presidente	B-ORG
+de	I-ORG
+Kiribati	I-ORG
+
+'	O
+''	O
+Caroline	B-PER
+Wozniacki	I-PER
+''	O
+'	O
+
+Aleixo	B-PER
+II	I-PER
+de	I-PER
+Moscou	I-PER
+
+``	O
+Elisha	B-PER
+Cuthbert	I-PER
+''	O
+``	O
+Chad	B-PER
+Michael	I-PER
+Murray	I-PER
+''	O
+``	O
+Brian	B-PER
+Van	I-PER
+Holt	I-PER
+''	O
+
+Clayton	B-LOC
+(	I-LOC
+Califórnia	I-LOC
+)	I-LOC
+
+União	B-ORG
+Democrática	I-ORG
+Timorense	I-ORG
+
+*4ª	O
+CIPM	O
+–	O
+Chapadão	B-LOC
+do	I-LOC
+Sul	I-LOC

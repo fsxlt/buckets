@@ -1,0 +1,22 @@
+Timea	B-PER
+Bacsinszky	I-PER
+''	O
+(	O
+Semi-final	O
+)	O
+
+Beaver	B-LOC
+(	I-LOC
+Virgínia	I-LOC
+Ocidental	I-LOC
+)	I-LOC
+
+''	O
+Abrostola	O
+triplasia	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG

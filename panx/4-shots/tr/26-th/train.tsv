@@ -1,0 +1,86 @@
+O	O
+kupayı	O
+kürsüde	O
+kaldıran	O
+ise	O
+bir	O
+başka	O
+Juventuslu	O
+Didier	B-PER
+Deschamps'dı	I-PER
+.	O
+
+YÖNLENDİRME	O
+François-René	B-PER
+de	I-PER
+Chateaubriand	I-PER
+
+YÖNLENDİRME	O
+2010	B-ORG
+AFC	I-ORG
+Şampiyonlar	I-ORG
+Ligi	I-ORG
+
+Mos	B-LOC
+dilleri	I-LOC
+
+'	O
+''	O
+United	B-ORG
+Center	I-ORG
+''	O
+'	O
+
+YÖNLENDİRME	O
+Alexandria	B-LOC
+,	I-LOC
+Romanya	I-LOC
+
+Familyanın	O
+Türkiye'de	B-LOC
+bulunan	O
+tek	O
+temsilcisi	O
+Hint	B-LOC
+oklu	I-LOC
+kirpisidir	I-LOC
+.	O
+
+İç	B-LOC
+Anadolu	I-LOC
+,	O
+ve	O
+Karadeniz	B-LOC
+bölgelerinden	O
+kayıt	O
+vardır	O
+
+YÖNLENDİR	O
+Türkiye	B-ORG
+Yelken	I-ORG
+Federasyonu	I-ORG
+
+YÖNLENDİR	O
+I.	B-PER
+Mengli	I-PER
+Giray	I-PER
+
+'	O
+''	O
+Chandler	B-PER
+Riggs	I-PER
+-	O
+The	B-ORG
+Walking	I-ORG
+Dead	I-ORG
+''	O
+'	O
+''	O
+
+Bazı	O
+araçlar	O
+daha	O
+sonra	O
+Lübnana	B-LOC
+satıldı	O
+.	O

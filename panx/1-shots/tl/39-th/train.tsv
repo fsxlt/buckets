@@ -1,0 +1,23 @@
+Aquilino	B-PER
+Pimentel	I-PER
+III	I-PER
+
+**	O
+Yo’el	B-ORG
+''	O
+(	O
+יואל	O
+,	O
+''Joel	O
+''	O
+)	O
+
+Rain	B-ORG
+or	I-ORG
+Shine	I-ORG
+Elasto	I-ORG
+Painters	I-ORG
+
+Gasan	B-LOC
+,	I-LOC
+Marinduque	I-LOC

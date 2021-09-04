@@ -1,0 +1,102 @@
+''	O
+Német-római	B-ORG
+Birodalom	I-ORG
+''	O
+'	O
+–	O
+I.	B-PER
+''Nagy	I-PER
+''	I-PER
+Ottó	I-PER
+császár	B-PER
+(	O
+936–973	O
+)	O
+
+Vysoké	B-LOC
+Mýto	I-LOC
+,	O
+Csehország	B-LOC
+
+Gerhard	B-PER
+Berger	I-PER
+4.	O
+győzelme	O
+,	O
+Ayrton	B-PER
+Senna	I-PER
+26.	O
+pole-pozíciója	O
+,	O
+Michele	B-PER
+Alboreto	I-PER
+5.	O
+leggyorsabb	O
+köre	O
+.	O
+
+Long	B-LOC
+Island	I-LOC
+,	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államok	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Spanyol	B-ORG
+Szocialista	I-ORG
+Munkáspárt	I-ORG
+
+``	O
+Giving	B-ORG
+You	I-ORG
+Up	I-ORG
+''	O
+
+Pharadon	B-PER
+Szricsaphan	I-PER
+''	O
+(	O
+Harmadik	O
+kör	O
+)	O
+''	O
+
+Később	O
+a	O
+Napoli	B-ORG
+és	O
+a	O
+Genoa	B-ORG
+ellen	O
+is	O
+jól	O
+játszott	O
+és	O
+pályára	O
+léphetett	O
+élete	O
+első	O
+Derby	B-PER
+della	I-PER
+Capitaléjén	I-PER
+,	O
+az	O
+AS	B-ORG
+Roma	I-ORG
+ellen	O
+.	O
+
+USA]]	O
+''	O
+(	O
+Billboard	B-LOC
+200	I-LOC
+)	O
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Dangu	B-LOC
+(	I-LOC
+Eure	I-LOC
+)	I-LOC

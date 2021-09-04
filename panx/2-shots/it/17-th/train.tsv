@@ -1,0 +1,50 @@
+'	O
+''	O
+Kirovskoe	B-LOC
+''	O
+'	O
+,	O
+città	O
+Ucraina	B-LOC
+controllata	O
+dalla	O
+Repubblica	B-ORG
+Popolare	I-ORG
+di	I-ORG
+Lugansk	I-ORG
+
+Provincia	B-LOC
+autonoma	I-LOC
+di	I-LOC
+Trento	I-LOC
+
+Venezia	B-LOC
+,	O
+San	B-PER
+Lorenzo	I-PER
+,	O
+cod	O
+.	O
+
+'	O
+''	O
+Morrigan	B-PER
+Aensland	I-PER
+''	O
+'	O
+-	O
+Succube	B-LOC
+
+contea	B-LOC
+di	I-LOC
+Phillips	I-LOC
+-	O
+nord-ovest	O
+
+'	O
+''	O
+Slightly	B-ORG
+Mad	I-ORG
+Studios	I-ORG
+''	O
+'	O

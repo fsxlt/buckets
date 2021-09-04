@@ -1,0 +1,101 @@
+đổi	O
+Câu	B-ORG
+lạc	I-ORG
+bộ	I-ORG
+bóng	I-ORG
+đá	I-ORG
+Jeonbuk	I-ORG
+Hyundai	I-ORG
+Motors	I-ORG
+
+**	O
+''	O
+Caecilia	B-LOC
+tenuissima	I-LOC
+''	O
+
+Hội	B-ORG
+đồng	I-ORG
+Khoa	I-ORG
+học	I-ORG
+Quốc	I-ORG
+tế	I-ORG
+
+Tiêu	O
+biểu	O
+là	O
+tác	O
+phẩm	O
+của	O
+Conan	B-PER
+Doyle	I-PER
+.	O
+
+đổi	O
+Lula	B-LOC
+,	I-LOC
+Sardinia	I-LOC
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Lesley	B-PER
+Langley	I-PER
+
+(	O
+20	O
+,	O
+Tp.	B-LOC
+Hồ	I-LOC
+Chí	I-LOC
+Minh	I-LOC
+)	O
+
+Đế	B-LOC
+quốc	I-LOC
+Nhật	I-LOC
+Bản	I-LOC
+
+Ông	O
+là	O
+cha	O
+của	O
+sử	O
+gia	O
+Phạm	B-PER
+Diệp	I-PER
+.	O
+
+Paramore	B-ORG
+-	O
+``	O
+Misery	B-ORG
+Business	I-ORG
+''	O
+
+'	O
+''	O
+Julianne	B-PER
+Moore	I-PER
+''	O
+'	O
+
+**	O
+''	O
+Shimizu	B-ORG
+S-Pulse	I-ORG
+''	O
+'	O
+(	O
+mới	O
+thành	O
+lập	O
+,	O
+CLB	O
+không	O
+công	O
+ty	O
+)	O
+.	O

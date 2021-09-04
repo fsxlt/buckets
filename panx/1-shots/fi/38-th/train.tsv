@@ -1,0 +1,35 @@
+Ubaid	O
+4	O
+,	O
+Susa	B-ORG
+A	I-ORG
+,	O
+varhainen	O
+Tepe	B-LOC
+Gawra	I-LOC
+
+OHJAUS	O
+Strictly	B-ORG
+4	I-ORG
+My	I-ORG
+N.I.G.G.A.Z	I-ORG
+.	I-ORG
+
+Óscar	B-PER
+Freire	I-PER
+tuli	O
+loppukirissä	O
+esiin	O
+Alessandro	B-PER
+Petacchin	I-PER
+takaa	O
+ja	O
+voitti	O
+kilpailun	O
+ennen	O
+Allan	B-PER
+Davisia	I-PER
+ja	O
+Tom	B-PER
+Boonenia	I-PER
+.	O

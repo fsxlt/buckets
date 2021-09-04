@@ -1,0 +1,106 @@
+Koning	O
+Hassan	B-PER
+II	I-PER
+(	O
+1961-1999	O
+)	O
+
+Het	O
+bevindt	O
+zich	O
+nu	O
+in	O
+de	O
+permanente	O
+opstelling	O
+van	O
+het	O
+Musée	B-ORG
+d'Orsay	I-ORG
+.	O
+
+Titelverdedigers	O
+in	O
+het	O
+dubbelspel	O
+waren	O
+Daniel	B-PER
+Nestor	I-PER
+en	O
+Nenad	B-PER
+Zimonjić	I-PER
+.	O
+
+Titelverdediger	O
+was	O
+FC	B-ORG
+Twente	I-ORG
+.	O
+
+In	O
+2001	O
+speelde	O
+zij	O
+haar	O
+eerste	O
+ITF-toernooi	B-ORG
+in	O
+Stone	B-LOC
+Mountain	I-LOC
+(	O
+VS	O
+)	O
+.	O
+
+Papilio	B-LOC
+nephelus	I-LOC
+''	O
+''uranus	O
+''	O
+
+Koninklijke	B-ORG
+DSM	I-ORG
+NV	I-ORG
+
+'	O
+''	O
+Rick	B-PER
+Leach	I-PER
+''	O
+'	O
+'	O
+''	O
+Jim	B-PER
+Pugh	I-PER
+''	O
+'	O
+
+San	B-LOC
+Jose	I-LOC
+(	I-LOC
+Californië	I-LOC
+)	I-LOC
+
+Het	O
+secretariaat	O
+is	O
+gevestigd	O
+in	O
+de	O
+New	B-ORG
+York	I-ORG
+Botanical	I-ORG
+Garden	I-ORG
+.	O
+
+'	O
+''	O
+Jacqueline	B-PER
+Poelman	I-PER
+''	O
+'	O
+
+Mrągowo	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC

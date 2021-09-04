@@ -1,0 +1,23 @@
+``	O
+Do	B-ORG
+Re	I-ORG
+Mi	I-ORG
+''	O
+(	O
+4:24	O
+)	O
+
+Río	B-LOC
+Reconquista	I-LOC
+(	O
+San	B-LOC
+Miguel	I-LOC
+)	O
+.	O
+
+Oscar	B-PER
+Isaac	I-PER
+como	O
+''Standard	O
+''	O
+.	O

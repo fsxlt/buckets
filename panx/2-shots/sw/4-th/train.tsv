@@ -1,0 +1,40 @@
+Papa	B-PER
+Damaso	I-PER
+I	I-PER
+
+Interlaken	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Lake	B-LOC
+Forest	I-LOC
+,	I-LOC
+California	I-LOC
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Kilimo	I-ORG
+na	I-ORG
+Teknolojia	I-ORG
+cha	I-ORG
+Jomo	I-ORG
+Kenyatta	I-ORG
+
+Etienne	B-PER
+Leroux	I-PER
+(	O
+1922-1990	O
+)	O

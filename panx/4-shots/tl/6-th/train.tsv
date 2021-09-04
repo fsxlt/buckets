@@ -1,0 +1,84 @@
+Rafael	B-PER
+Arnaiz	I-PER
+Baron	I-PER
+
+Henry	B-PER
+IV	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+''	O
+No	B-ORG
+me	I-ORG
+Enseñaste	I-ORG
+''	O
+–	O
+4:29	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Florence	I-LOC
+
+Mayroon	O
+lamang	O
+siyang	O
+9,158,999	O
+bilang	O
+na	O
+boto	O
+,	O
+samantalang	O
+mayroong	O
+9,674,597	O
+boto	O
+ang	O
+nanalo	O
+na	O
+si	O
+Pangulong	B-LOC
+Gloria	B-ORG
+Macapagal-Arroyo	I-ORG
+.	O
+
+Honoré	B-PER
+de	I-PER
+Balzac	I-PER
+
+Tabaco	B-LOC
+,	I-LOC
+Albay	I-LOC
+
+Ven	B-ORG
+Conmigo	I-ORG
+''	O
+(	O
+1990	O
+)	O
+
+'	O
+''	O
+South	B-LOC
+Africa	I-LOC
+''	O
+'	O
+
+Edukasyon	B-ORG
+na	I-ORG
+pangtagapagkonsumo	I-ORG
+
+Butig	B-LOC
+,	I-LOC
+Lanao	I-LOC
+del	I-LOC
+Sur	I-LOC
+
+Saplad	B-ORG
+ng	I-ORG
+Aswan	I-ORG
+
+Ignacio	B-PER
+ng	I-PER
+Loyola	I-PER

@@ -1,0 +1,39 @@
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+''	O
+'	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+Komisi	B-ORG
+Dhuwur	I-ORG
+tumrap	I-ORG
+Pengungsi	I-ORG
+Perserikatan	I-ORG
+Bangsa-Bangsa	I-ORG
+(	I-ORG
+UNHCR	I-ORG
+)	I-ORG
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+ALIH	O
+Nikolas	B-PER
+saka	I-PER
+Myra	I-PER
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC

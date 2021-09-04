@@ -1,0 +1,15 @@
+बंगाल	B-LOC
+की	I-LOC
+खाड़ी	I-LOC
+
+पल्लवी	B-PER
+सुभाष	I-PER
+(	O
+सुभ्रदांगी	O
+)	O
+
+शिमला	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG

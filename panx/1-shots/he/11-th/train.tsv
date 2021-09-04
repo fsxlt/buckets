@@ -1,0 +1,29 @@
+UK	O
+Army	O
+הצבא	B-ORG
+הבריטי	I-ORG
+-	O
+Lieutenant	O
+general	O
+
+קראטה	B-ORG
+תומך	O
+בצדק	O
+.	O
+
+עקב	B-LOC
+חורף	I-LOC
+(	O
+Buteo	O
+buteo	O
+)	O
+
+*במחזה	O
+של	O
+ג'ורג	B-PER
+'	I-PER
+ברנרד	I-PER
+שו	I-PER
+``	O
+''Mrs	O
+.	O

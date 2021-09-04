@@ -1,0 +1,89 @@
+تغییر_مسیر	O
+بخش	B-LOC
+شهرستان	I-LOC
+البایدا	I-LOC
+
+تغییرمسیر	O
+کوئیت	B-LOC
+من	I-LOC
+(	I-LOC
+آرکانزاس	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+خلیل‌آباد	B-LOC
+(	I-LOC
+کرمان	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+سرمه	B-PER
+دبیث	I-PER
+مار	I-PER
+
+تغییر_مسیر	O
+محمدرضا	B-PER
+شاه	I-PER
+پهلوی	I-PER
+
+**	O
+کبک	B-LOC
+ویتنام،	I-LOC
+''Arborophila	O
+merlini	O
+''	O
+
+تغییرمسیر	O
+جیمز	B-PER
+لوید	I-PER
+کارولین	I-PER
+(	I-PER
+ماساچوست	I-PER
+)	I-PER
+
+از	O
+باشگاه‌هایی	O
+که	O
+در	O
+آن	O
+بازی	O
+کرده‌است	O
+می‌توان	O
+به	O
+باشگاه	B-ORG
+ورزشی	I-ORG
+زمالک	I-ORG
+اشاره	O
+کرد	O
+.	O
+
+تغییرمسیر	O
+آلو	B-PER
+بخارایی	I-PER
+(	I-PER
+کمیک	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+مردگان	B-ORG
+متحرک	I-ORG
+(	I-ORG
+فصل	I-ORG
+۴	I-ORG
+)	I-ORG

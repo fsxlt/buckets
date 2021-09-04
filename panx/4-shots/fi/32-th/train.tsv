@@ -1,0 +1,125 @@
+Se	O
+järjestetään	O
+Las	B-LOC
+Vegasissa	I-LOC
+.	O
+
+Signal	B-ORG
+Iduna	I-ORG
+Park	I-ORG
+,	O
+Dortmund	B-LOC
+,	O
+Saksa	B-LOC
+
+Kalajoki	B-LOC
+→	O
+Alavieska	B-LOC
+,	O
+2	O
+asukasta	O
+
+Hänen	O
+äitinsä	O
+oli	O
+Jakov	B-PER
+Sverdlovin	I-PER
+sisar	O
+.	O
+
+'	O
+''	O
+Novak	B-PER
+Đoković	I-PER
+''	O
+'	O
+
+Marge	B-PER
+Simpson	I-PER
+on	O
+heidän	O
+siskonsa	O
+.	O
+
+Salemilaiset	O
+lensivät	O
+Ranskaan	B-LOC
+pelastamaan	O
+oikeaa	O
+Hopea	O
+,	O
+joka	O
+oli	O
+saanut	O
+selville	O
+,	O
+että	O
+oli	O
+raskaana	O
+.	O
+
+OHJAUS	O
+Kuningatar	B-LOC
+Charlotten	I-LOC
+saaret	I-LOC
+
+Kleine	B-LOC
+Scheidegg	I-LOC
+–	O
+Jungfraujoch	B-LOC
+,	O
+osittain	O
+Valais’ssa	O
+.	O
+
+OHJAUS	O
+Yhdysvaltain	B-ORG
+avoin	I-ORG
+tennisturnaus	I-ORG
+2008	I-ORG
+
+OHJAUS	O
+Naisten	B-ORG
+25	I-ORG
+metrin	I-ORG
+urheilupistooli	I-ORG
+kesäolympialaisissa	I-ORG
+1988	I-ORG
+
+Wayne	B-PER
+Rainey	I-PER
+(	O
+Yamaha	B-ORG
+)	O
+
+Joukkueen	O
+kotikaupunki	O
+on	O
+Padova	B-LOC
+.	O
+
+Se	O
+sijaitsee	O
+kaupungin	O
+läntisellä	O
+puoliskolla	O
+,	O
+ja	O
+on	O
+osa	O
+Bromman	B-LOC
+kaupunginosa-aluetta	I-LOC
+.	O
+
+The	B-ORG
+Economistin	I-ORG
+vertailussa	O
+StatCan	O
+on	O
+useasti	O
+todettu	O
+yhdeksi	O
+maailman	O
+parhaista	O
+tilastokeskuksista	O
+.	O

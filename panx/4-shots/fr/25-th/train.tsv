@@ -1,0 +1,88 @@
+Concepción]]	O
+-	O
+San	B-LOC
+Pedro	I-LOC
+de	I-LOC
+la	I-LOC
+Paz	I-LOC
+
+Håkan	B-PER
+de	I-PER
+Suède	I-PER
+
+Orgyie	B-LOC
+pudibonde	I-LOC
+,	O
+syn	O
+.	O
+
+''	O
+Rodez	B-LOC
+''	O
+'	O
+
+One	B-ORG
+Love	I-ORG
+''	O
+-	O
+David	B-PER
+Guetta	I-PER
+
+Lac	B-LOC
+de	I-LOC
+Saint-Cassien	I-LOC
+
+Laboratoires	B-ORG
+nucléaires	I-ORG
+de	I-ORG
+Chalk	I-ORG
+River	I-ORG
+
+Elle	O
+a	O
+été	O
+reprise	O
+par	O
+beaucoup	O
+d'artistes	O
+et	O
+notamment	O
+Jeff	B-PER
+Beck	I-PER
+,	O
+Stevie	B-PER
+Ray	I-PER
+Vaughan	I-PER
+,	O
+les	O
+Red	B-ORG
+Hot	I-ORG
+Chili	I-ORG
+Peppers	I-ORG
+,	O
+Yngwie	B-PER
+Malmsteen	I-PER
+,	O
+Styx	B-ORG
+et	O
+bien	O
+d'autres	O
+.	O
+
+Xian	B-LOC
+de	I-LOC
+Langao	I-LOC
+
+'	O
+''	O
+Ange-Félix	B-PER
+Patassé	I-PER
+''	O
+'	O
+
+(	O
+The	B-ORG
+Official	I-ORG
+Charts	I-ORG
+Company	I-ORG
+)	O

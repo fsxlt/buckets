@@ -1,0 +1,48 @@
+'	O
+''	O
+सैन	B-ORG
+फ्राँसिस्को	I-ORG
+फोर्टीनाइनर्स	I-ORG
+''	O
+'	O
+
+मल्टी	B-ORG
+कमोडिटी	I-ORG
+एक्सचेंज	I-ORG
+ऑफ	I-ORG
+इंडिया	I-ORG
+लि	I-ORG
+.	I-ORG
+
+महादेवी	B-PER
+वर्मा	I-PER
+के	O
+आठ	O
+कविता	O
+संग्रह	O
+हैं-	O
+
+शरत	B-PER
+सक्सेना	I-PER
+-	O
+पुलिस	O
+इंस्पेक्टर	O
+
+प	O
+का	O
+मुख्यालय	O
+कुवैत	B-LOC
+नगर	I-LOC
+,	O
+कुवैत	B-LOC
+में	O
+स्थित	O
+है।	O
+
+बटेश्वर	B-LOC
+गाँव	I-LOC
+,	I-LOC
+बाह	I-LOC
+(	I-LOC
+आगरा	I-LOC
+)	I-LOC

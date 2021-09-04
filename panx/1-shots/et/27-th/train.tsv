@@ -1,0 +1,27 @@
+'	O
+''	O
+Boston	B-ORG
+Celtics	I-ORG
+''	O
+'	O
+
+Tema	O
+tütar	O
+oli	O
+ajaloolane	O
+Ea	B-PER
+Jansen	I-PER
+.	O
+
+Ameerika	B-LOC
+Ühendriikide	I-LOC
+autotootja	O
+Ford	B-ORG
+Motor	I-ORG
+Company	I-ORG
+avalikustas	O
+ulatuslikud	O
+meetmed	O
+kulude	O
+kokkuhoiuks	O
+.	O

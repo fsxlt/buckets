@@ -1,0 +1,103 @@
+'	O
+''	O
+Marco	B-PER
+Simoncelli	I-PER
+''	O
+'	O
+
+Dead	B-ORG
+Man	I-ORG
+Walkin	I-ORG
+'	I-ORG
+''	O
+
+Harry	B-PER
+Max	I-PER
+Markowitz	I-PER
+
+Redirecionamento	O
+Club	B-ORG
+de	I-ORG
+Fútbol	I-ORG
+Atlante	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+'	O
+''	O
+Minas	B-LOC
+Gerais	I-LOC
+''	O
+'	O
+
+''	O
+Master	B-PER
+P	I-PER
+''	O
+'	O
+
+Faz	O
+fronteira	O
+com	O
+Castellamonte	B-LOC
+,	O
+Salassa	B-LOC
+,	O
+Ozegna	B-LOC
+,	O
+Favria	B-LOC
+,	O
+Ciconio	B-LOC
+,	O
+Lusigliè	B-LOC
+,	O
+Feletto	B-LOC
+,	O
+Oglianico	B-LOC
+,	O
+Bosconero	B-LOC
+,	O
+Rivarossa	B-LOC
+,	O
+Lombardore	B-LOC
+.	O
+
+REDIRECIONAMENTO	O
+Créon	B-LOC
+(	I-LOC
+Gironda	I-LOC
+)	I-LOC
+
+Partido	B-ORG
+dos	I-ORG
+Socialistas	I-ORG
+da	I-ORG
+Catalunha	I-ORG
+
+Dera	B-LOC
+Ismail	I-LOC
+Khan	I-LOC
+
+(	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+)	O
+
+Venceslau	B-PER
+de	I-PER
+Morais	I-PER
+
+The	B-ORG
+Best	I-ORG
+of	I-ORG
+Laura	I-ORG
+Pausini	I-ORG
+:	I-ORG
+E	I-ORG
+ritorno	I-ORG
+da	I-ORG
+te	I-ORG
+''	O

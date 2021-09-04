@@ -1,0 +1,77 @@
+رجوع_مکرر	O
+مولانا	B-ORG
+آزاد	I-ORG
+نیشنل	I-ORG
+اردو	I-ORG
+یونیورسٹی	I-ORG
+
+رجوع_مکرر	O
+آتما	B-PER
+رام	I-PER
+(	I-PER
+افغان	I-PER
+وزیر	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+ٹبہ	B-ORG
+مہربان	I-ORG
+شاہ	I-ORG
+ہالٹ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+جیکسن	B-LOC
+ٹاؤنشپ،	I-LOC
+بٹلر	I-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+رجوع_مکرر	O
+ماؤنٹین	B-LOC
+ویو،	I-LOC
+چیویز	I-LOC
+کاؤنٹی،	I-LOC
+نیو	I-LOC
+میکسیکو	I-LOC
+
+رجوع_مکرر	O
+شاہ	B-ORG
+پور	I-ORG
+شہر	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+باجی	B-ORG
+راؤ	I-ORG
+مستانی	I-ORG
+(	I-ORG
+فلم	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+فخرالدین	B-PER
+جی	I-PER
+ابراہیم	I-PER
+
+رجوع_مکرر	O
+یے	B-LOC
+لاقی-یہ	I-LOC
+لکہ	I-LOC
+
+مولانا	O
+اشرف	B-PER
+علی	I-PER
+تھانوی	I-PER
+
+رجوع_مکرر	O
+ابراہیم	B-PER
+بن	I-PER
+ادہم	I-PER
+
+رجوع_مکرر	O
+گورڈن	B-LOC
+کاؤنٹی،	I-LOC
+جارجیا	I-LOC

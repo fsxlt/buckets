@@ -1,0 +1,23 @@
+Andrew	B-PER
+Lincoln	I-PER
+como	O
+Rick	B-PER
+Grimes	I-PER
+.	O
+
+Habita	O
+en	O
+Papúa	B-LOC
+Nueva	I-LOC
+Guinea	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Calle	B-ORG
+47	I-ORG
+(	I-ORG
+Tranvía	I-ORG
+de	I-ORG
+San	I-ORG
+Diego	I-ORG
+)	I-ORG

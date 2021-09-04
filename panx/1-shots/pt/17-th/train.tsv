@@ -1,0 +1,18 @@
+Ocupação	B-LOC
+Aliada	I-LOC
+da	I-LOC
+Líbia	I-LOC
+
+Asimov	B-ORG
+'s	I-ORG
+Science	I-ORG
+Fiction	I-ORG
+''	O
+
+Tommy	B-PER
+Robredo	I-PER
+''	O
+(	O
+Quarta	O
+Rodada	O
+)	O

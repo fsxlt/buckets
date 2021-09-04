@@ -1,0 +1,75 @@
+Chorégraphie	B-ORG
+des	I-ORG
+services	I-ORG
+web	I-ORG
+WS-*	I-ORG
+
+William	B-PER
+Anderson	I-PER
+Black	I-PER
+(	O
+intérim	O
+)	O
+
+Patrick	B-PER
+Kluivert	I-PER
+(	O
+2015-	O
+)	O
+
+Xian	B-LOC
+de	I-LOC
+Wuji	I-LOC
+
+Salangane	B-LOC
+de	I-LOC
+la	I-LOC
+Sonde	I-LOC
+
+Origine	O
+et	O
+statut	O
+en	O
+France	B-LOC
+métropolitaine	I-LOC
+
+Collège	B-ORG
+régional	I-ORG
+Champlain	I-ORG
+de	I-ORG
+Saint-Lambert	I-ORG
+
+**	O
+Jeux	B-ORG
+olympiques	I-ORG
+d'été	I-ORG
+de	I-ORG
+2004	I-ORG
+à	O
+Athènes	B-LOC
+(	O
+)	O
+
+Steve	B-PER
+McMichael	I-PER
+(	O
+6:31	O
+)	O
+
+Trou	B-LOC
+bleu	I-LOC
+de	I-LOC
+Dean	I-LOC
+
+Kareem	B-PER
+Abdul-Jabbar	I-PER
+(	O
+4	O
+)	O
+
+==	O
+Affiliations	O
+en	O
+ligues	B-ORG
+mineures	I-ORG
+==	O

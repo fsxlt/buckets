@@ -1,0 +1,67 @@
+Mga	B-LOC
+misteryong	I-LOC
+Greko-Romano	I-LOC
+
+Gerald	B-PER
+Anderson	I-PER
+(	O
+2006—kasalukuyan	O
+)	O
+
+Lumbatan	B-LOC
+,	I-LOC
+Lanao	I-LOC
+del	I-LOC
+Sur	I-LOC
+
+Mónica	B-PER
+Miguel	I-PER
+-	O
+''Eusebia	O
+''	O
+
+Unibersidad	B-ORG
+ng	I-ORG
+Mindanao	I-ORG
+
+Napoleon	B-PER
+I	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+'	O
+''	O
+Dammam	B-LOC
+''	O
+'	O
+
+Santa	B-LOC
+Ana	I-LOC
+,	I-LOC
+California	I-LOC
+
+Kapulungan	B-ORG
+ng	I-ORG
+mga	I-ORG
+Kinatawan	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+
+Lorenzo	B-PER
+de	I-PER
+'	I-PER
+Medici	I-PER
+
+Republika	B-LOC
+ng	I-LOC
+Gitnang	I-LOC
+Aprika	I-LOC
+
+2006	O
+-	O
+Super	B-ORG
+Inggo	I-ORG
+
+Pandaigdigang	B-ORG
+mga	I-ORG
+Gideon	I-ORG

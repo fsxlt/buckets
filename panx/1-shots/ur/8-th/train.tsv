@@ -1,0 +1,22 @@
+پاکستان	B-ORG
+مسلم	I-ORG
+لیگ	I-ORG
+(	I-ORG
+ن	I-ORG
+)	I-ORG
+
+اساتذہ	O
+میں	O
+حسین	B-PER
+احمد	I-PER
+مدنی	I-PER
+نمایاں	O
+تھے	O
+.	O
+
+رجوع_مکرر	O
+بیور	B-LOC
+ڈیم	I-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مسوری	I-LOC

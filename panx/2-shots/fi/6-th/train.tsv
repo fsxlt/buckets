@@ -1,0 +1,57 @@
+'	O
+''	O
+Ministeri	O
+sisäasianministeriössä	O
+''	O
+Eemil	B-PER
+Luukka	I-PER
+
+OHJAUS	O
+Pauli	B-LOC
+(	I-LOC
+kraatteri	I-LOC
+)	I-LOC
+
+Kaksi	O
+seuraavaa	O
+kautta	O
+Guskov	O
+pelasi	O
+Neftehimik	B-ORG
+Nižnekamskissa	I-ORG
+.	O
+
+Noin	O
+sadanviidenkymmenen	O
+kilometrin	O
+päässä	O
+yhtyeen	O
+kotiseudulta	O
+Los	B-LOC
+Angelesista	I-LOC
+matkanteko	O
+keskeytyi	O
+pakettiauton	O
+hajottua	O
+,	O
+joten	O
+yhtye	O
+jatkoi	O
+matkaansa	O
+liftaamalla	O
+.	O
+
+Hän	O
+istuu	O
+rangaistustaan	O
+ADX	B-ORG
+Florence	I-ORG
+-vankilassa	O
+Coloradossa	B-LOC
+.	O
+
+Jari-Matti	B-PER
+Latvala	I-PER
+/	O
+Miikka	B-PER
+Anttila	I-PER

@@ -1,0 +1,69 @@
+Sy	O
+is	O
+verbonde	O
+aan	O
+TuksSport	O
+by	O
+die	O
+Universiteit	B-ORG
+van	I-ORG
+Pretoria	I-ORG
+.	O
+
+AANSTUUR	O
+Lodewyk	B-PER
+XVIII	I-PER
+van	I-PER
+Frankryk	I-PER
+
+deur	O
+Julius	B-PER
+Caesar	I-PER
+verower	O
+.	O
+
+AANSTUUR	O
+Amerikaanse	B-ORG
+Mariene	I-ORG
+Korps	I-ORG
+
+Op	O
+warm	O
+vogtige	O
+somerdae	O
+bring	O
+dit	O
+lafenis	O
+en	O
+veroorsaak	O
+die	O
+“tafeldoek”	O
+oor	O
+Tafelberg	B-LOC
+.	O
+
+Verenigde	B-LOC
+State	I-LOC
+van	I-LOC
+Amerika	I-LOC
+
+Die	O
+bergagtige	O
+terrein	O
+het	O
+ook	O
+die	O
+toegang	O
+tot	O
+die	O
+kusgebiede	O
+van	O
+die	O
+Kaspiese	B-LOC
+See	I-LOC
+en	O
+die	O
+Persiese	B-LOC
+Golf	I-LOC
+bemoeilik	O
+.	O

@@ -1,0 +1,74 @@
+Gottlieb	B-PER
+August	I-PER
+Wilhelm	I-PER
+Herrich-Schäffer	I-PER
+
+'	O
+''	O
+Otto	B-PER
+Fredrikson	I-PER
+''	O
+'	O
+
+São	B-LOC
+Pedro	I-LOC
+de	I-LOC
+Rates	I-LOC
+
+Skate	B-ORG
+Canada	I-ORG
+International	I-ORG
+de	I-ORG
+1995	I-ORG
+
+José	B-PER
+Mendes	I-PER
+Cabeçadas	I-PER
+
+As	B-ORG
+Quatro	I-ORG
+Estações	I-ORG
+(	I-ORG
+álbum	I-ORG
+de	I-ORG
+Legião	I-ORG
+Urbana	I-ORG
+)	I-ORG
+
+Entre	B-LOC
+Rios	I-LOC
+(	I-LOC
+Bahia	I-LOC
+)	I-LOC
+
+Federação	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Ginástica	I-ORG
+
+'	O
+''	O
+Nathalie	B-PER
+Dechy	I-PER
+Dinara	B-PER
+Safina	I-PER
+
+``	O
+No	B-ORG
+More	I-ORG
+Tears	I-ORG
+(	I-ORG
+Enough	I-ORG
+Is	I-ORG
+Enough	I-ORG
+)	I-ORG
+''	O
+
+Gêiseres	B-LOC
+de	I-LOC
+Tatio	I-LOC
+
+''	O
+Myotis	B-LOC
+simus	I-LOC
+''	O

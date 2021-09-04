@@ -1,0 +1,38 @@
+Kinh	B-ORG
+tế	I-ORG
+Nga	I-ORG
+hậu	I-ORG
+Xô	I-ORG
+viết	I-ORG
+
+``	O
+The	B-ORG
+Heart	I-ORG
+Wants	I-ORG
+What	I-ORG
+It	I-ORG
+Wants	I-ORG
+''	O
+
+đổi	O
+Đa	B-PER
+Minh	I-PER
+Lương	I-PER
+Kim	I-PER
+Định	I-PER
+
+'	O
+''	O
+''Biển	B-LOC
+''	I-LOC
+''	O
+'	O
+
+Sông	B-LOC
+Kinh	I-LOC
+Thầy	I-LOC
+
+Thiên	B-PER
+hoàng	I-PER
+Minh	I-PER
+Trị	I-PER

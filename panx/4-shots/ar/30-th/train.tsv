@@ -1,0 +1,69 @@
+منتخب	B-ORG
+ألمانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+للسيدات	I-ORG
+
+آرون	B-PER
+بول	I-PER
+لدوره	O
+في	O
+Breaking	B-ORG
+Bad	I-ORG
+''	O
+
+تحويل	O
+المملكة	B-LOC
+المتوكلية	I-LOC
+اليمنية	I-LOC
+
+تحويل	O
+بوند	B-ORG
+(	I-ORG
+فرقه	I-ORG
+موسيقيه	I-ORG
+)	I-ORG
+
+تحويل	O
+سكينة	B-PER
+بنت	I-PER
+الحسين	I-PER
+
+العقاب	B-LOC
+المقاتل	I-LOC
+(	O
+Polemaetus	O
+bellicosus	O
+)	O
+.	O
+
+تحويل	O
+مكبين	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+مقبس	B-PER
+بي	I-PER
+(	O
+Socket	O
+B	O
+)	O
+
+'	O
+''	O
+محافظة	B-LOC
+ديالى	I-LOC
+''	O
+'	O
+
+تحويل	O
+لوهان	B-PER
+(	I-PER
+مغني	I-PER
+)	I-PER
+
+تحويل	O
+موقع	B-ORG
+تراث	I-ORG
+عالمي	I-ORG

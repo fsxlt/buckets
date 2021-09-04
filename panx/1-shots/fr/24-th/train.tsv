@@ -1,0 +1,23 @@
+Saison	B-ORG
+24	I-ORG
+des	I-ORG
+Simpson	I-ORG
+
+Elle	O
+est	O
+surtout	O
+connue	O
+pour	O
+ses	O
+livres	O
+sur	O
+Afrique	B-LOC
+du	I-LOC
+Sud	I-LOC
+.	O
+
+Dioko	B-PER
+Kaluyituka	I-PER
+(	O
+2011-	O
+)	O

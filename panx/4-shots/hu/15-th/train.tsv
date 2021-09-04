@@ -1,0 +1,99 @@
+''	O
+KRC	B-ORG
+Genk	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Mattia	B-PER
+Pasini	I-PER
+''	O
+'	O
+
+Tisza	B-PER
+Tibor	I-PER
+''	O
+(	O
+Debreceni	B-ORG
+VSC	I-ORG
+)	O
+''	O
+
+Szusza	B-LOC
+Ferenc	I-LOC
+Stadion	I-LOC
+,	O
+Budapest	B-LOC
+
+1-	O
+Tony	B-PER
+Stewart	I-PER
+
+Naponta	O
+jármű	O
+halad	O
+át	O
+rajta	O
+,	O
+-rel	O
+csökkentve	O
+Kikötői	B-ORG
+híd	I-ORG
+forgalmát	O
+.	O
+
+Az	O
+1934-1935-ös	O
+szezonban	O
+az	O
+FC	B-ORG
+Bayern	I-ORG
+München	I-ORG
+edzője	O
+volt	O
+.	O
+
+Ausztrália	B-LOC
+,	O
+Indonézia	B-LOC
+,	O
+Új-Kaledónia	B-LOC
+,	O
+Új-Zéland	B-LOC
+,	O
+Pápua	B-LOC
+Új-Guinea	I-LOC
+és	O
+Kelet-Timor	B-LOC
+területén	O
+honos	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Pohořelice	B-LOC
+(	I-LOC
+Brno-vidéki	I-LOC
+járás	I-LOC
+)	I-LOC
+
+''	O
+Bad	B-LOC
+Waldsee	I-LOC
+''	O
+'	O
+
+Ramón	B-PER
+Vargas	I-PER
+(	O
+1960–	O
+)	O
+(	O
+Mexikó	B-LOC
+)	O
+
+1892-gen	O
+találkozót	O
+rendeztek	O
+Dardzsilingben	B-LOC
+.	O

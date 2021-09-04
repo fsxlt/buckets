@@ -1,0 +1,96 @@
+aastal	O
+,	O
+kus	O
+tema	O
+partner	O
+oli	O
+Luisa	B-PER
+Värk	I-PER
+.	O
+
+suuna	O
+Eesti	B-ORG
+Energia	I-ORG
+Õlitööstus	I-ORG
+
+Film	O
+näitas	O
+,	O
+kuidas	O
+noor	O
+Baltimore'i	B-LOC
+fotograaf	O
+siseneb	O
+New	B-LOC
+Yorgi	I-LOC
+kunstimaailma	O
+.	O
+
+aastal	O
+Tartu	B-ORG
+Riikliku	I-ORG
+Ülikooli	I-ORG
+.	O
+
+Frode	B-PER
+Estil	I-PER
+Odd-Bjørn	B-PER
+Hjelmeset	I-PER
+Thomas	B-PER
+Alsgaard	I-PER
+Tor	B-PER
+Arne	I-PER
+Hetland	I-PER
+
+Tema	O
+õpilased	O
+olid	O
+teiste	O
+seas	O
+Ascanio	B-PER
+Sobrero	I-PER
+ja	O
+Alfred	B-PER
+Nobel	I-PER
+.	O
+
+Ta	O
+mängib	O
+Eesti	B-LOC
+klubis	O
+FC	B-ORG
+Kuressaare	I-ORG
+.	O
+
+suuna	O
+Fukushima	B-ORG
+I	I-ORG
+tuumaelektrijaam	I-ORG
+
+Asub	O
+La	B-LOC
+Manche'i	I-LOC
+ääres	O
+.	O
+
+Uueks	O
+peaministriks	O
+nimetati	O
+samal	O
+päeval	O
+Ana	B-PER
+Jara	I-PER
+.	O
+
+Väike	B-LOC
+mudil	I-LOC
+,	O
+''Pomatoschistus	O
+minutus	O
+''	O
+
+Kuusalu	B-LOC
+vald	I-LOC
+,	O
+Harju	B-LOC
+maakond	I-LOC

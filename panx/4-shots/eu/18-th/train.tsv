@@ -1,0 +1,99 @@
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Liga	B-ORG
+1	O
+(	O
+1942-43	O
+)	O
+
+Espainiako	B-LOC
+hogei	O
+taldek	O
+osaturiko	O
+maila	O
+da	O
+eta	O
+Espainiako	B-ORG
+futbol	I-ORG
+liga	I-ORG
+txapelketak	I-ORG
+antolaturikoa	O
+da	O
+.	O
+
+14.	O
+etapa	O
+(	O
+Alessandro	B-PER
+Petacchi	I-PER
+)	O
+
+NBAko	B-ORG
+Memphis	B-ORG
+Grizzlies	I-ORG
+taldean	O
+jokatzen	O
+duen	O
+anaia	O
+gazteago	O
+bat	O
+du	O
+,	O
+Marc	B-PER
+Gasol	I-PER
+.	O
+
+BIRZUZENDU	O
+Dario	B-PER
+I.a	I-PER
+Handia	I-PER
+
+San	B-PER
+Kolunbaren	I-PER
+omenezko	O
+kanta	O
+ugari	O
+daude	O
+bertan	O
+.	O
+
+Die	B-ORG
+Welt	I-ORG
+''	O
+(	O
+eusk	O
+.	O
+
+Avellanosa	B-LOC
+de	I-LOC
+Muñó	I-LOC
+
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Eduardo	B-LOC
+Printzearen	I-LOC
+Uhartea	I-LOC
+
+Ubuntu	B-ORG
+(	I-ORG
+filosofia	I-ORG
+)	I-ORG

@@ -1,0 +1,34 @@
+Ze	O
+werd	O
+ontworpen	O
+door	O
+Herbert	B-PER
+Baker	I-PER
+en	O
+wordt	O
+onderhouden	O
+door	O
+de	O
+Commonwealth	B-ORG
+War	I-ORG
+Graves	I-ORG
+Commission	I-ORG
+.	O
+
+Boćki	B-LOC
+,	O
+Czeremcha	B-LOC
+,	O
+Dubicze	B-LOC
+Cerkiewne	I-LOC
+,	O
+Milejczyce	B-LOC
+,	O
+Orla	B-LOC
+.	O
+
+'	O
+''	O
+Suzuki	B-ORG
+''	O
+'	O

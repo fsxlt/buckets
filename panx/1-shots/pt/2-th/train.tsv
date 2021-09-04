@@ -1,0 +1,21 @@
+Estádio	B-ORG
+Nagai	I-ORG
+,	O
+Osaka	B-LOC
+,	O
+Japão	B-LOC
+
+REDIRECIONAMENTO	O
+Henry	B-PER
+Paget	I-PER
+,	I-PER
+1.º	I-PER
+Marquês	I-PER
+de	I-PER
+Anglesey	I-PER
+
+REDIRECIONAMENTO	O
+Médéa	B-LOC
+(	I-LOC
+província	I-LOC
+)	I-LOC

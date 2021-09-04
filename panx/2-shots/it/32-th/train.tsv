@@ -1,0 +1,54 @@
+Bliss	B-ORG
+Team	I-ORG
+feat	O
+.	O
+
+*Pomnik	O
+Ławki	O
+Szkolnej	O
+,	O
+Varsavia	B-LOC
+
+Lula	B-LOC
+(	I-LOC
+Italia	I-LOC
+)	I-LOC
+
+Supercoppa	B-ORG
+di	I-ORG
+Svizzera	I-ORG
+(	O
+non	O
+più	O
+disputata	O
+)	O
+
+,	O
+città	O
+Alta	B-LOC
+Provenza	I-LOC
+;	O
+
+Michiel	B-PER
+Schapers	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Ciò	O
+ispirò	O
+sia	O
+Paul	B-PER
+McCartney	I-PER
+che	O
+John	B-PER
+Lennon	I-PER
+a	O
+scrivere	O
+canzoni	O
+sullo	O
+stesso	O
+soggetto	O
+.	O

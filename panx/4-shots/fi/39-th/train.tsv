@@ -1,0 +1,93 @@
+Yhteensä	O
+Elustondo	O
+pelasi	O
+kaudella	B-LOC
+2014–2015	I-LOC
+neljä	O
+sarjaottelua	O
+ja	O
+teki	O
+yhden	O
+maalin	O
+.	O
+
+Elokuvauraansa	O
+aloitellut	O
+Gary	B-PER
+Cooper	I-PER
+teki	O
+pienen	O
+roolin	O
+yhdysvaltalaisena	O
+lentäjänä	O
+.	O
+
+'	O
+''	O
+IFK	B-ORG
+Uppsala	I-ORG
+''	O
+'	O
+
+Tilalle	O
+valittiin	O
+Simon	B-PER
+Wright	I-PER
+.	O
+
+Pet	B-ORG
+Shop	I-ORG
+Boys	I-ORG
+
+**	O
+Phnom	B-LOC
+Penh	I-LOC
+(	O
+suurlähetystö	O
+)	O
+
+Italiassa	B-LOC
+se	O
+on	O
+miehen	O
+nimi	O
+.	O
+
+OHJAUS	O
+Bionic	B-ORG
+Woman	I-ORG
+(	I-ORG
+televisiosarja	I-ORG
+)	I-ORG
+
+Eddie	B-PER
+Giacomin	I-PER
+,	O
+New	B-ORG
+York	I-ORG
+Rangers	I-ORG
+
+''	O
+Bad	B-LOC
+Schmiedeberg	I-LOC
+''	O
+'	O
+
+Le	B-LOC
+Bourdet	I-LOC
+(	O
+CAN	O
+)	O
+
+Katharine	B-PER
+Hepburnille	I-PER
+oli	O
+tarjottu	O
+tuotannon	O
+alkuvaiheessa	O
+nimiroolia	O
+,	O
+mutta	O
+hän	O
+kieltäytyi	O
+.	O

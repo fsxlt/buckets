@@ -1,0 +1,39 @@
+'	O
+''	O
+Ilhas	B-LOC
+Virgens	I-LOC
+Britânicas	I-LOC
+''	O
+'	O
+
+Juntamente	O
+com	O
+Serj	B-PER
+Tankian	I-PER
+integra	O
+o	O
+projecto	O
+''SerArt	O
+''	O
+.	O
+
+Copa	B-ORG
+do	I-ORG
+Mundo	I-ORG
+FIFA	I-ORG
+de	I-ORG
+1970	I-ORG
+
+Segunda	B-LOC
+República	I-LOC
+Polonesa	I-LOC
+
+``	O
+Love	B-ORG
+on	I-ORG
+Top	I-ORG
+''	O
+
+Roberto	B-PER
+Néstor	I-PER
+Sensini	I-PER

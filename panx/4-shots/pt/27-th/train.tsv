@@ -1,0 +1,84 @@
+REDIRECIONAMENTO	O
+West	B-LOC
+and	I-LOC
+East	I-LOC
+Lealman	I-LOC
+
+Contudo	O
+,	O
+o	O
+último	O
+lugar	O
+ditou	O
+a	O
+descida	O
+à	O
+III	B-ORG
+Divisão	I-ORG
+.	O
+
+Condado	B-LOC
+de	I-LOC
+McCreary	I-LOC
+
+''	O
+Juliomys	B-LOC
+pictipes	I-LOC
+''	O
+-	O
+'	O
+''	O
+rato-do-mato	O
+''	O
+'	O
+
+Serra	B-LOC
+Branca	I-LOC
+-	O
+canal	O
+7	O
+
+59	B-ORG
+(	I-ORG
+álbum	I-ORG
+)	I-ORG
+
+Stefan	B-PER
+Edberg	I-PER
+(	O
+Suécia	B-LOC
+)	O
+
+Sul	B-ORG
+América	I-ORG
+(	O
+Manaus	B-LOC
+''	O
+)	O
+
+'	O
+''	O
+Svetlana	B-PER
+Kuznetsova	I-PER
+Martina	B-PER
+Navrátilová	I-PER
+
+'	O
+''	O
+Marco	B-PER
+Simoncelli	I-PER
+''	O
+'	O
+
+Quark	B-PER
+(	I-PER
+Star	I-PER
+Trek	I-PER
+)	I-PER
+
+**	O
+Eliana	B-PER
+(	O
+Rede	B-ORG
+Record	I-ORG
+)	O

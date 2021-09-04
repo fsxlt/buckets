@@ -1,0 +1,49 @@
+تحويل	O
+ألدورا	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+كنيسة	B-ORG
+الحبل	I-ORG
+بلا	I-ORG
+دنس	I-ORG
+(	I-ORG
+سان	I-ORG
+كريستوبال	I-ORG
+دي	I-ORG
+لا	I-ORG
+لاغونا	I-ORG
+)	I-ORG
+
+لورنس	B-PER
+أوليفيه	I-PER
+(	O
+1907–1989	O
+)	O
+
+تحويل	O
+جرذ	B-LOC
+كنغري	I-LOC
+ثقيل	I-LOC
+الأرجل	I-LOC
+
+كبير	B-PER
+المفتشين	I-PER
+جاب	I-PER
+هارولد	I-PER
+جاب	I-PER
+,	O
+صديق	O
+بوارو	B-PER
+,	O
+ومكلف	O
+بالتحقيق	O
+في	O
+القضية	O
+.	O
+
+تحويل	O
+تحت	B-ORG
+موس	I-ORG
+الحلاق	I-ORG

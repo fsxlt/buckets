@@ -1,0 +1,43 @@
+'	O
+''	O
+Björn	B-PER
+Borg	I-PER
+(	O
+campione	O
+)	O
+'	O
+''	O
+
+Fairfax	B-LOC
+-	O
+città	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Atchison	I-LOC
+,	O
+Missouri	B-LOC
+
+Iotam	O
+(	O
+742	B-ORG
+)	O
+
+Il	O
+6	O
+ottobre	O
+dello	O
+stesso	O
+anno	O
+debutta	O
+nella	O
+sconfitta	O
+per	O
+1-0	O
+contro	O
+il	O
+Ponferradina	B-ORG
+in	O
+Segunda	B-ORG
+División	I-ORG
+.	O

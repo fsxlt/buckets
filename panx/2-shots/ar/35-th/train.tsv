@@ -1,0 +1,35 @@
+ألباني	B-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+†	O
+
+كنيسة	B-ORG
+القديس	I-ORG
+بولس	I-ORG
+خارج	I-ORG
+الأسوار	I-ORG
+.	O
+
+تحويل	O
+الألعاب	B-ORG
+الجامعية	I-ORG
+الصيفية	I-ORG
+2015	I-ORG
+
+تحويل	O
+حديدة	B-LOC
+(	I-LOC
+حمص	I-LOC
+)	I-LOC
+
+فولفغانغ	B-PER
+أماديوس	I-PER
+موتسارت	I-PER
+.	O
+
+فضيلة	O
+الشيخ	O
+العلامة	O
+صالح	B-PER
+الفوزان	I-PER

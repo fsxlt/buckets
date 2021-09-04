@@ -1,0 +1,41 @@
+'	O
+''	O
+Sammul	B-PER
+Chan	I-PER
+''	O
+'	O
+
+Robert	B-PER
+Kubica	I-PER
+telah	O
+dibawa	O
+masuk	O
+sebagai	O
+pemandu	O
+ketiga	O
+.	O
+
+Wisma	B-ORG
+FAM	I-ORG
+,	O
+Malaysia	B-LOC
+(	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ille-et-Vilaine	I-LOC
+
+LENCONG	O
+Terier	B-ORG
+Inggeris	I-ORG
+lama	I-ORG
+
+LENCONG	O
+Bítov	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Nový	I-LOC
+Jičín	I-LOC
+)	I-LOC

@@ -1,0 +1,55 @@
+'	O
+''	O
+Ralf	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aude	I-LOC
+
+Abdul	B-PER
+Khalid	I-PER
+Ibrahim	I-PER
+
+MediaCorp	B-ORG
+Saluran	I-ORG
+U	I-ORG
+HD	I-ORG
+(	O
+Saluran	O
+347	O
+)	O
+
+LENCONG	O
+Velenice	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Česká	I-LOC
+Lípa	I-LOC
+)	I-LOC
+
+Majlis	B-ORG
+Olimpik	I-ORG
+Malaysia	I-ORG
+telah	O
+menghantar	O
+30	O
+atlet	O
+bertanding	O
+dalam	O
+acara	O
+,	O
+mengandungi	O
+17	O
+lelaki	O
+dan	O
+13	O
+wanitayang	O
+terlibat	O
+dalam	O
+9	O
+acara	O
+.	O

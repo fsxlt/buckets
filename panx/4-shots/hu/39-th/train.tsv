@@ -1,0 +1,139 @@
+Selejtező	O
+mérkőzéseket	O
+a	O
+CONCACAF	B-ORG
+zónában	O
+vezetett	O
+.	O
+
+A	O
+mérkőzés	O
+két	O
+résztvevője	O
+a	O
+Debreceni	B-ORG
+VSC	I-ORG
+és	O
+a	O
+Videoton	B-ORG
+volt	O
+.	O
+
+Julius	B-PER
+Caesar	I-PER
+említi	O
+őket	O
+.	O
+
+A	O
+történet	O
+a	O
+közeljövő	O
+Detroitjában	B-LOC
+játszódik	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+ASZ	B-ORG
+Omónia	I-ORG
+Lefkoszíasz	I-ORG
+
+'	O
+''	O
+Bradley	B-PER
+Smith	I-PER
+''	O
+'	O
+
+São	B-LOC
+Vicente-sziget	I-LOC
+(	O
+227	O
+km²	O
+)	O
+
+Torontál	B-LOC
+vármegye	I-LOC
+hajdana	O
+.	O
+
+Hrušovany	B-LOC
+u	I-LOC
+Brna	I-LOC
+(	O
+falu	O
+,	O
+Brno-Country	O
+)	O
+
+Az	O
+így	O
+megalakult	O
+Földes	B-ORG
+Ferenc	I-ORG
+Gimnázium	I-ORG
+részére	O
+át	O
+kellett	O
+adni	O
+az	O
+iskola	O
+teljes	O
+felszerelését	O
+,	O
+beleértve	O
+a	O
+muzeális	O
+értékű	O
+könyvtárat	O
+.	O
+
+1000	O
+tonna	O
+fonalat	O
+és	O
+160–200	O
+ezer	O
+vég	O
+szövetet	O
+gyártottak	O
+,	O
+amelyek	O
+jó	O
+részét	O
+Szerbiába	B-LOC
+,	O
+Bulgáriába	B-LOC
+,	O
+Belgiumba	B-LOC
+,	O
+az	O
+Egyesült	B-LOC
+Államokba	I-LOC
+és	O
+Dél-Afrikába	B-LOC
+szállították	O
+.	O
+
+Albrecht	B-PER
+Dürer	I-PER
+(	O
+1471–1528	O
+)	O
+
+Stanford	B-ORG
+Egyetem	I-ORG
+,	O
+5	O
+.	O
+
+A	O
+Kükládok	B-LOC
+szigetcsoport	O
+tagja	O
+.	O
+
+Justus	B-PER
+de	I-PER
+Harduwijn	I-PER
+,	O

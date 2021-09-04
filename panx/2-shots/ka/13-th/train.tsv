@@ -1,0 +1,52 @@
+The	B-ORG
+Gods	I-ORG
+of	I-ORG
+Earth	I-ORG
+and	I-ORG
+Heaven	I-ORG
+''	O
+
+აღმასრულებელი	O
+საბჭოს	O
+თავმჯდომარე	O
+გახდა	O
+იუსუფ	B-PER
+ლულე	I-PER
+.	O
+
+ცნობილი	O
+გახდა	O
+Marvel	B-ORG
+Comics-ში	I-ORG
+ადამიან	B-PER
+ობობაზე	I-PER
+''	O
+მუშაობით	O
+.	O
+
+მდებარეობს	O
+ხარკოვის	B-LOC
+ოლქის	I-LOC
+პეჩენეგის	B-LOC
+რაიონში	I-LOC
+.	O
+
+,	O
+,ცრვენა	O
+ზვეზდა’’	O
+ბელგრადი	B-LOC
+,	O
+,	O
+სერბეთი	B-LOC
+
+მათ	O
+ეს	O
+პრობლემა	O
+დამოუკიდებელი	O
+პოლონური	B-LOC
+სახელმწიფოს	I-LOC
+რუკიდან	O
+საერთოდ	O
+გაქრობით	O
+გადაწყიტეს	O
+.	O

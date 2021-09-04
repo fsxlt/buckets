@@ -1,0 +1,71 @@
+Pályafutása	O
+során	O
+megfordult	O
+többek	O
+között	O
+a	O
+Lombard	B-ORG
+Pápa	I-ORG
+csapatában	O
+is	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Solesmes	B-LOC
+(	I-LOC
+Sarthe	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Hours	B-LOC
+(	I-LOC
+Pyrénées-Atlantiques	I-LOC
+)	I-LOC
+
+**	O
+A	B-ORG
+Man	I-ORG
+sziget	I-ORG
+és	I-ORG
+a	I-ORG
+Hebridák	I-ORG
+uralkodóinak	I-ORG
+listája	I-ORG
+
+Bizonyos	O
+sorszámozott	O
+példányaihoz	O
+exkluzív	O
+DVD-melléklet	B-ORG
+is	O
+járt	O
+.	O
+
+''	O
+Bredstedt	B-LOC
+''	O
+'	O
+
+Cornelis	B-PER
+Johannes	I-PER
+van	I-PER
+Houten	I-PER
+,	O
+Ingrid	B-PER
+van	I-PER
+Houten-Groeneveld	I-PER
+és	O
+Tom	B-PER
+Gehrels	I-PER
+
+Cornelis	B-PER
+Johannes	I-PER
+van	I-PER
+Houten	I-PER
+,	O
+Ingrid	B-PER
+van	I-PER
+Houten-Groeneveld	I-PER
+és	O
+Tom	B-PER
+Gehrels	I-PER

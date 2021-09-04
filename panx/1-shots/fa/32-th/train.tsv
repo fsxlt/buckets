@@ -1,0 +1,19 @@
+'	O
+''	O
+لیندا	B-PER
+هانت	I-PER
+''	O
+'	O
+
+تغییرمسیر	O
+حزب	B-ORG
+اتحاد	I-ORG
+دموکراتیک	I-ORG
+(	I-ORG
+سوریه	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+یهودا	B-LOC
+و	I-LOC
+شومرون	I-LOC

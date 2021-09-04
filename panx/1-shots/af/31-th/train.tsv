@@ -1,0 +1,24 @@
+Hy	O
+was	O
+die	O
+jonger	O
+broer	O
+van	O
+Mahmoed	B-PER
+I	I-PER
+en	O
+die	O
+seun	O
+van	O
+Mustafa	B-PER
+II	I-PER
+.	O
+
+FC	B-ORG
+Ingolstadt	I-ORG
+04	I-ORG
+
+Ngquza	B-LOC
+Hill	I-LOC
+Plaaslike	I-LOC
+Munisipaliteit	I-LOC

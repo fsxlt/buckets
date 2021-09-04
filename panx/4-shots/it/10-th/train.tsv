@@ -1,0 +1,111 @@
+Si	O
+verificarono	O
+vari	O
+combattimenti	O
+contro	O
+Armata	B-ORG
+Rossa	I-ORG
+a	O
+Homel	B-LOC
+'	I-LOC
+,	O
+Kiev	B-LOC
+e	O
+Brjansk	B-LOC
+,	O
+quindi	O
+la	O
+1	O
+.	O
+
+Prefazione	O
+al	O
+libro	O
+di	O
+Stanislao	B-PER
+Nievo	I-PER
+e	O
+introduzione	O
+di	O
+Franco	B-PER
+Battiato	I-PER
+(	O
+durata	O
+7	O
+ore	O
+circa	O
+)	O
+.	O
+
+William	B-PER
+Larned5-7	I-PER
+6-4	O
+6-4	O
+3-6	O
+6-4	O
+
+**	O
+''	O
+Stefania	B-PER
+Sandrelli	I-PER
+''	O
+'	O
+
+Ciuperceni	B-LOC
+(	I-LOC
+Gorj	I-LOC
+)	I-LOC
+
+Due	B-ORG
+gemelle	I-ORG
+e	I-ORG
+una	I-ORG
+tata	I-ORG
+''	O
+
+Contea	B-LOC
+di	I-LOC
+St.	I-LOC
+Clair	I-LOC
+(	I-LOC
+Alabama	I-LOC
+)	I-LOC
+-	O
+sud-est	O
+
+'	O
+''	O
+Evgenij	B-PER
+Kafel'nikov	I-PER
+''	O
+'contro	O
+Sébastien	B-PER
+Grosjean	I-PER
+7-6	O
+(	O
+7-5	O
+)	O
+,	O
+6-2	O
+
+Diga	B-ORG
+di	I-ORG
+Itaipú	I-ORG
+-	O
+(	O
+Paraguay	B-LOC
+)	O
+
+UFC	B-ORG
+Live	I-ORG
+:	I-ORG
+Sanchez	I-ORG
+vs.	I-ORG
+Kampmann	I-ORG
+
+''	O
+Echinops	B-LOC
+exaltatus	I-LOC
+''	O
+Schrad	O
+.	O

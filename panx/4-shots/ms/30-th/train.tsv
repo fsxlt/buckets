@@ -1,0 +1,71 @@
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-17	I-ORG
+Bahrain	I-ORG
+
+Cleopatra	B-PER
+VII	I-PER
+dari	I-PER
+Mesir	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gard	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Finistère	I-LOC
+
+'	O
+''	O
+Terengganu	B-ORG
+FA	I-ORG
+''	O
+'	O
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Sweden	I-ORG
+
+Gubahan	O
+Rindu	O
+Puisi	O
+Syahdu	O
+-	O
+Fauziah	B-PER
+Latiff	I-PER
+
+LENCONG	O
+Terier	B-ORG
+batu	I-ORG
+tanda	I-ORG
+
+The	B-PER
+Emperor	I-PER
+'s	I-PER
+New	I-PER
+School	I-PER
+''	O
+
+'	O
+''	O
+Nick	B-PER
+Heidfeld	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+LENCONG	O
+Santa	B-LOC
+Elena	I-LOC
+,	I-LOC
+Sepanyol	I-LOC

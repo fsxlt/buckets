@@ -1,0 +1,54 @@
+Livornoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Toscana	B-LOC
+eskualdean	O
+.	O
+
+Bere	O
+izena	O
+Veikko	B-PER
+Antero	I-PER
+Koskenniemigatik	I-PER
+jasotzen	O
+du	O
+.	O
+
+Ipar	B-LOC
+Amerika	I-LOC
+eta	O
+Erdialdeko	B-LOC
+Amerikan	I-LOC
+bizi	O
+dira	O
+.	O
+
+BIRZUZENDU	O
+Arabako	B-ORG
+Fournier	I-ORG
+Karta	I-ORG
+Museoa	I-ORG
+
+'	O
+''	O
+Dizzy	B-PER
+Gillespie	I-PER
+''	O
+'rekin	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Ariège	B-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Wuhan	B-ORG
+Yangtze	I-ORG
+ibaiko	I-ORG
+zubia	I-ORG

@@ -1,0 +1,54 @@
+WEITERLEITUNG	O
+Autonome	B-LOC
+Region	I-LOC
+Kurdistan	I-LOC
+
+Benannt	O
+nach	O
+Ferdinand	B-PER
+von	I-PER
+Zeppelin	I-PER
+
+Er	O
+studierte	O
+an	O
+der	O
+Albertus-Universität	B-ORG
+Königsberg	I-ORG
+,	O
+bevor	O
+er	O
+an	O
+die	O
+Universität	B-ORG
+Leipzig	I-ORG
+ging	O
+.	O
+
+Sein	O
+Studium	O
+nahm	O
+er	O
+an	O
+der	O
+Universität	B-ORG
+Leipzig	I-ORG
+auf	O
+,	O
+wo	O
+ihn	O
+besonders	O
+Otto	B-PER
+Ribbeck	I-PER
+beeinflusste	O
+.	O
+
+''Carmen	O
+''	O
+und	O
+''Fledermaus	O
+''	O
+in	O
+Frankfurt	B-LOC
+am	I-LOC
+Main	I-LOC

@@ -1,0 +1,107 @@
+L.	B-PER
+Andrejev	I-PER
+“Inimese	O
+elu”	O
+(	O
+Inimese	O
+naine	O
+)	O
+
+Washingtoni	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O
+
+Matthew	B-PER
+Garber	I-PER
+,	O
+inglise	O
+lapsnäitleja	O
+(	O
+1956–1977	O
+)	O
+
+Juuru	B-LOC
+vald	I-LOC
+,	O
+Rapla	B-LOC
+maakond	I-LOC
+
+William	B-PER
+Ewart	I-PER
+Gladstone	I-PER
+(	O
+1	O
+)	O
+
+Sheffield	B-ORG
+United	I-ORG
+FC	I-ORG
+
+Linnas	O
+asub	O
+Salisbury	B-ORG
+katedraal	I-ORG
+.	O
+
+suuna	O
+Venemaa	B-ORG
+Rahvaste	I-ORG
+Sõpruse	I-ORG
+Ülikool	I-ORG
+
+Temast	O
+ettepoole	O
+jäid	O
+ameeriklane	O
+Dwight	B-PER
+Phillips	I-PER
+,	O
+kellel	O
+reeglitepärane	O
+oli	O
+üksnes	O
+avakatse	O
+(	O
+8.60	O
+)	O
+,	O
+ja	O
+Ghana	B-LOC
+rekordi	O
+8.34	O
+hüpanud	O
+Ignisious	B-PER
+Gaisah	I-PER
+.	O
+
+Milano	B-LOC
+oli	O
+pealinn	O
+,	O
+selles	O
+elas	O
+1764.	O
+aastal	O
+124	O
+000	O
+asukat	O
+.	O
+
+Tabivere	B-LOC
+vald	I-LOC
+,	O
+Jõgeva	B-LOC
+maakond	I-LOC
+
+Koostanud	O
+2	O
+lühiülevaadet	O
+Eestimaa	B-LOC
+kubermangu	I-LOC
+ning	O
+Oleviste	B-ORG
+kiriku	I-ORG
+ajaloost	O
+.	O

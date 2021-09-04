@@ -1,0 +1,49 @@
+Ekonomia	O
+ikasi	O
+zuen	O
+Euskal	B-ORG
+Herriko	I-ORG
+Unibertsitatean	I-ORG
+eta	O
+bertoko	O
+irakasle	O
+bilakatu	O
+zen	O
+.	O
+
+Ezenarro	B-PER
+Egurbide	I-PER
+,	I-PER
+Aintzane	I-PER
+
+Euskal	B-LOC
+Herrian	I-LOC
+Bilbobusren	B-ORG
+kasu	O
+.	O
+
+Mantuako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Azeari	B-PER
+II.a	I-PER
+Garindoitz	I-PER
+
+Real	B-ORG
+Sociedadean	I-ORG
+jokatzen	O
+du	O
+,	O
+erdilari	O
+gisa	O
+,	O
+Internazionalek	B-ORG
+utzita	O
+.	O

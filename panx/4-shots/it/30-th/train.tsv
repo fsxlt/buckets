@@ -1,0 +1,103 @@
+Lo	O
+scenario	O
+che	O
+fa	O
+da	O
+sfondo	O
+alla	O
+maggior	O
+parte	O
+degli	O
+esterni	O
+è	O
+quello	O
+della	O
+Monument	B-LOC
+Valley	I-LOC
+,	O
+tra	O
+Utah	B-LOC
+ed	O
+Arizona	B-LOC
+.	O
+
+Here	B-ORG
+Comes	I-ORG
+the	I-ORG
+Hotstepper	I-ORG
+''	O
+-	O
+Ini	B-PER
+Kamoze	I-PER
+
+Distretto	B-LOC
+di	I-LOC
+Chrzanów	I-LOC
+
+-	O
+Darfo	B-LOC
+Boario	I-LOC
+Terme	I-LOC
+(	O
+BS	B-LOC
+)	O
+
+Byron	B-PER
+Black	I-PER
+''	O
+(	O
+Finale	O
+)	O
+
+Mohammad	B-PER
+Reza	I-PER
+Pahlavi	I-PER
+''	O
+
+'	O
+''	O
+Atlantic	B-ORG
+Division	I-ORG
+''	O
+'	O
+
+Oleh	B-PER
+Husjev	I-PER
+(	O
+24	O
+)	O
+
+Le	O
+World	B-LOC
+Series	I-LOC
+si	O
+disputarono	O
+dal	O
+2	O
+al	O
+6	O
+ottobre	O
+e	O
+furono	O
+vinte	O
+dai	O
+Los	B-ORG
+Angeles	I-ORG
+Dodgers	I-ORG
+per	O
+4	O
+partite	O
+a	O
+0	O
+sui	O
+New	B-ORG
+York	I-ORG
+Yankees	I-ORG
+.	O
+
+Partito	B-ORG
+Liberale	I-ORG
+Italiano	I-ORG
+(	O
+PLI	O
+)	O

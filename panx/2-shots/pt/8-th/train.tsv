@@ -1,0 +1,52 @@
+'	O
+''	O
+Elmwood	B-LOC
+Place	I-LOC
+''	O
+'	O
+
+Biblioteca	B-ORG
+de	I-ORG
+Alexandria	I-ORG
+
+Mérignac	B-LOC
+(	I-LOC
+Charente-Maritime	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Jacques	B-PER
+Laffite	I-PER
+''	O
+'	O
+
+A	O
+final	O
+foi	O
+pelo	O
+oitavo	O
+ano	O
+consecutivo	O
+no	O
+Estádio	B-ORG
+Olímpico	I-ORG
+de	I-ORG
+Roma	I-ORG
+.	O
+
+'	O
+''	O
+Ken	B-PER
+Rosewall	I-PER
+''	O
+'	O
+vence	O
+Arthur	B-PER
+Ashe	I-PER
+,	O
+6-1	O
+,	O
+7-5	O
+,	O
+6-3	O

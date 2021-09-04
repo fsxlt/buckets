@@ -1,0 +1,17 @@
+Artform	O
+-	O
+Tel	B-LOC
+Aviv	I-LOC
+
+Discovery	B-ORG
+Channel	I-ORG
+Pro	I-ORG
+Cycling	I-ORG
+Team	I-ORG
+
+Tejmuraz	B-PER
+Gabašvili	I-PER
+''	O
+(	O
+Semifinali	O
+)	O

@@ -1,0 +1,54 @@
+Administratiboki	O
+Frantziako	B-LOC
+Alpes-de-Haute-Provence	B-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Lleó	B-ORG
+Morera	I-ORG
+Etxea	I-ORG
+eta	O
+Batlló	B-ORG
+Etxearen	I-ORG
+alboan	O
+dago	O
+.	O
+
+FC	B-ORG
+Porto	I-ORG
+(	O
+27	O
+)	O
+,	O
+Boavista	B-ORG
+FC	I-ORG
+(	O
+1	O
+)	O
+
+Grossetoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Toscana	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Karlos	B-PER
+I.a	I-PER
+Napolikoa	I-PER
+
+**	O
+John	B-PER
+C.	I-PER
+Reilly	I-PER
+-	O
+Chicago	B-LOC
+''	O

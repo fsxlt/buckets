@@ -1,0 +1,23 @@
+Sijaintipaikaksi	O
+on	O
+ehdolla	O
+maan	O
+länsiosassa	O
+oleva	O
+Brestin	B-LOC
+alueen	I-LOC
+Baranavitšy	B-LOC
+.	O
+
+Dustin	B-PER
+Tokarski	I-PER
+(	O
+MV	O
+)	O
+
+'	O
+''	O
+IFK	B-ORG
+Uppsala	I-ORG
+''	O
+'	O

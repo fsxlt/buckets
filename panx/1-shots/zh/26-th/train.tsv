@@ -1,0 +1,37 @@
+#	O
+柏	B-ORG
+林	I-ORG
+动	I-ORG
+物	I-ORG
+园	I-ORG
+车	I-ORG
+站	I-ORG
+
+#	O
+蔡	B-PER
+英	I-PER
+文	I-PER
+，	O
+台	O
+灣	O
+政	O
+治	O
+人	O
+物	O
+，	O
+過	O
+去	O
+綽	O
+號	O
+「	O
+小	O
+龍	O
+女	O
+」	O
+
+#	O
+#	O
+澳	B-LOC
+大	I-LOC
+利	I-LOC
+亚	I-LOC

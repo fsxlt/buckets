@@ -1,0 +1,34 @@
+Vereenigde	B-ORG
+Oostindische	I-ORG
+Compagnie	I-ORG
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[5]	O
+''	O
+'	O
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC

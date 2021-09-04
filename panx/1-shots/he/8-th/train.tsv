@@ -1,0 +1,19 @@
+נפטר	O
+ב-1965	O
+ונקבר	O
+בית	B-ORG
+הקברות	I-ORG
+הלאומי	I-ORG
+ארלינגטון	I-ORG
+.	O
+
+ניו	B-LOC
+יורק	I-LOC
+(	I-LOC
+מדינה	I-LOC
+)	I-LOC
+
+הפניה	O
+טטיאנה	B-PER
+דה	I-PER
+רונה	I-PER

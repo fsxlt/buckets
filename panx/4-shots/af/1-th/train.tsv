@@ -1,0 +1,124 @@
+AANSTUUR	O
+Thomas	B-PER
+van	I-PER
+Aquino	I-PER
+
+Daar	O
+is	O
+tans	O
+geen	O
+sprake	O
+van	O
+planne	O
+om	O
+''Life	O
+Is	O
+Wild	O
+''	O
+op	O
+DVD	B-ORG
+uit	O
+te	O
+reik	O
+nie	O
+.	O
+
+AANSTUUR	O
+Ascension	B-LOC
+(	I-LOC
+eiland	I-LOC
+)	I-LOC
+
+Lys	B-PER
+van	I-PER
+botaniste	I-PER
+volgens	I-PER
+outeursafkorting	I-PER
+.	O
+
+Audrey	B-PER
+Hepburn	I-PER
+–	O
+''Charade	O
+''	O
+
+Die	O
+rotsgebied	O
+was	O
+’n	O
+groot	O
+inspirasie	O
+vir	O
+die	O
+Linkin	B-ORG
+Park-album	I-ORG
+''Meteora	O
+''	O
+.	O
+
+Korea	B-LOC
+het	O
+oorgegee	O
+aan	O
+die	O
+Mongole	B-ORG
+.	O
+
+Georgiese	B-LOC
+Sosialistiese	I-LOC
+Sowjetrepubliek	I-LOC
+
+Daar	O
+was	O
+ook	O
+bekommernis	O
+dat	O
+die	O
+span	O
+’n	O
+een-wedstryd-wonder	O
+sou	O
+wees	O
+en	O
+,	O
+soos	O
+die	O
+Southern	B-ORG
+Spears	I-ORG
+(	O
+sy	O
+voorganger	O
+)	O
+,	O
+inmekaar	O
+tuimel	O
+.	O
+
+*6	O
+)	O
+Patriarg	B-PER
+Nikon	I-PER
+(	O
+1652-1658	O
+)	O
+
+Belgiese	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+AANSTUUR	O
+Strandlopers	B-LOC
+en	I-LOC
+snippe	I-LOC
+
+Singapoerse	B-LOC
+Standaardtyd	I-LOC
+(	O
+SST	O
+)	O
+
+AANSTUUR	O
+Koning	B-ORG
+Fahd-beker	I-ORG
+in	I-ORG
+1992	I-ORG

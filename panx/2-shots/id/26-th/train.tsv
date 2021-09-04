@@ -1,0 +1,47 @@
+'	O
+''	O
+Business	B-LOC
+Bay	I-LOC
+''	O
+'	O
+
+ALIH	O
+Universitas	B-ORG
+Katolik	I-ORG
+Leuven	I-ORG
+
+''	O
+Burkina	B-LOC
+Faso	I-LOC
+''	O
+'	O
+-	O
+
+Ia	O
+adalah	O
+putra	O
+dari	O
+Tokugawa	B-ORG
+Iemitsu	I-ORG
+,	O
+adik	O
+bungsu	O
+dari	O
+Tokugawa	B-PER
+Ietsuna	I-PER
+,	O
+cucu	O
+dari	O
+Tokugawa	B-ORG
+Hidetada	I-ORG
+dan	O
+cicit	O
+dari	O
+Tokugawa	B-PER
+Ieyasu	I-PER
+.	O
+
+ALIH	O
+Michael	B-PER
+John	I-PER
+Collins	I-PER

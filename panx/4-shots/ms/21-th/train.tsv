@@ -1,0 +1,81 @@
+El	B-LOC
+Cantón	I-LOC
+de	I-LOC
+San	I-LOC
+Pablo	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+'	O
+''	O
+Monthey	B-LOC
+''	O
+'	O
+
+The	B-PER
+Emperor	I-PER
+'s	I-PER
+New	I-PER
+School	I-PER
+''	O
+
+Abu	B-PER
+Marwan	I-PER
+Ibn	I-PER
+Zuhr	I-PER
+(	O
+Avenzoar	O
+,	O
+Abumeron	O
+)	O
+
+Than	B-PER
+Shwe	I-PER
+,	O
+Perdana	B-ORG
+Menteri	I-ORG
+Myanmar	I-ORG
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Parti	B-ORG
+Punjabi	I-ORG
+Malaysia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meuse	I-LOC
+
+Parti	B-ORG
+Demokratik	I-ORG
+Sosial	I-ORG
+Jerman	I-ORG
+
+Ibu	O
+kotanya	O
+ialah	O
+Bizerte	B-LOC
+.	O
+
+**	O
+''	O
+Teluk	B-ORG
+Gadong	I-ORG
+''	O
+'	O
+
+Diarahkan	O
+oleh	O
+Aziz	B-PER
+M.	I-PER
+Osman	I-PER
+.	O

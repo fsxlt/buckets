@@ -1,0 +1,55 @@
+XI.	B-PER
+Kelemen	I-PER
+pápa	I-PER
+kivizsgáltatta	O
+az	O
+eseteket	O
+,	O
+az	O
+azóta	O
+megtörtént	O
+gyógyulásokat	O
+,	O
+melyek	O
+valódiságát	O
+elfogadta	O
+.	O
+
+L’Hospitalet	B-LOC
+de	I-LOC
+Llobregat	I-LOC
+-	O
+248	O
+150	O
+
+I.	B-PER
+Ferenc	I-PER
+József	I-PER
+magyar	I-PER
+király	I-PER
+
+Az	O
+1930-as	B-ORG
+világbajnokságon	I-ORG
+nem	O
+indult	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Lesches	B-LOC
+(	I-LOC
+Seine-et-Marne	I-LOC
+)	I-LOC
+
+The	B-ORG
+Greatest	I-ORG
+Hits	I-ORG
+-	I-ORG
+Volume	I-ORG
+2	I-ORG
+:	I-ORG
+20	I-ORG
+More	I-ORG
+Good	I-ORG
+Vibrations	I-ORG
+''	O

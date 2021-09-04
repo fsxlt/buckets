@@ -1,0 +1,38 @@
+REDIRECIONAMENTO	O
+João	B-PER
+de	I-PER
+Inglaterra	I-PER
+
+Câmara	B-ORG
+dos	I-ORG
+Anciãos	I-ORG
+
+Redirecionamento	O
+Eugénia	B-PER
+Maximilianovna	I-PER
+de	I-PER
+Leuchtenberg	I-PER
+
+Campeonato	B-LOC
+Mundial	I-LOC
+de	I-LOC
+Motociclismo	I-LOC
+(	I-LOC
+MotoGP	I-LOC
+)	I-LOC
+
+''	O
+Anthracia	O
+ephialtes	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O
+
+Redirecionamento	O
+Condado	B-LOC
+de	I-LOC
+Eureka	I-LOC

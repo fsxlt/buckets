@@ -1,0 +1,33 @@
+আফম	B-PER
+আহসানউদ্দিন	I-PER
+চৌধুরী	I-PER
+
+মেদস্যাঁ	B-ORG
+সঁ	I-ORG
+ফ্রন্তিয়া	I-ORG
+
+**	O
+কালাগলা	B-LOC
+মানিকজোড়	I-LOC
+,	O
+''Ephippiorhynchus	O
+asiaticus	O
+''	O
+
+সবুজ	B-LOC
+বনমোরগ	I-LOC
+,	O
+''Gallus	O
+varius	O
+''	O
+
+অনিল	B-PER
+চৌধুরী	I-PER
+(	I-PER
+আম্পায়ার	I-PER
+)	I-PER
+
+ইউনাইটেড	B-ORG
+স্টেটস	I-ORG
+মেরিন	I-ORG
+কর্পস	I-ORG

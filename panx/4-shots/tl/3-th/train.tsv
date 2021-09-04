@@ -1,0 +1,75 @@
+San	B-PER
+Juan	I-PER
+Bautista	I-PER
+
+Fernando	B-PER
+Poe	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Aklat	B-ORG
+ni	I-ORG
+Abdias	I-ORG
+
+Papa	B-PER
+Inocencio	I-PER
+X	I-PER
+
+Distritong	B-LOC
+pambatas	I-LOC
+ng	I-LOC
+Batangas	I-LOC
+
+Lezo	B-LOC
+,	I-LOC
+Aklan	I-LOC
+(	O
+Cogon	O
+)	O
+
+Paligsahan	B-ORG
+ng	I-ORG
+mga	I-ORG
+Pelikula	I-ORG
+ng	I-ORG
+Kalakhang	I-ORG
+Maynila	I-ORG
+ng	I-ORG
+2008	I-ORG
+
+Tinik	B-ORG
+sa	I-ORG
+Dibdib	I-ORG
+(	O
+1985	O
+)	O
+
+Mga	B-LOC
+lalawigan	I-LOC
+ng	I-LOC
+Polonya	I-LOC
+
+Jan	B-PER
+Ernst	I-PER
+Matzeliger	I-PER
+
+Tangway	B-LOC
+ng	I-LOC
+Malaya	I-LOC
+
+Kalinga-Apayao	B-LOC
+,	O
+ngayo'y	O
+Kalinga	B-ORG
+at	O
+Apayao	B-LOC
+
+''	O
+The	B-ORG
+11:30	I-ORG
+Report	I-ORG
+''	O
+(	O
+1982–1986	O
+)	O

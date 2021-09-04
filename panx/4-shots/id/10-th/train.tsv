@@ -1,0 +1,90 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Bas-Rhin	I-LOC
+
+ALIH	O
+Perang	B-ORG
+Rusia-Turki	I-ORG
+(	I-ORG
+1877–1878	I-ORG
+)	I-ORG
+
+ALIH	O
+Kromatografi	B-ORG
+cair	I-ORG
+kinerja	I-ORG
+tinggi	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aube	I-LOC
+
+ALIH	O
+Carlos	B-PER
+Humberto	I-PER
+Paredes	I-PER
+
+Yuan	B-PER
+Shao	I-PER
+defeats	O
+Gongsun	B-PER
+Zan	I-PER
+.	O
+
+Teks	O
+standar	O
+yang	O
+dihasilkan	O
+disebut	O
+Teks	B-ORG
+Masoret	I-ORG
+(	O
+,	O
+disingkat	O
+``	O
+'	O
+''	O
+MT	O
+''	O
+'	O
+''	O
+)	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loire	I-LOC
+
+Republik	B-LOC
+Turki	I-LOC
+Siprus	I-LOC
+Utara	I-LOC
+
+ALIH	O
+Abu	B-PER
+Bakar	I-PER
+Ash-Shiddiq	I-PER
+
+Pada	O
+saat	O
+ini	O
+ia	O
+menjadi	O
+Menteri	B-PER
+Perdagangan	I-PER
+Amerika	I-PER
+Serikat	I-PER
+.	O
+
+'	O
+''	O
+PSAP	B-ORG
+Sigli	I-ORG
+''	O
+'	O

@@ -1,0 +1,47 @@
+Nooralotta	B-PER
+Neziri	I-PER
+''	O
+Turun	B-ORG
+Urheiluliitto	I-ORG
+''	O
+
+'	O
+''	O
+Steffi	B-PER
+Graf	I-PER
+''	O
+'	O
+
+Se	O
+sijaitsee	O
+Thessalonikin	B-LOC
+alueyksikössä	I-LOC
+Keski-Makedonian	B-LOC
+alueella	I-LOC
+.	O
+
+OHJAUS	O
+Kypséli	B-LOC
+(	I-LOC
+Ateena	I-LOC
+)	I-LOC
+
+Valmistuttuaan	O
+sieltä	O
+hän	O
+muutti	O
+asumaan	O
+Geneveen	B-LOC
+,	O
+josta	O
+hän	O
+muutti	O
+myöhemmin	O
+Pariisiin	B-LOC
+.	O
+
+OHJAUS	O
+Society	B-ORG
+of	I-ORG
+United	I-ORG
+Irishmen	I-ORG

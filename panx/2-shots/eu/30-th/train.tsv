@@ -1,0 +1,40 @@
+Lagunartekoak	O
+ere	O
+izan	O
+ziren	O
+Claude	B-PER
+Monet	I-PER
+eta	O
+Édouard	B-PER
+Manet	I-PER
+.	O
+
+Etapa	O
+1	O
+1972ko	B-ORG
+Italiako	I-ORG
+Giroan	I-ORG
+
+'	O
+''	O
+Marian	B-PER
+Álvarez	I-PER
+''	O
+'	O
+
+Beriain	B-LOC
+(	I-LOC
+mendia	I-LOC
+)	I-LOC
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Fronte	B-ORG
+Popularra	I-ORG
+(	I-ORG
+Espainia	I-ORG
+)	I-ORG

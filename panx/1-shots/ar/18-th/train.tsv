@@ -1,0 +1,21 @@
+تحويل	O
+سيمون	B-PER
+دي	I-PER
+مونتفورت	I-PER
+
+*237	O
+عدد	B-ORG
+مضلعي	I-ORG
+(	O
+80	O
+أضلاع-	O
+...	O
+)	O
+
+تحويل	O
+غل	B-LOC
+غلاب	I-LOC
+بالایی	I-LOC
+(	I-LOC
+قيلاب	I-LOC
+)	I-LOC

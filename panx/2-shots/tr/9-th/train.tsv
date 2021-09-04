@@ -1,0 +1,51 @@
+Ankara	B-ORG
+Radyosu’nda	I-ORG
+otuz	O
+kadar	O
+eseri	O
+temsil	O
+edildi	O
+.	O
+
+YÖNLENDİRME	O
+Karacakılavuz	B-LOC
+,	I-LOC
+Süleymanpaşa	I-LOC
+
+'	O
+''	O
+Alican	B-PER
+Güney	I-PER
+''	O
+'	O
+
+Dördüncü	B-ORG
+Enternasyonal'in	I-ORG
+inşasına	O
+başladı	O
+.	O
+
+Batısında	O
+ve	O
+kuzeyinde	O
+Korgas	B-LOC
+İlçesi	I-LOC
+,	O
+doğusunda	O
+Gulca	B-ORG
+İlçesi	I-ORG
+ve	O
+güneyinde	O
+Çapçal	B-LOC
+Şibe	I-LOC
+Özerk	I-LOC
+İlçesi	I-LOC
+ile	O
+sınırdır	O
+.	O
+
+Iker	B-PER
+Casillas	I-PER
+(	O
+k	O
+)	O

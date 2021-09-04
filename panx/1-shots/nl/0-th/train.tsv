@@ -1,0 +1,15 @@
+Pražského	B-ORG
+povstání	I-ORG
+(	I-ORG
+metrostation	I-ORG
+)	I-ORG
+
+Gerard-Kornelis	B-PER
+van	I-PER
+het	I-PER
+Reve	I-PER
+-	O
+
+Šentjur	B-LOC
+pri	I-LOC
+Celju	I-LOC

@@ -1,0 +1,40 @@
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+===	O
+Maluku	B-LOC
+&	O
+Papua	B-LOC
+===	O
+
+Aki	B-PER
+Takajo	I-PER
+(	O
+高城	O
+亜樹	O
+)	O
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

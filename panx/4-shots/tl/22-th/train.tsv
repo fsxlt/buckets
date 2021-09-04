@@ -1,0 +1,72 @@
+Riverside	B-LOC
+County	I-LOC
+,	O
+California	B-LOC
+-	O
+hilaga	O
+
+Estados	B-LOC
+Unidos	I-LOC
+-	O
+Kaarawan	B-PER
+ni	I-PER
+Lincoln	I-PER
+(	O
+sa	O
+tradisyon	O
+)	O
+
+Simon	B-PER
+McMenemy	I-PER
+(	O
+2010	O
+)	O
+
+Yunit	B-ORG
+na	I-ORG
+pang-astronomiya	I-ORG
+
+**	O
+Port	B-LOC
+Moresby	I-LOC
+(	O
+Embahada	O
+)	O
+
+Tinuturing	O
+itong	O
+isang	O
+espesyeng	O
+mananalakay	O
+sa	O
+Florida	B-LOC
+.	O
+
+Alejandro	B-PER
+ang	I-PER
+Dakila	I-PER
+
+Juana	B-PER
+I	I-PER
+ng	I-PER
+Castilla	I-PER
+
+Ikalawang	B-ORG
+Konsilyong	I-ORG
+Vaticano	I-ORG
+
+Metro	B-ORG
+ng	I-ORG
+Beijing	I-ORG
+
+Sultan	B-LOC
+Naga	I-LOC
+Dimaporo	I-LOC
+(	O
+Karomatan	O
+)	O
+
+Pambansang	B-ORG
+Aklatan	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG

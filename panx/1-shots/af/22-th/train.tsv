@@ -1,0 +1,35 @@
+Sint	B-ORG
+Pieterskerk	I-ORG
+,	I-ORG
+Riga	I-ORG
+
+Die	O
+gebied	O
+strek	O
+oor	O
+Afrika	B-LOC
+suid	O
+van	O
+die	O
+Sahara-woestyn	B-LOC
+,	O
+die	O
+suide	O
+van	O
+die	O
+Arabiese	B-LOC
+Skiereiland	I-LOC
+,	O
+en	O
+uiteindelik	O
+die	O
+suide	O
+van	O
+Iran	B-LOC
+.	O
+
+Andries	B-PER
+Petrus	I-PER
+Treurnicht	I-PER
+,	O
+1958–1960	O

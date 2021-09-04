@@ -1,0 +1,41 @@
+Bride	B-ORG
+of	I-ORG
+the	I-ORG
+Century	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Dordogne	I-LOC
+
+``	O
+Lihatlah	O
+Lebih	O
+Dekat	O
+''	O
+(	O
+Sherina	B-PER
+Munaf	I-PER
+)	O
+
+;	O
+Show	B-ORG
+!	I-ORG
+Music	I-ORG
+Core	I-ORG
+
+Tapi	O
+ada	O
+pengecualian	O
+buat	O
+Sutan	B-PER
+Harhara	I-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Nord	I-LOC

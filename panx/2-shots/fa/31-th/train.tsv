@@ -1,0 +1,35 @@
+تغییرمسیر	O
+احمد	B-PER
+حسن	I-PER
+البکر	I-PER
+
+تغییر_مسیر	O
+نیک	B-ORG
+کیو	I-ORG
+اند	I-ORG
+دبد	I-ORG
+سیدز	I-ORG
+
+تغییرمسیر	O
+جوزپه	B-PER
+دومنیکو	I-PER
+بوتو	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+لیانشان	B-LOC
+ژوانگ	I-LOC
+اند	I-LOC
+یاو	I-LOC
+
+تغییرمسیر	O
+جزیره	B-LOC
+مریت،	I-LOC
+فلوریدا	I-LOC

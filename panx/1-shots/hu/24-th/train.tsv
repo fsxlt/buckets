@@ -1,0 +1,30 @@
+'	O
+''	O
+Martina	B-PER
+Navratilova	I-PER
+Pam	B-PER
+Shriver	I-PER
+
+Ausztriában	B-LOC
+,	O
+a	O
+dal	O
+a	O
+slágerlistán	O
+32.	O
+helyen	O
+szerepelt	O
+.	O
+
+Hannibal	B-ORG
+(	I-ORG
+televíziós	I-ORG
+sorozat	I-ORG
+)	I-ORG
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Magné	B-LOC
+(	I-LOC
+Deux-Sèvres	I-LOC
+)	I-LOC

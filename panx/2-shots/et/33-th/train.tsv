@@ -1,0 +1,52 @@
+Šoti	B-ORG
+Rahvuspartei	I-ORG
+–	O
+1,7	O
+%	O
+,	O
+6	O
+kohta	O
+;	O
+
+Põhja	O
+pool	O
+asub	O
+Suur	B-LOC
+Pihlakare	I-LOC
+.	O
+
+Yits'ẖak	B-PER
+Shamir	I-PER
+,	O
+Iisrael	B-LOC
+
+aastal	O
+kolis	O
+UIM-i	O
+peakorter	O
+Monacosse	B-LOC
+.	O
+
+Oda	B-PER
+Krohg	I-PER
+(	O
+1860–1935	O
+)	O
+,	O
+maalija	O
+
+suuna	O
+ÜRO	B-ORG
+Pagulaste	I-ORG
+Ülemvoliniku	I-ORG
+Amet	I-ORG
+
+aastal	O
+Nõukogude	B-LOC
+Liidu	I-LOC
+ja	O
+Poola	B-LOC
+koostöös	O
+valminud	O
+mängufilm	O
+.	O

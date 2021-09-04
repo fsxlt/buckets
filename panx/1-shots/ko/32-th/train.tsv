@@ -1,0 +1,43 @@
+부산진구	B-LOC
+부전제2동	O
+,	O
+전포제1동	O
+,	O
+전포제2동	O
+,	O
+전포제3동	O
+,	O
+가야제1동	O
+,	O
+가야제2동	O
+,	O
+가야제3동	O
+,	O
+개금제1동	O
+,	O
+개금제2동	O
+,	O
+개금제3동	O
+,	O
+범천제1동	O
+,	O
+범천제2동	O
+,	O
+범천제4동	O
+
+텍사스	B-LOC
+주	I-LOC
+,	O
+포트	B-ORG
+후드	I-ORG
+
+넘겨주기	O
+유욱	B-PER
+(	I-PER
+유송	I-PER
+)	I-PER
+
+2000년	B-ORG
+CONCACAF	I-ORG
+골드컵	I-ORG
+국가대표	O

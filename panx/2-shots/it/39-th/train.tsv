@@ -1,0 +1,66 @@
+Il	O
+primo	O
+e	O
+il	O
+terzo	O
+verso	O
+del	O
+ritornello	O
+sono	O
+cantate	O
+da	O
+John	B-PER
+Frusciante	I-PER
+,	O
+mentre	O
+il	O
+secondo	O
+e	O
+il	O
+quarto	O
+sono	O
+la	O
+risposta	O
+di	O
+Anthony	B-PER
+Kiedis	I-PER
+.	O
+
+Joplin	B-LOC
+,	O
+Stati	B-LOC
+Uniti	I-LOC
+d'America	I-LOC
+
+Lil	B-PER
+Wayne	I-PER
+,	O
+``	O
+A	B-ORG
+Milli	I-ORG
+''	O
+
+National	B-ORG
+Basketball	I-ORG
+Association	I-ORG
+2009-2010	I-ORG
+
+Chillicothe	B-LOC
+-	O
+capoluogo	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Ross	I-LOC
+,	O
+Ohio	B-LOC
+
+Pignan	B-LOC
+,	O
+(	O
+Montpellier	B-LOC
+''	O
+)	O
+,	O
+Francia	B-LOC
+.	O

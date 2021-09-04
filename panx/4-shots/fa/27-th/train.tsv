@@ -1,0 +1,87 @@
+تغییرمسیر	O
+قانون‌های	B-ORG
+مداری	I-ORG
+کیرشهف	I-ORG
+
+تغییرمسیر	O
+آر	B-PER
+ال	I-PER
+برن‌ساید	I-PER
+
+الواقدی،	B-PER
+محمد	I-PER
+بن	I-PER
+عمر	I-PER
+.	O
+
+با	O
+توجه	O
+به	O
+قراردادهای	O
+کنونی،	O
+این	O
+بازی‌ها	O
+از	O
+شبکهٔ	O
+ان.بی.	B-ORG
+سی	I-ORG
+در	O
+ایالات	B-LOC
+متحده	I-LOC
+پخش	O
+خواهد	O
+شد	O
+.	O
+
+تغییر_مسیر	O
+فهرست	B-LOC
+جزایر	I-LOC
+باهاما	I-LOC
+
+تغییرمسیر	O
+برد	B-PER
+ویلیام	I-PER
+هنکه	I-PER
+
+تغییرمسیر	O
+پورتج	B-LOC
+کریک،	I-LOC
+آلاسکا	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+Polacca]]،	O
+آریزونا،	B-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+این	O
+نوشتار	O
+افتخارات	O
+'	O
+''	O
+علی	B-PER
+کریمی	I-PER
+''	O
+'	O
+را	O
+در	O
+بر	O
+دارد	O
+.	O
+
+تغییرمسیر	O
+این	B-ORG
+گونه	I-ORG
+زاده	I-ORG
+شده‌ام	I-ORG
+(	I-ORG
+ترانه	I-ORG
+)	I-ORG

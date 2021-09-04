@@ -1,0 +1,80 @@
+تغییرمسیر	O
+خصومت	B-ORG
+(	I-ORG
+آلبوم	I-ORG
+باستیل	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+محمدآباد	B-LOC
+سفلی	I-LOC
+(	I-LOC
+عنبرآباد	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+کوتس	B-LOC
+بند،	I-LOC
+آلاباما	I-LOC
+
+تغییرمسیر	O
+ریاست‌جمهوری	B-PER
+اکبر	I-PER
+هاشمی	I-PER
+رفسنجانی	I-PER
+
+تغییرمسیر	O
+بهرام‌آباد	B-LOC
+(	I-LOC
+گنبد	I-LOC
+کاووس	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+آرارات	I-ORG
+ایروان	I-ORG
+
+تغییرمسیر	O
+خوزه	B-PER
+امیلیو	I-PER
+پاچکو	I-PER
+
+تغییرمسیر	O
+سید	B-PER
+حسین	I-PER
+طباطبایی	I-PER
+بروجردی	I-PER
+
+هما	B-PER
+مالینی	I-PER
+در	O
+نقش	O
+بسنتی	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+وی	O
+هم	O
+اکنون	O
+رییس	O
+پژوهشگاه	B-ORG
+دانش‌های	I-ORG
+بنیادی	I-ORG
+است	O
+.	O
+
+تغییرمسیر	O
+ولسوالی	B-LOC
+فیض‌آباد	I-LOC
+(	I-LOC
+ولایت	I-LOC
+جوزجان	I-LOC
+)	I-LOC

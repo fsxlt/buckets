@@ -1,0 +1,22 @@
+Monumento	B-ORG
+Natural	I-ORG
+da	I-ORG
+Pedreira	I-ORG
+do	I-ORG
+Campo	I-ORG
+,	I-ORG
+do	I-ORG
+Figueiral	I-ORG
+e	I-ORG
+Prainha	I-ORG
+
+REDIRECIONAMENTO	O
+Macau	B-LOC
+(	I-LOC
+Portugal	I-LOC
+)	I-LOC
+
+Dulce	B-PER
+I	I-PER
+de	I-PER
+Leão	I-PER

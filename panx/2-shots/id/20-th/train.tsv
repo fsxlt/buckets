@@ -1,0 +1,33 @@
+China	B-ORG
+Academy	I-ORG
+of	I-ORG
+Launch	I-ORG
+Vehicle	I-ORG
+Technology	I-ORG
+
+Luis	B-PER
+Ángel	I-PER
+González	I-PER
+
+ALIH	O
+Partai	B-ORG
+Tindakan	I-ORG
+Rakyat	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Lot-et-Garonne	I-LOC
+
+Nova	B-PER
+Widianto	I-PER
+/	O
+Lilyana	B-PER
+Natsir	I-PER
+
+ALIH	O
+Batusangkar	B-LOC
+(	I-LOC
+kota	I-LOC
+)	I-LOC

@@ -1,0 +1,20 @@
+رجوع_مکرر	O
+سری	B-ORG
+رام	I-ORG
+پور	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+بشار	B-PER
+الاسد	I-PER
+(	O
+پیدائش	O
+1965	O
+)	O
+
+واشنگٹن	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+یونین	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC

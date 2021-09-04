@@ -1,0 +1,19 @@
+Maroon	B-ORG
+5	I-ORG
+com	O
+participação	O
+Wiz	B-PER
+Khalifa	I-PER
+
+Campeonato	B-ORG
+Paulista	I-ORG
+(	O
+Série	B-ORG
+A1	I-ORG
+)	O
+
+Dichrostachys	B-LOC
+kirkii	I-LOC
+''	O
+Benth	B-PER
+.	I-PER

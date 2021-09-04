@@ -1,0 +1,44 @@
+Paapua	B-LOC
+Uus-Guinea	I-LOC
+parlament	O
+valis	O
+peaministriks	O
+Peter	B-ORG
+O'Neilli	I-ORG
+.	O
+
+Kõlleste	B-LOC
+vald	I-LOC
+,	O
+Põlva	B-LOC
+maakond	I-LOC
+
+Gabriel	B-PER
+Lippmann	I-PER
+,	O
+Prantsuse-Luksemburgi	O
+füüsik	O
+ja	O
+leiutaja	O
+(	O
+1845–1921	O
+)	O
+
+See	O
+algatus	O
+tuleneb	O
+Euroopa	B-ORG
+Komisjoni	I-ORG
+2009.	O
+aastal	O
+välja	O
+antud	O
+regulatsioonist	O
+.	O
+
+François	B-PER
+Mitterrand	I-PER
+(	O
+1981–1995	O
+)	O
+===	O

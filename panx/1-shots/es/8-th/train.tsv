@@ -1,0 +1,20 @@
+Tony	B-PER
+Sirico	I-PER
+como	O
+Paulie	B-PER
+Gualtieri	I-PER
+.	O
+
+''	O
+Black	B-ORG
+Capricorn	I-ORG
+Day	I-ORG
+''	O
+-	O
+05:41	O
+
+Ciudad	B-LOC
+de	I-LOC
+México	I-LOC
+(	O
+)	O

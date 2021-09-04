@@ -1,0 +1,79 @@
+Goran	B-PER
+Visnjic	I-PER
+in	O
+E.R.	B-ORG
+-	I-ORG
+Medici	I-ORG
+in	I-ORG
+prima	I-ORG
+linea	I-ORG
+''	O
+
+Ken	B-PER
+Rosewall6-4	I-PER
+6-2	O
+4-6	O
+6-3	O
+
+Câlnic	B-LOC
+(	I-LOC
+Gorj	I-LOC
+)	I-LOC
+
+Egli	O
+frequentò	O
+dunque	O
+il	O
+Lincoln	B-ORG
+College	I-ORG
+di	O
+Oxford	B-LOC
+.	O
+
+Categorie	B-LOC
+degli	I-LOC
+sport	I-LOC
+per	I-LOC
+disabili	I-LOC
+
+Juan	B-PER
+Sebastián	I-PER
+Cabal	I-PER
+/	O
+Robert	B-ORG
+Farah	I-ORG
+''	O
+(	O
+finale	O
+)	O
+
+===	O
+Voivodato	B-LOC
+della	I-LOC
+Varmia-Masuria	I-LOC
+===	O
+
+:9ª	O
+tappa	O
+Giro	B-ORG
+d'Italia	I-ORG
+(	O
+Foggia	B-LOC
+>	O
+Chieti	B-LOC
+)	O
+
+Reuven	B-PER
+Shiloah	I-PER
+,	O
+1949–52	O
+
+Principato	B-LOC
+del	I-LOC
+Montenegro	I-LOC
+(	O
+fino	O
+al	O
+28	O
+agosto	O
+)	O

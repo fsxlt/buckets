@@ -1,0 +1,79 @@
+Sistem	O
+ini	O
+dimiliki	O
+dan	O
+dioperasikan	O
+sepenuhnya	O
+oleh	O
+DSB	B-ORG
+S-tog	I-ORG
+A	I-ORG
+/	I-ORG
+S	I-ORG
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+'	O
+''	O
+Gilles	B-PER
+Simon	I-PER
+[18]	O
+
+ALIH	O
+Idols	B-ORG
+(	I-ORG
+Denmark	I-ORG
+)	I-ORG
+
+Viktoria	B-ORG
+Plzeň	I-ORG
+menang	O
+6–4	O
+secara	O
+agregat	O
+.	O
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Vosges	I-LOC
+
+Robert	B-PER
+J.	I-PER
+Van	I-PER
+de	I-PER
+Graaff	I-PER
+
+Luis	B-PER
+Ángel	I-PER
+González	I-PER
+
+Provinsi	B-LOC
+Teramo	I-LOC
+,	O
+Italia	B-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Orne	I-LOC
+
+ALIH	O
+Federasi	B-ORG
+Sepak	I-ORG
+Bola	I-ORG
+Turki	I-ORG
+
+25px]]	O
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O

@@ -1,0 +1,17 @@
+Dera	B-LOC
+Ghazi	I-LOC
+Khanin	I-LOC
+piirikunta	I-LOC
+
+Gustav	B-PER
+Stresemann	I-PER
+(	O
+1878–1929	O
+)	O
+
+The	B-ORG
+Chosen	I-ORG
+Ones	I-ORG
+(	O
+1999	O
+)	O

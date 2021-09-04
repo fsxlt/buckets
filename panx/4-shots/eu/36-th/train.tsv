@@ -1,0 +1,114 @@
+Eraikin	O
+horiek	O
+Ameriko	B-PER
+Vespuziori	I-PER
+Venezia	B-LOC
+gogora	O
+ekarri	O
+zioten	O
+,	O
+Piero	B-PER
+de	I-PER
+Mediciri	I-PER
+bidalitako	O
+gutun	O
+batean	O
+esaten	O
+zuen	O
+moduan	O
+.	O
+
+van	B-PER
+Persie	I-PER
+van	B-PER
+Nistelrooy	I-PER
+27	O
+'	O
+
+Honen	O
+kopia	O
+ikusgai	O
+dago	O
+,	O
+jatorrizkoa	O
+,	O
+Kairoko	B-ORG
+Egiptoar	I-ORG
+Museoan	I-ORG
+baitago	O
+.	O
+
+Nafarroako	B-ORG
+Alderdi	I-ORG
+Sozialista	I-ORG
+(	O
+PSN-PSOE	O
+)	O
+
+Le	B-LOC
+Montet	I-LOC
+,	O
+Auvernia-Rhône-Alpeetako	O
+udalerria	O
+
+'	O
+''	O
+Benedikto	B-PER
+VIII.a	I-PER
+''	O
+'Papa	O
+'	O
+''	O
+BENEDICTUS	O
+''	O
+'	O
+Octavus	O
+
+20	O
+Erroibar	B-LOC
+/	I-LOC
+Esteribar	I-LOC
+
+Gaur	O
+egun	O
+,	O
+Athletic	B-ORG
+B	I-ORG
+taldean	O
+jokatzen	O
+du	O
+.	O
+
+Campobassoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Molise	B-LOC
+eskualdean	O
+.	O
+
+''	O
+Nacimiento	B-LOC
+(	I-LOC
+Almería	I-LOC
+)	I-LOC
+''	O
+'	O
+,	O
+Almeriako	B-LOC
+udalerria	O
+da	O
+.	O
+
+**	O
+Fahrenheit	B-ORG
+gradu	I-ORG
+(	O
+°F	O
+)	O
+,	O
+
+Anatol	B-PER
+ar	I-PER
+Braz	I-PER

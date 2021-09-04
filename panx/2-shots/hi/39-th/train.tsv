@@ -1,0 +1,40 @@
+देव	B-PER
+आनन्द	I-PER
+-	O
+राजा	O
+
+संजीव	B-PER
+कुमार	I-PER
+,	O
+देवेन	B-PER
+वर्मा	I-PER
+,	O
+मौसमी	B-PER
+चटर्जी	I-PER
+
+पश्चिम	B-ORG
+बंगाल	I-ORG
+स्वास्थ्य	I-ORG
+विज्ञान	I-ORG
+विश्वविद्यालय	I-ORG
+,	I-ORG
+कोलकाता	B-LOC
+
+यहाँ	B-ORG
+मैं	I-ORG
+घर	I-ORG
+घर	I-ORG
+खेली	I-ORG
+
+से	O
+तथा	O
+मुज़फ़्फ़र	B-LOC
+नगर	I-LOC
+से	O
+४०	O
+कि	O
+.	O
+
+वर्षा	B-LOC
+जल	I-LOC
+संचयन	I-LOC

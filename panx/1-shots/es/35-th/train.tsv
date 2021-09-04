@@ -1,0 +1,23 @@
+**	O
+'	O
+''	O
+Mencía	B-PER
+López	I-PER
+de	I-PER
+Haro	I-PER
+''	O
+'	O
+
+Condado	B-LOC
+de	I-LOC
+Butler	I-LOC
+(	O
+noroeste	O
+)	O
+
+Dassault	B-ORG
+Aviation	I-ORG
+(	O
+50.21	O
+%	O
+)	O

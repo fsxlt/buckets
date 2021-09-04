@@ -1,0 +1,44 @@
+Papa	B-PER
+Felix	I-PER
+III	I-PER
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Jibuti	I-ORG
+
+Mahakama	B-ORG
+ya	I-ORG
+Kimataifa	I-ORG
+ya	I-ORG
+Jinai	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Mwingi	I-LOC
+(	O
+Mwingi	B-LOC
+)	O
+==	O
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Mwingi	I-LOC
+''	O
+'	O
+
+Alimfuata	O
+Papa	B-PER
+Yohane	I-PER
+IX	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Leo	I-PER
+V	I-PER
+.	O

@@ -1,0 +1,44 @@
+Il	O
+avait	O
+auparavant	O
+publié	O
+les	O
+''Écrits	O
+''	O
+Erik	B-PER
+Satie	I-PER
+.	O
+
+La	B-LOC
+Rochelle	I-LOC
+-	O
+Saintes	B-LOC
+(	O
+F	O
+)	O
+
+Liste	B-LOC
+de	I-LOC
+tueurs	I-LOC
+en	I-LOC
+série	I-LOC
+
+Raymond	B-PER
+Riotte	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Broncos	B-ORG
+de	I-ORG
+Swift	I-ORG
+Current	I-ORG
+(	O
+WHL	O
+)	O
+
+REDIRECTION	O
+Presence	B-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG

@@ -1,0 +1,20 @@
+رجوع_مکرر	O
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+رجوع_مکرر	O
+ورچوئل	B-ORG
+یونیورسٹی	I-ORG
+آف	I-ORG
+پاکستان	I-ORG
+
+رجوع_مکرر	O
+لانسی	B-LOC
+آ	I-LOC
+ایپنز	I-LOC

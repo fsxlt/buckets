@@ -1,0 +1,40 @@
+Sant	B-LOC
+Llorenç	I-LOC
+d’Hortons	I-LOC
+-	O
+1	O
+838	O
+
+Miami	B-ORG
+Heat	I-ORG
+(	O
+1	O
+)	O
+
+A	O
+Kelet-Atlanti-óceánban	O
+Marokkótól	B-LOC
+a	O
+Dél-afrikai	B-LOC
+Köztársaságig	I-LOC
+lelhető	O
+fel	O
+.	O
+
+1918-19	O
+Racing	B-ORG
+de	I-ORG
+Madrid	I-ORG
+
+Alekszandr	B-PER
+Alekszandrovics	I-PER
+Volkov	I-PER
+küldetésfelelős	O
+parancsnok	O
+
+'	O
+''	O
+Artur	B-PER
+Juszupov	I-PER
+''	O
+'	O

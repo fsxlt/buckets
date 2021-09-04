@@ -1,0 +1,104 @@
+A	B-ORG
+Year	I-ORG
+Without	I-ORG
+Rain	I-ORG
+''	O
+(	O
+2010	O
+)	O
+
+Cao	B-PER
+Ly	I-PER
+Thần	I-PER
+Thánh	I-PER
+Đại	I-PER
+Vương	I-PER
+
+Phó	B-ORG
+Tổng	I-ORG
+thống	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+,	O
+người	O
+đã	O
+trở	O
+thành	O
+Tổng	O
+thống	O
+mới	O
+sau	O
+Ackerman	O
+.	O
+
+''	O
+Chlorocypha	B-LOC
+molindica	I-LOC
+''	O
+
+ĐỔI	O
+Nguyên	B-PER
+Thủy	I-PER
+Thiên	I-PER
+Tôn	I-PER
+
+*Hãng	O
+truyền	O
+hình	O
+TV	B-ORG
+Asahi	I-ORG
+.	O
+
+Hongcheon	B-LOC
+,	O
+Hàn	B-LOC
+Quốc	I-LOC
+
+====	O
+Ibiza	B-LOC
+''	O
+(	O
+Eivissa	O
+)	O
+''	O
+(	O
+Ibiza	B-LOC
+)	O
+====	O
+
+đổi	O
+Trinidad	B-ORG
+và	I-ORG
+Tobago	I-ORG
+
+*2007	O
+Praha	B-LOC
+,	O
+Cộng	B-LOC
+hòa	I-LOC
+Séc	I-LOC
+
+''	O
+'	O
+''	O
+'	O
+-	O
+'	O
+''	O
+Catharina	B-PER
+Johanna	I-PER
+Lodders	I-PER
+''	O
+'	O
+''	O
+
+Địa	B-LOC
+lý	I-LOC
+Tây	I-LOC
+Ban	I-LOC
+Nha	I-LOC
+
+đổi	O
+Vladimir	B-PER
+Mikhailovich	I-PER
+Petlyakov	I-PER

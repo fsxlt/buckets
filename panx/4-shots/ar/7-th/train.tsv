@@ -1,0 +1,94 @@
+مقاطعة	B-LOC
+ميدلسكس	I-LOC
+(	I-LOC
+نيو	I-LOC
+جيرسي	I-LOC
+)	I-LOC
+
+وودفورد	B-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+قطرة	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+تحويل	O
+عبد	B-PER
+الحفيظ	I-PER
+بن	I-PER
+الحسن	I-PER
+
+فاسيلي	B-PER
+إيفانتشوك	I-PER
+(	O
+أوكرانيا	B-LOC
+)	O
+
+تحويل	O
+هيوز	B-LOC
+(	I-LOC
+ألاسكا	I-LOC
+)	I-LOC
+
+اشتهر	O
+لعمله	O
+في	O
+استوديو	B-ORG
+غيبلي	I-ORG
+في	O
+العديد	O
+من	O
+الأعمال	O
+.	O
+
+وقد	O
+تم	O
+عمل	O
+كمين	O
+لتلك	O
+المجموعة،	O
+وتم	O
+قتل	O
+78	O
+فيما	O
+اشتهر	O
+باسم	O
+مذبحة	B-ORG
+البعثة	I-ORG
+الطبية	I-ORG
+لهداسا	I-ORG
+.	O
+
+تحويل	O
+جادسون	B-PER
+رودريغز	I-PER
+داسيلفا	I-PER
+
+تحويل	O
+تورتوليس	B-LOC
+دي	I-LOC
+لا	I-LOC
+سييرا	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO245090	O
+
+تحويل	O
+عمر	B-PER
+سيف	I-PER
+غباش	I-PER

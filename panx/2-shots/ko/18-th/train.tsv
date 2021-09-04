@@ -1,0 +1,45 @@
+넘겨주기	O
+Raw	B-PER
+이미지	I-PER
+포맷	I-PER
+
+'	O
+''	O
+에버턴	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+비하르	B-LOC
+주의	I-LOC
+파트나에서	B-LOC
+남동쪽	O
+55마일	O
+거리에	O
+위치한다	O
+.	O
+
+초기의	O
+워너	B-ORG
+브라더스에서	I-ORG
+카사블랑카》	B-LOC
+(	O
+1942	O
+)	O
+등의	O
+명작을	O
+제작하였으며	O
+험프리	B-PER
+보가트	I-PER
+,	O
+베티	B-PER
+데이비스와	I-PER
+같은	O
+스타를	O
+배출하였다	O
+.	O
+
+넘겨주기	O
+유럽	B-LOC
+연합	I-LOC
+회원국	I-LOC

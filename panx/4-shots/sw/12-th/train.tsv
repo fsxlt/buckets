@@ -1,0 +1,89 @@
+HIStory	B-ORG
+:	I-ORG
+Past	I-ORG
+,	I-ORG
+Present	I-ORG
+and	I-ORG
+Future	I-ORG
+,	I-ORG
+Book	I-ORG
+I	I-ORG
+
+Uhusina	O
+ulichezwa	O
+na	O
+Jean	B-PER
+Smart	I-PER
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Gregori	I-PER
+V	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Yohane	I-PER
+XVII	I-PER
+.	O
+
+Jimbo	B-LOC
+ya	I-LOC
+El	I-LOC
+Bayadh	I-LOC
+(	I-LOC
+Aljeria	I-LOC
+)	I-LOC
+
+Surinam	B-LOC
+(	I-LOC
+mto	I-LOC
+)	I-LOC
+
+Eneo	O
+lake	O
+ni	O
+48.4	O
+km²	B-ORG
+.	O
+
+Fasilides	B-PER
+wa	I-PER
+Ethiopia	I-PER
+
+Lake	B-LOC
+Como	I-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Jimbo	B-ORG
+Kuu	I-ORG
+la	I-ORG
+Nyeri	I-ORG
+
+The	B-ORG
+New	I-ORG
+York	I-ORG
+Times	I-ORG
+
+Fiji	B-LOC
+(	O
+Suva	B-LOC
+)	O
+(	O
+Australia	B-LOC
+na	I-LOC
+Pasifiki	I-LOC
+)	O
+
+Elizabeth	B-PER
+I	I-PER
+wa	I-PER
+Uingereza	I-PER
+
+Akwa	B-ORG
+Ibom	I-ORG
+(	I-ORG
+jimbo	I-ORG
+)	I-ORG

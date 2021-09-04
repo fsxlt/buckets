@@ -1,0 +1,55 @@
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+mängis	O
+ta	O
+1930.	O
+aastal	O
+2	O
+mängu	O
+ja	O
+lõi	O
+1	O
+värava	O
+.	O
+
+Sambia	B-LOC
+pealinnas	O
+Lusakas	B-LOC
+vannutati	O
+teiseks	O
+ametiajaks	O
+presidendiks	O
+Levy	B-PER
+Mwanawasa	I-PER
+.	O
+
+Hardini	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O
+
+suuna	O
+Edward	B-PER
+J.	I-PER
+Singler	I-PER
+
+Ust-Aldanski	B-LOC
+uluss	I-LOC
+(	O
+Усть-Алданский	O
+улус	O
+)	O
+
+Organisatsiooni	O
+peakontor	O
+asub	O
+Peterburis	B-LOC
+.	O
+
+Ta	O
+kuulub	O
+Soome	B-ORG
+Rootsi	I-ORG
+Rahvaparteisse	I-ORG
+.	O

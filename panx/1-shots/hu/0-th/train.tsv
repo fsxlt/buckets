@@ -1,0 +1,30 @@
+Az	O
+olimpiák	O
+történetében	O
+első	O
+szovjetként	B-LOC
+(	O
+azeriként	O
+)	O
+vezethette	O
+a	O
+döntő	O
+találkozót	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+FK	B-ORG
+BSK	I-ORG
+Borča	I-ORG
+
+Gálya	B-LOC
+(	I-LOC
+település	I-LOC
+)	I-LOC
+
+Stanislas	B-PER
+Wawrinka	I-PER
+''	O
+(	O
+elődöntő	O
+)	O

@@ -1,0 +1,34 @@
+h.	O
+kuppam	O
+(	O
+lighthouse	O
+kuppam	O
+)	O
+Gram	O
+Panchayat	O
+''	O
+)	O
+,	O
+தமிழ்நாட்டின்	B-LOC
+திருவள்ளூர்	B-LOC
+மாவட்டத்தில்	I-LOC
+உள்ள	O
+மீஞ்சூர்	B-LOC
+வட்டாரத்தில்	O
+அமைந்துள்ளது	O
+.	O
+
+தூய	B-ORG
+ஆரோக்கிய	I-ORG
+அன்னை	I-ORG
+திருத்தலம்	I-ORG
+,	I-ORG
+வேளாங்கண்ணி	I-ORG
+
+முத்திப்	B-PER
+பேறுபெற்ற	I-PER
+இரண்டாம்	I-PER
+அர்பன்	I-PER
+(	O
+108-1099	O
+)	O

@@ -1,0 +1,56 @@
+Punika	O
+ugi	O
+langkung	O
+amargi	O
+kabegjan	O
+,	O
+amargi	O
+Michael	B-PER
+Schumacher	I-PER
+ingkang	O
+nalika	O
+punika	O
+saweg	O
+mimpin	O
+balapan	O
+,	O
+ngalami	O
+perkawis	O
+transmisi	O
+wonten	O
+ing	O
+lap	O
+ingkang	O
+pungkasan	O
+.	O
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

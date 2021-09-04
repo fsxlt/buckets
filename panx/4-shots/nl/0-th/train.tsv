@@ -1,0 +1,108 @@
+Saint-Symphorien	B-LOC
+(	I-LOC
+Gironde	I-LOC
+)	I-LOC
+
+De	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+door	O
+Francis	B-PER
+Walker	I-PER
+.	O
+
+J.	B-PER
+M.	I-PER
+Coetzee	I-PER
+(	O
+2010	O
+)	O
+
+******	O
+''	O
+Heteroteuthis	B-LOC
+serventyi	I-LOC
+''	O
+
+Filmlocaties	O
+zijn	O
+onder	O
+andere	O
+de	O
+omgeving	O
+van	O
+Port	B-LOC
+Douglas	I-LOC
+,	O
+Melbourne	B-LOC
+en	O
+Victoria	B-LOC
+.	O
+
+DOORVERWIJZING	O
+Johann	B-PER
+Cicero	I-PER
+van	I-PER
+Brandenburg	I-PER
+
+Elimay	B-ORG
+FK	I-ORG
+Semey	I-ORG
+was	O
+voor	O
+de	O
+derde	O
+maal	O
+de	O
+sterkste	O
+.	O
+
+Hij	O
+tekende	O
+in	O
+2010	O
+bij	O
+Jeonbuk	B-ORG
+Hyundai	I-ORG
+Motors	I-ORG
+.	O
+
+The	B-ORG
+Bloodhound	I-ORG
+Gang	I-ORG
+(	O
+''Mope	O
+''	O
+,	O
+2000	O
+)	O
+
+Rio	B-LOC
+Bonito	I-LOC
+do	I-LOC
+Iguaçu	I-LOC
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+Mary	B-PER
+Joe	I-PER
+Fernandez	I-PER
+Lisa	B-PER
+Raymond	I-PER

@@ -1,0 +1,34 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Allier	I-LOC
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+China	I-ORG
+
+'	O
+''	O
+Kevin	B-PER
+Cheng	I-PER
+''	O
+'	O
+
+LENCONG	O
+La	B-LOC
+Granja	I-LOC
+,	I-LOC
+Sepanyol	I-LOC
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Maremma	I-PER
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Jerman	I-ORG
+lama	I-ORG

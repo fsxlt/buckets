@@ -1,0 +1,76 @@
+پاکستان	B-ORG
+پیپلز	I-ORG
+پارٹی	I-ORG
+پارلیمنٹیرینز	I-ORG
+
+حنا	B-PER
+ربّانی	I-PER
+کھر،	I-PER
+(	O
+18	O
+جولائی	O
+2011	O
+تا	O
+11	O
+مئی	O
+2013	O
+)	O
+
+رجوع_مکرر	O
+امی	B-LOC
+نگر	I-LOC
+سرائے	I-LOC
+
+رجوع_مکرر	O
+عبداللہ	B-PER
+بن	I-PER
+مسعود	I-PER
+
+رجوع_مکرر	O
+ضلع	B-LOC
+شہید	I-LOC
+بینظیر	I-LOC
+آباد	I-LOC
+
+رجوع_مکرر	O
+کاسنوویا	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مشی	I-LOC
+گن	I-LOC
+
+رجوع_مکرر	O
+فضل	B-PER
+الہی	I-PER
+چوہدری	I-PER
+
+رجوع_مکرر	O
+بین	B-ORG
+الاقوامی	I-ORG
+اتحاد	I-ORG
+برائے	I-ORG
+تحفظ	I-ORG
+قدرت	I-ORG
+
+رجوع_مکرر	O
+یوشع	B-PER
+بن	I-PER
+نون	I-PER
+
+فہرست	B-ORG
+ممالک	I-ORG
+بلحاظ	I-ORG
+فی	I-ORG
+کس	I-ORG
+ذاتی	I-ORG
+آمدن	I-ORG
+
+رجوع_مکرر	O
+راجہ	B-ORG
+بکرم	I-ORG
+اجیت	I-ORG
+
+رجوع_مکرر	O
+زگوننے،	B-LOC
+ورمان-مسریاں	I-LOC
+صوبہ	I-LOC

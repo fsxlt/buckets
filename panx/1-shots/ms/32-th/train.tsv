@@ -1,0 +1,28 @@
+Kimi	B-ORG
+wa	I-ORG
+Jitensha	I-ORG
+Watashi	I-ORG
+wa	I-ORG
+Densha	I-ORG
+de	I-ORG
+Kitaku	I-ORG
+(	O
+君は自転車	O
+私は電車で帰宅	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Eure	I-LOC
+
+Nabi	B-PER
+Sulaiman	I-PER
+a.s	I-PER
+.	I-PER
+dikurniakan	O
+Allah	O
+kerajaan	O
+yang	O
+besar	O
+.	O

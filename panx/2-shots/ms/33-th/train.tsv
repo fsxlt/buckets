@@ -1,0 +1,37 @@
+Sabah	B-LOC
+Di	I-LOC
+Bawah	I-LOC
+Bayu	I-LOC
+(	O
+Kota	B-LOC
+Kinabalu	I-LOC
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+
+Muse	B-ORG
+(	I-ORG
+kugiran	I-ORG
+)	I-ORG
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Basque	I-ORG
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O

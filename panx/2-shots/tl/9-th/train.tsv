@@ -1,0 +1,28 @@
+Bundok	B-LOC
+ng	I-LOC
+Sinai	I-LOC
+
+Pangulo	B-ORG
+ng	I-ORG
+Senado	I-ORG
+Ferdinand	B-PER
+Marcos	I-PER
+(	O
+1961–1964	O
+)	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Felipe	B-PER
+II	I-PER
+ng	I-PER
+Macedonia	I-PER
+
+Babangon	B-ORG
+Ako't	I-ORG
+Dudurugin	I-ORG
+Kita	I-ORG
+''	O

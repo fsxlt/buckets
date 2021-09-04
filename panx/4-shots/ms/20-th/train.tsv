@@ -1,0 +1,73 @@
+LENCONG	O
+Anjing	B-ORG
+serigala	I-ORG
+Kunming	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vendée	I-LOC
+
+Pemerintah	O
+Sepanyol	B-LOC
+yang	O
+mengizinkan	O
+Christopher	B-PER
+Columbus	I-PER
+belayar	O
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Tatra	I-PER
+Poland	I-PER
+
+LENCONG	O
+Abdul	B-PER
+Rahman	I-PER
+I	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+belakang	I-ORG
+permatang	I-ORG
+Thai	I-ORG
+
+Sekolah	B-ORG
+Dato	I-ORG
+'	I-ORG
+Abdul	I-ORG
+Razak	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Savoie	I-LOC
+
+Orang	B-ORG
+Melayu	I-ORG
+di	I-ORG
+Singapura	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vaucluse	I-LOC
+
+Terdapat	O
+kontroversi	O
+yang	O
+menyatakan	O
+Lin	B-PER
+Dan	I-PER
+menarik	O
+diri	O
+ketika	O
+suku	O
+akhir	O
+.	O

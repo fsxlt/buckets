@@ -1,0 +1,58 @@
+New	B-ORG
+Yorgi	I-ORG
+moodsa	I-ORG
+kunsti	I-ORG
+muuseum	I-ORG
+
+aastast	O
+Eesti	B-ORG
+Üliõpilaste	I-ORG
+Seltsi	I-ORG
+liige	O
+.	O
+
+''	O
+'	O
+''	O
+Circus	B-ORG
+''	O
+'	O
+''	O
+,	O
+Lenny	B-PER
+Kravitzi	I-PER
+album	O
+
+Oma	O
+esimestel	O
+valitsusaastatel	O
+tugines	O
+ta	O
+valitsemisel	O
+oma	O
+nõunikele	O
+,	O
+näiteks	O
+ajaloolasele	O
+Francesco	B-PER
+Guicciardinile	I-PER
+.	O
+
+Kui	O
+hing	O
+oli	O
+puhas	O
+,	O
+võis	O
+ta	O
+jätkata	O
+teed	O
+Elysioni	B-LOC
+väljadele	I-LOC
+.	O
+
+Jõgeva	B-LOC
+vald	I-LOC
+,	O
+Jõgeva	B-LOC
+maakond	I-LOC

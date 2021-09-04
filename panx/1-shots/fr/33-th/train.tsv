@@ -1,0 +1,16 @@
+'	O
+''	O
+Gianluigi	B-PER
+Scalvini	I-PER
+''	O
+'	O
+
+Département	B-LOC
+de	I-LOC
+Haute	I-LOC
+Corse	I-LOC
+
+REDIRECTION	O
+Parti	B-ORG
+démocrate	I-ORG
+d'Albanie	I-ORG

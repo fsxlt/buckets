@@ -1,0 +1,52 @@
+Commandant	B-PER
+of	I-PER
+the	I-PER
+Marine	I-PER
+Corps	I-PER
+.	O
+
+Die	O
+vier	O
+Sieger	O
+des	O
+Viertelfinales	O
+spielten	O
+zusammen	O
+mit	O
+den	O
+Gruppendritten	O
+aus	O
+der	O
+Champions	B-LOC
+League	I-LOC
+eine	O
+„Challenge	O
+Round“	O
+.	O
+
+**	O
+'	O
+''	O
+Emirat	B-LOC
+von	I-LOC
+Córdoba	I-LOC
+''	O
+'	O
+
+Beijing	B-ORG
+Schmidt	I-ORG
+CCD	I-ORG
+Asteroid	I-ORG
+Program	I-ORG
+
+Pjotr	B-PER
+Iljitsch	I-PER
+Klimuk	I-PER
+
+Nachdem	O
+der	O
+Hessische	B-ORG
+Landtag	I-ORG
+am	O
+2	O
+.	O

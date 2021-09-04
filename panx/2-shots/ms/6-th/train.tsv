@@ -1,0 +1,50 @@
+Prob	B-ORG
+Anisotropi	I-ORG
+Gelombang	I-ORG
+Mikro	I-ORG
+Wilkinson	I-ORG
+
+LENCONG	O
+Nurabad	B-LOC
+,	I-LOC
+Azerbaijan	I-LOC
+Barat	I-LOC
+
+Bank	B-ORG
+Simpanan	I-ORG
+Nasional	I-ORG
+(	O
+BSN	O
+)	O
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+(	O
+7	O
+)	O
+,	O
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+(	O
+3	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Essonne	I-LOC
+
+'	O
+''	O
+Heikki	B-PER
+Kovalainen	I-PER
+''	O
+'	O

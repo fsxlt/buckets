@@ -1,0 +1,60 @@
+:	O
+奥	B-LOC
+斯	I-LOC
+特	I-LOC
+尔	I-LOC
+维	I-LOC
+克	I-LOC
+#	O
+(	O
+萨	O
+克	O
+森	O
+-	O
+安	O
+哈	O
+尔	O
+特	O
+)	O
+
+交	B-ORG
+通	I-ORG
+部	I-ORG
+觀	I-ORG
+光	I-ORG
+局	I-ORG
+
+#	O
+诺	B-LOC
+尔	I-LOC
+省	I-LOC
+市	I-LOC
+镇	I-LOC
+列	I-LOC
+表	I-LOC
+
+林	B-PER
+剛	I-PER
+史	I-PER
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+蔡	B-PER
+楓	I-PER
+華	I-PER
+
+#	O
+近	B-ORG
+地	I-ORG
+小	I-ORG
+行	I-ORG
+星	I-ORG
+追	I-ORG
+踪	I-ORG

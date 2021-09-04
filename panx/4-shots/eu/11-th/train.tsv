@@ -1,0 +1,99 @@
+Badaude	O
+,	O
+baita	O
+ere	O
+,	O
+Antonino	B-PER
+Piori	I-PER
+ematen	O
+zaizkion	O
+zatiren	O
+batzuk	O
+ere	O
+.	O
+
+Genovako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Liguria	B-LOC
+eskualdean	O
+.	O
+
+Ramon	B-PER
+Borrellen	I-PER
+emaztea	O
+zen	O
+.	O
+
+Erroma	B-LOC
+,	O
+Aita	B-LOC
+Santuen	I-LOC
+Lurraldea	I-LOC
+,	O
+Germaniako	B-ORG
+Erromatar	I-ORG
+Inperio	I-ORG
+Santua	I-ORG
+
+Vardar	B-ORG
+Skopje	I-ORG
+da	O
+garaipen	O
+gehien	O
+lortu	O
+dituen	O
+taldea	O
+.	O
+
+Estandarizaziorako	B-ORG
+Nazioarteko	I-ORG
+Erakundearen	I-ORG
+laburdura	O
+.	O
+
+Milango	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Bateatzaile	O
+trebea	O
+,	O
+Liga	B-ORG
+Handietako	I-ORG
+jokalari	O
+ospetsuenetariko	O
+bat	O
+izan	O
+zen	O
+.	O
+
+Liburu	O
+honek	O
+,	O
+Britainia	B-LOC
+Handiko	I-LOC
+Jurgi	B-PER
+I.a	I-PER
+erregeagan	O
+eragin	O
+zuen	O
+.	O
+
+Antzezle	O
+nagusiak	O
+Joan	B-PER
+Bennett	I-PER
+eta	O
+Michael	B-PER
+Redgrave	I-PER
+izan	O
+ziren	O
+.	O

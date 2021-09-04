@@ -1,0 +1,48 @@
+OHJAUS	O
+Tokion	B-ORG
+metropolin	I-ORG
+hallintorakennus	I-ORG
+
+Kaupunki	O
+on	O
+Siyəzənin	B-LOC
+piirin	I-LOC
+keskus	O
+.	O
+
+Oberschleißheimin	O
+naapurikunnat	O
+ovat	O
+Unterschleißheim	B-LOC
+,	O
+Garching	B-LOC
+,	O
+Dachau	B-LOC
+ja	O
+München	B-LOC
+.	O
+
+Sony	B-ORG
+BMG	I-ORG
+Music	I-ORG
+Entertainment	I-ORG
+
+Katri	B-PER
+Mattsson	I-PER
+(	O
+o.s	O
+.	O
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+Hän	O
+asuu	O
+nyt	O
+Sioux	B-LOC
+Fallsissa	I-LOC
+.	O

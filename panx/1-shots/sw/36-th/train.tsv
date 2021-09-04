@@ -1,0 +1,24 @@
+Wilhelm	B-PER
+Bleek	I-PER
+(	O
+1827-1875	O
+)	O
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Mwingi	I-LOC
+(	O
+Mwingi	B-LOC
+)	O
+==	O

@@ -1,0 +1,107 @@
+Ha	O
+studiato	O
+e	O
+lavorato	O
+in	O
+Germania	B-LOC
+,	O
+Francia	B-LOC
+,	O
+Regno	B-LOC
+Unito	I-LOC
+e	O
+USA	B-LOC
+.	O
+
+Brestovizza	B-LOC
+in	I-LOC
+Valle	I-LOC
+
+'	O
+''	O
+Usain	B-PER
+Bolt	I-PER
+''	O
+'	O
+
+``	O
+Say	B-ORG
+It	I-ORG
+Right	I-ORG
+''	O
+
+*Cardinale	O
+Gennaro	B-PER
+Granito	I-PER
+Pignatelli	I-PER
+di	I-PER
+Belmonte	I-PER
+
+Better	B-ORG
+Man	I-ORG
+''	O
+-	O
+3:22	O
+
+Tempio	B-ORG
+dei	I-ORG
+Dioscuri	I-ORG
+
+Tímea	B-PER
+Babos	I-PER
+/	O
+Kristina	B-PER
+Mladenovic	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Rocca	B-LOC
+di	I-LOC
+Neto	I-LOC
+
+Thirty	B-ORG
+Seconds	I-ORG
+to	I-ORG
+Mars	I-ORG
+-	O
+Up	B-ORG
+in	I-ORG
+the	I-ORG
+Air	I-ORG
+''	O
+
+Queste	O
+provincie	O
+,	O
+nel	O
+loro	O
+complesso	O
+,	O
+furono	O
+parte	O
+integrante	O
+per	O
+circa	O
+7	O
+secoli	O
+del	O
+Regno	B-LOC
+di	I-LOC
+Napoli	I-LOC
+e	O
+successivamente	O
+delle	O
+Due	B-LOC
+Sicilie	I-LOC
+.	O
+
+'	O
+''	O
+Kateřina	B-PER
+Siniaková	I-PER
+(	O
+Qualificata	O
+)	O

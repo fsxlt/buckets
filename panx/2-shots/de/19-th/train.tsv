@@ -1,0 +1,62 @@
+Neben	O
+den	O
+oben	O
+genannten	O
+arbeitete	O
+er	O
+mit	O
+Jazz-Größen	O
+wie	O
+Count	B-PER
+Basie	I-PER
+,	O
+Erroll	B-PER
+Garner	I-PER
+und	O
+Illinois	B-PER
+Jacquet	I-PER
+.	O
+
+'	O
+''	O
+'	O
+''	O
+Drew	B-PER
+Ginn	I-PER
+Mike	B-PER
+McKay	I-PER
+
+Rathaus	B-ORG
+(	I-ORG
+Rapperswil	I-ORG
+)	I-ORG
+
+Seit	O
+Anfang	O
+2007	O
+ist	O
+Hals	O
+Teil	O
+der	O
+Aalborg	B-LOC
+Kommune	I-LOC
+.	O
+
+'	O
+''	O
+Vizekönigreich	B-LOC
+Neuspanien	I-LOC
+''	O
+'	O
+
+Fünf	O
+Jahre	O
+später	O
+wurde	O
+die	O
+Strecke	O
+bis	O
+Campo	B-ORG
+Grande	I-ORG
+verlängert	O
+.	O

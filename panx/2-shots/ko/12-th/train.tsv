@@ -1,0 +1,55 @@
+오사카	B-LOC
+시에서는	I-LOC
+약	O
+70km	O
+,	O
+교토	B-LOC
+시	I-LOC
+,	O
+고베	B-LOC
+시에서는	I-LOC
+약	O
+60km	O
+,	O
+도요오카	B-LOC
+시	I-LOC
+,	O
+마이즈루	B-ORG
+시로부터	I-ORG
+약	O
+30km	O
+거리에	O
+있다	O
+.	O
+
+도프	B-ORG
+(	I-ORG
+밴드	I-ORG
+)	I-ORG
+
+나중에	O
+클라리스	B-PER
+스탈링이	I-PER
+렉터를	O
+찾아갔을	O
+때	O
+렉터는	O
+그레이엄의	O
+얼굴이	O
+어떻게	O
+되었냐고	O
+묻는다	O
+.	O
+
+'	O
+''	O
+데니	B-PER
+안	I-PER
+''	O
+'	O
+
+나폴리	B-LOC
+(	O
+나폴리	B-LOC
+현	I-LOC
+)	O

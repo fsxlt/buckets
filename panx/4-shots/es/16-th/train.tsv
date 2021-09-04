@@ -1,0 +1,83 @@
+Erich	B-PER
+Przywara	I-PER
+(	O
+1889-1972	O
+)	O
+.	O
+
+Lars	B-ORG
+Frederiksen	I-ORG
+and	I-ORG
+the	I-ORG
+Bastards	I-ORG
+
+Carlos	B-PER
+Casado	I-PER
+del	I-PER
+Alisal	I-PER
+
+Valle	B-LOC
+de	I-LOC
+Trápaga	I-LOC
+
+REDIRECCIÓN	O
+Francisco	B-PER
+de	I-PER
+Goya	I-PER
+
+REDIRECCIÓN	O
+Pequeña	B-ORG
+giga	I-ORG
+para	I-ORG
+teclado	I-ORG
+(	I-ORG
+Mozart	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Arath	B-PER
+de	I-PER
+la	I-PER
+Torre	I-PER
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Montagut	B-LOC
+y	I-LOC
+Oix	I-LOC
+
+REDIRECCIÓN	O
+The	B-ORG
+Album	I-ORG
+(	I-ORG
+álbum	I-ORG
+de	I-ORG
+The	B-ORG
+Firm	I-ORG
+)	I-ORG
+
+Condado	B-LOC
+de	I-LOC
+Marion	I-LOC
+(	O
+noreste	O
+)	O
+
+REDIRECCIÓN	O
+Consejo	B-ORG
+de	I-ORG
+Cooperación	I-ORG
+para	I-ORG
+los	I-ORG
+Estados	I-ORG
+Árabes	I-ORG
+del	I-ORG
+Golfo	I-ORG

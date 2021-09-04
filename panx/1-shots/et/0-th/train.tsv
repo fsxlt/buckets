@@ -1,0 +1,24 @@
+Film	O
+paigutab	O
+tegevuse	O
+tänapäeva	O
+New	B-LOC
+Yorki	I-LOC
+Sellele	O
+filmile	O
+on	O
+tehtud	O
+ka	O
+kaks	O
+järge	O
+.	O
+
+Pehr	B-PER
+Evind	I-PER
+Svinhufvud	I-PER
+
+Eesti	B-ORG
+Ekspress	I-ORG
+(	O
+6.12.2005	O
+)	O

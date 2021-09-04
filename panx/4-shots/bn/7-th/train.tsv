@@ -1,0 +1,70 @@
+শ্রীলঙ্কা	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+শেখ	B-LOC
+ফজলুল	I-LOC
+হক	I-LOC
+মনি	I-LOC
+স্টেডিয়াম	I-LOC
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+বসনিয়া	B-LOC
+ও	I-LOC
+হার্জেগোভিনা	I-LOC
+
+অ্যালেক্সান্ড্রিয়া	B-LOC
+,	I-LOC
+ভার্জিনিয়া	I-LOC
+
+আল	B-ORG
+খোয়ারিজমি	I-ORG
+(	O
+৭৮০-৮৫০	O
+)	O
+
+লতা	B-PER
+মঙ্গেশকর	I-PER
+ও	O
+কুমার	B-PER
+শানু	I-PER
+
+রচেস্টার	B-LOC
+,	I-LOC
+নিউ	I-LOC
+ইয়র্ক	I-LOC
+
+ম্যানচেস্টার	B-ORG
+ইউনাইটেড	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+অ্যান্ড্রু	B-PER
+জেড	I-PER
+ফায়ার	I-PER
+
+ইন্দ্রনীল	B-PER
+সেনগুপ্ত	I-PER
+,	O
+শ্রীলেখা	B-PER
+মিত্র	I-PER
+,	O
+রজতাভ	B-PER
+দত্ত	I-PER
+,	O
+তনুশ্রী	B-PER
+চক্রবর্তী	I-PER
+
+শাকিব	B-PER
+খান	I-PER
+,	O
+অপু	B-PER
+বিশ্বাস	I-PER
+,	O
+ববিতা	B-PER

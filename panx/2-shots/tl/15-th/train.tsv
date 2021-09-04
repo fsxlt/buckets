@@ -1,0 +1,39 @@
+Hinlalato	B-ORG
+ng	I-ORG
+paa	I-ORG
+
+*kay	O
+Miguel	B-PER
+López	I-PER
+de	I-PER
+Legazpi	I-PER
+;	O
+o	O
+,	O
+
+Tunel	B-ORG
+ng	I-ORG
+Malinta	I-ORG
+
+*2005	O
+-	O
+Etheria	B-ORG
+'	O
+(	O
+Bilang	O
+Raquim	O
+)	O
+
+Paris	B-PER
+(	I-PER
+Iliada	I-PER
+)	I-PER
+
+Isdang	B-LOC
+pilak	I-LOC
+ng	I-LOC
+Antartiko	I-LOC
+
+Nishinomiya	B-LOC
+,	I-LOC
+Hyogo	I-LOC

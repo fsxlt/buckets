@@ -1,0 +1,27 @@
+Poliittisesti	O
+kannattajaryhmä	O
+oli	O
+asettunut	O
+tukemaan	O
+Kroatian	B-ORG
+demokraattista	I-ORG
+liittoa	I-ORG
+sekä	O
+Franjo	B-PER
+Tuđmania	I-PER
+.	O
+
+OHJAUS	O
+City	B-ORG
+of	I-ORG
+Oxford	I-ORG
+High	I-ORG
+School	I-ORG
+for	I-ORG
+Boys	I-ORG
+
+Grand	B-LOC
+Island	I-LOC
+–	O
+49	O
+989	O

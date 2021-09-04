@@ -1,0 +1,116 @@
+넘겨주기	O
+마르코	B-PER
+안토니오	I-PER
+로드리게스	I-PER
+
+'	O
+''	O
+그대의	B-ORG
+눈동자에는	I-ORG
+비치지	I-ORG
+않아	I-ORG
+''	O
+'	O
+(	O
+)	O
+
+각	O
+시도단위로	O
+가입하게	O
+되어	O
+있으며	O
+,	O
+대한민국	B-ORG
+안전행정부의	I-ORG
+감독을	O
+받는다	O
+.	O
+
+.ck	B-ORG
+-	O
+쿡	B-LOC
+제도	I-LOC
+
+'	O
+''	O
+멜리페우코	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+아라우카니아	B-LOC
+주	I-LOC
+카우틴	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+경북대학교	B-ORG
+대학원	O
+신문방송학과	O
+석사	O
+
+■	O
+고세이	B-ORG
+선	I-ORG
+(	O
+하행	O
+)	O
+
+넘겨주기	O
+훌리오	B-PER
+이글레시아스	I-PER
+후니오르	I-PER
+
+그러나	O
+부상과	O
+사생활문제에	O
+직면했고	O
+,	O
+카디프	B-ORG
+시티	I-ORG
+FC로	I-ORG
+돌아가	O
+은퇴하였다	O
+.	O
+
+시모노세키	B-LOC
+시	I-LOC
+(	O
+야마구치	B-LOC
+현	I-LOC
+)	O
+
+오늘날의	O
+노퍽	B-LOC
+주에서	I-LOC
+서퍽	B-LOC
+주	I-LOC
+일대를	O
+총칭하는	O
+지명도	O
+된다	O
+.	O
+
+김기현	B-PER
+-	O
+해설	O
+/	O
+오벨릭스	O
+(	O
+제라르	B-PER
+드파르디외	I-PER
+)	O
+
+그	O
+외에	O
+미국의	B-LOC
+브루스	B-PER
+커밍스는	I-PER
+그를	O
+송진우의	B-PER
+암살배후로	O
+봤다	O
+.	O

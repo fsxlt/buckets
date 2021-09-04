@@ -1,0 +1,41 @@
+غياث	B-PER
+الدين	I-PER
+مسعود	I-PER
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+سكوت	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+إميل	B-PER
+زولا	I-PER
+(	O
+1840–1902	O
+)	O
+
+تحويل	O
+ويستون	B-LOC
+،	I-LOC
+مقاطعة	I-LOC
+دان	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+أيج	B-ORG
+أوف	I-ORG
+إمبايرز	I-ORG
+:	I-ORG
+ذي	I-ORG
+أيج	B-ORG
+أوف	I-ORG
+كينغز	I-ORG
+
+تحويل	O
+الخطوط	B-ORG
+الجوية	I-ORG
+الكويتية	I-ORG

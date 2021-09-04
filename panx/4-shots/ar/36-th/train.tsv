@@ -1,0 +1,90 @@
+أوليسس	B-PER
+دي	I-PER
+لا	I-PER
+كروز	I-PER
+
+تحويل	O
+ميد	B-LOC
+(	I-LOC
+أوكلاهوما	I-LOC
+)	I-LOC
+
+أوكلاهوما	B-LOC
+سيتي	I-LOC
+(	I-LOC
+أوكلاهوما	B-LOC
+)	I-LOC
+
+The	O
+Right	O
+to	O
+Read،	O
+القصة	O
+القصيرة	O
+على	O
+موقع	O
+مشروع	B-ORG
+جنو	I-ORG
+.	O
+
+آشور	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+تحويل	O
+كارديف	B-ORG
+الشمالية	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+حميد	B-PER
+الدين	I-PER
+الفراهي	I-PER
+
+'	O
+''	O
+إيليسيو	B-PER
+كوينتانايلا	I-PER
+''	O
+'	O
+
+تحويل	O
+غلاسكو	B-ORG
+الوسطى	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+آرالوي	B-LOC
+الصغیر	I-LOC
+(	I-LOC
+فولاد	I-LOC
+لوي	I-LOC
+الشمالي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+فيليبي	B-PER
+ماسا	I-PER
+''	O
+'	O
+
+جامعة	B-ORG
+الشمال	I-ORG
+الغربي	I-ORG
+مدرسة	I-ORG
+فينبرغ	I-ORG
+للطب	I-ORG

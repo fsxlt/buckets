@@ -1,0 +1,98 @@
+**	O
+Hildegard	B-PER
+Goss-Mayr	I-PER
+,	O
+Áo	B-LOC
+
+Giải	B-ORG
+bóng	I-ORG
+đá	I-ORG
+vô	I-ORG
+địch	I-ORG
+quốc	I-ORG
+gia	I-ORG
+
+Đồng	B-LOC
+bằng	I-LOC
+sông	I-LOC
+Cửu	I-LOC
+Long	I-LOC
+
+Villanueva	B-LOC
+de	I-LOC
+los	I-LOC
+Castillejos	I-LOC
+,	I-LOC
+Huelva2.720	I-LOC
+
+đổi	O
+Thập	B-ORG
+tự	I-ORG
+chinh	I-ORG
+thứ	I-ORG
+tư	I-ORG
+
+Lady	B-PER
+Gaga	I-PER
+-	O
+``	O
+Dance	B-ORG
+in	I-ORG
+the	I-ORG
+Dark	I-ORG
+''	O
+
+====	O
+Ibiza	B-LOC
+''	O
+(	O
+Eivissa	O
+)	O
+''	O
+(	O
+Ibiza	B-LOC
+)	O
+====	O
+
+đổi	O
+Tấn	B-LOC
+Mỹ	I-LOC
+,	I-LOC
+Chợ	I-LOC
+Mới	I-LOC
+
+Bộ	B-ORG
+Tổng	I-ORG
+Tham	I-ORG
+mưu	I-ORG
+Quân	I-ORG
+đội	I-ORG
+Nhân	I-ORG
+dân	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+
+Cộng	B-LOC
+hòa	I-LOC
+Xã	I-LOC
+hội	I-LOC
+chủ	I-LOC
+nghĩa	I-LOC
+Xô	I-LOC
+viết	I-LOC
+Ukraina	I-LOC
+
+Giáo	B-PER
+hoàng	I-PER
+Alexanđê	I-PER
+III	I-PER
+(	O
+1159–1181	O
+)	O
+
+Cái	O
+chết	O
+của	O
+Francisco	B-PER
+Franco	I-PER
+.	O

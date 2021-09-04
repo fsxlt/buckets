@@ -1,0 +1,40 @@
+ক্রিস্তিয়ানো	B-PER
+রোনালদো	I-PER
+(	O
+দ	O
+)	O
+
+রাজশাহী	B-ORG
+প্রকৌশল	I-ORG
+ও	I-ORG
+প্রযুক্তি	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+মামুন	B-PER
+আব্দুল	I-PER
+গাইয়ুম	I-PER
+(	O
+১৯৩৭–	O
+)	O
+
+নাগ-ছু	B-LOC
+বিভাগ	I-LOC
+nag	O
+chu	O
+sa	O
+khul	O
+Nagqu	O
+Sakü	O
+那曲地区	O
+Nàqū	O
+Dìqū	O
+
+স্যান	B-LOC
+হোসে	I-LOC
+,	I-LOC
+কোস্টা	I-LOC
+রিকা	I-LOC
+
+টেখনিশে	B-ORG
+উনিভের্সিটেট	I-ORG
+ডার্মষ্টাট	I-ORG

@@ -1,0 +1,38 @@
+رجوع_مکرر	O
+راشٹرسنت	B-ORG
+تکڑو	I-ORG
+جی	I-ORG
+مہاراج	I-ORG
+ناگپور	I-ORG
+یونیورسٹی	I-ORG
+
+رجوع_مکرر	O
+جاسکووکی،	B-LOC
+ردومسکو	I-LOC
+کاؤنٹی	I-LOC
+
+رجوع_مکرر	O
+یونینویل،	B-LOC
+ہومز	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+رجوع_مکرر	O
+ناصر	B-PER
+الدین	I-PER
+شاہ	I-PER
+قاجار	I-PER
+
+رجوع_مکرر	O
+عالمی	B-ORG
+تجارتی	I-ORG
+ادارہ	I-ORG

@@ -1,0 +1,81 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+او	O
+برادر	O
+نوشاد	B-PER
+عالمیان	I-PER
+است	O
+.	O
+
+تغییرمسیر	O
+پارک	B-ORG
+یادبود	I-ORG
+شووا	I-ORG
+
+الف،	O
+معصومه	B-PER
+ابتکار	I-PER
+است	O
+و	O
+من	O
+خودم	O
+در	O
+مورد	O
+این	O
+موضوع	O
+توضیح	O
+را	O
+می‌دهم	O
+.	O
+
+تغییر_مسیر	O
+روبین	B-PER
+فان	I-PER
+پرسی	I-PER
+
+تغییرمسیر	O
+کالین	B-LOC
+(	I-LOC
+آرکانزاس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آبشار	B-ORG
+لور	I-ORG
+بکت	I-ORG
+
+باشگاه	B-ORG
+فوتسال	I-ORG
+صدرای	I-ORG
+شیراز	I-ORG
+
+تغییر_مسیر	O
+ناحیه	B-LOC
+ادامز،	I-LOC
+بخش	I-LOC
+هاتن،	I-LOC
+میشیگان	I-LOC
+
+تغییرمسیر	O
+خلیجی	B-LOC
+(	I-LOC
+جیرفت	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+تاران	B-PER
+نوآه	I-PER
+اسمیت	I-PER
+
+مگس‌مرغ	B-LOC
+زمردچانه	I-LOC
+,	O
+''Abeillia	O
+abeillei	O
+''	O

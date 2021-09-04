@@ -1,0 +1,35 @@
+Ailsa	B-LOC
+Craig	I-LOC
+(	O
+''Creag	O
+Ealasaid	O
+''	O
+)	O
+
+''	O
+The	B-ORG
+Zeta	I-ORG
+Project	I-ORG
+''	O
+(	O
+2001	O
+)	O
+
+Arpitatuoinnit	O
+ovat	O
+suosiossa	O
+myös	O
+läntisessä	O
+Afrikassa	B-LOC
+ja	O
+Uuden-Guinean	B-LOC
+alkuasukkaiden	O
+keskuudessa	O
+.	O
+
+Kansallisrunoilija	O
+Lydia	B-PER
+Koidula	I-PER
+(	O
+1843–1886	O
+)	O

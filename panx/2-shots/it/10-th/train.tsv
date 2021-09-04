@@ -1,0 +1,52 @@
+'	O
+''	O
+Nemi	B-LOC
+''	O
+'	O
+
+Daniele	B-PER
+Bracciali	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+Dipartimento	B-ORG
+di	I-ORG
+Tafí	I-ORG
+del	I-ORG
+Valle	I-ORG
+(	O
+Tafí	B-LOC
+del	I-LOC
+Valle	I-LOC
+)	O
+
+RINVIA	O
+Corte	B-LOC
+(	I-LOC
+storia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+''	O
+'	O
+'	O
+''	O
+Mike	B-PER
+Bryan	I-PER
+''	O
+'6-3	O
+,	O
+6-4	O
+,	O
+7-62	O
+
+RINVIA	O
+Sportivi	B-ORG
+Ghiaccio	I-ORG
+Cortina	I-ORG

@@ -1,0 +1,69 @@
+احمدآباد	B-LOC
+(	I-LOC
+دیواندره	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+هنری	B-PER
+فرفیلد	I-PER
+آزبورن	I-PER
+
+تغییر_مسیر	O
+داوید	B-PER
+د	I-PER
+خیا	I-PER
+
+تغییرمسیر	O
+آنچه	B-ORG
+من	I-ORG
+انجام	I-ORG
+داده‌ام	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+بهاراب	B-LOC
+(	I-LOC
+تویسرکان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+بی‌خدایی	B-ORG
+:	I-ORG
+تاریخچه	I-ORG
+سردستی	I-ORG
+ناباوری	I-ORG
+
+تغییرمسیر	O
+محمد	B-PER
+ناصرالدین	I-PER
+آلبانی	I-PER
+
+تغییرمسیر	O
+دانشگاه	B-ORG
+آزاد	I-ORG
+اسلامی	I-ORG
+واحد	I-ORG
+دماوند	I-ORG
+
+تغییرمسیر	O
+بنت	B-PER
+چمپ	I-PER
+کلرک	I-PER
+
+تغییرمسیر	O
+دوغ‌آباد	B-LOC
+(	I-LOC
+بردسکن	I-LOC
+)	I-LOC
+
+سبزی	B-LOC
+(	I-LOC
+میاندوآب	I-LOC
+)	I-LOC

@@ -1,0 +1,32 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pyrénées-Orientales	I-LOC
+
+Rana	B-PER
+Bahadur	I-PER
+Shah	I-PER
+
+ALIH	O
+Edmund	B-PER
+dari	I-PER
+Langley	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Vendée	I-LOC
+
+ALIH	O
+Road	B-ORG
+to	I-ORG
+Abbey	I-ORG
+
+**	O
+Click	B-ORG
+Airways	I-ORG
+(	O
+CGK	O
+)	O

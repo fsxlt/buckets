@@ -1,0 +1,57 @@
+Omsk	B-LOC
+(	O
+2	O
+676	O
+tai	O
+2	O
+712	O
+km	O
+,	O
++3	O
+)	O
+
+,	O
+Miami	B-LOC
+Beach	I-LOC
+,	O
+Florida	B-LOC
+
+Hallinportin	B-ORG
+ilmailumuseossa	I-ORG
+on	O
+entisöimätön	O
+Aero-11	O
+tunnukseltaan	O
+AE-47	O
+.	O
+
+'	O
+''	O
+Eddie	B-PER
+Murphy	I-PER
+''	O
+'	O
+
+Kyösti	B-PER
+Kallio	I-PER
+,	O
+Suomen	B-ORG
+tasavallan	I-ORG
+presidentti	I-ORG
+1937–1940	O
+
+Sen	O
+esiintymisalue	O
+ulottuu	O
+Hondurasista	B-LOC
+,	O
+Nicaraguasta	B-LOC
+ja	O
+Costa	B-LOC
+Ricasta	I-LOC
+Panamaan	B-LOC
+,	O
+Kolumbiaan	B-LOC
+ja	O
+Ecuadoriin	B-LOC
+.	O

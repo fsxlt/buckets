@@ -1,0 +1,18 @@
+Cee	B-PER
+Lo	I-PER
+Green	I-PER
+ve	O
+Melanie	B-PER
+Fiona	I-PER
+
+Yönetim	O
+merkezi	O
+El	B-LOC
+Cuneyna	I-LOC
+şehridir	O
+.	O
+
+-	O
+Türk	B-ORG
+Silahlı	I-ORG
+Kuvvetleri	I-ORG

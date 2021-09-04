@@ -1,0 +1,25 @@
+Vuosina	O
+2008–2014	O
+isäntäorganisaationa	O
+toimi	O
+Turun	B-LOC
+kaupunki	I-LOC
+.	O
+
+Linja	B-ORG
+1	I-ORG
+(	I-ORG
+Almatyn	I-ORG
+metro	I-ORG
+)	I-ORG
+
+Hän	O
+debytoi	O
+A-maajoukkueessa	B-ORG
+18-vuotiaana	O
+.	O
+
+OHJAUS	O
+Henrik	B-PER
+Klaunpoika	I-PER
+Fleming	I-PER

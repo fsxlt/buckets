@@ -1,0 +1,78 @@
+ঘটোৎকচগুপ্ত	O
+গুপ্ত	B-LOC
+রাজবংশের	I-LOC
+প্রতিষ্ঠাতা	O
+শ্রীগুপ্তের	B-PER
+পুত্র	O
+ছিলেন।	O
+তিনি	O
+''মহারাজা	O
+''	O
+উপাধি	O
+গ্রহণ	O
+করেছিলেন।	O
+তাঁর	O
+মৃত্যুর	O
+পর	O
+তাঁর	O
+পুত্র	O
+প্রথম	B-PER
+চন্দ্রগুপ্ত	I-PER
+সিংহাসনলাভ	O
+করেন।	O
+
+উইগান	B-ORG
+অ্যাথলেটিক	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+সাঁউ	B-LOC
+তুমি	I-LOC
+ও	I-LOC
+প্রিন্সিপি	I-LOC
+
+উইলিয়াম	B-PER
+হাওয়ার্ড	I-PER
+ট্যাফ্ট	I-PER
+
+নিউ	B-ORG
+ইয়র্ক	I-ORG
+স্টক	I-ORG
+এক্সচেঞ্জ	I-ORG
+
+'	O
+''	O
+লন্ডন	B-LOC
+''	O
+'	O
+
+**	O
+পালাবান	B-LOC
+ধনেশ	I-LOC
+''Antracoceros	O
+marchei	O
+''	O
+
+চার্লস	B-PER
+দ্য	I-PER
+গল	I-PER
+
+**	O
+দুধসাদা	B-LOC
+মানিকজোড়	I-LOC
+,	O
+''Mycteria	O
+cinerea	O
+''	O
+
+জ্যাক	B-PER
+দ্য	I-PER
+রিপার	I-PER
+
+টেলিটক	B-ORG
+বাংলাদেশ	I-ORG
+লিমিটেড	I-ORG
+
+আল	B-ORG
+হাসা	I-ORG
+মরূদ্যান	I-ORG

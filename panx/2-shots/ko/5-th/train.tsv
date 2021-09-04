@@ -1,0 +1,49 @@
+다음	O
+3권은	O
+로버트	B-PER
+러들럼이	I-PER
+작성한	O
+오리지널	O
+시리즈이다	O
+.	O
+
+블루마운틴스	B-LOC
+(	I-LOC
+뉴사우스웨일스	I-LOC
+주	I-LOC
+)	I-LOC
+
+**	O
+도쿄	B-LOC
+도	I-LOC
+(	O
+대사관	O
+)	O
+
+넘겨주기	O
+유엔	B-ORG
+난민	I-ORG
+기구	I-ORG
+
+이	O
+앨범은	O
+골드를	O
+받았고	O
+,	O
+릴	B-PER
+웨인	I-PER
+,	O
+캐시디	B-PER
+,	O
+캄론	B-PER
+,	O
+주엘즈	B-PER
+산타나	I-PER
+등이	O
+참여했다	O
+.	O
+
+부산진역	B-ORG
+(	I-ORG
+한국철도공사	I-ORG
+)	I-ORG

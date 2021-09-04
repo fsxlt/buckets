@@ -1,0 +1,37 @@
+Martin	B-PER
+Luther	I-PER
+King	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+'	O
+''	O
+Luís	B-PER
+Figo	I-PER
+''	O
+'	O
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC

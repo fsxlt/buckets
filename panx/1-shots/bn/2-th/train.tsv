@@ -1,0 +1,15 @@
+বায়ার্ন	B-ORG
+মিউনিখ	I-ORG
+(	O
+জার্মানি	B-LOC
+)	O
+
+গৌতম	B-LOC
+বুদ্ধ	I-LOC
+নগর	I-LOC
+জেলা	I-LOC
+
+ছালেকুর	B-PER
+রহমান	I-PER
+রাহে	I-PER
+ভান্ডারী	I-PER

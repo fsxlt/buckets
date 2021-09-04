@@ -1,0 +1,80 @@
+***	O
+Gwen	B-PER
+Stefani	I-PER
+—	O
+``	O
+Hollaback	B-ORG
+Girl	I-ORG
+''	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Aveyron	I-LOC
+
+đổi	O
+Nakhchivan	B-LOC
+(	I-LOC
+thành	I-LOC
+phố	I-LOC
+)	I-LOC
+
+Mặt	B-ORG
+trăng	I-ORG
+ôm	I-ORG
+mặt	I-ORG
+trời	I-ORG
+''	O
+
+Giáo	B-PER
+hoàng	I-PER
+đối	I-PER
+lập	I-PER
+Pascalê	I-PER
+
+đổi	O
+Thàn	B-LOC
+mát	I-LOC
+tía	I-LOC
+
+Nó	O
+không	O
+phải	O
+là	O
+một	O
+thành	O
+viên	O
+của	O
+Liên	B-ORG
+minh	I-ORG
+châu	I-ORG
+Âu	I-ORG
+.	O
+
+一燈大師	O
+Nhất	B-PER
+Đăng	I-PER
+đại	I-PER
+sư	I-PER
+
+Ngô	B-LOC
+(	I-LOC
+nước	I-LOC
+)	I-LOC
+
+*[2007.03.28]	O
+Voice～cover	B-ORG
+you	I-ORG
+with	I-ORG
+love～	I-ORG
+(	O
+Cover	O
+Album	O
+)	O
+22	O
+
+Lee	B-PER
+Hyori	I-PER
+đệm	O
+bởi	O
+Ceejay	O

@@ -1,0 +1,17 @@
+Canberra	B-LOC
+,	I-LOC
+Australia	I-LOC
+(	O
+bersama	O
+Sky	B-ORG
+News	I-ORG
+Australia	I-ORG
+)	O
+
+Branko	B-PER
+Crvenkovski	I-PER
+(	O
+Periode	O
+ke	O
+1	O
+)	O

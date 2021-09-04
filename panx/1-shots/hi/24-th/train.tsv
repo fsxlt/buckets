@@ -1,0 +1,17 @@
+राजेश	B-PER
+खन्ना	I-PER
+,	O
+लीना	B-PER
+चन्दावरकर	I-PER
+
+अनुप्रेषित	O
+तारापुर	B-LOC
+प्रखण्ड	I-LOC
+(	I-LOC
+मुंगेर	I-LOC
+)	I-LOC
+
+भारत	B-ORG
+का	I-ORG
+उच्चतम	I-ORG
+न्यायालय	I-ORG

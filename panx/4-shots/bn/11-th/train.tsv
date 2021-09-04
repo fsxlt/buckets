@@ -1,0 +1,58 @@
+রানাসিংহে	B-LOC
+প্রেমাদাসা	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+কলম্বো	B-LOC
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+বাংলাদেশ	B-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+
+আব্দুল	B-PER
+হামিদ	I-PER
+(	O
+ভারপ্রাপ্ত	O
+)	O
+
+আল	B-LOC
+আনবার	I-LOC
+প্রদেশ	I-LOC
+
+মিডল্‌স্‌ব্রো	B-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+কোর্দেস্তন	B-LOC
+প্রদেশ	I-LOC
+(	I-LOC
+ইরান	I-LOC
+)	I-LOC
+
+কাম্পটে	B-LOC
+,	I-LOC
+নাগপুর	I-LOC
+
+আইওলুস	B-PER
+(	I-PER
+হেল্লেনের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+আকাউস	B-PER
+(	I-PER
+জুথুসের	I-PER
+পুত্র	I-PER
+)	I-PER
+
+এমিলিও	B-ORG
+জিনো	I-ORG
+সেগরে	I-ORG
+;	O
+ওয়েন	B-PER
+চেম্বারলেইন	I-PER

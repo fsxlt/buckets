@@ -1,0 +1,43 @@
+تحصل	O
+بعدها	O
+على	O
+شهادة	O
+الدكتوراة	O
+من	O
+جامعة	B-ORG
+كورنيل	I-ORG
+مع	O
+أطروحة	O
+بعنوان	O
+''The	O
+Perceptual	O
+Span	O
+and	O
+Peripheral	O
+Cues	O
+in	O
+Reading	O
+''	O
+.	O
+
+محمد	B-PER
+بن	I-PER
+جعفر	I-PER
+بن	I-PER
+أبي	I-PER
+طالب	I-PER
+.	O
+
+شركة	O
+المنتجات	O
+الحديثة	O
+جدة	B-LOC
+.	O
+
+تحويل	O
+تلمبة	B-LOC
+کاربخش	I-LOC
+(	I-LOC
+مشيز	I-LOC
+بردسير	I-LOC
+)	I-LOC

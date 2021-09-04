@@ -1,0 +1,65 @@
+Bojanala	B-LOC
+Platinum	I-LOC
+(	O
+DC36	O
+)	O
+in	O
+die	O
+noordweste	O
+
+Hy	O
+woon	O
+tans	O
+in	O
+Los	B-LOC
+Angeles	I-LOC
+.	O
+
+Hy	O
+het	O
+sy	O
+lewe	O
+lank	O
+in	O
+Randfontein	B-LOC
+gewoon	O
+
+Jack	B-PER
+Nicholson	I-PER
+–	O
+''Carnal	O
+Knowledge	O
+''	O
+
+AANSTUUR	O
+Tshwane-Universiteit	B-ORG
+vir	I-ORG
+Tegnologie	I-ORG
+
+Dit	O
+het	O
+ook	O
+ook	O
+weer	O
+lewe	O
+geblaas	O
+in	O
+die	O
+loopbaan	O
+van	O
+Matt	B-PER
+Dillon	I-PER
+,	O
+wat	O
+die	O
+bende	O
+se	O
+leier	O
+gespeel	O
+het	O
+.	O
+
+Miljoen	B-ORG
+instruksies	I-ORG
+per	I-ORG
+sekonde	I-ORG

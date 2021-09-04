@@ -1,0 +1,29 @@
+Robert	B-PER
+De	I-PER
+Niro	I-PER
+,	O
+Dianna	B-PER
+Agron	I-PER
+,	O
+Michelle	B-PER
+Pfeiffer	I-PER
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+központjától	O
+kb	O
+.	O
+
+Az	O
+ország	O
+a	O
+Német	B-ORG
+Szövetség	I-ORG
+tagja	O
+lett	O
+,	O
+ahol	O
+Ausztriát	B-LOC
+támogatta	O
+.	O

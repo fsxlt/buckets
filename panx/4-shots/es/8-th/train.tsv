@@ -1,0 +1,73 @@
+Camarena	B-LOC
+de	I-LOC
+la	I-LOC
+Sierra	I-LOC
+
+REDIRECCIÓN	O
+Museo	B-ORG
+de	I-ORG
+la	I-ORG
+Guerra	I-ORG
+de	I-ORG
+Atenas	I-ORG
+
+Arquidiócesis	B-LOC
+de	I-LOC
+Santiago	I-LOC
+de	I-LOC
+Chile	I-LOC
+
+Vince	B-PER
+Carter	I-PER
+(	O
+10	O
+)	O
+
+REDIRECCIÓN	O
+Alfred	B-PER
+James	I-PER
+Wilmott	I-PER
+
+**	O
+Steve	B-PER
+Kerr	I-PER
+,	O
+Golden	B-ORG
+State	I-ORG
+Warriors	I-ORG
+
+Condado	B-LOC
+de	I-LOC
+Kiowa	I-LOC
+(	O
+este	O
+)	O
+
+Les	B-LOC
+Fourgs	I-LOC
+(	O
+25254	O
+)	O
+
+border	O
+'	O
+''	O
+Sporting	B-ORG
+de	I-ORG
+Lisboa	I-ORG
+''	O
+'	O
+
+Ephraim	B-PER
+Moses	I-PER
+Lilien	I-PER
+,	O
+1900-1	O
+.	O
+
+Estadio	B-ORG
+Brøndby	I-ORG
+,	O
+Copenhague	B-LOC
+,	O
+Dinamarca	B-LOC

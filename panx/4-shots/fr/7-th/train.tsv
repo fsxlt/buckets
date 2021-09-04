@@ -1,0 +1,93 @@
+Meuse]]	O
+-	O
+Canal	B-LOC
+Albert	I-LOC
+''	O
+
+Gerd	B-PER
+Albrecht	I-PER
+(	O
+2000–2004	O
+)	O
+
+'	O
+''	O
+Ola	B-PER
+Vigen	I-PER
+Hattestad	I-PER
+''	O
+'	O
+
+District	B-LOC
+de	I-LOC
+Kinh	I-LOC
+Môn	I-LOC
+,	O
+
+Sénégal	B-LOC
+,	O
+à	O
+Dakar	B-LOC
+
+Orlando	B-PER
+Hudson	I-PER
+(	O
+3	O
+)	O
+
+'	O
+''	O
+Hi	B-ORG
+,	I-ORG
+Hi	B-ORG
+,	I-ORG
+Hi	B-ORG
+''	O
+'	O
+''	O
+
+Musée	B-ORG
+national	I-ORG
+des	I-ORG
+beaux-arts	I-ORG
+du	I-ORG
+Québec	I-ORG
+
+Il	O
+est	O
+ensuite	O
+présent	O
+au	O
+Tour	B-ORG
+de	I-ORG
+Romandie	I-ORG
+.	O
+
+Elle	O
+est	O
+nommée	O
+en	O
+l'honneur	O
+Adolpho	B-PER
+Lutz	I-PER
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Manche	I-LOC
+
+Action	B-ORG
+démocratique	I-ORG
+du	I-ORG
+Québec	I-ORG
+
+REDIRECTION	O
+Březina	B-LOC
+(	I-LOC
+district	I-LOC
+de	I-LOC
+Svitavy	I-LOC
+)	I-LOC

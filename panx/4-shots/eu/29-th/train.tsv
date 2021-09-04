@@ -1,0 +1,101 @@
+BIRZUZENDU	O
+Orion	B-ORG
+(	I-ORG
+espazio-ontzia	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Ennio	B-PER
+Morricone	I-PER
+''	O
+'	O
+
+BIRZUZENDU	O
+Adrada	B-LOC
+de	I-LOC
+Pirón	I-LOC
+
+Etapa	O
+1	O
+1951ko	B-ORG
+Frantziako	I-ORG
+Tourrean	I-ORG
+
+La	B-LOC
+Croix-Avranchin	I-LOC
+(	O
+50154	O
+)	O
+
+'	O
+''	O
+Henrike	B-PER
+III.a	I-PER
+''	O
+'	O
+
+Diego	B-PER
+Rivas	I-PER
+23	O
+'	O
+,	O
+Joseba	B-PER
+Llorente	I-PER
+43	O
+'	O
+
+New	B-LOC
+Yorkeko	I-LOC
+2001eko	B-ORG
+irailaren	I-ORG
+11ko	I-ORG
+atentatuak	I-ORG
+
+Valentzia	B-LOC
+-	O
+Castelló	B-LOC
+de	I-LOC
+la	I-LOC
+Plana	I-LOC
+-	O
+Vinaròs	B-LOC
+-	O
+Tortosa	B-LOC
+
+Gainera	O
+,	O
+hiriko	O
+egoitza	O
+da	O
+Institut	B-ORG
+polytechnique	I-ORG
+des	I-ORG
+sciences	I-ORG
+avancées	I-ORG
+.	O
+
+Renania-Palatinatua	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+Halaber	O
+,	O
+kolaborazioak	O
+egin	O
+dituzte	O
+beste	O
+herrialde	O
+batzuetako	O
+musikariekin	O
+,	O
+tartean	O
+Oskorri	B-ORG
+eta	O
+Kepa	B-PER
+Junkerarekin	I-PER
+.	O

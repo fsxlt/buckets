@@ -1,0 +1,76 @@
+Samal	B-LOC
+,	I-LOC
+Davao	I-LOC
+del	I-LOC
+Norte	I-LOC
+
+William	B-PER
+IV	I-PER
+ng	I-PER
+Nagkakaisang	I-PER
+Kaharian	I-PER
+
+Anthony	B-PER
+Padilla	I-PER
+bilang	O
+ang	O
+kanyang	O
+sarili	O
+
+Talaan	B-ORG
+ng	I-ORG
+mga	I-ORG
+namumuno	I-ORG
+sa	I-ORG
+Korea	I-ORG
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Aklat	B-ORG
+ni	I-ORG
+Sofonias	I-ORG
+
+Ellen	B-PER
+G.	I-PER
+White	I-PER
+
+'	O
+''	O
+Angola	B-LOC
+''	O
+'	O
+
+Papa	B-PER
+Clemente	I-PER
+XIV	I-PER
+
+Tanauan	B-LOC
+,	I-LOC
+Leyte	I-LOC
+(	O
+Cogon	O
+)	O
+
+''	O
+A	B-ORG
+Certain	I-ORG
+Scientific	I-ORG
+Railgun	I-ORG
+''	O
+(	O
+Kinuho	O
+Wannai	O
+)	O
+
+Mga	B-ORG
+pag-atake	I-ORG
+noong	I-ORG
+Setyembre	I-ORG
+11	I-ORG
+
+Prepektura	B-LOC
+ng	I-LOC
+Ishikawa	I-LOC

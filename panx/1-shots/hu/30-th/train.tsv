@@ -1,0 +1,18 @@
+Jon	B-PER
+Anderson	I-PER
+''	O
+–	O
+ének	O
+
+Tobil	B-ORG
+Kosztanaj	I-ORG
+(	O
+0.649	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Struhařov	B-LOC
+(	I-LOC
+Kelet-prágai	I-LOC
+járás	I-LOC
+)	I-LOC

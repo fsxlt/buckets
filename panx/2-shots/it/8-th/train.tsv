@@ -1,0 +1,40 @@
+RINVIA	O
+Circondari	B-LOC
+della	I-LOC
+Germania	I-LOC
+
+Vuoto	B-ORG
+a	I-ORG
+perdere	I-ORG
+''	O
+
+Josselin	B-PER
+Ouanna	I-PER
+''	O
+(	O
+ultimo	O
+turno	O
+)	O
+
+Università	B-ORG
+del	I-ORG
+Kentucky	I-ORG
+
+'	O
+''	O
+Ernest	B-PER
+Brown	I-PER
+''	O
+'	O
+
+Jamestown	B-LOC
+-	O
+capoluogo	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Stutsman	I-LOC
+,	O
+Dakota	B-LOC
+del	I-LOC
+Nord	I-LOC

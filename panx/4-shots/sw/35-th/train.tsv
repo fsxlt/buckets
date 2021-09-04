@@ -1,0 +1,76 @@
+Body	O
+Heat]]	O
+''	O
+as	O
+recorded	O
+by	O
+Quincy	B-PER
+Jones	I-PER
+
+Bosnia	B-LOC
+na	I-LOC
+Herzegovina	I-LOC
+
+Do	B-ORG
+for	I-ORG
+Love	I-ORG
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Heidelberg	I-ORG
+
+Jude	B-PER
+Ciccolella	I-PER
+kama	O
+Mike	B-PER
+Novick	I-PER
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Middelburg	B-LOC
+.	O
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Uhusika	O
+ulichezwa	O
+na	O
+William	B-PER
+Devane	I-PER
+.	O
+
+Mji	B-LOC
+wa	I-LOC
+Ho	I-LOC
+Chi	I-LOC
+Minh	I-LOC
+
+Kikanisa	O
+linahusiana	O
+na	O
+Jimbo	B-ORG
+Kuu	I-ORG
+la	I-ORG
+Kigali	I-ORG
+.	O
+
+Papa	B-PER
+Gregori	I-PER
+I	I-PER
+
+Mlinzi	B-LOC
+(	I-LOC
+ndege	I-LOC
+)	I-LOC

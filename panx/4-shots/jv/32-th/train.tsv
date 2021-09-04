@@ -1,0 +1,75 @@
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+ALIH	O
+Victoria	B-PER
+saking	I-PER
+Britania	I-PER
+Raya	I-PER
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+Mayu	B-PER
+Watanabe	I-PER
+(	O
+渡辺	O
+麻友	O
+)	O
+
+Komisi	B-ORG
+Dhuwur	I-ORG
+tumrap	I-ORG
+Pengungsi	I-ORG
+Perserikatan	I-ORG
+Bangsa-Bangsa	I-ORG
+(	I-ORG
+UNHCR	I-ORG
+)	I-ORG
+
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O
+
+ALIH	O
+Nikolas	B-PER
+saka	I-PER
+Myra	I-PER
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

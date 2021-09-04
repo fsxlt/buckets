@@ -1,0 +1,50 @@
+Piirneb	O
+läänes	O
+ja	O
+põhjas	O
+Leningradi	B-LOC
+oblastiga	I-LOC
+.	O
+
+Bartoni	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+Kui	O
+VDP	O
+lahkus	O
+Helmut	B-PER
+Schmidti	I-PER
+valitsusest	O
+,	O
+astus	O
+ta	O
+koos	O
+mõttekaaslastega	O
+VDP-st	O
+välja	O
+ja	O
+astus	O
+samal	O
+aastal	O
+Saksamaa	B-ORG
+Sotsiaaldemokraatlikku	I-ORG
+Parteisse	I-ORG
+.	O
+
+1972.	B-ORG
+aasta	I-ORG
+EM-il	I-ORG
+Belgias	B-LOC
+osales	O
+neli	O
+meeskonda	O
+.	O
+
+Khalīfah	B-PER
+bin	I-PER
+Zāyid	I-PER
+Āl	I-PER
+Nahayān	I-PER

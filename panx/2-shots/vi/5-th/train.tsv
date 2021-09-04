@@ -1,0 +1,50 @@
+đổi	O
+Georges	B-PER
+Nguyen	I-PER
+Van	I-PER
+Loc	I-PER
+
+'	O
+''	O
+Lực	B-ORG
+lượng	I-ORG
+phản	I-ORG
+ứng	I-ORG
+''	O
+'	O
+''	O
+Armed	O
+Reaction	O
+
+đổi	O
+Cổ	B-LOC
+đỏ	I-LOC
+trán	I-LOC
+xanh	I-LOC
+
+đổi	O
+Cụ	B-ORG
+bà	I-ORG
+rán	I-ORG
+trứng	I-ORG
+
+==	O
+Cộng	B-LOC
+hòa	I-LOC
+Dominica	I-LOC
+(	O
+1	O
+)	O
+==	O
+
+Richard	B-PER
+Nixon	I-PER
+tái	O
+tạo	O
+mới	O
+chức	O
+vị	O
+Phó	O
+Tổng	O
+thống	O
+.	O

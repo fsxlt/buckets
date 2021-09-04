@@ -1,0 +1,32 @@
+Chris	B-PER
+MartinDisyembre	I-PER
+10	O
+,	O
+2004	O
+
+Mary	B-PER
+Elizabeth	I-PER
+Frye	I-PER
+
+Be	B-ORG
+Careful	I-ORG
+With	I-ORG
+My	I-ORG
+Heart	I-ORG
+''	O
+
+Akrotiri	B-LOC
+at	I-LOC
+Dhekelia	I-LOC
+
+Luglog	B-ORG
+(	I-ORG
+sangkap	I-ORG
+)	I-ORG
+
+Distritong	B-LOC
+Pambatas	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Quirino	I-LOC

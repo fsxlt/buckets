@@ -1,0 +1,20 @@
+فلا	O
+ينافي	O
+ما	O
+تقدم	O
+عن	O
+كعب	B-PER
+الأحبار	I-PER
+.	O
+
+تحويل	O
+ليف	B-ORG
+ومادي	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+تحويل	O
+عضلة	B-LOC
+مربعة	I-LOC
+فخذية	I-LOC

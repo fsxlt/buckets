@@ -1,0 +1,50 @@
+옌핑	B-LOC
+구	I-LOC
+(	O
+延平区	O
+)	O
+
+넘겨주기	O
+재팬	B-ORG
+뉴스	I-ORG
+네트워크	I-ORG
+
+'	O
+''	O
+무함마드	B-PER
+다우드	I-PER
+''	O
+'سردار	O
+محمد	O
+داود	O
+خان	O
+
+'	O
+''	O
+교황	B-PER
+요한	I-PER
+15세	I-PER
+''	O
+'	O
+
+**	O
+세인트조지스	B-LOC
+(	O
+대사관	O
+)	O
+
+도사	B-LOC
+번사의	I-LOC
+집에서	O
+장남으로써	O
+태어났다	O
+.	O
+
+세계	B-ORG
+수학자	I-ORG
+대회	I-ORG
+(	O
+ICM	O
+)	O
+초청	O
+강연	O

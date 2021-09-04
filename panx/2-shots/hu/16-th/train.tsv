@@ -1,0 +1,63 @@
+Ez	O
+lett	O
+az	O
+alapja	O
+a	O
+mai	O
+Tátrai	B-LOC
+Nemzeti	I-LOC
+Parknak	I-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Tóth	B-PER
+Balázs	I-PER
+(	I-PER
+egyértelműsítő	I-PER
+lap	I-PER
+)	I-PER
+
+A	O
+Természetvédelmi	B-ORG
+Világszövetség	I-ORG
+Vörös	B-ORG
+listáján	I-ORG
+mint	O
+végveszényben	O
+lévőt	O
+tartják	O
+nyilván	O
+.	O
+
+A	O
+Velencei	B-LOC
+Köztársaság	I-LOC
+bukásával	O
+a	O
+város	O
+vezetői	O
+II.	B-PER
+Ferenc	I-PER
+német-római	I-PER
+császárnak	I-PER
+hódoltak	O
+be	O
+.	O
+
+–	O
+Red	B-ORG
+Bull	I-ORG
+Salzburg	I-ORG
+
+A	O
+falu	O
+a	O
+Sükő-pataka	O
+mentén	O
+,	O
+községközpontjától	O
+Felsőboldogfalvától	B-LOC
+5	O
+km-re	O
+fekszik	O
+.	O

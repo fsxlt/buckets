@@ -1,0 +1,23 @@
+REDIRECIONAMENTO	O
+François	B-PER
+Van	I-PER
+Den	I-PER
+Bosch	I-PER
+
+''	O
+Eastern	B-ORG
+Championship	I-ORG
+Wrestling	I-ORG
+/	I-ORG
+Extreme	I-ORG
+Championship	I-ORG
+Wrestling	I-ORG
+''	O
+'	O
+
+El	B-LOC
+Paraíso	I-LOC
+(	I-LOC
+El	B-LOC
+Paraíso	I-LOC
+)	I-LOC

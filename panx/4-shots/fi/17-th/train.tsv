@@ -1,0 +1,128 @@
+Wembley	B-ORG
+Stadium	I-ORG
+,	O
+Lontoo	B-LOC
+,	O
+Englanti	B-LOC
+
+``	O
+Pennyroyal	B-ORG
+Tea	I-ORG
+''	O
+–	O
+4:16	O
+
+Nykyään	O
+tämä	O
+kehityssuunta	O
+näkyy	O
+voimakkaasti	O
+esimerkiksi	O
+Yhdysvaltain	B-ORG
+korkeimman	I-ORG
+oikeuden	I-ORG
+itsenäisessä	O
+toimivallassa	O
+.	O
+
+Feira	B-LOC
+de	I-LOC
+Santana	I-LOC
+-	O
+535	O
+284	O
+
+Lamb	B-ORG
+of	I-ORG
+God	I-ORG
+,	O
+Linkin	B-ORG
+Park	I-ORG
+ja	O
+Mastodon	B-ORG
+.	O
+
+Kaupunki	O
+on	O
+Daşkəsənin	B-LOC
+piirin	I-LOC
+keskus	O
+.	O
+
+Hän	O
+matkusteli	O
+Venäjällä	B-LOC
+ja	O
+matkusti	O
+sitten	O
+Sveitsin	B-LOC
+Zürichiin	B-LOC
+,	O
+jossa	O
+hän	O
+tapasi	O
+Georgi	B-PER
+Plehanovin	I-PER
+.	O
+
+San	B-LOC
+Salvador	I-LOC
+(	I-LOC
+Bahama	I-LOC
+)	I-LOC
+
+''	O
+Eriocnemis	B-LOC
+isabellae	I-LOC
+''	O
+
+'	O
+''	O
+Nadja	B-PER
+Benaissa	I-PER
+''	O
+'	O
+
+Startissa	O
+kolmosruudusta	O
+liikkelle	O
+lähtenyt	O
+Ferrarin	B-ORG
+Sebastian	B-PER
+Vettel	I-PER
+pystyi	O
+ohittamaan	O
+kakkospaikalta	O
+lähteneen	O
+Lewis	B-PER
+Hamiltonin	I-PER
+.	O
+
+Andreas	B-PER
+Papandreu	I-PER
+(	O
+1974–1996	O
+)	O
+
+Pireus	B-LOC
+(	O
+''Peiraiás	O
+''	O
+)	O
+
+Ruokatottumukset	O
+ovat	O
+muuttuneet	O
+,	O
+erityisesti	O
+lihan	O
+syönnin	O
+suosio	O
+on	O
+kasvanut	O
+elintason	O
+kohoamisen	O
+myötä	O
+Aasian	B-LOC
+maissa	O
+.	O

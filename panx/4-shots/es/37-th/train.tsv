@@ -1,0 +1,98 @@
+Firmado	O
+por	O
+Venustiano	B-PER
+Carranza	I-PER
+,	O
+documento	O
+por	O
+el	O
+cual	O
+desconoció	O
+y	O
+llamó	O
+asesino	O
+al	O
+Gral	O
+.	O
+
+30px	O
+'	O
+''	O
+Estados	B-LOC
+Unidos	I-LOC
+'	O
+''	O
+Wilhelm	B-PER
+Steinitz	I-PER
+''	O
+
+Love	B-LOC
+Valley	I-LOC
+,	O
+''Iredell	O
+''	O
+33	O
+
+REDIRECCIÓN	O
+Finn	B-ORG
+Harps	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+REDIRECCIÓN	O
+Teatro	B-ORG
+de	I-ORG
+Cristóbal	I-ORG
+Colón	I-ORG
+
+REDIRECCIÓN	O
+Jefe	B-PER
+de	I-PER
+Gabinete	I-PER
+de	I-PER
+la	I-PER
+Casa	I-PER
+Blanca	I-PER
+
+'	O
+''	O
+Japón	B-LOC
+''	O
+'	O
+
+REDIRECCIÓN	O
+Reclaim	B-ORG
+the	I-ORG
+Streets	I-ORG
+
+Organización	B-LOC
+territorial	I-LOC
+de	I-LOC
+Canadá	I-LOC
+
+'	O
+''	O
+Nick	B-PER
+Kyrgios	I-PER
+''	O
+'7-610	O
+,	O
+6-4	O
+
+'	O
+''	O
+Coalición	B-ORG
+Canaria	I-ORG
+(	O
+CC	O
+)	O
+'	O
+''	O
+1	O
+
+REDIRECCIÓN	O
+Cedar	B-LOC
+Falls	I-LOC
+(	I-LOC
+Iowa	I-LOC
+)	I-LOC

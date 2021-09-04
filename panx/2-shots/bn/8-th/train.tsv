@@ -1,0 +1,39 @@
+জাতি-তাত্ত্বিক	B-ORG
+জাদুঘর	I-ORG
+,	I-ORG
+চট্টগ্রাম	I-ORG
+
+কাজিরাঙা	B-LOC
+জাতীয়	I-LOC
+উদ্যান	I-LOC
+
+capensis	O
+''	O
+)	O
+–	O
+(	O
+দক্ষিণ	B-LOC
+আফ্রিকা	I-LOC
+)	O
+
+ইয়োহান	B-PER
+ভোলফগাং	I-PER
+ফন	I-PER
+গ্যোটে	I-PER
+
+বিনত	B-ORG
+বিবির	I-ORG
+মসজিদ	I-ORG
+
+এটি	O
+চট্টগ্রাম	B-LOC
+বিভাগের	I-LOC
+চট্টগ্রাম	B-LOC
+জেলার	I-LOC
+সন্দ্বীপ	B-LOC
+উপজেলার	I-LOC
+অন্তর্গত।	O
+
+আর্থার	B-PER
+কোনান	I-PER
+ডয়েল	I-PER

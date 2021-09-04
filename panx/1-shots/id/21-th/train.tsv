@@ -1,0 +1,14 @@
+ALIH	O
+Daftar	B-ORG
+Gubernur	I-ORG
+Texas	I-ORG
+
+Han	B-PER
+Eun-jeong	I-PER
+...	O
+Hong-ri	O
+
+ALIH	O
+Richmond	B-LOC
+,	I-LOC
+Alabama	I-LOC

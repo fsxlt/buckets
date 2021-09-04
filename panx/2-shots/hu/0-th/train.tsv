@@ -1,0 +1,70 @@
+''	O
+Hirundo	B-LOC
+lucida	I-LOC
+''	O
+
+Újgyalla	B-LOC
+(	O
+Dulovce	O
+,	O
+rég	O
+.	O
+
+'	O
+''	O
+Stephen	B-PER
+Lang	I-PER
+''	O
+'	O
+
+'	O
+''	O
+III.	B-ORG
+Kerületi	I-ORG
+TVE	I-ORG
+''	O
+'	O
+
+Jacques	B-PER
+Audiard	I-PER
+–	O
+''A	O
+számat	O
+figyeld	O
+(	O
+Sur	O
+mes	O
+lèvres	O
+)	O
+''	O
+
+Hajduk	B-ORG
+Split	I-ORG
+(	O
+T	O
+)	O
+(	O
+11,200	O
+)	O
+
+Királyhalom	B-LOC
+(	O
+Vajdaság	B-LOC
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Buxerolles	B-LOC
+(	I-LOC
+Côte-d'Or	I-LOC
+)	I-LOC
+
+Fiatalon	O
+részt	O
+vett	O
+a	O
+Nyugat	B-ORG
+harmadik	O
+nemzedéke	O
+lapalapítási	O
+kísérleteiben	O
+.	O

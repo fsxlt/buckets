@@ -1,0 +1,28 @@
+**	O
+3	O
+இந்தியக்	B-ORG
+கட்டிடக்கலை	I-ORG
+பள்ளிகள்	I-ORG
+(	O
+SPAs	O
+)	O
+
+வழிமாற்று	O
+அ.	B-PER
+பூ.	I-PER
+பர்தன்	I-PER
+
+vadakadu	O
+Gram	O
+Panchayat	O
+''	O
+)	O
+,	O
+தமிழ்நாட்டின்	B-LOC
+தஞ்சாவூர்	B-LOC
+மாவட்டத்தில்	I-LOC
+உள்ள	O
+பட்டுக்கோட்டை	B-LOC
+வட்டாரத்தில்	O
+அமைந்துள்ளது	O
+.	O

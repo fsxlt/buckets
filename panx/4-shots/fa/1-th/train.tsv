@@ -1,0 +1,76 @@
+تغییرمسیر	O
+علی‌آباد	B-LOC
+شور	I-LOC
+(	I-LOC
+خلیل‌آباد	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+پل	B-ORG
+قدیم	I-ORG
+دزفول	I-ORG
+
+مادام	B-PER
+پمپادور	I-PER
+معشوقهٔ	O
+لوئی	B-PER
+پانزدهم	I-PER
+
+تغییرمسیر	O
+آنچه	B-ORG
+من	I-ORG
+انجام	I-ORG
+داده‌ام	I-ORG
+
+تغییرمسیر	O
+جان	B-PER
+لاک	I-PER
+(	I-PER
+لاست	I-PER
+)	I-PER
+
+تغییرمسیر	O
+شهرستان	B-LOC
+تیران	I-LOC
+و	I-LOC
+کرون	I-LOC
+
+تغییرمسیر	O
+آب	B-LOC
+شیرین	I-LOC
+(	I-LOC
+ممسنی	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+وجیه‌آباد	B-LOC
+(	I-LOC
+بوئین‌زهرا	I-LOC
+)	I-LOC
+
+کجاست	O
+جای	O
+رسیدن	O
+از	O
+عباس	B-PER
+کیارستمی	I-PER
+
+تغییر_مسیر	O
+حزب	B-ORG
+سوسیال	I-ORG
+دموکرات	I-ORG
+(	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+)	I-ORG
+
+تغییر_مسیر	O
+میدان	B-ORG
+نفتی	I-ORG
+برقان	I-ORG
+
+تغییرمسیر	O
+آدالتون	B-PER
+لوئیز	I-PER
+جووینال	I-PER

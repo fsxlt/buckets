@@ -1,0 +1,22 @@
+Fernand	B-PER
+Khnopff	I-PER
+n'y	O
+participe	O
+pas	O
+.	O
+
+Stade	B-ORG
+Jules-Deschaseaux	I-ORG
+,	O
+Le	B-LOC
+Havre	I-LOC
+
+**	O
+The	B-ORG
+Velvet	I-ORG
+Underground	I-ORG
+-	O
+The	B-ORG
+Velvet	I-ORG
+Underground	I-ORG
+''	O

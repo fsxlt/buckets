@@ -1,0 +1,43 @@
+'	O
+''	O
+Berliner	B-ORG
+Stadtliga	I-ORG
+''	O
+'	O
+
+Cliff	B-PER
+Richard	I-PER
+-	O
+Living	B-ORG
+Doll	I-ORG
+
+La	B-LOC
+Grange	I-LOC
+(	I-LOC
+Tennessee	I-LOC
+)	I-LOC
+
+Dankzij	O
+haar	O
+krijgt	O
+Cole	B-PER
+Turner	I-PER
+de	O
+krachten	O
+van	O
+de	O
+Bron	O
+.	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Kenia	B-LOC
+.	O
+
+Trifești	B-LOC
+(	I-LOC
+Iași	I-LOC
+)	I-LOC

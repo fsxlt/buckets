@@ -1,0 +1,119 @@
+Theaetetus	B-LOC
+(	I-LOC
+cráter	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Lance	B-PER
+Armstrong	I-PER
+''	O
+'	O
+
+El	B-ORG
+rock	I-ORG
+de	I-ORG
+mi	I-ORG
+pueblo	I-ORG
+
+'	O
+''	O
+Unión	B-ORG
+Española	I-ORG
+''	O
+'	O
+
+Con	O
+ella	O
+llevó	O
+a	O
+su	O
+hija	O
+Prudenzia	O
+,	O
+con	O
+la	O
+que	O
+más	O
+tarde	O
+se	O
+trasladó	O
+a	O
+Nápoles	B-LOC
+.	O
+
+'	O
+''	O
+Estados	B-LOC
+Unidos	I-LOC
+''	O
+'	O
+
+Fue	O
+catedrático	O
+en	O
+materias	O
+lingüísticas	O
+por	O
+la	O
+Universidad	B-ORG
+de	I-ORG
+Sevilla	I-ORG
+,	O
+la	O
+Universidad	B-ORG
+de	I-ORG
+Valladolid	I-ORG
+y	O
+la	O
+Universidad	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Educación	I-ORG
+a	I-ORG
+Distancia	I-ORG
+.	O
+
+REDIRECCIÓN	O
+Nicolás	B-PER
+de	I-PER
+Ovando	I-PER
+
+Organización	B-LOC
+territorial	I-LOC
+del	I-LOC
+Perú	I-LOC
+
+'	O
+''	O
+Club	B-ORG
+Portugalete	I-ORG
+''	O
+'	O
+
+Algunos	O
+investigadores	O
+han	O
+sugerido	O
+que	O
+la	O
+jirafa	B-LOC
+de	I-LOC
+Rothschild	I-LOC
+(	O
+''G	O
+.	O
+
+Ephraim	B-PER
+Moses	I-PER
+Lilien	I-PER
+,	O
+1900-1	O
+.	O
+
+Georges	B-PER
+Corraface	I-PER
+como	O
+''Mohsen	O
+''	O
+.	O

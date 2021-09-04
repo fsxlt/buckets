@@ -1,0 +1,45 @@
+Venterol	B-LOC
+(	I-LOC
+Drôme	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Nathalie	B-PER
+Dechy	I-PER
+Dinara	B-PER
+Safina	I-PER
+
+REDIRECIONAMENTO	O
+Danbury	B-LOC
+(	I-LOC
+Connecticut	I-LOC
+)	I-LOC
+
+Eventualmente	O
+você	O
+pode	O
+ver	O
+Kim	B-PER
+Kaphwan	I-PER
+passar	O
+pela	O
+tela	O
+em	O
+alguns	O
+cenários	O
+executando	O
+seu	O
+''Desperation	O
+Move	O
+''	O
+.	O
+
+REDIRECIONAMENTO	O
+Rinku	B-ORG
+Gate	I-ORG
+Tower	I-ORG
+
+Exército	B-ORG
+do	I-ORG
+Paquistão	I-ORG

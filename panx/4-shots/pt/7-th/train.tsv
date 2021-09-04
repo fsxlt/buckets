@@ -1,0 +1,94 @@
+Melhor	O
+Direção	O
+–	O
+Laís	B-PER
+Bodanzky	I-PER
+
+Ilha	B-LOC
+de	I-LOC
+Baffin	I-LOC
+,	O
+Nunavut	B-LOC
+
+Catarina	B-PER
+de	I-PER
+Médici	I-PER
+
+The	B-ORG
+Lexicon	I-ORG
+of	I-ORG
+Love	I-ORG
+''	O
+
+Além	B-ORG
+do	I-ORG
+que	I-ORG
+os	I-ORG
+Olhos	I-ORG
+Podem	I-ORG
+Ver	I-ORG
+''	O
+
+Apenas	O
+pode	O
+ser	O
+encontrada	O
+no	O
+Quénia	B-LOC
+.	O
+
+Parque	B-ORG
+Nacional	I-ORG
+Desembarco	I-ORG
+do	I-ORG
+Granma	I-ORG
+(	O
+Património	B-ORG
+da	I-ORG
+Humanidade	I-ORG
+)	O
+
+''Cichorium	O
+endivia	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O
+
+Danton	B-PER
+,	O
+Léon	B-PER
+Gambetta	I-PER
+,	O
+Jean	B-PER
+Jaurès	I-PER
+)	O
+
+Alhama	B-LOC
+de	I-LOC
+Granada	I-LOC
+
+Nacional	B-ORG
+(	O
+São	B-LOC
+Paulo	I-LOC
+''	O
+)	O
+
+'	O
+''	O
+Ricardo	B-PER
+Mello	I-PER
+''	O
+'	O
+
+Arlit	B-LOC
+(	I-LOC
+departamento	I-LOC
+)	I-LOC
+(	O
+Arlit	B-LOC
+)	O

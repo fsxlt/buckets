@@ -1,0 +1,44 @@
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Komite	B-PER
+Nasional	I-PER
+Keselamatan	I-PER
+Transportasi	I-PER
+(	O
+KNKT	O
+)	O
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Kagiyatan	O
+iki	O
+dirancang	O
+déning	O
+wong	O
+Inggris	B-LOC
+mawa	O
+''call	O
+sign	O
+''	O
+G3BHK	O
+.	O
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

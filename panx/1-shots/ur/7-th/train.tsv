@@ -1,0 +1,22 @@
+ابو	B-PER
+علی	I-PER
+منصور	I-PER
+الامر	I-PER
+باحکام	I-PER
+اللہ	I-PER
+495	O
+ھ	O
+تا	O
+524	O
+ھ	O
+
+رجوع_مکرر	O
+مریخ	B-ORG
+کا	I-ORG
+کرۂ	I-ORG
+فضائی	I-ORG
+
+رجوع_مکرر	O
+لوکس	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC

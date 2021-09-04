@@ -1,0 +1,40 @@
+Moon	B-PER
+Bloodgood	I-PER
+-	O
+Starfire	O
+
+Orodha	B-ORG
+ya	I-ORG
+nasaba	I-ORG
+za	I-ORG
+Kichina	I-ORG
+
+Umoja	B-ORG
+wa	I-ORG
+Kizalendo	I-ORG
+kwa	I-ORG
+Ukombozi	I-ORG
+wa	I-ORG
+Vietnam	I-ORG
+Kusini	I-ORG
+
+Mlinzi	B-LOC
+(	I-LOC
+ndege	I-LOC
+)	I-LOC
+
+Margareta	B-PER
+Mtakatifu	I-PER
+wa	I-PER
+Uskoti	I-PER
+
+Imepakana	O
+na	O
+Guyana	B-LOC
+,	O
+Guyana	B-LOC
+ya	I-LOC
+Kifaransa	I-LOC
+na	O
+Brazil	B-LOC
+.	O

@@ -1,0 +1,19 @@
+US	O
+Dance	B-ORG
+/	I-ORG
+Electronic	I-ORG
+Albums	I-ORG
+
+'	O
+''	O
+Nick	B-PER
+Heidfeld	I-PER
+''	O
+'	O
+
+đổi	O
+Gõ	B-LOC
+kiến	I-LOC
+nhỏ	I-LOC
+nâu	I-LOC
+xám	I-LOC

@@ -1,0 +1,50 @@
+Andrés	B-PER
+Gómez	I-PER
+''	O
+(	O
+Quarti	O
+di	O
+finale	O
+)	O
+
+===	O
+Regione	B-LOC
+di	I-LOC
+Los	I-LOC
+Lagos	I-LOC
+===	O
+
+Love	B-ORG
+Me	I-ORG
+Two	I-ORG
+Times	I-ORG
+''	O
+
+Gran	B-ORG
+Premio	I-ORG
+d'Italia	I-ORG
+1960	I-ORG
+
+Abu	B-PER
+Bakr	I-PER
+al-Baqillani	I-PER
+(	O
+950–1013	O
+)	O
+
+Dashtadem	B-LOC
+(	I-LOC
+Aragatsotn	I-LOC
+)	I-LOC
+
+Prese	O
+parte	O
+al	O
+vittorioso	O
+Europeo	B-LOC
+giocato	O
+in	O
+Spagna	B-LOC
+nel	O
+1964	B-ORG
+.	O

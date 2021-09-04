@@ -1,0 +1,50 @@
+BIRZUZENDU	O
+Hegoafrikako	B-ORG
+Teleskopio	I-ORG
+Handia	I-ORG
+
+Partaideen	O
+artean	O
+Edmund	B-PER
+Hillary	I-PER
+zegoen	O
+.	O
+
+Horregatik	O
+Espainian	B-LOC
+jaiotako	O
+biztanleria	O
+nagusi	O
+da	O
+auzoan	O
+.	O
+
+Arriaga	B-ORG
+antzokiak	I-ORG
+haren	O
+omenez	O
+du	O
+izena	O
+.	O
+
+'	O
+''	O
+Mario	B-PER
+Cipollini	I-PER
+''	O
+'	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Alpes-de-Haute-Provence	B-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Indonesiaren	B-LOC
+banaketa	I-LOC
+administratiboa	I-LOC

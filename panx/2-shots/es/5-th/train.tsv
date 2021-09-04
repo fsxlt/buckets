@@ -1,0 +1,43 @@
+REDIRECCIÓN	O
+Partido	B-LOC
+de	I-LOC
+Chacabuco	I-LOC
+
+REDIRECCIÓN	O
+William	B-PER
+H.	I-PER
+Seward	I-PER
+
+'	O
+''	O
+Municipio	B-LOC
+de	I-LOC
+Jackson	I-LOC
+(	I-LOC
+condado	I-LOC
+de	I-LOC
+Benton	I-LOC
+,	I-LOC
+Iowa	I-LOC
+)	I-LOC
+''	O
+'	O
+.	O
+
+REDIRECCIÓN	O
+Unión	B-ORG
+Cívica	I-ORG
+Radical	I-ORG
+
+REDIRECCIÓN	O
+Franz	B-PER
+Theodor	I-PER
+Wolf	I-PER
+
+Círculo	B-ORG
+vicioso	I-ORG
+,	O
+un	O
+cuento	O
+;	O
+o	O

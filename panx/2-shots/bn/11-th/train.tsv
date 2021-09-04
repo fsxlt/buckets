@@ -1,0 +1,40 @@
+দূরে	O
+,	O
+বগুড়া	B-LOC
+জেলা	I-LOC
+,	O
+বাংলাদেশ	B-LOC
+
+২০০৮	B-ORG
+গ্রীষ্মকালীন	I-ORG
+অলিম্পিকে	I-ORG
+সাঁতার	I-ORG
+–	I-ORG
+পুরুষদের	I-ORG
+৪০০	I-ORG
+মিটার	I-ORG
+ব্যক্তিগত	I-ORG
+মেডলি	I-ORG
+
+সাঁ	B-LOC
+পিয়ের	I-LOC
+ও	I-LOC
+মিক‌লোঁ	I-LOC
+
+রুদ্র	B-PER
+মুহম্মদ	I-PER
+শহীদুল্লাহ	I-PER
+
+ভারতীয়	B-ORG
+স্টেট	I-ORG
+ব্যাংক	I-ORG
+
+ডুমুরিয়া	B-LOC
+উপজেলা	I-LOC
+এবং	O
+ফুলতলা	B-LOC
+উপজেলা	I-LOC
+
+টমাস	B-PER
+আলভা	I-PER
+এডিসন	I-PER

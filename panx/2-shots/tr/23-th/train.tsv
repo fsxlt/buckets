@@ -1,0 +1,34 @@
+Kral	B-ORG
+Baudouin	I-ORG
+Stadyumu	I-ORG
+,	O
+Brüksel	B-LOC
+,	O
+Belçika	B-LOC
+
+John	B-PER
+Wayne	I-PER
+ve	O
+Maureen	B-PER
+O'Hara	I-PER
+
+YÖNLENDİRME	O
+Gur	B-ORG
+(	I-ORG
+il	I-ORG
+)	I-ORG
+
+YÖNLENDİRME	O
+Gecen	B-LOC
+,	I-LOC
+Bartın	I-LOC
+
+YÖNLENDİRME	O
+Bernhard	B-PER
+von	I-PER
+Bülow	I-PER
+
+YÖNLENDİRME	O
+Gökbük	B-LOC
+,	I-LOC
+Finike	I-LOC

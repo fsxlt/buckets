@@ -1,0 +1,114 @@
+*20px	O
+A.S.	B-LOC
+Augusta	I-LOC
+,	I-LOC
+Augusta	I-LOC
+
+La	O
+sua	O
+carriera	O
+è	O
+iniziata	O
+El	B-ORG
+Mansoura	I-ORG
+prima	O
+di	O
+spostarsi	O
+nello	O
+Zamalek	B-ORG
+.	O
+
+*AMPAS	O
+-	O
+Academy	B-ORG
+of	I-ORG
+Motion	I-ORG
+Picture	I-ORG
+Arts	I-ORG
+and	I-ORG
+Sciences	I-ORG
+
+'	O
+''	O
+Rudolf	B-PER
+Agricola	I-PER
+''	O
+'	O
+
+Stazione	B-ORG
+di	I-ORG
+Villa	I-ORG
+San	I-ORG
+Giovanni	I-ORG
+
+Il	O
+titolo	O
+assoluto	O
+è	O
+stato	O
+vinto	O
+da	O
+Robert	B-PER
+Fountain	I-PER
+del	O
+Regno	B-LOC
+Unito	I-LOC
+.	O
+
+portici	B-LOC
+di	I-LOC
+Piazza	I-LOC
+XX	I-LOC
+Settembre	I-LOC
+
+'	O
+''	O
+Jonas	B-PER
+Björkman	I-PER
+/	O
+Todd	B-PER
+Woodbridge	I-PER
+''	O
+'	O
+hanno	O
+battuto	O
+in	O
+finale	O
+Martin	B-PER
+Damm	I-PER
+/	O
+Cyril	B-PER
+Suk	I-PER
+,	O
+6-3	O
+,	O
+6–4	O
+
+Barbara	B-PER
+Gerken	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+;	O
+25px	O
+'	O
+''	O
+Ferrovie	B-ORG
+Odakyū	I-ORG
+''	O
+'	O
+
+Bak]]	O
+''	O
+-	O
+Città	O
+Ungheria	B-LOC
+.	O
+
+RINVIA	O
+Türkiye	B-LOC
+1.Lig	I-LOC
+1996-1997	I-LOC

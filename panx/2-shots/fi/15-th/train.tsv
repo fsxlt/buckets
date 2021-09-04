@@ -1,0 +1,64 @@
+Tiibetinhemppoa	O
+tavataan	O
+Bhutanissa	B-LOC
+,	O
+Kiinassa	B-LOC
+,	O
+Intiassa	B-LOC
+,	O
+Myanmarissa	B-ORG
+ja	O
+Nepalissa	B-LOC
+.	O
+
+Mendeferaan	B-LOC
+,	O
+samoin	O
+kuin	O
+Adi	B-LOC
+Keyhin	I-LOC
+kulkee	O
+kolmisen	O
+päivittäistä	O
+vuoroa	O
+.	O
+
+Heidän	O
+edellään	O
+puolustajien	O
+pistepörssissä	O
+oli	O
+vain	O
+Mora	B-ORG
+IK	I-ORG
+:	I-ORG
+n	I-ORG
+Ross	B-PER
+Lupaschuk	I-PER
+.	O
+
+Philippe	B-PER
+Troussier	I-PER
+,	O
+Hans-Peter	B-PER
+Briegel	I-PER
+ja	O
+Horst	B-PER
+Köppel	I-PER
+.	O
+
+Kuitenkin	O
+tämänkin	O
+jälkeen	O
+,	O
+Norjan	B-ORG
+vastarintaliike	I-ORG
+toimi	O
+aktiivisena	O
+.	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brasilia	B-LOC

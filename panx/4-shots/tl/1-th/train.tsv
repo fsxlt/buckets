@@ -1,0 +1,85 @@
+Makoto	B-PER
+Ogawa	I-PER
+(	O
+小川麻琴	O
+)	O
+
+Diyosesis	B-LOC
+ng	I-LOC
+Legazpi	I-LOC
+
+Kalakhang	B-LOC
+Maynila	I-LOC
+,	O
+Rizal	B-LOC
+,	O
+Bulakan	B-LOC
+,	O
+Bataan	B-LOC
+,	O
+Puerto	B-LOC
+Princesa	I-LOC
+
+Maria	B-PER
+I	I-PER
+ng	I-PER
+Inglatera	I-PER
+
+Mas	O
+gamitin	O
+ang	O
+salitang	O
+sinturis	O
+sa	O
+Batangas	B-LOC
+.	O
+
+Quid	B-LOC
+pro	I-LOC
+quo	I-LOC
+
+Commonwealth	B-ORG
+of	I-ORG
+Independent	I-ORG
+States	I-ORG
+
+Kuala	B-LOC
+Lumpur	I-LOC
+(	O
+opisyal	O
+)	O
+,	O
+Putrajaya	B-LOC
+(	O
+ehekutibo	O
+)	O
+
+Jane	B-PER
+Seymour	I-PER
+(	I-PER
+aktres	I-PER
+)	I-PER
+
+Those	B-ORG
+Who	I-ORG
+Hunt	I-ORG
+Elves	I-ORG
+''	O
+
+Sentrong	B-ORG
+Pangkultura	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+
+*1972	O
+–	O
+Ngo	B-PER
+Bao	I-PER
+Chau	I-PER
+,	O
+Dalubbilang	O
+
+Maning	B-ORG
+malutong	I-ORG
+at	I-ORG
+marupok	I-ORG

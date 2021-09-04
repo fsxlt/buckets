@@ -1,0 +1,56 @@
+Jamie	B-PER
+Murray	I-PER
+e	O
+John	B-PER
+Peers	I-PER
+hanno	O
+sconfitto	O
+in	O
+finale	O
+Juan	B-PER
+Sebastián	I-PER
+Cabal	I-PER
+e	O
+Robert	B-ORG
+Farah	I-ORG
+per	O
+2–6	O
+,	O
+6–3	O
+,	O
+[10–8]	O
+.	O
+
+È	O
+cresciuto	O
+nella	O
+città	O
+di	O
+Virginia	B-LOC
+Beach	I-LOC
+.	O
+
+'	O
+''	O
+Tennessee	B-LOC
+-	O
+Rachel	B-PER
+Smith	I-PER
+''	O
+'	O
+
+=====	O
+Coppa	B-ORG
+d'Africa	I-ORG
+2012	I-ORG
+Qualificazioni	O
+=====	O
+
+Governatorato	B-LOC
+di	I-LOC
+Lublino	I-LOC
+-	O
+Люблинская	O
+(	O
+Lublinskaya	B-LOC
+)	O

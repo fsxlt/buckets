@@ -1,0 +1,22 @@
+Predrag	B-PER
+Mijatović	I-PER
+(	O
+Valencia	B-ORG
+CF	I-ORG
+)	O
+
+Een	O
+'	O
+''	O
+kantoor	O
+''	O
+'	O
+voor	O
+de	O
+Rabobank	B-ORG
+.	O
+
+Rodos	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC

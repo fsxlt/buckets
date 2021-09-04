@@ -1,0 +1,101 @@
+ÁTIRÁNYÍTÁS	O
+Súkan	B-ORG
+Sónen	I-ORG
+Magazine	I-ORG
+
+A	O
+minőségi	O
+bort	O
+termelő	O
+gazdaságokat	O
+továbbra	O
+is	O
+szinte	O
+egytől	O
+egyig	O
+Angliából	B-LOC
+bevándorolt	O
+családok	O
+üzemeltetik	O
+.	O
+
+Jennifer	B-PER
+Capriati	I-PER
+''	O
+(	O
+Negyeddöntős	O
+)	O
+''	O
+
+Szászkézd	B-LOC
+,	O
+Maros	B-LOC
+megye	I-LOC
+
+Ivanovói	B-LOC
+terület	I-LOC
+(	O
+Ивановская	O
+область	O
+)	O
+
+Lewis	B-PER
+Hamilton	I-PER
+74.	O
+,	O
+Kimi	B-PER
+Räikkönen	I-PER
+78.	O
+,	O
+Nico	B-PER
+Rosberg	I-PER
+30.	O
+dobogós	O
+helyezése	O
+.	O
+
+Nagy-Románia	B-ORG
+Párt	I-ORG
+(	O
+PRM	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Arszen	B-PER
+Georgijevics	I-PER
+Avakov	I-PER
+
+''	O
+Scytalopus	B-LOC
+affinis	I-LOC
+''	O
+
+)	O
+OGY	O
+határozat	O
+''	O
+'	O
+az	O
+Egyetemes	B-ORG
+Postaegyesület	I-ORG
+XXI	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Oroszország	B-LOC
+közigazgatási	I-LOC
+felosztása	I-LOC
+
+'	O
+''	O
+Paolo	B-PER
+Bettini	I-PER
+''	O
+'	O
+
+Les	B-ORG
+chemins	I-ORG
+de	I-ORG
+ma	I-ORG
+maison	I-ORG
+''	O

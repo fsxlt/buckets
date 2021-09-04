@@ -1,0 +1,16 @@
+Colegio	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Monserrat	I-ORG
+
+Leonor	B-PER
+de	I-PER
+Arborea	I-PER
+
+'	O
+''	O
+América	B-LOC
+del	I-LOC
+Norte	I-LOC
+''	O
+'	O

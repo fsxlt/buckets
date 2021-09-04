@@ -1,0 +1,40 @@
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Pyrénées	I-ORG
+
+**	O
+M.	B-PER
+Nasir	I-PER
+-	O
+komposer	O
+paling	O
+kerap	O
+bertanding	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Indre-et-Loire	I-LOC
+
+LENCONG	O
+Gowlak	B-LOC
+,	I-LOC
+Azerbaijan	I-LOC
+Barat	I-LOC
+
+'	O
+''	O
+Ralf	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+モーニング娘。のひょっこりひょうたん島	O
+(	O
+Morning	B-ORG
+Musume	I-ORG
+no	I-ORG
+Hyokkori	I-ORG
+Hyoutanjima	I-ORG
+)	O

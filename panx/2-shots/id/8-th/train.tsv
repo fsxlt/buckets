@@ -1,0 +1,34 @@
+Casto	B-PER
+(	O
+Real	B-ORG
+Betis	I-ORG
+)	O
+
+'	O
+''	O
+José	B-PER
+Bustamante	I-PER
+y	I-PER
+Rivero	I-PER
+''	O
+'	O
+
+Yitzhak	B-PER
+Shamir	I-PER
+,	O
+bekas	O
+Perdana	B-ORG
+Menteri	I-ORG
+Israel	I-ORG
+.	O
+
+El	B-LOC
+Puerto	I-LOC
+de	I-LOC
+Santa	I-LOC
+María	I-LOC
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Essonne	I-LOC

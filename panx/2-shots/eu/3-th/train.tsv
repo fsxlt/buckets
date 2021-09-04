@@ -1,0 +1,38 @@
+BIRZUZENDU	O
+Phong	B-ORG
+Nha-Kẻ	I-ORG
+Bàng	I-ORG
+Parke	I-ORG
+Nazionala	I-ORG
+
+Jakobo	B-PER
+II.a	I-PER
+Eskoziakoaren	I-PER
+seme	O
+nagusia	O
+zen	O
+.	O
+
+Amerikar	B-ORG
+Ligako	I-ORG
+Ekialdeko	I-ORG
+Dibisioa	I-ORG
+
+BIRZUZENDU	O
+Saint-Crépin	B-LOC
+(	I-LOC
+Alpe	I-LOC
+Garaiak	I-LOC
+)	I-LOC
+
+Euskal	B-LOC
+Herrian	I-LOC
+Bilbobusren	B-ORG
+kasu	O
+.	O
+
+BIRZUZENDU	O
+Bernart	B-PER
+I.a	I-PER
+Gilen	I-PER
+Gaskoiniakoa	I-PER

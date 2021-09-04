@@ -1,0 +1,34 @@
+أوليسس	B-PER
+دي	I-PER
+لا	I-PER
+كروز	I-PER
+
+صربيا	B-ORG
+والجبل	I-ORG
+الأسود	I-ORG
+2003-2006	O
+
+تحويل	O
+هاري	B-LOC
+بوتر	I-LOC
+والأمير	I-LOC
+الهجين	I-LOC
+
+تحويل	O
+غرنفيل	B-LOC
+سور	I-LOC
+لا	I-LOC
+روج	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+اتحاد	B-ORG
+المحاكم	I-ORG
+الإسلامية	I-ORG
+
+تحويل	O
+حميد	B-PER
+الدين	I-PER
+الفراهي	I-PER

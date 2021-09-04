@@ -1,0 +1,121 @@
+70	O
+milioi	O
+objetutik	O
+gora	O
+ditu	O
+,	O
+batzuk	O
+oso	O
+garrantzitsuak	O
+,	O
+Charles	B-PER
+Darwinek	I-PER
+bildutako	O
+aleak	O
+esate	O
+baterako	O
+.	O
+
+Zirkua	B-ORG
+''	O
+,	O
+Georges	B-PER
+Pierre	I-PER
+Seurat	I-PER
+
+Ōhori	B-ORG
+(	I-ORG
+Fukuoka	I-ORG
+)	I-ORG
+
+Cuneoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+Arenzano	B-LOC
+-	O
+Orta	B-LOC
+San	I-LOC
+Giulio	I-LOC
+
+Latinako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lazio	B-LOC
+eskualdean	O
+.	O
+
+Diru	O
+ofiziala	O
+CFA	B-ORG
+libera	I-ORG
+da	O
+.	O
+
+Turingo	B-LOC
+Hiri	I-LOC
+Metropolitanoan	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Sebastião	B-PER
+José	I-PER
+de	I-PER
+Carvalho	I-PER
+e	I-PER
+Melo	I-PER
+
+Belém	B-ORG
+dorrea	I-ORG
+eta	O
+Jeronimotarren	B-ORG
+monasterioa	I-ORG
+.	O
+
+1993.	O
+urtearen	O
+amaieran	O
+izan	O
+ziren	O
+hauteskundeak	O
+Rafael	B-PER
+Calderak	I-PER
+(	O
+1969-1974	O
+bitartean	O
+presidente	O
+izandakoa	O
+)	O
+irabazi	O
+zituen	O
+.	O
+
+Eguzkia	B-LOC
+baino	O
+gazteagoa	O
+da	O
+,	O
+soilik	O
+10	O
+milioi	O
+urte	O
+izan	O
+ditzakeelarik	O
+.	O
+
+BIRZUZENDU	O
+Eskoziako	B-ORG
+Museo	I-ORG
+Nazionala	I-ORG

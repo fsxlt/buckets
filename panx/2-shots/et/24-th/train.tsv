@@ -1,0 +1,46 @@
+Franklini	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O
+
+Pershingi	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+Larry	B-PER
+Mullen	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+1999.	O
+aastast	O
+kuulub	O
+ta	O
+Sotsiaaldemokraatlikku	B-ORG
+Erakonda	I-ORG
+.	O
+
+Haridustee	O
+jätkus	O
+Tallinna	B-ORG
+Tehnikaülikoolis	I-ORG
+,	O
+kus	O
+ta	O
+1965.	O
+aastal	O
+sai	O
+mehaanikainseneri	O
+diplomi	O
+.	O
+
+Ingvild	B-PER
+Flugstad	I-PER
+Østberg	I-PER
+/	O
+Marit	B-PER
+Bjørgen	I-PER

@@ -1,0 +1,74 @@
+Hän	O
+toimi	O
+Yhdysvaltain	B-PER
+sisäministerinä	I-PER
+Rutherford	B-PER
+B.	I-PER
+Hayesin	I-PER
+kabinetissa	O
+vuosina	O
+1877–81	O
+.	O
+
+Abbotsford	B-LOC
+,	O
+Brittiläinen	B-LOC
+Kolumbia	I-LOC
+,	O
+Kanada	B-LOC
+
+Åbo	B-ORG
+Underrättelserin	I-ORG
+''	O
+kirjapainossa	O
+Turussa	B-LOC
+painettu	O
+lehti	O
+kaatui	O
+1930-luvun	O
+alun	O
+pulavuosiin	O
+.	O
+
+'	O
+''	O
+Helsingin	B-ORG
+Jalkapalloklubi	I-ORG
+''	O
+'	O
+
+Assamilla	O
+on	O
+kansainvälistä	O
+rajaa	O
+Bangladeshin	B-LOC
+ja	O
+Bhutanin	B-LOC
+kanssa	O
+.	O
+
+Elokuva	O
+tullaan	O
+kuvaamaan	O
+Leavesdenissä	O
+,	O
+Yhdistyneessä	B-LOC
+kuningaskunnassa	I-LOC
+.	O
+
+Musiikillisesti	O
+hänen	O
+sävellystensä	O
+esikuvina	O
+toimivat	O
+muun	O
+muassa	O
+Chuck	B-PER
+Berry	I-PER
+,	O
+Bo	B-PER
+Diddley	I-PER
+ja	O
+Little	B-PER
+Richard	I-PER
+.	O

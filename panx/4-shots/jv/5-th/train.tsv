@@ -1,0 +1,88 @@
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Kamerun	B-LOC
+(	O
+5	O
+%	O
+)	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+''	O
+'	O
+
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Mayu	B-PER
+Watanabe	I-PER
+(	O
+渡辺	O
+麻友	O
+)	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+===	O
+Maluku	B-LOC
+&	O
+Papua	B-LOC
+===	O
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC
+
+Kasor	O
+PF	O
+vs	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O

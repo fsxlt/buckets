@@ -1,0 +1,52 @@
+''	O
+'	O
+''	O
+'	O
+-	O
+Rosanna	B-PER
+Davison	I-PER
+
+Ủy	B-ORG
+ban	I-ORG
+Chữ	I-ORG
+thập	I-ORG
+đỏ	I-ORG
+quốc	I-ORG
+tế	I-ORG
+
+August	B-PER
+Wilhelm	I-PER
+của	I-PER
+Phổ	I-PER
+(	I-PER
+1722-1758	I-PER
+)	I-PER
+
+''	O
+''	O
+Viện	B-ORG
+Hàn	I-ORG
+lâm	I-ORG
+Khoa	I-ORG
+học	I-ORG
+và	I-ORG
+Công	I-ORG
+nghệ	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+.	O
+
+đổi	O
+Xã	B-LOC
+Mendota	I-LOC
+,	I-LOC
+Quận	I-LOC
+LaSalle	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+''	O
+Radermachera	B-LOC
+ramiflora	I-LOC
+''	O
+Steenis,1934	O

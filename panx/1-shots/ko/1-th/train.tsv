@@ -1,0 +1,22 @@
+넘겨주기	O
+긴키	B-ORG
+닛폰	I-ORG
+철도	I-ORG
+게이한나	I-ORG
+선	I-ORG
+
+오르한	B-PER
+1세	I-PER
+(	O
+''베이	O
+''	O
+)	O
+
+**	O
+춘계예제	O
+(	O
+春季例祭	O
+,	O
+5월	B-LOC
+31일	I-LOC
+)	O

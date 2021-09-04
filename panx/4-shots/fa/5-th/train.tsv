@@ -1,0 +1,74 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+استون	B-LOC
+سیتی،	I-LOC
+آیووا	I-LOC
+
+تغییرمسیر	O
+موزه	B-ORG
+یادبود	I-ORG
+هولوکاست	I-ORG
+
+تغییرمسیر	O
+سی.	B-PER
+کومار	I-PER
+ان.	I-PER
+پاتل	I-PER
+
+تغییرمسیر	O
+لئوناردو	B-PER
+خوزه	I-PER
+آپارسیدو	I-PER
+مورا	I-PER
+
+تغییرمسیر	O
+کی	B-PER
+فن	I-PER
+دایک	I-PER
+
+تغییر_مسیر	O
+انقلاب	B-ORG
+(	I-ORG
+مجموعه	I-ORG
+تلویزیونی	I-ORG
+)	I-ORG
+
+***	O
+زاغی	B-LOC
+سبز	I-LOC
+بورنئو	I-LOC
+,	O
+''Cissa	O
+jefferyi	O
+''	O
+
+تغییرمسیر	O
+مخیم	B-LOC
+عین	I-LOC
+الحلوة	I-LOC
+
+براکتون،	B-LOC
+ماساچوست	I-LOC
+و	O
+پلیموث،	B-LOC
+ماساچوست	I-LOC
+
+(	B-ORG
+داستان	I-ORG
+چیست	I-ORG
+)	I-ORG
+گل	I-ORG
+شیپوری؟	I-ORG
+''	O
+
+تغییرمسیر	O
+تیمو	B-PER
+ده	I-PER
+باکر	I-PER

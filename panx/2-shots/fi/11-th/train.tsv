@@ -1,0 +1,50 @@
+Mstislav	B-PER
+,	O
+Kiovan	B-LOC
+Venäjän	I-LOC
+ruhtinas	O
+
+The	B-ORG
+Flaming	I-ORG
+Sideburns	I-ORG
+
+–	O
+Emeli	B-PER
+Sandé	I-PER
+''	O
+'	O
+
+Mississauga	B-LOC
+,	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+
+Hänet	O
+löydettiin	O
+kuolleena	O
+Kalifornian	B-LOC
+Los	B-LOC
+Angelesin	I-LOC
+piirikunnassa	I-LOC
+sijainneen	O
+kotinsa	O
+uima-altaasta	O
+.	O
+
+Portugalilaista	B-LOC
+Vitória	B-ORG
+Setúbalia	I-ORG
+edustavan	O
+N'Diayen	O
+pelipaikka	O
+on	O
+puolustaja	O
+.	O
+
+Drea	B-PER
+de	I-PER
+Matteo	I-PER
+–	O
+Angie	B-PER
+Bolen	I-PER

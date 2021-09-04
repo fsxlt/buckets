@@ -1,0 +1,40 @@
+VI.	B-PER
+(	I-PER
+VII.	I-PER
+)	I-PER
+István	I-PER
+pápa	I-PER
+
+Vysoké	B-LOC
+Mýto	I-LOC
+,	O
+Csehország	B-LOC
+
+'	O
+''	O
+Újvidéki	B-ORG
+AC	I-ORG
+''	O
+'	O
+
+Phoenix	B-ORG
+Suns	I-ORG
+(	O
+7	O
+)	O
+
+|	O
+''	O
+Szverdlovszki	B-LOC
+terület	I-LOC
+''	O
+'	O
+
+Nathalie	B-PER
+Dechy	I-PER
+''	O
+(	O
+Harmadik	O
+kör	O
+)	O
+''	O

@@ -1,0 +1,36 @@
+'	O
+''	O
+Club	B-ORG
+Olimpia	I-ORG
+''	O
+'	O
+
+Simon	B-PER
+Cowell	I-PER
+,	O
+Randy	B-PER
+Jackson	I-PER
+ja	O
+Kara	B-PER
+DioGuardi	I-PER
+jatkoivat	O
+kaikki	O
+tuomareina	O
+ja	O
+Ellen	B-PER
+DeGeneres	I-PER
+korvasi	O
+Paula	B-PER
+Abdulin	I-PER
+neljäntenä	O
+tuomarina	O
+.	O
+
+Hän	O
+asuu	O
+nykyään	O
+Los	B-LOC
+Angelesissa	I-LOC
+,	O
+Kaliforniassa	B-LOC
+.	O

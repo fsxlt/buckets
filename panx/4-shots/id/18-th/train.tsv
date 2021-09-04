@@ -1,0 +1,79 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Charente-Maritime	I-LOC
+
+ALIH	O
+Pertamina	B-ORG
+(	I-ORG
+Persero	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Franz	B-PER
+I	I-PER
+,	I-PER
+Kaisar	I-PER
+Romawi	I-PER
+Suci	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Damon	B-PER
+Hill	I-PER
+''	O
+'	O
+
+ALIH	O
+Arzi	B-ORG
+Hukumat-e-Azad	I-ORG
+Hind	I-ORG
+
+Vietnam	B-PER
+Television	I-PER
+-	O
+Vietnam	B-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Indre	I-LOC
+
+The	B-ORG
+Law	I-ORG
+of	I-ORG
+Ueki	I-ORG
+''	O
+(	O
+2008-2009	O
+)	O
+
+Ivan	B-PER
+Tričkovski	I-PER
+(	O
+2010–2012	O
+)	O
+
+ALIH	O
+Savannah	B-ORG
+(	I-ORG
+kucing	I-ORG
+)	I-ORG
+
+Kabupaten	B-LOC
+Barru	I-LOC
+(	O
+10-08-2015	O
+)	O
+,	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Yvelines	I-LOC

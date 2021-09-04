@@ -1,0 +1,105 @@
+DOORVERWIJZING	O
+SNV	B-ORG
+Netherlands	I-ORG
+Development	I-ORG
+Organisation	I-ORG
+
+Eigendom	O
+van	O
+de	O
+Hudson	B-ORG
+'s	I-ORG
+Bay	I-ORG
+Company	I-ORG
+
+'	O
+''	O
+Chris	B-PER
+Evert	I-PER
+Betty	B-PER
+Stöve	I-PER
+''	O
+'	O
+
+is	O
+een	O
+van	O
+de	O
+23	B-LOC
+speciale	I-LOC
+wijken	I-LOC
+van	I-LOC
+Tokio	I-LOC
+.	O
+
+Shinyanga	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+,	O
+de	O
+hoofdstad	O
+van	O
+die	O
+regio	O
+
+'	O
+''	O
+Usain	B-PER
+Bolt	I-PER
+''	O
+'	O
+
+Als	O
+vicefractievoorzitter	O
+was	O
+hij	O
+de	O
+vertrouweling	O
+van	O
+Ed	B-PER
+Nijpels	I-PER
+.	O
+
+Sakurajima	B-ORG
+;	O
+prefectuur	B-LOC
+Kagoshima	I-LOC
+,	O
+Japan	B-LOC
+
+De	O
+nummers	O
+op	O
+het	O
+album	O
+waren	O
+oorspronkelijk	O
+geschreven	O
+voor	O
+Bee	B-ORG
+Thousand	I-ORG
+.	O
+
+The	B-ORG
+Black	I-ORG
+Eyed	I-ORG
+Peas	I-ORG
+-	O
+I	B-ORG
+got	I-ORG
+ta	I-ORG
+feeling	I-ORG
+''	O
+
+Épieds	B-LOC
+(	I-LOC
+Maine-et-Loire	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Gretha	B-PER
+Smit	I-PER
+''	O
+'	O

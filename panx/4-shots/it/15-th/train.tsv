@@ -1,0 +1,87 @@
+Università	B-ORG
+degli	I-ORG
+Studi	I-ORG
+di	I-ORG
+Modena	I-ORG
+e	I-ORG
+Reggio	I-ORG
+Emilia	I-ORG
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Natasha	B-PER
+Suri	I-PER
+
+Arcidiocesi	B-LOC
+di	I-LOC
+Milano	I-LOC
+
+'	O
+''	O
+Richard	B-PER
+Gasquet	I-PER
+(	O
+campione	O
+)	O
+
+American	B-ORG
+Horror	I-ORG
+Story	I-ORG
+''	O
+(	O
+17	O
+)	O
+
+Madeira	B-LOC
+(	I-LOC
+vino	I-LOC
+)	I-LOC
+
+Angelo	B-PER
+Mattea	I-PER
+(	O
+1ª-10ª	O
+)	O
+András	B-PER
+Kuttik	I-PER
+(	O
+11ª-30ª	O
+)	O
+
+Mahesh	B-PER
+Bhupathi	I-PER
+/	O
+Mark	B-PER
+Knowles	I-PER
+''	O
+(	O
+quarti	O
+di	O
+finale	O
+)	O
+
+Chiesa	B-ORG
+di	I-ORG
+San	I-ORG
+Carlo	I-ORG
+alle	I-ORG
+Quattro	I-ORG
+Fontane	I-ORG
+
+Pilot	B-ORG
+Pen	I-ORG
+Tennis	I-ORG
+,	O
+New	B-LOC
+Haven	I-LOC
+
+'	O
+''	O
+Isole	B-LOC
+Pitcairn	I-LOC
+''	O
+'	O
+''	O

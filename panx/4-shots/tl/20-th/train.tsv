@@ -1,0 +1,76 @@
+Mga	B-PER
+birong	I-PER
+“In	I-PER
+Soviet	I-PER
+Russia…”	I-PER
+
+Distritong	B-LOC
+Pambatas	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Kalinga	I-LOC
+
+Simbahang	B-ORG
+Ortodokso	I-ORG
+ng	I-ORG
+Silangan	I-ORG
+
+Juan	B-PER
+Maria	I-PER
+Vianney	I-PER
+
+Roberto	B-PER
+I	I-PER
+ng	I-PER
+Normandiya	I-PER
+
+''	O
+Marian	B-PER
+Rivera	I-PER
+''	O
+'	O
+
+ID	B-ORG
+;	I-ORG
+Peace	I-ORG
+B	I-ORG
+(	I-ORG
+awit	I-ORG
+)	I-ORG
+
+As	B-ORG
+Time	I-ORG
+Goes	I-ORG
+By	I-ORG
+
+Yúnnán	B-LOC
+(	O
+云南	O
+)	O
+
+Lungsod	B-LOC
+ng	I-LOC
+Florencia	I-LOC
+
+1976	O
+-	O
+Bucholz	O
+Galerie	O
+,	O
+Munich	B-LOC
+
+Carigara	B-LOC
+,	I-LOC
+Leyte	I-LOC
+(	O
+Cogon	O
+)	O
+
+Bundok	B-LOC
+ng	I-LOC
+Sinai	I-LOC
+
+Pagsubo	B-ORG
+ng	I-ORG
+bayag	I-ORG

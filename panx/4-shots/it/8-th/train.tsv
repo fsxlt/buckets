@@ -1,0 +1,119 @@
+La	B-ORG
+famiglia	I-ORG
+Bradford	I-ORG
+
+'	O
+''	O
+Suzuki	B-ORG
+''	O
+'	O
+
+'	O
+''	O
+Ivan	B-ORG
+Kolev	I-ORG
+''	O
+'	O
+
+Città	B-LOC
+di	I-LOC
+South	I-LOC
+Perth	I-LOC
+(	O
+South	B-LOC
+Perth	I-LOC
+)	O
+
+Ricky	B-PER
+Gervais	I-PER
+–	O
+Derek	B-ORG
+''	O
+
+RINVIA	O
+Alto	B-ORG
+commissariato	I-ORG
+delle	I-ORG
+Nazioni	I-ORG
+Unite	I-ORG
+per	I-ORG
+i	I-ORG
+rifugiati	I-ORG
+
+I	O
+Romani	B-LOC
+ebbero	O
+grandi	O
+modelli	O
+su	O
+cui	O
+basare	O
+le	O
+loro	O
+opere	O
+,	O
+come	O
+Erodoto	B-PER
+e	O
+Tucidide	B-PER
+.	O
+
+Burundi	B-LOC
+(	O
+odierno	O
+Burundi	B-LOC
+)	O
+
+'	O
+''	O
+Paul	B-PER
+Haarhuis	I-PER
+''	O
+'	O
+
+==	O
+Provincia	B-LOC
+di	I-LOC
+Barletta-Andria-Trani	I-LOC
+==	O
+
+Partito	B-ORG
+Socialista	I-ORG
+Democratico	I-ORG
+Italiano	I-ORG
+(	O
+PSDI	O
+)	O
+
+'	O
+''	O
+Andrej	B-PER
+Golubev	I-PER
+
+Dell'evento	O
+fu	O
+anche	O
+pubblicato	O
+il	O
+CD	B-ORG
+/	O
+DVD	B-ORG
+Family	B-LOC
+Values	I-LOC
+Tour	I-LOC
+2006	I-LOC
+''	O
+.	O
+
+Stati	B-LOC
+del	I-LOC
+Medio	I-LOC
+Atlantico	I-LOC
+
+'	O
+''	O
+Rik	B-PER
+Van	I-PER
+Steenbergen	I-PER
+''	O
+'	O

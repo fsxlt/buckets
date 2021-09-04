@@ -1,0 +1,31 @@
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Tatra	I-PER
+Poland	I-PER
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+miorița	I-ORG
+
+5	O
+/	O
+8	O
+Chen	B-PER
+Jin	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+gunung	I-ORG
+Entlebuch	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC

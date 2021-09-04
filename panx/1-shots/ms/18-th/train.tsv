@@ -1,0 +1,22 @@
+Dato	B-PER
+'	I-PER
+Sheila	I-PER
+Majid	I-PER
+,	O
+Jaclyn	B-PER
+Victor	I-PER
+,	O
+Karen	B-PER
+Kong	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Val-d'Oise	I-LOC
+
+Felda	B-ORG
+United	I-ORG
+(	O
+Tuan	O
+Rumah	O
+)	O

@@ -1,0 +1,109 @@
+Kuid	O
+asjad	O
+muutusid	O
+pärast	O
+Bütsantsi	B-ORG
+keisririigi	I-ORG
+langemist	I-ORG
+aastal	I-ORG
+1204	I-ORG
+.	O
+
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+on	O
+ta	O
+mänginud	O
+2	O
+mängu	O
+.	O
+
+Velikije	B-LOC
+Luki	I-LOC
+(	O
+''Великие	O
+Луки	O
+''	O
+)	O
+
+Indiana	B-ORG
+Ülikool	I-ORG
+(	I-ORG
+Bloomington	I-ORG
+)	I-ORG
+
+Mark	B-PER
+Webber	I-PER
+,	O
+katkestas	O
+36	O
+ringil	O
+
+Ta	O
+sündis	O
+ja	O
+kasvas	O
+Île-de-France'is	B-LOC
+.	O
+
+Hidalgo	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O
+
+aastal	O
+)	O
+,	O
+San	B-LOC
+Marino	I-LOC
+,	O
+(	O
+osales	O
+viimati	O
+2008	B-ORG
+.	O
+
+''	O
+Veepoliitika	B-ORG
+raamdirektiiv	I-ORG
+''	O
+'	O
+
+Hiina	B-LOC
+kohus	O
+mõistis	O
+inimõiguslasele	O
+Liu	B-PER
+Xiaobole	I-PER
+11-aastase	O
+vanglakaristuse	O
+.	O
+
+aastast	O
+on	O
+ta	O
+abielus	O
+Gruusia	B-LOC
+diplomaadi	O
+ja	O
+poliitiku	O
+Grigol	B-PER
+Vašadzega	I-PER
+Neil	O
+on	O
+kaks	O
+last	O
+.	O
+
+Witold	B-PER
+Lutosławski	I-PER
+(	O
+1913–1994	O
+)	O
+
+Mesa	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O

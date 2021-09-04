@@ -1,0 +1,40 @@
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+Powiat	B-LOC
+Puławy	I-LOC
+,	O
+Puławy	B-LOC
+
+(	O
+'	O
+''	O
+Tutugé	B-PER
+...	I-PER
+''	O
+'	O
+)	O

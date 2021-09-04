@@ -1,0 +1,90 @@
+New	B-ORG
+Yorgi	I-ORG
+moodsa	I-ORG
+kunsti	I-ORG
+muuseum	I-ORG
+
+Uueks	O
+esimeheks	O
+ja	O
+ühtlasi	O
+peaministriks	O
+sai	O
+Julia	B-PER
+Gillard	I-PER
+.	O
+
+Jeffersoni	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+Massachusettsi	B-ORG
+Tehnoloogiainstituudi	I-ORG
+Kresge	O
+auditoorium	O
+
+''	O
+'	O
+''	O
+Circus	B-ORG
+''	O
+'	O
+''	O
+,	O
+Lenny	B-PER
+Kravitzi	I-PER
+album	O
+
+Edgari	B-LOC
+maakond	I-LOC
+(	O
+kagus	O
+)	O
+
+Wellsi	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O
+
+Laulu	O
+on	O
+kirjutanud	O
+Liam	B-PER
+Gallagher	I-PER
+.	O
+
+Oma	O
+esimestel	O
+valitsusaastatel	O
+tugines	O
+ta	O
+valitsemisel	O
+oma	O
+nõunikele	O
+,	O
+näiteks	O
+ajaloolasele	O
+Francesco	B-PER
+Guicciardinile	I-PER
+.	O
+
+Soome	B-ORG
+Sotsiaaldemokraatlik	I-ORG
+Partei	I-ORG
+
+1917.	O
+aastast	O
+Peterburi	B-ORG
+Jaani	I-ORG
+kiriku	I-ORG
+joonistusõpetajaks	O
+.	O
+
+Jõgeva	B-LOC
+vald	I-LOC
+,	O
+Jõgeva	B-LOC
+maakond	I-LOC

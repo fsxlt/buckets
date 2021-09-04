@@ -1,0 +1,90 @@
+'	O
+''	O
+Horacio	B-PER
+de	I-PER
+la	I-PER
+Peña	I-PER
+''	O
+'	O
+
+Parigi	B-LOC
+,	O
+G.L.M.	O
+,	O
+coll	O
+.	O
+
+1966	B-ORG
+-	O
+Cazzie	B-PER
+Russell	I-PER
+;	O
+New	B-ORG
+York	I-ORG
+Knicks	I-ORG
+
+Pharrell	B-PER
+Williams	I-PER
+–	O
+Autore	O
+
+Lega	B-LOC
+Pro	I-LOC
+Prima	I-LOC
+Divisione	I-LOC
+2012-2013	I-LOC
+
+PDS]]	O
+,	O
+Democratici	B-ORG
+di	I-ORG
+Sinistra	I-ORG
+
+'	O
+''	O
+®	O
+''	O
+'	O
+-	O
+Derthona	B-ORG
+Football	I-ORG
+Club	I-ORG
+-	O
+Tortona	B-LOC
+(	O
+AL	B-LOC
+)	O
+
+El	B-ORG
+Dorado	I-ORG
+-	O
+edifico	O
+Università	B-ORG
+di	I-ORG
+Waseda	I-ORG
+,	O
+a	O
+Tokyo	B-LOC
+.	O
+
+Gravina	B-LOC
+in	I-LOC
+Puglia	I-LOC
+
+Margaret	B-PER
+Hoelzer	I-PER
+,	O
+Stati	B-LOC
+Uniti	I-LOC
+2:12.55	O
+'	O
+''	O
+-Q	O
+''	O
+'	O
+
+===	O
+Mare	B-LOC
+di	I-LOC
+Bering	I-LOC
+===	O

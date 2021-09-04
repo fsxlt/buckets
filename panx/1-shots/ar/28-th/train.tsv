@@ -1,0 +1,19 @@
+زينا	B-ORG
+:	I-ORG
+الأميرة	I-ORG
+المحاربة	I-ORG
+''	O
+
+برندان	B-PER
+سميث	I-PER
+(	I-PER
+قس	I-PER
+)	I-PER
+
+تحويل	O
+غل	B-LOC
+سفید	I-LOC
+(	I-LOC
+زاز	I-LOC
+الشرقي	I-LOC
+)	I-LOC

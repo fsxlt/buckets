@@ -1,0 +1,81 @@
+국립미술관	B-ORG
+(	I-ORG
+일본	I-ORG
+)	I-ORG
+
+안드레이	B-PER
+키릴렌코	I-PER
+(	O
+브루클린	B-ORG
+네츠	I-ORG
+)	O
+
+가와사키	B-LOC
+정	I-LOC
+(	I-LOC
+후쿠오카	I-LOC
+현	I-LOC
+)	I-LOC
+
+콘월리스	B-LOC
+섬	I-LOC
+(	I-LOC
+사우스셰틀랜드	I-LOC
+제도	I-LOC
+)	I-LOC
+
+하와이	B-LOC
+주	I-LOC
+마우이	B-LOC
+섬	I-LOC
+
+넘겨주기	O
+사인	B-PER
+(	I-PER
+후한	I-PER
+)	I-PER
+
+스테판	B-PER
+에드베리	I-PER
+(	O
+1	O
+)	O
+
+투모터	B-LOC
+좌기	I-LOC
+(	O
+土默特左旗	O
+)	O
+
+'	O
+''	O
+포스	B-ORG
+인디아	I-ORG
+''	O
+'	O
+
+김미숙	B-PER
+-	O
+소설가의	O
+아내	O
+역	O
+
+'	O
+''	O
+요제프	B-PER
+괴벨스	I-PER
+''	O
+'	O
+
+결승전에서	B-ORG
+바이에른	B-ORG
+뮌헨이	I-ORG
+보루시아	B-ORG
+도르트문트를	I-ORG
+2-1로	O
+이기고	O
+통산	O
+5번째	O
+우승을	O
+차지하였다	O
+.	O

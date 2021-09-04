@@ -1,0 +1,127 @@
+A	O
+rendezésre	O
+pályázott	O
+még	O
+Detroit	B-LOC
+,	O
+Buenos	B-LOC
+Aires	I-LOC
+és	O
+Lyon	B-LOC
+is	O
+.	O
+
+(	O
+A	O
+későbbi	O
+Tubular	B-ORG
+Bells	I-ORG
+III-mal	I-ORG
+együtt	O
+.	O
+
+'	O
+''	O
+Merítő	O
+''	O
+'	O
+,	O
+falu	O
+Romániában	B-LOC
+,	O
+Erdélyben	B-LOC
+,	O
+Fehér	B-LOC
+megyében	I-LOC
+.	O
+
+'	O
+''	O
+Jules	B-PER
+Cluzel	I-PER
+''	O
+'	O
+
+Megalkotói	O
+a	O
+Montgolfier	B-PER
+fivérek	I-PER
+voltak	O
+Franciaországban	B-LOC
+.	O
+
+Pozsgay	B-PER
+Imre	I-PER
+(	O
+Bács-Kiskun	B-LOC
+megyei	I-LOC
+területi	I-LOC
+lista	I-LOC
+)	O
+
+Denver	B-ORG
+Nuggets	I-ORG
+(	O
+8	O
+)	O
+
+2–7	O
+az	O
+SV	B-ORG
+Werder	I-ORG
+Bremen	I-ORG
+ellen	O
+(	O
+1999–2000	O
+)	O
+
+'	O
+''	O
+Real	B-ORG
+Sociedad	I-ORG
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Even-bitantaji	B-LOC
+nemzetiségi	I-LOC
+járás	I-LOC
+
+Továbbá	O
+kereskedelmi	O
+utak	O
+hálózták	O
+be	O
+,	O
+amelyeken	O
+keresztül	O
+Uruk	B-LOC
+,	O
+Ur	B-LOC
+és	O
+Babilon	B-LOC
+városába	O
+is	O
+el	O
+lehetett	O
+jutni	O
+.	O
+
+A	O
+csapástól	O
+összetört	O
+édesanyja	O
+,	O
+Mária	B-PER
+Karolina	I-PER
+királyné	I-PER
+élete	O
+végéig	O
+úgy	O
+tartotta	O
+,	O
+hogy	O
+valóban	O
+ez	O
+történt	O
+.	O

@@ -1,0 +1,127 @@
+OHJAUS	O
+Kongon	B-LOC
+demokraattinen	I-LOC
+tasavalta	I-LOC
+
+Tony	B-PER
+Virta	I-PER
+(	O
+Minnesota	B-ORG
+Wild	I-ORG
+2002	O
+)	O
+
+Hän	O
+on	O
+entisen	O
+Formula	B-ORG
+1-kuljettajan	I-ORG
+ja	O
+yhden	O
+GP-voiton	O
+saavuttaneen	O
+Jean	B-PER
+Alesin	I-PER
+poika	O
+.	O
+
+OHL-joukkue	B-ORG
+Kingston	B-ORG
+Frontenacs	I-ORG
+varasi	O
+hänet	O
+neljäntenä	O
+pelaajana	O
+kesällä	O
+2005	O
+.	O
+
+Uuno	B-PER
+Klami	I-PER
+,	O
+''Terhenniemi	O
+''	O
+Kalevala-sarjasta	O
+op	O
+.	O
+
+Hän	O
+esiintyi	O
+useissa	O
+elokuvissa	O
+yhdessä	O
+Charlie	B-PER
+Chaplinin	I-PER
+kanssa	O
+.	O
+
+Britannian	B-LOC
+ja	O
+Yhdysvaltojen	B-LOC
+valtion	O
+lainoja	O
+rahastolla	O
+oli	O
+noin	O
+9	O
+mrd	O
+€	O
+kumpaakin	O
+.	O
+
+Wings	B-ORG
+of	I-ORG
+a	I-ORG
+Butterfly	I-ORG
+
+Elokuva	O
+tullaan	O
+kuvaamaan	O
+Leavesdenissä	O
+,	O
+Yhdistyneessä	B-LOC
+kuningaskunnassa	I-LOC
+.	O
+
+Suurimman	O
+osan	O
+olemassaolostaaan	O
+se	O
+oli	O
+osa	O
+Liettuan	B-LOC
+suuriruhtinaskuntaa	I-LOC
+.	O
+
+Belisariuksen	O
+mukana	O
+oli	O
+myös	O
+hänen	O
+Bucellariuksensa	B-ORG
+''	O
+,	O
+ratsumiehiä	O
+,	O
+jotka	O
+kuuluivat	O
+komentajansa	O
+omaan	O
+talouteen	O
+.	O
+
+Szombathely	B-LOC
+oli	O
+olemassa	O
+jo	O
+Rooman	B-LOC
+valtakunnan	I-LOC
+aikaan	O
+,	O
+jolloin	O
+sen	O
+nimi	O
+oli	O
+''Savaria	O
+''	O
+.	O

@@ -1,0 +1,34 @@
+Linateose	O
+lavastas	O
+Gérard	B-PER
+Krawczyk	I-PER
+.	O
+
+Mortoni	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+Järve	B-LOC
+(	I-LOC
+Tallinn	I-LOC
+)	I-LOC
+
+Ta	O
+töötab	O
+Oxfordi	B-ORG
+Ülikoolis	I-ORG
+.	O
+
+Bertrand	B-PER
+Arthur	I-PER
+William	I-PER
+Russell	I-PER
+
+Erakond	B-ORG
+Eestimaa	I-ORG
+Rohelised	I-ORG
+(	O
+EER	O
+)	O

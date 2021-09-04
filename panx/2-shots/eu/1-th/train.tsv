@@ -1,0 +1,43 @@
+BIRZUZENDU	O
+Russell	B-PER
+Alan	I-PER
+Hulse	I-PER
+
+birzuzendu	O
+Inari	B-LOC
+(	I-LOC
+herria	I-LOC
+)	I-LOC
+
+Europar	B-ORG
+Batasunarekiko	I-ORG
+irteera	O
+.	O
+
+Europako	B-ORG
+Merkataritza	I-ORG
+Libreko	I-ORG
+Erkidegoa	I-ORG
+
+'	O
+''	O
+Jiquipilco	O
+''	O
+'	O
+Mexikoko	B-LOC
+udalerri	O
+bat	O
+da	O
+.	O
+
+Portland	B-LOC
+(	I-LOC
+Oregon	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Laurent	B-PER
+Jalabert	I-PER
+''	O
+'	O

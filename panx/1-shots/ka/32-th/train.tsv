@@ -1,0 +1,33 @@
+როდენის	B-ORG
+მუზეუმი	I-ORG
+(	I-ORG
+ფილადელფია	I-ORG
+)	I-ORG
+
+მდებარეობს	O
+ქვეყნის	O
+ჩრდილო-აღმოსავლეთ	B-LOC
+რეგიონში	I-LOC
+.	O
+
+Wish	B-ORG
+You	I-ORG
+Were	I-ORG
+Here	I-ORG
+(	O
+გილმორი	B-PER
+/	O
+უოტერსი	B-PER
+)	O
+–	O
+4:54	O
+
+რეი	B-PER
+რიარდონი	I-PER
+'	O
+''	O
+27:16	O
+''	O
+'	O
+ალექს	B-PER
+ჰიგინსი	I-PER

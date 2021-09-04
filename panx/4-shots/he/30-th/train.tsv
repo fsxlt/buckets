@@ -1,0 +1,116 @@
+חצור	B-LOC
+הגלילית	I-LOC
+-	O
+עין	B-LOC
+זיוון	I-LOC
+
+הפניה	O
+שלום	B-PER
+דובער	I-PER
+שניאורסון	I-PER
+
+לעתים	O
+פרטים	O
+מזנים	O
+כאלה	O
+המוחזקים	O
+בשביה	O
+מוחזרים	B-ORG
+אל	I-ORG
+הטבע	I-ORG
+.	O
+
+רוב	O
+נולד	O
+לונדון	B-LOC
+גדל	O
+אדינבורו	B-LOC
+והתחנך	O
+ב-	O
+''	O
+Royal	O
+High	O
+School	O
+''	O
+בעיר	O
+.	O
+
+השר	O
+לשעבר	O
+צחי	B-PER
+הנגבי	I-PER
+
+*1995	O
+–	O
+Something	B-ORG
+To	I-ORG
+Listen	I-ORG
+To	I-ORG
+
+לאחר	O
+שלושה	O
+חודשי	O
+אימונים	O
+,	O
+הגיעה	O
+למסקנה	O
+שהיא	O
+אינה	O
+טובה	O
+מספיק	O
+,	O
+והחליטה	O
+ללמוד	O
+אוניברסיטת	B-ORG
+סטנפורד	I-ORG
+.	O
+
+הפניה	O
+הוקון	B-PER
+השביעי	I-PER
+,	I-PER
+מלך	I-PER
+נורווגיה	I-PER
+
+ממערב	O
+מצפון	O
+ומדרום	O
+לקיבוץ	O
+בית	B-LOC
+קשת	I-LOC
+.	O
+
+הפניה	O
+בניין	B-ORG
+עיריית	I-ORG
+מילווקי	I-ORG
+
+הוא	O
+נעצר	O
+בידי	O
+סוכן	B-PER
+ארצות	I-PER
+הברית	I-PER
+,	O
+שדחף	O
+את	O
+קילגרייב	O
+מהרחפת	O
+ופצע	O
+אותו	O
+.	O
+
+בנעוריה	O
+למדה	O
+בקיבוץ	O
+עין	B-LOC
+החורש	I-LOC
+.	O
+
+אריה	B-LOC
+אמריקני	I-LOC
+(	O
+Panthera	O
+leo	O
+atrox	O
+)	O

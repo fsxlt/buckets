@@ -1,0 +1,28 @@
+Naté	O
+lelana	O
+dhateng	O
+Amsterdam	B-LOC
+lan	O
+Paris	B-LOC
+(	O
+1950-1952	O
+)	O
+.	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+Klinika	O
+''Famila	O
+''	O
+impor	O
+saka	O
+SCTV	B-ORG

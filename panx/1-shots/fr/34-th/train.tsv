@@ -1,0 +1,16 @@
+Félix	B-PER
+Vicq	I-PER
+d'Azyr	I-PER
+
+REDIRECTION	O
+Alcudia	B-LOC
+de	I-LOC
+Veo	I-LOC
+
+***	O
+Les	B-ORG
+Boloss	I-ORG
+:	I-ORG
+Loser	I-ORG
+attitude	I-ORG
+''	O

@@ -1,0 +1,35 @@
+ALIH	O
+Max	B-PER
+Weber	I-PER
+(	I-PER
+politikus	I-PER
+)	I-PER
+
+Republik	B-LOC
+Turki	I-LOC
+Siprus	I-LOC
+Utara	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Savoie	I-LOC
+
+ALIH	O
+Semen	B-ORG
+Padang	I-ORG
+(	I-ORG
+perusahaan	I-ORG
+)	I-ORG
+
+``	O
+Ponytail	B-ORG
+to	I-ORG
+Shushu	I-ORG
+''	O
+
+alih	O
+Daniel	B-PER
+D.	I-PER
+Tompkins	I-PER

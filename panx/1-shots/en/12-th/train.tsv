@@ -1,0 +1,18 @@
+2000	O
+:	O
+Mateen	B-PER
+Cleaves	I-PER
+,	O
+Morris	B-PER
+Peterson	I-PER
+
+Trójka	B-LOC
+,	I-LOC
+Greater	I-LOC
+Poland	I-LOC
+Voivodeship	I-LOC
+
+''	O
+Brooklyn	B-ORG
+Nine-Nine	I-ORG
+''	O

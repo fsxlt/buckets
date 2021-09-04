@@ -1,0 +1,16 @@
+Anderton	B-LOC
+with	I-LOC
+Marbury	I-LOC
+
+U.S.	B-ORG
+Route	I-ORG
+41	I-ORG
+in	I-ORG
+Illinois	I-ORG
+
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O

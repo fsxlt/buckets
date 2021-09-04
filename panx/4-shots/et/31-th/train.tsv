@@ -1,0 +1,105 @@
+Piirneb	O
+kagus	O
+Tveri	B-LOC
+oblastiga	I-LOC
+.	O
+
+Charlize	B-PER
+Theron	I-PER
+,	O
+filminäitleja	O
+ja	O
+modell	O
+(	O
+1975–	O
+)	O
+
+Juhan	B-PER
+(	I-PER
+Johann	I-PER
+)	I-PER
+Kukk	I-PER
+(	O
+21	O
+.	O
+
+The	B-ORG
+Tide	I-ORG
+Is	I-ORG
+High	I-ORG
+
+Mässas	O
+Saksa-Rooma	B-PER
+keiser	I-PER
+Leopold	B-PER
+I	I-PER
+vastu	O
+
+Fannini	B-LOC
+maakond	I-LOC
+(	O
+kirdes	O
+)	O
+
+Juan	B-PER
+Pablo	I-PER
+Montoya	I-PER
+
+On	O
+arvatud	O
+,	O
+et	O
+sellised	O
+arvutuslauad	O
+kasutasid	O
+Fibonacci	B-ORG
+arve	I-ORG
+,	O
+et	O
+vähendada	O
+igale	O
+väljale	O
+vajalike	O
+terade	O
+arvu	O
+.	O
+
+Ta	O
+sündis	O
+Düsseldorfi	B-LOC
+lähedal	O
+Sermis	O
+.	O
+
+Stanley	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+ja	O
+läänes	O
+)	O
+
+''	O
+Eesti	B-ORG
+tippmodell	I-ORG
+''	O
+
+Oli	O
+eeskätt	O
+1990.	O
+aastatel	O
+Eesti	B-ORG
+koondise	I-ORG
+baasmeeskond	O
+,	O
+mis	O
+viisid	O
+lahkarvamusteni	O
+teiste	O
+jalgpalliklubidega	O
+.	O
+
+St	B-LOC
+Michael	I-LOC
+'s	I-LOC
+Mount	I-LOC

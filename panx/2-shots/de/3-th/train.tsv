@@ -1,0 +1,59 @@
+WEITERLEITUNG	O
+World	B-ORG
+Federation	I-ORG
+of	I-ORG
+International	I-ORG
+Music	I-ORG
+Competitions	I-ORG
+
+'	O
+''	O
+Guy	B-PER
+Forget	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Osmanisches	B-LOC
+Reich	I-LOC
+''	O
+'	O
+
+Jahrhunderts	O
+wurde	O
+es	O
+zum	O
+Riegelhaus	B-ORG
+umgebaut	O
+.	O
+
+In	O
+seiner	O
+Amtszeit	O
+initiierte	O
+er	O
+den	O
+Neubau	O
+des	O
+Wormser	B-ORG
+Doms	I-ORG
+.	O
+
+Jussy	B-LOC
+(	I-LOC
+Moselle	I-LOC
+)	I-LOC
+
+Er	O
+ersetzte	O
+damit	O
+Gaston	B-PER
+Doumergue	I-PER
+,	O
+der	O
+zum	O
+Präsidenten	O
+geworden	O
+war	O
+.	O

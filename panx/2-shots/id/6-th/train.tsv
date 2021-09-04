@@ -1,0 +1,30 @@
+ALIH	O
+Paus	B-PER
+Innosensius	I-PER
+V	I-PER
+
+ALIH	O
+Celurut	B-LOC
+air	I-LOC
+sumatera	I-LOC
+
+'	O
+''	O
+Waitakere	B-ORG
+United	I-ORG
+''	O
+Selandia	B-LOC
+Baru	I-LOC
+
+ALIH	O
+Constanza	B-PER
+dari	I-PER
+Kastilia	I-PER
+(	I-PER
+1354-1394	I-PER
+)	I-PER
+
+ALIH	O
+Bali	B-ORG
+Persegi	I-ORG
+FC	I-ORG

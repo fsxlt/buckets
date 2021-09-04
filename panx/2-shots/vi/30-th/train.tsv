@@ -1,0 +1,31 @@
+Maroon	B-ORG
+5	I-ORG
+và	O
+Christina	B-PER
+Aguilera	I-PER
+
+Tống	B-PER
+Tương	I-PER
+Công	I-PER
+mắc	O
+lừa	O
+nước	O
+Sở	O
+
+đổi	O
+Hút	B-LOC
+mật	I-LOC
+lưng	I-LOC
+tím	I-LOC
+miền	I-LOC
+tây	I-LOC
+
+MTV	B-ORG
+Đông	I-ORG
+Nam	I-ORG
+Á	I-ORG
+
+''	O
+Xyroptila	B-LOC
+uluru	I-LOC
+''	O

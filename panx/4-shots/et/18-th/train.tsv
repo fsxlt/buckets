@@ -1,0 +1,114 @@
+Neid	O
+madusid	O
+võib	O
+kohata	O
+Kagu-	B-LOC
+,	O
+Ida-	B-LOC
+ja	O
+Lõuna-Aasias	B-LOC
+.	O
+
+Jasperi	B-LOC
+maakond	I-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC
+
+Jupp	B-PER
+Heynckes	I-PER
+(	O
+1979–87	O
+)	O
+
+1958.	B-ORG
+aasta	I-ORG
+jalgpalli	I-ORG
+maailmameistrivõistlused	I-ORG
+
+Khyber	B-LOC
+Pakhtunkhwa	I-LOC
+provints	I-LOC
+(	O
+2	O
+)	O
+
+Linnaku	O
+kõrval	O
+asub	O
+Kaitseväe	B-ORG
+keskpolügoon	I-ORG
+.	O
+
+Päästemeeskonna	O
+ettevalmistuse	O
+,	O
+varustuse	O
+ja	O
+valmisoleku	O
+tagamise	O
+eest	O
+vastutab	O
+Päästeamet	B-ORG
+.	O
+
+``	O
+Karjase	O
+laul	O
+''	O
+(	O
+E.	B-PER
+Tubin	I-PER
+)	O
+
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+on	O
+mänginud	O
+2	O
+mängu	O
+.	O
+
+Møre	B-LOC
+og	I-LOC
+Romsdal	I-LOC
+;	O
+Oppland	B-LOC
+
+Täiendavad	O
+kärpemeetmed	O
+olid	O
+eeltingimuseks	O
+Euroopa	B-ORG
+Liidult	I-ORG
+ja	O
+Rahvusvaheliselt	B-ORG
+Valuutafondilt	I-ORG
+jätkuva	O
+finantsabi	O
+saamiseks	O
+.	O
+
+Hiina	B-LOC
+Vabariigi	I-LOC
+presidendina	O
+astus	O
+ametisse	O
+Cai	B-PER
+Yingwen	I-PER
+.	O
+
+*2003	O
+``	O
+Miks	O
+mitte	O
+abielluda	O
+''	O
+(	O
+Anton	B-PER
+Tšehhovi	I-PER
+ainetel	O
+,	O
+EHI	O
+üliõpilastega	O
+)	O

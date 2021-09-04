@@ -1,0 +1,35 @@
+đổi	O
+Vương	B-ORG
+cung	I-ORG
+thánh	I-ORG
+đường	I-ORG
+Thánh	I-ORG
+Denis	I-ORG
+
+đổi	O
+Dòng	B-ORG
+Anh	I-ORG
+Em	I-ORG
+Giảng	I-ORG
+Thuyết	I-ORG
+
+đổi	O
+Lý	B-PER
+Hi	I-PER
+Liệt	I-PER
+
+Cảnh	B-LOC
+(	I-LOC
+huyện	I-LOC
+)	I-LOC
+
+Lee	B-PER
+Hyori	I-PER
+đệm	O
+bởi	O
+Ceejay	O
+
+Vriesea	B-LOC
+lidicensis	I-LOC
+''	O
+Reitz	O

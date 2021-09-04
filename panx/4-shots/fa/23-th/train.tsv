@@ -1,0 +1,70 @@
+گدایی	B-LOC
+(	I-LOC
+ماکو	I-LOC
+)	I-LOC
+نام	O
+یک	O
+روستا	O
+.	O
+
+تغییر_مسیر	O
+لیسا	B-PER
+هارتمن	I-PER
+بلک	I-PER
+
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+برزیل	I-ORG
+
+تغییرمسیر	O
+اشپیتال	B-LOC
+آن	I-LOC
+در	I-LOC
+درائو	I-LOC
+
+تغییرمسیر	O
+حسین‌آباد	B-LOC
+(	I-LOC
+چایپاره	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+بهاراب	B-LOC
+(	I-LOC
+تویسرکان	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+جنیفر	B-PER
+لارنس	I-PER
+در	O
+نقش	O
+ریون	B-PER
+دارخولمه	I-PER
+/	I-PER
+میستیک	I-PER
+
+تغییرمسیر	O
+آمیگا	B-PER
+۵۰۰	I-PER
+پلاس	I-PER
+
+رابرت	B-PER
+فلوید	I-PER
+–	O
+ان‌پی	B-ORG
+کاملness	I-ORG
+
+تغییرمسیر	O
+قطعنامه	B-ORG
+۹۰۰	I-ORG
+شورای	I-ORG
+امنیت	I-ORG

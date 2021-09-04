@@ -1,0 +1,19 @@
+تحويل	O
+دالة	B-ORG
+ذات	I-ORG
+صبغة	I-ORG
+جمع	I-ORG
+
+'	O
+''	O
+كلير	B-PER
+ريدفيلد	I-PER
+''	O
+'	O
+
+تحويل	O
+مقاطعة	B-LOC
+جاكسون	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC

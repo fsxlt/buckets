@@ -1,0 +1,94 @@
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[5]	O
+''	O
+'	O
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+Deheweke	O
+wis	O
+kaping	O
+112	O
+mbela	O
+timnas	O
+,	O
+iku	O
+ndadekake	O
+dheweke	O
+urutan	O
+nomer	O
+telu	O
+wong	O
+kang	O
+paling	O
+akeh	O
+mbela	O
+timnas	O
+,	O
+nomer	O
+siji	O
+Paolo	B-PER
+Maldini	I-PER
+lan	O
+nomer	O
+loro	O
+Fabio	B-PER
+Cannavaro	I-PER
+.	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

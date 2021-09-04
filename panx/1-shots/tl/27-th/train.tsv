@@ -1,0 +1,33 @@
+Fabian	B-PER
+de	I-PER
+la	I-PER
+Rosa	I-PER
+
+Unang	B-ORG
+Linya	I-ORG
+ng	I-ORG
+Sistema	I-ORG
+ng	I-ORG
+Magaan	I-ORG
+na	I-ORG
+Riles	I-ORG
+Panlulan	I-ORG
+ng	I-ORG
+Maynila	I-ORG
+
+Bibi	B-LOC
+ng	I-LOC
+Lawa	I-LOC
+
+**	O
+Mihama	B-LOC
+-	O
+Hidaka	B-LOC
+-	O
+Yura	B-LOC
+-	O
+Hidakagawa	B-LOC
+-	O
+Inami	B-LOC
+-	O
+Minabe	B-LOC

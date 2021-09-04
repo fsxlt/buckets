@@ -1,0 +1,113 @@
+Darvas	B-PER
+József	I-PER
+(	O
+1912–1973	O
+)	O
+író	O
+,	O
+politikus	O
+[34	O
+/	O
+2-1-23]	O
+
+Később	O
+kiváltására	O
+épült	O
+a	O
+Bologna–Firenze	B-ORG
+nagysebességű	I-ORG
+vasútvonal	I-ORG
+.	O
+
+.dm	B-ORG
+–	O
+Dominikai	B-LOC
+Közösség	I-LOC
+
+'	O
+''	O
+Sandro	B-PER
+Cortese	I-PER
+''	O
+'	O
+
+Egyes	O
+munkái	O
+magántulajdonban	O
+vannak	O
+vagy	O
+elpusztultak	O
+,	O
+több	O
+művét	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Galéria	I-ORG
+őrzi	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Ausztrália	B-LOC
+(	I-LOC
+ország	I-LOC
+)	I-LOC
+
+Mária	B-PER
+Karolina	I-PER
+főhercegnő	I-PER
+,	O
+Mária	B-PER
+Terézia	I-PER
+lánya	O
+
+*A	O
+háziipar	O
+szakszókincse	O
+az	O
+Ipoly	B-LOC
+mentén	O
+.	O
+
+egykori	O
+Szerbia	B-ORG
+és	I-ORG
+Montenegró	I-ORG
+hadereje	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Mesa	B-LOC
+(	I-LOC
+város	I-LOC
+)	I-LOC
+
+Sant	B-LOC
+Martí	I-LOC
+de	I-LOC
+Llémena	I-LOC
+-	O
+459	O
+
+Osiky	B-LOC
+(	O
+falu	O
+,	O
+Blansko	O
+)	O
+
+A	O
+borító	O
+feltűnő	O
+hasonlóságot	O
+mutat	O
+John	B-PER
+Lennon	I-PER
+Some	B-ORG
+Time	I-ORG
+in	I-ORG
+New	I-ORG
+York	I-ORG
+City	I-ORG
+''	O
+lemezével	O
+.	O

@@ -1,0 +1,36 @@
+Konduktor	B-ORG
+ng	I-ORG
+musika	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Ho	I-LOC
+Chi	I-LOC
+Minh	I-LOC
+
+Juan	B-PER
+Maria	I-PER
+Vianney	I-PER
+
+John	B-PER
+C.	I-PER
+Swallow	I-PER
+
+Mirasol	B-LOC
+(	I-LOC
+Helianthus	I-LOC
+)	I-LOC
+
+**	O
+Port-au-Prince	B-LOC
+(	O
+Embahaday	O
+)	O
+
+''	O
+Vilma	B-ORG
+!	I-ORG
+''	O
+(	O
+1986–1995	O
+)	O

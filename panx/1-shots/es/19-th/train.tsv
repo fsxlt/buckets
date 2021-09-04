@@ -1,0 +1,22 @@
+Le	B-LOC
+Pout	I-LOC
+(	O
+33335	O
+)	O
+
+SSR	B-ORG
+(	O
+11,11	O
+%	O
+)	O
+
+Estadio	B-ORG
+Olímpico	I-ORG
+Atahualpa	I-ORG
+,	O
+Ecuador	B-LOC
+
+REDIRECCIÓN	O
+Áedán	B-PER
+mac	I-PER
+Gabráin	I-PER

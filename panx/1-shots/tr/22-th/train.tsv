@@ -1,0 +1,21 @@
+1986	B-ORG
+FIFA	I-ORG
+Dünya	I-ORG
+Kupası	I-ORG
+elemeleri	I-ORG
+(	I-ORG
+UEFA	I-ORG
+)	I-ORG
+
+Didier	B-PER
+Drogba	I-PER
+(	O
+Olympique	B-ORG
+de	I-ORG
+Marseille	I-ORG
+)	O
+
+YÖNLENDİR	O
+Kırmızı	B-LOC
+boynuzlu	I-LOC
+gelincik	I-LOC

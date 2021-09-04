@@ -1,0 +1,55 @@
+Dies	O
+geschieht	O
+entweder	O
+durch	O
+die	O
+Eröffnung	O
+neuer	O
+Franchises	B-ORG
+oder	O
+durch	O
+die	O
+Aufnahme	O
+von	O
+Mannschaften	O
+aus	O
+anderen	O
+Ligen	B-ORG
+.	O
+
+Antonius	B-PER
+von	I-PER
+Padua	I-PER
+geweiht	O
+.	O
+
+Sie	O
+liegt	O
+an	O
+der	O
+Westküste	O
+,	O
+ungefähr	O
+sieben	O
+Kilometer	O
+südwestlich	O
+von	O
+Visby	B-LOC
+.	O
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Merseburg	I-LOC
+''	O
+'	O
+
+Digitalisat	O
+des	O
+ersten	O
+Bandes	O
+an	O
+der	O
+Universitätsbibliothek	B-ORG
+Heidelberg	I-ORG

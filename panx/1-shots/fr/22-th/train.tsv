@@ -1,0 +1,22 @@
+**	O
+''22	B-LOC
+en	I-LOC
+fa	I-LOC
+majeur	I-LOC
+''	I-LOC
+,	O
+op	O
+.	O
+
+**	O
+1	B-ORG
+corps	I-ORG
+(	I-ORG
+États-Unis	I-ORG
+)	I-ORG
+
+Franck	B-PER
+Dubosc	I-PER
+et	O
+Marina	B-PER
+Foïs	I-PER

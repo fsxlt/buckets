@@ -1,0 +1,39 @@
+De	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+door	O
+Francis	B-PER
+Walker	I-PER
+.	O
+
+Anouk	B-PER
+Dekker	I-PER
+(	O
+FC	B-ORG
+Twente	I-ORG
+)	O
+
+DOORVERWIJZING	O
+FIM	B-ORG
+MotoGP	I-ORG
+Rookies	I-ORG
+Cup	I-ORG
+
+Drăgănești	B-LOC
+(	I-LOC
+Neamț	I-LOC
+)	I-LOC
+
+Rio	B-LOC
+Bonito	I-LOC
+do	I-LOC
+Iguaçu	I-LOC

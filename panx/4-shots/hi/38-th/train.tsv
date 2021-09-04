@@ -1,0 +1,94 @@
+शम्मी	B-PER
+कपूर	I-PER
+,	O
+हेमा	B-PER
+मालिनी	I-PER
+,	O
+राजेश	B-PER
+खन्ना	I-PER
+
+संयुक्त	B-ORG
+राज्य	I-ORG
+ओलम्पिक	I-ORG
+समिति	I-ORG
+
+अनुप्रेषित	O
+ससुराल	B-ORG
+गेंदा	I-ORG
+फुल	I-ORG
+
+सेंट	B-LOC
+पॉल	I-LOC
+,	I-LOC
+मिनेसोटा	I-LOC
+
+ग्रेग	B-PER
+रुसेदस्की	I-PER
+ने	O
+फेलिक्स	B-PER
+मैनटिला	I-PER
+को	O
+6-7	O
+,	O
+6-4	O
+,	O
+6-4	O
+से	O
+हराया।	O
+
+संयुक्त	B-LOC
+अरब	I-LOC
+अमीरात	I-LOC
+
+भारतीय	B-ORG
+सैन्य	I-ORG
+अकादमी	I-ORG
+
+अक्षय	B-PER
+कुमार	I-PER
+,	O
+सिद्धार्थ	B-PER
+मल्होत्रा	I-PER
+,	O
+जैकलिन	B-PER
+फर्नांडीस	I-PER
+
+पुनर्प्रेषित	O
+शाहदरा	B-LOC
+(	I-LOC
+दिल्ली	I-LOC
+)	I-LOC
+
+'	O
+''	O
+पेशमेर्गा	O
+''	O
+'	O
+इराक़ी	B-LOC
+कुर्दिस्तान	B-LOC
+के	O
+सैन्य	O
+बलों	O
+को	O
+कहते	O
+हैं।	O
+
+अनुप्रेषित	O
+अफ़्रीका	B-LOC
+की	I-LOC
+अर्थव्यवस्था	I-LOC
+
+भारतीय	B-ORG
+कम्युनिस्ट	I-ORG
+पार्टी	I-ORG
+(	I-ORG
+मार्क्सवादी	I-ORG
+)	I-ORG
+
+पुनर्प्रेषित	O
+ऐन	B-PER
+,	I-PER
+ग्रेट	I-PER
+ब्रिटेन	I-PER
+की	I-PER
+महारानी	I-PER

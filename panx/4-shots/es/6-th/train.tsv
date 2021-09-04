@@ -1,0 +1,86 @@
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Liga	B-ORG
+Mexicana	I-ORG
+de	I-ORG
+Béisbol	I-ORG
+.	O
+
+REDIRECCIÓN	O
+Manuel	B-PER
+de	I-PER
+Jesús	I-PER
+Troncoso	I-PER
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+White	I-LOC
+River	I-LOC
+(	I-LOC
+Míchigan	I-LOC
+)	I-LOC
+
+Stadion	B-ORG
+u	I-ORG
+Nisy	I-ORG
+(	O
+'	O
+''	O
+Liberec	B-LOC
+''	O
+'	O
+)	O
+
+Madame	B-PER
+de	I-PER
+Sévigné	I-PER
+
+San	B-LOC
+José	I-LOC
+El	I-LOC
+Idolo	I-LOC
+
+Félix	B-PER
+Bracquemond	I-PER
+(	O
+4	O
+)	O
+
+'	O
+''	O
+Virginia	B-LOC
+Occidental	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+FC	B-ORG
+Winterthur	I-ORG
+''	O
+'	O
+
+Museo	B-ORG
+de	I-ORG
+Escultura	I-ORG
+al	I-ORG
+Aire	I-ORG
+Libre	I-ORG
+de	I-ORG
+Alcalá	I-ORG
+de	I-ORG
+Henares	I-ORG
+
+REDIRECCIÓN	O
+Antonio	B-PER
+I	I-PER
+de	I-PER
+Mónaco	I-PER

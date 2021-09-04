@@ -1,0 +1,16 @@
+ALIH	O
+Barnsley	B-ORG
+F.C	I-ORG
+.	I-ORG
+
+Lee	B-PER
+Seung-gi	I-PER
+,	O
+Park	B-PER
+Shin-hye	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aude	I-LOC

@@ -1,0 +1,17 @@
+Qualcomm	B-ORG
+Stadium	I-ORG
+(	O
+2	O
+)	O
+
+Situa-se	O
+na	O
+Beira	B-LOC
+Baixa	I-LOC
+.	O
+
+Ray	B-PER
+(	I-PER
+DC	I-PER
+Comics	I-PER
+)	I-PER

@@ -1,0 +1,34 @@
+Sébastien	B-PER
+Le	I-PER
+Toux	I-PER
+
+JetBlue	B-ORG
+Airways	I-ORG
+/	O
+US	B-ORG
+Airways	I-ORG
+
+Vseslav	B-PER
+de	I-PER
+Pólotsk	I-PER
+
+REDIRECCIÓN	O
+Palau	B-LOC
+de	I-LOC
+Santa	I-LOC
+Eulalia	I-LOC
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+Crooked	I-LOC
+Creek	I-LOC
+(	I-LOC
+Minnesota	I-LOC
+)	I-LOC
+
+Brescia	B-ORG
+Calcio	I-ORG
+(	O
+cedido	O
+)	O

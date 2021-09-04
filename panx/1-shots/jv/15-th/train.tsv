@@ -1,0 +1,35 @@
+Banjur	O
+rekor	O
+iku	O
+direbut	O
+déning	O
+Thierry	B-PER
+Henry	I-PER
+.	O
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Honda	B-ORG
+-	O
+namung	O
+lumampah	O
+ing	O
+Jepang	B-LOC
+.	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Jawa	B-LOC
+/	O
+bagéan	O
+saking	O
+Indonésia	B-LOC

@@ -1,0 +1,50 @@
+''	O
+Krásno	B-LOC
+nad	I-LOC
+Kysucou	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Felipe	B-PER
+Massa	I-PER
+''	O
+'	O
+
+Chinavita	B-LOC
+•	O
+Garagoa	B-LOC
+•	O
+Macanal	B-LOC
+•	O
+Pachavita	B-LOC
+•	O
+San	B-LOC
+Luis	I-LOC
+de	I-LOC
+Gaceno	I-LOC
+•	O
+Santa	B-LOC
+María	I-LOC
+
+Romance	B-ORG
+,	I-ORG
+Irane	I-ORG
+(	O
+ロマンス、イラネ	O
+)	O
+
+'	O
+''	O
+Steven	B-PER
+Ma	I-PER
+''	O
+'	O
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-23	I-ORG
+Singapura	I-ORG

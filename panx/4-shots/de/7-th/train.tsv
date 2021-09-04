@@ -1,0 +1,127 @@
+For	B-ORG
+the	I-ORG
+Fallen	I-ORG
+Dreams	I-ORG
+
+Es	O
+besteht	O
+aus	O
+sieben	O
+Kantonen	B-LOC
+und	O
+61	O
+Gemeinden	O
+.	O
+
+Sie	O
+werden	O
+der	O
+Schule	O
+des	O
+Pietro	B-PER
+Cavallini	I-PER
+zugeschrieben	O
+.	O
+
+Ernst	B-PER
+Karl	I-PER
+Friedrich	I-PER
+Wunderlich	I-PER
+
+Joseph	B-PER
+Wattmann	I-PER
+von	I-PER
+Maëlcamp-Beaulieu	I-PER
+
+Dann	O
+wurde	O
+die	O
+Hauptstadt	O
+nach	O
+Little	B-LOC
+Rock	I-LOC
+verlegt	O
+.	O
+
+**	O
+02594	O
+'	O
+''	O
+Dülmen	B-LOC
+''	O
+'	O
+
+Langen	B-LOC
+(	I-LOC
+Emsland	I-LOC
+)	I-LOC
+
+Das	O
+Stück	O
+wurde	O
+in	O
+die	O
+Rock	B-ORG
+and	I-ORG
+Roll	I-ORG
+Hall	I-ORG
+of	I-ORG
+Fame	I-ORG
+aufgenommen	O
+.	O
+
+'	O
+''	O
+Iberien	B-LOC
+(	I-LOC
+Kartlien	I-LOC
+)	I-LOC
+''	O
+'	O
+
+Bei	O
+der	O
+Weltmeisterschaft	B-ORG
+2002	I-ORG
+war	O
+er	O
+Stammspieler	O
+in	O
+der	O
+irischen	B-ORG
+Nationalmannschaft	I-ORG
+.	O
+
+'	O
+''	O
+SSV	B-ORG
+Jahn	I-ORG
+Regensburg	I-ORG
+''	O
+'	O
+
+Jahrhunderts	O
+setzen	O
+lebhafte	O
+Anstrengungen	O
+zur	O
+Modernisierung	O
+des	O
+Instrumententypus	O
+ein	O
+,	O
+schwerpunktmäßig	O
+im	O
+Salzburger	B-LOC
+Raum	I-LOC
+und	O
+in	O
+Mittenwald	B-LOC
+.	O
+
+'	O
+''	O
+Pi	B-PER
+Hongyan	I-PER
+''	O
+'	O

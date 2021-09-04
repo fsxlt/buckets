@@ -1,0 +1,25 @@
+YÖNLENDİRME	O
+Port	B-LOC
+Louis	I-LOC
+Bölgesi	I-LOC
+(	I-LOC
+Mauritius	I-LOC
+)	I-LOC
+
+Steve	B-PER
+Nash	I-PER
+(	O
+6	O
+)	O
+
+``	O
+Ca	B-ORG
+n't	I-ORG
+Stop	I-ORG
+This	I-ORG
+Thing	I-ORG
+We	I-ORG
+Started	I-ORG
+''	O
+–	O
+4:29	O

@@ -1,0 +1,43 @@
+Pablo	B-PER
+Cuevas	I-PER
+/	O
+Brian	B-PER
+Dabul	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+RINVIA	O
+Begunje	B-LOC
+pri	I-LOC
+Cerknici	I-LOC
+
+===	O
+Armada	B-ORG
+de	I-ORG
+la	I-ORG
+República	I-ORG
+Argentina	I-ORG
+===	O
+
+Pete	B-PER
+Sampras	I-PER
+''	O
+(	O
+finale	O
+)	O
+
+Teatro	B-LOC
+Metropolitan	I-LOC
+(	I-LOC
+Città	I-LOC
+del	I-LOC
+Messico	I-LOC
+)	I-LOC
+
+Torre	B-ORG
+di	I-ORG
+Londra	I-ORG
+;	O

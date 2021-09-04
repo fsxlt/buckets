@@ -1,0 +1,24 @@
+Dave	B-ORG
+Dee	I-ORG
+,	I-ORG
+Dozy	I-ORG
+,	I-ORG
+Beaky	I-ORG
+,	I-ORG
+Mick	I-ORG
+&	I-ORG
+Tich	I-ORG
+
+Kateb	B-PER
+Yacine	I-PER
+,	O
+author	O
+
+Indian	B-LOC
+Creek	I-LOC
+Township	I-LOC
+,	I-LOC
+Monroe	I-LOC
+County	I-LOC
+,	I-LOC
+Indiana	I-LOC

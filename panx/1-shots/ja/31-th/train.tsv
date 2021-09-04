@@ -1,0 +1,30 @@
+#	O
+ジ	B-PER
+ョ	I-PER
+ー	I-PER
+・	I-PER
+ド	I-PER
+ン	I-PER
+ブ	I-PER
+ロ	I-PER
+ウ	I-PER
+ス	I-PER
+キ	I-PER
+ー	I-PER
+#	O
+
+#	O
+エ	B-LOC
+ル	I-LOC
+サ	I-LOC
+ル	I-LOC
+バ	I-LOC
+ド	I-LOC
+ル	I-LOC
+
+金	B-ORG
+沢	I-ORG
+大	I-ORG
+学	I-ORG
+校	O
+歌	O

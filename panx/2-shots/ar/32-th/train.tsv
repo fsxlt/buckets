@@ -1,0 +1,36 @@
+عطار	B-LOC
+(	I-LOC
+جنس	I-LOC
+صدف	I-LOC
+)	I-LOC
+
+الاشتراكيون	B-ORG
+الثوريون	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+تحويل	O
+محمد	B-PER
+حسين	I-PER
+طنطاوي	I-PER
+
+تحويل	O
+ألما	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+تشان	B-PER
+سيو	I-PER
+كي	I-PER
+
+حقق	O
+المركز	O
+الـ	O
+2	O
+في	O
+طواف	B-ORG
+إسبانيا	I-ORG
+1985	I-ORG

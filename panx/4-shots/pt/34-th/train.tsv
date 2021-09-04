@@ -1,0 +1,95 @@
+Laura	B-PER
+Cardoso	I-PER
+-	O
+Prosópia	O
+
+The	B-ORG
+Fillmore	I-ORG
+'	O
+''	O
+(	O
+Cancelado	O
+)	O
+'	O
+''	O
+
+Bento	B-PER
+Manuel	I-PER
+Ribeiro	I-PER
+
+El	B-ORG
+ojo	I-ORG
+de	I-ORG
+vidrio	I-ORG
+''	O
+
+Na	O
+final	O
+,	O
+contra	O
+o	O
+Goiás	B-ORG
+,	O
+marcou	O
+um	O
+gol	O
+e	O
+conquistou	O
+seu	O
+primeiro	O
+título	O
+.	O
+
+REDIRECIONAMENTO	O
+Serra	B-LOC
+de	I-LOC
+Pacaraima	I-LOC
+
+REDIRECIONAMENTO	O
+Maomé	B-PER
+ibne	I-PER
+Zaide	I-PER
+
+Inter	B-ORG
+de	I-ORG
+Limeira	I-ORG
+(	O
+Limeira	B-LOC
+)	O
+
+Missão	O
+Alpes	B-LOC
+Alemanha-Speaking	B-LOC
+(	O
+Munique	B-LOC
+)	O
+
+Campbell	B-LOC
+(	I-LOC
+Califórnia	I-LOC
+)	I-LOC
+
+Olga	B-PER
+Mostepanova	I-PER
+(	O
+79,000	O
+)	O
+
+'	O
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Illustrated	I-ORG
+
+São	B-LOC
+José	I-LOC
+do	I-LOC
+Rio	I-LOC
+Preto	I-LOC
+
+Aurora	B-LOC
+(	I-LOC
+Dacota	I-LOC
+do	I-LOC
+Sul	I-LOC
+)	I-LOC

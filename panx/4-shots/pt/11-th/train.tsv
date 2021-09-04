@@ -1,0 +1,110 @@
+'	O
+''	O
+Alemanha	B-LOC
+''	O
+'	O
+†	O
+
+Catedral	B-ORG
+de	I-ORG
+Notre-Dame	I-ORG
+de	I-ORG
+Reims	I-ORG
+
+'	O
+''	O
+Ohio	B-ORG
+Valley	I-ORG
+Wrestling	I-ORG
+''	O
+'	O
+
+Redirecionamento	O
+Serra	B-LOC
+da	I-LOC
+Alfaguara	I-LOC
+
+Universidade	B-ORG
+de	I-ORG
+Stellenbosch	I-ORG
+(	O
+Stellenbosch	B-LOC
+)	O
+
+Faz	O
+fronteira	O
+com	O
+Buonabitacolo	B-LOC
+,	O
+Casalbuono	B-LOC
+,	O
+Casaletto	B-LOC
+Spartano	I-LOC
+,	O
+Caselle	B-LOC
+in	I-LOC
+Pittari	I-LOC
+,	O
+Monte	B-LOC
+San	I-LOC
+Giacomo	I-LOC
+,	O
+Montesano	B-LOC
+sulla	I-LOC
+Marcellana	I-LOC
+,	O
+Piaggine	B-LOC
+,	O
+Rofrano	B-LOC
+,	O
+Sassano	B-LOC
+,	O
+Valle	B-LOC
+dell'Angelo	I-LOC
+.	O
+
+My	B-ORG
+Love	I-ORG
+from	I-ORG
+the	I-ORG
+Star	I-ORG
+''	O
+
+Gastão	B-PER
+IV	I-PER
+,	I-PER
+Conde	I-PER
+de	I-PER
+Foix	I-PER
+
+Saint-Pierremont	B-LOC
+(	I-LOC
+Ardenas	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Felicity	B-PER
+Huffman	I-PER
+''	O
+'	O
+
+Marin	B-PER
+Čilić	I-PER
+Andy	B-PER
+Murray	I-PER
+Stan	B-PER
+Wawrinka	I-PER
+Nick	B-PER
+Kyrgios	I-PER
+
+Luís	B-PER
+Augusto	I-PER
+de	I-PER
+Saxe-Coburgo-Gota	I-PER
+
+20px]]	O
+São	B-LOC
+José	I-LOC
+dos	I-LOC
+Campos	I-LOC

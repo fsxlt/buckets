@@ -1,0 +1,57 @@
+Göksu	B-LOC
+(	I-LOC
+Kilikya	I-LOC
+)	I-LOC
+
+Enerji	O
+ve	O
+Tabii	O
+Kaynaklar	O
+Bakanı	O
+Taner	B-PER
+Yıldız	I-PER
+ise	O
+yaptığı	O
+açıklamada	O
+,	O
+``	O
+''Ezeli	O
+rekabet	O
+içinde	O
+birbirine	O
+karşı	O
+olgunluk	O
+gösterdiler	O
+.	O
+
+'	O
+''	O
+Bernard	B-PER
+Hinault	I-PER
+''	O
+'	O
+
+YÖNLENDİRME	O
+Cumhuriyetçi	B-ORG
+Parti	I-ORG
+(	I-ORG
+Amerika	I-ORG
+Birleşik	I-ORG
+Devletleri	I-ORG
+)	I-ORG
+
+==	O
+Eerste	B-ORG
+Divisie	I-ORG
+(	O
+2008-2009	O
+)	O
+==	O
+
+**	O
+'	O
+''	O
+Prusya	B-LOC
+Krallığı	I-LOC
+''	O
+'	O

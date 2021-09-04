@@ -1,0 +1,43 @@
+#	O
+陳	B-PER
+光	I-PER
+榮	I-PER
+
+#	O
+許	B-PER
+慧	I-PER
+欣	I-PER
+
+果	B-ORG
+餡	I-ORG
+卷	I-ORG
+
+桑	B-LOC
+特	I-LOC
+埃	I-LOC
+莱	I-LOC
+纳	I-LOC
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+香	B-ORG
+港	I-ORG
+警	I-ORG
+務	I-ORG
+處	I-ORG
+
+重	O
+定	O
+向	O
+#	O
+粗	B-LOC
+毛	I-LOC
+水	I-LOC
+鼠	I-LOC
+屬	I-LOC

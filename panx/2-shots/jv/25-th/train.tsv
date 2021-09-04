@@ -1,0 +1,34 @@
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG

@@ -1,0 +1,68 @@
+লুডভিগ	B-PER
+ফান	I-PER
+বেটোফেন	I-PER
+
+লূত	B-PER
+(	I-PER
+ইসলাম	I-PER
+)	I-PER
+
+আমেরিকান	B-ORG
+ইন্টারন্যাশনাল	I-ORG
+গ্রুপ	I-ORG
+
+অগাস্টা	B-LOC
+,	I-LOC
+জর্জিয়া	I-LOC
+
+''কবর	O
+''	O
+-	O
+মুনীর	B-PER
+চৌধুরী	I-PER
+
+উত্তর	B-LOC
+মেরুদেশীয়	I-LOC
+অন্তরীপ	I-LOC
+
+'	O
+''	O
+লং	B-LOC
+বিচ	I-LOC
+''	O
+'	O
+
+রাশিয়ার	B-PER
+প্রথম	I-PER
+পিটার	I-PER
+
+[[জয়পুর	O
+পশ্চিমবঙ্গ	B-LOC
+,	O
+ভারত।	B-LOC
+]]	O
+
+জাতীয়	B-ORG
+সংসদ	I-ORG
+ভবন	I-ORG
+
+জগন্নাথ	B-ORG
+মন্দির	I-ORG
+(	I-ORG
+শিয়ালকোট	I-ORG
+)	I-ORG
+
+অর্ডার	B-ORG
+অব	I-ORG
+দ্য	I-ORG
+ফিনিক্স	I-ORG
+(	I-ORG
+কাল্পনিক	I-ORG
+সংগঠন	I-ORG
+)	I-ORG
+
+১	O
+,	O
+০০০জন	O
+অরুণাচল	B-LOC
+প্রদেশে	I-LOC

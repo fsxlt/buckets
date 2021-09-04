@@ -1,0 +1,22 @@
+Steve	B-PER
+Davis	I-PER
+(	O
+İngiltere	B-LOC
+)	O
+
+Angola'nın	B-LOC
+en	I-LOC
+üst	I-LOC
+düzey	I-LOC
+idari	I-LOC
+birimleri	I-LOC
+
+Bölgesel	B-ORG
+Amatör	I-ORG
+Lig	I-ORG
+ekiplerinden	O
+MKE	B-ORG
+Kırıkkalespor'da	I-ORG
+forma	O
+giymektedir	O
+.	O

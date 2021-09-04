@@ -1,0 +1,113 @@
+Marco	B-PER
+Hietala	I-PER
+,	O
+Kuopio	B-LOC
+
+**	O
+Douglaskuuset	B-LOC
+–	O
+''Pseudotsuga	O
+''	O
+
+'	O
+''	O
+Rio	B-LOC
+Maior	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Riccardo	B-PER
+Patrese	I-PER
+''	O
+'	O
+
+Myöhemmin	O
+hän	O
+muutti	O
+asumaan	O
+Los	B-LOC
+Angelesiin	I-LOC
+.	O
+
+Rastaskotingaa	O
+tavataan	O
+Ecuadorisa	B-LOC
+,	O
+Kolumbiassa	B-LOC
+ja	O
+Perussa	B-LOC
+.	O
+
+Kauden	O
+2006	O
+lopussa	O
+hän	O
+toimi	O
+Djurgårdens	B-ORG
+IF	I-ORG
+:	I-ORG
+n	I-ORG
+päävalmentajana	O
+Kjell	B-PER
+Jonevretin	I-PER
+lähdön	O
+jälkeen	O
+.	O
+
+OHJAUS	O
+Jääkiekko	B-ORG
+kesäolympialaisissa	I-ORG
+1920	I-ORG
+
+'	O
+''	O
+Troitsko-Petšorskin	B-LOC
+piiri	I-LOC
+''	O
+'	O
+(	O
+Троицко-Печорский	O
+район	O
+,	O
+''Troitsko-Petšorski	O
+raion	O
+''	O
+)	O
+
+OHJAUS	O
+Once	B-ORG
+More	I-ORG
+’Round	I-ORG
+the	I-ORG
+Sun	I-ORG
+
+``	O
+Your	B-ORG
+Disco	I-ORG
+Needs	I-ORG
+You	I-ORG
+''	O
+
+Kolmen	O
+ajetun	O
+kierroksen	O
+jälkeen	O
+oli	O
+ero	O
+toisena	O
+ajaneeseen	O
+Jarno	B-PER
+Trulliin	I-PER
+jo	O
+lähes	O
+neljä	O
+sekuntia	O
+.	O
+
+OHJAUS	O
+Mylopótamos	B-LOC
+(	I-LOC
+kunta	I-LOC
+)	I-LOC

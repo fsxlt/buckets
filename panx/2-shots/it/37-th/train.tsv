@@ -1,0 +1,48 @@
+RINVIA	O
+Stazione	B-ORG
+di	I-ORG
+Frankfurt	I-ORG
+(	I-ORG
+Main	I-ORG
+)	I-ORG
+Hauptbahnhof	I-ORG
+
+Izak	B-PER
+van	I-PER
+der	I-PER
+Merwe	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Federazione	B-ORG
+calcistica	I-ORG
+della	I-ORG
+Francia	I-ORG
+
+Australia	B-LOC
+(	O
+Nuovo	B-LOC
+Galles	I-LOC
+del	I-LOC
+Sud	I-LOC
+)	O
+;	O
+
+Christophorus	B-PER
+Buys	I-PER
+Ballot	I-PER
+(	O
+1817-1890	O
+,	O
+''meteorologo	O
+''	O
+)	O
+
+La	B-LOC
+Chapelle-Blanche	I-LOC
+(	I-LOC
+Côtes-d'Armor	I-LOC
+)	I-LOC

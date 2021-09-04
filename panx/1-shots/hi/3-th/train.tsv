@@ -1,0 +1,19 @@
+उपरी	B-LOC
+सियांग	I-LOC
+जिला	I-LOC
+,	O
+पूर्व	B-LOC
+सियांग	I-LOC
+जिला	I-LOC
+
+अनुप्रेषित	O
+रमनलाल	B-PER
+सी	I-PER
+मेहता	I-PER
+
+नेपाल	B-ORG
+के	I-ORG
+मल्ल	I-ORG
+राजाओं	I-ORG
+की	I-ORG
+सूची	I-ORG

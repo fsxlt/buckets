@@ -1,0 +1,78 @@
+Headstrong	B-ORG
+(	I-ORG
+álbum	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Martina	B-PER
+Navrátilová	I-PER
+Pam	B-PER
+Shriver	I-PER
+
+'	O
+''	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+''	O
+'	O
+,	O
+Brasil	B-LOC
+
+''	O
+An	B-ORG
+Innocent	I-ORG
+Man	I-ORG
+''	O
+por	O
+Billy	B-PER
+Joel	I-PER
+
+Ingemar	B-PER
+Stenmark	I-PER
+(	O
+3	O
+)	O
+
+San	B-LOC
+Giacomo	I-LOC
+delle	I-LOC
+Segnate	I-LOC
+
+''	O
+Leiopelma	B-LOC
+hochstetteri	I-LOC
+''	O
+
+**	O
+''	O
+Asiana	B-ORG
+Airlines	I-ORG
+''	O
+'	O
+(	O
+Coreia	B-LOC
+do	I-LOC
+Sul	I-LOC
+)	O
+
+Chevrolet	B-ORG
+,	O
+por	O
+Louis	B-PER
+Chevrolet	I-PER
+
+É	O
+surpreendido	O
+por	O
+toda	O
+a	O
+Tropa	B-ORG
+dos	I-ORG
+Lanternas	I-ORG
+Verdes	I-ORG
+que	O
+tenta	O
+detê-lo	O
+.	O

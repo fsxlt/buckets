@@ -1,0 +1,41 @@
+YÖNLENDİR	O
+Göksu	B-LOC
+(	I-LOC
+Kilikya	I-LOC
+)	I-LOC
+
+New	B-LOC
+Jersey	I-LOC
+,	O
+Amerika	B-LOC
+Birleşik	I-LOC
+Devletleri	I-LOC
+
+'	O
+''	O
+Margaret	B-PER
+Smith	I-PER
+Court	I-PER
+''	O
+'	O
+
+Bu	O
+sayfa	O
+Johnny	B-ORG
+Test'in	I-ORG
+bölüm	O
+listesidir	O
+.	O
+
+Dizide	O
+Nebahat	B-PER
+Çehre	I-PER
+tarafından	O
+canlandırılmıştır	O
+.	O
+
+2006-2013	O
+:	O
+The	B-ORG
+Closer	I-ORG
+''	O

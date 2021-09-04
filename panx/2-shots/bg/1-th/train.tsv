@@ -1,0 +1,56 @@
+Натали	B-PER
+Грандин	I-PER
+/	O
+Владимира	B-PER
+Ухлиржова	I-PER
+''	O
+(	O
+осминафинал	O
+)	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Бурунди	B-LOC
+,	O
+Демократична	B-LOC
+република	I-LOC
+Конго	I-LOC
+,	O
+Замбия	B-LOC
+и	O
+Танзания	B-LOC
+.	O
+
+``	O
+The	B-ORG
+Evil	I-ORG
+That	I-ORG
+Men	I-ORG
+Do	I-ORG
+''	O
+
+Sad	B-ORG
+Wings	I-ORG
+of	I-ORG
+Destiny	I-ORG
+''	O
+
+Луцие	B-PER
+Храдецка	I-PER
+/	O
+Саня	B-PER
+Мирза	I-PER
+''	O
+(	O
+осминафинал	O
+)	O
+
+Ерцхерцогство	B-LOC
+Австрия	I-LOC
+(	O
+''Erzherzogtum	O
+Österreich	O
+''	O
+)	O

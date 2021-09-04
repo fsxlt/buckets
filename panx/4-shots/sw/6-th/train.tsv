@@ -1,0 +1,82 @@
+Karl	B-PER
+Alexander	I-PER
+Müller	I-PER
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Nairobi	I-ORG
+
+Man	B-PER
+with	I-PER
+No	I-PER
+Name	I-PER
+
+Eneo	O
+lake	O
+ni	O
+64	O
+km²	B-ORG
+.	O
+
+Shinyanga	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Dodoma	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Casey	B-PER
+Motsisi	I-PER
+(	O
+1932-1977	O
+)	O
+
+Jibuti	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Masikio	B-ORG
+ni	O
+vipenyo	O
+vidogo	O
+tu	O
+.	O
+
+'	O
+''	O
+Kanisa	B-ORG
+Katoliki	I-ORG
+la	I-ORG
+Armenia	I-ORG
+''	O
+'	O
+
+Shirika	B-ORG
+la	I-ORG
+Huduma	I-ORG
+kwa	I-ORG
+Wanyama	I-ORG
+Pori	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+Kampuni	B-ORG
+ya	I-ORG
+Sukari	I-ORG
+ya	I-ORG
+Mumias	I-ORG
+
+Toronto	B-LOC
+,	I-LOC
+Ontario	I-LOC
+
+Daudi	B-PER
+(	I-PER
+Biblia	I-PER
+)	I-PER

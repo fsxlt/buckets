@@ -1,0 +1,65 @@
+Vastutuse	O
+võttis	O
+terroristlik	O
+islamirühmitus	O
+Boko	B-ORG
+Haram	I-ORG
+.	O
+
+suuna	O
+Søndre	B-LOC
+Nordstrandi	I-LOC
+linnaosa	I-LOC
+
+Luunja	B-LOC
+vald	I-LOC
+,	O
+Tartu	B-LOC
+maakond	I-LOC
+
+``	O
+Karjase	O
+laul	O
+''	O
+(	O
+E.	B-PER
+Tubin	I-PER
+)	O
+
+Ta	O
+oli	O
+üks	O
+esimesi	O
+Fjodor	B-PER
+Dostojevski	I-PER
+eluloo	O
+uurijaid	O
+.	O
+
+Suurbritannias	B-LOC
+Glasgow	B-LOC
+'	O
+kesklinnas	O
+kaotas	O
+prügiauto	O
+juhitavuse	O
+ja	O
+sõitis	O
+inimesi	O
+täis	O
+kõnniteele	O
+.	O
+
+Täiendavad	O
+kärpemeetmed	O
+olid	O
+eeltingimuseks	O
+Euroopa	B-ORG
+Liidult	I-ORG
+ja	O
+Rahvusvaheliselt	B-ORG
+Valuutafondilt	I-ORG
+jätkuva	O
+finantsabi	O
+saamiseks	O
+.	O

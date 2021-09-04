@@ -1,0 +1,108 @@
+Vaikse	B-LOC
+ookeani	I-LOC
+tulerõngas	I-LOC
+
+1984.	B-ORG
+aasta	I-ORG
+taliolümpiamängude	I-ORG
+jäähokis	I-ORG
+sai	O
+ta	O
+Nõukogude	B-ORG
+Liidu	I-ORG
+jäähokikoondise	I-ORG
+ridades	O
+esikoha	O
+.	O
+
+Edgari	B-LOC
+maakond	I-LOC
+(	O
+kagus	O
+)	O
+
+TonyBet	O
+toetab	O
+aktiivselt	O
+siinset	O
+sporti	O
+,	O
+olles	O
+muuhulgas	O
+BC	B-ORG
+Kalev	I-ORG
+/	I-ORG
+Cramo	I-ORG
+ja	O
+FC	B-ORG
+Levadia	I-ORG
+suursponsor	O
+.	O
+
+**	O
+'	O
+''	O
+8	O
+''	O
+'	O
+Rubens	B-PER
+Barrichello	I-PER
+,	O
+Brasiilia	B-LOC
+
+See	O
+on	O
+nime	O
+saanud	O
+Saku	B-ORG
+õlle	I-ORG
+järgi	O
+.	O
+
+See	O
+katab	O
+suure	O
+osa	O
+Botswanast	B-LOC
+ning	O
+osa	O
+Namiibiast	B-LOC
+ning	O
+Lõuna-Aafrika	B-LOC
+Vabariigist	I-LOC
+.	O
+
+Ta	O
+on	O
+mitmekordse	O
+kabemaailmameistri	O
+Harm	B-PER
+Wiersma	I-PER
+poeg	O
+.	O
+
+1972.	B-ORG
+aasta	I-ORG
+EM-il	I-ORG
+Belgias	B-LOC
+osales	O
+neli	O
+meeskonda	O
+.	O
+
+Asub	O
+Koola	B-LOC
+poolsaare	I-LOC
+põhjaosas	O
+.	O
+
+Khalīfah	B-PER
+bin	I-PER
+Zāyid	I-PER
+Āl	I-PER
+Nahayān	I-PER
+
+Louis	B-PER
+van	I-PER
+Gaal	I-PER
+2000–2002	O

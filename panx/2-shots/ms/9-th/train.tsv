@@ -1,0 +1,36 @@
+The	B-ORG
+Silver	I-ORG
+Chamber	I-ORG
+of	I-ORG
+Sorrows	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente	I-LOC
+
+Babylon	B-PER
+5	I-PER
+''	O
+(	O
+1993–1998	O
+)	O
+
+'	O
+''	O
+Sergio	B-PER
+Pérez	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Piala	B-ORG
+Dunia	I-ORG
+FIFA	I-ORG
+2002	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Bas-Rhin	I-LOC

@@ -1,0 +1,100 @@
+Vivian	B-PER
+Campbell	I-PER
+–	O
+Kitarr	O
+,	O
+taustavokaal	O
+
+Lääne-Saare	B-LOC
+vald	I-LOC
+,	O
+Saare	B-LOC
+maakond	I-LOC
+
+Itaalias	B-LOC
+ametlikul	O
+visiidil	O
+viibiv	O
+Eesti	B-PER
+president	I-PER
+Toomas	B-PER
+Hendrik	I-PER
+Ilves	I-PER
+kohtus	O
+Roomas	B-LOC
+Itaalia	B-ORG
+presidendi	I-ORG
+Giorgio	B-PER
+Napolitanoga	I-PER
+.	O
+
+Maładziečna	B-LOC
+rajoon	I-LOC
+(	O
+''Маладзечанскі	O
+раён	O
+''	O
+)	O
+(	O
+keskus	O
+Maładziečna	B-LOC
+)	O
+
+suuna	O
+Suure	B-ORG
+Paugu	I-ORG
+teooria	I-ORG
+
+Laurent	B-PER
+Gbagbo	I-PER
+varjus	O
+keldrikorrusele	O
+ega	O
+nõustunud	O
+läbi	O
+rääkima	O
+.	O
+
+**	O
+'	O
+''	O
+7	O
+''	O
+'	O
+Felipe	B-PER
+Massa	I-PER
+
+Kljutševskaja	B-LOC
+sopka	I-LOC
+(	O
+4750	O
+m	O
+)	O
+
+Piirneb	O
+idast	O
+Venemaa	B-LOC
+Karjala	B-LOC
+Vabariigiga	I-LOC
+.	O
+
+Tallinna	B-ORG
+Ülikoolis	I-ORG
+kunstiõpetuse	O
+õpetaja	O
+erialal	O
+
+16	O
+etappi	O
+olid	O
+jagatud	O
+paaridesse	O
+ja	O
+iga	O
+paar	O
+sõideti	O
+erinevas	O
+Euroopa	B-ORG
+Liidu	I-ORG
+riigis	O
+.	O

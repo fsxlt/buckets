@@ -1,0 +1,79 @@
+Mlinzi	B-LOC
+(	I-LOC
+ndege	I-LOC
+)	I-LOC
+
+Walimfuata	O
+Maximinus	B-PER
+Thrax	I-PER
+ambaye	O
+waliasi	O
+dhidi	O
+yake	O
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39208	O
+.	O
+
+Louis	B-PER
+Lombardi	I-PER
+kama	O
+Edgar	B-PER
+Stiles	I-PER
+
+Alifuta	O
+Shirika	B-ORG
+la	I-ORG
+Yesu	I-ORG
+.	O
+
+Ghuba	B-LOC
+ya	I-LOC
+Meksiko	I-LOC
+
+Aboud	B-PER
+Jumbe	I-PER
+Mwinyi	I-PER
+
+Mkoa	B-LOC
+wa	I-LOC
+Magharibi	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+
+**	O
+Makamu	B-PER
+wa	I-PER
+Rais	I-PER
+wa	I-PER
+Kenya	I-PER
+
+Wizara	B-ORG
+ya	I-ORG
+Habari	I-ORG
+,	I-ORG
+Vijana	I-ORG
+,	I-ORG
+Utamaduni	I-ORG
+na	I-ORG
+Michezo	I-ORG
+
+''tazama	O
+makala	O
+'	O
+''	O
+Agano	B-ORG
+Jipya	I-ORG
+''	O
+'	O
+''	O
+
+Vipimo	B-ORG
+sanifu	I-ORG
+vya	I-ORG
+kimataifa	I-ORG

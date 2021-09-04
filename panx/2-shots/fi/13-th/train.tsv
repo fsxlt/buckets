@@ -1,0 +1,49 @@
+Viiruruohomaluria	O
+tavataan	O
+Australiassa	B-LOC
+Queenslandissa	B-LOC
+,	O
+Uudessa	B-LOC
+Etelä-Walesissa	I-LOC
+ja	O
+Etelä-Australiassa	B-LOC
+.	O
+
+Amduatia	O
+käytettiin	O
+ensimmäisen	O
+kerran	O
+Thutmosis	B-PER
+I	I-PER
+:	I-PER
+n	I-PER
+haudassa	O
+.	O
+
+Aleksanteri	B-PER
+Suuri	I-PER
+valloittaa	O
+Egyptin	B-LOC
+.	O
+
+Viipurin	B-ORG
+ja	I-ORG
+Savonlinnan	I-ORG
+lääni	I-ORG
+(	O
+alk	O
+.	O
+
+'	O
+''	O
+Washington	B-ORG
+Redskins	I-ORG
+''	O
+'	O
+
+**	O
+Kuala	B-LOC
+Lumpur	I-LOC
+(	O
+Suurlähetystö	O
+)	O

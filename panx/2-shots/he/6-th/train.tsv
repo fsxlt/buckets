@@ -1,0 +1,49 @@
+ג´ונס	O
+מושפע	O
+מוזיקלית	O
+ברוס	B-PER
+ספרינגסטין	I-PER
+,	O
+בוב	B-PER
+דילן	I-PER
+,	O
+המי	B-ORG
+E	B-ORG
+Street	I-ORG
+Band	I-ORG
+.	O
+
+סן	B-LOC
+בנדטו	I-LOC
+דל	I-LOC
+טרונטו	I-LOC
+,	O
+איטליה	B-LOC
+
+סבתה	O
+מצד	O
+אמה	O
+הייתה	O
+העוזרת	O
+האישית	O
+של	O
+הנסיכה	B-PER
+מרגרט	I-PER
+.	O
+
+המורדים	O
+רצו	O
+להשתחרר	O
+מעול	O
+בית	B-ORG
+הורדוס	I-ORG
+שנתמך	O
+על	O
+ידי	O
+הרומאים	O
+.	O
+
+כפר	B-LOC
+אז	I-LOC
+''	I-LOC
+ר	I-LOC

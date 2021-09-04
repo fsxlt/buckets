@@ -1,0 +1,29 @@
+Musée	B-ORG
+judéo-alsacien	I-ORG
+de	I-ORG
+Bouxwiller	I-ORG
+
+REDIRECTION	O
+Moustapha	B-PER
+el-Nahhas	I-PER
+Pacha	I-PER
+
+à	O
+Thuburbo	B-LOC
+Majus	I-LOC
+,	O
+en	O
+Tunisie	B-LOC
+
+Vicovu	B-LOC
+de	I-LOC
+Sus	I-LOC
+(	O
+)	O
+
+Anthony	B-PER
+Ainley	I-PER
+—	O
+Le	B-ORG
+Maître	I-ORG
+''	O

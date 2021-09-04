@@ -1,0 +1,73 @@
+Indiyana	B-LOC
+(	I-LOC
+Estado	I-LOC
+ng	I-LOC
+Estados	I-LOC
+Unidos	I-LOC
+)	I-LOC
+
+Papa	B-PER
+Benedicto	I-PER
+XVI	I-PER
+
+'	O
+''	O
+Glaiza	B-PER
+de	I-PER
+Castro	I-PER
+''	O
+'	O
+
+Seongnam-si	B-LOC
+-	O
+성남시	O
+,	O
+城南市	O
+
+Basilika	B-ORG
+ng	I-ORG
+Tayabas	I-ORG
+
+Bibi	B-LOC
+ng	I-LOC
+Lawa	I-LOC
+
+'	O
+''	O
+India	B-LOC
+''	O
+'	O
+
+Zora	B-PER
+Neale	I-PER
+Hurston	I-PER
+
+Mondino	B-PER
+de	I-PER
+Luzzi	I-PER
+
+Mahabang	B-ORG
+Muog	I-ORG
+ng	I-ORG
+Tsina	I-ORG
+
+Mga	B-ORG
+Nagkakaisang	I-ORG
+Bansa	I-ORG
+
+Rehiyon	B-LOC
+ng	I-LOC
+Davao	I-LOC
+
+500	O
+–	O
+Kapuluang	B-LOC
+Falkland	I-LOC
+
+Nagsasariling	B-ORG
+Sosyalistikong	I-ORG
+Republikang	I-ORG
+Soviet	I-ORG
+ng	I-ORG
+Volga	I-ORG
+Aleman	I-ORG

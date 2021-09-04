@@ -1,0 +1,55 @@
+'	O
+''	O
+La	B-LOC
+Gacilly	I-LOC
+'	O
+''	O
+
+WEITERLEITUNG	O
+Queen	B-LOC
+Mary’s	I-LOC
+Peak	I-LOC
+
+'	O
+''	O
+Carlos	B-PER
+(	I-PER
+VI.	I-PER
+)	I-PER
+Luis	I-PER
+de	I-PER
+Borbón	I-PER
+y	I-PER
+Braganza	I-PER
+''	O
+'	O
+.	O
+
+Internationaler	B-ORG
+Tag	I-ORG
+des	I-ORG
+Ehrenamtes	I-ORG
+
+Der	O
+letztendliche	O
+Sieg	O
+ging	O
+an	O
+Dale	B-PER
+Earnhardt	I-PER
+junior	I-PER
+in	O
+seinem	O
+ersten	O
+Rennen	O
+für	O
+Hendrick	B-ORG
+Motorsports	I-ORG
+.	O
+
+'	O
+''	O
+'	O
+''	O
+Trine	B-PER
+Hansen	I-PER

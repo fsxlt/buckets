@@ -1,0 +1,89 @@
+YÖNLENDİRME	O
+Boydere	B-LOC
+,	I-LOC
+Koçarlı	I-LOC
+
+PTT	B-ORG
+şubesi	O
+ve	O
+PTT	B-ORG
+acentesi	O
+yoktur	O
+.	O
+
+YÖNLENDİRME	O
+National	B-ORG
+Board	I-ORG
+of	I-ORG
+Review	I-ORG
+
+YÖNLENDİRME	O
+Lest	B-ORG
+We	I-ORG
+Forget	I-ORG
+
+Bu	O
+cover'ın	O
+klibi	O
+Mark	B-PER
+Romanek	I-PER
+tarafından	O
+çekilmiş	O
+ve	O
+ödüller	O
+almıştır	O
+.	O
+
+Columbus]]	O
+,	O
+Amerika	B-LOC
+Birleşik	I-LOC
+Devletleri	I-LOC
+
+Bezeyni	O
+(	O
+Tuz	B-LOC
+Gölü'nün	I-LOC
+doğusu	O
+)	O
+
+Kız	B-ORG
+Kulesi	I-ORG
+En	O
+Önemli	O
+Yapılardan	O
+Biridir	O
+.	O
+
+Romanı	O
+uyarlanan	O
+yazar	O
+:	O
+Stephen	B-PER
+King	I-PER
+
+YÖNLENDİRME	O
+Otto	B-PER
+von	I-PER
+Bismarck	I-PER
+
+-	O
+Jarod	B-PER
+Stevenson	I-PER
+1	O
+sezon	O
+:	O
+'01-'02	O
+
+Weil	B-LOC
+am	I-LOC
+Rhein	I-LOC
+,	O
+Almanya	B-LOC
+
+16	O
+yaşındayken	O
+S.M.	B-ORG
+Entertainment'a	I-ORG
+katıldı	O
+.	O

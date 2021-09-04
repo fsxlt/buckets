@@ -1,0 +1,21 @@
+University	B-ORG
+of	I-ORG
+the	I-ORG
+Sunshine	I-ORG
+Coast	I-ORG
+,	O
+Queensland	B-LOC
+,	O
+Australien	B-LOC
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Augsburg	I-LOC
+''	O
+'	O
+
+Karl	B-PER
+Bogislaus	I-PER
+Reichert	I-PER

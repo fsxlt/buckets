@@ -1,0 +1,74 @@
+تغییرمسیر	O
+مجتمع	B-ORG
+پرتاب	I-ORG
+۳۹	I-ORG
+پایگاه	I-ORG
+فضایی	I-ORG
+کندی	I-ORG
+
+تغییر_مسیر	O
+شخصیت	B-PER
+(	I-PER
+آثار	I-PER
+هنری	I-PER
+)	I-PER
+
+تغییرمسیر	O
+مینی	B-PER
+مدرن	I-PER
+فیسک	I-PER
+
+تغییرمسیر	O
+شهرستان	B-LOC
+آزبورن،	I-LOC
+کانزاس	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+کلاگ	B-LOC
+(	I-LOC
+آیووا	I-LOC
+)	I-LOC
+
+Grant	B-PER
+Hill	I-PER
+-	O
+Small	O
+forward	O
+for	O
+the	O
+لس	B-ORG
+آنجلس	I-ORG
+کلیپرز	I-ORG
+
+این	O
+کتاب	O
+را	O
+محمدتقی	B-PER
+دانش‌پژوه	I-PER
+توسط	O
+انتشارات	O
+دانشگاه	B-ORG
+تهران	I-ORG
+چاپ	O
+نموده	O
+است	O
+.	O
+
+تغییرمسیر	O
+بخش	B-LOC
+بالا	I-LOC
+ولایت	I-LOC
+
+قلعه	B-LOC
+خواجه	I-LOC
+(	I-LOC
+اندیکا	I-LOC
+)	I-LOC

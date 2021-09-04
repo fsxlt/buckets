@@ -1,0 +1,31 @@
+הפניה	O
+מסע	B-LOC
+מים	I-LOC
+אל	I-LOC
+ים	I-LOC
+
+העדות	O
+לכך	O
+הינה	O
+עמק	B-ORG
+הכדים	I-ORG
+.	O
+
+עם	O
+טוני	B-PER
+ויסקונטי	I-PER
+,	O
+יזהר	B-PER
+אשדות	I-PER
+,	O
+יאיר	B-PER
+ניצני	I-PER
+יונתן	B-PER
+בר	I-PER
+גיורא	I-PER
+,	O
+שהיה	O
+שותף	O
+בכתיבת	O
+התסריט	O
+.	O

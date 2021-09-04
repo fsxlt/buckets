@@ -1,0 +1,112 @@
+La	O
+località	O
+è	O
+altresì	O
+servita	O
+Autostrada	B-ORG
+A12	I-ORG
+Roma	I-ORG
+-	I-ORG
+Civitavecchia	I-ORG
+,	O
+con	O
+l'uscita	O
+Cerveteri	B-LOC
+-	O
+Ladispoli	B-LOC
+''	O
+.	O
+
+RINVIA	O
+MotoGP	B-ORG
+Rookies	I-ORG
+Cup	I-ORG
+
+Hyères	B-ORG
+Football	I-ORG
+Club	I-ORG
+
+===Vincitore	O
+della	O
+città	O
+di	O
+Banja	B-LOC
+Luka	I-LOC
+
+Dr.	B-ORG
+House	I-ORG
+-	I-ORG
+Medical	I-ORG
+Division	I-ORG
+''	O
+(	O
+''House	O
+M.D	O
+.	O
+
+Arturo	B-PER
+,	I-PER
+principe	I-PER
+del	I-PER
+Galles	I-PER
+(	O
+1486–1502	O
+)	O
+
+'	O
+''	O
+Chloë	B-PER
+Grace	I-PER
+Moretz	I-PER
+''	O
+'	O
+
+Ernests	B-PER
+Gulbis	I-PER
+''	O
+(	O
+semifinale	O
+)	O
+
+Costa	B-LOC
+d'Avorio	I-LOC
+-	O
+54	O
+
+Lavorò	O
+quindi	O
+a	O
+Treviri	B-LOC
+,	O
+Bad	B-LOC
+Wildungen	I-LOC
+e	O
+Würzburg	B-LOC
+.	O
+
+André	B-PER
+Gobert6-3	I-PER
+3-6	O
+1-6	O
+6-2	O
+6-3	O
+
+Questa	O
+gara	O
+lo	O
+vedrà	O
+in	O
+pedana	O
+solo	O
+nei	O
+turni	O
+iniziali	O
+,	O
+con	O
+la	O
+Corea	B-LOC
+del	I-LOC
+Sud	I-LOC
+e	O
+Austria	B-LOC
+.	O

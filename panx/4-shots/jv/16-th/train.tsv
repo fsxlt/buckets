@@ -1,0 +1,117 @@
+Dhèwèké	O
+dikanonisasi	O
+déning	O
+Paus	B-PER
+Nikolas	I-PER
+I	I-PER
+.	O
+
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+'	O
+''	O
+Brasil	B-LOC
+''	O
+'	O
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Punika	O
+ugi	O
+langkung	O
+amargi	O
+kabegjan	O
+,	O
+amargi	O
+Michael	B-PER
+Schumacher	I-PER
+ingkang	O
+nalika	O
+punika	O
+saweg	O
+mimpin	O
+balapan	O
+,	O
+ngalami	O
+perkawis	O
+transmisi	O
+wonten	O
+ing	O
+lap	O
+ingkang	O
+pungkasan	O
+.	O
+
+Usmar	B-PER
+Ismail	I-PER
+,	O
+sutradhara	O
+
+Mayu	B-PER
+Watanabe	I-PER
+(	O
+渡辺	O
+麻友	O
+)	O
+
+Powiat	B-LOC
+Puławy	I-LOC
+,	O
+Puławy	B-LOC
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+'	O
+''	O
+Jayanagara	B-PER
+''	O
+'	O
+(	O
+1309-1328	O
+)	O
+
+1998	B-ORG
+-	O
+''ora	O
+lolos	O
+''	O
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+ALIH	O
+Kamentrian	B-ORG
+Luar	I-ORG
+Negri	I-ORG
+Republik	I-ORG
+Indonésia	I-ORG
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

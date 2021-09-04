@@ -1,0 +1,51 @@
+הפניה	O
+ג'ון	B-PER
+דנס	I-PER
+סקוטוס	I-PER
+
+סולנית	B-ORG
+הלהקה	O
+איימי	B-PER
+לי	I-PER
+,	O
+הצהירה	O
+שלשיר	O
+ישנן	O
+מספר	O
+משמעויות	O
+.	O
+
+הפניה	O
+המרכז	B-ORG
+הרפואי	I-ORG
+ע	I-ORG
+''	I-ORG
+ש	I-ORG
+חיים	I-ORG
+שיבא	I-ORG
+-	I-ORG
+תל	I-ORG
+השומר	I-ORG
+
+בימיה	O
+הראשונים	O
+פעלה	O
+החברה	O
+במחסן	O
+קריית	B-LOC
+שמונה	I-LOC
+.	O
+
+'	O
+''	O
+ספורטינג	B-ORG
+ליסבון	I-ORG
+''	O
+'	O
+''	O
+
+הפניה	O
+יסודות	B-LOC
+(	I-LOC
+מושב	I-LOC
+)	I-LOC

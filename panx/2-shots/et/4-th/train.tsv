@@ -1,0 +1,44 @@
+Amy	B-PER
+Poehler	I-PER
+(	O
+2001-2009	O
+)	O
+
+aastal	O
+Moskvas	B-LOC
+Gorki-nimelise	B-ORG
+Kirjandusinstituudi	I-ORG
+.	O
+
+aastal	O
+)	O
+on	O
+Ameerika	B-LOC
+Ühendriikide	I-LOC
+professionaalne	O
+korvpallimängija	O
+,	O
+mängides	O
+NBA-s	B-ORG
+klubi	O
+Boston	B-ORG
+Celticsi	I-ORG
+eest	O
+.	O
+
+Taavi	B-PER
+Rõivas	I-PER
+(	O
+spiiker	O
+)	O
+–	O
+2001–2003	O
+
+''	O
+Rhamphiophis	B-LOC
+oxyrhynchus	I-LOC
+''	O
+,	O
+sgk	O
+Lamprophiidae	B-LOC
+''	O

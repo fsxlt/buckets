@@ -1,0 +1,100 @@
+Organisations	B-ORG
+syndicales	I-ORG
+professionnelles	I-ORG
+françaises	I-ORG
+
+Vinkeveen	B-LOC
+>	O
+Vinkeveen	B-LOC
+en	I-LOC
+Waverveen	I-LOC
+
+Xian	B-LOC
+de	I-LOC
+Yuqing	I-LOC
+
+Farhan	B-PER
+Akhtar	I-PER
+,	O
+Priyanka	B-PER
+Chopra	I-PER
+,	O
+Ranveer	B-PER
+Singh	I-PER
+
+'	O
+''	O
+FC	B-ORG
+Concordia	I-ORG
+Bâle	I-ORG
+''	O
+'	O
+
+Des	O
+échanges	O
+contre	O
+des	O
+joueurs	O
+à	O
+être	O
+nommés	O
+plus	O
+tard	O
+surviennent	O
+aussi	O
+dans	O
+la	O
+Ligue	B-ORG
+nationale	I-ORG
+de	I-ORG
+hockey	I-ORG
+.	O
+
+Jacques	B-PER
+Ier	I-PER
+de	I-PER
+Bourbon-La	I-PER
+Marche	I-PER
+
+Mario	B-PER
+Vicini	I-PER
+(	O
+Italie	B-LOC
+)	O
+
+Dans	O
+ce	O
+quartier	O
+se	O
+trouve	O
+le	O
+National	B-ORG
+Museum	I-ORG
+of	I-ORG
+Mexican	I-ORG
+Art	I-ORG
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Aisne	I-LOC
+
+REDIRECTION	O
+Chevêchette	B-LOC
+des	I-LOC
+saguaros	I-LOC
+
+Il	O
+en	O
+eu	O
+plusieurs	O
+enfants	O
+,	O
+dont	O
+Iziaslav	B-PER
+IV	I-PER
+de	I-PER
+Kiev	I-PER
+.	O

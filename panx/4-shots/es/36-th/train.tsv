@@ -1,0 +1,85 @@
+Premier	B-ORG
+League	I-ORG
+(	O
+6°	O
+)	O
+
+REDIRECCIÓN	O
+Juanma	B-PER
+Suárez	I-PER
+Fernández	I-PER
+
+Ludwig	B-PER
+Mies	I-PER
+van	I-PER
+der	I-PER
+Rohe	I-PER
+(	O
+1886–1969	O
+)	O
+
+The	B-ORG
+Doctor	I-ORG
+Blake	I-ORG
+Mysteries	I-ORG
+''	O
+
+'	O
+''	O
+North	B-LOC
+Shore	I-LOC
+(	I-LOC
+California	I-LOC
+)	I-LOC
+''	O
+'	O
+
+Valle	B-LOC
+de	I-LOC
+Trápaga	I-LOC
+
+REDIRECCIÓN	O
+José	B-PER
+María	I-PER
+Blanco	I-PER
+White	I-PER
+
+Power	B-ORG
+Rangers	I-ORG
+:	I-ORG
+Megaforce	I-ORG
+
+Universidad	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Tres	I-ORG
+de	I-ORG
+Febrero	I-ORG
+
+Los	O
+partidos	O
+fueron	O
+emitidos	O
+por	O
+Canal	B-PER
+13	I-PER
+,	O
+excepto	O
+el	O
+que	O
+se	O
+jugó	O
+en	O
+Talcahuano	B-LOC
+.	O
+
+Puerto	B-LOC
+La	I-LOC
+Cruz	I-LOC
+,	O
+Anzoátegui	B-LOC
+
+REDIRECCIÓN	O
+Condado	B-LOC
+de	I-LOC
+Emery	I-LOC

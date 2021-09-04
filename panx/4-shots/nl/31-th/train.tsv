@@ -1,0 +1,135 @@
+Forest	B-LOC
+Hill	I-LOC
+(	I-LOC
+Londen	I-LOC
+)	I-LOC
+
+Periodekampioenen	O
+waren	O
+PSV	B-ORG
+,	O
+Ajax	B-ORG
+,	O
+FC	B-ORG
+Twente	I-ORG
+en	O
+FC	B-ORG
+Groningen	I-ORG
+.	O
+
+Buckland	B-LOC
+in	I-LOC
+the	I-LOC
+Moor	I-LOC
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Europa	B-LOC
+.	O
+
+Het	O
+werd	O
+getekend	O
+door	O
+Willy	B-PER
+Linthout	I-PER
+en	O
+bedacht	O
+door	O
+Urbanus	B-PER
+zelf	O
+.	O
+
+Bij	O
+het	O
+radiostation	O
+raakte	O
+hij	O
+bevriend	O
+met	O
+Buddy	B-PER
+Holly	I-PER
+,	O
+die	O
+later	O
+de	O
+producer	O
+zou	O
+worden	O
+van	O
+zijn	O
+eerste	O
+solosingle	O
+.	O
+
+DOORVERWIJZING	O
+Florida	B-ORG
+International	I-ORG
+University	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+André	B-PER
+Lange	I-PER
+
+Dąbrowa	B-LOC
+Biskupia	I-LOC
+,	O
+Gniewkowo	B-LOC
+,	O
+Inowrocław	B-LOC
+,	O
+Janikowo	B-LOC
+,	O
+Kruszwica	B-LOC
+,	O
+Pakość	B-LOC
+,	O
+Rojewo	B-LOC
+,	O
+Strzelno	B-LOC
+,	O
+Złotniki	B-LOC
+Kujawskie	I-LOC
+
+Als	O
+speler	O
+van	O
+RSC	B-ORG
+Anderlecht	I-ORG
+
+Faith	B-ORG
+(	I-ORG
+nummer	I-ORG
+van	I-ORG
+George	I-ORG
+Michael	I-ORG
+)	I-ORG
+,	O
+het	O
+titelnummer	O
+van	O
+dat	O
+album	O
+.	O
+
+'	O
+''	O
+WND	O
+''	O
+'	O
+-	O
+Nowy	B-LOC
+Dwór	I-LOC
+Mazowiecki	I-LOC
+
+Anna	B-PER
+Rokita	I-PER
+(	O
+3	O
+)	O

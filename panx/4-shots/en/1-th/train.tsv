@@ -1,0 +1,73 @@
+John	B-PER
+Pedder	I-PER
+(	I-PER
+priest	I-PER
+)	I-PER
+
+Ards	B-ORG
+(	I-ORG
+Northern	I-ORG
+Ireland	I-ORG
+Parliament	I-ORG
+constituency	I-ORG
+)	I-ORG
+
+Blue	B-ORG
+Grass	I-ORG
+Council	I-ORG
+—	O
+Lexington	B-LOC
+,	I-LOC
+Kentucky	I-LOC
+
+Jisshu	B-PER
+Sengupta	I-PER
+,	O
+Parambrato	B-ORG
+Chatterjee	I-ORG
+
+Its	O
+local	B-ORG
+government	I-ORG
+area	I-ORG
+is	O
+the	O
+City	B-LOC
+of	I-LOC
+Kingston	I-LOC
+.	O
+
+It	O
+is	O
+also	O
+found	O
+in	O
+the	O
+Juan	B-LOC
+Fernández	I-LOC
+Islands	I-LOC
+.	O
+
+Usher	B-ORG
+–	O
+``	O
+U	B-ORG
+Remind	I-ORG
+Me	I-ORG
+''	O
+
+Robert	B-PER
+T.	I-PER
+A.	I-PER
+Innes	I-PER
+
+William	B-PER
+C.	I-PER
+Gorgas	I-PER
+
+Parañaque	B-LOC
+,	O
+Metro	B-LOC
+Manila	I-LOC
+,	O
+Philippines	B-LOC

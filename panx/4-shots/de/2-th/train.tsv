@@ -1,0 +1,114 @@
+WEITERLEITUNG	O
+Autonome	B-LOC
+Region	I-LOC
+Kurdistan	I-LOC
+
+Schalkes	O
+Trainer	O
+Karl-Heinz	B-PER
+Marotzke	I-PER
+stellte	O
+den	O
+Neuling	O
+gleich	O
+am	O
+ersten	B-LOC
+Saisonspieltag	I-LOC
+,	O
+dem	O
+19	O
+.	O
+
+Benannt	O
+nach	O
+Ferdinand	B-PER
+von	I-PER
+Zeppelin	I-PER
+
+WEITERLEITUNG	O
+Boku	B-ORG
+wa	I-ORG
+Tomodachi	I-ORG
+ga	I-ORG
+Sukunai	I-ORG
+
+Elbe-Seitenkanal	B-LOC
+mit	O
+115	O
+km	O
+
+WEITERLEITUNG	O
+Diyarbakır	B-ORG
+Atatürk	I-ORG
+Stadyumu	I-ORG
+
+Neustadt	B-LOC
+an	I-LOC
+der	I-LOC
+Orla	I-LOC
+,	O
+Markt	O
+
+Gottlieb	B-PER
+von	I-PER
+Hippel	I-PER
+d.	I-PER
+A	I-PER
+.	I-PER
+,	O
+Staatsmann	O
+
+Das	O
+Produzententeam	O
+hat	O
+vor	O
+''Weinberg	O
+''	O
+auch	O
+für	O
+die	O
+erfolgreiche	O
+Serie	O
+Der	B-ORG
+letzte	I-ORG
+Bulle	I-ORG
+''	O
+auf	O
+Sat.1	B-PER
+verantwortlich	O
+gezeichnet	O
+.	O
+
+'	O
+''	O
+Iran	B-LOC
+''	O
+'	O
+
+Sein	O
+Studium	O
+nahm	O
+er	O
+an	O
+der	O
+Universität	B-ORG
+Leipzig	I-ORG
+auf	O
+,	O
+wo	O
+ihn	O
+besonders	O
+Otto	B-PER
+Ribbeck	I-PER
+beeinflusste	O
+.	O
+
+''Carmen	O
+''	O
+und	O
+''Fledermaus	O
+''	O
+in	O
+Frankfurt	B-LOC
+am	I-LOC
+Main	I-LOC

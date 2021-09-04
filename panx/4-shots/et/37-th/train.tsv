@@ -1,0 +1,89 @@
+'	O
+''	O
+Taani	B-ORG
+Rahvapartei	I-ORG
+''	O
+'	O
+(	O
+''Dansk	O
+Folkeparti	O
+''	O
+)	O
+(	O
+O	O
+)	O
+
+Meistriks	O
+tuli	O
+Tallinna	B-ORG
+FC	I-ORG
+Flora	I-ORG
+.	O
+
+Julian	B-PER
+Schwinger	I-PER
+ja	O
+Richard	B-PER
+Feynman	I-PER
+
+Paavst	B-LOC
+Benedictus	B-PER
+XVI	I-PER
+lõpetas	O
+oma	O
+ametliku	O
+visiidi	O
+Ameerika	B-LOC
+Ühendriikides	I-LOC
+.	O
+
+1991.	O
+aastal	O
+sai	O
+ta	O
+Rootsi	B-ORG
+Akadeemia	I-ORG
+liikmeks	O
+.	O
+
+Esimene	O
+oli	O
+levinud	O
+Balkani	B-LOC
+poolsaare	I-LOC
+loodeosas	O
+.	O
+
+Ḩamad	B-PER
+ibn	I-PER
+‘Īsá	I-PER
+Āl	I-PER
+Khalīfah	I-PER
+
+Nemaha	B-LOC
+maakond	I-LOC
+(	O
+loodes	O
+)	O
+
+Alan	B-PER
+Shepard	I-PER
+(	O
+1923–1998	O
+)	O
+
+Hoone	O
+asub	O
+linna	O
+lõunaosas	O
+Kongo	B-LOC
+jõe	I-LOC
+ääres	O
+.	O
+
+suuna	O
+Rahvusvaheline	B-ORG
+Puhta	I-ORG
+ja	I-ORG
+Rakenduskeemia	I-ORG
+Liit	I-ORG

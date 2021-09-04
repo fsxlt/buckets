@@ -1,0 +1,19 @@
+Le	O
+site	O
+,	O
+écrit	O
+Jean	B-PER
+Duvignaud	I-PER
+,	O
+.	O
+
+Jackson	B-LOC
+(	I-LOC
+Géorgie	I-LOC
+)	I-LOC
+
+Happy	B-ORG
+Valley	I-ORG
+(	I-ORG
+Pékin	I-ORG
+)	I-ORG

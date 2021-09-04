@@ -1,0 +1,65 @@
+h.	O
+kuppam	O
+(	O
+lighthouse	O
+kuppam	O
+)	O
+Gram	O
+Panchayat	O
+''	O
+)	O
+,	O
+தமிழ்நாட்டின்	B-LOC
+திருவள்ளூர்	B-LOC
+மாவட்டத்தில்	I-LOC
+உள்ள	O
+மீஞ்சூர்	B-LOC
+வட்டாரத்தில்	O
+அமைந்துள்ளது	O
+.	O
+
+சானிங்	B-PER
+டேட்டம்	I-PER
+,	O
+மிலா	B-PER
+குனிஸ்	I-PER
+,	O
+சான்	B-PER
+பீன்	I-PER
+,	O
+டக்ளஸ்	B-PER
+பூத்	I-PER
+
+ஜார்ஜ்	B-PER
+ஹெர்பெர்ட்	I-PER
+வாக்கர்	I-PER
+புஷ்	I-PER
+
+velur	O
+Gram	O
+Panchayat	O
+''	O
+)	O
+,	O
+தமிழ்நாட்டின்	B-LOC
+திருவண்ணாமலை	B-LOC
+மாவட்டத்தில்	I-LOC
+உள்ள	O
+தண்டராம்பட்டு	B-LOC
+வட்டாரத்தில்	O
+அமைந்துள்ளது	O
+.	O
+
+அபுதாபி	B-ORG
+கமர்சியல்	I-ORG
+வங்கி	I-ORG
+லிமிடெட்	I-ORG
+.	I-ORG
+
+இது	O
+வடமேற்கு	B-ORG
+தில்லி	I-ORG
+மக்களவைத்	I-ORG
+தொகுதிக்கு	I-ORG
+உட்பட்டது	O
+.	O

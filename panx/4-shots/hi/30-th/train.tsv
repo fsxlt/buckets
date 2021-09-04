@@ -1,0 +1,92 @@
+जवाहरलाल	B-ORG
+नेहरू	I-ORG
+कृषि	I-ORG
+विश्वविद्यालय	I-ORG
+,	O
+जबलपुर	B-LOC
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+राष्ट्रीय	B-ORG
+पुरातात्विक	I-ORG
+संग्रहालय	I-ORG
+,	I-ORG
+नई	I-ORG
+दिल्ली	I-ORG
+
+भूपेंद्र	B-PER
+सिंह	I-PER
+हुड्डा	I-PER
+
+पश्चिम	B-LOC
+बंगाल	I-LOC
+(	O
+77	O
+)	O
+
+विक्रमादित्य	B-PER
+५	I-PER
+(	O
+1008	O
+-	O
+1015	O
+)	O
+
+थॉमस	B-PER
+एनक्विस्ट	I-PER
+ने	O
+टिम	B-PER
+हैनमैन	I-PER
+को	O
+7-6	O
+,	O
+6-4	O
+से	O
+हराया।	O
+
+'	O
+''	O
+बिरसा	B-ORG
+कृषि	I-ORG
+विश्वविद्यालय	I-ORG
+''	O
+'	O
+,	O
+राँची	B-LOC
+
+अनुप्रेषित	O
+के॰	B-PER
+जी॰	I-PER
+बालकृष्णन	I-PER
+
+फ़ैज़ाबाद	B-LOC
+,	I-LOC
+बदख़्शान	I-LOC
+
+कहानियाँ	B-ORG
+हमारे	I-ORG
+महाभारत	I-ORG
+की	I-ORG
+
+'	O
+''	O
+क्यूला	O
+''	O
+'	O
+भारत	B-LOC
+के	O
+गोवा	B-LOC
+राज्य	B-ORG
+के	O
+उत्तर	B-LOC
+गोवा	I-LOC
+जिले	I-LOC
+में	O
+स्थित	O
+एक	O
+जनगणना	B-LOC
+नगर	I-LOC
+है।	O

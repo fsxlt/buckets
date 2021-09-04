@@ -1,0 +1,32 @@
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Stanford	I-ORG
+
+**	O
+Makamu	B-PER
+wa	I-PER
+Rais	I-PER
+wa	I-PER
+Kenya	I-PER
+
+Vipimo	B-ORG
+sanifu	I-ORG
+vya	I-ORG
+kimataifa	I-ORG
+
+Kansas	B-LOC
+City	I-LOC
+,	I-LOC
+Missouri	I-LOC
+,	O
+Marekani	B-LOC
+
+Diego	B-PER
+wa	I-PER
+Alkala	I-PER
+
+Chula	B-LOC
+Vista	I-LOC
+,	I-LOC
+California	I-LOC

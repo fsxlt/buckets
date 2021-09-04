@@ -1,0 +1,70 @@
+Ayaka	B-PER
+Kimura	I-PER
+(	O
+木村絢香	O
+)	O
+(	O
+Dari	O
+Coconuts	B-ORG
+Musume	I-ORG
+)	O
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+pudel	I-ORG
+
+Markis	B-PER
+Kido	I-PER
+&	O
+Hendra	B-PER
+Setiawan	I-PER
+1–1	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Drôme	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+Dia	O
+cemburu	O
+pada	O
+Sun	B-PER
+Wukong	I-PER
+dan	O
+sentiasa	O
+cuba	O
+menjatuhkannya	O
+.	O
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Lapland	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Eure	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+Navarra	I-ORG
+
+'	O
+''	O
+Romain	B-PER
+Grosjean	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Vienne	I-LOC

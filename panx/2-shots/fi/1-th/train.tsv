@@ -1,0 +1,54 @@
+Dire	B-ORG
+Straits	I-ORG
+(	O
+mukana	O
+myös	O
+Sting	B-PER
+)	O
+
+**	O
+''	O
+Rhynchocyon	B-LOC
+udzungwensis	I-LOC
+''	O
+
+John	B-PER
+Petrucci	I-PER
+–	O
+kitara	O
+
+Jammun	B-LOC
+ja	I-LOC
+Kashmirin	I-LOC
+sekä	O
+Uttar	B-LOC
+Pradeshin	I-LOC
+alueella	O
+.	O
+
+''	O
+'Paras	O
+hyökkääjä	O
+''	O
+'	O
+Jevgeni	B-PER
+Malkin	I-PER
+
+Pelipaikaltaan	O
+hän	O
+on	O
+hyökkääjä	O
+ja	O
+hän	O
+pelaa	O
+FC	B-ORG
+Kuusysin	I-ORG
+riveissä	O
+.	O
+
+Kanada]]	O
+'	O
+''	O
+Kanada	B-LOC
+''	O
+'	O

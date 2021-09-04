@@ -1,0 +1,16 @@
+Eurovision	B-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+Ermenistan	I-LOC
+
+YÖNLENDİRME	O
+Abraham	B-PER
+ibn	I-PER
+Ezra	I-PER
+
+FOX	B-ORG
+Crime	I-ORG
+(	O
+Platform	O
+kanalı	O
+)	O

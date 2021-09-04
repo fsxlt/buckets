@@ -1,0 +1,37 @@
+YÖNLENDİRME	O
+Hofheim	B-LOC
+am	I-LOC
+Taunus	I-LOC
+
+rect	O
+65	O
+42	O
+115	O
+170	O
+Ortak	B-LOC
+Dışişleri	I-LOC
+ve	I-LOC
+Güvenlik	I-LOC
+Politikası	I-LOC
+
+``	O
+Insieme	B-ORG
+:	I-ORG
+1992	I-ORG
+''	O
+(	O
+Toto	B-PER
+Cutugno	I-PER
+)	O
+
+YÖNLENDİRME	O
+José	B-ORG
+Alvalade	I-ORG
+Stadyumu	I-ORG
+
+'	O
+''	O
+Danny	B-PER
+Boyle	I-PER
+''	O
+'	O

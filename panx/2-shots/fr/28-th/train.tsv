@@ -1,0 +1,56 @@
+JO	B-ORG
+1928	I-ORG
+(	O
+1	O
+match	O
+)	O
+
+'	O
+''	O
+''	O
+Pump	B-ORG
+Up	I-ORG
+the	I-ORG
+Jam	I-ORG
+''	O
+'	O
+''	O
+
+Championnat	B-LOC
+du	I-LOC
+monde	I-LOC
+féminin	I-LOC
+
+Eugène	B-PER
+Trutat	I-PER
+(	O
+1840-1910	O
+)	O
+.	O
+
+Muscle	B-LOC
+semi-épineux	I-LOC
+de	I-LOC
+la	I-LOC
+tête	I-LOC
+
+Plus	O
+tard	O
+,	O
+il	O
+se	O
+rebella	O
+contre	O
+Liu	B-PER
+Shan	I-PER
+,	O
+qui	O
+envoya	O
+Dong	B-PER
+Yun	I-PER
+pour	O
+régler	O
+diplomatiquement	O
+la	O
+situation	O
+.	O

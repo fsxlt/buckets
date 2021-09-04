@@ -1,0 +1,45 @@
+في	O
+تفجير	B-ORG
+مبنى	I-ORG
+الأمن	I-ORG
+القومي	I-ORG
+السوري	I-ORG
+.	O
+
+علّم	O
+السلطان	O
+مصطفى	B-PER
+الثاني	I-PER
+والسلطان	O
+أحمد	B-PER
+الثالث	I-PER
+فنال	O
+حظوه	O
+.	O
+
+المدرسة	B-ORG
+البوعنانية	I-ORG
+(	I-ORG
+مكناس	I-ORG
+)	I-ORG
+
+ينتشر	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+.	O
+
+تحويل	O
+اتحاد	B-LOC
+أوغندا	I-LOC
+لكرة	I-LOC
+القدم	I-LOC
+
+'	O
+''	O
+هشام	B-PER
+الكروج	I-PER
+''	O
+'	O

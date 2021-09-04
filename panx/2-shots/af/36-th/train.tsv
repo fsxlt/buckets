@@ -1,0 +1,39 @@
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Stefanus	I-PER
+II	I-PER
+.	O
+
+van	O
+Coller	O
+van	O
+die	O
+Verenigde	B-ORG
+Party	I-ORG
+(	O
+onbestrede	O
+)	O
+
+AANSTUUR	O
+Strandlopers	B-LOC
+en	I-LOC
+snippe	I-LOC
+
+Pous	B-PER
+Gajus	I-PER
+(	O
+283-296	O
+)	O
+
+Villar	B-LOC
+del	I-LOC
+Ala	I-LOC
+
+Russiese	B-ORG
+Rewolusie	I-ORG
+(	I-ORG
+1905	I-ORG
+)	I-ORG

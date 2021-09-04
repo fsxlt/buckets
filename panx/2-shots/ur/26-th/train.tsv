@@ -1,0 +1,31 @@
+رجوع_مکرر	O
+گنڈا	B-ORG
+سنگھ	I-ORG
+والا	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+آل	B-ORG
+انڈیا	I-ORG
+مسلم	I-ORG
+لیگ	I-ORG
+
+رجوع_مکرر	O
+آرتھر	B-PER
+کونن	I-PER
+ڈویل	I-PER
+
+سوکلو	B-PER
+محمد	I-PER
+پاشا	I-PER
+
+رجوع_مکرر	O
+لال	B-LOC
+گائے	I-LOC
+ڈیپارٹمنٹ	I-LOC
+
+رجوع_مکرر	O
+شیرڈین	B-LOC
+کاؤنٹی،	I-LOC
+شمالی	I-LOC
+ڈکوٹا	I-LOC

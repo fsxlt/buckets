@@ -1,0 +1,115 @@
+2011-12	O
+urtean	O
+azkenean	O
+lortu	O
+du	O
+Superliga	B-ORG
+daniarra	I-ORG
+irabaztea	O
+.	O
+
+'	O
+''	O
+Thyrnau	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Shanxi	B-LOC
+probintziaren	I-LOC
+banaketa	I-LOC
+administratiboa	I-LOC
+
+'	O
+''	O
+Mikel	B-PER
+Rico	I-PER
+''	O
+'	O
+
+Brasilgo	B-LOC
+Hegoaldeko	B-LOC
+Rio	I-LOC
+Grande	I-LOC
+
+Hain	O
+zuzen	O
+,	O
+hego-mendebaldean	O
+,	O
+lehenengo	O
+etxaldeak	O
+eraikitzen	O
+hasi	O
+ziren	O
+eta	O
+Itsaso	B-LOC
+Baltikoko	I-LOC
+gainontzeko	O
+herriekin	O
+harremana	O
+estutu	O
+zen	O
+.	O
+
+Coahuila	B-LOC
+de	I-LOC
+Zaragoza	I-LOC
+estatuan	O
+kokatua	O
+dago	O
+.	O
+
+BIRZUZENDU	O
+Maria	B-PER
+Helena	I-PER
+Vieira	I-PER
+da	I-PER
+Silva	I-PER
+
+BIRZUZENDU	O
+Heinrich	B-PER
+der	I-PER
+Glïchezäre	I-PER
+
+Bristolgo	B-ORG
+Temple	I-ORG
+Meads	I-ORG
+tren	I-ORG
+geltokia	I-ORG
+
+Maccabi	B-ORG
+Tel	I-ORG
+Aviv	I-ORG
+(	O
+2011-2014	O
+)	O
+
+Beste	O
+hiru	O
+kantarirekin	O
+batera	O
+(	O
+Björn	B-PER
+Ulvaeus	I-PER
+,	O
+Benny	B-PER
+Andersson	I-PER
+eta	O
+Anni-Frid	B-PER
+Lyngstad	I-PER
+)	O
+ABBA	B-ORG
+talde	O
+ospetsua	O
+sortu	O
+zuen	O
+.	O
+
+Real	B-ORG
+Academia	I-ORG
+Españolako	I-ORG
+prseidentea	O

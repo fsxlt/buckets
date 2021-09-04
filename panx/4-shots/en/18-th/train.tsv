@@ -1,0 +1,96 @@
+2000	B-ORG
+Men	I-ORG
+'s	I-ORG
+Olympic	I-ORG
+Games	I-ORG
+100m	I-ORG
+Breaststroke	I-ORG
+(	I-ORG
+Sydney	I-ORG
+)	I-ORG
+
+All	B-ORG
+Star	I-ORG
+(	I-ORG
+song	I-ORG
+)	I-ORG
+
+*1967	O
+:	O
+honorary	O
+Doctor	B-ORG
+of	I-ORG
+Laws	I-ORG
+from	O
+the	O
+University	B-ORG
+of	I-ORG
+Manitoba	I-ORG
+
+Mary	B-PER
+of	I-PER
+the	I-PER
+Divine	I-PER
+Heart	I-PER
+
+'	O
+''	O
+Winnipeg	B-ORG
+Blue	I-ORG
+Bombers	I-ORG
+''	O
+'	O
+
+Reserve	B-LOC
+Township	I-LOC
+,	I-LOC
+Parke	I-LOC
+County	I-LOC
+,	I-LOC
+Indiana	I-LOC
+
+The	O
+losses	O
+would	O
+cost	O
+head	O
+coach	O
+Randy	B-PER
+Shannon	I-PER
+his	O
+job	O
+.	O
+
+Initially	O
+,	O
+the	O
+band	O
+featured	O
+BJH	O
+drummer	O
+Mel	B-PER
+Pritchard	I-PER
+.	O
+
+''	O
+Parmelia	B-LOC
+asiatica	I-LOC
+''	O
+
+Hampden	B-LOC
+,	I-LOC
+Massachusetts	I-LOC
+
+''	O
+Ancylolomia	B-LOC
+inornata	I-LOC
+''	O
+Staudinger	O
+,	O
+1870	O
+
+Ha	B-PER
+Jung-woo	I-PER
+,	O
+Kang	B-PER
+Dong-won	I-PER

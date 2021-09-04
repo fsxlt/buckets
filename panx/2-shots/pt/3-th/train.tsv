@@ -1,0 +1,27 @@
+Grande	B-LOC
+Lago	I-LOC
+do	I-LOC
+Urso	I-LOC
+
+Foram	O
+detidos	O
+pelo	O
+Capitão	B-PER
+América	I-PER
+.	O
+
+In	B-ORG
+the	I-ORG
+Lonely	I-ORG
+Hour	I-ORG
+''	O
+
+Terra	B-LOC
+do	I-LOC
+Fogo	I-LOC
+
+Eddie	B-PER
+Shore	I-PER
+,	O
+Boston	B-ORG
+Bruins	I-ORG

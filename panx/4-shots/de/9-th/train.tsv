@@ -1,0 +1,121 @@
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Trient	I-LOC
+''	O
+'	O
+
+WEITERLEITUNG	O
+Bohemians	B-ORG
+Prag	I-ORG
+1905	I-ORG
+
+Aber	O
+erst	O
+in	O
+der	O
+Weimarer	B-LOC
+Republik	I-LOC
+sollten	O
+diese	O
+Ideen	O
+umgesetzt	O
+werden	O
+.	O
+
+in	O
+Barcelona	B-LOC
+,	O
+Palau	B-ORG
+Blaugrana	I-ORG
+
+'	O
+''	O
+CR	B-ORG
+Belouizdad	I-ORG
+''	O
+'	O
+
+Sie	O
+befindet	O
+sich	O
+auf	O
+dem	O
+Gebiet	O
+des	O
+Departamento	B-LOC
+Cerro	B-LOC
+Largo	I-LOC
+in	O
+dessen	O
+''Sektor	O
+4	O
+''	O
+.	O
+
+Die	O
+wichtigsten	O
+Gipfel	O
+unten	O
+werden	O
+nach	O
+anderen	O
+Klassifikationen	O
+zu	O
+den	O
+Emmentaler	B-LOC
+Alpen	I-LOC
+gerechnet	O
+.	O
+
+Heinrich	B-PER
+Popow	I-PER
+,	O
+T42	O
+
+Unter	O
+Maria	B-PER
+Theresia	I-PER
+wurde	O
+die	O
+Anlage	O
+stark	O
+erweitert	O
+.	O
+
+María	B-PER
+de	I-PER
+Villota	I-PER
+
+Liang	B-PER
+Wu	I-PER
+Di	I-PER
+begründet	O
+im	O
+Süden	O
+des	O
+Kaiserreich	B-PER
+Chinas	I-PER
+die	O
+Liang-Dynastie	B-LOC
+,	O
+die	O
+die	O
+Qi-Dynastie	B-ORG
+ablöst	O
+.	O
+
+Die	O
+Church	B-ORG
+of	I-ORG
+Scotland	I-ORG
+und	O
+die	O
+römisch-katholische	B-ORG
+Kirche	I-ORG
+sind	O
+somit	O
+weit	O
+mitgliederstärker	O
+.	O

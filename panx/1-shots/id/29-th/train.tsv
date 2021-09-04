@@ -1,0 +1,27 @@
+'	O
+''	O
+Ivan	B-PER
+Lendl	I-PER
+''	O
+'	O
+
+Universitas	B-ORG
+Gadjah	I-ORG
+Mada	I-ORG
+,	O
+ditetapkan	O
+berdasarkan	O
+Peraturan	O
+Pemerintah	O
+Nomor	O
+153	O
+Tahun	O
+2000	O
+.	O
+
+Ibu	O
+kotanya	O
+adalah	O
+La	B-LOC
+Paz	I-LOC
+.	O

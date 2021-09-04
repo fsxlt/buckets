@@ -1,0 +1,72 @@
+نرگس	B-PER
+(	I-PER
+پاکستانی	I-PER
+اداکارہ	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+صفی	B-LOC
+آباد،	I-LOC
+جاوانرود	I-LOC
+
+رجوع_مکرر	O
+پاکستان	B-ORG
+ملٹری	I-ORG
+اکیڈمی	I-ORG
+
+رجوع_مکرر	O
+شمالی	B-ORG
+محکمہ	I-ORG
+(	I-ORG
+ہیٹی	I-ORG
+)	I-ORG
+
+موسیٰ	B-PER
+کاظم	I-PER
+قرہ	I-PER
+بکر	I-PER
+
+کلارکسویل،	B-LOC
+ہنٹرڈن	I-LOC
+کاؤنٹی،	I-LOC
+نیو	I-LOC
+جرسی	I-LOC
+
+دی	B-LOC
+پاس،	I-LOC
+مینی	I-LOC
+ٹوبا	I-LOC
+
+رجوع_مکرر	O
+یوسمتھے	B-LOC
+ولیج،	I-LOC
+کیلی	I-LOC
+فورنیا	I-LOC
+
+رجوع_مکرر	O
+دلائی	B-PER
+لاما	I-PER
+دہم	I-PER
+
+رجوع_مکرر	O
+سوانت	B-PER
+اوگست	I-PER
+آرنیوس	I-PER
+
+ان	O
+کا	O
+مدفن	O
+روضۂ	B-ORG
+امام	I-ORG
+حسين	I-ORG
+کربلا،	B-LOC
+عراق	B-LOC
+ہے	O
+.	O
+
+پاکستان	B-ORG
+مسلم	I-ORG
+لیگ	I-ORG
+(	I-ORG
+ق	I-ORG
+)	I-ORG

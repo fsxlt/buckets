@@ -1,0 +1,76 @@
+'	O
+''	O
+Viktor	B-PER
+Yushchenko	I-PER
+''	O
+'Віктор	O
+Ющенко	O
+
+LENCONG	O
+Spaniel	B-ORG
+air	I-ORG
+Tweed	I-ORG
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Catalonia	I-ORG
+
+Beliau	O
+merupakan	O
+isteri	O
+kepada	O
+Malcolm	B-PER
+X	I-PER
+.	O
+
+LENCONG	O
+Vinary	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Hradec	I-LOC
+Králové	I-LOC
+)	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Pasukan	B-ORG
+Pertahanan	I-ORG
+Diri	I-ORG
+Jepun	I-ORG
+
+Dia	O
+secara	O
+meluas	O
+dianggap	O
+sebagai	O
+pengganti	O
+kepada	O
+Gianluigi	B-PER
+Buffon	I-PER
+.	O
+
+Mohd	B-PER
+Najib	I-PER
+bin	I-PER
+Abdul	I-PER
+Razak	I-PER
+
+''	O
+Winx	B-ORG
+Club	I-ORG
+''	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+La	B-LOC
+Boca	I-LOC
+(	O
+46,000	O
+)	O

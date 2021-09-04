@@ -1,0 +1,33 @@
+ALIH	O
+Korps	B-ORG
+Pasukan	I-ORG
+Khas	I-ORG
+
+Darmono	B-PER
+,	I-PER
+S.H.	I-PER
+,	I-PER
+M.M	I-PER
+
+Günzburg	B-LOC
+(	I-LOC
+distrik	I-LOC
+)	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Orne	I-LOC
+
+Stairway	B-ORG
+To	I-ORG
+Heaven	I-ORG
+''	O
+
+'	O
+''	O
+Egor	B-PER
+Filipenko	I-PER
+''	O
+'	O

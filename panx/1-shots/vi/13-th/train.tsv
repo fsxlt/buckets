@@ -1,0 +1,24 @@
+Tiền	B-PER
+Nguyên	I-PER
+Quán	I-PER
+(	O
+錢元瓘	O
+)	O
+
+``	O
+My	B-ORG
+Girl	I-ORG
+''	O
+
+Nằm	O
+trên	O
+biên	O
+giới	O
+giữa	O
+Nepal	B-LOC
+và	O
+Sikkim	B-LOC
+,	O
+Ấn	B-LOC
+Độ	I-LOC
+.	O

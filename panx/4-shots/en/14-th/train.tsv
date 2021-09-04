@@ -1,0 +1,115 @@
+Misawa	B-ORG
+AB	I-ORG
+,	O
+Japan	B-LOC
+,	O
+29	O
+November	O
+1965	O
+–	O
+15	O
+May	O
+1971	O
+
+Michael	B-PER
+Jackson	I-PER
+–	O
+``	O
+Earth	B-ORG
+Song	I-ORG
+''	O
+
+Indian	B-LOC
+Ocean	I-LOC
+,	O
+Rodrigues	B-ORG
+Island	I-ORG
+
+*2005	O
+:	O
+Intelligence	B-ORG
+Failure	I-ORG
+''	O
+
+**	O
+Duke	B-PER
+of	I-PER
+Loulé	I-PER
+(	O
+1869–1870	O
+)	O
+
+It	O
+is	O
+located	O
+in	O
+the	O
+bordering	O
+area	O
+of	O
+Rilong	B-LOC
+Town	I-LOC
+,	O
+Xiaojin	B-LOC
+County	I-LOC
+and	O
+Wenchuan	B-LOC
+County	I-LOC
+in	O
+Ngawa	B-LOC
+Tibetan	I-LOC
+and	I-LOC
+Qiang	I-LOC
+Autonomous	I-LOC
+Prefecture	I-LOC
+,	O
+Sichuan	B-LOC
+Province	I-LOC
+.	O
+
+Netřebice	B-LOC
+(	I-LOC
+Český	I-LOC
+Krumlov	I-LOC
+District	I-LOC
+)	I-LOC
+
+Sunil	B-PER
+Dutt	I-PER
+,	O
+Rekha	B-PER
+,	O
+Ranjeet	B-PER
+,	O
+Rajendra	B-PER
+Nath	I-PER
+
+Ohio	B-ORG
+Business	I-ORG
+College	I-ORG
+-	I-ORG
+Sheffield	I-ORG
+Campus	I-ORG
+''	O
+:	O
+350	O
+
+Republic	B-LOC
+of	I-LOC
+Venice	I-LOC
+
+Wafaa	B-PER
+Bilal	I-PER
+,	O
+artist	O
+and	O
+professor	O
+at	O
+the	O
+School	B-ORG
+of	I-ORG
+the	I-ORG
+Art	I-ORG
+Institute	I-ORG
+of	I-ORG
+Chicago	I-ORG

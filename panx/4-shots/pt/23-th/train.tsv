@@ -1,0 +1,96 @@
+Apenas	O
+pode	O
+ser	O
+encontrada	O
+no	O
+Brasil	B-LOC
+.	O
+
+Jodie	B-PER
+Foster	I-PER
+(	O
+Las	B-LOC
+Vegas	I-LOC
+,	O
+Hong	B-LOC
+Kong	I-LOC
+)	O
+
+'	O
+''	O
+Alain	B-PER
+Prost	I-PER
+''	O
+'	O
+
+REDIRECIONAMENTO	O
+Cayo	B-LOC
+(	I-LOC
+Belize	I-LOC
+)	I-LOC
+
+'	O
+''	O
+5	B-ORG
+Seconds	I-ORG
+of	I-ORG
+Summer	I-ORG
+''	O
+'	O
+''	O
+
+Bayer	B-ORG
+Esporte	I-ORG
+Clube	I-ORG
+
+Tryggve	B-PER
+Andersen	I-PER
+(	O
+1866–1920	O
+)	O
+
+Emerson	B-PER
+Fittipaldi	I-PER
+e	O
+Michael	B-PER
+Andretti	I-PER
+também	O
+se	O
+envolveram	O
+no	O
+acidente	O
+,	O
+mas	O
+não	O
+sofreram	O
+danos	O
+consideráveis	O
+.	O
+
+Museu	B-ORG
+de	I-ORG
+Zoologia	I-ORG
+da	I-ORG
+Universidade	I-ORG
+de	I-ORG
+São	I-ORG
+Paulo	I-ORG
+(	O
+MZUSP	O
+)	O
+,	O
+em	O
+São	B-LOC
+Paulo	I-LOC
+;	O
+
+``	O
+End	B-ORG
+of	I-ORG
+Time	I-ORG
+''	O
+
+Vibrac	B-LOC
+(	I-LOC
+Charente-Maritime	I-LOC
+)	I-LOC

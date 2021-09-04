@@ -1,0 +1,35 @@
+**	O
+Rhea	B-PER
+Perlman	I-PER
+–	O
+Cin	B-ORG
+cin	I-ORG
+''	O
+(	O
+''Cheers	O
+''	O
+)	O
+
+La	O
+canzone	O
+compare	O
+anche	O
+sui	O
+titoli	O
+di	O
+coda	O
+,	O
+anche	O
+se	O
+cantata	O
+dai	O
+Pearl	B-ORG
+Jam	I-ORG
+.	O
+
+Palu	B-LOC
+-	O
+capoluogo	O
+di	O
+Sulawesi	B-LOC
+Centrale	I-LOC

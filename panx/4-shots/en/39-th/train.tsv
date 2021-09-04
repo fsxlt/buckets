@@ -1,0 +1,112 @@
+The	B-PER
+2nd	I-PER
+Earl	I-PER
+of	I-PER
+Suffolk	I-PER
+15	O
+June	O
+1626	O
+–	O
+3	O
+June	O
+1640	O
+
+Roman	B-LOC
+Catholic	I-LOC
+Diocese	I-LOC
+of	I-LOC
+Birmingham	I-LOC
+in	I-LOC
+Alabama	I-LOC
+
+List	B-ORG
+of	I-ORG
+Kentucky	I-ORG
+Civil	I-ORG
+War	I-ORG
+Units	I-ORG
+
+From	O
+2011	O
+to	O
+2012	O
+he	O
+served	O
+as	O
+Deputy	O
+of	O
+the	O
+LXI	B-PER
+Legislature	I-PER
+of	I-PER
+the	I-PER
+Mexican	I-PER
+Congress	I-PER
+representing	O
+Quintana	B-LOC
+Roo	I-LOC
+.	O
+
+Ashot	B-PER
+I	I-PER
+of	I-PER
+Iberia	I-PER
+
+He	O
+moved	O
+to	O
+Alma	B-LOC
+,	I-LOC
+Wisconsin	I-LOC
+in	O
+1855	O
+.	O
+
+Douglas	B-PER
+Rain	I-PER
+,	O
+''Master	O
+Builder	O
+''	O
+
+Central	B-ORG
+Election	I-ORG
+Commission	I-ORG
+(	I-ORG
+Taiwan	I-ORG
+)	I-ORG
+
+Her	O
+works	O
+were	O
+exhibited	O
+at	O
+the	O
+Royal	B-ORG
+Academy	I-ORG
+of	I-ORG
+Art	I-ORG
+between	O
+1852	O
+and	O
+1865	O
+.	O
+
+Hinesville	B-LOC
+,	I-LOC
+Georgia	I-LOC
+–	O
+$	O
+14,300	O
+
+It	O
+was	O
+released	O
+under	O
+Universal	B-ORG
+Records	I-ORG
+on	O
+early	O
+September	O
+2007	O
+.	O

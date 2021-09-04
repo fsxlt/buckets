@@ -1,0 +1,125 @@
+Dhèwèké	O
+dikanonisasi	O
+déning	O
+Paus	B-PER
+Nikolas	I-PER
+I	I-PER
+.	O
+
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Kamerun	B-LOC
+(	O
+5	O
+%	O
+)	O
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Tiyang	O
+kekalih	O
+punika	O
+mendhet	O
+ulam	O
+ingkang	O
+mawarni-warni	O
+kondur	O
+dhateng	O
+Éropah	B-LOC
+kelebet	O
+''Incisus	O
+Glossolepis	O
+''	O
+.	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+Repertoar	O
+iki	O
+arupa	O
+daur	O
+ulang	O
+saka	O
+répertoar	O
+berjudul	O
+padha	O
+kang	O
+pernah	O
+ditotonaké	O
+déning	O
+Tim	O
+S	O
+SKE48	B-ORG
+.	O
+
+'	O
+''	O
+Luís	B-PER
+Figo	I-PER
+''	O
+'	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+Paus	B-PER
+Zephyrinus	I-PER
+--	O
+--	O
+YaYa	O
+
+1998	B-ORG
+-	O
+''ora	O
+lolos	O
+''	O
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

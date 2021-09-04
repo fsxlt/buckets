@@ -1,0 +1,27 @@
+Raymond	B-PER
+Impanis	I-PER
+(	O
+)	O
+s.t	O
+.	O
+
+New	B-LOC
+York	I-LOC
+hiriko	O
+Hamalaugarren	O
+eta	O
+Bosgarren	B-ORG
+Etorbidearen	I-ORG
+artean	O
+,	O
+Rockefeller	B-ORG
+Center	I-ORG
+eraikin-multzoarekin	O
+parez-pare	O
+.	O
+
+1923ko	B-ORG
+Ingalaterrako	I-ORG
+Futbol	I-ORG
+Koparen	I-ORG
+Finala	I-ORG

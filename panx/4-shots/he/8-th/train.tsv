@@ -1,0 +1,113 @@
+וממוקם	O
+קואלה	B-LOC
+לומפור	I-LOC
+,	O
+מלזיה	B-LOC
+.	O
+
+הפניה	O
+הרפובליקה	B-LOC
+הטורקית	I-LOC
+של	I-LOC
+צפון	I-LOC
+קפריסין	I-LOC
+
+הפניה	O
+Bring	B-ORG
+Me	I-ORG
+the	I-ORG
+Horizon	I-ORG
+
+טו	B-ORG
+אנלימיטד	I-ORG
+-	O
+``	O
+Twilight	O
+Zone	O
+''	O
+
+ברקן	B-LOC
+סורי	I-LOC
+(	O
+''Notobasis	O
+–	O
+Syrian	O
+thistle	O
+''	O
+)	O
+
+כיום	O
+מתאפיין	O
+האזור	O
+באוכלוסייה	O
+גדולה	O
+הודו	B-LOC
+,	O
+בנגלדש	B-LOC
+,	O
+פקיסטן	B-LOC
+אפריקה	B-LOC
+.	O
+
+שארל	B-PER
+השביעי	I-PER
+ובנו	O
+,	O
+לואי	B-PER
+העשירי	I-PER
+שמרו	O
+מרחק	O
+מהעיר	O
+,	O
+העדיפו	O
+להתגורר	O
+עמק	B-LOC
+הלואר	I-LOC
+,	O
+ושהו	O
+בפריז	O
+רק	O
+לעתים	O
+נדירות	O
+.	O
+
+'	O
+''	O
+הוליווד	B-ORG
+הילס	I-ORG
+''	O
+'	O
+
+צפת	B-LOC
+שיגרה	O
+ארבעה	O
+צירים	O
+טבריה	B-LOC
+שלושה	O
+(	O
+בהם	O
+יהושע	B-PER
+חנקין	I-PER
+)	O
+.	O
+
+נבחרת	B-ORG
+אורוגוואי	I-ORG
+זוכה	O
+בטורניר	O
+.	O
+
+הפניה	O
+ארנסט	B-PER
+היינריך	I-PER
+ובר	I-PER
+
+בין	O
+השנים	O
+1939-1937	O
+עבדה	O
+עם	O
+אלברט	B-PER
+שווייצר	I-PER
+גבון	B-LOC
+.	O

@@ -1,0 +1,64 @@
+Die	O
+beiden	O
+Gemeinden	O
+gehören	O
+verschiedenen	O
+Départements	B-LOC
+an	O
+,	O
+so	O
+befindet	O
+sich	O
+links	O
+der	O
+Straße	O
+das	O
+Département	B-LOC
+Jura	I-LOC
+und	O
+rechts	O
+der	O
+Straße	O
+das	O
+Département	B-LOC
+Saône-et-Loire	I-LOC
+und	O
+umgekehrt	O
+.	O
+
+Michael	B-PER
+W.	I-PER
+Vannier	I-PER
+
+Neustadt	B-LOC
+an	I-LOC
+der	I-LOC
+Orla	I-LOC
+,	O
+Markt	O
+
+Bereits	O
+1971	O
+gründete	O
+er	O
+die	O
+European	B-ORG
+Business	I-ORG
+School	I-ORG
+(	I-ORG
+EBS	I-ORG
+)	I-ORG
+.	O
+
+US	B-ORG
+Dunkerque	I-ORG
+D2	O
+-	O
+SR	B-ORG
+Saint-Dié	I-ORG
+D3	O
+3:1	O
+
+José	B-PER
+Bono	I-PER
+Martínez	I-PER

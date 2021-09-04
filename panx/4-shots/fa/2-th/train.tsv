@@ -1,0 +1,93 @@
+تغییرمسیر	O
+دادگاه‌های	B-ORG
+ناحیه	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+آدا	B-PER
+(	I-PER
+ساتراپ	I-PER
+کاریا	I-PER
+)	I-PER
+
+تغییرمسیر	O
+حشره‌خوار	B-LOC
+جنگلی	I-LOC
+خزه	I-LOC
+
+تغییر_مسیر	O
+راجر	B-PER
+ولکات	I-PER
+اسپری	I-PER
+
+تغییرمسیر	O
+ذبیح‌آباد	B-LOC
+(	I-LOC
+سمیرم	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+رالی	B-ORG
+قهرمانی	I-ORG
+جهان	I-ORG
+
+تغییرمسیر	O
+هیاتسینت	B-PER
+گراف	I-PER
+اشتراخویتس	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+فنی	B-PER
+بالوک	I-PER
+ورکمن	I-PER
+
+تغییر_مسیر	O
+قوام‌آباد	B-LOC
+(	I-LOC
+چترود	I-LOC
+)	I-LOC
+
+اما	O
+در	O
+شرایطی	O
+که	O
+طرابلس	B-LOC
+و	O
+بنغازی	B-LOC
+را	O
+شبه‌نظامیان	O
+کنترل	O
+می‌کردند	O
+انتقال	O
+قدرت	O
+به	O
+سختی	O
+امکانپذیر	O
+بود	O
+.	O
+
+**	O
+شهدخوار	B-LOC
+زیتونی	I-LOC
+,	O
+''Cyanomitra	O
+olivacea	O
+''	O

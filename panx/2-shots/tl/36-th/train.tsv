@@ -1,0 +1,38 @@
+Andrew	B-PER
+E	I-PER
+.	I-PER
+
+'	O
+''	O
+Timog	B-LOC
+Korea	I-LOC
+''	O
+'	O
+
+Lupon	B-ORG
+sa	I-ORG
+Pagrerepaso	I-ORG
+at	I-ORG
+Pag-uuri	I-ORG
+ng	I-ORG
+Sine	I-ORG
+at	I-ORG
+Telebisyon	I-ORG
+
+22px	O
+Robles	B-LOC
+La	I-LOC
+Paz	I-LOC
+
+Ida	B-PER
+B.	I-PER
+Wells	I-PER
+
+Pandaigdigang	B-ORG
+mga	I-ORG
+Gideon	I-ORG
+
+Memory	B-LOC
+(	I-LOC
+kompyuter	I-LOC
+)	I-LOC

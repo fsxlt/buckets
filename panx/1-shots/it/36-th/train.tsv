@@ -1,0 +1,16 @@
+Whitney	B-PER
+Houston	I-PER
+–	O
+``	O
+How	B-ORG
+Will	I-ORG
+I	I-ORG
+Know	I-ORG
+''	O
+
+''	O
+Lathyrus	B-LOC
+aphaca	I-LOC
+''	O
+L	O
+.	O

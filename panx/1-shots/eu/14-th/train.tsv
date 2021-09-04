@@ -1,0 +1,50 @@
+Brandenburgo	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+Klose	B-PER
+4	O
+'	O
+,	O
+Podolski	B-PER
+57	O
+'	O
+
+Gipuzkoa	B-ORG
+Donostia	I-ORG
+Kutxaren	I-ORG
+erakusketa	O
+areto	O
+nagusia	O
+da	O
+(	O
+''Kubo	O
+aretoa	O
+''	O
+)	O
+.	O
+
+Jatorria	O
+Euskal	B-LOC
+Herrian	I-LOC
+du	O
+.	O
+
+Edozelan	O
+ere	O
+,	O
+Oliver	B-PER
+Cromwell	I-PER
+iritsi	O
+zenean	O
+herriak	O
+120	O
+biztanle	O
+baino	O
+ez	O
+zituen	O
+.	O

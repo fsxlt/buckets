@@ -1,0 +1,87 @@
+Takashi	B-PER
+Ukaji	I-PER
+as	O
+Akira	B-PER
+Kurosawa	I-PER
+
+SWAT	B-ORG
+Kats	I-ORG
+:	I-ORG
+The	I-ORG
+Radical	I-ORG
+Squadron	I-ORG
+
+Paradise	B-LOC
+(	I-LOC
+The	I-LOC
+Insyderz	I-LOC
+EP	I-LOC
+)	I-LOC
+
+''	O
+Jung	B-PER
+Woo	I-PER
+''	O
+'	O
+-	O
+'	O
+''	O
+You	B-ORG
+'re	I-ORG
+the	I-ORG
+Best	I-ORG
+,	I-ORG
+Lee	I-ORG
+Soon-shin	I-ORG
+''	O
+'	O
+''	O
+
+It	O
+is	O
+officially	O
+recognized	O
+in	O
+Russia	B-LOC
+.	O
+
+Luke	B-PER
+Ridnour	I-PER
+(	O
+6	O
+)	O
+
+Jaquirana	B-LOC
+Remo	I-LOC
+language	I-LOC
+
+It	O
+was	O
+formerly	O
+confused	O
+with	O
+the	O
+North	B-ORG
+Atlantic	I-ORG
+species	O
+Dendronotus	B-LOC
+frondosus	I-LOC
+''	O
+.	O
+
+Unionville	B-LOC
+,	I-LOC
+Chester	I-LOC
+County	I-LOC
+,	I-LOC
+Pennsylvania	I-LOC
+
+North-West	B-ORG
+Mounted	I-ORG
+Police	I-ORG
+
+Alim	B-PER
+Kouliev	I-PER
+-	O
+''Urka	O
+''	O

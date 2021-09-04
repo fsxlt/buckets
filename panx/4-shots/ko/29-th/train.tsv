@@ -1,0 +1,139 @@
+가나가와	B-LOC
+현	I-LOC
+요코하마	B-LOC
+시	I-LOC
+아오바	B-LOC
+구	I-LOC
+출신으로	O
+이름인	O
+‘유키’는	O
+‘소나무’	O
+(	O
+松	O
+)	O
+의	O
+‘나무’	O
+(	O
+樹	O
+)	O
+에	O
+풍성하게	O
+‘잎’	O
+(	O
+裕	O
+)	O
+이	O
+붙는	O
+것에서	O
+유래했다	O
+.	O
+
+포켓몬스터	B-ORG
+AG》	I-ORG
+어딘가에서	O
+어떤애가	O
+델케티를	O
+소환한다	O
+.	O
+
+넘겨주기	O
+프티	B-PER
+(	I-PER
+포르투갈의	I-PER
+축구	I-PER
+선수	I-PER
+)	I-PER
+
+넘겨주기	O
+브라이스	B-PER
+댈러스	I-PER
+하워드	I-PER
+
+칠레	B-LOC
+발파라이소	B-LOC
+주	I-LOC
+발파라이소	B-LOC
+
+동쪽은	O
+황해	B-LOC
+,	O
+서쪽은	O
+보하이	B-LOC
+만에	I-LOC
+접해	O
+있다	O
+.	O
+
+다카쿠라	B-PER
+천황의	I-PER
+네번째	O
+아들로	O
+,	O
+고시라카와	B-PER
+천황의	I-PER
+황손이었다	O
+.	O
+
+넘겨주기	O
+세계	B-ORG
+자연	I-ORG
+기금	I-ORG
+
+현재	O
+본사는	O
+서울특별시	B-LOC
+종로구	B-LOC
+종로5길	O
+68	O
+(	O
+수송동	O
+80	O
+)	O
+에	O
+위치하고	O
+있다	O
+.	O
+
+1군에서는	O
+아카호시	B-PER
+노리히로의	I-PER
+부상	O
+등으로	O
+개인	O
+최다인	O
+28경기에	O
+출전하여	O
+8개의	O
+도루를	O
+기록했다	O
+.	O
+
+넘겨주기	O
+TCL	B-ORG
+차이니즈	I-ORG
+시어터	I-ORG
+
+**	O
+와타라이	B-LOC
+군의	I-LOC
+다마키	B-LOC
+정	I-LOC
+
+넘겨주기	O
+벤저민	B-ORG
+무어	I-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+흔히	O
+미사곡이라	B-PER
+지칭되는	O
+것은	O
+바로	O
+이	O
+부분을	O
+가지고	O
+작곡한	O
+것이다	O
+.	O

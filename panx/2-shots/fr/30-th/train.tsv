@@ -1,0 +1,32 @@
+Abu	B-PER
+al-Abbas	I-PER
+Ahmad	I-PER
+ben	I-PER
+Muhammad	I-PER
+
+Royaume	B-LOC
+de	I-LOC
+Saba	I-LOC
+
+**	O
+À	O
+l'ouest	O
+par	O
+la	O
+province	B-LOC
+de	I-LOC
+Banten	I-LOC
+.	O
+
+Nathan	B-PER
+LaFayette	I-PER
+,	O
+Royals	B-ORG
+de	I-ORG
+Cornwall	I-ORG
+
+Penguins	B-ORG
+de	I-ORG
+Wilkes-Barre	I-ORG
+/	I-ORG
+Scranton	I-ORG

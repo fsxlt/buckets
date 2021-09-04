@@ -1,0 +1,43 @@
+오카야마	B-LOC
+현	I-LOC
+구라시키	B-LOC
+시에서	I-LOC
+태어났다	O
+.	O
+
+넘겨주기	O
+교황	B-PER
+그레고리오	I-PER
+4세	I-PER
+
+데이비드	B-PER
+켈리	I-PER
+(	I-PER
+배우	I-PER
+)	I-PER
+
+에콰도르	B-LOC
+중부의	O
+안데스	B-LOC
+산맥의	I-LOC
+동부와	O
+서부	O
+경사면에서	O
+발견된다	O
+.	O
+
+과거	O
+NBA	B-ORG
+세인트루이스	B-ORG
+호크스의	I-ORG
+홈경기장으로	O
+사용했다	O
+.	O
+
+크리스털	B-ORG
+팰리스	I-ORG
+볼티모어	I-ORG
+(	O
+NASL로	O
+이동	O
+)	O

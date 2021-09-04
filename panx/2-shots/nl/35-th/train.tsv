@@ -1,0 +1,51 @@
+Hij	O
+begon	O
+daarop	O
+aan	O
+een	O
+leven	O
+als	O
+reporter	O
+voor	O
+Le	B-ORG
+Soir	I-ORG
+''	O
+.	O
+
+'	O
+''	O
+Kim	B-PER
+Lammers	I-PER
+''	O
+'	O
+
+Erie	B-LOC
+(	I-LOC
+Pennsylvania	I-LOC
+)	I-LOC
+
+Hij	O
+was	O
+de	O
+vader	O
+van	O
+Colin	B-PER
+Davis	I-PER
+.	O
+
+Vuurland	B-LOC
+,	I-LOC
+Antarctica	I-LOC
+en	I-LOC
+Zuid-Atlantische	I-LOC
+eilanden	I-LOC
+
+Zijn	O
+grootste	O
+successen	O
+behaalde	O
+hij	O
+met	O
+Wisła	B-ORG
+Kraków	I-ORG
+.	O

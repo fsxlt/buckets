@@ -1,0 +1,40 @@
+The	B-ORG
+Bernie	I-ORG
+Mac	I-ORG
+Show	I-ORG
+''	O
+(	O
+2001-2006	O
+)	O
+
+Lijst	B-PER
+van	I-PER
+bekende	I-PER
+honderdplussers	I-PER
+
+Mate	B-PER
+'	I-PER
+''	I-PER
+Maleš	I-PER
+''	I-PER
+'	I-PER
+-	O
+
+Huszlew	B-LOC
+,	O
+Łosice	B-LOC
+,	O
+Międzyrzec	B-LOC
+Podlaski	I-LOC
+,	O
+Mordy	B-LOC
+,	O
+Zbuczyn	B-LOC
+
+**	O
+Colorado	B-ORG
+State	I-ORG
+University	I-ORG
+-	O
+Fort	B-LOC
+Collins	I-LOC

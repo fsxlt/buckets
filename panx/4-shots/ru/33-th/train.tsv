@@ -1,0 +1,92 @@
+Ближайший	O
+расположен	O
+в	O
+городе	O
+Горакхпур	B-LOC
+.	O
+
+Бывший	O
+игрок	O
+сборной	B-ORG
+Бельгии	I-ORG
+.	O
+
+Липсет	B-PER
+,	I-PER
+Сеймур	I-PER
+Мартин	I-PER
+
+Существование	O
+проаглабидского	O
+источника	O
+допускал	O
+В.	B-PER
+Ф.	I-PER
+Минорский	I-PER
+.	O
+
+Из-за	O
+частых	O
+переездов	O
+постоянно	O
+менял	O
+школы	O
+(	O
+город	O
+Умань	B-LOC
+Черкасской	B-LOC
+области	I-LOC
+,	O
+Чернигов	B-LOC
+)	O
+.	O
+
+Адель	B-PER
+—	O
+Rolling	B-ORG
+in	I-ORG
+the	I-ORG
+Deep	I-ORG
+
+The	B-ORG
+Black	I-ORG
+Keys	I-ORG
+—	O
+«Dearest»	O
+
+Похоронен	O
+актёр	O
+в	O
+Москве	B-LOC
+на	O
+Ваганьковском	B-LOC
+кладбище	I-LOC
+.	O
+
+перенаправление	O
+Кьер	B-PER
+,	I-PER
+Бодиль	I-PER
+
+Нггела	B-LOC
+(	I-LOC
+пролив	I-LOC
+)	I-LOC
+
+Швейцарская	B-ORG
+высшая	I-ORG
+техническая	I-ORG
+школа	I-ORG
+Цюриха	I-ORG
+
+Составная	O
+часть	O
+мезорегиона	O
+Запад	B-LOC
+штата	I-LOC
+Санта-Катарина	I-LOC
+.	O
+
+Мухатов	B-PER
+,	I-PER
+Вели	I-PER

@@ -1,0 +1,137 @@
+Bram	B-ORG
+Stoker	I-ORG
+'s	I-ORG
+Dracula	I-ORG
+''	O
+
+In	O
+de	O
+achtste	O
+finale	O
+kwam	O
+hij	O
+in	O
+de	O
+negende	O
+minuut	O
+in	O
+het	O
+veld	O
+voor	O
+de	O
+geblesseerde	O
+Nigel	B-PER
+de	I-PER
+Jong	I-PER
+in	O
+de	O
+met	O
+2-1	O
+gewonnen	O
+wedstrijd	O
+tegen	O
+Mexico	B-LOC
+.	O
+
+Dolf	B-PER
+van	I-PER
+der	I-PER
+Voort	I-PER
+van	I-PER
+Zijp	I-PER
+
+Klein	B-LOC
+Vielen	I-LOC
+(	O
+)	O
+
+De	O
+Auto-Cycle	B-ORG
+Union	I-ORG
+had	O
+hier	O
+duidelijk	O
+met	O
+twee	O
+maten	O
+gemeten	O
+.	O
+
+Een	O
+klein	O
+aantal	O
+migraties	O
+met	O
+elk	O
+een	O
+eigen	O
+taal	O
+(	O
+Edward	B-PER
+Sapir	I-PER
+was	O
+een	O
+voorstander	O
+van	O
+deze	O
+hypothese	O
+)	O
+
+Reiderland	B-LOC
+(	I-LOC
+voormalige	I-LOC
+gemeente	I-LOC
+)	I-LOC
+
+De	O
+politici	O
+bespreken	O
+op	O
+het	O
+feest	O
+de	O
+Volkenbond	B-ORG
+.	O
+
+DOORVERWIJZING	O
+Shan	B-LOC
+(	I-LOC
+staat	I-LOC
+)	I-LOC
+
+Rians	B-LOC
+(	I-LOC
+Cher	I-LOC
+)	I-LOC
+
+Hij	O
+werd	O
+daarom	O
+uit	O
+de	O
+wagen	O
+gezet	O
+en	O
+tijdens	O
+de	O
+laatste	O
+twee	O
+races	O
+van	O
+het	O
+seizoen	O
+vervangen	O
+door	O
+Mario	B-PER
+Domínguez	I-PER
+.	O
+
+DOORVERWIJZING	O
+Kawasaki	B-ORG
+Z	I-ORG
+1300	I-ORG
+
+DOORVERWIJZING	O
+Medi	B-ORG
+1	I-ORG
+TV	I-ORG

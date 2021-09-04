@@ -1,0 +1,105 @@
+Gewählt	O
+wurde	O
+in	O
+den	O
+Bundesstaaten	B-LOC
+New	B-LOC
+Jersey	I-LOC
+und	O
+Virginia	B-LOC
+.	O
+
+Barry	B-PER
+Gibb	I-PER
+,	O
+Robin	B-PER
+Gibb	I-PER
+
+Lothar	B-PER
+Mendes	I-PER
+,	O
+Lewis	B-PER
+Seiler	I-PER
+
+Dabei	O
+durchquert	O
+sie	O
+die	O
+Stadtgemeinden	O
+Alvalade	B-LOC
+,	O
+Avenidas	B-LOC
+Novas	I-LOC
+und	O
+Arroios	B-LOC
+.	O
+
+Sendeturm	B-ORG
+Mumbai	I-ORG
+,	O
+Mumbai	B-LOC
+,	O
+300,2	O
+Meter	O
+
+Bremer	B-LOC
+Antidiskriminierungskampagne	O
+von	O
+Werder	B-ORG
+Bremen	I-ORG
+gemeinsam	O
+mit	O
+Fanprojekten	O
+.	O
+
+Weiterleitung	O
+Albert	B-PER
+Ebossé	I-PER
+Bodjongo	I-PER
+
+Auch	O
+im	O
+Vorfeld	O
+der	O
+Landtagswahl	B-ORG
+im	I-ORG
+Saarland	I-ORG
+2012	I-ORG
+kam	O
+es	O
+zu	O
+Spannungen	O
+zwischen	O
+dem	O
+Landesverband	O
+und	O
+der	O
+Landesvereinigung	O
+.	O
+
+'	O
+''	O
+Iberien	B-LOC
+(	I-LOC
+Kartlien	I-LOC
+)	I-LOC
+''	O
+'	O
+
+1	O
+km	O
+nördlich	O
+vorbeiführenden	O
+Canal	B-LOC
+du	I-LOC
+Midi	I-LOC
+.	O
+
+Johan	B-PER
+August	I-PER
+Arfwedson	I-PER
+
+Maroon	B-ORG
+5	I-ORG
+–	O
+„Sugar“	O

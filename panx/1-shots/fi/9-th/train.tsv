@@ -1,0 +1,22 @@
+Feira	B-LOC
+de	I-LOC
+Santana	I-LOC
+-	O
+535	O
+284	O
+
+OHJAUS	O
+Franz	B-PER
+Anton	I-PER
+von	I-PER
+Schiefner	I-PER
+
+Sen	O
+julkaisi	O
+Universal	B-ORG
+Republic	I-ORG
+Records	I-ORG
+albumin	O
+kuudentena	O
+singlenä	O
+.	O

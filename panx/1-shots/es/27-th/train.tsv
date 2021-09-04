@@ -1,0 +1,18 @@
+Partido	B-ORG
+Liberal	I-ORG
+Radical	I-ORG
+Ecuatoriano	I-ORG
+(	O
+PLRE	O
+)	O
+
+REDIRECCIÓN	O
+Guérin	B-LOC
+(	I-LOC
+Quebec	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Sami	B-PER
+Al	I-PER
+Jaber	I-PER

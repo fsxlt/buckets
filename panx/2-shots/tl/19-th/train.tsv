@@ -1,0 +1,45 @@
+Vicente	B-PER
+``	I-PER
+Tito	I-PER
+''	I-PER
+'	I-PER
+''	I-PER
+S	I-PER
+''	I-PER
+'otto	I-PER
+III	I-PER
+
+''	O
+Partners	B-ORG
+Mel	I-ORG
+and	I-ORG
+Jay	I-ORG
+''	O
+(	O
+1996–2004	O
+)	O
+
+Stephen	B-ORG
+Uroš	I-ORG
+IV	I-ORG
+Dušan	I-ORG
+ng	I-ORG
+Serbia	I-ORG
+
+Wilfrido	B-PER
+Maria	I-PER
+Guerrero	I-PER
+
+Lalawigan	B-LOC
+ng	I-LOC
+Aydin	I-LOC
+
+**	O
+Seoul	B-LOC
+(	O
+Misyon	O
+)	O
+
+Lungsod	B-LOC
+ng	I-LOC
+Acre	I-LOC

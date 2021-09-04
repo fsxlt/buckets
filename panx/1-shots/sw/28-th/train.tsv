@@ -1,0 +1,21 @@
+Harper	B-LOC
+Woods	I-LOC
+,	I-LOC
+Michigan	I-LOC
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Ruth	B-PER
+First	I-PER
+(	O
+1925-1982	O
+)	O

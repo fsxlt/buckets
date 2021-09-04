@@ -1,0 +1,38 @@
+'	O
+''	O
+Steaua	B-ORG
+Boekarest	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Toni	B-PER
+Mang	I-PER
+''	O
+'	O
+
+'	O
+''	O
+AFC	B-ORG
+Ajax	I-ORG
+''	O
+'	O
+
+Richard	B-PER
+Matheson	I-PER
+(	O
+geb	O
+.	O
+
+Żabia	B-LOC
+Wola	I-LOC
+(	I-LOC
+powiat	I-LOC
+Grodziski	I-LOC
+)	I-LOC
+
+''	O
+Hipposideros	B-LOC
+cervinus	I-LOC
+''	O

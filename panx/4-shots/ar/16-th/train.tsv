@@ -1,0 +1,83 @@
+الفيلم	O
+من	O
+إخراج	O
+فرانك	B-PER
+كابرا	I-PER
+.	O
+
+تحويل	O
+تشيبينغ	B-ORG
+بارنيت	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+الراية	B-ORG
+(	I-ORG
+صحيفة	I-ORG
+قطرية	I-ORG
+)	I-ORG
+
+تحويل	O
+سامسونج	B-ORG
+بطاقة	I-ORG
+المشاركة	I-ORG
+المحدودة	I-ORG
+
+تحويل	O
+أبو	B-PER
+بكر	I-PER
+الحصار	I-PER
+
+تحويل	O
+غمسان	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+==	O
+ساو	B-LOC
+تومي	I-LOC
+وبرينسيب	I-LOC
+==	O
+
+تحويل	O
+بالد	B-LOC
+(	I-LOC
+بشتكوه	I-LOC
+)	I-LOC
+
+الانقلابات	B-ORG
+على	I-ORG
+القصر	I-ORG
+العثماني	I-ORG
+1807-1808	I-ORG
+
+فرح	B-PER
+زينب	I-PER
+عبد	I-PER
+الله	I-PER
+
+تحويل	O
+قسم	B-LOC
+مشهد	I-LOC
+میقان	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أراك	I-LOC
+)	I-LOC
+
+توم	B-PER
+أوكر	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O

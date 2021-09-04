@@ -1,0 +1,79 @@
+ALIH	O
+Celine	B-ORG
+Dion	I-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG
+
+Kongregasi	B-PER
+bagi	I-PER
+Penyebab	I-PER
+Penganugerahan	I-PER
+Gelar	I-PER
+Santo-Santa	I-PER
+
+ALIH	O
+Federasi	B-ORG
+Renang	I-ORG
+Internasional	I-ORG
+
+ALIH	O
+Raja	B-PER
+Wu	I-PER
+dari	I-PER
+Zhou	I-PER
+
+ALIH	O
+Saif	B-PER
+ad-Din	I-PER
+Al-Qutuz	I-PER
+
+ALIH	O
+Aerolíneas	B-ORG
+de	I-ORG
+Baleares	I-ORG
+
+Invasi	B-LOC
+Kepulauan	I-LOC
+Spratly	I-LOC
+1993	I-LOC
+oleh	O
+Vietnam	B-LOC
+.	O
+
+Moldova	B-LOC
+(	O
+2000	O
+)	O
+
+'	O
+''	O
+Saint	B-LOC
+Lucia	I-LOC
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardèche	I-LOC
+
+ALIH	O
+Fransiskus	B-PER
+dari	I-PER
+Assisi	I-PER
+
+alih	O
+Spearfish	B-LOC
+,	I-LOC
+Dakota	I-LOC
+Selatan	I-LOC
+
+ALIH	O
+Heavy	B-ORG
+Rotation	I-ORG
+(	I-ORG
+lagu	I-ORG
+AKB48	I-ORG
+)	I-ORG

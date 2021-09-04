@@ -1,0 +1,34 @@
+Scott	B-PER
+Weiland	I-PER
+(	O
+Stone	B-ORG
+Temple	I-ORG
+Pilots	I-ORG
+)	O
+
+Harry	B-PER
+Reid	I-PER
+(	O
+D	O
+)	O
+
+Visitaram	O
+muitos	O
+locais	O
+sagrados	O
+na	O
+Terra	B-ORG
+Santa	I-ORG
+,	O
+tais	O
+como	O
+o	O
+Monte	B-LOC
+Sinai	I-LOC
+.	O
+
+Woodmere	B-LOC
+(	I-LOC
+Nova	I-LOC
+Iorque	I-LOC
+)	I-LOC

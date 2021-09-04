@@ -1,0 +1,84 @@
+kang	O
+dikomandani	O
+déning	O
+Ahmad	B-PER
+Dhani	I-PER
+,	O
+sawisé	O
+vokalis	O
+sadurungé	O
+ya	O
+iku	O
+amarga	O
+Ari	B-PER
+Lasso	I-PER
+ditokaké	O
+.	O
+
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[5]	O
+''	O
+'	O
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+Komite	B-PER
+Nasional	I-PER
+Keselamatan	I-PER
+Transportasi	I-PER
+(	O
+KNKT	O
+)	O
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+Aki	B-PER
+Takajo	I-PER
+(	O
+高城	O
+亜樹	O
+)	O

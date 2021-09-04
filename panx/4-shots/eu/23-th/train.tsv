@@ -1,0 +1,116 @@
+Artaxoa	B-LOC
+(	O
+1193	O
+)	O
+
+Savonako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Liguria	B-LOC
+eskualdean	O
+.	O
+
+Irakasle	O
+izan	O
+zen	O
+Salamancan	B-LOC
+,	O
+Alcalan	B-LOC
+eta	O
+Valladoliden	B-LOC
+,	O
+eta	O
+Frai	B-PER
+Luis	I-PER
+Leongoa	I-PER
+izan	O
+zuen	O
+ikasleen	O
+artean	O
+.	O
+
+BIRZUZENDU	O
+Grigori	B-ORG
+Abramovitx	I-ORG
+Shajn	I-ORG
+
+Anconako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Markak	B-LOC
+eskualdean	O
+.	O
+
+Putnam	B-LOC
+konderria	I-LOC
+(	I-LOC
+Mendebaldeko	I-LOC
+Virginia	I-LOC
+)	I-LOC
+
+200	B-ORG
+km	I-ORG
+/	I-ORG
+h	I-ORG
+in	I-ORG
+the	I-ORG
+Wrong	I-ORG
+Lane	I-ORG
+
+Frans	B-PER
+Maassen	I-PER
+(	O
+2	O
+)	O
+
+Europa	B-LOC
+eta	O
+Anatolian	B-LOC
+ugaria	O
+da	O
+,	O
+eta	O
+Ipar	B-LOC
+Amerikan	I-LOC
+sartua	O
+izan	O
+da	O
+.	O
+
+Frantziaren	B-ORG
+aldeko	I-ORG
+Mugimendua	I-ORG
+
+Mustafa	B-PER
+III.aren	I-PER
+semea	O
+zen	O
+,	O
+eta	O
+osaba	O
+zuen	O
+Abdulhamid	B-PER
+I.aren	I-PER
+(	O
+1774-1789	O
+)	O
+ondorengoa	O
+.	O
+
+Europako	B-ORG
+errugbi	I-ORG
+kopa	I-ORG
+(	I-ORG
+Heineken	I-ORG
+Cup	I-ORG
+)	I-ORG
+
+Yul	B-PER
+Brynner	I-PER
+,	O
+aktorea	O
+.	O

@@ -1,0 +1,25 @@
+Lidia	B-PER
+Valentín	I-PER
+115	O
++	O
+132	O
+=	O
+247	O
+
+1	O
+operado	O
+por	O
+Bluebird	B-ORG
+Cargo	I-ORG
+
+(	O
+Carrión	B-LOC
+de	I-LOC
+Calatrava	I-LOC
+.	O
+
+'	O
+''	O
+Chaumont-en-Vexin	B-LOC
+''	O
+'	O

@@ -1,0 +1,103 @@
+تغییرمسیر	O
+فیفت	B-ORG
+ترد	I-ORG
+بنک	I-ORG
+
+وایت	B-LOC
+ماونتن،	I-LOC
+آلاسکا،	I-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+نوواتو،	B-LOC
+کالیفرنیا،	I-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+او	O
+جوان‌ترین	O
+نماینده	O
+پارلمان	B-ORG
+بریتانیا	I-ORG
+در	O
+بیش	O
+از	O
+سیصد	O
+سال	O
+اخیر	O
+است	O
+که	O
+در	O
+بیست	O
+سالگی	O
+به	O
+عضویت	O
+مجلس	B-ORG
+عوام	I-ORG
+بریتانیا	I-ORG
+درآمد	O
+.	O
+
+'	O
+''	O
+لیونل	B-PER
+لیندون	I-PER
+''	O
+'	O
+
+***	O
+زاغ	B-LOC
+درختی	I-LOC
+دم‌پارویی	I-LOC
+سیاه	I-LOC
+,	O
+''Crypsirina	O
+temia	O
+''	O
+
+===	O
+منطقه	B-LOC
+حفاظت‌شده	I-LOC
+بیجار	I-LOC
+===	O
+
+تغییرمسیر	O
+لوئیس	B-PER
+وی.	I-PER
+بوگی	I-PER
+
+تغییرمسیر	O
+یوهان	B-PER
+گوتلب	I-PER
+لایدن‌فرست	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+نمایندگی	B-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+برای	I-ORG
+توسعه	I-ORG
+بین‌المللی	I-ORG
+
+Double	O
+Indemnity	O
+in	O
+Three	O
+of	O
+a	O
+Kind]]	O
+''	O
+اثر	O
+جیمز	B-PER
+کین	I-PER

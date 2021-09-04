@@ -1,0 +1,78 @@
+Bara	B-LOC
+la	I-LOC
+Antaktiki	I-LOC
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Ghana	I-ORG
+
+Nyati	B-LOC
+wa	I-LOC
+Afrika	I-LOC
+
+Wilaya	B-ORG
+ya	I-ORG
+Yamoussoukro	I-ORG
+
+Wilhelm	B-PER
+Bleek	I-PER
+(	O
+1827-1875	O
+)	O
+
+``	O
+The	B-ORG
+Simpsons	I-ORG
+''	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Koun-Fao	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Donus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Leo	I-PER
+II	I-PER
+.	O
+
+Eneo	O
+lake	O
+ni	O
+8.4	O
+km²	B-ORG
+.	O
+
+Louis	B-PER
+Leipoldt	I-PER
+(	O
+1880-1947	O
+)	O
+
+Eneo	O
+lake	O
+ni	O
+34	O
+km²	B-ORG
+.	O
+
+Durham	B-LOC
+,	I-LOC
+North	I-LOC
+Carolina	I-LOC
+
+Jamhuri	B-LOC
+ya	I-LOC
+Kidemokrasia	I-LOC
+ya	I-LOC
+Kongo	I-LOC
+
+Shenzi	O
+-	O
+Whoopi	B-PER
+Goldberg	I-PER

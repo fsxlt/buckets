@@ -1,0 +1,16 @@
+Тотали	B-ORG
+спайс	I-ORG
+''	O
+
+виж	O
+Мексико	B-LOC
+(	I-LOC
+град	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Стефан	B-PER
+Саразен	I-PER
+''	O
+'	O

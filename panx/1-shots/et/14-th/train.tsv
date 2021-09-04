@@ -1,0 +1,21 @@
+TAP	B-ORG
+Portugal	I-ORG
+(	O
+SA	O
+)	O
+
+Aleksandr	B-PER
+Kaidanovski	I-PER
+—	O
+''Stalker	O
+''	O
+
+Itaalia]]	O
+,	O
+Sloveenia	B-LOC
+,	O
+Horvaatia	B-LOC
+,	O
+Bosnia	B-LOC
+ja	I-LOC
+Hertsegoviina	I-LOC

@@ -1,0 +1,21 @@
+मेरे	B-ORG
+रंग	I-ORG
+में	I-ORG
+रंगने	I-ORG
+वाली	I-ORG
+
+ए	B-PER
+के	I-PER
+हंगल	I-PER
+-	O
+पुजारी	O
+
+इस्लामाबाद	B-LOC
+(	I-LOC
+ईरान	I-LOC
+)	I-LOC
+
+पेरू	B-LOC
+(	O
+1967	O
+)	O

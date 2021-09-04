@@ -1,0 +1,41 @@
+Taj	B-PER
+Mahal	I-PER
+(	I-PER
+musiko	I-PER
+)	I-PER
+
+Takashima	B-LOC
+,	I-LOC
+Shiga	I-LOC
+
+Mga	B-LOC
+lalawigan	I-LOC
+ng	I-LOC
+Pilipinas	I-LOC
+
+Ito	O
+ay	O
+pinangunahan	O
+ni	O
+Marian	B-PER
+Rivera	I-PER
+
+Johan	B-PER
+Strauss	I-PER
+II	I-PER
+
+Kimitsu	B-ORG
+,	I-ORG
+Chiba	I-ORG
+
+'	O
+''	O
+Tsina	B-LOC
+''	O
+'	O
+
+Estasyong	B-ORG
+Betty	I-ORG
+Go-Belmonte	I-ORG
+ng	I-ORG
+LRT	I-ORG

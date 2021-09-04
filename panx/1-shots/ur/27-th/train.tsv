@@ -1,0 +1,15 @@
+رجوع_مکرر	O
+محمد	B-PER
+اکبر	I-PER
+خان	I-PER
+بگٹی	I-PER
+
+رجوع_مکرر	O
+بنت	B-LOC
+جبیل	I-LOC
+ضلع	I-LOC
+
+فہرست	B-ORG
+قبرص	I-ORG
+کے	I-ORG
+شہر	I-ORG

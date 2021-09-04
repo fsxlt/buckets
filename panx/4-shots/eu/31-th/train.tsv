@@ -1,0 +1,113 @@
+Estatu	B-LOC
+Batuetako	I-LOC
+Princetongo	B-ORG
+Unibertsitateko	I-ORG
+irakaslea	O
+izan	O
+zen	O
+.	O
+
+'	O
+''	O
+Thürnen	O
+''	O
+'	O
+Suitzako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Gustave	B-PER
+Courbet	I-PER
+margolaria	O
+,	O
+gertaeren	O
+arduradun	O
+egina	O
+,	O
+gartzelan	O
+sartua	O
+izan	O
+zen	O
+eta	O
+zutabearen	O
+konponketaren	O
+gastuak	O
+ordaintzera	O
+kondenatua	O
+izan	O
+zen	O
+,	O
+xoxik	O
+gabe	O
+utzi	O
+zuena	O
+.	O
+
+Tarentoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Apulia	B-LOC
+eskualdean	O
+.	O
+
+José	B-PER
+Cadalsoren	I-PER
+eta	O
+Fernández	B-PER
+de	I-PER
+Moratínen	I-PER
+adiskide	O
+izan	O
+zen	O
+.	O
+
+Pio	B-PER
+V.a	I-PER
+hautatu	O
+zuten	O
+1565–66ko	B-ORG
+konklabea	I-ORG
+.	O
+
+BIRZUZENDU	O
+Eusko	B-ORG
+Jaurlaritzako	I-ORG
+Segurtasun	I-ORG
+Saila	I-ORG
+
+BIRZUZENDU	O
+Kneo	B-PER
+Kornelio	I-PER
+Eszipion	I-PER
+Asina	I-PER
+
+Frantziako	B-ORG
+Tourrean	I-ORG
+eta	O
+etapa	O
+1	O
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Euskotren	B-ORG
+garraio	O
+enpresak	O
+ustiatzen	O
+du	O
+.	O
+
+Ennako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Sizilia	B-LOC
+eskualdean	O
+.	O

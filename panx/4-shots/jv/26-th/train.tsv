@@ -1,0 +1,130 @@
+Dhèwèké	O
+dikanonisasi	O
+déning	O
+Paus	B-PER
+Nikolas	I-PER
+I	I-PER
+.	O
+
+kang	O
+dikomandani	O
+déning	O
+Ahmad	B-PER
+Dhani	I-PER
+,	O
+sawisé	O
+vokalis	O
+sadurungé	O
+ya	O
+iku	O
+amarga	O
+Ari	B-PER
+Lasso	I-PER
+ditokaké	O
+.	O
+
+Rusia	B-LOC
+дд	O
+/	O
+мм	O
+/	O
+гггг	O
+(	O
+день	O
+/	O
+месяц	O
+/	O
+год	O
+)	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+ALIH	O
+Victoria	B-PER
+saking	I-PER
+Britania	I-PER
+Raya	I-PER
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+Deheweke	O
+wis	O
+kaping	O
+112	O
+mbela	O
+timnas	O
+,	O
+iku	O
+ndadekake	O
+dheweke	O
+urutan	O
+nomer	O
+telu	O
+wong	O
+kang	O
+paling	O
+akeh	O
+mbela	O
+timnas	O
+,	O
+nomer	O
+siji	O
+Paolo	B-PER
+Maldini	I-PER
+lan	O
+nomer	O
+loro	O
+Fabio	B-PER
+Cannavaro	I-PER
+.	O
+
+Komisi	B-ORG
+Dhuwur	I-ORG
+tumrap	I-ORG
+Pengungsi	I-ORG
+Perserikatan	I-ORG
+Bangsa-Bangsa	I-ORG
+(	I-ORG
+UNHCR	I-ORG
+)	I-ORG
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+ALIH	O
+Asosiasi	B-ORG
+Bangsa	I-ORG
+Bangsa	I-ORG
+Asia	I-ORG
+Kidul	I-ORG
+Wétan	I-ORG
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC

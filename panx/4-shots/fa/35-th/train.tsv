@@ -1,0 +1,88 @@
+تغییرمسیر	O
+آغ‌بلاغ	B-LOC
+(	I-LOC
+ارومیه	I-LOC
+)	I-LOC
+
+سید	B-PER
+حسین	I-PER
+طباطبایی	I-PER
+بروجردی	I-PER
+
+تغییرمسیر	O
+آرتور	B-PER
+لوئیس	I-PER
+دی	I-PER
+
+تغییرمسیر	O
+خوک	B-LOC
+زگیل‌دار	I-LOC
+ویسایان	I-LOC
+
+تغییرمسیر	O
+کلود	B-PER
+گ	I-PER
+آن	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+برزیل	I-ORG
+
+تغییرمسیر	O
+لاله	B-LOC
+واژگون	I-LOC
+ایرانی	I-LOC
+
+علت	O
+نامگذاری	O
+آن	O
+این	O
+بوده	O
+که	O
+این	O
+ماده	O
+از	O
+برش	O
+با	O
+اره	B-ORG
+تولید	O
+می‌شود	O
+.	O
+
+تغییرمسیر	O
+بل	B-LOC
+ایر،	I-LOC
+کانزاس	I-LOC
+
+''این	O
+ما	O
+و	O
+من	O
+''	O
+-	O
+Michel	B-PER
+Gondry	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+گهر	I-ORG
+دورود	I-ORG
+لرستان	I-ORG

@@ -1,0 +1,32 @@
+رجوع_مکرر	O
+ولکاکس	B-LOC
+کاؤنٹی،	I-LOC
+الاباما	I-LOC
+
+ظاہر	B-ORG
+پیر	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+سپالڈنگ	B-LOC
+کاؤنٹی،	I-LOC
+جارجیا	I-LOC
+
+رجوع_مکرر	O
+جارج	B-PER
+سوم،	I-PER
+مملکت	I-PER
+متحدہ	I-PER
+
+رجب	B-PER
+طیب	I-PER
+اردوغان	I-PER
+(	O
+1954–	O
+)	O
+
+2014	B-ORG
+فیفا	I-ORG
+عالمی	I-ORG
+کپ	I-ORG

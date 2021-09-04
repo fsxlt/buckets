@@ -1,0 +1,85 @@
+لعب	O
+مع	O
+منتخب	B-ORG
+ألمانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+ويليام	B-PER
+جينكس	I-PER
+وارث	I-PER
+
+*260	O
+عدد	B-ORG
+مضلعي	I-ORG
+(	O
+11	O
+أضلاع-	O
+...	O
+)	O
+
+اتحاد	B-ORG
+كوريا	I-ORG
+الجنوبية	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+روبرت	B-PER
+جونز	I-PER
+(	I-PER
+جراح	I-PER
+)	I-PER
+
+كوران	B-LOC
+كوردية	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فاروج	I-LOC
+)	I-LOC
+
+تحويل	O
+آشور	B-PER
+نادين	I-PER
+آهي	I-PER
+الأول	I-PER
+
+تحويل	O
+كلخوران	B-LOC
+(	I-LOC
+هير	I-LOC
+أردبيل	I-LOC
+)	I-LOC
+
+عالم	B-ORG
+البيسبول	I-ORG
+الكلاسيكي	I-ORG
+،	O
+أنشئها	O
+الاتحاد	B-ORG
+الدولي	I-ORG
+لكرة	I-ORG
+القاعدة	I-ORG
+.	O
+
+هشام	B-PER
+الكروج	I-PER
+(	O
+2	O
+)	O
+
+تحويل	O
+غلستان	B-LOC
+مهدي	I-LOC
+(	I-LOC
+ريغستان	I-LOC
+)	I-LOC
+
+تحويل	O
+نيو	B-LOC
+ألبيون	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC

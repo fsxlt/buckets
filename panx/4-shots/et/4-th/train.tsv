@@ -1,0 +1,116 @@
+Šoti	B-ORG
+Rahvuspartei	I-ORG
+–	O
+1,7	O
+%	O
+,	O
+6	O
+kohta	O
+;	O
+
+Linnas	O
+leidis	O
+1937–1938	O
+aset	O
+Vinnõtsja	B-ORG
+massimõrv	I-ORG
+.	O
+
+Esimese	O
+teadaoleva	O
+ümbermaailmareisi	O
+tegi	O
+Fernão	B-PER
+de	I-PER
+Magalhães	I-PER
+.	O
+
+Amy	B-PER
+Poehler	I-PER
+(	O
+2001-2009	O
+)	O
+
+Australopithecus	B-LOC
+afarensis	I-LOC
+''	O
+suurematel	O
+isenditel	O
+on	O
+suurem	O
+sarnasus	O
+inimesega	O
+kui	O
+väiksematel	O
+isenditel	O
+.	O
+
+aastal	O
+)	O
+on	O
+Ameerika	B-LOC
+Ühendriikide	I-LOC
+professionaalne	O
+korvpallimängija	O
+,	O
+mängides	O
+NBA-s	B-ORG
+klubi	O
+Boston	B-ORG
+Celticsi	I-ORG
+eest	O
+.	O
+
+aastani	O
+kuulus	O
+Moskva	B-LOC
+oblastisse	I-LOC
+.	O
+
+Kuulsaimad	O
+esindajad	O
+William	B-PER
+Blake	I-PER
+,	O
+Edgar	B-PER
+Degas	I-PER
+ja	O
+Paul	B-PER
+Gauguin	I-PER
+.	O
+
+Taavi	B-PER
+Rõivas	I-PER
+(	O
+spiiker	O
+)	O
+–	O
+2001–2003	O
+
+Alates	O
+1999.	O
+aastast	O
+toimuvad	O
+tema	O
+eestvedamisel	O
+Eesti	B-ORG
+Rahvusraamatukogus	I-ORG
+loodusõhtud	O
+.	O
+
+``	O
+Sageli	O
+kimbutasid	O
+teda	O
+SA	B-ORG
+pruunsärklased	O
+.	O
+
+aastal	O
+,	O
+kui	O
+see	O
+eraldati	O
+Lomi	B-LOC
+vallast	I-LOC
+.	O

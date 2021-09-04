@@ -1,0 +1,132 @@
+Hän	O
+pelasi	O
+NHL	B-ORG
+:	I-ORG
+ssä	I-ORG
+236	O
+peliä	O
+,	O
+ja	O
+WHA	B-ORG
+:	I-ORG
+ssa	I-ORG
+272	O
+peliä	O
+.	O
+
+Lasse	B-PER
+J.	I-PER
+Laine	I-PER
+,	O
+Suomi	B-LOC
+
+Thunder	B-LOC
+Bay	I-LOC
+,	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+
+Alueella	O
+toimivat	O
+muun	O
+muassa	O
+Polar	B-ORG
+Electro	I-ORG
+ja	O
+PKC	B-ORG
+Group	I-ORG
+.	O
+
+Yleisesti	O
+Arovanen	O
+musiikkia	O
+voidaan	O
+verrata	O
+Autechren	B-ORG
+ja	O
+Boards	B-ORG
+of	I-ORG
+Canadan	I-ORG
+tuotantoon	O
+.	O
+
+Eduskunnassa	O
+hän	O
+kuului	O
+SDP	B-ORG
+:	I-ORG
+n	I-ORG
+ryhmään	O
+.	O
+
+Tällöin	O
+yritys	O
+avasi	O
+ensimmäisen	O
+myymälänsä	O
+Osloon	B-LOC
+,	O
+Stovnerin	O
+ostoskeskukseen	O
+.	O
+
+Kaarle	B-PER
+XIV	I-PER
+Juhana	I-PER
+(	O
+1818–1844	O
+)	O
+
+Länsi-Norjan	O
+Sognin	B-LOC
+ja	I-LOC
+Fjordanen	I-LOC
+läänissä	I-LOC
+sijaitseva	O
+Jostedalsbreen-lakijäätikkö	B-ORG
+on	O
+manner-Euroopan	O
+suurin	O
+.	O
+
+Perhe	O
+on	O
+kotoisin	O
+Tuzlasta	B-LOC
+,	O
+Bosnia	B-LOC
+ja	I-LOC
+Hertsegovinan	I-LOC
+koillisosasta	O
+.	O
+
+20px]]	O
+''	O
+Jakov	B-PER
+Punkin	I-PER
+''	O
+'	O
+
+RUAG	B-ORG
+-	O
+ml	O
+.	O
+
+James	B-PER
+E.	I-PER
+Folsom	I-PER
+,	I-PER
+Sr	I-PER
+.	I-PER
+(	O
+demokraatit	O
+,	O
+1947–1951	O
+)	O
+
+OHJAUS	O
+Loja	B-LOC
+(	I-LOC
+maakunta	I-LOC
+)	I-LOC

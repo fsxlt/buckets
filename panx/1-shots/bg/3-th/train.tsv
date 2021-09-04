@@ -1,0 +1,24 @@
+Шон	B-PER
+Мърфи	I-PER
+(	O
+Англия	B-LOC
+)	O
+
+Разпространен	O
+е	O
+в	O
+Бразилия	B-LOC
+(	O
+Санта	B-LOC
+Катарина	I-LOC
+и	O
+Сао	B-LOC
+Пауло	I-LOC
+)	O
+.	O
+
+``	O
+The	B-ORG
+Unknown	I-ORG
+Soldier	I-ORG
+''	O

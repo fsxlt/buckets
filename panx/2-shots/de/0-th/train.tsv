@@ -1,0 +1,50 @@
+'	O
+''	O
+ADO	B-ORG
+Den	I-ORG
+Haag	I-ORG
+''	O
+'	O
+
+Spiegelau	B-LOC
+,	O
+Landkreis	B-LOC
+Freyung-Grafenau	I-LOC
+
+WEITERLEITUNG	O
+Robert	B-PER
+Gascoyne-Cecil	I-PER
+,	I-PER
+5.	I-PER
+Marquess	I-PER
+of	I-PER
+Salisbury	I-PER
+
+**	O
+United	B-ORG
+States	I-ORG
+Penitentiary	I-ORG
+-	O
+Atlanta	B-LOC
+,	O
+Georgia	B-LOC
+
+Hugh	B-PER
+Jackman	I-PER
+,	O
+Rachel	B-PER
+Weisz	I-PER
+
+Diese	O
+können	O
+dann	O
+–	O
+wie	O
+das	O
+Leipziger	B-LOC
+Neuseenland	I-LOC
+–	O
+touristisch	O
+genutzt	O
+werden	O
+.	O

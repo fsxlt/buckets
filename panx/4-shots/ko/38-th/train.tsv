@@ -1,0 +1,115 @@
+넘겨주기	O
+하파에우	B-PER
+페헤이라	I-PER
+다	I-PER
+시우바	I-PER
+
+2012년	B-ORG
+아프리카	I-ORG
+네이션스컵	I-ORG
+국가대표	O
+
+'	O
+''	O
+내포리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+넘겨주기	O
+다나	B-PER
+(	I-PER
+가수	I-PER
+)	I-PER
+
+border]]	O
+''	O
+삿포로	B-LOC
+시	I-LOC
+''	O
+'	O
+
+2014-2015	O
+시즌	O
+풋볼	B-ORG
+리그	I-ORG
+챔피언십	I-ORG
+에서	O
+승격하여	O
+2015-2016시즌	O
+부터	O
+팀	O
+역사상	O
+처음으로	O
+프리미어리그로	B-ORG
+승격이	O
+현실로	O
+이루어	O
+졌다	O
+.	O
+
+넘겨주기	O
+흑석동	B-LOC
+(	I-LOC
+서울	I-LOC
+)	I-LOC
+
+그는	O
+하비에르	B-PER
+사비올라와의	I-PER
+호흡도	O
+좋은	O
+편이었다	O
+.	O
+
+넘겨주기	O
+비아드리나	B-ORG
+유럽	I-ORG
+대학교	I-ORG
+
+소년대의	B-ORG
+히가시야마	B-PER
+노리유키의	I-PER
+심부름꾼을	O
+경험한다	O
+.	O
+
+**	O
+(	O
+히다카	B-LOC
+군	I-LOC
+이나미	B-LOC
+정	I-LOC
+)	O
+-	O
+와사	B-ORG
+역	I-ORG
+-	O
+(	O
+고보	B-LOC
+시	I-LOC
+→	O
+)	O
+
+'	O
+''	O
+덕실리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+광핑	B-LOC
+현	I-LOC
+(	O
+廣平県	O
+)	O

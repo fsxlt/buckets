@@ -1,0 +1,37 @@
+Loren	B-PER
+Legarda	I-PER
+(	O
+''Dahon	O
+''	O
+)	O
+
+Liloan	B-LOC
+,	I-LOC
+Katimugang	I-LOC
+Leyte	I-LOC
+
+Maria	B-PER
+Cristina	I-PER
+ng	I-PER
+Austria	I-PER
+
+Kondado	B-ORG
+ng	I-ORG
+Edessa	I-ORG
+
+Unibersidad	B-ORG
+ng	I-ORG
+Estado	I-ORG
+Aklan	I-ORG
+
+'	O
+''	O
+Sheena	B-PER
+Halili	I-PER
+''	O
+'	O
+
+Concord	B-LOC
+(	I-LOC
+California	I-LOC
+)	I-LOC

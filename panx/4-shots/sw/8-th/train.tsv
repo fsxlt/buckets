@@ -1,0 +1,84 @@
+Johann	B-PER
+Wolfgang	I-PER
+von	I-PER
+Goethe	I-PER
+
+Mahakama	B-ORG
+ya	I-ORG
+Kimataifa	I-ORG
+ya	I-ORG
+Jinai	I-ORG
+
+Alifuta	O
+Shirika	B-ORG
+la	I-ORG
+Yesu	I-ORG
+.	O
+
+Mtaguso	B-ORG
+wa	I-ORG
+pili	I-ORG
+wa	I-ORG
+Vatikani	I-ORG
+
+Manhattan	B-LOC
+Beach	I-LOC
+,	I-LOC
+California	I-LOC
+
+Orodha	B-LOC
+ya	I-LOC
+mikoa	I-LOC
+ya	I-LOC
+Argentina	I-LOC
+
+José	B-PER
+Eduardo	I-PER
+dos	I-PER
+Santos	I-PER
+
+Ilianzishwa	O
+na	O
+Jimmy	B-PER
+Wales	I-PER
+mwaka	O
+2001	O
+.	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Maebashi	B-LOC
+(	O
+前橋市	O
+)	O
+.	O
+
+The	B-ORG
+Rose	I-ORG
+That	I-ORG
+Grew	I-ORG
+from	I-ORG
+Concrete	I-ORG
+
+East	B-LOC
+Rutherford	I-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Alimfuata	O
+Papa	B-PER
+Anacletus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Evaristus	I-PER
+.	O
+
+Eneo	O
+lake	O
+ni	O
+6.7	O
+km²	B-ORG
+.	O

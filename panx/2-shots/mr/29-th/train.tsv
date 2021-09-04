@@ -1,0 +1,58 @@
+जनता	B-ORG
+दल	I-ORG
+(	I-ORG
+संयुक्त	I-ORG
+)	I-ORG
+
+ही	O
+पुणे	B-LOC
+व	O
+सोलापूर	B-LOC
+जिल्ह्यातून	I-LOC
+वाहते	O
+.	O
+
+'	O
+''	O
+भोपाळ	B-LOC
+''	O
+'	O
+
+महेसाणा	B-LOC
+शहराच्या	I-LOC
+माहितीसाठी	O
+येथे	B-LOC
+टिचकी	O
+द्या	O
+.	O
+
+पुनर्निर्देशन	O
+लोथेर	B-PER
+पहिला	I-PER
+,	I-PER
+पवित्र	I-PER
+रोमन	I-PER
+सम्राट	I-PER
+
+'	O
+''	O
+स्कोप्ये	B-LOC
+''	O
+'	O
+
+भारतीय	B-ORG
+अंतराळ	I-ORG
+संशोधन	I-ORG
+संस्था	I-ORG
+
+अभिषेक	B-PER
+बच्चन	I-PER
+,	O
+प्रीती	B-PER
+झिंटा	I-PER
+,	O
+बॉबी	B-PER
+देओल	I-PER
+,	O
+लारा	B-PER
+दत्ता	I-PER

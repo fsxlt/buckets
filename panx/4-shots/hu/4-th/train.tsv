@@ -1,0 +1,118 @@
+''	O
+(	O
+Párizs	B-LOC
+)	O
+''	O
+
+'	O
+''	O
+Dani	B-PER
+Pedrosa	I-PER
+''	O
+'	O
+
+Sarm	B-LOC
+es-Sejk	I-LOC
+,	O
+Egyiptom	B-LOC
+
+**Uralkodó	O
+-	O
+II.	B-PER
+Hasszán	I-PER
+király	B-LOC
+(	O
+1961–1999	O
+)	O
+
+Ez	O
+Mie	B-LOC
+prefektúrában	I-LOC
+a	O
+leggyakoribb	O
+.	O
+
+Később	O
+jobb	O
+állásajánlatnak	O
+köszönhetően	O
+New	B-LOC
+Yorkba	I-LOC
+költözik	O
+.	O
+
+**	O
+John	B-PER
+Gielgud	I-PER
+''	O
+–	O
+Forrongó	O
+világ	O
+
+Naponta	O
+jármű	O
+halad	O
+át	O
+rajta	O
+,	O
+-rel	O
+csökkentve	O
+Kikötői	B-ORG
+híd	I-ORG
+forgalmát	O
+.	O
+
+'	O
+''	O
+Nyugatról	O
+''	O
+'	O
+a	O
+Temes	B-LOC
+és	O
+a	O
+Béga	B-LOC
+választja	O
+el	O
+a	O
+Szemenik-Plessuva	B-ORG
+hegységtől	I-ORG
+.	O
+
+'	O
+''	O
+FC	B-ORG
+Baník	I-ORG
+Ostrava	I-ORG
+''	O
+'	O
+
+**	O
+Gaston	B-PER
+Eyskens	I-PER
+(	O
+1968–1973	O
+)	O
+
+Cruz	B-ORG
+Azul	I-ORG
+(	O
+Mexikó	B-LOC
+)	O
+CA	B-ORG
+Boca	I-ORG
+Juniors	I-ORG
+
+'	O
+''	O
+Lăzești	O
+''	O
+'	O
+falu	O
+Romániában	B-LOC
+,	O
+Erdélyben	B-LOC
+,	O
+Fehér	B-LOC
+megyében	I-LOC
+.	O

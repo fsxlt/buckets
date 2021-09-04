@@ -1,0 +1,73 @@
+Jannie	B-PER
+Hofmeyr	I-PER
+,	O
+adjunk-premier	O
+van	O
+die	O
+Unie	B-LOC
+van	I-LOC
+Suid-Afrika	I-LOC
+.	O
+
+Hy	O
+oortref	O
+die	O
+regeringsperiode	O
+van	O
+Tiberius	B-PER
+met	O
+enkele	O
+maande	O
+.	O
+
+Pink	B-ORG
+Floyd	I-ORG
+het	O
+'n	O
+lied	O
+getiteld	O
+''Green	O
+Is	O
+The	O
+Colour	O
+''	O
+vrygestel	O
+.	O
+
+AANSTUUR	O
+Universiteit	B-ORG
+van	I-ORG
+Wes-Kaapland	I-ORG
+
+Ehlanzeni	B-LOC
+(	O
+DC32	O
+)	O
+in	O
+die	O
+noordooste	O
+
+In	O
+die	O
+Tudortydperk	O
+was	O
+dit	O
+aantreklik	O
+genoeg	O
+vir	O
+koning	O
+Hendrik	B-PER
+VIII	I-PER
+om	O
+hier	O
+'n	O
+paleis	O
+te	O
+laat	O
+oprig	O
+.	O
+
+AANSTUUR	O
+Utrecht	B-LOC
+,	I-LOC
+KwaZulu-Natal	I-LOC

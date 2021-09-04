@@ -1,0 +1,39 @@
+Uhusika	O
+ulichezwa	O
+na	O
+D.	B-PER
+B.	I-PER
+Woodside	I-PER
+.	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Yamoussoukro	I-ORG
+
+Noni	B-PER
+Jabavu	I-PER
+(	O
+1919-	O
+)	O
+
+Hoteli	B-ORG
+ya	I-ORG
+Royal	I-ORG
+Palm	I-ORG
+(	I-ORG
+Miami	I-ORG
+)	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39507	O
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30513	O
+.	O

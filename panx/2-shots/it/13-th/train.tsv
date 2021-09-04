@@ -1,0 +1,43 @@
+RINVIA	O
+David	B-PER
+Fëdorovič	I-PER
+Ojstrach	I-PER
+
+Just	B-ORG
+Like	I-ORG
+Jesse	I-ORG
+James	I-ORG
+''	O
+(	O
+4:06	O
+)	O
+
+Mérignac	B-LOC
+(	I-LOC
+Charente	I-LOC
+Marittima	I-LOC
+)	I-LOC
+
+''	O
+Teneramente	B-ORG
+Licia	I-ORG
+''	O
+
+RINVIA	O
+Software	B-PER
+as	I-PER
+a	I-PER
+service	I-PER
+
+'	O
+''	O
+Cherrueix	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Gioia	B-LOC
+Sannitica	I-LOC
+''	O
+'	O

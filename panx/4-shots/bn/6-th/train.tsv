@@ -1,0 +1,72 @@
+মালাক্কা	B-LOC
+(	I-LOC
+শহর	I-LOC
+)	I-LOC
+
+**	O
+বন্য-ঝুটিওয়ালা	B-LOC
+ধনেশ	I-LOC
+''Anorrhinus	O
+galeritus	O
+''	O
+
+বাবা	O
+আদম	O
+মসজিদটি	O
+বাংলাদেশের	B-LOC
+মুন্সীগঞ্জ	B-LOC
+জেলার	I-LOC
+সদর	B-LOC
+উপজেলার	I-LOC
+দরগাবাড়ি	O
+গ্রামে	O
+অবস্থিত।	O
+
+খাদিজা	B-PER
+বিনতে	I-PER
+খুওয়াইলিদ	I-PER
+
+সৌমিত্র	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+সন্ধ্যা	B-PER
+রায়	I-PER
+
+বেলুচিস্তান	B-LOC
+(	I-LOC
+অঞ্চল	I-LOC
+)	I-LOC
+
+ভিয়েতনামের	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+সফিয়া	B-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+
+কামরান	B-PER
+আকমল	I-PER
+রান	O
+আউট	O
+
+বাংলাদেশের	B-ORG
+সাধারণ	I-ORG
+নির্বাচন	I-ORG
+,	I-ORG
+১৯৭৩	I-ORG
+
+অন্দের্শ	B-PER
+ইয়োনাস	I-PER
+অংস্ট্রেম	I-PER
+
+বিমান	B-ORG
+বাংলাদেশ	I-ORG
+এয়ারলাইন্স	I-ORG
+
+হার্ড	B-ORG
+ডিস্ক	I-ORG
+ড্রাইভ	I-ORG

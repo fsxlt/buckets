@@ -1,0 +1,17 @@
+Marco	B-PER
+Melandri	I-PER
+(	O
+Aprilia	B-ORG
+)	O
+
+ALIH	O
+Perusahaan	B-ORG
+Hindia	I-ORG
+Timur	I-ORG
+Britania	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC

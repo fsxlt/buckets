@@ -1,0 +1,50 @@
+The	B-ORG
+Long	I-ORG
+and	I-ORG
+Winding	I-ORG
+Road”	I-ORG
+
+Lil’	B-PER
+Kim	I-PER
+,	O
+oik	O
+.	O
+
+OHJAUS	O
+Višera	B-LOC
+(	I-LOC
+Kaman	I-LOC
+sivujoki	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Nur	B-ORG
+Otan	I-ORG
+''	O
+'	O
+
+Tony	B-PER
+McCarroll	I-PER
+(	O
+Oasis	B-ORG
+)	O
+
+Japanin	B-LOC
+Alpit	I-LOC
+ulottuvat	O
+kaupungin	O
+alueelle	O
+.	O
+
+Rauhanteossa	O
+toimi	O
+välittäjänä	O
+Ranska	B-LOC
+,	O
+jolle	O
+se	O
+oli	O
+poliittinen	O
+menestys	O
+.	O

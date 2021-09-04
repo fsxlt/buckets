@@ -1,0 +1,45 @@
+Grauwe	B-LOC
+pijlstormvogel	I-LOC
+(	O
+Puffinus	B-LOC
+griseus	I-LOC
+''	O
+)	O
+
+*2012-2014	O
+New	B-ORG
+Girl	I-ORG
+–	O
+als	O
+Bearclaw	O
+–	O
+2	O
+afl	O
+.	O
+
+'	O
+''	O
+MLS	B-ORG
+Cup	I-ORG
+1997	I-ORG
+''	O
+'	O
+
+Borkowice	B-LOC
+(	I-LOC
+gemeente	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Erben	B-PER
+Wennemars	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Majlinda	B-PER
+Kelmendi	I-PER
+''	O
+'	O

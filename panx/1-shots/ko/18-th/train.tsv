@@ -1,0 +1,30 @@
+넘겨주기	O
+후한	B-PER
+소제	I-PER
+(	I-PER
+13대	I-PER
+)	I-PER
+
+넘겨주기	O
+2010년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+E조	I-ORG
+
+서쪽으로	O
+동해	B-LOC
+,	O
+남쪽으로	O
+가나자와	B-LOC
+시	I-LOC
+,	O
+동쪽으로	O
+쓰바타	B-LOC
+정	I-LOC
+,	O
+북쪽으로	O
+가호쿠	B-LOC
+시에	I-LOC
+둘러싸여	O
+있다	O
+.	O

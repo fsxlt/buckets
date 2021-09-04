@@ -1,0 +1,45 @@
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Durango	B-LOC
+estatuan	O
+kokatua	O
+dago	O
+.	O
+
+BIRZUZENDU	O
+Askapenerako	B-ORG
+Herri	I-ORG
+Armada	I-ORG
+
+Crawford	B-LOC
+konderria	I-LOC
+(	I-LOC
+Wisconsin	I-LOC
+)	I-LOC
+
+Leon	B-PER
+V.a	I-PER
+(	I-PER
+aita	I-PER
+santua	I-PER
+)	I-PER
+
+2.	B-ORG
+linea	I-ORG
+(	I-ORG
+Bilboko	I-ORG
+metroa	I-ORG
+)	I-ORG
+
+Juan	B-PER
+Crisostomo	I-PER
+Arriaga	I-PER

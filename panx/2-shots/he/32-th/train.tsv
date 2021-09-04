@@ -1,0 +1,52 @@
+אליפות	B-ORG
+ריו	I-ORG
+דה	I-ORG
+ז'ניירו	I-ORG
+בכדורגל	I-ORG
+-	O
+פלומיננסה	B-ORG
+זכה	O
+באליפות	O
+
+משרדיה	O
+הראשיים	O
+של	O
+החברה	O
+ממוקמים	O
+חולון	B-LOC
+וסניפיה	O
+הנוספים	O
+נמצאים	O
+ארצות	B-LOC
+הברית	I-LOC
+,	O
+ספרד	B-LOC
+צרפת	B-LOC
+.	O
+
+**	O
+זאקרי	B-PER
+לוי	I-PER
+-	O
+צ'אק	B-ORG
+''	O
+
+'	O
+''	O
+מחוז	B-LOC
+חלב	I-LOC
+''	O
+'	O
+
+``	O
+We	B-ORG
+Are	I-ORG
+Young	I-ORG
+''	O
+
+דייוויד	B-PER
+גטה	I-PER
+בשיתוף	O
+עם	O
+קלי	B-PER
+רולנד	I-PER

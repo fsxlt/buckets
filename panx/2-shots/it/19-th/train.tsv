@@ -1,0 +1,56 @@
+Il	O
+secondo	O
+rifacimento	O
+venne	O
+fatto	O
+dallo	O
+Studio	B-ORG
+Shaw	I-ORG
+di	O
+Hong	B-LOC
+Kong	I-LOC
+.	O
+
+in	O
+Turchia	B-LOC
+(	O
+''Kötü	O
+kizlar	O
+''	O
+)	O
+
+Il	O
+torneo	O
+valeva	O
+anche	O
+come	O
+qualificazione	O
+per	O
+la	O
+CONCACAF	B-ORG
+Gold	I-ORG
+Cup	I-ORG
+2013	I-ORG
+.	O
+
+Francesco	B-PER
+Petrarca	I-PER
+,	O
+poeta	O
+
+'	O
+''	O
+Arantxa	B-PER
+Sánchez	I-PER
+Vicario	I-PER
+''	O
+'6-0	O
+,	O
+7-5	O
+
+Venezia	B-LOC
+-	O
+San	B-LOC
+Donà	I-LOC
+di	I-LOC
+Piave	I-LOC

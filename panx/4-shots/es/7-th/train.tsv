@@ -1,0 +1,89 @@
+REDIRECCIÓN	O
+Fernando	B-PER
+Martín	I-PER
+Álvarez	I-PER
+
+Swimming	B-ORG
+World	I-ORG
+Magazine	I-ORG
+
+REDIRECCIÓN	O
+The	B-ORG
+Whitehead	I-ORG
+Journal	I-ORG
+of	I-ORG
+Diplomacy	I-ORG
+and	I-ORG
+International	I-ORG
+Relations	I-ORG
+
+``	O
+When	B-ORG
+I	I-ORG
+Come	I-ORG
+Around	I-ORG
+''	O
+-	O
+Green	B-ORG
+Day	I-ORG
+
+REDIRECCIÓN	O
+Vicariato	B-LOC
+apostólico	I-LOC
+de	I-LOC
+Aysén	I-LOC
+
+REDIRECCIÓN	O
+Política	B-ORG
+Común	I-ORG
+de	I-ORG
+Seguridad	I-ORG
+y	I-ORG
+Defensa	I-ORG
+de	I-ORG
+la	I-ORG
+Unión	I-ORG
+Europea	I-ORG
+
+'	O
+''	O
+Alberto	B-PER
+Bueno	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Parroquia	B-LOC
+de	I-LOC
+St.	I-LOC
+Bernard	I-LOC
+
+Habita	O
+en	O
+Caracas	B-LOC
+(	O
+Venezuela	B-LOC
+)	O
+.	O
+
+REDIRECCIÓN	O
+Andrew	B-PER
+James	I-PER
+Henderson	I-PER
+
+Monte	B-LOC
+Ida	I-LOC
+(	I-LOC
+Turquía	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Raión	B-LOC
+de	I-LOC
+Kalíninskaya	I-LOC
+
+Natallia	B-PER
+Dobrynska	I-PER
+4.727	O
+pts	O
+.	O

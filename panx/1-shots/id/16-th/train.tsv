@@ -1,0 +1,20 @@
+ALIH	O
+Philippe	B-PER
+II	I-PER
+dari	I-PER
+Perancis	I-PER
+
+Ia	O
+berasal	O
+dari	O
+Partai	B-ORG
+Amanat	I-ORG
+Nasional	I-ORG
+.	O
+
+(	O
+Wilayah	B-LOC
+Seberang	I-LOC
+Laut	I-LOC
+Britania	I-LOC
+)	O

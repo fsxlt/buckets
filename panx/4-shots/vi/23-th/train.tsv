@@ -1,0 +1,76 @@
+Harry	B-PER
+S.	I-PER
+Truman	I-PER
+
+La	B-LOC
+Capelle	I-LOC
+(	O
+02141	O
+)	O
+
+Girls	B-ORG
+'	I-ORG
+Generation	I-ORG
+(	O
+소녀시대	O
+)	O
+
+Bắc	B-PER
+Chu	I-PER
+Vũ	I-PER
+Đế	I-PER
+
+đổi	O
+Dị	B-PER
+Tư	I-PER
+Phu	I-PER
+
+Phần	O
+lớn	O
+sự	O
+trợ	O
+giúp	O
+đến	O
+từ	O
+Hoa	B-LOC
+Kỳ	I-LOC
+.	O
+
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Parken	I-ORG
+,	O
+Copenhagen	B-LOC
+,	O
+Đan	B-LOC
+Mạch	I-LOC
+
+đổi	O
+Oral	B-ORG
+Fixation	I-ORG
+,	I-ORG
+Vol.	I-ORG
+1	I-ORG
+&	I-ORG
+2	I-ORG
+
+Lịch	B-ORG
+sử	I-ORG
+vùng	I-ORG
+châu	I-ORG
+thổ	I-ORG
+sông	I-ORG
+Ấn	I-ORG
+Độ	I-ORG
+
+đổi	O
+Vua	B-PER
+La	I-PER
+Mã	I-PER
+Đức	I-PER
+
+Puya	B-LOC
+sodiroana	I-LOC
+''	O
+Mez	O

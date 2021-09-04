@@ -1,0 +1,39 @@
+Nama	O
+beliau	O
+dicadangkan	O
+oleh	O
+Perdana	B-ORG
+Menteri	I-ORG
+Malaysia	I-ORG
+yang	O
+pertama	O
+ketika	O
+itu	O
+,	O
+Tunku	B-PER
+Abdul	I-PER
+Rahman	I-PER
+.	O
+
+LENCONG	O
+Emarat	B-LOC
+,	I-LOC
+Azerbaijan	I-LOC
+Timur	I-LOC
+
+'	O
+''	O
+David	B-PER
+Coulthard	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Lapland	I-ORG

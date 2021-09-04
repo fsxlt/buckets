@@ -1,0 +1,74 @@
+और	O
+मेसाचुसेट्स	B-ORG
+प्रौद्योगिक	I-ORG
+संस्थान	I-ORG
+.	O
+
+सोमी	B-PER
+अली	I-PER
+-	O
+विशेष	O
+भूमिका	O
+
+अनुप्रेषित	O
+उत्तर	B-LOC
+पश्चिम	I-LOC
+दिल्ली	I-LOC
+
+नागार्जुन	B-PER
+(	I-PER
+प्राचीन	I-PER
+दार्शनिक	I-PER
+)	I-PER
+
+मुग़ल	B-PER
+बादशाहों	I-PER
+की	I-PER
+सूची	I-PER
+
+नई	B-LOC
+दिल्ली	I-LOC
+लोकसभा	I-LOC
+निर्वाचन	I-LOC
+क्षेत्र	I-LOC
+
+टाइम्स	B-ORG
+नाऊ	I-ORG
+इंडिया	B-ORG
+टीवी	I-ORG
+-सीवोटर	O
+
+नेटवर्क	B-PER
+प्रभाव	I-PER
+व्यवसाय	I-PER
+मॉडल	I-PER
+
+लेक	B-LOC
+एण्डीज़	I-LOC
+,	I-LOC
+दक्षिण	I-LOC
+डकोटा	I-LOC
+
+थाईलैण्ड	B-LOC
+का	I-LOC
+इतिहास	I-LOC
+
+ला	B-ORG
+असंकशन	I-ORG
+का	I-ORG
+गिरजाघर	I-ORG
+,	I-ORG
+(	I-ORG
+अल्बासेते	I-ORG
+)	I-ORG
+
+'	O
+''	O
+हरदोई	B-LOC
+'	O
+''	O
+से	O
+
+कैल्कटा	B-ORG
+ट्रामवेज़	I-ORG
+कंपनी	I-ORG

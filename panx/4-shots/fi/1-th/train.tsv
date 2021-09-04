@@ -1,0 +1,122 @@
+Dire	B-ORG
+Straits	I-ORG
+(	O
+mukana	O
+myös	O
+Sting	B-PER
+)	O
+
+Järjestö	O
+on	O
+saanut	O
+Kansainvälisen	B-ORG
+olympiakomitean	I-ORG
+tunnustuksen	O
+ja	O
+kuuluu	O
+jäsenenä	O
+urheilun	B-ORG
+kansainvälisten	I-ORG
+lajiliittojen	I-ORG
+kattojärjestöön	I-ORG
+.	O
+
+Monet	O
+julkimot	O
+ovat	O
+yöpyneet	O
+hotellissa	O
+,	O
+muun	O
+muassa	O
+Madonna	B-PER
+,	O
+Lady	B-PER
+Gaga	I-PER
+,	O
+The	B-ORG
+Rolling	I-ORG
+Stones	I-ORG
+,	O
+U2	B-ORG
+sekä	O
+Muse	B-ORG
+.	O
+
+Adolf	B-PER
+Hitlerin	I-PER
+päämaja	O
+Wolfsschanze	B-ORG
+
+'	O
+''	O
+La	B-LOC
+Rioja	I-LOC
+''	O
+'	O
+
+**	O
+''	O
+Rhynchocyon	B-LOC
+udzungwensis	I-LOC
+''	O
+
+Suomessa	O
+punavalkun	O
+harvat	O
+ja	O
+pienet	O
+esiintymät	O
+ovat	O
+keskittyneet	O
+Lohjan	B-LOC
+ja	O
+Kiskon	B-LOC
+seuduille	O
+.	O
+
+John	B-PER
+Petrucci	I-PER
+–	O
+kitara	O
+
+Jammun	B-LOC
+ja	I-LOC
+Kashmirin	I-LOC
+sekä	O
+Uttar	B-LOC
+Pradeshin	I-LOC
+alueella	O
+.	O
+
+''	O
+'Paras	O
+hyökkääjä	O
+''	O
+'	O
+Jevgeni	B-PER
+Malkin	I-PER
+
+Tunnetuimmat	O
+härkäfarmit	O
+sijaitsevat	O
+Sevillassa	B-LOC
+.	O
+
+Pelipaikaltaan	O
+hän	O
+on	O
+hyökkääjä	O
+ja	O
+hän	O
+pelaa	O
+FC	B-ORG
+Kuusysin	I-ORG
+riveissä	O
+.	O
+
+Paritäplähuulikaloja	O
+tavataan	O
+Indopasifiselta	B-LOC
+merialueelta	I-LOC
+.	O

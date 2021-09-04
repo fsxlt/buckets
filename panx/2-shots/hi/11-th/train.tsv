@@ -1,0 +1,46 @@
+नायाग्रा	B-LOC
+जल	I-LOC
+प्रपात	I-LOC
+
+उत्तर	B-LOC
+प्रदेश	I-LOC
+(	O
+75	O
+)	O
+,	O
+मध्य	B-LOC
+प्रदेश	I-LOC
+(	O
+96	O
+)	O
+
+बहुजन	B-ORG
+समाज	I-ORG
+पार्टी	I-ORG
+-	O
+19	O
+
+हमीदा	B-PER
+बानो	I-PER
+बेगम	I-PER
+
+'	O
+''	O
+हुआन	B-PER
+मार्टिन	I-PER
+डेल	I-PER
+पोट्रो	I-PER
+''	O
+'	O
+
+पूर्णिया	B-LOC
+,	O
+बिहार	B-LOC
+का	O
+एक	O
+प्रखण्ड।	O
+
+अनुप्रेषित	O
+भारतीय	B-ORG
+क्रिकेट	I-ORG
+टीम	I-ORG

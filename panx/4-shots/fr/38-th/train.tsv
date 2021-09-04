@@ -1,0 +1,82 @@
+Liste	B-LOC
+des	I-LOC
+présidents	I-LOC
+du	I-LOC
+Venezuela	I-LOC
+
+Pesaro	B-LOC
+-	O
+Castiglione	B-LOC
+del	I-LOC
+Lago	I-LOC
+
+Vila	B-LOC
+Bela	I-LOC
+da	I-LOC
+Santíssima	I-LOC
+Trindade	I-LOC
+
+John	B-PER
+Hayes	I-PER
+(	I-PER
+réalisateur	I-PER
+)	I-PER
+
+Protocoles	B-ORG
+de	I-ORG
+Sèvres	I-ORG
+
+Fog	B-ORG
+Devils	I-ORG
+de	I-ORG
+Saint-Jean	I-ORG
+
+Michel	B-PER
+Sardou	I-PER
+-	O
+Pierre	B-PER
+Delanoë	I-PER
+
+Yordanka	B-PER
+Donkova	I-PER
+7	O
+s	O
+79	O
+
+enfin	O
+,	O
+il	O
+y	O
+eut	O
+des	O
+échanges	O
+commerciaux	O
+avec	O
+Espagne	B-LOC
+,	O
+Angleterre	B-LOC
+,	O
+Empire	B-LOC
+ottoman	I-LOC
+et	O
+dans	O
+une	O
+moindre	O
+mesure	O
+,	O
+avec	O
+la	O
+France	B-LOC
+.	O
+
+Johann	B-PER
+Kaspar	I-PER
+Lavater	I-PER
+
+Réservé	B-ORG
+aux	I-ORG
+Indiens	I-ORG
+
+Château	B-ORG
+de	I-ORG
+Lourmarin	I-ORG

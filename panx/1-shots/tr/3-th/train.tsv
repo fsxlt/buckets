@@ -1,0 +1,21 @@
+Erak	B-LOC
+kentinin	O
+80	O
+km	O
+.	O
+
+I	B-ORG
+'m	I-ORG
+in	I-ORG
+Love	I-ORG
+
+YÖNLENDİRME	O
+Akdamla	B-LOC
+,	I-LOC
+Şavşat	I-LOC
+
+I.	B-PER
+Ahmed	I-PER
+''	O
+Bahtî	O
+''	O

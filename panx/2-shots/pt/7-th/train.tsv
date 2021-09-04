@@ -1,0 +1,45 @@
+Melhor	O
+Direção	O
+–	O
+Laís	B-PER
+Bodanzky	I-PER
+
+Parque	B-ORG
+Nacional	I-ORG
+Desembarco	I-ORG
+do	I-ORG
+Granma	I-ORG
+(	O
+Património	B-ORG
+da	I-ORG
+Humanidade	I-ORG
+)	O
+
+Torre	B-ORG
+de	I-ORG
+rádio	I-ORG
+e	I-ORG
+televisão	I-ORG
+de	I-ORG
+Vilnius	I-ORG
+
+'	O
+''	O
+Ricardo	B-PER
+Mello	I-PER
+''	O
+'	O
+
+==	O
+Distrito	B-LOC
+de	I-LOC
+Coimbra	I-LOC
+==	O
+
+Arlit	B-LOC
+(	I-LOC
+departamento	I-LOC
+)	I-LOC
+(	O
+Arlit	B-LOC
+)	O

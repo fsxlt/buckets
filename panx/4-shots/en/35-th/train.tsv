@@ -1,0 +1,99 @@
+Dar	B-LOC
+Gol-e	I-LOC
+Seyyed	I-LOC
+Hasan	I-LOC
+
+The	O
+first	O
+of	O
+these	O
+to	O
+leave	O
+a	O
+substantial	O
+,	O
+identifiable	O
+body	O
+of	O
+work	O
+was	O
+José	B-PER
+Nicolás	I-PER
+de	I-PER
+la	I-PER
+Escalera	I-PER
+(	O
+1734	O
+–	O
+1804	O
+)	O
+.	O
+
+''	O
+Desmia	B-LOC
+decemmaculalis	I-LOC
+''	O
+
+He	O
+first	O
+enrolled	O
+at	O
+Fort	B-ORG
+Scott	I-ORG
+Community	I-ORG
+College	I-ORG
+before	O
+transferring	O
+to	O
+Arizona	B-ORG
+State	I-ORG
+University	I-ORG
+.	O
+
+Falco	B-ORG
+peregrinus	I-ORG
+''	O
+(	O
+Peregrine	B-LOC
+falcon	I-LOC
+)	O
+-	O
+LC	O
+
+Cummings	B-ORG
+Jewish	I-ORG
+Centre	I-ORG
+for	I-ORG
+Seniors	I-ORG
+
+Je	B-ORG
+m'voyais	I-ORG
+déjà	I-ORG
+''	O
+–	O
+Charles	B-PER
+Aznavour	I-PER
+
+Juan	B-PER
+de	I-PER
+Zurbarán	I-PER
+
+*Church	O
+of	O
+Our	O
+Lady-at-the-Pool	O
+in	O
+Tienen	B-LOC
+(	O
+1358–1375	O
+)	O
+
+Paul-Martin	B-PER
+Gallocher	I-PER
+de	I-PER
+Lagalisserie	I-PER
+
+Buckley	B-LOC
+'s	I-LOC
+forest	I-LOC
+falcon	I-LOC

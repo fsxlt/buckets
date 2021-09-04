@@ -1,0 +1,102 @@
+East	B-LOC
+Brunswick	I-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+.	O
+
+Recorded	O
+by	O
+Fats	B-PER
+Waller	I-PER
+.	O
+
+Fountain	B-LOC
+Hills	I-LOC
+,	I-LOC
+Arizona	I-LOC
+
+Bruce	B-PER
+Springsteen	I-PER
+—	O
+``	O
+Tunnel	B-ORG
+of	I-ORG
+Love	I-ORG
+''	O
+
+Devils	B-ORG
+Lake	I-ORG
+Daily	I-ORG
+Journal	I-ORG
+''	O
+of	O
+Devils	B-LOC
+Lake	I-LOC
+,	I-LOC
+North	I-LOC
+Dakota	I-LOC
+
+They	O
+lost	O
+in	O
+the	O
+playoff	O
+against	O
+Belgium	B-ORG
+,	O
+drawing	O
+1–1	O
+in	O
+the	O
+first	O
+leg	O
+then	O
+losing	O
+2–1	O
+in	O
+the	O
+second	O
+leg	O
+.	O
+
+--	O
+-	O
+Independent	B-LOC
+State	I-LOC
+of	I-LOC
+Samoa	I-LOC
+
+Hawkshead	B-ORG
+Grammar	I-ORG
+School	I-ORG
+
+Anna	B-PER
+Sforza	I-PER
+(	O
+1476–1497	O
+)	O
+,	O
+who	O
+married	O
+Alfonso	B-ORG
+I	I-ORG
+d'Este	I-ORG
+
+He	O
+received	O
+151	O
+votes	O
+(	O
+0.76	O
+%	O
+)	O
+,	O
+finishing	O
+fourth	O
+against	O
+Liberal	B-ORG
+candidate	O
+Gerard	B-PER
+Kennedy	I-PER
+.	O

@@ -1,0 +1,116 @@
+A	O
+série	O
+é	O
+exibida	O
+no	O
+Brasil	B-LOC
+pelo	O
+Warner	B-LOC
+Channel	I-LOC
+.	O
+
+Pieter	B-PER
+van	I-PER
+Musschenbroek	I-PER
+
+Juan	B-PER
+Gris	I-PER
+(	O
+1887-1927	O
+)	O
+
+Também	O
+no	O
+elenco	O
+estão	O
+Laura	B-PER
+Linney	I-PER
+,	O
+Noah	B-PER
+Emmerich	I-PER
+,	O
+Natascha	B-PER
+McElhone	I-PER
+e	O
+Ed	B-PER
+Harris	I-PER
+.	O
+
+A	O
+competição	O
+foi	O
+organizada	O
+pela	O
+Federação	B-ORG
+Amapaense	I-ORG
+de	I-ORG
+Futebol	I-ORG
+e	O
+o	O
+campeão	O
+foi	O
+o	O
+Macapá	B-ORG
+.	O
+
+(	O
+Cleveland	B-ORG
+Cavaliers	I-ORG
+)	O
+(	O
+1	O
+/	O
+2	O
+)	O
+
+Bhalswa	B-LOC
+Jahangir	I-LOC
+Pur	I-LOC
+
+320ª	B-ORG
+Divisão	I-ORG
+de	I-ORG
+Infantaria	I-ORG
+
+Atualmente	O
+defende	O
+o	O
+,	O
+emprestado	O
+pelo	O
+Palmeiras	B-ORG
+.	O
+
+Arena	B-LOC
+do	I-LOC
+Grêmio	I-LOC
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brasil	B-LOC
+
+'	O
+''	O
+China	B-LOC
+''	O
+'	O
+
+Kodiak	B-LOC
+Island	I-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Mike	B-PER
+Di	I-PER
+Meglio	I-PER
+''	O
+'	O
+
+Jaguar	B-ORG
+(	I-ORG
+automóvel	I-ORG
+)	I-ORG

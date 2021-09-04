@@ -1,0 +1,51 @@
+넘겨주기	O
+2014년	B-PER
+아시안	I-PER
+게임	I-PER
+
+)	O
+돈	B-PER
+프레이저	I-PER
+(	O
+?	O
+
+세인트데이비드	B-LOC
+교구	I-LOC
+(	O
+Saint	O
+David	O
+Parish	O
+)	O
+
+수익의	O
+30	O
+%	O
+는	O
+위키미디어	B-ORG
+재단에	I-ORG
+기부할	O
+의도가	O
+있다고	O
+언급하고	O
+있다	O
+.	O
+
+부산광역시	B-LOC
+해운대구	B-LOC
+(	O
+2편	O
+)	O
+
+넘겨주기	O
+북구	B-LOC
+(	I-LOC
+광주광역시	I-LOC
+)	I-LOC
+
+본편에서는	O
+포켓몬스터	B-ORG
+AG》	I-ORG
+제60화	O
+「에네코와	O
+에네코로로	O
+!	O

@@ -1,0 +1,40 @@
+Dordogne	B-LOC
+(	I-LOC
+département	I-LOC
+)	I-LOC
+
+Gouvernement	B-PER
+Ponta	I-PER
+I	I-PER
+et	O
+II	B-PER
+
+REDIRECTION	O
+Kozojedy	B-LOC
+(	I-LOC
+district	I-LOC
+de	I-LOC
+Plzeň-Nord	I-LOC
+)	I-LOC
+
+Chris	B-PER
+Foreman	I-PER
+(	O
+Madness	B-ORG
+)	O
+
+|	O
+'	O
+''	O
+Generali	B-ORG
+Ladies	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Guerrilla	I-ORG
+''	O
+'	O

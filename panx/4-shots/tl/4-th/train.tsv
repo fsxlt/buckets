@@ -1,0 +1,81 @@
+Maximilien	B-PER
+de	I-PER
+Robespierre	I-PER
+
+'	O
+''	O
+Malaysia	B-LOC
+''	O
+'	O
+
+Commonwealth	B-ORG
+of	I-ORG
+Independent	I-ORG
+States	I-ORG
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Pavia	I-LOC
+
+**	O
+Honiara	B-LOC
+(	O
+Embahada	O
+)	O
+
+Edward	B-PER
+Victor	I-PER
+Appleton	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Vice	B-PER
+Ganda	I-PER
+(	O
+2009-kasalukuyan	O
+)	O
+
+José	B-PER
+Ortega	I-PER
+y	I-PER
+Gasset	I-PER
+
+Kikuchi	B-LOC
+,	I-LOC
+Kumamoto	I-LOC
+
+Unibersidad	B-ORG
+ng	I-ORG
+Estado	I-ORG
+Aklan	I-ORG
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC
+
+Estasyon	B-ORG
+ng	I-ORG
+EDSA	I-ORG
+ng	I-ORG
+LRT	I-ORG
+
+**	O
+''	O
+Survivor	B-ORG
+Philippines	I-ORG
+:	I-ORG
+Celebrity	I-ORG
+Showdown	I-ORG
+''	O
+(	O
+2010	O
+)	O

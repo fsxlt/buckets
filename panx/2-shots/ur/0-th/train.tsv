@@ -1,0 +1,36 @@
+رجوع_مکرر	O
+آتما	B-PER
+رام	I-PER
+(	I-PER
+افغان	I-PER
+وزیر	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+بونیتو	B-LOC
+دے	I-LOC
+سانتا	I-LOC
+فے	I-LOC
+
+رجوع_مکرر	O
+اکرا	B-ORG
+(	I-ORG
+قلعہ	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+وصول	B-ORG
+کنندہ	I-ORG
+(	I-ORG
+ریڈیو	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+ہیملٹن	B-LOC
+کاؤنٹی،	I-LOC
+نیبراسکا	I-LOC
+
+رجوع_مکرر	O
+ابراہیم	B-PER
+بن	I-PER
+ادہم	I-PER

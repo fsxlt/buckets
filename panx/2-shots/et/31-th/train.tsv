@@ -1,0 +1,46 @@
+aastal	O
+Pablo	B-PER
+Picasso	I-PER
+ja	O
+Georges	B-PER
+Braque'i	I-PER
+töödes	O
+.	O
+
+Saint	B-ORG
+Denis	I-ORG
+'	I-ORG
+basiilika	I-ORG
+
+Lääne-Nigula	B-LOC
+vald	I-LOC
+,	O
+Lääne	B-LOC
+maakond	I-LOC
+
+Jõgeva	B-LOC
+vald	I-LOC
+,	O
+Jõgeva	B-LOC
+maakond	I-LOC
+
+Ta	O
+töötab	O
+alates	O
+1967.	O
+aastast	O
+praeguses	O
+Eesti	B-ORG
+Maaülikoolis	I-ORG
+.	O
+
+Tema	O
+vana-vanaisa	O
+Johann	B-PER
+Gustav	I-PER
+Stockenberg	I-PER
+oli	O
+kujur	O
+ja	O
+kiviraidur	O
+.	O

@@ -1,0 +1,15 @@
+Nevado	B-LOC
+del	I-LOC
+Huila	I-LOC
+,	O
+
+Thomas	B-PER
+Balvay	I-PER
+(	O
+France	B-ORG
+)	O
+
+Fast	B-ORG
+as	I-ORG
+You	I-ORG
+Can	I-ORG

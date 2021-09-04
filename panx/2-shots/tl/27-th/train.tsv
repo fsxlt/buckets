@@ -1,0 +1,35 @@
+Mayang	B-LOC
+bato	I-LOC
+(	O
+''Lonchura	O
+leucogastra	O
+''	O
+o	O
+''White-bellied	O
+Munia	O
+''	O
+)	O
+
+Hilagang	B-LOC
+Kapuluang	I-LOC
+Mariana	I-LOC
+
+Magkapatid	B-PER
+na	I-PER
+Grimm	I-PER
+
+Arthur	B-PER
+Conan	I-PER
+Doyle	I-PER
+
+''	O
+Ka-Blog	B-ORG
+!	I-ORG
+''	O
+(	O
+2008–2010	O
+)	O
+
+Prinsipyo	B-ORG
+ni	I-ORG
+Bernoulli	I-ORG

@@ -1,0 +1,25 @@
+Partai	B-ORG
+Keadilan	I-ORG
+dan	I-ORG
+Persatuan	I-ORG
+Indonesia	I-ORG
+
+Selain	O
+itu	O
+,	O
+ia	O
+juga	O
+dikenal	O
+sebagai	O
+guru	O
+dari	O
+Zeno	B-PER
+dari	I-PER
+Citium	I-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardennes	I-LOC

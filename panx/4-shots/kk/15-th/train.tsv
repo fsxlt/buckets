@@ -1,0 +1,112 @@
+Иль	B-LOC
+және	I-LOC
+Вилен	I-LOC
+департаментінің	I-LOC
+коммуналары	I-LOC
+
+Рауль	B-PER
+Гонсалес	I-PER
+(	O
+44	O
+)	O
+Давид	B-PER
+Вилья	I-PER
+(	O
+44	O
+)	O
+
+3	O
+аптадан	O
+кейін	O
+Гросс-Големкаға	O
+шаруалардан	O
+құралған	O
+Қызыл	B-ORG
+әскер	I-ORG
+басып	O
+кіреді	O
+.	O
+
+Iss	O
+Pyaar	O
+Ko	O
+Kya	O
+Naam	O
+Doon	O
+?	O
+/	O
+Мұздан	B-ORG
+суық	I-ORG
+,	I-ORG
+оттан	I-ORG
+ыстық	I-ORG
+
+АЙДАУ	O
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+Enterprise	I-ORG
+
+АЙДАУ	O
+Никита	B-PER
+Сергеевич	I-PER
+Хрущёв	I-PER
+
+Кастилия	B-LOC
+және	I-LOC
+Леон	I-LOC
+автономды	O
+бірлестігіне	O
+қарасты	O
+Авила	B-LOC
+провинциясының	O
+құрамына	O
+кіреді	O
+.	O
+
+Бұл	O
+-	O
+The	B-ORG
+Pretty	I-ORG
+Reckless	I-ORG
+''	O
+.	O
+
+Сона	B-LOC
+және	I-LOC
+Луара	I-LOC
+департаментінің	I-LOC
+коммуналары	I-LOC
+
+АЙДАУ	O
+Гүлжан	B-PER
+Жанпейісқызы	I-PER
+Қарағұсова	I-PER
+
+«Make	O
+it	O
+or	O
+Break	O
+it»	O
+сериалы	O
+бойынша	O
+әріптесі	O
+Коди	B-PER
+Лонгомен	I-PER
+кездескен	O
+.	O
+
+*1978	O
+жылдан	O
+-	O
+Мәскеу	B-LOC
+ГЗИ	O
+жұмыс	O
+істеген	O
+.	O
+
+АЙДАУ	O
+Бемпошта	B-LOC
+(	I-LOC
+Абрантеш	I-LOC
+)	I-LOC

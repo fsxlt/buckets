@@ -1,0 +1,101 @@
+I	O
+suoi	O
+discendenti	O
+vivono	O
+tuttora	O
+a	O
+La	B-LOC
+Plata	I-LOC
+.	O
+
+'	O
+''	O
+Roseto	B-LOC
+Capo	I-LOC
+Spulico	I-LOC
+''	O
+'	O
+
+***	O
+Leontopithecus	B-LOC
+chrysomelas	I-LOC
+''	O
+-	O
+leontocebo	O
+dalla	O
+testa	O
+dorata	O
+
+Ne	O
+è	O
+stato	O
+fatto	O
+anche	O
+un	O
+singolo	O
+,	O
+pubblicato	O
+solo	O
+in	O
+Giappone	B-LOC
+l'anno	O
+successivo	O
+.	O
+
+Valentina	B-PER
+Vargas	I-PER
+in	O
+Hellraiser	B-ORG
+-	I-ORG
+La	I-ORG
+stirpe	I-ORG
+maledetta	I-ORG
+''	O
+
+'	O
+''	O
+Chicago	B-ORG
+Bruins	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Knut	B-PER
+Holmann	I-PER
+''	O
+'	O
+
+border	O
+Hijāz	B-LOC
+e	I-LOC
+Najd	I-LOC
+(	O
+dall'8	O
+gennaio	O
+)	O
+
+'	O
+''	O
+Kanako	B-PER
+Watanabe	I-PER
+''	O
+'	O
+
+Andy	B-PER
+Murray	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Home	B-ORG
+Park	I-ORG
+,	O
+Plymouth	B-LOC
+
+Parco	B-ORG
+Vergiliano	I-ORG
+a	I-ORG
+Piedigrotta	I-ORG

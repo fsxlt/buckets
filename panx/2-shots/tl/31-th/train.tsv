@@ -1,0 +1,31 @@
+Papa	B-PER
+Pio	I-PER
+XII	I-PER
+
+Republika	B-LOC
+ng	I-LOC
+California	I-LOC
+
+Mga	B-ORG
+Nagkakaisang	I-ORG
+Bansa	I-ORG
+
+Si	O
+Farnese	O
+ay	O
+kalaunang	O
+naging	O
+Papa	B-PER
+Pablo	I-PER
+III	I-PER
+.	O
+
+Gun	B-ORG
+Frontier	I-ORG
+''	O
+
+Saint	B-LOC
+Vincent	I-LOC
+and	I-LOC
+the	I-LOC
+Grenadines	I-LOC

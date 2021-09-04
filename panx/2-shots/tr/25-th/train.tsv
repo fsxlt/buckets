@@ -1,0 +1,56 @@
+*20px	O
+IFK	B-ORG
+Göteborg	I-ORG
+(	O
+18	O
+kez	O
+)	O
+.	O
+
+Alaca	B-LOC
+yalıçapkını	I-LOC
+da	O
+sevdiği	O
+avlardan	O
+birisidir	O
+.	O
+
+YÖNLENDİRME	O
+Camarón	B-PER
+de	I-PER
+la	I-PER
+Isla	I-PER
+
+Bunlar	O
+Moğol	B-ORG
+istilaları	I-ORG
+sonucu	O
+yakılıp	O
+yıkılmıştır	O
+.	O
+
+Erdemli'ye	B-LOC
+uzaklık	O
+17	O
+km'dir	O
+.	O
+
+Sakatlığı	O
+yüzünden	O
+Fransa	B-LOC
+Açık'a	I-LOC
+katılamadı	O
+.	O
+
+Steve	B-PER
+Davis	I-PER
+8	O
+kez	O
+ile	O
+bu	O
+turnuvayı	O
+en	O
+çok	O
+kazanan	O
+isimdir	O
+.	O

@@ -1,0 +1,117 @@
+Patsient	O
+võib	O
+ebahügieenilistest	O
+arstiabi	O
+tingimustest	O
+nakatuda	B-ORG
+haigustesse	I-ORG
+või	O
+saada	O
+muid	O
+tervisetüsistusi	O
+,	O
+probleeme	O
+võib	O
+tekkida	O
+ka	O
+juriidilist	O
+laadi	O
+.	O
+
+Majas	O
+asub	O
+praegu	O
+Tartu	B-LOC
+Ülikooli	I-LOC
+Kliinikumi	I-LOC
+onkoloogiakorpus	O
+.	O
+
+Auto	O
+kõrgaja	O
+autorite	O
+seas	O
+oli	O
+ka	O
+Lope	B-PER
+de	I-PER
+Vega	I-PER
+,	O
+kes	O
+kirjutas	O
+neid	O
+vähemalt	O
+nelisada	O
+.	O
+
+Ta	O
+on	O
+Michael	B-PER
+Douglase	I-PER
+isa	O
+.	O
+
+Joe	B-PER
+Wright	I-PER
+,	O
+inglise	O
+filmirežissöör	O
+(	O
+1972–	O
+)	O
+
+Stantoni	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O
+
+See	O
+tähendab	O
+muutusi	O
+ka	O
+Balti	B-ORG
+kubermangude	I-ORG
+poliitikas	O
+.	O
+
+*2	O
+–	O
+Tallinna–Tartu–Võru–Luhamaa	B-ORG
+maantee	I-ORG
+(	O
+'	O
+''	O
+E263	O
+''	O
+'	O
+)	O
+(	O
+288,5	O
+km	O
+)	O
+
+Mihhail	B-PER
+Gorbatšov	I-PER
+,	O
+Nõukogude	B-LOC
+Liit	I-LOC
+
+aastal	O
+sai	O
+linnaõigused	O
+ja	O
+liideti	O
+Pihkva	B-LOC
+kubermanguga	I-LOC
+.	O
+
+Samasugune	O
+hoone	O
+ehitati	O
+samal	O
+ajal	O
+ka	O
+Lilleküla	B-ORG
+peatusse	I-ORG
+.	O

@@ -1,0 +1,44 @@
+''	O
+Crassula	B-LOC
+helmsii	I-LOC
+''	O
+(	O
+Swamp	O
+Stonecrop	O
+)	O
+
+đổi	O
+Câu	B-ORG
+lạc	I-ORG
+bộ	I-ORG
+bóng	I-ORG
+đá	I-ORG
+Ezra	I-ORG
+
+**	O
+Không	B-ORG
+quân	I-ORG
+Nhân	I-ORG
+dân	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+-	O
+6	O
+chiếc	O
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+Thị	B-LOC
+trấn	I-LOC
+của	I-LOC
+tỉnh	I-LOC
+Haute-Corse	I-LOC
+
+Vyacheslav	B-PER
+Vasilyevich	I-PER
+Tikhonov	I-PER

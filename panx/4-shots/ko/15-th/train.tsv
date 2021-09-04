@@ -1,0 +1,105 @@
+스마	B-LOC
+구	I-LOC
+(	O
+須磨区	O
+)	O
+
+3회	O
+-	O
+사잔	B-ORG
+오루	I-ORG
+스타즈	I-ORG
+,	O
+킨키	B-ORG
+키즈	I-ORG
+,	O
+하마사키	B-PER
+아유미	I-PER
+,	O
+모리야마	B-PER
+나오타로	I-PER
+
+와이라케이는	O
+타우포	B-LOC
+화산지대에	I-LOC
+위치해	O
+있다	O
+.	O
+
+이오안니나	B-LOC
+현	I-LOC
+(	O
+Ιωάννινα	O
+)	O
+
+**	O
+테구시갈파	B-LOC
+(	O
+대사관	O
+)	O
+
+넘겨주기	O
+쾨펜의	B-LOC
+기후	I-LOC
+구분	I-LOC
+
+넘겨주기	O
+페르디난트	B-PER
+1세	I-PER
+(	I-PER
+신성	I-PER
+로마	I-PER
+제국	I-PER
+)	I-PER
+
+'	O
+''	O
+가와사키	B-ORG
+프론탈레	I-ORG
+''	O
+'	O
+
+1대는	O
+예비용으로	O
+저장3대는	O
+중국국제항공	B-ORG
+카고에	I-ORG
+매각	O
+
+섹스투스	B-PER
+폼페이우스만	I-PER
+가까스로	O
+도망에	O
+성공했다	O
+.	O
+
+대한민국	B-LOC
+최동단은	O
+숨쉰다	O
+-	O
+독도	B-LOC
+72시간	O
+
+이에	O
+따라	O
+팀A에서는	O
+다카하시	B-PER
+미나미	I-PER
+,	O
+팀K에서는	O
+아키모토	B-PER
+사야카	I-PER
+,	O
+팀B에서는	O
+카시와기	B-PER
+유키가	I-PER
+각각	O
+캡틴으로	O
+지명되었다	O
+.	O
+
+**	O
+제네바	B-LOC
+-	O
+제네바	B-ORG
+국제공항	I-ORG

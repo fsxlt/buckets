@@ -1,0 +1,82 @@
+O	O
+forro	O
+mostra	O
+relevos	O
+e	O
+quatro	O
+Doutores	B-PER
+da	I-PER
+Igreja	I-PER
+.	O
+
+APAP	O
+ArteCidade	O
+,	O
+São	B-LOC
+Caetano	I-LOC
+do	I-LOC
+Sul	I-LOC
+
+Barra	B-LOC
+da	I-LOC
+Tijuca	I-LOC
+(	I-LOC
+bairro	I-LOC
+)	I-LOC
+
+Costa	B-PER
+e	I-PER
+Silva	I-PER
+
+'	O
+''	O
+UFC	B-ORG
+Fight	I-ORG
+Night	I-ORG
+:	I-ORG
+Condit	I-ORG
+vs.	I-ORG
+Kampmann	I-ORG
+II	I-ORG
+
+Aaron	B-PER
+Stone	I-PER
+-	O
+S.T.A.N	O
+.	O
+
+21	B-ORG
+Jump	I-ORG
+Street	I-ORG
+
+'	O
+''	O
+Lobo	B-ORG
+Solitário	I-ORG
+''	O
+'	O
+''	O
+
+Brasil	B-LOC
+/	O
+Paraná	B-LOC
+e	O
+Mato	B-LOC
+Grosso	I-LOC
+do	I-LOC
+Sul	I-LOC
+
+Lluís	B-PER
+Dalmau	I-PER
+–	O
+Virgem	B-ORG
+dos	I-ORG
+Consellers	I-ORG
+''	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+(	I-LOC
+cidade	I-LOC
+)	I-LOC

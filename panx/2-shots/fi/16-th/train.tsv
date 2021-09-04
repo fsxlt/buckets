@@ -1,0 +1,75 @@
+'	O
+''	O
+Kanadassa	B-LOC
+''	O
+'	O
+oli	O
+aiemmin	O
+mahdollisuus	O
+nousta	O
+elinikäiseksi	O
+senaattoriksi	O
+.	O
+
+OHJAUS	O
+Ágios	B-LOC
+Ioánnis	I-LOC
+Réntis	I-LOC
+
+Ben	B-ORG
+10	I-ORG
+''	O
+(	O
+2005–2007	O
+)	O
+–	O
+Diamondhead	O
+,	O
+XLR8	O
+,	O
+Wildvine	O
+
+'	O
+''	O
+8	O
+''	O
+'	O
+AS	B-ORG
+Roma	I-ORG
+,	O
+Lazio	B-ORG
+
+Musta	B-PER
+Salama	I-PER
+edustaa	O
+Epäinhimillisiä	B-PER
+,	O
+jotka	O
+ovat	O
+tärkeä	O
+osa	O
+Marvel-universumia	O
+ja	O
+sen	O
+historiaa	O
+.	O
+
+Suurin	O
+näistä	O
+on	O
+5000-7000	O
+km	O
+2	O
+laajuinen	O
+Chott	B-LOC
+el	I-LOC
+Djerid	I-LOC
+Tunisiassa	B-LOC
+.	O
+
+Luettelo	B-PER
+televisiosarjojen	I-PER
+Hercules	I-PER
+ja	I-PER
+Xena	I-PER
+hahmoista	I-PER

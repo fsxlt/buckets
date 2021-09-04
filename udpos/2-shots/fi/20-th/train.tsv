@@ -1,0 +1,117 @@
+Saarioisten	PROPN
+laatikot	NOUN
+,	PUNCT
+makaroni-	X
+,	PUNCT
+lihaperunasose-	X
+,	PUNCT
+lihaperuna-	X
+,	PUNCT
+silakka-	X
+ja	CCONJ
+lihakaali-	X
+
+Dieselin	PROPN
+hinta	NOUN
+heilahteli	VERB
+3,50-3,65	NUM
+välillä	ADP
+riippuen	ADP
+myytiinkö	VERB
+kesä-	X
+,	PUNCT
+talvi-	X
+vai	CCONJ
+välilaatua	NOUN
+.	PUNCT
+
+No	INTJ
+aika	PART
+kiva	ADJ
+juttu	NOUN
+
+Taina	PROPN
+solmi	VERB
+tossunsa	NOUN
+toistamiseen	ADV
+ja	CCONJ
+pompahteli	VERB
+vaaleanpunervassa	ADJ
+lenkkipuvussaan	NOUN
+verannan	NOUN
+shakkiruudukossa	NOUN
+kuin	SCONJ
+vaahtokarkki	NOUN
+
+Jos	SCONJ
+tulisit	VERB
+,	PUNCT
+saisit	VERB
+kaakkua	NOUN
+.	PUNCT
+
+jotenkin	ADV
+ymmärrän	VERB
+sinua	PRON
+,	PUNCT
+joka	PRON
+sentään	PART
+olet	AUX
+nainen	NOUN
+.	PUNCT
+
+Osa	NOUN
+aineistosta	NOUN
+on	VERB
+myös	PART
+saatavilla	VERB
+cd-rom-levyllä	NOUN
+.	PUNCT
+
+Niin	PART
+minun	PRON
+kuin	CCONJ
+monen	DET
+muunkin	PRON
+mielestä	ADP
+liittymisasiat	NOUN
+käsiteltiin	VERB
+väärässä	ADJ
+järjestyksessä	NOUN
+.	PUNCT
+
+Olisikohan	AUX
+se	PRON
+kirjoittanut	VERB
+1946	NUM
+tai	CCONJ
+niillä	DET
+main	ADV
+.	PUNCT
+
+Sininen	ADJ
+pakki	NOUN
+jäälle	NOUN
+hei	INTJ
+.	PUNCT
+
+Kuusesta	NOUN
+oli	AUX
+tosiaan	ADV
+ollut	AUX
+jäljellä	ADV
+pelkkä	ADJ
+ranka	NOUN
+!	PUNCT
+:D	SYM
+
+Heidän	PRON
+kakustaan	NOUN
+nimittäin	ADV
+puuttui	VERB
+ainakin	ADV
+0,1	NUM
+%	SYM
+-kokoinen	ADJ
+pala	NOUN
+.	PUNCT

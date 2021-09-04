@@ -1,0 +1,18 @@
+تحويل	O
+العز	B-PER
+بن	I-PER
+عبد	I-PER
+السلام	I-PER
+
+تحويل	O
+وينكونن	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+سوق	B-ORG
+الذهب	I-ORG
+(	I-ORG
+غزة	I-ORG
+)	I-ORG

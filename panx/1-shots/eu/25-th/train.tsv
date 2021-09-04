@@ -1,0 +1,25 @@
+Txinako	B-ORG
+Herri	I-ORG
+Errepublikako	I-ORG
+metroen	I-ORG
+zerrenda	I-ORG
+
+BIRZUZENDU	O
+Amerikar	B-LOC
+ahate	I-LOC
+txistulari	I-LOC
+
+'	O
+''	O
+Laufersweiler	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+BIRZUZENDU	O
+Ana	B-PER
+Britainia	I-PER
+Handikoa	I-PER

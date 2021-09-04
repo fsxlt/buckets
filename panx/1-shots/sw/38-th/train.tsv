@@ -1,0 +1,17 @@
+Order	B-ORG
+in	I-ORG
+the	I-ORG
+Court	I-ORG
+''	O
+(	O
+1998	O
+)	O
+
+Durham	B-LOC
+,	I-LOC
+North	I-LOC
+Carolina	I-LOC
+
+Jan	B-PER
+P.	I-PER
+Syse	I-PER

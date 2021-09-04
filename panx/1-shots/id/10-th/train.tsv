@@ -1,0 +1,18 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Lot-et-Garonne	I-LOC
+
+'	O
+''	O
+Kaze	B-ORG
+wa	I-ORG
+Fuiteiru	I-ORG
+''	O
+'	O
+
+alih	O
+Wage	B-PER
+Rudolf	I-PER
+Soepratman	I-PER

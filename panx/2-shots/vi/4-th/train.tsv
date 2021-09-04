@@ -1,0 +1,47 @@
+Nguyễn	B-PER
+Diệu	I-PER
+Hoa	I-PER
+cao	O
+158	O
+cm	O
+,	O
+số	O
+đo	O
+81-61-84	O
+
+Cô	B-PER
+bé	I-PER
+quàng	I-PER
+khăn	I-PER
+đỏ	I-PER
+
+'	O
+''	O
+Vương	B-ORG
+cung	I-ORG
+thánh	I-ORG
+đường	I-ORG
+Sagrada	I-ORG
+Família	I-ORG
+''	O
+'	O
+
+Hà	B-LOC
+Nội	I-LOC
+(	O
+7	O
+người	O
+)	O
+,	O
+
+Viettel	B-ORG
+(	I-ORG
+định	I-ORG
+hướng	I-ORG
+)	I-ORG
+
+Giáo	B-LOC
+phận	I-LOC
+Đà	I-LOC
+Nẵng	I-LOC
+.	O

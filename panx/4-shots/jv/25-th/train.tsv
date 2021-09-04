@@ -1,0 +1,75 @@
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Jawa	B-LOC
+Wétan	I-LOC
+-	O
+Surabaya	B-LOC
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+Alih	O
+Lyndon	B-PER
+B.	I-PER
+Johnson	I-PER
+
+Alih	O
+Kevin	B-PER
+Richardson	I-PER
+(	I-PER
+musisi	I-PER
+)	I-PER
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+Aki	B-PER
+Takajo	I-PER
+(	O
+高城	O
+亜樹	O
+)	O
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

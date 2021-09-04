@@ -1,0 +1,75 @@
+تحويل	O
+واكو	B-LOC
+(	I-LOC
+سايتاما	I-LOC
+)	I-LOC
+
+طوكيو	B-ORG
+غول	I-ORG
+A√	I-ORG
+-	O
+موغان	O
+تاناكامارو	O
+
+تحويل	O
+الضياع	B-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+خلفه	O
+الرئيس	O
+الحالي	O
+خورخي	B-PER
+كارلوس	I-PER
+فونسيكا	I-PER
+.	O
+
+وابنة	O
+مؤسس	O
+شركة	O
+وول	B-ORG
+مارت	I-ORG
+سام	B-PER
+والتون	I-PER
+.	O
+
+تحويل	O
+استاد	B-ORG
+الصداقة	I-ORG
+والسلام	I-ORG
+
+تحويل	O
+محمد	B-PER
+بن	I-PER
+الأمين	I-PER
+بوخبزة	I-PER
+
+حبينا	O
+واتحبينا	O
+-	O
+ميادة	B-PER
+الحناوي	I-PER
+
+تحويل	O
+اسماعیل	B-LOC
+خان	I-LOC
+کندي	I-LOC
+(	I-LOC
+غربي	I-LOC
+أردبيل	I-LOC
+)	I-LOC
+
+تحويل	O
+فالي	B-LOC
+لوميلينا	I-LOC
+(	I-LOC
+بافيا	I-LOC
+)	I-LOC
+
+تحويل	O
+قهرمانلو	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غرمي	I-LOC
+)	I-LOC

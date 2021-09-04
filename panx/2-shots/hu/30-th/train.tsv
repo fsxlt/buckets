@@ -1,0 +1,68 @@
+ÁTIRÁNYÍTÁS	O
+Axis	B-ORG
+of	I-ORG
+Justice	I-ORG
+
+Tilki	B-PER
+Attila	I-PER
+(	O
+Szabolcs-Szatmár-Bereg	B-LOC
+megye	I-LOC
+10.	I-LOC
+vk	I-LOC
+.	I-LOC
+)	O
+
+Antrim	B-LOC
+megye	I-LOC
+(	I-LOC
+Michigan	I-LOC
+)	I-LOC
+
+*2012.03.11	O
+-	O
+'	O
+''	O
+Big	B-ORG
+Bang	I-ORG
+''	O
+'17	O
+.	O
+
+A	O
+Kraszna	B-LOC
+jobb-	O
+,	O
+és	O
+a	O
+Szamos	B-LOC
+bal-partján	O
+árvízvédelmi	O
+töltések	O
+építése	O
+.	O
+
+Bonaventure	B-PER
+Kalou	I-PER
+,	O
+a	O
+Feyenoord	B-ORG
+,	O
+az	O
+Auxerre	B-ORG
+és	O
+a	O
+PSG	B-ORG
+egykori	O
+játékosa	O
+.	O
+
+A	O
+bemutatkozás	O
+végül	O
+az	O
+Arsenal	B-ORG
+ellen	O
+sikerült	O
+neki	O
+.	O

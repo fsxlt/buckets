@@ -1,0 +1,109 @@
+Nguyễn	B-PER
+Diệu	I-PER
+Hoa	I-PER
+cao	O
+158	O
+cm	O
+,	O
+số	O
+đo	O
+81-61-84	O
+
+Cô	B-PER
+bé	I-PER
+quàng	I-PER
+khăn	I-PER
+đỏ	I-PER
+
+đổi	O
+Xã	B-LOC
+Lively	I-LOC
+Grove	I-LOC
+,	I-LOC
+Quận	I-LOC
+Washington	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+Đơn	B-LOC
+vị	I-LOC
+hành	I-LOC
+chính	I-LOC
+cấp	I-LOC
+hạt	I-LOC
+của	I-LOC
+Nhật	I-LOC
+Bản	I-LOC
+
+Danh	B-ORG
+sách	I-ORG
+ngân	I-ORG
+hàng	I-ORG
+bị	I-ORG
+mua	I-ORG
+lại	I-ORG
+hoặc	I-ORG
+phá	I-ORG
+sản	I-ORG
+trong	I-ORG
+khủng	I-ORG
+hoảng	I-ORG
+tài	I-ORG
+chính	I-ORG
+cuối	I-ORG
+thập	I-ORG
+niên	I-ORG
+2000	I-ORG
+
+''	O
+Artemia	B-LOC
+salina	I-LOC
+''	O
+
+đổi	O
+Nhóm	B-ORG
+Triển	I-ORG
+khai	I-ORG
+Chiến	I-ORG
+tranh	I-ORG
+Đặc	I-ORG
+biệt	I-ORG
+Hải	I-ORG
+quân	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+
+Cuộc	B-ORG
+hành	I-ORG
+trình	I-ORG
+về	I-ORG
+phía	I-ORG
+Đông	I-ORG
+của	I-ORG
+Nikolai	I-ORG
+II	I-ORG
+
+Oliver	B-PER
+Kahn	I-PER
+(	O
+2002-2008	O
+)	O
+
+đổi	O
+Ôn	B-PER
+Tộ	I-PER
+Vương	I-PER
+
+''	O
+Cosmos	B-ORG
+:	I-ORG
+A	I-ORG
+Spacetime	I-ORG
+Odyssey	I-ORG
+''	O
+
+Hoàng	B-LOC
+Sa	I-LOC
+,	I-LOC
+Đà	I-LOC
+Nẵng	I-LOC

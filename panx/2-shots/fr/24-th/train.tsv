@@ -1,0 +1,56 @@
+District	B-LOC
+de	I-LOC
+Cachar	I-LOC
+
+REDIRECTION	O
+Mignano	B-LOC
+Monte	I-LOC
+Lungo	I-LOC
+
+Bulls	B-ORG
+de	I-ORG
+Belleville	I-ORG
+(	O
+LHO	O
+)	O
+
+Mais	O
+il	O
+se	O
+résigna	O
+après	O
+avoir	O
+su	O
+que	O
+son	O
+ancien	O
+collègue	O
+David	B-PER
+Peckinpah	I-PER
+avait	O
+accepté	O
+un	O
+contrat	O
+pour	O
+une	O
+autre	O
+saison	O
+.	O
+
+Conseil	B-ORG
+des	I-ORG
+représentants	I-ORG
+des	I-ORG
+peuples	I-ORG
+(	I-ORG
+Éthiopie	I-ORG
+)	I-ORG
+
+``	O
+Le	O
+faux	O
+authentique	O
+''	O
+–	O
+Umberto	B-PER
+Eco	I-PER

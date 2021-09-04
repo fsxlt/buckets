@@ -1,0 +1,41 @@
+والرئيس	O
+الحالي	O
+هو	O
+حسن	B-PER
+شيخ	I-PER
+محمود	I-PER
+.	O
+
+نيويورك	B-LOC
+(	O
+بعثة	O
+دائمة	O
+لدى	O
+الأمم	B-ORG
+المتحدة	I-ORG
+)	O
+
+تحويل	O
+تسيل	B-LOC
+أم	I-LOC
+زيه	I-LOC
+
+تحويل	O
+يوحنا	B-PER
+الثالث	I-PER
+(	I-PER
+بابا	I-PER
+روما	I-PER
+)	I-PER
+
+تحويل	O
+باكينغتون	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تعلم	O
+في	O
+جامعة	B-ORG
+هارفارد	I-ORG
+.	O

@@ -1,0 +1,110 @@
+Hunger	B-ORG
+of	I-ORG
+the	I-ORG
+Pine	I-ORG
+''	O
+
+Circondario	B-LOC
+di	I-LOC
+Aga	I-LOC
+Buriazia	I-LOC
+
+Massa	B-LOC
+Marittima	I-LOC
+(	O
+GR	B-LOC
+)	O
+
+Furono	O
+molto	O
+usati	O
+anche	O
+da	O
+Alessandro	B-PER
+Manzoni	I-PER
+che	O
+andò	O
+a	O
+''sciacquare	O
+i	O
+panni	O
+in	O
+Arno	B-LOC
+''	O
+.	O
+
+Ricardo	B-PER
+Zamora	I-PER
+(	O
+1901-1978	O
+)	O
+,	O
+calciatore	O
+
+Cynthia	B-PER
+Nixon	I-PER
+-	O
+Sex	B-ORG
+and	I-ORG
+the	I-ORG
+City	I-ORG
+''	O
+
+È	O
+quindi	O
+eletto	O
+al	O
+Senato	B-ORG
+della	I-ORG
+Repubblica	I-ORG
+nelle	O
+file	O
+dell'UDC	O
+.	O
+
+;	O
+CDS	O
+-	O
+Promo	O
+50985731624	O
+Warner	B-ORG
+Music	I-ORG
+Messico	I-ORG
+
+Chiuse	O
+la	O
+carriera	O
+disputando	O
+quattro	O
+stagioni	O
+in	O
+squadre	O
+di	O
+Hong	B-LOC
+Kong	I-LOC
+.	O
+
+**	O
+''	O
+Stella	B-PER
+Stevens	I-PER
+''	O
+'	O
+
+Con	O
+una	O
+popolazione	O
+di	O
+4.760	O
+persone	O
+,	O
+è	O
+tra	O
+le	O
+città	O
+più	O
+piccole	O
+della	O
+Repubblica	B-LOC
+Ceca	I-LOC
+.	O

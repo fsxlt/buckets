@@ -1,0 +1,20 @@
+Als	O
+speler	O
+van	O
+Club	B-ORG
+Atlético	I-ORG
+Green	I-ORG
+Cross	I-ORG
+
+Carlos	B-PER
+Cardús	I-PER
+(	O
+Honda	B-ORG
+)	O
+
+De	O
+hoofdplaats	O
+is	O
+Gold	B-LOC
+Beach	I-LOC
+.	O

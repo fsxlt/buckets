@@ -1,0 +1,134 @@
+'	O
+''	O
+New	B-ORG
+York	I-ORG
+Rangers	I-ORG
+''	O
+'	O
+
+Horses	B-ORG
+/	I-ORG
+Horses	B-ORG
+''	O
+(	O
+2005	O
+)	O
+
+Intianviippa	B-LOC
+(	O
+''Rhinoptilus	O
+bitorquatus	O
+''	O
+)	O
+
+'	O
+''	O
+Anastasija	B-PER
+Myskina	I-PER
+(	O
+mestari	O
+)	O
+'	O
+''	O
+
+Hän	O
+pelaa	O
+NHL	B-ORG
+:	I-ORG
+ssä	I-ORG
+Pittsburgh	B-ORG
+Penguinsissä	I-ORG
+.	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brasilia	B-LOC
+
+Mukana	O
+on	O
+myös	O
+muita	O
+vanhempia	O
+Samuli	B-PER
+Torssosen	I-PER
+lyhytelokuvia	O
+.	O
+
+**	O
+Vuoden	B-LOC
+2010	I-LOC
+miehittämättömät	I-LOC
+avaruuslennot	I-LOC
+
+Tilanne	O
+aiheutti	O
+fiaskon	O
+ja	O
+San	B-LOC
+Franciscossa	I-LOC
+turhautunut	O
+yhtye	O
+vain	O
+käveli	O
+lavalle	O
+vilkuttamaan	O
+yleisölle	O
+ja	O
+poistui	O
+sitten	O
+.	O
+
+Kirja	O
+vaikutti	O
+voimakkaasti	O
+Claude	B-PER
+Lévi-Straussiin	I-PER
+ja	O
+Roland	B-PER
+Barthesiin	I-PER
+.	O
+
+Hän	O
+pelaa	O
+myös	O
+Senegalin	B-ORG
+jalkapallomaajoukkueessa	I-ORG
+.	O
+
+Udaita	O
+pidettiin	O
+Saddamin	O
+seuraajana	O
+Irakin	B-LOC
+johtoon	O
+,	O
+kunnes	O
+isä	O
+vaihtoi	O
+hänet	O
+veljeksistä	O
+nuorempaan	O
+,	O
+Qusaihin	B-PER
+.	O
+
+Se	O
+sijaitsee	O
+Keski-Kreikan	B-LOC
+alueella	I-LOC
+ja	O
+sen	O
+hallinnollinen	O
+keskus	O
+on	O
+Livadeiá	B-LOC
+.	O
+
+Nico	B-PER
+Rosbergin	I-PER
+viimeinen	O
+kilpailu	O
+Williamsilla	B-ORG
+.	O

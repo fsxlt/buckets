@@ -1,0 +1,81 @@
+تغییرمسیر	O
+محمدحسین	B-PER
+صفار	I-PER
+هرندی	I-PER
+
+میمون	B-LOC
+پشمالوی	I-LOC
+کلمبیایی	I-LOC
+,	O
+''Lagothrix	O
+lugens	O
+''	O
+
+تغییرمسیر	O
+محمدآباد	B-LOC
+(	I-LOC
+الیگودرز	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+جان	B-PER
+هریسون	I-PER
+(	I-PER
+کارگردان	I-PER
+)	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+متمم	B-ORG
+هفدهم	I-ORG
+قانون	I-ORG
+اساسی	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+خولیو	B-PER
+ریکاردو	I-PER
+کروز	I-PER
+
+تغییرمسیر	O
+سوسکچه‌های	B-LOC
+خرطوم‌دار	I-LOC
+آلسیدودس	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+اریم	B-LOC
+(	I-LOC
+سوادکوه	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+ببخشید	B-ORG
+دیر	I-ORG
+کردم	I-ORG
+(	I-ORG
+آلبوم	I-ORG
+شر	I-ORG
+لوید	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+شاهزاده	B-PER
+هیساهیتوی	I-PER
+آکی‌شینو	I-PER

@@ -1,0 +1,52 @@
+Oh	B-ORG
+!	I-ORG
+Vanity	I-ORG
+
+Léopold	B-ORG
+II	I-ORG
+of	I-ORG
+Belgium	I-ORG
+(	O
+1980	O
+)	O
+
+Adapted	O
+in	O
+1947	O
+from	O
+a	O
+play	O
+by	O
+Ferenc	B-PER
+Molnár	I-PER
+;	O
+not	O
+produced	O
+
+Pepin	B-LOC
+County	I-LOC
+,	I-LOC
+Wisconsin	I-LOC
+16.1	O
+%	O
+
+Chris	B-PER
+Adcock	I-PER
+/	O
+Andrew	B-PER
+Ellis	I-PER
+''	O
+(	O
+First	O
+Round	O
+)	O
+
+''	O
+Phyllonorycter	B-LOC
+kuhlweiniella	I-LOC
+''	O
+(	O
+Zeller	O
+,	O
+1839	O
+)	O

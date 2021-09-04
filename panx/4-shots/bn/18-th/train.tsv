@@ -1,0 +1,62 @@
+শেখ	B-LOC
+ফজলুল	I-LOC
+হক	I-LOC
+মনি	I-LOC
+স্টেডিয়াম	I-LOC
+
+কর্ডোবা	B-LOC
+খিলাফত	I-LOC
+(	O
+৭৫৬	O
+–	O
+১০৩১	O
+)	O
+
+চার্লস	B-PER
+স্যান্ডার্স	I-PER
+পার্স	I-PER
+
+কাশী	B-ORG
+হিন্দু	I-ORG
+বিশ্ববিদ্যালয়	I-ORG
+
+পাফনুতি	B-PER
+লভোভিচ	I-PER
+চেবিশেভ	I-PER
+
+দক্ষিণ	B-ORG
+তালপট্টি	I-ORG
+দ্বীপ	I-ORG
+
+জাদু	B-ORG
+(	I-ORG
+মায়াবিদ্যা	I-ORG
+)	I-ORG
+
+পশ্চিম	B-LOC
+সিক্কিম	I-LOC
+জেলা	I-LOC
+
+সোভিয়েত	B-LOC
+ইউনিয়ন	I-LOC
+-	O
+পরবর্তীতে	O
+রাশিয়া	B-LOC
+
+তামিম	B-PER
+ইকবাল	I-PER
+(	O
+সহ-অধিনায়ক	O
+)	O
+
+রাজশাহী	B-ORG
+মেডিকেল	I-ORG
+কলেজ	I-ORG
+,	O
+রাজশাহী	B-LOC
+
+মুশফিকুর	B-PER
+রহিম	I-PER
+(	O
+†	O
+)	O

@@ -1,0 +1,44 @@
+urtean	O
+bere	O
+So	B-ORG
+Many	I-ORG
+Partings	I-ORG
+''	O
+diskoaren	O
+barnean	O
+plazaratu	O
+zuen	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Fernando	B-PER
+Guillén	I-PER
+Cuervo	I-PER
+''	O
+'	O
+
+Egiptoko	B-ORG
+X.	I-ORG
+dinastia	I-ORG
+
+Ordoño	B-PER
+II.a	I-PER
+Leongoa	I-PER
+,	O
+Galiziako	B-LOC
+erregea	I-LOC
+izan	O
+zen	O
+.	O

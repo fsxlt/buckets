@@ -1,0 +1,42 @@
+)	O
+,	O
+Edizioni	O
+paoline	O
+,	O
+Milano	B-LOC
+1974-2003	O
+.	O
+
+Ennio	B-PER
+Cerlesi	I-PER
+in	O
+''Situazione	O
+pericolosa	O
+''	O
+
+Frequenta	O
+la	O
+University	B-ORG
+of	I-ORG
+Southern	I-ORG
+California	I-ORG
+,	O
+ma	O
+presto	O
+abbandona	O
+gli	O
+studi	O
+per	O
+dedicarsi	O
+alla	O
+recitazione	O
+.	O
+
+NEXT	B-ORG
+Model	I-ORG
+Management	I-ORG
+-	O
+Los	B-LOC
+Angeles	I-LOC
+,	O
+Parigi	B-LOC

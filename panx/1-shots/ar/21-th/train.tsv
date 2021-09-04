@@ -1,0 +1,23 @@
+تحويل	O
+مقاطعة	B-LOC
+فان	I-LOC
+زانت	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+كان	O
+الجولة	O
+الخامسة	O
+ضمن	O
+بطولة	B-ORG
+العالم	I-ORG
+للراليات	I-ORG
+موسم	I-ORG
+2006	I-ORG
+.	O
+
+تحويل	O
+سعيد	B-PER
+أختر	I-PER
+الرضوي	I-PER

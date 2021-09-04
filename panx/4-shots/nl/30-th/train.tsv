@@ -1,0 +1,106 @@
+Grote	B-ORG
+Muur	I-ORG
+van	I-ORG
+Gorgan	I-ORG
+
+Derek	B-PER
+Prince	I-PER
+(	O
+1915-2003	O
+)	O
+
+Dorchester	B-LOC
+(	I-LOC
+Oxfordshire	I-LOC
+)	I-LOC
+
+===	O
+''	O
+Vampire	B-ORG
+Weekend	I-ORG
+''	O
+(	O
+2007-2008	O
+)	O
+===	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Europa	B-LOC
+.	O
+
+Nadat	O
+de	O
+zware	O
+regen	O
+voorbij	O
+was	O
+,	O
+won	O
+Fernando	B-PER
+Alonso	I-PER
+verrassend	O
+de	O
+race	O
+voor	O
+Ferrari	B-ORG
+.	O
+
+La	B-LOC
+Barthe-de-Neste	I-LOC
+(	O
+65069	O
+)	O
+
+Ramecourt	B-LOC
+(	I-LOC
+Vosges	I-LOC
+)	I-LOC
+
+1e	O
+etappe	O
+en	O
+puntenklassement	O
+Ronde	B-ORG
+van	I-ORG
+Polen	I-ORG
+
+DOORVERWIJZING	O
+Johann	B-PER
+Cicero	I-PER
+van	I-PER
+Brandenburg	I-PER
+
+'	O
+''	O
+Vincent	B-ORG
+(	I-ORG
+televisieserie	I-ORG
+)	I-ORG
+''	O
+'	O
+(	O
+2005-2006	O
+)	O
+8	O
+afleveringen	O
+.	O
+
+Het	O
+werd	O
+getekend	O
+en	O
+geschreven	O
+door	O
+Jean	B-PER
+Roba	I-PER
+.	O
+
+Cordillera	B-LOC
+Oriental	I-LOC
+(	I-LOC
+Colombia	I-LOC
+)	I-LOC

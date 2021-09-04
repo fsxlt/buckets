@@ -1,0 +1,37 @@
+'	O
+''	O
+Francisco	B-PER
+Franco	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Luis	B-PER
+Alfonso	I-PER
+de	I-PER
+Borbón	I-PER
+
+Hercules	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+
+REDIRECCIÓN	O
+Shigofumi	B-ORG
+:	I-ORG
+Stories	I-ORG
+of	I-ORG
+Last	I-ORG
+Letter	I-ORG
+
+REDIRECCIÓN	O
+Unión	B-ORG
+Asia-Pacífica	I-ORG
+de	I-ORG
+Radiodifusión	I-ORG
+
+REDIRECCIÓN	O
+Aniak	B-LOC
+(	I-LOC
+cráter	I-LOC
+)	I-LOC

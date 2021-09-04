@@ -1,0 +1,19 @@
+Estádio	B-LOC
+11	I-LOC
+de	I-LOC
+Novembro	I-LOC
+,	O
+Luanda	B-LOC
+,	O
+Angola	B-LOC
+
+Campeonato	B-ORG
+Regional	I-ORG
+Centro	I-ORG
+
+'	O
+''	O
+Temeka	B-PER
+Johnson	I-PER
+''	O
+'	O

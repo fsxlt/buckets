@@ -1,0 +1,20 @@
+تغییرمسیر	O
+مجله	B-ORG
+انجمن	I-ORG
+پرستاران	I-ORG
+بهداشت	I-ORG
+حرفه‌ای	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+دیوید	B-PER
+فراست	I-PER
+(	I-PER
+مجری	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+حسین‌آباد	B-LOC
+(	I-LOC
+رودسر	I-LOC
+)	I-LOC

@@ -1,0 +1,72 @@
+بابان]]	O
+,	O
+39’	O
+زفونيمير	B-PER
+بوبان	I-PER
+
+تحويل	O
+شانلي	B-LOC
+أورفة	I-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+تحويل	O
+خليل	B-PER
+بن	I-PER
+إسحاق	I-PER
+الجندي	I-PER
+
+جامعة	B-ORG
+ديالى	I-ORG
+(	O
+بعقوبة	B-LOC
+)	O
+
+تحويل	O
+جميلة	B-PER
+بنت	I-PER
+عدوان	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+برادلي	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+مدينة	B-ORG
+الملك	I-ORG
+عبد	I-ORG
+العزيز	I-ORG
+الطبية	I-ORG
+للحرس	I-ORG
+الوطني	I-ORG
+
+تحويل	O
+كوبر	B-LOC
+(	I-LOC
+مين	I-LOC
+)	I-LOC
+
+تحويل	O
+شريف	B-PER
+عبد	I-PER
+الرحيم	I-PER
+
+تحويل	O
+بزرغ	B-LOC
+آب	I-LOC
+(	I-LOC
+مازو	I-LOC
+)	I-LOC
+
+بطولة	B-ORG
+أوروبا	I-ORG
+لكرة	I-ORG
+الماء	I-ORG
+
+فجوة	B-ORG
+إلكترونية	I-ORG
+Electron	O
+hole	O

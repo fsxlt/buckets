@@ -1,0 +1,54 @@
+पुनर्प्रेषित	O
+जॉन	B-PER
+स्टूवर्ट	I-PER
+मिल	I-PER
+
+अनुप्रेषित	O
+मौत	B-LOC
+की	I-LOC
+घाटी	I-LOC
+
+**	O
+रेक्जाविक	B-LOC
+(	O
+दूतावास	O
+)	O
+
+मंडी	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+लोकमान्य	B-ORG
+तिलक	I-ORG
+टर्मिनस	I-ORG
+रेलवे	I-ORG
+स्टेशन	I-ORG
+
+'	O
+''	O
+नई	B-LOC
+दिल्ली	I-LOC
+''	O
+'	O
+
+अक्षय	B-PER
+कुमार	I-PER
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+अमोल	B-PER
+पालेकर	I-PER
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+आमिर	B-PER
+ख़ान	I-PER

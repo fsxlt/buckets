@@ -1,0 +1,84 @@
+REDIRECCIÓN	O
+Partido	B-LOC
+de	I-LOC
+Chacabuco	I-LOC
+
+San	B-LOC
+Sadurní	I-LOC
+de	I-LOC
+Noya	I-LOC
+
+Unión	B-ORG
+Popular	I-ORG
+(	I-ORG
+Argentina	I-ORG
+)	I-ORG
+
+Milton	B-LOC
+Keynes	I-LOC
+,	O
+Reino	B-LOC
+Unido	I-LOC
+
+REDIRECCIÓN	O
+Calle	B-ORG
+34–Estación	I-ORG
+Penn	I-ORG
+(	I-ORG
+línea	I-ORG
+de	I-ORG
+la	I-ORG
+Séptima	I-ORG
+Avenida–Broadway	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+José	B-PER
+María	I-PER
+Cos	I-PER
+y	I-PER
+Macho	I-PER
+
+REDIRECCIÓN	O
+William	B-PER
+H.	I-PER
+Seward	I-PER
+
+REDIRECCIÓN	O
+Vinaròs	B-ORG
+Club	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+
+Pamplona	B-LOC
+-	O
+Calahorra	B-LOC
+-	O
+Hendaya	B-LOC
+-	O
+Irún	B-LOC
+-	O
+Logroño	B-LOC
+-	O
+Los	B-LOC
+Arcos	I-LOC
+-	O
+San	B-LOC
+Sebastián	I-LOC
+
+REDIRECCIÓN	O
+Organización	B-ORG
+de	I-ORG
+Pioneros	I-ORG
+Vladímir	I-ORG
+Lenin	I-ORG
+
+REDIRECCIÓN	O
+Franz	B-PER
+Theodor	I-PER
+Wolf	I-PER
+
+Philippe	B-PER
+Loys	I-PER
+de	I-PER
+Chéseaux	I-PER

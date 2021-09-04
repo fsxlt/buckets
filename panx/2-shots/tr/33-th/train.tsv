@@ -1,0 +1,49 @@
+'	O
+''	O
+Sevilla	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+YÖNLENDİRME	O
+1978-79	B-LOC
+Türkiye	I-LOC
+1.	I-LOC
+Futbol	I-LOC
+Ligi	I-LOC
+
+YÖNLENDİRME	O
+Albert	B-PER
+Malet	I-PER
+(	I-PER
+tarihçi	I-PER
+)	I-PER
+
+'	O
+''	O
+Kep	O
+''	O
+'	O
+,	O
+Kamboçya'nın	B-LOC
+bir	O
+kıyı	O
+kasabasıdır	O
+.	O
+
+Hint	B-LOC
+Okyanusu	I-LOC
+Galerisi	O
+,	O
+
+Hannibal	B-PER
+ve	O
+Mago	B-ORG
+Barca’nın	I-ORG
+kardeşi	O
+.	O
+
+YÖNLENDİRME	O
+Marcia	B-PER
+Mitzman	I-PER
+Gaven	I-PER

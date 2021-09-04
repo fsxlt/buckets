@@ -1,0 +1,43 @@
+You	B-ORG
+'re	I-ORG
+Beautiful	I-ORG
+/	O
+James	B-PER
+Blunt	I-PER
+
+'	O
+''	O
+Doka	B-PER
+Madureira	I-PER
+''	O
+'	O
+–	O
+İstanbul	B-ORG
+Büyükşehir	I-ORG
+Belediyespor	I-ORG
+2011–13	O
+,	O
+'	O
+''	O
+İstanbul	B-ORG
+Başakşehir	I-ORG
+''	O
+'	O
+2014–	O
+
+YÖNLENDİRME	O
+Galatasaray	B-LOC
+Profesyonel	I-LOC
+Futbol	I-LOC
+Takımı	I-LOC
+2008-09	I-LOC
+sezonu	I-LOC
+
+mesafe	O
+bulunan	O
+komşuları	O
+,	O
+Rhône	B-LOC
+Nehri	I-LOC
+ayırır	O
+.	O

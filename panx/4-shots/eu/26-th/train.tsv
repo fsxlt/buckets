@@ -1,0 +1,94 @@
+José	B-PER
+Antonio	I-PER
+Ortega	I-PER
+Lara	I-PER
+
+Ilie	B-PER
+Năstase	I-PER
+(	O
+1	O
+)	O
+
+Paduako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Veneto	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Nazioarteko	B-ORG
+Batzorde	I-ORG
+Elektroteknikoa	I-ORG
+
+Luis	B-PER
+VII.a	I-PER
+Frantziakoa	I-PER
+Gaztea	O
+.	O
+
+BIRZUZENDU	O
+Islamiar	B-ORG
+Talde	I-ORG
+Armatua	I-ORG
+
+'	O
+''	O
+Bilbao	B-ORG
+Athletic	I-ORG
+''	O
+'	O
+
+Salernoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+Bellunoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Veneto	B-LOC
+eskualdean	O
+.	O
+
+Bitchū	B-ORG
+Matsuyama	I-ORG
+gazteluarengatik	I-ORG
+da	O
+ezaguna	O
+.	O
+
+Baiezkoak	O
+irabazten	O
+baldin	O
+bazuen	O
+``	O
+merkatuek	O
+erantzun	O
+negatiboa	O
+''	O
+izango	O
+zuketela	O
+ohartarazi	O
+zuen	O
+NDFk	B-ORG
+.	O
+
+Claudio	B-PER
+Chiappucci	I-PER
+(	O
+2	O
+)	O
+
+BIRZUZENDU	O
+Kongoko	B-LOC
+Errepublika	I-LOC
+Demokratikoa	I-LOC

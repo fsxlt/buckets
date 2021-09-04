@@ -1,0 +1,31 @@
+호세	B-PER
+안토니오	I-PER
+카마초	I-PER
+(	O
+2002-2004	O
+)	O
+
+**	O
+상하이	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+
+넘겨주기	O
+나고야	B-ORG
+임해	I-ORG
+고속	I-ORG
+철도	I-ORG
+니시나고야코	I-ORG
+선	I-ORG
+
+위	B-LOC
+(	O
+魏	O
+)	O
+폐제	B-PER
+(	O
+廢帝	O
+)	O
+3년	O

@@ -1,0 +1,81 @@
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Oise	I-LOC
+
+'	O
+''	O
+Nico	B-PER
+Rosberg	I-PER
+''	O
+'	O
+
+ALIH	O
+Ratu	B-PER
+Inhyeon	I-PER
+dari	I-PER
+Joseon	I-PER
+
+Keppel	B-ORG
+Tat	I-ORG
+Lee	I-ORG
+Bank	I-ORG
+
+KKB]]	O
+Bank	B-ORG
+Dunia	I-ORG
+,	O
+2012	O
+)	O
+'	O
+''	O
+
+ALIH	O
+Tandubas	B-LOC
+,	I-LOC
+Tawi-Tawi	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Hérault	I-LOC
+
+ALIH	O
+Uni	B-ORG
+Telekomunikasi	I-ORG
+Internasional	I-ORG
+
+ALIH	O
+Francisco	B-PER
+Javier	I-PER
+Rodríguez	I-PER
+
+ALIH	O
+General	B-LOC
+Post	I-LOC
+Office	I-LOC
+(	I-LOC
+Sydney	I-LOC
+)	I-LOC
+
+Beyoncé	B-PER
+–	O
+``	O
+Single	B-ORG
+Ladies	I-ORG
+(	I-ORG
+Put	I-ORG
+a	I-ORG
+Ring	I-ORG
+on	I-ORG
+It	I-ORG
+)	I-ORG
+''	O
+
+Tersisih	O
+P3	O
+vs	O
+Petra	B-PER
+Kvitová	I-PER
+[8]	O

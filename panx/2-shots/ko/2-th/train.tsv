@@ -1,0 +1,41 @@
+넘겨주기	O
+J.	B-PER
+J.	B-PER
+하디	I-PER
+
+롬므는	O
+발랑시엔	B-ORG
+FC에	I-ORG
+5-3으로	O
+승리하였다	O
+.	O
+
+넘겨주기	O
+노르웨이	B-PER
+왕세자빈	I-PER
+메테마리트	I-PER
+
+그녀는	O
+테네시	B-LOC
+주	I-LOC
+멤피스에	B-LOC
+태어나	O
+미시간	B-LOC
+주	I-LOC
+플린트에서	B-LOC
+자랐다	O
+.	O
+
+12명의	B-ORG
+여동생을	I-ORG
+두고	O
+있다	O
+.	O
+
+플로리다	B-LOC
+주	I-LOC
+포트로더데일에서	B-LOC
+84세의	O
+나이로	O
+사망하였다	O
+.	O

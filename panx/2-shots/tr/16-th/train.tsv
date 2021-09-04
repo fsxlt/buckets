@@ -1,0 +1,34 @@
+YÖNLENDİRME	O
+Eurovision	B-LOC
+Çocuk	I-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+Letonya	I-LOC
+
+'	O
+''	O
+Buriram	B-ORG
+United	I-ORG
+F.C	I-ORG
+.	I-ORG
+''	O
+'	O
+
+Zayed	B-PER
+Sports	I-PER
+City	I-PER
+Stadium	I-PER
+,	O
+Abu	B-LOC
+Dabi	I-LOC
+
+Bernard	B-PER
+Lee	I-PER
+-	O
+M	O
+
+``	O
+Hustler	B-ORG
+'s	I-ORG
+Ambition	I-ORG
+''	O

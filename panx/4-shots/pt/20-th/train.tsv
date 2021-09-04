@@ -1,0 +1,75 @@
+'	O
+''	O
+Denny	B-PER
+Hulme	I-PER
+''	O
+'	O
+
+Redirecionamento	O
+Diocese	B-LOC
+do	I-LOC
+Ponto	I-LOC
+
+*2006	O
+-	O
+Cobras	B-ORG
+&	I-ORG
+Lagartos	I-ORG
+''	O
+
+Mânio	B-PER
+Cúrio	I-PER
+Dentato	I-PER
+
+Só	O
+Hoje	O
+-	O
+Jota	B-ORG
+Quest	I-ORG
+
+Filain	B-LOC
+(	I-LOC
+Aisne	I-LOC
+)	I-LOC
+
+Museu	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Tóquio	I-ORG
+,	O
+em	O
+Tóquio	B-LOC
+
+'	O
+''	O
+Andrea	B-PER
+Hlaváčková	I-PER
+Lucie	B-PER
+Hradecká	I-PER
+
+'	O
+''	O
+João	B-LOC
+Pessoa	I-LOC
+''	O
+'	O
+
+Ansar	B-ORG
+al-Sharia	I-ORG
+(	I-ORG
+Líbia	I-ORG
+)	I-ORG
+
+Dick	B-PER
+Sprang	I-PER
+(	O
+Batman	B-PER
+)	O
+
+==	O
+Primeira	B-LOC
+República	I-LOC
+(	O
+1910–1926	O
+)	O
+==	O

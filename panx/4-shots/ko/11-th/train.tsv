@@ -1,0 +1,116 @@
+넘겨주기	O
+모리타	B-ORG
+카즈요시	I-ORG
+아워	I-ORG
+와랏테	I-ORG
+이이토모	I-ORG
+!	I-ORG
+
+알토파라나	B-LOC
+주	I-LOC
+(	O
+Alto	O
+Paraná	O
+)	O
+
+장자커우	B-LOC
+시	I-LOC
+(	O
+장가구시	O
+)	O
+
+'	O
+''	O
+루이스	B-PER
+해밀턴	I-PER
+''	O
+'	O
+
+넘겨주기	O
+한신	B-ORG
+전기	I-ORG
+철도	I-ORG
+한신	B-ORG
+난바	I-ORG
+선	I-ORG
+
+넘겨주기	O
+오클랜드	B-ORG
+그래머	I-ORG
+스쿨	I-ORG
+
+오페라	B-LOC
+(	I-LOC
+이탈리아	I-LOC
+)	I-LOC
+
+이태원	B-PER
+햄버거	I-PER
+가게	I-PER
+살인	I-PER
+사건	I-PER
+
+많은	O
+작곡가들이	O
+이	O
+음형을	O
+요한	B-PER
+제바스티안	I-PER
+바흐에	I-PER
+대한	O
+존경의	O
+표시로	O
+썼다	O
+.	O
+
+''	O
+'9	O
+''	O
+'	O
+보카	B-ORG
+주니어스	I-ORG
+
+반계는	O
+하동태수	O
+재임	O
+중	O
+무제에게	B-PER
+하천을	O
+뚫어	O
+농지를	O
+늘릴	O
+것을	O
+제안하였고	O
+,	O
+무제는	O
+이를	O
+받아들여	O
+수만	O
+명의	O
+인부를	O
+징발하여	O
+하천을	O
+파고	O
+농지를	O
+개간하였다	O
+.	O
+
+플로리다	B-LOC
+주	I-LOC
+포트로더데일에서	B-LOC
+84세의	O
+나이로	O
+사망하였다	O
+.	O
+
+청	B-LOC
+(	O
+淸	O
+)	O
+고종	B-PER
+건륭제	I-PER
+(	O
+高宗	O
+乾隆帝	O
+)	O
+35년	O

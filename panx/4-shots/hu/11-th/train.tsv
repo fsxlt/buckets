@@ -1,0 +1,119 @@
+Csillagot	O
+kapott	O
+a	O
+Hollywood	B-ORG
+Walk	I-ORG
+of	I-ORG
+Fame-en	I-ORG
+.	O
+
+Laura	B-PER
+Pausini	I-PER
+olasz	B-LOC
+énekes	O
+
+There’s	B-ORG
+a	I-ORG
+Riot	I-ORG
+Goin’	I-ORG
+On	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Hud	B-ORG
+(	I-ORG
+egyértelműsítő	I-ORG
+lap	I-ORG
+)	I-ORG
+
+Barry	B-PER
+Gibb	I-PER
+,	O
+Robin	B-PER
+Gibb	I-PER
+
+ÁTIRÁNYÍTÁS	O
+David	B-PER
+Martin	I-PER
+(	I-PER
+labdarúgó	I-PER
+,	I-PER
+1986	I-PER
+)	I-PER
+
+Máramaros	B-LOC
+vármegye	I-LOC
+,	O
+valamint	O
+a	O
+
+Costa	B-LOC
+Rica	I-LOC
+,	O
+Honduras	B-LOC
+,	O
+Nicaragua	B-LOC
+,	O
+Panama	B-LOC
+,	O
+Ecuador	B-LOC
+,	O
+Kolumbia	B-LOC
+és	O
+Peru	B-LOC
+területén	O
+honos	O
+.	O
+
+Habár	O
+ez	O
+a	O
+film	O
+már	O
+korábban	O
+készen	O
+volt	O
+,	O
+a	O
+rendező	O
+,	O
+J.	B-PER
+J.	B-PER
+Abrams	I-PER
+csak	O
+májusban	O
+tárta	O
+a	O
+közönség	O
+elé	O
+,	O
+különböző	O
+okokra	O
+hivatkozva	O
+.	O
+
+Kongói	B-LOC
+Demokratikus	I-LOC
+Köztársaság	I-LOC
+–	O
+Tanzánia	B-LOC
+–	O
+Zambia	B-LOC
+–	O
+Burundi	B-LOC
+
+Athén	B-LOC
+nomarhía	I-LOC
+(	O
+Νομαρχία	O
+Αθηνών	O
+)	O
+;	O
+
+Cruz	B-ORG
+Azul	I-ORG
+(	O
+Mexikó	B-LOC
+)	O
+CA	B-ORG
+Boca	I-ORG
+Juniors	I-ORG

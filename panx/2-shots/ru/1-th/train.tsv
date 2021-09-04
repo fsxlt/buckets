@@ -1,0 +1,39 @@
+перенаправление	O
+Кастри	B-PER
+,	I-PER
+Кристиан	I-PER
+де	I-PER
+
+Королевские	B-ORG
+военно-воздушные	I-ORG
+силы	I-ORG
+Великобритании	I-ORG
+
+Валерий	B-PER
+Карпин	I-PER
+(	O
+2009—2012	O
+,	O
+2012—2014	O
+)	O
+
+Осот	B-LOC
+огородный	I-LOC
+(	O
+)	O
+;	O
+
+Aftermath	B-ORG
+(	O
+The	B-ORG
+Rolling	I-ORG
+Stones	I-ORG
+)	O
+
+Занимал	O
+различные	O
+должности	O
+в	O
+волостном	B-LOC
+управлении	I-LOC
+.	O

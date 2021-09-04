@@ -1,0 +1,16 @@
+''	O
+Ultimate	B-ORG
+Fighting	I-ORG
+Championship	I-ORG
+
+Capitán	B-LOC
+Sarmiento	I-LOC
+(	I-LOC
+partido	I-LOC
+)	I-LOC
+
+Nicolás	B-PER
+Laprovittola	I-PER
+(	O
+6	O
+)	O

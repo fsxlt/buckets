@@ -1,0 +1,64 @@
+Homer	B-PER
+Burton	I-PER
+Adkins	I-PER
+und	O
+Ralph	B-PER
+Connor	I-PER
+waren	O
+die	O
+ersten	O
+,	O
+die	O
+die	O
+Kohlenstoff-Sauerstoff-Bindungsspaltung	O
+''Hydrogenolyse	O
+''	O
+nannten	O
+.	O
+
+Brooklyn	B-LOC
+−	O
+Staten	B-LOC
+Island	I-LOC
+,	O
+New	B-LOC
+York	I-LOC
+City	I-LOC
+
+1975	O
+wurde	O
+er	O
+dann	O
+Assistenztrainer	O
+beim	O
+Renommierclub	O
+Wisła	B-ORG
+Krakau	I-ORG
+.	O
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Ratzeburg	I-LOC
+''	O
+'	O
+
+Im	O
+Eröffnungsspiel	O
+gewann	O
+der	O
+Palamós	B-ORG
+CF	I-ORG
+gegen	O
+den	O
+Nachbarn	O
+FC	B-ORG
+Barcelona	I-ORG
+mit	O
+2:1	O
+.	O
+
+Adrian	B-PER
+S.	I-PER
+Hollis	I-PER

@@ -1,0 +1,111 @@
+Mstislav	B-PER
+,	O
+Kiovan	B-LOC
+Venäjän	I-LOC
+ruhtinas	O
+
+Jokioisten-Forssan	B-ORG
+rautatieyhtiön	I-ORG
+hallituksen	O
+puheenjohtaja	O
+hän	O
+oli	O
+1911-1923	O
+.	O
+
+Constanzia	B-PER
+”Connie”	I-PER
+Corleone-Rizzi	I-PER
+–	O
+Tytär	O
+;	O
+näyttelijänä	O
+Talia	B-PER
+Shire	I-PER
+kaikissa	O
+elokuvissa	O
+
+–	O
+Emeli	B-PER
+Sandé	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Trosa	B-LOC
+''	O
+'	O
+
+Se	O
+rajoittuu	O
+pohjoisessa	O
+Korean	B-LOC
+niemimaan	I-LOC
+eteläpuolelle	O
+,	O
+
+Dinosaur	B-ORG
+Provincial	I-ORG
+Park	I-ORG
+,	O
+Alberta	B-LOC
+
+Hänet	O
+löydettiin	O
+kuolleena	O
+Kalifornian	B-LOC
+Los	B-LOC
+Angelesin	I-LOC
+piirikunnassa	I-LOC
+sijainneen	O
+kotinsa	O
+uima-altaasta	O
+.	O
+
+Portugalilaista	B-LOC
+Vitória	B-ORG
+Setúbalia	I-ORG
+edustavan	O
+N'Diayen	O
+pelipaikka	O
+on	O
+puolustaja	O
+.	O
+
+Percy	B-LOC
+Jackson	I-LOC
+,	O
+Rick	B-PER
+Riordanin	I-PER
+kirjasarjan	O
+päähenkilö	O
+
+Pinaattielämänlankaa	O
+on	O
+viljelty	O
+Aasiassa	B-LOC
+ravintokasvina	O
+yli	O
+2000	O
+vuotta	O
+.	O
+
+OHJAUS	O
+Kutonen	B-ORG
+(	I-ORG
+televisiokanava	I-ORG
+)	I-ORG
+
+Joukkueessa	O
+juoksivat	O
+lisäksi	O
+Hanna	B-PER
+Mariën	I-PER
+,	O
+Élodie	B-PER
+Ouédraogo	I-PER
+ja	O
+Kim	B-PER
+Gevaert	I-PER
+.	O

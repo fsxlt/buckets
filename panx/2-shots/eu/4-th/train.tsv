@@ -1,0 +1,56 @@
+Arduradun	O
+nagusia	O
+Eusko	B-ORG
+Jaurlaritzako	I-ORG
+Osasun	O
+Sailburua	O
+da	O
+.	O
+
+Piacenzako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Emilia-Romagna	B-LOC
+eskualdean	O
+.	O
+
+Germaniar	B-ORG
+Konfederazioko	I-ORG
+lehendakari	O
+izan	O
+zen	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Alpes-de-Haute-Provence	B-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Johann	B-PER
+Sebastian	I-PER
+Bachengan	I-PER
+eragin	O
+handia	O
+izan	O
+zuen	O
+.	O
+
+'	O
+''	O
+Denis	B-PER
+Menxov	I-PER
+''	O
+'	O
+82h	O
+27	O
+'	O
+31	O
+''	O

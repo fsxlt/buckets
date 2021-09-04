@@ -1,0 +1,83 @@
+*1948	O
+-	O
+Kaputol	B-ORG
+ng	I-ORG
+Isang	I-ORG
+Awit	I-ORG
+''	O
+
+Ang	O
+'	O
+''	O
+Sternber	O
+''	O
+'	O
+ay	O
+isang	O
+munisipalidad	O
+sa	O
+Alemanya	B-LOC
+.	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC
+
+Juan	B-PER
+Ponce	I-PER
+Enrile	I-PER
+
+Bulubundukin	B-LOC
+ng	I-LOC
+Zagros	I-LOC
+
+Metallo	B-PER
+-	O
+Corey	B-PER
+Burton	I-PER
+
+Uenohara	B-LOC
+,	I-LOC
+Yamanashi	I-LOC
+
+Mondino	B-PER
+de	I-PER
+Luzzi	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Cinderella	B-ORG
+(	I-ORG
+banda	I-ORG
+sa	I-ORG
+Pilipinas	I-ORG
+)	I-ORG
+
+''	O
+Neri	B-PER
+Naig	I-PER
+''	O
+'	O
+bilang	O
+batang	O
+Lupe	O
+
+Pamantasang	B-ORG
+Ateneo	I-ORG
+de	I-ORG
+Manila	I-ORG
+
+Sistema	B-ORG
+ng	I-ORG
+Magaan	I-ORG
+na	I-ORG
+Riles	I-ORG
+Panlulan	I-ORG
+ng	I-ORG
+Maynila	I-ORG

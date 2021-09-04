@@ -1,0 +1,22 @@
+Salvador	B-PER
+de	I-PER
+Madariaga	I-PER
+Rojo	I-PER
+
+Talde	O
+berean	O
+Manchester	B-ORG
+United	I-ORG
+eta	O
+Bayer	B-ORG
+04	I-ORG
+Leverkusen	I-ORG
+egokitu	O
+zitzaion	O
+Realari	O
+.	O
+
+Java	B-LOC
+(	I-LOC
+uhartea	I-LOC
+)	I-LOC

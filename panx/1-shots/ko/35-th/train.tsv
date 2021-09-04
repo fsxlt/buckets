@@ -1,0 +1,18 @@
+넘겨주기	O
+하이드파크	B-LOC
+(	I-LOC
+뉴욕	I-LOC
+주	I-LOC
+)	I-LOC
+
+닐	B-PER
+암스트롱	I-PER
+(	O
+)	O
+-	O
+선장	O
+
+버라이어티	B-ORG
+(	I-ORG
+잡지	I-ORG
+)	I-ORG

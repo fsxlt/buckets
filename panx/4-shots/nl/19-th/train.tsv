@@ -1,0 +1,96 @@
+DOORVERWIJZING	O
+Universiteit	B-ORG
+Sapienza	I-ORG
+Rome	I-ORG
+
+Eigendom	O
+van	O
+de	O
+British	B-ORG
+South	I-ORG
+Africa	I-ORG
+Company	I-ORG
+
+Terug	O
+in	O
+Bartlesville	B-LOC
+werd	O
+nader	O
+onderzoek	O
+gedaan	O
+.	O
+
+Zijn	O
+lichaam	O
+werd	O
+bijgezet	O
+in	O
+de	O
+Dom	B-ORG
+van	I-ORG
+Münster	I-ORG
+.	O
+
+Alghero	B-LOC
+,	O
+Porto	B-LOC
+Torres	I-LOC
+,	O
+Ozieri	B-LOC
+
+'	O
+''	O
+Marc	B-PER
+Surer	I-PER
+''	O
+'	O
+
+Godzilla	B-PER
+:	I-PER
+The	I-PER
+Series	I-PER
+''	O
+
+Saint	B-LOC
+Peter	I-LOC
+Port	I-LOC
+
+Isabela	B-LOC
+(	I-LOC
+Negros	I-LOC
+Occidental	I-LOC
+)	I-LOC
+
+Claude	B-PER
+(	O
+1499–1524	O
+)	O
+,	O
+gehuwd	O
+met	O
+Frans	B-PER
+I	I-PER
+van	I-PER
+Frankrijk	I-PER
+,	O
+
+'	O
+''	O
+Laurine	B-PER
+van	I-PER
+Riessen	I-PER
+''	O
+'	O
+
+Orkney	B-LOC
+(	I-LOC
+Canada	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Bologna	B-ORG
+FC	I-ORG
+1909	I-ORG
+''	O
+'	O

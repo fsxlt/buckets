@@ -1,0 +1,102 @@
+Noche	B-ORG
+de	I-ORG
+Burns	I-ORG
+
+'	O
+''	O
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Alemania	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Goran	B-PER
+Ivanišević	I-PER
+/	O
+Cédric	B-PER
+Pioline	I-PER
+vs	O
+Guy	B-PER
+Forget	I-PER
+/	O
+Henri	B-PER
+Leconte	I-PER
+
+Condado	B-LOC
+de	I-LOC
+Howard	I-LOC
+-	O
+noroeste	O
+
+José	B-PER
+Miguel	I-PER
+de	I-PER
+la	I-PER
+Cueva	I-PER
+y	I-PER
+de	I-PER
+la	I-PER
+Cerda	I-PER
+
+Sturluson	B-PER
+,	I-PER
+Snorri	I-PER
+.	O
+
+'	O
+''	O
+Zhou	B-PER
+Yimiao	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Provincia	B-LOC
+de	I-LOC
+Tierra	I-LOC
+del	I-LOC
+Fuego	I-LOC
+,	I-LOC
+Antártida	I-LOC
+e	I-LOC
+Islas	I-LOC
+del	I-LOC
+Atlántico	I-LOC
+Sur	I-LOC
+
+''	O
+'	O
+Gran	B-LOC
+Bretaña	I-LOC
+''	O
+'	O
+
+Stratford	B-LOC
+(	I-LOC
+Nueva	I-LOC
+York	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Museo	B-ORG
+Municipal	I-ORG
+de	I-ORG
+Arte	I-ORG
+Decorativo	I-ORG
+“Firma	I-ORG
+y	I-ORG
+Odilio	I-ORG
+Estévez”	I-ORG
+
+REDIRECCIÓN	O
+Universidad	B-ORG
+de	I-ORG
+Las	I-ORG
+Américas	I-ORG
+,	I-ORG
+A.C	I-ORG
+.	I-ORG

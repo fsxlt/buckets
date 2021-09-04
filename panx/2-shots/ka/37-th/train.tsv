@@ -1,0 +1,55 @@
+The	B-ORG
+12	I-ORG
+''	I-ORG
+Collection	I-ORG
+
+ალბომი	O
+გამოუშვა	O
+ლეიბლმა	O
+Warner	B-ORG
+Bros	I-ORG
+.	I-ORG
+.	O
+
+კრისტოფერ	B-PER
+ნოლანი	I-PER
+,	O
+ემა	B-PER
+თომასი	I-PER
+
+ეგვიპტე	B-LOC
+,	O
+ალჟირი	B-LOC
+,	O
+მაროკო	B-LOC
+,	O
+ერაყი	B-LOC
+,	O
+საუდის	B-LOC
+არაბეთი	I-LOC
+,	O
+სუდანი	B-LOC
+,	O
+იემენი	B-LOC
+,	O
+სირია	B-LOC
+.	O
+
+მყინვარის	B-LOC
+ენა	I-LOC
+ეშვება	O
+600	O
+მ-მდე	O
+.	O
+
+ამ	O
+საქმეში	O
+მისი	O
+თანამზრახველები	O
+იყვნენ	O
+ჰაინრიხ	B-PER
+ჰიმლერი	I-PER
+და	O
+რაინჰარდ	B-PER
+ჰაიდრიხი	I-PER
+.	O

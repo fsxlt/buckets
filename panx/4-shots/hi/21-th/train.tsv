@@ -1,0 +1,68 @@
+आन्द्रे	B-PER
+पावेल	I-PER
+ने	O
+पैट्रिक	B-ORG
+रैफ्टर	I-ORG
+को	O
+7–6	O
+(	O
+3	O
+)	O
+,	O
+2–6	O
+,	O
+6–3	O
+से	O
+हराया।	O
+
+हिन्द	B-ORG
+स्वराज	I-ORG
+-	O
+महात्मा	B-PER
+गांधी	I-PER
+
+बेटा	B-LOC
+सॅफ़ॅई	I-LOC
+परिवर्ती	I-LOC
+तारा	I-LOC
+
+'	O
+''	O
+रोजर	B-PER
+फ़ेडरर	I-PER
+''	O
+'	O
+
+अनुप्रेषित	O
+काकेशस	B-LOC
+पर्वत	I-LOC
+शृंखला	I-LOC
+
+पश्चिमोत्तर	B-LOC
+प्रान्त	I-LOC
+(	I-LOC
+दक्षिण	I-LOC
+अफ़्रीका	I-LOC
+)	I-LOC
+
+उत्तर	B-LOC
+प्रदेश	I-LOC
+(	O
+(	O
+19	O
+)	O
+
+जगन्नाथ	B-ORG
+मन्दिर	I-ORG
+,	I-ORG
+पुरी	I-ORG
+
+युनुस	B-PER
+परवेज़	I-PER
+-	O
+जज	O
+
+महात्मा	B-ORG
+गाँधी	I-ORG
+काशी	I-ORG
+विद्यापीठ	I-ORG

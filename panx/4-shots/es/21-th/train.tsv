@@ -1,0 +1,95 @@
+REDIRECCIÓN	O
+Estadio	B-ORG
+de	I-ORG
+Wembley	I-ORG
+
+REDIRECCIÓN	O
+Región	B-LOC
+Turística	I-LOC
+de	I-LOC
+Kŭmgangsan	I-LOC
+
+REDIRECCIÓN	O
+Global	B-ORG
+Engine	I-ORG
+Manufacturing	I-ORG
+Alliance	I-ORG
+
+'	O
+''	O
+Manuel	B-PER
+Díaz	I-PER
+Vega	I-PER
+''	O
+'	O
+
+''	O
+Message	B-ORG
+in	I-ORG
+a	I-ORG
+Bottle	I-ORG
+''	O
+(	O
+En	O
+vivo	O
+)	O
+-	O
+3:05	O
+
+REDIRECCIÓN	O
+Administración	B-ORG
+de	I-ORG
+Servicios	I-ORG
+Atmosféricos	I-ORG
+,	I-ORG
+Geofísicos	I-ORG
+y	I-ORG
+Astronómicos	I-ORG
+de	I-ORG
+Filipinas	I-ORG
+
+Todos	O
+los	O
+temas	O
+fueron	O
+escritos	O
+por	O
+Barry	B-PER
+Goudreau	I-PER
+y	O
+Fran	B-PER
+Migliaccio	I-PER
+.	O
+
+Lamía	B-LOC
+,	O
+Grecia	B-LOC
+Central	I-LOC
+,	O
+Grecia	B-LOC
+.	O
+
+REDIRECCIÓN	O
+Microdistrito	B-LOC
+(	I-LOC
+Unión	I-LOC
+Soviética	I-LOC
+)	I-LOC
+
+Oscar	B-PER
+Isaac	I-PER
+como	O
+''Standard	O
+''	O
+.	O
+
+José	B-PER
+Luis	I-PER
+Mena	I-PER
+Barreto	I-PER
+
+Seúl	B-LOC
+,	O
+Corea	B-LOC
+del	I-LOC
+Sur	I-LOC

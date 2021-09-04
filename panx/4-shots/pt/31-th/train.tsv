@@ -1,0 +1,97 @@
+Chris	B-PER
+Noth	I-PER
+-	O
+Detetive	B-PER
+Mike	I-PER
+Logan	I-PER
+
+291ª	B-ORG
+Divisão	I-ORG
+de	I-ORG
+Infantaria	I-ORG
+
+O	O
+álbum	O
+foi	O
+produzido	O
+por	O
+DJ	B-PER
+Paul	I-PER
+.	O
+
+Karl	B-PER
+Wilhelm	I-PER
+von	I-PER
+Dalla	I-PER
+Torre	I-PER
+
+REDIRECIONAMENTO	O
+Real	B-ORG
+Sociedade	I-ORG
+Geográfica	I-ORG
+(	I-ORG
+Reino	I-ORG
+Unido	I-ORG
+)	I-ORG
+
+Faz	O
+fronteira	O
+com	O
+Calimera	B-LOC
+,	O
+Carpignano	B-LOC
+Salentino	I-LOC
+,	O
+Otranto	B-LOC
+,	O
+Vernole	B-LOC
+.	O
+
+Faz	O
+fronteira	O
+com	O
+Bugnara	B-LOC
+,	O
+Cocullo	B-LOC
+,	O
+Ortona	B-LOC
+dei	I-LOC
+Marsi	I-LOC
+,	O
+Prezza	B-LOC
+,	O
+Scanno	B-LOC
+,	O
+Villalago	B-LOC
+.	O
+
+Incêndio	B-ORG
+florestal	I-ORG
+de	I-ORG
+Israel	I-ORG
+em	I-ORG
+2010	I-ORG
+
+Condado	B-LOC
+de	I-LOC
+Maries	I-LOC
+
+'	O
+''	O
+Pittsburgh	B-LOC
+''	O
+'	O
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+
+Alec	B-PER
+Baldwin	I-PER
+...	O
+.	O
+narração	O
+
+Período	B-ORG
+(	I-ORG
+gramática	I-ORG
+)	I-ORG

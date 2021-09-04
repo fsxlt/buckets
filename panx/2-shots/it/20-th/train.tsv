@@ -1,0 +1,53 @@
+*20px	O
+Ass.	B-ORG
+Cuneo	I-ORG
+Sportiva	I-ORG
+,	I-ORG
+Cuneo	I-ORG
+
+Il	O
+suo	O
+capoluogo	O
+amministrativo	O
+è	O
+Punta	B-LOC
+Gorda	I-LOC
+.	O
+
+Peng	B-PER
+Shuai	I-PER
+''	O
+(	O
+quarti	O
+di	O
+finale	O
+)	O
+
+L'OII	O
+si	O
+trova	O
+al	O
+centro	O
+di	O
+Oxford	B-LOC
+.	O
+
+20px	O
+A.C.	B-LOC
+Limbiate	I-LOC
+,	I-LOC
+Limbiate	I-LOC
+
+Venus	B-PER
+Williams	I-PER
+''	O
+(	O
+secondo	O
+turno	O
+)	O
+
+Cane	B-ORG
+da	I-ORG
+orso	I-ORG
+della	I-ORG
+Carelia	I-ORG

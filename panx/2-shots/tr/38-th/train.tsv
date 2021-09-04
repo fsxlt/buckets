@@ -1,0 +1,35 @@
+YÖNLENDİRME	O
+Julius	B-PER
+Fučík	I-PER
+(	I-PER
+gazeteci	I-PER
+)	I-PER
+
+Second	B-ORG
+Stage	I-ORG
+Theatre	I-ORG
+,	O
+New	B-LOC
+York	I-LOC
+
+YÖNLENDİR	O
+Habibler	B-LOC
+,	I-LOC
+Germencik	I-LOC
+
+Oğlu	O
+Muhammed	B-PER
+Rıza	I-PER
+Pehlevi	I-PER
+de	O
+babasının	O
+izini	O
+takip	O
+etti	O
+.	O
+
+yönlendirme	O
+Heart	B-ORG
+of	I-ORG
+Midlothian	I-ORG
+FC	I-ORG

@@ -1,0 +1,51 @@
+Anastacia	B-PER
+-	O
+Paid	B-ORG
+My	I-ORG
+Dues	I-ORG
+''	O
+
+São	B-LOC
+João	I-LOC
+da	I-LOC
+Barra	I-LOC
+
+Dopo	O
+aver	O
+lavorato	O
+per	O
+un	O
+periodo	O
+alla	O
+mensa	O
+Università	B-ORG
+di	I-ORG
+Harvard	I-ORG
+,	O
+si	O
+trasferì	O
+in	O
+Florida	B-LOC
+.	O
+
+RINVIA	O
+Provincia	B-LOC
+del	I-LOC
+Dundgov	I-LOC
+'	I-LOC
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+''Dream	O
+''	O
+(	O
+꿈	O
+)	O
+–	O
+Lee	B-PER
+Jung-hyun	I-PER

@@ -1,0 +1,119 @@
+Het	O
+ongeplaatste	O
+Colombiaanse	B-LOC
+duo	O
+'	O
+''	O
+Catalina	B-PER
+Castaño	I-PER
+/	O
+Mariana	B-PER
+Duque	I-PER
+Mariño	I-PER
+''	O
+'	O
+won	O
+het	O
+toernooi	O
+.	O
+
+Olympisch	B-ORG
+Stadion	I-ORG
+(	I-ORG
+Turijn	I-ORG
+)	I-ORG
+-	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Wróbel	B-LOC
+(	I-LOC
+Ermland-Mazurië	I-LOC
+)	I-LOC
+
+DOORVERWIJZING	O
+Toronto	B-LOC
+Lake	I-LOC
+(	I-LOC
+Kansas	I-LOC
+)	I-LOC
+
+De	O
+televisie-uitzending	O
+werd	O
+wereldwijd	O
+door	O
+miljoenen	O
+mensen	O
+bekeken	O
+,	O
+waarmee	O
+het	O
+nieuws	O
+over	O
+de	O
+dood	O
+van	O
+Moeder	B-PER
+Teresa	I-PER
+in	O
+Calcutta	B-LOC
+een	O
+dag	O
+eerder	O
+,	O
+geheel	O
+werd	O
+overschaduwd	O
+.	O
+
+Onze-Lieve-Vrouw	B-ORG
+van	I-ORG
+de	I-ORG
+Wonderdadige	I-ORG
+Medaille	I-ORG
+
+Hij	O
+is	O
+heel	O
+goede	O
+vrienden	O
+samen	O
+met	O
+Ten	B-ORG
+Shin	I-ORG
+Han	I-ORG
+.	O
+
+Als	O
+speler	O
+bij	O
+SV	B-ORG
+Ried	I-ORG
+
+Attavante	B-PER
+degli	I-PER
+Attavanti	I-PER
+,	O
+1471-1525	O
+
+Hij	O
+verloor	O
+daarin	O
+van	O
+Andre	B-PER
+Agassi	I-PER
+.	O
+
+Ortenburg	B-LOC
+(	I-LOC
+Beieren	I-LOC
+)	I-LOC

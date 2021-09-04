@@ -1,0 +1,51 @@
+'	O
+''	O
+Empangeni	B-LOC
+''	O
+'	O
+
+See	B-LOC
+van	I-LOC
+Japan	I-LOC
+
+J.B.M.	B-PER
+Hertzog	I-PER
+en	O
+die	O
+Nasionale	B-ORG
+Party	I-ORG
+ondersteun	O
+.	O
+
+**	O
+Nicolas	B-PER
+Cage	I-PER
+–	O
+''Adaptation	O
+''	O
+
+Die	O
+verhaal	O
+speel	O
+af	O
+op	O
+die	O
+universiteitsdorp	O
+Stellenbosch	B-LOC
+en	O
+die	O
+titel	O
+verwys	O
+na	O
+die	O
+bynaam	O
+vir	O
+die	O
+plaaslike	B-ORG
+universiteit	I-ORG
+.	O
+
+AANSTUUR	O
+Akrotiri	B-LOC
+en	I-LOC
+Dhekelië	I-LOC

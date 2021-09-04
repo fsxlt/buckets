@@ -1,0 +1,96 @@
+William	B-PER
+O'Connor	I-PER
+''	O
+(	O
+First	O
+round	O
+)	O
+
+Writing	O
+for	O
+the	O
+Greek	B-ORG
+Orthodox	I-ORG
+Archdiocese	B-PER
+of	I-PER
+America	I-PER
+,	O
+Rev	O
+.	O
+
+Osseo	B-LOC
+,	I-LOC
+Minnesota	I-LOC
+–	O
+$	O
+23,507	O
+
+Granada	B-LOC
+,	I-LOC
+Colorado	I-LOC
+
+They	O
+also	O
+describe	O
+his	O
+trips	O
+to	O
+North	B-LOC
+Africa	I-LOC
+and	O
+Greece	B-LOC
+.	O
+
+'	O
+''	O
+Felicia	B-PER
+Day	I-PER
+''	O
+'	O
+
+Gene	B-PER
+Autry	I-PER
+and	O
+Oakley	B-PER
+Haldeman	I-PER
+
+Science	B-ORG
+Fiction	I-ORG
+Quarterly	I-ORG
+''	O
+,	O
+1940–1943	O
+,	O
+10	O
+issues	O
+,	O
+revived	O
+1951–1958	O
+
+*2010	O
+:	O
+``	O
+Your	B-ORG
+Love	I-ORG
+Is	I-ORG
+My	I-ORG
+Drug	I-ORG
+''	O
+(	O
+Ke	B-ORG
+$	I-ORG
+ha	I-ORG
+)	O
+'	O
+''	O
+1	O
+''	O
+'	O
+
+College	B-ORG
+of	I-ORG
+DuPage	I-ORG
+(	O
+Glen	B-LOC
+Ellyn	I-LOC
+)	O

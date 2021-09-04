@@ -1,0 +1,35 @@
+Jan	B-PER
+Ernst	I-PER
+Matzeliger	I-PER
+
+Sa	B-ORG
+Sandaling	I-ORG
+Kailangan	I-ORG
+Mo	I-ORG
+Ako	I-ORG
+''	O
+(	O
+2004	O
+)	O
+
+Kai	B-LOC
+,	I-LOC
+Yamanashi	I-LOC
+
+''	O
+Amazing	B-ORG
+Cooking	I-ORG
+Kids	I-ORG
+''	O
+(	O
+2011	O
+)	O
+
+Louis	B-PER
+XIII	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+Pangtimog	B-LOC
+na	I-LOC
+Hemispero	I-LOC

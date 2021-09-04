@@ -1,0 +1,68 @@
+Estasyon	B-ORG
+ng	I-ORG
+Quirino	I-ORG
+ng	I-ORG
+LRT	I-ORG
+
+Siya	O
+ang	O
+kasalukuyang	O
+Kataas-taasang	B-ORG
+Pinuno	I-ORG
+ng	I-ORG
+Iran	I-ORG
+.	O
+
+Mga	B-ORG
+pag-atake	I-ORG
+noong	I-ORG
+Setyembre	I-ORG
+11	I-ORG
+
+22px	O
+Rio	B-LOC
+de	I-LOC
+Oro	I-LOC
+
+Talaan	B-PER
+ng	I-PER
+mga	I-PER
+Pangulo	I-PER
+ng	I-PER
+Pilipinas	I-PER
+
+Papa	B-PER
+Julio	I-PER
+II	I-PER
+
+Shinichi	B-PER
+Mori	I-PER
+(	O
+39	O
+)	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC
+
+Lalawigan	B-LOC
+ng	I-LOC
+Venezia	I-LOC
+
+Ina	B-ORG
+,	I-ORG
+Kapatid	I-ORG
+,	I-ORG
+Anak	I-ORG
+''	O
+
+W.	B-PER
+H.	I-PER
+Auden	I-PER
+
+Mga	B-LOC
+wikang	I-LOC
+Agta	I-LOC

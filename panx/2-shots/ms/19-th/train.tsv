@@ -1,0 +1,33 @@
+Gol	O
+pertamanya	O
+kemudiannya	O
+dinamakan	O
+sebagai	O
+gol	O
+sendiri	O
+oleh	O
+Michael	B-PER
+Carrick	I-PER
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Somme	I-LOC
+
+Scha	B-ORG
+Al-Yahya	I-ORG
+,	O
+Shaheizy	B-PER
+Sam	I-PER
+,	O
+Syamsul	B-PER
+Yusof	I-PER
+
+Estádio	B-ORG
+Beira-Rio	I-ORG
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brazil	B-LOC

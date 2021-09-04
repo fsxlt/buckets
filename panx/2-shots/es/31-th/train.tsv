@@ -1,0 +1,43 @@
+Karl	B-PER
+Wilhelm	I-PER
+von	I-PER
+Nägeli	I-PER
+
+Habita	O
+en	O
+Nueva	B-LOC
+Guinea	I-LOC
+en	O
+(	O
+Indonesia	B-LOC
+)	O
+.	O
+
+Fuerza	B-ORG
+Aérea	I-ORG
+Iraquí	I-ORG
+.	O
+
+**	O
+Fuerza	B-ORG
+del	I-ORG
+Escudo	I-ORG
+de	I-ORG
+la	I-ORG
+Península	I-ORG
+
+'	O
+''	O
+Carlos	B-PER
+Tomada	I-PER
+''	O
+'	O
+
+**	O
+San	B-LOC
+Carlos	I-LOC
+de	I-LOC
+la	I-LOC
+Rápita	I-LOC
+-	O
+15.338	O

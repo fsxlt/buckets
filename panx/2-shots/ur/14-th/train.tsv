@@ -1,0 +1,33 @@
+رجوع_مکرر	O
+مہ	B-PER
+نور	I-PER
+بلوچ	I-PER
+
+شاہ	B-PER
+رخ	I-PER
+تیموری	I-PER
+
+رجوع_مکرر	O
+آئس	B-ORG
+لینڈ	I-ORG
+کی	I-ORG
+کمیونسٹ	I-ORG
+پارٹی	I-ORG
+
+رجوع_مکرر	O
+مکہینری	B-LOC
+کاؤنٹی،	I-LOC
+الینوائے	I-LOC
+
+رجوع_مکرر	O
+فیصل	B-ORG
+آباد	I-ORG
+ڈرائی	I-ORG
+پورٹ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+ہسپانوی	B-LOC
+جمہوریہ	I-LOC
+دوم	I-LOC

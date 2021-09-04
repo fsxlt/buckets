@@ -1,0 +1,74 @@
+Agustin	B-PER
+ng	I-PER
+Hipona	I-PER
+
+Mayang	B-LOC
+bato	I-LOC
+(	O
+''Lonchura	O
+leucogastra	O
+''	O
+o	O
+''White-bellied	O
+Munia	O
+''	O
+)	O
+
+Las	B-LOC
+Vegas	I-LOC
+,	I-LOC
+Nebada	I-LOC
+
+Bansag	O
+kay	O
+Robin	B-PER
+Padilla	I-PER
+
+Lungsod	B-LOC
+ng	I-LOC
+National	I-LOC
+,	I-LOC
+California	I-LOC
+
+Siya	O
+ay	O
+ipinanganak	O
+sa	O
+New	B-LOC
+York	I-LOC
+.	O
+
+John	B-PER
+Calvin	I-PER
+(	O
+1509–1564	O
+)	O
+
+Johann	B-PER
+Jakob	I-PER
+Balmer	I-PER
+
+''	O
+Art	B-ORG
+Angel	I-ORG
+''	O
+(	O
+2004–2011	O
+)	O
+
+''	O
+Kape	B-ORG
+at	I-ORG
+Balita	I-ORG
+''	O
+(	O
+1991–1993	O
+)	O
+
+Pader	B-ORG
+ng	I-ORG
+Berlin	I-ORG
+
+Edukasyon	B-ORG
+na	I-ORG
+pangtagapagkonsumo	I-ORG

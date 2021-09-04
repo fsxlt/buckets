@@ -1,0 +1,21 @@
+San	B-LOC
+Gregorio	I-LOC
+di	I-LOC
+Catania	I-LOC
+
+'	O
+''	O
+Wilco	B-PER
+Zeelenberg	I-PER
+''	O
+'	O
+
+Nella	O
+stagione	O
+successiva	O
+vince	O
+anche	O
+la	O
+Supercoppa	B-ORG
+europea	I-ORG
+.	O

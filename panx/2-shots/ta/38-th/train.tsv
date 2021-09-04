@@ -1,0 +1,36 @@
+ஆல்பிரட்	B-PER
+நார்த்	I-PER
+வொய்ட்ஹெட்	I-PER
+
+கவிஞ்ஞானோ	O
+,	O
+திருத்தந்தை	B-LOC
+நாடுகள்	I-LOC
+,	O
+புனித	B-ORG
+உரோமைப்	I-ORG
+பேரரசு	I-ORG
+
+புவேர்ட்டோ	B-LOC
+ரிக்கோ	I-LOC
+(	O
+United	O
+States	O
+)	O
+
+இணையச்	B-ORG
+சேவை	I-ORG
+வழங்கி	I-ORG
+-	O
+Internet	O
+Service	O
+Provider	O
+
+[[வளைகுடா	O
+ஓடையின்	O
+வரைபடம்	O
+-	O
+பெஞ்சமின்	B-PER
+பிராங்கிளின்	I-PER
+,	O
+1769-1770]]	O

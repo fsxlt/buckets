@@ -1,0 +1,81 @@
+''	O
+So	B-ORG
+Many	I-ORG
+Tears	I-ORG
+''	O
+
+World	B-ORG
+of	I-ORG
+Our	I-ORG
+Own	I-ORG
+
+Wimbo	O
+umeshirikisha	O
+Lil	B-PER
+Wayne	I-PER
+,	O
+ambaye	O
+humu	O
+kaimba	O
+kiitikio	O
+tu	O
+(	O
+lakini	O
+pia	O
+ameshiriki	O
+kuimba	O
+katika	O
+remix	O
+yake	O
+)	O
+.	O
+
+Mkoa	B-LOC
+wa	I-LOC
+Magharibi	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Limoges	B-LOC
+.	O
+
+Jimbo	B-LOC
+la	I-LOC
+Glarus	I-LOC
+
+Gerardus	B-PER
+'t	I-PER
+Hooft	I-PER
+
+Eric	B-PER
+Balfour	I-PER
+kama	O
+Milo	B-PER
+Pressman	I-PER
+
+Durham	B-LOC
+,	I-LOC
+North	I-LOC
+Carolina	I-LOC
+
+Alikuwa	O
+pia	O
+Mmarekani	B-ORG
+mweusi	I-ORG
+.	O
+
+Kanisa	B-ORG
+la	I-ORG
+Kilatini	I-ORG
+
+Aliyemfuata	O
+ni	O
+Tekle	B-PER
+Giyorgis	I-PER
+II	I-PER
+.	O

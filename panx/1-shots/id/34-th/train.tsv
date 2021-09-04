@@ -1,0 +1,24 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Charente-Maritime	I-LOC
+
+'	O
+''	O
+Eleftherios	B-PER
+Venizelos	I-PER
+''	O
+'Ελευθέριος	O
+Βενιζέλος	O
+(	O
+1864–1936	O
+)	O
+
+ALIH	O
+Partai	B-ORG
+Konservatif	I-ORG
+(	I-ORG
+Britania	I-ORG
+Raya	I-ORG
+)	I-ORG

@@ -1,0 +1,75 @@
+जॉर्जिया	B-LOC
+(	I-LOC
+अमरीकी	I-LOC
+राज्य	I-LOC
+)	I-LOC
+
+जवाहरलाल	B-ORG
+नेहरू	I-ORG
+कृषि	I-ORG
+विश्वविद्यालय	I-ORG
+,	O
+जबलपुर	B-LOC
+
+नागार्जुन	B-PER
+(	I-PER
+प्राचीन	I-PER
+दार्शनिक	I-PER
+)	I-PER
+
+अनुप्रेषित	O
+कार्ल	B-PER
+डेविड	I-PER
+ऐंडरसन	I-PER
+
+बंगलोर	B-LOC
+(	I-LOC
+ग्रामीण	I-LOC
+)	I-LOC
+जिला	I-LOC
+
+राष्ट्रीय	B-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+पटना	B-LOC
+
+टुन	B-PER
+टुन	B-PER
+-	O
+कविता	O
+
+टाइम्स	B-ORG
+नाऊ	I-ORG
+इंडिया	B-ORG
+टीवी	I-ORG
+-सीवोटर	O
+
+''पटकथा	O
+''	O
+–	O
+बासु	B-PER
+चटर्जी	I-PER
+
+भारतीय	B-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+रुड़की	I-ORG
+
+मोतीलाल	B-PER
+वोरा	I-PER
+(	O
+२	O
+)	O
+
+===	O
+इलाहाबाद	B-LOC
+उच्च	I-LOC
+न्यायालय	I-LOC
+===	O
+
+भारतीय	B-LOC
+क्षेत्रीय	I-LOC
+नौवहन	I-LOC
+उपग्रह	I-LOC
+प्रणाली	I-LOC

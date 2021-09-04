@@ -1,0 +1,15 @@
+تحويل	O
+هنري	B-PER
+جورج	I-PER
+سميث	I-PER
+
+تحويل	O
+مادغ	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+استشراب	B-ORG
+سائل	I-ORG
+عالي	I-ORG
+الأداء	I-ORG

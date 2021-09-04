@@ -1,0 +1,20 @@
+Bessborough	B-ORG
+School	I-ORG
+-	O
+Moncton	B-LOC
+(	O
+K-8	O
+)	O
+
+Thunderbolts	B-PER
+''	O
+158-163	O
+
+Interim	B-LOC
+Government	I-LOC
+of	I-LOC
+Iran	I-LOC
+
+Stephen	B-PER
+Wong	I-PER
+Ka-lok	I-PER

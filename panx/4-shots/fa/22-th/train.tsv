@@ -1,0 +1,104 @@
+تغییرمسیر	O
+جان	B-PER
+جی.	I-PER
+مک‌ری	I-PER
+
+تغییر_مسیر	O
+لا	B-LOC
+ریوخا،	I-LOC
+آرژانتین	I-LOC
+
+تغییرمسیر	O
+مایکل	B-PER
+آندرسون	I-PER
+پریرا	I-PER
+دا	I-PER
+سیلوا	I-PER
+
+'	O
+''	O
+کاسپین	B-ORG
+قزوین	I-ORG
+''	O
+'	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+'	O
+''	O
+اسپومحله	O
+''	O
+'،	O
+روستایی	O
+است	O
+از	O
+توابع	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	B-LOC
+گرگان	I-LOC
+در	O
+استان	B-LOC
+گلستان	I-LOC
+ایران	B-LOC
+.	O
+
+تغییرمسیر	O
+مارجه	B-PER
+سیسکو	I-PER
+آلتو	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+امام‌آباد	B-LOC
+(	I-LOC
+لردگان	I-LOC
+)	I-LOC
+
+این	O
+روستا	O
+از	O
+توابع	O
+شهرستان	B-LOC
+شیروان	I-LOC
+است	O
+.	O
+
+'	O
+''	O
+همسازی	O
+و	O
+تعارض	O
+در	O
+هویت	O
+و	O
+قومیت	O
+''	O
+'	O
+کتابی	O
+است	O
+از	O
+ناصر	B-PER
+فکوهی	I-PER
+.	O

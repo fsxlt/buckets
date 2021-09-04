@@ -1,0 +1,27 @@
+델비너	B-LOC
+현	I-LOC
+,	O
+사란더	B-LOC
+현	I-LOC
+,	O
+블로러	B-LOC
+현	I-LOC
+
+서강대학교	B-ORG
+공학부	O
+전자공학과	O
+학사	O
+
+주제가	O
+〈FANTASY〉	O
+어스	B-ORG
+윈드	I-ORG
+앤드	I-ORG
+파이어	I-ORG
+
+윌리엄	B-PER
+레비	I-PER
+(	O
+William	O
+Levy	O
+)	O

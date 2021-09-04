@@ -1,0 +1,80 @@
+London	B-ORG
+School	I-ORG
+of	I-ORG
+Economics	I-ORG
+
+``	O
+Ghetto	B-ORG
+Gospel	I-ORG
+''	O
+(	O
+akishirikiana	O
+na	O
+Elton	B-PER
+John	I-PER
+)	O
+
+Aliso	B-LOC
+Viejo	I-LOC
+,	I-LOC
+California	I-LOC
+
+Chris	B-PER
+Hughes	I-PER
+(	I-PER
+Facebook	I-PER
+)	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25304	O
+.	O
+
+Kiagta	B-ORG
+ya	I-ORG
+Dupaninan	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Murang'a	I-LOC
+
+Julius	B-PER
+Nyerere	I-PER
+(	O
+1922-1999	O
+)	O
+
+The	O
+Holy	O
+See	O
+-	O
+The	O
+Holy	O
+Father—website	O
+for	O
+the	O
+past	O
+and	O
+present	O
+Holy	O
+Fathers	O
+(	O
+since	O
+Papa	B-PER
+Leo	I-PER
+XIII	I-PER
+)	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Oxford	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+53805	O
+.	O

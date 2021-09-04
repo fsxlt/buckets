@@ -1,0 +1,94 @@
+Дзержинский	B-LOC
+район	I-LOC
+(	I-LOC
+Калужская	I-LOC
+область	I-LOC
+)	I-LOC
+
+перенаправление	O
+Бибьена	B-PER
+,	I-PER
+Фердинандо	I-PER
+
+За	O
+сборную	B-ORG
+Украины	I-ORG
+сыграл	O
+4	O
+матча	O
+,	O
+забил	O
+1	O
+гол	O
+.	O
+
+город	O
+Вятские	B-LOC
+Поляны	I-LOC
+,	O
+
+,	O
+из	O
+Кливленда	B-LOC
+(	O
+Огайо	B-LOC
+)	O
+в	O
+Джэксонвилл	B-LOC
+(	O
+Флорида	B-LOC
+)	O
+
+перенаправление	O
+Игуаин	B-PER
+,	I-PER
+Хорхе	I-PER
+
+66,71	O
+МГц	O
+—	O
+Радио	B-ORG
+России	I-ORG
+
+Bring	B-ORG
+Me	I-ORG
+to	I-ORG
+Life	I-ORG
+
+Кичево	B-LOC
+—	O
+село	O
+в	O
+в	O
+Варненской	B-LOC
+области	I-LOC
+Болгарии	B-LOC
+;	O
+
+перенаправление	O
+Захарченко	B-LOC
+(	I-LOC
+посёлок	I-LOC
+)	I-LOC
+
+Puma]]»	O
+заменила	O
+Le	B-ORG
+Coq	I-ORG
+Sportif	I-ORG
+в	O
+качестве	O
+изготовителя	O
+экипировки	O
+для	O
+команды	O
+.	O
+
+Кингдон-Уорд	B-PER
+,	I-PER
+Фрэнк	I-PER
+
+Дантон	B-PER
+,	I-PER
+Жорж	I-PER
+Жак	I-PER

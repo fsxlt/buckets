@@ -1,0 +1,102 @@
+Universidade	B-ORG
+Estadual	I-ORG
+de	I-ORG
+Feira	I-ORG
+de	I-ORG
+Santana	I-ORG
+
+Maria	B-PER
+I	I-PER
+ng	I-PER
+Inglatera	I-PER
+
+Best	B-ORG
+Song	I-ORG
+Ever	I-ORG
+(	I-ORG
+awitin	I-ORG
+ng	I-ORG
+One	I-ORG
+Direction	I-ORG
+)	I-ORG
+
+Luna	B-ORG
+Mystika	I-ORG
+(	O
+2008-2009	O
+)	O
+bilang	O
+Susing	O
+
+Juan	B-PER
+Carlos	I-PER
+I	I-PER
+ng	I-PER
+Espanya	I-PER
+
+Dukado	B-LOC
+ng	I-LOC
+Normandia	I-LOC
+
+Bibi	B-LOC
+ng	I-LOC
+Lawa	I-LOC
+
+Ang	O
+paglalakbay	O
+na	O
+ito	O
+ang	O
+nagmarka	O
+sa	O
+grupo	O
+na	O
+unang	O
+beses	O
+nilang	O
+naglakbay	O
+patungong	O
+Oman	B-LOC
+,	O
+Namibia	B-LOC
+,	O
+Guangzhou	B-LOC
+at	O
+Vietnam	B-LOC
+upang	O
+magkonsiyerto	O
+.	O
+
+Naha	B-LOC
+(	O
+''Kabisera	O
+''	O
+)	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC
+
+Ina	B-ORG
+,	I-ORG
+Kapatid	I-ORG
+,	I-ORG
+Anak	I-ORG
+''	O
+
+Kapuluan	B-LOC
+ng	I-LOC
+Åland	I-LOC
+
+Louis	B-PER
+IX	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+Rudolph	B-PER
+I	I-PER
+ng	I-PER
+Alemanya	I-PER

@@ -1,0 +1,40 @@
+AANSTUUR	O
+Teenpous	B-PER
+Clemens	I-PER
+VII	I-PER
+
+Begin	O
+van	O
+die	O
+belastingjaar	O
+in	O
+die	O
+Verenigde	B-LOC
+Koninkryk	I-LOC
+.	O
+
+aanstuur	O
+Engelse	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Sisinnius	I-PER
+.	O
+
+)	O
+was	O
+die	O
+vyfde	O
+koning	O
+van	O
+Antieke	B-LOC
+Egipte	I-LOC
+se	O
+Ptolemeïese	B-ORG
+Ryk	I-ORG
+.	O

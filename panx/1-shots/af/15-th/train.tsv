@@ -1,0 +1,36 @@
+Sy	O
+invloed	O
+en	O
+sy	O
+hervormings	O
+het	O
+'n	O
+beslissende	O
+rol	O
+by	O
+die	O
+vroeë	O
+professionalisering	O
+van	O
+die	O
+Koninklike	B-ORG
+Vloot	I-ORG
+gespeel	O
+.	O
+
+Detroit	B-LOC
+(	I-LOC
+rivier	I-LOC
+)	I-LOC
+is	O
+'n	O
+rivier	O
+in	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+.	O
+
+Pous	B-PER
+Gregorius	I-PER
+IX	I-PER

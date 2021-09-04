@@ -1,0 +1,89 @@
+Mohamed	B-PER
+Bennouna	I-PER
+(	O
+)	O
+
+Zeven	O
+minuten	O
+later	O
+scoorde	O
+hij	O
+de	O
+0-1	O
+tegen	O
+Charleroi	B-ORG
+.	O
+
+Simón	B-PER
+de	I-PER
+Anda	I-PER
+
+Etton	B-LOC
+(	I-LOC
+Cambridgeshire	I-LOC
+)	I-LOC
+
+San	B-LOC
+Benito	I-LOC
+County	I-LOC
+-	O
+oosten	O
+
+Freer	B-ORG
+Gallery	I-ORG
+of	I-ORG
+Art	I-ORG
+,	O
+Washington	B-LOC
+D.C	I-LOC
+.	I-LOC
+
+De	O
+laatste	O
+reis	O
+was	O
+naar	O
+Lissabon	B-LOC
+.	O
+
+Ormacleit	B-ORG
+Castle	I-ORG
+(	O
+South	B-LOC
+Uist	I-LOC
+)	O
+
+Zijn	O
+muzikale	O
+invloeden	O
+zijn	O
+Deep	B-ORG
+Purple	I-ORG
+en	O
+dan	O
+vooral	O
+Ritchie	B-PER
+Blackmore	I-PER
+,	O
+Yes	B-ORG
+en	O
+Genesis	B-ORG
+.	O
+
+Annie	B-PER
+Haslam	I-PER
+-	O
+zang	O
+track	O
+4	O
+en	O
+11	O
+(	O
+voorheen	O
+Renaissance	B-ORG
+.	O
+
+DOORVERWIJZING	O
+Hongaars	B-ORG
+Democratisch	I-ORG
+Forum	I-ORG

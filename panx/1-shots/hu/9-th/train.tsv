@@ -1,0 +1,23 @@
+ÁTIRÁNYÍTÁS	O
+Piast	B-PER
+Erzsébet	I-PER
+magyar	I-PER
+királyné	I-PER
+
+ÁTIRÁNYÍTÁS	O
+Selles	B-LOC
+(	I-LOC
+Haute-Saône	I-LOC
+)	I-LOC
+
+Az	B-ORG
+Utolsó	I-ORG
+Napok	I-ORG
+Szentjeinek	I-ORG
+Jézus	I-ORG
+Krisztus	I-ORG
+Egyháza	I-ORG
+által	O
+üzemeltetett	O
+familysearch.org	O
+honlap	O

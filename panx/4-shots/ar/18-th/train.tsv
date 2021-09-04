@@ -1,0 +1,85 @@
+قائد	O
+الجيش	B-ORG
+الثاني	I-ORG
+الميداني	I-ORG
+
+أبو	B-PER
+جعفر	I-PER
+الخازن	I-PER
+.	O
+
+بيلي	B-PER
+جين	I-PER
+كينغ	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+''	O
+
+هي	O
+عضوة	O
+في	O
+فرقة	O
+إف	B-ORG
+إكس	I-ORG
+.	O
+
+تحويل	O
+كلارندون	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+فرنسيس	B-PER
+سكوت	I-PER
+فيتزجيرالد	I-PER
+
+تحويل	O
+مجتبى	B-PER
+الحسيني	I-PER
+الشيرازي	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO220640	O
+
+تحويل	O
+مقاطعة	B-LOC
+كارتير	I-LOC
+(	I-LOC
+مونتانا	I-LOC
+)	I-LOC
+
+وتلعب	O
+مبارياتها	O
+على	O
+أرضها	O
+في	O
+استاد	B-ORG
+جويانج	I-ORG
+.	O
+
+تحويل	O
+بلدة	B-LOC
+مابل	I-LOC
+غروف	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+باري	I-LOC
+)	I-LOC
+
+(	O
+جزر	B-LOC
+أندمان	I-LOC
+ونيكوبار	I-LOC
+)	O

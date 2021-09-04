@@ -1,0 +1,16 @@
+**	O
+ماريا	B-PER
+دي	I-PER
+فيوتا،	I-PER
+سائقة	O
+فورمولا	B-ORG
+1	I-ORG
+إسبانية	B-LOC
+.	O
+
+تحويل	O
+الانتداب	B-LOC
+الفرنسي	I-LOC
+على	I-LOC
+سوريا	I-LOC
+ولبنان	I-LOC

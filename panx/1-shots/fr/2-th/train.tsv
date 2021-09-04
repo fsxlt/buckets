@@ -1,0 +1,17 @@
+Nigel	B-PER
+Farage	I-PER
+(	O
+Royaume-Uni	B-LOC
+)	O
+
+Argenteuil	B-LOC
+(	I-LOC
+circonscription	I-LOC
+provinciale	I-LOC
+)	I-LOC
+
+Association	B-ORG
+des	I-ORG
+constructeurs	I-ORG
+européens	I-ORG
+d'automobiles	I-ORG

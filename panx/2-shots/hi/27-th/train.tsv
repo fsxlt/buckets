@@ -1,0 +1,40 @@
+;	O
+मुख्य	O
+(	O
+भारत	B-LOC
+एवं	O
+अन्य	O
+)	O
+
+'	O
+''	O
+आन्द्रे	B-PER
+अगासी	I-PER
+''	O
+'	O
+
+इरफ़ान	B-PER
+ख़ान	I-PER
+-	O
+देवराज	O
+
+दीवान	B-ORG
+(	I-ORG
+शायरी	I-ORG
+)	I-ORG
+
+पुनर्प्रेषित	O
+सो	B-LOC
+मोरिरी	I-LOC
+संरक्षित	I-LOC
+आर्द्रभूमि	I-LOC
+
+लक्ष्मी	B-LOC
+नगर	I-LOC
+(	I-LOC
+दिल्ली	I-LOC
+)	I-LOC
+
+हरीशचंद्र	B-ORG
+अनुसंधान	I-ORG
+संस्थान	I-ORG

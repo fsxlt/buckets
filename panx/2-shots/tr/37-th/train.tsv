@@ -1,0 +1,37 @@
+YÖNLENDİRME	O
+II.	B-PER
+Abdül	I-PER
+Melik	I-PER
+(	I-PER
+Samani	I-PER
+)	I-PER
+
+Fox	B-ORG
+Broadcasting	I-ORG
+Company	I-ORG
+tarafından	O
+yayınlandı	O
+.	O
+
+YÖNLENDİRME	O
+Doğu	B-LOC
+Bölgesi	I-LOC
+(	I-LOC
+Suudi	I-LOC
+Arabistan	I-LOC
+)	I-LOC
+
+Jonás	B-PER
+Gutiérrez	I-PER
+–	O
+RCD	B-ORG
+Mallorca	I-ORG
+–	O
+2005-08	O
+
+Erginlerin	O
+ana	O
+konakçısı	O
+Afrika	B-LOC
+mandasıdır	I-LOC
+.	O

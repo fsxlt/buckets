@@ -1,0 +1,46 @@
+đổi	O
+Giải	B-ORG
+bóng	I-ORG
+đá	I-ORG
+vô	I-ORG
+địch	I-ORG
+thế	I-ORG
+giới	I-ORG
+1962	I-ORG
+
+đổi	O
+Xã	B-LOC
+Brushy	I-LOC
+Mound	I-LOC
+,	I-LOC
+Quận	I-LOC
+Macoupin	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+Velikaya	B-LOC
+(	I-LOC
+Chukotka	I-LOC
+)	I-LOC
+
+Trương	B-PER
+Mỹ	I-PER
+Hoa	I-PER
+(	O
+1945-	O
+)	O
+
+Đảng	B-ORG
+Quốc	I-ORG
+Đại	I-ORG
+Ấn	I-ORG
+Độ	I-ORG
+
+Ca	O
+dao	O
+mẹ	O
+(	O
+Trịnh	B-PER
+Công	I-PER
+Sơn	I-PER
+)	O

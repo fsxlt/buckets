@@ -1,0 +1,44 @@
+Body	O
+Heat]]	O
+''	O
+as	O
+recorded	O
+by	O
+Quincy	B-PER
+Jones	I-PER
+
+Universidade	B-ORG
+Fundação	I-ORG
+Mineira	I-ORG
+de	I-ORG
+Educação	I-ORG
+e	I-ORG
+Cultura	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Pelagio	I-PER
+II	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Sabinian	I-PER
+.	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Lome	B-LOC
+.	O
+
+Arlington	B-LOC
+Heights	I-LOC
+,	I-LOC
+Illinois	I-LOC
+
+One	B-ORG
+Day	I-ORG
+in	I-ORG
+Your	I-ORG
+Life	I-ORG
+''	O

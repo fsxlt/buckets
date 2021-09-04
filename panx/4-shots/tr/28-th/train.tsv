@@ -1,0 +1,77 @@
+YÖNLENDİRME	O
+Trinity	B-ORG
+Koleji	I-ORG
+,	I-ORG
+Cambridge	I-ORG
+
+YÖNLENDİRME	O
+1982	B-ORG
+UEFA	I-ORG
+Kupası	I-ORG
+Finali	I-ORG
+
+Etap	O
+18	O
+(	O
+Alessandro	B-PER
+Petacchi	I-PER
+)	O
+
+Sacramento	B-ORG
+Kings	I-ORG
+(	O
+8	O
+)	O
+
+YÖNLENDİRME	O
+Seventh	B-ORG
+Son	I-ORG
+of	I-ORG
+a	I-ORG
+Seventh	B-ORG
+Son	I-ORG
+(	I-ORG
+albüm	I-ORG
+)	I-ORG
+
+YÖNLENDİRME	O
+Soma	B-LOC
+,	I-LOC
+Gambiya	I-LOC
+
+1980'lerde	O
+Kuzey	B-LOC
+Amerika'da	I-LOC
+başarılı	O
+oldu	O
+.	O
+
+YÖNLENDİRME	O
+Gökler	B-LOC
+,	I-LOC
+Ortaköy	I-LOC
+
+YÖNLENDİRME	O
+Mayer	B-PER
+Amschel	I-PER
+Rothschild	I-PER
+
+===	O
+22px	O
+Yeni	B-LOC
+Zelanda	I-LOC
+===	O
+
+Tek	O
+çocukları	O
+Ali	B-PER
+Vâsıb	I-PER
+Osmanoğlu'dur	I-PER
+.	O
+
+'	O
+''	O
+Ryan	B-PER
+Giggs	I-PER
+''	O
+'	O

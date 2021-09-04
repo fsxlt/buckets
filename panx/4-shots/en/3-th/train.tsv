@@ -1,0 +1,78 @@
+Melaleuca	B-LOC
+delta	I-LOC
+''	O
+Craven	B-PER
+
+Jarchives	B-LOC
+:	I-LOC
+10	I-LOC
+Years	I-LOC
+of	I-LOC
+Bodyjar	I-LOC
+''	O
+,	O
+2003	O
+
+''	O
+Schinia	B-LOC
+cognata	I-LOC
+''	O
+(	O
+Freyer	O
+,	O
+1833	O
+)	O
+
+The	B-ORG
+J.B.	I-ORG
+'s	I-ORG
+
+''	O
+Runaround	B-ORG
+Sue	I-ORG
+''	O
+(	O
+Dion	B-PER
+DiMucci	I-PER
+,	O
+Ernie	B-PER
+Maresca	I-PER
+)	O
+
+William	B-PER
+the	I-PER
+Conqueror	I-PER
+
+It	O
+also	O
+borders	O
+the	O
+Czech	B-LOC
+Republic	I-LOC
+.	O
+
+Polyvalence	B-ORG
+(	I-ORG
+disambiguation	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Jack	B-PER
+Laugher	I-PER
+''	O
+'	O
+
+Bob	B-PER
+Casey	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+(	O
+D-PA	O
+)	O
+
+Andreessen	B-ORG
+(	I-ORG
+disambiguation	I-ORG
+)	I-ORG

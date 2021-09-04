@@ -1,0 +1,40 @@
+شیخوپورہ،	B-LOC
+فیصل	B-LOC
+آباد،	I-LOC
+سرگودھا،	B-LOC
+راولپنڈی،	B-LOC
+پنڈی	B-LOC
+بھٹیاں،	I-LOC
+بھلوال،	B-LOC
+چکوال	B-LOC
+
+حسن	B-ORG
+ابدال	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+(	O
+HSN	O
+)	O
+
+رجوع_مکرر	O
+ہڑپہ	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+رفیع	B-PER
+محمد	I-PER
+چوہدری	I-PER
+
+رجوع_مکرر	O
+سینٹر	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+پوپ	I-LOC
+کاؤنٹی،	I-LOC
+آرکنساس	I-LOC
+
+رجوع_مکرر	O
+سوانت	B-PER
+اوگست	I-PER
+آرنیوس	I-PER

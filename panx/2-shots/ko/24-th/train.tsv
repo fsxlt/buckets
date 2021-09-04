@@ -1,0 +1,40 @@
+넘겨주기	O
+방송	B-ORG
+영화	I-ORG
+비평가	I-ORG
+협회	I-ORG
+
+사쓰마	B-LOC
+군	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+아나	B-PER
+클라우지아	I-PER
+미셰우스	I-PER
+
+넘겨주기	O
+유엔	B-ORG
+국제	I-ORG
+무역법	I-ORG
+위원회	I-ORG
+
+룽린	B-LOC
+각족	I-LOC
+자치현	I-LOC
+(	O
+隆林各族自治县	O
+)	O
+
+**	O
+보고타	B-LOC
+(	O
+대사관	O
+)	O
+
+넘겨주기	O
+흐레호리	B-PER
+판	I-PER
+데르	I-PER
+빌	I-PER

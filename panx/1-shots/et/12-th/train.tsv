@@ -1,0 +1,19 @@
+Maikopi	B-LOC
+rajoon	I-LOC
+(	O
+Майкопский	O
+район	O
+)	O
+
+Aafrika	B-ORG
+Rahvuskongress	I-ORG
+(	I-ORG
+Sambia	I-ORG
+)	I-ORG
+
+aastal	O
+Tartus	B-LOC
+Mart	B-PER
+Raua	I-PER
+pojana	O
+.	O

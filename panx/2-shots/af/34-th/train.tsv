@@ -1,0 +1,50 @@
+AANSTUUR	O
+Allgemeine	B-ORG
+Zeitung	I-ORG
+(	I-ORG
+Namibië	I-ORG
+)	I-ORG
+
+Op	O
+17-jarige	O
+oudersom	O
+het	O
+hy	O
+in	O
+New	B-LOC
+York	I-LOC
+gaan	O
+woon	O
+,	O
+waar	O
+hy	O
+’n	O
+skottelgoedwasser	O
+was	O
+.	O
+
+'	O
+''	O
+Lewis	B-PER
+Hamilton	I-PER
+''	O
+'	O
+
+AANSTUUR	O
+Wedloop	B-ORG
+om	I-ORG
+Afrika	I-ORG
+
+AANSTUUR	O
+Utrecht	B-LOC
+(	I-LOC
+munisipaliteit	I-LOC
+)	I-LOC
+
+Etienne	B-PER
+Leroux	I-PER
+(	O
+1922–1989	O
+)	O
+,	O
+skrywer	O

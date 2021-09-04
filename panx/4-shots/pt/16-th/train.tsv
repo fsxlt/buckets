@@ -1,0 +1,81 @@
+*2014	O
+-	O
+Liga	B-ORG
+Desportiva	I-ORG
+Muçulmana	I-ORG
+de	I-ORG
+Maputo	I-ORG
+
+**	O
+''	O
+Petaurus	B-LOC
+australis	I-LOC
+''	O
+
+'	O
+''	O
+Faissal	B-PER
+Ebnoutalib	I-PER
+''	O
+'	O
+
+''	O
+Mesocrambus	O
+candiellus	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+Orquestra	B-ORG
+Sinfónica	I-ORG
+de	I-ORG
+Gotemburgo	I-ORG
+
+Baía	B-LOC
+da	I-LOC
+Traição	I-LOC
+
+'	O
+''	O
+Dominic	B-PER
+Thiem	I-PER
+''	O
+'7-6	O
+(	O
+6	O
+)	O
+,	O
+4-6	O
+,	O
+6-3	O
+
+Lyndon	B-LOC
+Township	I-LOC
+(	I-LOC
+Illinois	I-LOC
+)	I-LOC
+
+Estádio	B-ORG
+Luís	I-ORG
+Augusto	I-ORG
+de	I-ORG
+Oliveira	I-ORG
+
+Arantxa	B-PER
+Sánchez	I-PER
+Vicario	I-PER
+e	O
+Tommy	B-PER
+Robredo	I-PER
+
+Delta	B-LOC
+do	I-LOC
+Ganges	I-LOC
+
+Papa	B-PER
+Celestino	I-PER
+IV	I-PER
+.	O

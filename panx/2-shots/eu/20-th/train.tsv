@@ -1,0 +1,52 @@
+'	O
+''	O
+Giuseppe	B-PER
+Saronni	I-PER
+''	O
+'	O
+
+Porrot	O
+egindakoan	O
+,	O
+bere	B-ORG
+inperioa	I-ORG
+bertan	O
+behera	O
+geratu	O
+zen	O
+.	O
+
+Cosenzako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Calabria	B-LOC
+eskualdean	O
+.	O
+
+Atletico	B-ORG
+Madril	I-ORG
+(	O
+10	O
+)	O
+
+Milango	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+Petri	B-PER
+I.a	I-PER
+Nafarroakoa	I-PER
+eta	O
+Ines	B-PER
+Akitaniakoa	I-PER
+ezkondu	O
+ziren	O
+Jakan	B-LOC
+.	O

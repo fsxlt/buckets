@@ -1,0 +1,72 @@
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Macario	B-PER
+Peralta	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+''	O
+Boys	B-ORG
+Nxt	I-ORG
+Door	I-ORG
+''	O
+(	O
+2007–2008	O
+)	O
+
+Eat	B-ORG
+Bulaga	I-ORG
+!	I-ORG
+''	O
+
+Bangued	B-LOC
+,	I-LOC
+Abra	I-LOC
+
+Palingkurang	B-ORG
+Pampagkamamamayan	I-ORG
+at	I-ORG
+Pandarayuhan	I-ORG
+ng	I-ORG
+Estados	I-ORG
+Unidos	I-ORG
+
+**	O
+Hong	B-LOC
+Kong	I-LOC
+(	O
+Konsulado-Heneral	O
+)	O
+
+George	B-PER
+Byron	I-PER
+,	I-PER
+Ika-6	I-PER
+na	I-PER
+Barong	I-PER
+Byron	I-PER
+
+Arsoduke	B-PER
+Franz	I-PER
+Ferdinand	I-PER
+ng	I-PER
+Austria	I-PER
+
+Alejandro	B-PER
+ang	I-PER
+Dakila	I-PER
+
+==	O
+Departamento	B-LOC
+ng	I-LOC
+Chocó	I-LOC
+==	O
+
+Republika	B-ORG
+ng	I-ORG
+Indian	I-ORG
+Stream	I-ORG

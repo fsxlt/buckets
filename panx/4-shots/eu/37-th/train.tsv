@@ -1,0 +1,106 @@
+Administratiboki	O
+Frantziako	B-LOC
+Loire-Atlantique	B-LOC
+departamenduan	O
+dago	O
+,	O
+Pays	B-LOC
+de	I-LOC
+la	I-LOC
+Loire	I-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Lester	B-PER
+Bowles	I-PER
+Pearson	I-PER
+
+Oteitza	B-LOC
+(	I-LOC
+udalerria	I-LOC
+)	I-LOC
+
+Baden-Württemberg	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+'	O
+''	O
+Bilbao	B-ORG
+Athletic	I-ORG
+''	O
+'	O
+
+Kilkennyko	B-ORG
+Saint	I-ORG
+Canice	I-ORG
+katedrala	I-ORG
+
+Espainiako	B-ORG
+selekzioarekin	I-ORG
+behin	O
+jokatu	O
+zuen	O
+.	O
+
+'	O
+''	O
+Luis	B-PER
+Ocaña	I-PER
+''	O
+'	O
+
+Irlanda]]	O
+Ronan	B-PER
+O'Gara	I-PER
+(	O
+50	O
+)	O
+
+Itsaso	B-LOC
+Horiaren	I-LOC
+beste	O
+aldean	O
+Txina	B-LOC
+dago	O
+eta	O
+Koreako	B-LOC
+itsasartea	I-LOC
+igarota	O
+,	O
+Japonia	B-LOC
+.	O
+
+Euskal	B-LOC
+Herria	I-LOC
+,	O
+Nazioarteko	B-ORG
+Olinpiar	I-ORG
+Batzordeak	I-ORG
+talde	O
+onartua	O
+ez	O
+bazen	O
+,	O
+44.	O
+postuan	O
+egongo	O
+litzateke	O
+beste	O
+25	O
+herrialdeekin	O
+batera	O
+.	O
+
+Colin	B-PER
+Farrell	I-PER
+(	O
+1976-	O
+)	O
+,	O
+aktorea	O

@@ -1,0 +1,105 @@
+넘겨주기	O
+유엔	B-PER
+안전	I-PER
+보장	I-PER
+이사회	I-PER
+결의	I-PER
+제1973호	I-PER
+
+넘겨주기	O
+미국	B-ORG
+북부	I-ORG
+육군	I-ORG
+
+넘겨주기	O
+데오도루	B-PER
+다	I-PER
+폰세카	I-PER
+
+.pm	B-ORG
+-	O
+생피에르	B-LOC
+미클롱	I-LOC
+
+클리프턴	B-LOC
+(	I-LOC
+애리조나	I-LOC
+주	I-LOC
+)	I-LOC
+
+게이큐	B-ORG
+가마타	I-ORG
+역	I-ORG
+(	O
+게이힌	B-ORG
+급행	I-ORG
+전철	I-ORG
+본선	B-ORG
+,	O
+공항선	B-ORG
+)	O
+
+전세계에	O
+3속	O
+6종이	O
+발견되며	O
+,	O
+주로	O
+북아메리카와	B-LOC
+유라시아에	B-LOC
+분포한다	O
+.	O
+
+**	O
+대통령	B-ORG
+―	O
+차히아긴	B-PER
+엘베그도르지	I-PER
+(	O
+2009	O
+~	O
+)	O
+
+저스티스	B-ORG
+(	I-ORG
+음악	I-ORG
+그룹	I-ORG
+)	I-ORG
+
+같은	O
+해	O
+시즌	O
+종료	O
+후	O
+메이저	B-ORG
+리그에	I-ORG
+진출하겠다고	O
+밝힌	O
+다르빗슈	B-PER
+유로부터	I-PER
+처음으로	O
+홈런을	O
+기록했다	O
+.	O
+
+코탕탱	B-LOC
+반도의	I-LOC
+북안에	O
+위치하며	O
+,	O
+영국	B-LOC
+해협에	I-LOC
+면하는	O
+항구도시이다	O
+.	O
+
+'	O
+''	O
+RTV	O
+Utrecht	O
+''	O
+'	O
+(	O
+위트레흐트	B-LOC
+주	I-LOC
+)	O

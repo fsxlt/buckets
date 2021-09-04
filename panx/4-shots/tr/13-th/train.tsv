@@ -1,0 +1,88 @@
+Nicholas	B-PER
+Brendon	I-PER
+(	O
+Xander	B-PER
+Harris	I-PER
+)	O
+
+YÖNLENDİR	O
+2003	B-ORG
+İtalya	I-ORG
+Bisiklet	I-ORG
+Turu	I-ORG
+
+III.	B-PER
+Murad	I-PER
+tarafından	O
+sefer	O
+ile	O
+görevlendirilen	O
+Lala	B-ORG
+Mustafa	I-ORG
+Paşa	I-ORG
+,	O
+önce	O
+Erzurum'a	B-LOC
+geldi	O
+.	O
+
+YÖNLENDİRME	O
+Haseke	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC
+
+**	O
+Ed	B-PER
+Macauley	I-PER
+,	O
+Boston	B-ORG
+Celtics	I-ORG
+
+Aynı	O
+şekilde	O
+Gazze	B-LOC
+Sancağı'nın	I-LOC
+da	O
+bir	O
+kenti	O
+konumuna	O
+alındı	O
+.	O
+
+Nurdan	B-PER
+Karagöz	I-PER
+,	O
+2	O
+.	O
+
+'	O
+''	O
+Litvanya	B-LOC
+Sovyet	I-LOC
+Sosyalist	I-LOC
+Cumhuriyeti	I-LOC
+''	O
+'	O
+
+1989-1992	O
+yılları	O
+arasında	O
+FC	B-ORG
+Istres	I-ORG
+takımında	O
+86	O
+maç	O
+yaptı	O
+ve	O
+9	O
+gol	O
+attı	O
+.	O
+
+Kuzey	B-LOC
+Amerika'da	I-LOC
+yaygın	O
+olarak	O
+bulunmaktaydılar	O
+.	O

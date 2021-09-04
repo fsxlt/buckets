@@ -1,0 +1,63 @@
+OHJAUS	O
+T.	B-PER
+J.	I-PER
+Brodie	I-PER
+
+Hän	O
+edusti	O
+urallaan	O
+vielä	O
+Manchester	B-ORG
+Citya	I-ORG
+ja	O
+Swindon	B-ORG
+Townia	I-ORG
+.	O
+
+Kolmas	O
+video	O
+,	O
+``	O
+Hyvien	O
+puolella	O
+''	O
+tullaan	O
+kuvaamaan	O
+Las	B-LOC
+Vegasissa	I-LOC
+.	O
+
+'	O
+''	O
+Montreal	B-ORG
+Canadiens	I-ORG
+''	O
+'	O
+
+Se	O
+sijaitsee	O
+Šilkajoen	B-LOC
+rannalla	O
+385	O
+kilometriä	O
+Tšitasta	B-LOC
+itään	O
+.	O
+
+Elokuvan	O
+ohjasi	O
+John	B-PER
+Schlesinger	I-PER
+.	O
+
+poly	O
+829	O
+114	O
+825	O
+168	O
+852	O
+160	O
+835	O
+109	O
+New	B-LOC
+Hampshire	I-LOC

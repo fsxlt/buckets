@@ -1,0 +1,81 @@
+'	O
+''	O
+Philippe	B-PER
+Alliot	I-PER
+''	O
+'	O
+
+L.A.	B-ORG
+Woman	I-ORG
+''	O
+–	O
+The	B-ORG
+Doors	I-ORG
+
+Cima	B-PER
+da	I-PER
+Conegliano	I-PER
+
+Hoda	B-PER
+Lattaf	I-PER
+(	O
+233	O
+matchs	O
+et	O
+141	O
+buts	O
+)	O
+
+Golden	B-ORG
+Seals	I-ORG
+de	I-ORG
+la	I-ORG
+Californie	I-ORG
+
+===	O
+État	B-LOC
+de	I-LOC
+Chihuahua	I-LOC
+===	O
+
+Tournus	B-LOC
+(	O
+1	O
+)	O
+
+Philippe	B-PER
+Louviot	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Corrèze	I-LOC
+
+The	B-ORG
+Phantom	I-ORG
+Agony	I-ORG
+''	O
+.	O
+
+===	O
+Préfecture	B-LOC
+de	I-LOC
+Gifu	I-LOC
+===	O
+
+Deuxième	B-LOC
+circonscription	I-LOC
+de	I-LOC
+l'Allier	I-LOC
+
+Whalers	B-ORG
+de	I-ORG
+Plymouth	I-ORG
+(	O
+LHO	O
+)	O

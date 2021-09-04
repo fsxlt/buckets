@@ -1,0 +1,70 @@
+Mga	B-ORG
+dinastiya	I-ORG
+sa	I-ORG
+kasaysayan	I-ORG
+ng	I-ORG
+Tsina	I-ORG
+
+Johan	B-PER
+Strauss	I-PER
+II	I-PER
+
+Andorra	B-LOC
+(	O
+40,000	O
+)	O
+
+'	O
+''	O
+Mart	B-PER
+Escudero	I-PER
+''	O
+'	O
+
+Linyang	B-ORG
+Sōbu	I-ORG
+(	I-ORG
+Mabilisan	I-ORG
+)	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Florencia	I-LOC
+
+Pamantasan	B-ORG
+ng	I-ORG
+Gitnang	I-ORG
+Pilipinas	I-ORG
+
+San	B-LOC
+Bernardo	I-LOC
+del	I-LOC
+Viento	I-LOC
+,	O
+Colombia	B-LOC
+
+'	O
+''	O
+Ara	B-PER
+Mina	I-PER
+''	O
+'	O
+
+Mga	B-ORG
+Nakabiting	I-ORG
+Hardin	I-ORG
+ng	I-ORG
+Babilonya	I-ORG
+
+Hidalgo	B-LOC
+(	I-LOC
+Mehiko	I-LOC
+)	I-LOC
+
+Leon	B-PER
+I	I-PER
+Magno	I-PER
+
+Etajima	B-LOC
+,	I-LOC
+Hiroshima	I-LOC

@@ -1,0 +1,42 @@
+تحويل	O
+ويتون	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+محمد	B-PER
+علي	I-PER
+كلاي	I-PER
+•	O
+بيليه	B-PER
+.	O
+
+سانكتي	B-LOC
+سبيريتوس	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+)	I-LOC
+
+بطولة	B-ORG
+أمم	I-ORG
+أوروبا	I-ORG
+لكرة	I-ORG
+السلة	I-ORG
+2013	I-ORG
+
+برج	B-ORG
+الراديو	I-ORG
+وارسو	I-ORG
+(	I-ORG
+بولندا	I-ORG
+)	I-ORG
+
+تحويل	O
+سفراء	B-PER
+الولايات	I-PER
+المتحدة	I-PER
+الأمريكية	I-PER
+في	I-PER
+المملكة	I-PER
+الأردنية	I-PER
+الهاشمية	I-PER

@@ -1,0 +1,94 @@
+``	O
+The	B-ORG
+Fox	I-ORG
+(	I-ORG
+What	I-ORG
+Does	I-ORG
+the	I-ORG
+Fox	I-ORG
+Say	I-ORG
+?	I-ORG
+)	I-ORG
+''	O
+Ylvis	B-ORG
+
+Cédric	B-PER
+Vasseur	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Équipe	B-ORG
+de	I-ORG
+Turquie	I-ORG
+de	I-ORG
+volley-ball	I-ORG
+féminin	I-ORG
+
+Marbré	B-LOC
+de	I-LOC
+Lusitanie	I-LOC
+
+redirection	O
+Caille	B-LOC
+des	I-LOC
+blés	I-LOC
+
+Bassin	B-LOC
+de	I-LOC
+la	I-LOC
+Villette	I-LOC
+
+''	O
+'21	O
+''	O
+'	O
+saisons	O
+en	O
+Tercera	B-ORG
+División	I-ORG
+''	O
+
+Ernst	B-PER
+Stavro	I-PER
+Blofeld	I-PER
+(	O
+Telly	B-PER
+Savalas	I-PER
+)	O
+
+Les	O
+Cinq	B-PER
+Martyrs	I-PER
+du	I-PER
+lycée	I-PER
+Buffon	I-PER
+
+Francisco	B-PER
+Suárez	I-PER
+(	O
+1548-1617	O
+)	O
+
+On	O
+le	O
+trouve	O
+en	O
+Nouvelle-Galles	B-LOC
+du	I-LOC
+Sud	I-LOC
+,	O
+en	O
+Tasmanie	B-LOC
+et	O
+au	O
+Victoria	B-LOC
+en	O
+Australie	B-LOC
+.	O
+
+Centrale	B-ORG
+nucléaire	I-ORG
+de	I-ORG
+Fukushima	I-ORG
+Daiichi	I-ORG

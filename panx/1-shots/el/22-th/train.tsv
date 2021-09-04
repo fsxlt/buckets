@@ -1,0 +1,39 @@
+την	O
+περίοδο	O
+1993-1997	O
+καθώς	O
+και	O
+βοηθός	O
+του	O
+Προέδρου	B-ORG
+.	O
+
+'	O
+''	O
+Ένωση	B-ORG
+για	I-ORG
+ένα	I-ORG
+Λαϊκό	I-ORG
+Κίνημα	I-ORG
+''	O
+'	O
+(	O
+''Union	O
+pour	O
+un	O
+mouvement	O
+populaire	O
+''	O
+)	O
+
+Ιουδαία	B-LOC
+(	I-LOC
+ρωμαϊκή	I-LOC
+επαρχία	I-LOC
+)	I-LOC
+
+Γιώργος	B-PER
+Παράσχος	I-PER
+,	O
+Φερνάντο	B-PER
+Σάντος	I-PER

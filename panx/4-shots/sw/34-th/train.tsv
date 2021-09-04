@@ -1,0 +1,87 @@
+Yohane	B-PER
+wa	I-PER
+Msalaba	I-PER
+,	O
+Mt	O
+.	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Mto	I-LOC
+Tana	I-LOC
+
+Benguela	B-LOC
+(	I-LOC
+mkoa	I-LOC
+)	I-LOC
+
+Leopold	B-PER
+II	I-PER
+wa	I-PER
+Ubelgiji	I-PER
+
+Niger	B-LOC
+(	O
+Niamey	B-LOC
+)	O
+(	O
+AF	O
+)	O
+
+Alimfuata	O
+Papa	B-PER
+Linus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Klementi	I-PER
+I	I-PER
+.	O
+
+Harper	B-LOC
+Woods	I-LOC
+,	I-LOC
+Michigan	I-LOC
+
+Wilaya	B-ORG
+ya	I-ORG
+Koun-Fao	I-ORG
+
+``	O
+If	B-ORG
+My	I-ORG
+Homie	I-ORG
+Calls	I-ORG
+''	O
+
+Hilarión	B-PER
+Daza	I-PER
+(	O
+mtendaji	O
+)	O
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Afrika	I-ORG
+Kusini	I-ORG
+
+Lake	B-LOC
+Forest	I-LOC
+,	I-LOC
+California	I-LOC
+
+Jengo	B-ORG
+la	I-ORG
+Empire	I-ORG
+State	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+8.5	O
+km²	B-ORG
+.	O

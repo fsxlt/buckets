@@ -1,0 +1,21 @@
+REDIRECIONAMENTO	O
+Guilherme	B-PER
+I	I-PER
+,	I-PER
+Príncipe	I-PER
+de	I-PER
+Orange	I-PER
+
+Banda	B-LOC
+del	I-LOC
+Río	I-LOC
+Salí	I-LOC
+
+Law	B-ORG
+&	I-ORG
+Order	I-ORG
+:	I-ORG
+Special	I-ORG
+Victims	I-ORG
+Unit	I-ORG
+''	O

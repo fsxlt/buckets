@@ -1,0 +1,40 @@
+Theaetetus	B-LOC
+(	I-LOC
+cráter	I-LOC
+)	I-LOC
+
+Estadio	B-ORG
+Rey	I-ORG
+Fahd	I-ORG
+,	O
+Riad	B-LOC
+
+redirección	O
+Alonso	B-PER
+de	I-PER
+Estrada	I-PER
+(	I-PER
+gobernador	I-PER
+)	I-PER
+
+'	O
+''	O
+Dudi	B-PER
+Sela	I-PER
+''	O
+'	O
+
+Organización	B-LOC
+territorial	I-LOC
+del	I-LOC
+Perú	I-LOC
+
+'	O
+''	O
+''	O
+Glad	B-ORG
+You	I-ORG
+Came	I-ORG
+''	O
+'	O
+''	O

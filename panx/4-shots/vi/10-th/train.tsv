@@ -1,0 +1,73 @@
+Thường	B-PER
+Vạn	I-PER
+Toàn	I-PER
+(	O
+kiêm	O
+)	O
+
+Sông	B-LOC
+Nho	I-LOC
+Quế	I-LOC
+
+``	O
+When	B-ORG
+You	I-ORG
+Believe	I-ORG
+''	O
+—-	O
+Mariah	B-PER
+Carey	I-PER
+&	O
+Whitney	B-PER
+Houston	I-PER
+
+Chiến	B-ORG
+tranh	I-ORG
+Nga-Ba	I-ORG
+Lan	I-ORG
+
+''	O
+Bulbophyllum	B-LOC
+atrorubens	I-LOC
+''	O
+Schltr	O
+.	O
+
+Xem	O
+'	O
+''	O
+Miyamoto	B-PER
+Musashi	I-PER
+''	O
+'	O
+''	O
+.	O
+
+Lực	B-ORG
+lượng	I-ORG
+phản	I-ORG
+ứng	I-ORG
+''	O
+
+Chim	B-LOC
+nghệ	I-LOC
+đuôi	I-LOC
+trắng	I-LOC
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Haute-Saône	I-LOC
+
+đổi	O
+Philip	B-PER
+Warren	I-PER
+Anderson	I-PER
+
+Hội	B-ORG
+đồng	I-ORG
+Bảo	I-ORG
+an	I-ORG
+Liên	I-ORG
+Hiệp	I-ORG
+Quốc	I-ORG

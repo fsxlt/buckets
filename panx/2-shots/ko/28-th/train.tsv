@@ -1,0 +1,74 @@
+예를	O
+들어	O
+,	O
+소형	O
+블랙홀은	O
+몇몇	O
+미검증된	O
+이론이	O
+사실이	O
+아닌	O
+한	O
+생성될	O
+수	O
+없으며	O
+,	O
+설령	O
+생성된다	O
+하더라도	O
+호킹	B-LOC
+복사에	I-LOC
+의해	O
+거의	O
+즉시	O
+소멸되므로	O
+무해할	O
+것으로	O
+추정된다	O
+.	O
+
+**	O
+프레데리크	B-PER
+9세	I-PER
+(	O
+1899-1972	O
+)	O
+
+넘겨주기	O
+이즈	B-ORG
+급행	I-ORG
+이즈	B-ORG
+급행	I-ORG
+선	I-ORG
+
+**	O
+오타와	B-LOC
+(	O
+대사관	O
+)	O
+
+'	O
+''	O
+파리	B-ORG
+생제르맹	I-ORG
+FC	I-ORG
+''	O
+'	O
+
+)	O
+은	O
+일제	B-LOC
+강점기의	I-LOC
+관료로	O
+,	O
+본적은	O
+평안남도	B-LOC
+대동군이다	B-LOC
+.	O
+
+'	O
+''	O
+젠슨	B-PER
+버튼	I-PER
+''	O
+'	O

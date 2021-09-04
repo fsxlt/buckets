@@ -1,0 +1,72 @@
+Ian	B-PER
+McKellen	I-PER
+como	O
+Sherlock	B-PER
+Holmes	I-PER
+
+Habita	O
+en	O
+Togo	B-LOC
+,	O
+República	B-LOC
+Democrática	I-LOC
+del	I-LOC
+Congo	I-LOC
+y	O
+Senegal	B-LOC
+.	O
+
+Marta	B-PER
+Vieira	I-PER
+da	I-PER
+Silva	I-PER
+
+Glen	B-PER
+Rice	I-PER
+(	O
+2	O
+)	O
+
+Lotte	B-ORG
+no	I-ORG
+Omocha	I-ORG
+!	I-ORG
+''	O
+
+Santa	B-LOC
+Margarita	I-LOC
+(	I-LOC
+Baleares	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Campeonato	B-ORG
+Sudamericano	I-ORG
+de	I-ORG
+Baloncesto	I-ORG
+Femenino	I-ORG
+
+REDIRECCIÓN	O
+Jardines	B-ORG
+Japoneses	I-ORG
+de	I-ORG
+Jurong	I-ORG
+
+REDIRECCIÓN	O
+Kalimán	B-PER
+Asen	I-PER
+II	I-PER
+
+Distrito	B-LOC
+de	I-LOC
+Acopía	I-LOC
+
+Universidad	B-ORG
+Humboldt	I-ORG
+de	I-ORG
+Berlín	I-ORG
+
+San	B-LOC
+Martín	I-LOC
+de	I-LOC
+Valderaduey	I-LOC

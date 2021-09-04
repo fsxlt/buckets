@@ -1,0 +1,37 @@
+Unang	O
+sinulat	O
+ni	O
+Richard	B-PER
+Stallman	I-PER
+nuong	O
+1975	O
+.	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Ikalawang	B-ORG
+Konsilyong	I-ORG
+Vaticano	I-ORG
+
+Papa	B-PER
+Pio	I-PER
+XII	I-PER
+
+Kagawaran	B-ORG
+ng	I-ORG
+Interyor	I-ORG
+at	I-ORG
+Pamahalaang	I-ORG
+Lokal	I-ORG
+(	I-ORG
+Pilipinas	I-ORG
+)	I-ORG
+
+American	B-LOC
+Samoa	I-LOC
+(	O
+US	O
+)	O

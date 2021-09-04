@@ -1,0 +1,87 @@
+Vatica	B-LOC
+bella	I-LOC
+''	O
+Slooten	O
+
+đổi	O
+Georges	B-PER
+Nguyen	I-PER
+Van	I-PER
+Loc	I-PER
+
+đổi	O
+Cổ	B-LOC
+đỏ	I-LOC
+trán	I-LOC
+xanh	I-LOC
+
+Sân	B-LOC
+vận	I-LOC
+động	I-LOC
+Kỷ	I-LOC
+niệm	I-LOC
+sinh	I-LOC
+nhật	I-LOC
+lần	I-LOC
+thứ	I-LOC
+80	I-LOC
+của	I-LOC
+Nhà	I-LOC
+vua	I-LOC
+
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Nelson	I-ORG
+Mandela	I-ORG
+Bay	I-ORG
+,	O
+Port	B-LOC
+Elizabeth	I-LOC
+
+Bảo	B-ORG
+tàng	I-ORG
+Orsay	I-ORG
+
+Richard	B-PER
+Nixon	I-PER
+tái	O
+tạo	O
+mới	O
+chức	O
+vị	O
+Phó	O
+Tổng	O
+thống	O
+.	O
+
+Cận	B-PER
+Cừu	I-PER
+Thủ	I-PER
+Vương	I-PER
+
+Vùng	B-ORG
+đặc	I-ORG
+quyền	I-ORG
+kinh	I-ORG
+tế	I-ORG
+
+Trại	B-ORG
+tập	I-ORG
+trung	I-ORG
+Auschwitz	I-ORG
+là	O
+một	O
+nơi	O
+tận	O
+cùng	O
+của	O
+sự	O
+đau	O
+khổ	O
+.	O
+
+đổi	O
+Thiên	B-PER
+hoàng	I-PER
+Seimu	I-PER

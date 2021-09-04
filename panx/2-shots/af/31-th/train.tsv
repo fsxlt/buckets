@@ -1,0 +1,47 @@
+'	O
+''	O
+Jenson	B-PER
+Button	I-PER
+''	O
+'	O
+
+Dit	O
+het	O
+later	O
+een	O
+van	O
+die	O
+koninkryke	O
+van	O
+die	O
+Parthiese	B-LOC
+Ryk	I-LOC
+geword	O
+.	O
+
+Franse	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+AANSTUUR	O
+Suid-Georgië	B-LOC
+en	I-LOC
+die	I-LOC
+Suidelike	I-LOC
+Sandwicheilande	I-LOC
+
+Thanda	B-ORG
+Royal	I-ORG
+Zulu	I-ORG
+(	O
+nuut	O
+uit	O
+PSL	O
+)	O
+
+'	O
+''	O
+Valtteri	B-PER
+Bottas	I-PER
+''	O
+'	O

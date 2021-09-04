@@ -1,0 +1,32 @@
+**	O
+Angel	B-PER
+(	O
+Rivale	O
+)	O
+
+Il	O
+semblerait	O
+que	O
+sa	O
+cible	O
+était	O
+la	O
+Maison-Blanche	B-ORG
+.	O
+
+'	O
+''	O
+Doris	B-PER
+Leuthard	I-PER
+''	O
+'	O
+
+Championnat	B-ORG
+de	I-ORG
+RDA	I-ORG
+de	I-ORG
+football	I-ORG
+
+Lavras	B-LOC
+da	I-LOC
+Mangabeira	I-LOC

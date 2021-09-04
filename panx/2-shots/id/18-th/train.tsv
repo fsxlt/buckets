@@ -1,0 +1,53 @@
+Ini	O
+merupakan	O
+single	O
+ketiganya	O
+dan	O
+terdapat	O
+dalam	O
+debut	O
+albumnya	O
+For	B-ORG
+You	I-ORG
+''	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Bouches-du-Rhône	I-LOC
+
+ALIH	O
+Fouilloy	B-LOC
+,	I-LOC
+Oise	I-LOC
+
+Pertandingan	O
+tersebut	O
+adalah	O
+pertandingan	O
+semi-final	O
+,	O
+yang	O
+mempertemukan	O
+Timnas	B-ORG
+Portugal	I-ORG
+dengan	O
+Timnas	B-ORG
+Perancis	I-ORG
+
+Saleh	B-PER
+Bakri	I-PER
+sebagai	O
+Layth	O
+
+Meaghan	B-PER
+Jette	I-PER
+Martin	I-PER
+sebagai	O
+Theresa	B-PER
+``	I-PER
+Tess	I-PER
+''	I-PER
+Tyler	I-PER

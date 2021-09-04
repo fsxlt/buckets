@@ -1,0 +1,42 @@
+H.	B-PER
+L.	I-PER
+A.	I-PER
+Hart	I-PER
+
+Koo	B-PER
+Kien	I-PER
+Keat	I-PER
+/	O
+Tan	B-PER
+Boon	I-PER
+Heong	I-PER
+
+WEITERLEITUNG	O
+Museum	B-ORG
+Het	I-ORG
+Rembrandthuis	I-ORG
+
+Das	O
+Angebot	O
+einer	O
+Professur	O
+an	O
+der	O
+Universität	B-ORG
+Uppsala	I-ORG
+lehnte	O
+er	O
+ab	O
+.	O
+
+Bremgarten	B-LOC
+bei	I-LOC
+Bern	I-LOC
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Münster	I-LOC
+''	O
+'	O

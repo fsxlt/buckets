@@ -1,0 +1,100 @@
+'	O
+''	O
+LionsXII	B-ORG
+''	O
+'	O
+
+Wira	O
+69	O
+Komando	O
+ASP	B-PER
+G	I-PER
+/	I-PER
+10958	I-PER
+Abdul	I-PER
+Razak	I-PER
+bin	I-PER
+Mohd	I-PER
+Yusoff	I-PER
+
+Sumber	O
+maklumat	O
+''Sarawak	O
+Report	O
+''	O
+berasal	O
+dari	O
+Hong	B-LOC
+Kong	I-LOC
+.	O
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-17	I-ORG
+Tajikistan	I-ORG
+
+'	O
+''	O
+Kimi	B-PER
+Räikkönen	I-PER
+''	O
+'	O
+
+LENCONG	O
+Lesná	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Znojmo	I-LOC
+)	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Cantal	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+bau	I-ORG
+Cantabria	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+Misaki	B-PER
+Matsutomo	I-PER
+/	O
+Ayaka	B-PER
+Takahashi	I-PER
+(	O
+Second	O
+Round	O
+)	O
+
+'	O
+''	O
+Maeda	B-PER
+Atsuko	I-PER
+(	O
+16452	O
+)	O
+'	O
+''	O
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+berbulu	I-ORG
+dawai	I-ORG
+Jerman	I-ORG
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+Korea	I-ORG
+Utara	I-ORG

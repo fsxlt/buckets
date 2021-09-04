@@ -1,0 +1,23 @@
+Sri	B-LOC
+Lanka	I-LOC
+(	O
+2.5	O
+millioni	O
+)	O
+,	O
+
+Samuel	B-PER
+Mqhayi	I-PER
+(	O
+1875-1945	O
+)	O
+
+Kiagta	B-ORG
+ya	I-ORG
+Dupaninan	I-ORG
+
+'	O
+''	O
+Italia	B-LOC
+''	O
+'	O

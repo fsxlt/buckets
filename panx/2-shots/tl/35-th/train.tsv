@@ -1,0 +1,36 @@
+Boac	B-LOC
+,	I-LOC
+Marinduque	I-LOC
+
+Aklat	B-ORG
+ni	I-ORG
+Mikas	I-ORG
+
+Mérida	B-LOC
+,	I-LOC
+Yucatán	I-LOC
+
+Bruno	B-PER
+ng	I-PER
+Cologne	I-PER
+
+'	O
+''	O
+Glaiza	B-PER
+de	I-PER
+Castro	I-PER
+''	O
+'	O
+
+''	O
+Futbolilits	B-ORG
+''	O
+(	O
+2011	O
+)	O
+
+Estasyong	B-ORG
+Quezon	I-ORG
+Avenue	I-ORG
+ng	I-ORG
+MRT	I-ORG

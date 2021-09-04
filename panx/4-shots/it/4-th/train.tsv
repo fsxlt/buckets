@@ -1,0 +1,96 @@
+'	O
+''	O
+Promosso	O
+nella	O
+2.	B-ORG
+divisjon	I-ORG
+''	O
+'	O
+.	O
+
+Plano	B-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+-	O
+222.030	O
+
+'	O
+''	O
+Jimmy	B-PER
+Connors	I-PER
+''	O
+'	O
+'	O
+''	O
+Haroon	B-PER
+Rahim	I-PER
+''	O
+'	O
+
+Regno	B-LOC
+di	I-LOC
+Araucanía	I-LOC
+e	I-LOC
+Patagonia	I-LOC
+
+'	O
+''	O
+Vigliano	B-LOC
+Biellese	I-LOC
+''	O
+'	O
+
+Stazione	B-ORG
+di	I-ORG
+London	I-ORG
+Paddington	I-ORG
+
+==	O
+Le	O
+spedizioni	O
+nel	O
+Nuovo	B-LOC
+Mondo	I-LOC
+==	O
+
+Francesco	B-PER
+Cancellotti	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Squadra	B-ORG
+estone	I-ORG
+di	I-ORG
+Coppa	I-ORG
+Davis	I-ORG
+
+'	O
+''	O
+Kim	B-PER
+Clijsters	I-PER
+''	O
+'	O
+
+David	B-PER
+Bowie	I-PER
+–	O
+Heathen	B-ORG
+''	O
+
+RINVIA	O
+132ª	B-ORG
+Brigata	I-ORG
+corazzata	I-ORG
+``	I-ORG
+Ariete	I-ORG
+''	I-ORG
+
+'	O
+''	O
+Australia	B-LOC
+''	O
+'	O

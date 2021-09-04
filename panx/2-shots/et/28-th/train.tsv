@@ -1,0 +1,55 @@
+Patricia	B-PER
+Arquette	I-PER
+–	O
+``	O
+Meedium	B-ORG
+''	O
+
+Haanja	B-LOC
+vald	I-LOC
+,	O
+Võru	B-LOC
+maakond	I-LOC
+
+Esikolmiku	O
+moodustasid	O
+Hongkong	B-LOC
+,	O
+Singapur	B-LOC
+ja	O
+Austraalia	B-LOC
+.	O
+
+Cortlandi	B-LOC
+maakond	I-LOC
+(	O
+kirdes	O
+)	O
+
+Malawi	B-LOC
+uueks	O
+presidendiks	O
+vannutati	O
+senine	O
+asepresident	O
+Joyce	B-PER
+Banda	I-PER
+.	O
+
+Sgt.	B-ORG
+Pepper	I-ORG
+'s	I-ORG
+Lonely	I-ORG
+Hearts	I-ORG
+Club	I-ORG
+Band	I-ORG
+
+Ta	O
+on	O
+töötanud	O
+õpetajana	O
+ja	O
+teadurina	O
+Eesti	B-ORG
+Kirjandusmuuseumis	I-ORG
+.	O

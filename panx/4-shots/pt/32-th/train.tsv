@@ -1,0 +1,97 @@
+'	O
+''	O
+Guillermo	B-PER
+Vilas	I-PER
+''	O
+'	O
+
+``	O
+If	B-ORG
+I	I-ORG
+Never	I-ORG
+See	I-ORG
+Your	I-ORG
+Face	I-ORG
+Again	I-ORG
+''	O
+
+Federação	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Ginástica	I-ORG
+
+Mike	B-ORG
+,	I-ORG
+o	I-ORG
+Cavaleiro	I-ORG
+(	O
+também	O
+na	O
+RTP1	B-PER
+e	O
+RTP2	B-PER
+)	O
+
+Octavia	B-PER
+Spencer	I-PER
+como	O
+Dra	O
+.	O
+
+Trentino-Alto	B-LOC
+Ádige	I-LOC
+(	O
+32	O
+)	O
+
+Santa	B-LOC
+Cruz	I-LOC
+do	I-LOC
+Rio	I-LOC
+Pardo	I-LOC
+
+Corbières	B-LOC
+(	I-LOC
+Aude	I-LOC
+)	I-LOC
+
+Autrey	B-LOC
+(	I-LOC
+Meurthe-et-Moselle	I-LOC
+)	I-LOC
+
+**	O
+Law	B-ORG
+&	I-ORG
+Order	I-ORG
+''	O
+-	O
+Benjamin	B-PER
+Bratt	I-PER
+;	O
+Angie	B-PER
+Harmon	I-PER
+;	O
+Steven	B-PER
+Hill	I-PER
+;	O
+Carey	B-PER
+Lowell	I-PER
+;	O
+S.	B-PER
+Epatha	I-PER
+Merkerson	I-PER
+;	O
+Jerry	B-PER
+Orbach	I-PER
+;	O
+Sam	B-PER
+Waterston	I-PER
+.	O
+
+Anthony	B-PER
+Quayle	I-PER
+...	O
+...	O
+.	O
+Verulo	O

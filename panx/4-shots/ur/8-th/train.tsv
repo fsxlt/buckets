@@ -1,0 +1,77 @@
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+رجوع_مکرر	O
+کونکورڈ	B-ORG
+(	I-ORG
+ڈسٹرکٹ	I-ORG
+ہائٹس،	I-ORG
+میری	I-ORG
+لینڈ	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+یاہو	B-PER
+(	I-PER
+پیدائش	I-PER
+841	I-PER
+قبل	I-PER
+مسیح	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+جاوید	B-LOC
+ماہوری	I-LOC
+دیہی	I-LOC
+ضلع	I-LOC
+
+رجوع_مکرر	O
+شاہ	B-LOC
+عالم،	I-LOC
+ملائیشیا	I-LOC
+
+رجوع_مکرر	O
+2014	B-ORG
+فیفا	I-ORG
+عالمی	I-ORG
+کپ	I-ORG
+گروپ	I-ORG
+اے	I-ORG
+
+رجوع_مکرر	O
+چارلسٹن،	B-LOC
+جنوبی	I-LOC
+کیرولائنا	I-LOC
+
+کراچی	B-ORG
+پورٹ	I-ORG
+ٹرسٹ	I-ORG
+ہالٹ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+مصطفٰی	B-PER
+کمال	I-PER
+اتاترک	I-PER
+
+رجوع_مکرر	O
+راجر	B-PER
+والکاٹ	I-PER
+سپیری	I-PER
+
+رجوع_مکرر	O
+مشعر	B-ORG
+آزادی	I-ORG
+صحافت	I-ORG
+
+رجوع_مکرر	O
+زابنیک،	B-LOC
+سوییٹوکرزیسکئی	I-LOC
+صوبہ	I-LOC

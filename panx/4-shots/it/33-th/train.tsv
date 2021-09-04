@@ -1,0 +1,117 @@
+:2ª	O
+tappa	O
+parte	O
+a	O
+Giro	B-ORG
+d'Italia	I-ORG
+(	O
+Avellino	B-LOC
+>	O
+Foggia	B-LOC
+)	O
+
+Robbie	B-PER
+Koenig	I-PER
+e	O
+Martín	B-PER
+Rodríguez	I-PER
+hanno	O
+battuto	O
+in	O
+finale	O
+6–3	O
+,	O
+7–6	O
+(	O
+7–4	O
+)	O
+Martin	B-PER
+Damm	I-PER
+e	O
+Cyril	B-PER
+Suk	I-PER
+.	O
+
+'	O
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Illustrated	I-ORG
+''	O
+'	O
+''	O
+
+Arcidiocesi	B-LOC
+di	I-LOC
+Sarajevo	I-LOC
+
+Evgenij	B-PER
+Kafel'nikov	I-PER
+ha	O
+battuto	O
+in	O
+finale	O
+2–6	O
+,	O
+6–4	O
+,	O
+6–4	O
+Nicolas	B-PER
+Kiefer	I-PER
+.	O
+
+Gavrilovo-Posadskij	B-LOC
+(	O
+Gavrilov	B-LOC
+Posad	I-LOC
+''	O
+)	O
+
+Tutte	O
+le	O
+canzoni	O
+sono	O
+state	O
+composte	O
+da	O
+Tom	B-PER
+Keifer	I-PER
+.	O
+
+'	O
+''	O
+Soledad	B-LOC
+''	O
+'	O
+,	O
+città	O
+Honduras	B-LOC
+nel	O
+Dipartimento	B-LOC
+di	I-LOC
+El	I-LOC
+Paraíso	I-LOC
+
+*La	O
+Cattedrale	B-ORG
+di	I-ORG
+Friburgo	I-ORG
+in	I-ORG
+Brisgovia	I-ORG
+
+Metropolitana	B-LOC
+di	I-LOC
+Buenos	I-LOC
+Aires	I-LOC
+
+'	O
+''	O
+Alicia	B-PER
+Vikander	I-PER
+''	O
+'	O
+-	O
+The	B-ORG
+Danish	I-ORG
+Girl	I-ORG
+''	O

@@ -1,0 +1,54 @@
+'	O
+''	O
+אלעזר	B-PER
+דודמן	I-PER
+''	O
+'	O
+
+תפוצתו	O
+מתפרסת	O
+על	O
+אוסטרליה	B-LOC
+,	O
+איי	B-LOC
+שלמה	I-LOC
+,	O
+פפואה	B-LOC
+גינאה	I-LOC
+החדשה	I-LOC
+,	O
+ניו	B-LOC
+זילנד	I-LOC
+,	O
+טסמניה	B-LOC
+אינדונזיה	B-LOC
+.	O
+
+'	O
+''	O
+אתלטיקו	B-ORG
+מדריד	I-ORG
+''	O
+'	O
+
+מעבר	O
+משמעותי	O
+נוסף	O
+שבוצע	O
+באותה	O
+פגרה	O
+הוא	O
+חתימתו	O
+של	O
+רכז	B-PER
+סטיב	B-PER
+נאש	I-PER
+פיניקס	B-ORG
+סאנס	I-ORG
+.	O
+
+הפניה	O
+אילאו	B-LOC
+(	I-LOC
+מחוז	I-LOC
+)	I-LOC

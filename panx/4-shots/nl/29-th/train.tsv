@@ -1,0 +1,91 @@
+Geregisseerd	O
+en	O
+geschreven	O
+door	O
+James	B-PER
+Kerwin	I-PER
+
+DOORVERWIJZING	O
+Roemenië	B-LOC
+op	I-LOC
+het	I-LOC
+Junior	I-LOC
+Eurovisiesongfestival	I-LOC
+
+DOORVERWIJZING	O
+The	B-ORG
+charm	I-ORG
+beneath	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+Therese	B-PER
+Alshammar	I-PER
+
+Mission	B-LOC
+Viejo	I-LOC
+,	O
+Verenigde	B-LOC
+Staten	I-LOC
+
+Democratische	B-ORG
+Partij	I-ORG
+van	I-ORG
+Kosovo	I-ORG
+
+Grivița	B-LOC
+(	I-LOC
+Ialomița	I-LOC
+)	I-LOC
+
+DOORVERWIJZING	O
+Secretaris-generaal	B-ORG
+van	I-ORG
+de	I-ORG
+Raad	I-ORG
+van	I-ORG
+Europa	I-ORG
+
+Hij	O
+werkte	O
+hiervoor	O
+veel	O
+samen	O
+met	O
+Hermann	B-PER
+Loew	I-PER
+.	O
+
+Erik	B-PER
+XI	I-PER
+van	I-PER
+Zweden	I-PER
+
+7e	O
+etappe	O
+Tirreno-Adriatico	B-ORG
+(	O
+individuele	O
+tijdrit	O
+)	O
+
+Basiliek	B-ORG
+van	I-ORG
+San	I-ORG
+Marco	I-ORG
+(	I-ORG
+Venetië	I-ORG
+)	I-ORG
+
+Haren	B-LOC
+(	I-LOC
+Groningen	I-LOC
+)	I-LOC
+-	O
+
+Créteil	B-LOC
+(	O
+deels	O
+)	O

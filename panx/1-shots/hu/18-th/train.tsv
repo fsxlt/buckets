@@ -1,0 +1,24 @@
+ÁTIRÁNYÍTÁS	O
+Ivan	B-PER
+Alekszandrovics	I-PER
+Orlov	I-PER
+
+Megjelenése	O
+és	O
+életmódja	O
+nagyon	O
+hasonlít	O
+a	O
+sokkal	O
+jobban	O
+ismert	O
+erdei	B-LOC
+szalonkára	I-LOC
+.	O
+
+The	B-ORG
+Sound	I-ORG
+Above	I-ORG
+My	I-ORG
+Hair	I-ORG
+''	O

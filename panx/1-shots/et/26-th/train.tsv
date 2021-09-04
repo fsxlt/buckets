@@ -1,0 +1,21 @@
+'	O
+''	O
+Jonesi	B-LOC
+maakond	I-LOC
+''	O
+'	O
+Lõuna-Dakotas	B-LOC
+
+Otto	B-PER
+II	I-PER
+(	I-PER
+Braunschweig-Göttingen	I-PER
+)	I-PER
+
+Tallinna	B-ORG
+JK	I-ORG
+Piraaja	I-ORG
+(	O
+III	B-ORG
+liiga	I-ORG
+)	O

@@ -1,0 +1,86 @@
+'	O
+''	O
+Ιαπωνία	B-LOC
+''	O
+'	O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Διεθνής	B-ORG
+Οργάνωση	I-ORG
+Τροφίμων	I-ORG
+και	I-ORG
+Γεωργίας	I-ORG
+
+'	O
+''	O
+Ηνωμένο	B-LOC
+Βασίλειο	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Νέα	B-LOC
+Ζηλανδία	I-LOC
+''	O
+'	O
+
+==	O
+--	O
+Δήμος	B-LOC
+Μουδανιών	I-LOC
+--	O
+==	O
+
+Ιβάν	B-PER
+Βάζοφ	I-PER
+,	O
+συγγραφέας	O
+
+Λεονάρντο	B-PER
+ντα	I-PER
+Βίντσι	I-PER
+(	O
+;	O
+)	O
+''Madonna	O
+Litta	O
+''	O
+
+'	O
+''	O
+Μεγάλη	B-LOC
+Βρετανία	I-LOC
+''	O
+'	O
+
+Πείραμα	B-ORG
+των	I-ORG
+δύο	I-ORG
+σχισμών	I-ORG
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Κωνσταντίνος	B-PER
+(	I-PER
+ΙΑ΄	I-PER
+)	I-PER
+Λάσκαρης	I-PER
+
+Ιωάννης	B-PER
+Κωλέττης	I-PER
+(	O
+1774-1847	O
+)	O
+
+Κατάλογος	B-ORG
+ποδοσφαιρικών	I-ORG
+ομάδων	I-ORG
+Ελλάδας	I-ORG
+
+'	O
+''	O
+Raising	B-ORG
+Fear	I-ORG
+''	O
+'	O
+''	O

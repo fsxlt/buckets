@@ -1,0 +1,77 @@
+تحويل	O
+بطولة	B-ORG
+ويمبلدون	I-ORG
+1991	I-ORG
+
+تحويل	O
+قائمة	B-ORG
+رؤساء	I-ORG
+لبنان	I-ORG
+
+مانشستر	B-ORG
+يونايتد	I-ORG
+(	O
+4	O
+)	O
+
+تحويل	O
+أبو	B-LOC
+منجل	I-LOC
+الأبيض	I-LOC
+الأمريكي	I-LOC
+
+جيمس	B-PER
+جارفيلد	I-PER
+-	O
+أوهايو	B-LOC
+.	O
+
+جورج	B-PER
+جايلورد	I-PER
+سيمبسون	I-PER
+(	O
+1902–1984	O
+)	O
+
+تحويل	O
+مقاطعة	B-LOC
+جاكسون	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250235	O
+
+تحويل	O
+بلدة	B-LOC
+ميلفورد	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+'	O
+''	O
+مايك	B-PER
+براين	I-PER
+بوب	B-PER
+براين	I-PER
+
+تحويل	O
+جون	B-PER
+موسز	I-PER
+براونينغ	I-PER
+
+تحويل	O
+غيلان	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC

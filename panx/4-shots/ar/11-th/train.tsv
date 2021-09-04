@@ -1,0 +1,87 @@
+جراي	B-ORG
+(	I-ORG
+وحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+قشلاق	B-LOC
+مرشون	I-LOC
+(	I-LOC
+حومة	I-LOC
+أبهر	I-LOC
+)	I-LOC
+
+نيو	B-LOC
+كاسل	I-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+كاستلتيرميني	O
+''	O
+'	O
+هي	O
+بلدية	O
+في	O
+مقاطعة	B-LOC
+أغريجنتو	I-LOC
+في	O
+صقلية	B-LOC
+الإيطالية	B-LOC
+.	O
+
+''	O
+القوات	B-ORG
+الجوية	I-ORG
+''	O
+'	O
+
+تحويل	O
+ماركوس	B-PER
+فيبسانيوس	I-PER
+أغريبا	I-PER
+
+روز	B-PER
+ليزلي	I-PER
+بدور	O
+يغريت	O
+(	O
+5	O
+حلقات	O
+)	O
+.	O
+
+تحت	O
+قيادة	O
+بومبيوس	B-PER
+الكبير	I-PER
+.	O
+
+تحويل	O
+نادي	B-ORG
+ماينتس	I-ORG
+05	I-ORG
+
+تحويل	O
+ديرة	B-LOC
+(	I-LOC
+ولاية	I-LOC
+البويرة	I-LOC
+)	I-LOC
+
+تحويل	O
+ولادة	B-PER
+بنت	I-PER
+المستكفي	I-PER
+
+تحويل	O
+هارلو	B-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG

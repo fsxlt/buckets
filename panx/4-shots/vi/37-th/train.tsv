@@ -1,0 +1,76 @@
+**	O
+''	O
+Saltator	B-LOC
+grossus	I-LOC
+''	O
+
+đổi	O
+Hiếu	B-PER
+Huệ	I-PER
+Trương	I-PER
+hoàng	I-PER
+hậu	I-PER
+
+*Xã	O
+Tam	B-LOC
+Phước	I-LOC
+,	I-LOC
+Long	I-LOC
+Điền	I-LOC
+,	O
+Bà	B-ORG
+Rịa	I-ORG
+-	I-ORG
+Vũng	I-ORG
+Tàu	I-ORG
+
+Rafael	B-PER
+Nadal	I-PER
+/	O
+Fernando	B-PER
+Verdasco	I-PER
+
+Liên	B-ORG
+minh	I-ORG
+châu	I-ORG
+Âu	I-ORG
+
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Mokdong	I-ORG
+
+Ông	O
+là	O
+người	O
+kế	O
+nhiệm	O
+Pak	B-PER
+Song-chol	I-PER
+.	O
+
+đổi	O
+Cá	B-LOC
+mú	I-LOC
+đen	I-LOC
+
+đổi	O
+Chiến	B-ORG
+tranh	I-ORG
+Afghanistan	I-ORG
+(	I-ORG
+1978–1992	I-ORG
+)	I-ORG
+
+Les	B-LOC
+Sauvages	I-LOC
+(	O
+69174	O
+)	O
+
+'	O
+''	O
+Lưu	B-PER
+Bị	I-PER
+''	O
+'	O

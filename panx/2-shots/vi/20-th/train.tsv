@@ -1,0 +1,48 @@
+đổi	O
+Cung	B-ORG
+điện	I-ORG
+Buckingham	I-ORG
+
+La	B-LOC
+Poterie-au-Perche	I-LOC
+(	O
+61335	O
+)	O
+
+đổi	O
+Xã	B-LOC
+Hobart	I-LOC
+,	I-LOC
+Quận	I-LOC
+Barnes	I-LOC
+,	I-LOC
+Bắc	I-LOC
+Dakota	I-LOC
+
+Gilles	B-PER
+Simon	I-PER
+,	O
+''	O
+(	O
+Vòng	O
+3	O
+,	O
+thua	O
+Rafael	B-PER
+Nadal	I-PER
+)	O
+''	O
+
+đổi	O
+Thiên	B-PER
+hoàng	I-PER
+Suizei	I-PER
+
+đổi	O
+Trường	B-ORG
+Đại	I-ORG
+học	I-ORG
+Kinh	I-ORG
+tế	I-ORG
+-	I-ORG
+Luật	I-ORG

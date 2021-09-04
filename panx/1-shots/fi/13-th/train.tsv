@@ -1,0 +1,34 @@
+Hän	O
+palasi	O
+kuitenkin	O
+muutaman	O
+kauden	O
+jälkeen	O
+Suomeen	O
+ja	O
+Veikkausliigassa	B-ORG
+pelanneen	O
+FC	B-ORG
+Hämeenlinnan	I-ORG
+joukkueeseen	O
+.	O
+
+Hän	O
+kävi	O
+esiintymässä	O
+Helsingissä	B-LOC
+useaan	O
+otteeseen	O
+ja	O
+tutustui	O
+kapakoissa	O
+Tapio	B-PER
+Rautavaaran	I-PER
+tuotantoon	O
+.	O
+
+Jääkiekon	B-LOC
+2.	I-LOC
+divisioonan	I-LOC
+maailmanmestaruuskilpailut	I-LOC
+2013	I-LOC

@@ -1,0 +1,16 @@
+Baltimore	B-LOC
+,	I-LOC
+Maryland	I-LOC
+,	O
+Mỹ	B-LOC
+
+Lưu	B-PER
+Tống	I-PER
+Minh	I-PER
+Đế	I-PER
+
+đổi	O
+Đại	B-ORG
+học	I-ORG
+Bard	I-ORG
+Berlin	I-ORG

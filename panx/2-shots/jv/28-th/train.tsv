@@ -1,0 +1,32 @@
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Usmar	B-PER
+Ismail	I-PER
+,	O
+sutradhara	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+ALIH	O
+Nikolas	B-PER
+saka	I-PER
+Myra	I-PER
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC

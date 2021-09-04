@@ -1,0 +1,97 @@
+Göteborg	B-LOC
+,	O
+grote	O
+havenstad	O
+aan	O
+de	O
+westkust	O
+
+FV	B-ORG
+Engers	I-ORG
+07	I-ORG
+(	O
+N	O
+)	O
+
+'	O
+''	O
+Toni	B-PER
+Mang	I-PER
+''	O
+'	O
+
+'	O
+''	O
+KTM	B-ORG
+''	O
+'	O
+
+Kamtsjatka	B-LOC
+(	O
+in	O
+Oest-Kamtsjatsk	B-LOC
+)	O
+
+Universiteit	B-ORG
+van	I-ORG
+Amsterdam	I-ORG
+
+The	B-ORG
+Making	I-ORG
+of	I-ORG
+Me	I-ORG
+
+Balk	B-LOC
+(	I-LOC
+plaats	I-LOC
+)	I-LOC
+
+Jacco	B-PER
+Eltingh	I-PER
+/	O
+Paul	B-PER
+Haarhuis	I-PER
+(	O
+2	O
+)	O
+
+'	O
+''	O
+Landskampioen	B-ORG
+''	O
+'	O
+
+Richard	B-PER
+Matheson	I-PER
+(	O
+geb	O
+.	O
+
+Żabia	B-LOC
+Wola	I-LOC
+(	I-LOC
+powiat	I-LOC
+Grodziski	I-LOC
+)	I-LOC
+
+Bird	B-LOC
+Island	I-LOC
+(	I-LOC
+Zuid-Georgia	I-LOC
+en	I-LOC
+de	I-LOC
+Zuidelijke	I-LOC
+Sandwicheilanden	I-LOC
+)	I-LOC
+
+Mike	B-PER
+Hailwood	I-PER
+(	O
+MV	B-ORG
+Agusta	I-ORG
+)	O
+
+''	O
+Hipposideros	B-LOC
+cervinus	I-LOC
+''	O

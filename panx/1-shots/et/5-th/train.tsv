@@ -1,0 +1,34 @@
+Viru-Nigula	B-LOC
+vald	I-LOC
+,	O
+Lääne-Viru	B-LOC
+maakond	I-LOC
+
+François	B-ORG
+I	I-ORG
+ja	I-ORG
+Karl	I-ORG
+V	I-ORG
+neljas	I-ORG
+sõda	I-ORG
+(	I-ORG
+1542–1546	I-ORG
+)	I-ORG
+
+Ta	O
+on	O
+tõlkinud	O
+Guillaume	B-PER
+Apollinaire'i	I-PER
+,	O
+Charles	B-PER
+Baudelaire'i	I-PER
+,	O
+André	B-PER
+Malraux	I-PER
+'	O
+ja	O
+André	B-PER
+Bretoni	I-PER
+teoseid	O
+.	O

@@ -1,0 +1,49 @@
+하라	B-PER
+다카시	I-PER
+(	O
+原敬	O
+)	O
+
+캐나다	B-LOC
+브리티시컬럼비아	B-LOC
+주	I-LOC
+북부에서	O
+발원하여	O
+유콘	B-LOC
+준주로	I-LOC
+들어와	O
+화이트호스를	B-LOC
+지난	O
+후	O
+서북부	O
+방향으로	O
+흐른다	O
+.	O
+
+알프스	B-LOC
+산맥을	I-LOC
+넘는	O
+중요한	O
+교통로에	O
+있어	O
+오래전부터	O
+발달하였다	O
+.	O
+
+이러한	O
+구조는	O
+명령어	B-ORG
+파이프라인	I-ORG
+효율성을	O
+떨어뜨렸다	O
+.	O
+
+이치카와	B-PER
+유이	I-PER
+-	O
+아르바이트생	O
+
+조치	B-ORG
+대학교	I-ORG
+국제학부	O
+졸업	O

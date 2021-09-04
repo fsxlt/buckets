@@ -1,0 +1,124 @@
+150px	O
+''	O
+Sacramento	B-ORG
+Monarchs	I-ORG
+''	O
+'	O
+''	O
+'	O
+(	O
+1º	O
+titolo	O
+)	O
+'	O
+''	O
+
+Alex	B-PER
+Tagliani	I-PER
+(	O
+)	O
+(	O
+R-Sports	O
+)	O
+a	O
+6	O
+''	O
+179	O
+
+Proposta	O
+di	O
+fusione	O
+tra	O
+Gemmano	B-LOC
+e	O
+Morciano	B-LOC
+di	I-LOC
+Romagna	I-LOC
+,	O
+8.188	O
+abitanti	O
+
+Pezzi	B-ORG
+lirici	I-ORG
+''	O
+,	O
+op	O
+.	O
+
+Fu	O
+estratta	O
+come	O
+primo	O
+singolo	O
+dall'album	O
+Down	B-ORG
+to	I-ORG
+Earth	I-ORG
+''	O
+
+Bethel	B-LOC
+-	O
+città	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Sullivan	I-LOC
+,	O
+New	B-LOC
+York	I-LOC
+
+Jamie	B-PER
+Delgado	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+20px	O
+A.S.	B-LOC
+Terenziana	I-LOC
+A.MO.CO	I-LOC
+,	I-LOC
+Staranzano	I-LOC
+
+'	O
+''	O
+Zone	B-LOC
+di	I-LOC
+occupazione	I-LOC
+della	I-LOC
+Germania	I-LOC
+''	O
+'	O
+
+Alyson	B-PER
+Michalka	I-PER
+,	O
+John	B-PER
+Cena	I-PER
+,	O
+Kerr	B-PER
+Smith	I-PER
+
+Per	O
+esempio	O
+,	O
+Magda	B-PER
+Goebbels	I-PER
+fumò	O
+anche	O
+quando	O
+venne	O
+intervistata	O
+da	O
+un	O
+giornalista	O
+.	O
+
+National	B-ORG
+Gallery	I-ORG
+of	I-ORG
+Australia	I-ORG
+a	O
+Canberra	B-LOC

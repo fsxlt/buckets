@@ -1,0 +1,77 @@
+تغییر_مسیر	O
+بوکس	B-ORG
+در	I-ORG
+بازی‌های	I-ORG
+المپیک	I-ORG
+تابستانی	I-ORG
+۲۰۰۰	I-ORG
+
+تغییرمسیر	O
+منصور	B-PER
+بن	I-PER
+زاید	I-PER
+آل	I-PER
+نهیان	I-PER
+
+**	O
+زنبورخوار	B-LOC
+دم‌آبی	I-LOC
+,	O
+''Merops	O
+philippinus	O
+''	O
+
+تغییر_مسیر	O
+جرج	B-PER
+دابلیو	I-PER
+بوش	I-PER
+
+حجاج	B-PER
+بن	I-PER
+یوسف	I-PER
+
+تغییرمسیر	O
+تالار	B-ORG
+کنسرت	I-ORG
+والت	I-ORG
+دیزنی	I-ORG
+
+تغییرمسیر	O
+لی	B-PER
+سی.	I-PER
+تنگ	I-PER
+
+'	O
+''	O
+۲ث-پی	O
+''	O
+'	O
+با	O
+فرمول	B-LOC
+شیمیایی	I-LOC
+C۱۳H۲۱NO۲	O
+یک	O
+ترکیب	B-LOC
+شیمیایی	I-LOC
+است	O
+.	O
+
+تغییرمسیر	O
+سوسکچه‌های	B-LOC
+نخستین	I-LOC
+اسفینکتوبلوس	I-LOC
+
+اتحادیه	B-ORG
+ملی	I-ORG
+بسکتبال	I-ORG
+زنان	I-ORG
+
+تغییرمسیر	O
+دراج	B-LOC
+رود	I-LOC
+نارنجی	I-LOC
+
+تغییرمسیر	O
+دانشگاه	B-ORG
+ایالتی	I-ORG
+آرکانزاس	I-ORG

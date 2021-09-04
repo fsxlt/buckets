@@ -1,0 +1,15 @@
+تحويل	O
+كونتريفو	B-LOC
+(	I-LOC
+أين	I-LOC
+)	I-LOC
+
+تحويل	O
+السنة	B-ORG
+الدولية	I-ORG
+للطفل	I-ORG
+
+نونو	B-PER
+ألفاريز	I-PER
+بيريرا	I-PER
+.	O

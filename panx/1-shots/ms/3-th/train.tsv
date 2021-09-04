@@ -1,0 +1,24 @@
+Parti	B-ORG
+Kebangsaan	I-ORG
+Sarawak	I-ORG
+(	O
+SNAP	O
+)	O
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haut-Rhin	I-LOC
+
+Jaclyn	B-PER
+Victor	I-PER
+–	O
+''Jagalah	O
+Diri	O
+''	O

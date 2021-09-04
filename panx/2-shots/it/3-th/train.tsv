@@ -1,0 +1,53 @@
+Origo	B-LOC
+gentis	I-LOC
+Langobardorum	I-LOC
+''	O
+,	O
+ed	O
+.	O
+
+:18ª	O
+tappa	O
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+(	O
+Torino	B-LOC
+>	O
+Grenoble	B-LOC
+)	O
+
+'	O
+''	O
+Alfonso	B-PER
+II	I-PER
+d'Aragona	I-PER
+''	O
+'	O
+(	O
+1448-1495	O
+)	O
+-	O
+re	B-LOC
+di	I-LOC
+Napoli	I-LOC
+
+Partito	B-ORG
+Liberale	I-ORG
+Italiano	I-ORG
+(	O
+PLI	O
+)	O
+
+Andrej	B-PER
+Golubev	I-PER
+ha	O
+battuto	O
+in	O
+finale	O
+Jürgen	B-PER
+Melzer	I-PER
+6-3	O
+,	O
+7-5	O
+.	O

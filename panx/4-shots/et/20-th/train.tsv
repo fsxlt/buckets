@@ -1,0 +1,110 @@
+Venemaa	B-ORG
+Föderatsiooni	I-ORG
+Relvajõudude	I-ORG
+Kindralstaabi	I-ORG
+Sõjaväeakadeemia	I-ORG
+
+Maarja	B-PER
+Kangro	I-PER
+,	O
+tõlkija	O
+ja	O
+luuletaja	O
+
+Märjamaa	B-LOC
+vald	I-LOC
+,	O
+Rapla	B-LOC
+maakond	I-LOC
+
+``	O
+–	O
+Tallinna	B-ORG
+Pedagoogikaülikooli	I-ORG
+toimetised	O
+.	O
+
+aastal	O
+eraldus	O
+Portugali	B-ORG
+kuningriik	I-ORG
+Leóni	B-LOC
+kuningriigist	I-LOC
+.	O
+
+Sel	O
+juhul	O
+pügatakse	O
+neid	O
+kas	O
+põõsa-	O
+või	O
+püramiidikujuliseks	B-ORG
+.	O
+
+Venemaal	B-LOC
+moodustati	O
+Tšita	B-LOC
+oblasti	I-LOC
+ja	O
+Aga	B-LOC
+Burjaadi	I-LOC
+autonoomse	I-LOC
+ringkonna	I-LOC
+liitmisel	O
+Taga-Baikali	B-LOC
+krai	I-LOC
+.	O
+
+Kernu	B-LOC
+vald	I-LOC
+,	O
+Harju	B-LOC
+maakond	I-LOC
+
+Veljo	B-PER
+Tormis	I-PER
+on	O
+tema	O
+õepoeg	O
+.	O
+
+Aristoteles	B-PER
+nimetab	O
+erinevuseks	O
+``	O
+asjade	O
+teisitiolekut	O
+''	O
+(	O
+Met	O
+.	O
+
+Kristen	B-PER
+Viikmäe	I-PER
+'	O
+''	O
+(	O
+16	O
+)	O
+'	O
+''	O
+
+Peaministriks	O
+sai	O
+ta	O
+pärast	O
+Milo	B-PER
+Đukanovići	I-PER
+tagasiastumist	O
+viimase	O
+soovitusel	O
+.	O
+
+NSV	B-ORG
+Liidu	I-ORG
+Siseasjade	I-ORG
+Rahvakomissariaadi	I-ORG
+Riikliku	I-ORG
+Julgeoleku	I-ORG
+Peavalitsus	I-ORG

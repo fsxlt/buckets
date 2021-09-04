@@ -1,0 +1,47 @@
+Dit	O
+was	O
+het	O
+begin	O
+van	O
+de	O
+Grieks-Turkse	B-ORG
+Oorlog	I-ORG
+.	O
+
+Macedonië	B-LOC
+(	I-LOC
+Griekenland	I-LOC
+)	I-LOC
+
+Museum	B-ORG
+Boijmans	I-ORG
+Van	I-ORG
+Beuningen	I-ORG
+(	O
+Rotterdam	B-LOC
+)	O
+
+José	B-PER
+Luis	I-PER
+Arrieta	I-PER
+verloor	O
+uiteindelijk	O
+een	O
+kleine	O
+minuut	O
+.	O
+
+*International	O
+album	O
+–	O
+Kylie	B-PER
+Minogue	I-PER
+–	O
+Fever	B-ORG
+''	O
+
+Lijst	B-LOC
+van	I-LOC
+gemeenten	I-LOC
+in	I-LOC
+Zuid-Tirol	I-LOC

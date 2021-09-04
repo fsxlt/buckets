@@ -1,0 +1,62 @@
+;	O
+港	B-ORG
+鐵	I-ORG
+
+龔	B-PER
+嘉	I-PER
+欣	I-PER
+（	O
+青	O
+年	O
+）	O
+
+#	O
+（	O
+練	B-LOC
+馬	I-LOC
+區	I-LOC
+：	O
+朝	O
+霞	O
+駐	O
+屯	O
+地	O
+）	O
+
+克	B-ORG
+里	I-ORG
+夫	I-ORG
+兰	I-ORG
+骑	I-ORG
+士	I-ORG
+（	O
+6	O
+）	O
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+大	B-LOC
+角	I-LOC
+羊	I-LOC
+
+關	B-PER
+智	I-PER
+斌	I-PER
+、	O
+吳	B-PER
+浩	I-PER
+康	I-PER
+、	O
+泳	O
+兒	O
+、	O
+鍾	B-PER
+舒	I-PER
+漫	I-PER

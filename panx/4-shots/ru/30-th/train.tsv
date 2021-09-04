@@ -1,0 +1,99 @@
+Печатался	O
+в	O
+журнале	O
+Юность	B-ORG
+,	O
+Литературной	B-ORG
+газете	I-ORG
+и	O
+др	O
+.	O
+
+Даймондвилл	B-LOC
+(	I-LOC
+Вайоминг	I-LOC
+)	I-LOC
+
+Ногайский	B-LOC
+район	I-LOC
+(	I-LOC
+Карачаево-Черкесия	I-LOC
+)	I-LOC
+
+''Як-Яун	O
+''	O
+)	O
+—	O
+река	O
+в	O
+России	B-LOC
+,	O
+протекает	O
+по	O
+территории	O
+Сургутского	B-LOC
+района	I-LOC
+Ханты-Мансийского	B-LOC
+автономного	I-LOC
+округа	I-LOC
+.	O
+
+В	O
+возрасте	O
+двух	O
+лет	O
+девочка	O
+переехала	O
+с	O
+семьей	O
+в	O
+Неаполь	B-LOC
+.	O
+
+``	O
+Hello	B-ORG
+,	I-ORG
+Goodbye	I-ORG
+''	O
+
+Hello	B-ORG
+Pro	I-ORG
+Kenshusei	I-ORG
+
+Накамура	B-PER
+,	I-PER
+Котаро	I-PER
+
+Карлин	B-PER
+,	I-PER
+Александр	I-PER
+Богданович	I-PER
+(	O
+род	O
+.	O
+
+На	O
+саммите	O
+планируется	O
+утвердить	O
+программу	O
+Восточное	B-ORG
+партнёрство	I-ORG
+.	O
+
+Бестлайн	B-PER
+,	I-PER
+Бернхард	I-PER
+
+Червен	B-LOC
+Бряг	I-LOC
+,	O
+Болгария	B-LOC
+
+Уэнди	B-PER
+О.	I-PER
+Уильямс	I-PER
+—	O
+'	O
+''	O
+'	O

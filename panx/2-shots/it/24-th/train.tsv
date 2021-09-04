@@ -1,0 +1,36 @@
+Oblast	B-LOC
+'	I-LOC
+di	I-LOC
+Belgorod	I-LOC
+
+Regione	B-LOC
+di	I-LOC
+Shinyanga	I-LOC
+
+Jimmy	B-PER
+Connors	I-PER
+''	O
+(	O
+Terzo	O
+turno	O
+)	O
+
+È	O
+considerata	O
+patrona	O
+Ordine	B-ORG
+francescano	I-ORG
+secolare	I-ORG
+di	O
+Roma	B-LOC
+.	O
+
+Desorbimento	B-ORG
+a	I-ORG
+plasma	I-ORG
+
+Bob	B-PER
+Pettit	I-PER
+(	O
+4	O
+)	O

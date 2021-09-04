@@ -1,0 +1,53 @@
+'	O
+''	O
+Lewis	B-PER
+Hamilton	I-PER
+''	O
+'	O
+
+Uckermark	B-LOC
+,	O
+Prenzlau	B-LOC
+(	O
+UM	O
+)	O
+
+Die	O
+dorp	O
+is	O
+in	O
+die	O
+Dr.	B-LOC
+J.S.	I-LOC
+Moroka	I-LOC
+Plaaslike	I-LOC
+Munisipaliteit	I-LOC
+geleë	O
+wat	O
+onder	O
+die	O
+Nkangala-distriksmunisipaliteit	B-LOC
+ressorteer	O
+.	O
+
+AANSTUUR	O
+Hongaarse	B-ORG
+Sosialistiese	I-ORG
+Party	I-ORG
+
+Pous	B-PER
+Pius	I-PER
+IV	I-PER
+(	O
+1559–1565	O
+)	O
+
+AANSTUUR	O
+Apple	B-ORG
+Inc	I-ORG
+.	I-ORG
+
+Aude	B-LOC
+(	I-LOC
+departement	I-LOC
+)	I-LOC

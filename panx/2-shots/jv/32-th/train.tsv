@@ -1,0 +1,36 @@
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+Mayu	B-PER
+Watanabe	I-PER
+(	O
+渡辺	O
+麻友	O
+)	O
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC

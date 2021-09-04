@@ -1,0 +1,22 @@
+Aubert	B-PER
+d'Avranches	I-PER
+(	O
+?	O
+
+Forges	B-ORG
+de	I-ORG
+la	I-ORG
+Providence	I-ORG
+
+REDIRECTION	O
+Hatohobei	B-LOC
+(	I-LOC
+île	I-LOC
+)	I-LOC
+
+**	O
+Patton	B-PER
+entre	O
+à	O
+Vannes	B-LOC
+;	O

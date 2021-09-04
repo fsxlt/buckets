@@ -1,0 +1,22 @@
+Biblioteca	B-ORG
+del	I-ORG
+Congreso	I-ORG
+de	I-ORG
+Estados	I-ORG
+Unidos	I-ORG
+
+Nació	O
+en	O
+Karagandá	B-LOC
+,	O
+en	O
+la	O
+RSS	B-LOC
+de	I-LOC
+Kazajistán	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Ana	B-PER
+Catalina	I-PER
+Emmerick	I-PER

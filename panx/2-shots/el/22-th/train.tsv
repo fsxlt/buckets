@@ -1,0 +1,34 @@
+Τσαρλς	B-PER
+Γκμέλιν	I-PER
+Μεγάλη	B-LOC
+Βρετανία	I-LOC
+(	O
+GBR	O
+)	O
+
+Λούντβιχ	B-PER
+φον	I-PER
+Μίζες	I-PER
+(	O
+Ludwig	O
+von	O
+Mises	O
+)	O
+===	O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Επαρχία	B-LOC
+της	I-LOC
+Σεγόβια	I-LOC
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Πρωτάθλημα	B-ORG
+Ελλάδας	I-ORG
+ποδοσφαίρου	I-ORG
+ανδρών	I-ORG
+
+Σπόρτινγκ	B-ORG
+Λισαβόνας	I-ORG
+(	O
+Πορτογαλία	B-LOC
+)	O

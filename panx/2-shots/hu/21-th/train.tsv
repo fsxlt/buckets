@@ -1,0 +1,62 @@
+Assisi	B-PER
+Szent	I-PER
+Ferenc	I-PER
+tiszteletére	O
+szentelt	O
+temploma	O
+nagyon	O
+régi	O
+.	O
+
+Buffalóban	B-LOC
+(	O
+New	B-LOC
+York	I-LOC
+)	O
+telepedett	O
+le	O
+.	O
+
+Az	O
+eseményt	O
+Menandrosz	B-PER
+Protektor	I-PER
+írta	O
+le	O
+részletesene	O
+.	O
+
+There’s	B-ORG
+a	I-ORG
+Riot	I-ORG
+Goin’	I-ORG
+On	I-ORG
+
+Tromsø	B-ORG
+IL	I-ORG
+(	O
+4,375	O
+)	O
+
+Lucera	B-LOC
+városától	O
+nyugatra	O
+,	O
+a	O
+Dauniai-szubappenninek	B-LOC
+területén	O
+fekszik	O
+,	O
+Puglia	B-LOC
+és	O
+Basilicata	B-LOC
+határán	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Prado	B-LOC
+(	I-LOC
+Kasztília	I-LOC
+és	I-LOC
+León	I-LOC
+)	I-LOC

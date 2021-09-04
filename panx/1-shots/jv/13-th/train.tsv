@@ -1,0 +1,17 @@
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O

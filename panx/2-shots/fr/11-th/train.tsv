@@ -1,0 +1,40 @@
+REDIRECTION	O
+Vraneši	B-LOC
+(	I-LOC
+Goražde	I-LOC
+)	I-LOC
+
+Ladislas	B-PER
+Ier	I-PER
+de	I-PER
+Bohême	I-PER
+
+Sernaglia	B-LOC
+della	I-LOC
+Battaglia	I-LOC
+
+Son	O
+chef	O
+,	O
+François	B-PER
+Legault	I-PER
+,	O
+le	O
+rabroue	O
+.	O
+
+Chambre	B-ORG
+des	I-ORG
+représentants	I-ORG
+d'Australie	I-ORG
+
+Glee	B-ORG
+:	I-ORG
+The	I-ORG
+Music	I-ORG
+,	I-ORG
+Volume	I-ORG
+3	I-ORG
+-	I-ORG
+Showstoppers	I-ORG
+''	O

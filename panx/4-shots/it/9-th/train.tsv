@@ -1,0 +1,87 @@
+Distretti	B-LOC
+del	I-LOC
+Madagascar	I-LOC
+
+RINVIA	O
+Saint-Léger	B-LOC
+(	I-LOC
+Nord-Passo	I-LOC
+di	I-LOC
+Calais	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Julija	B-PER
+Putinceva	I-PER
+(	O
+Campionessa	O
+)	O
+'	O
+''	O
+
+William	B-PER
+Lyon	I-PER
+Mackenzie	I-PER
+King	I-PER
+
+Paula	B-PER
+Garcés	I-PER
+in	O
+Devious	B-ORG
+Maids	I-ORG
+-	I-ORG
+Panni	I-ORG
+sporchi	I-ORG
+a	I-ORG
+Beverly	I-ORG
+Hills	I-ORG
+''	O
+
+La	B-ORG
+rivincita	I-ORG
+dei	I-ORG
+nerds	I-ORG
+IV	I-ORG
+
+==	O
+Irish	B-ORG
+Film	I-ORG
+and	I-ORG
+Television	I-ORG
+Award	I-ORG
+==	O
+
+'	O
+''	O
+Stowe	B-LOC
+''	O
+'	O
+-	O
+città	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Lamoille	I-LOC
+,	O
+Vermont	B-LOC
+
+Chiesa	B-ORG
+di	I-ORG
+Saint-Germain	I-ORG
+d'Auxerre	I-ORG
+,	O
+Auxerre	B-LOC
+
+'	O
+''	O
+Rik	B-PER
+Van	I-PER
+Steenbergen	I-PER
+''	O
+'	O
+
+Freyburg	B-LOC
+(	I-LOC
+Unstrut	I-LOC
+)	I-LOC

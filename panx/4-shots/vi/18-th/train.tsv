@@ -1,0 +1,85 @@
+Nước	B-ORG
+cốt	I-ORG
+dừa	I-ORG
+
+Tuyết	B-ORG
+có	I-ORG
+rơi	I-ORG
+đêm	I-ORG
+Giáng	I-ORG
+sinh	I-ORG
+''	O
+
+Raúl	B-PER
+''	O
+(	O
+Schalke	B-ORG
+04	I-ORG
+)	O
+''	O
+
+Tokugawa	B-PER
+Iesada	I-PER
+(	O
+家祥→家定	O
+)	O
+
+Datsakorn	B-PER
+Thonglao	I-PER
+(	O
+Hoàng	B-ORG
+Anh	I-ORG
+Gia	I-ORG
+Lai	I-ORG
+)	O
+
+Kappa	B-PER
+(	I-PER
+sinh	I-PER
+vật	I-PER
+truyền	I-PER
+thuyết	I-PER
+)	I-PER
+
+***	O
+''	O
+Pollex	B-LOC
+jurivetei	I-LOC
+''	O
+Fibiger	O
+,	O
+2007	O
+
+đổi	O
+Cá	B-LOC
+đuối	I-LOC
+ma	I-LOC
+
+Sân	B-LOC
+vận	I-LOC
+động	I-LOC
+Thống	I-LOC
+Nhất	I-LOC
+
+'	O
+''	O
+Tony	B-PER
+Bennett	I-PER
+''	O
+'	O
+-	O
+''Rags	O
+To	O
+Riches	O
+''	O
+
+*Huyện	O
+Độc	B-LOC
+Sơn	I-LOC
+(	O
+独山县	O
+,	O
+''Dúshān	O
+Xiàn	O
+''	O
+)	O

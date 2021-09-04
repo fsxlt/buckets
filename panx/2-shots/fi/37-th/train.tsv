@@ -1,0 +1,46 @@
+Joukkueen	O
+kasvateista	O
+NHL	B-ORG
+:	I-ORG
+ssä	I-ORG
+ovat	O
+pelanneet	O
+Oliver	B-PER
+Ekman-Larsson	I-PER
+ja	O
+Kjell	B-PER
+Samuelsson	I-PER
+.	O
+
+OHJAUS	O
+Islands	B-LOC
+of	I-LOC
+Adventure	I-LOC
+
+Rakennuksen	O
+sisustuksessa	O
+näkyy	O
+ainakin	O
+Giorgio	B-PER
+Armanin	I-PER
+kädenjälki	O
+.	O
+
+HackerDojo	O
+,	O
+San	B-LOC
+Franciscon	I-LOC
+lahden	I-LOC
+ympäristö	I-LOC
+,	O
+Kalifornia	B-LOC
+
+''	O
+The	B-ORG
+Winner	I-ORG
+Takes	I-ORG
+It	I-ORG
+All	I-ORG
+''	O
+–	O
+4:55	O

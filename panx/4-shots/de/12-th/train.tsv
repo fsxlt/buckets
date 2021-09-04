@@ -1,0 +1,133 @@
+Seit	O
+Innozenz	B-PER
+X	I-PER
+.	I-PER
+gingen	O
+die	O
+politischen	O
+Funktionen	O
+ab	O
+1644	O
+allmählich	O
+auf	O
+den	O
+Kardinalstaatssekretär	B-PER
+über	O
+.	O
+
+Seit	O
+2005	O
+entstehen	O
+ausserdem	O
+rund	O
+ein	O
+Dutzend	O
+Hörbücher	O
+in	O
+Zusammenarbeit	O
+mit	O
+Schweizer	B-LOC
+Radio	I-LOC
+DRS	I-LOC
+.	O
+
+In	O
+ihrem	O
+vierten	O
+Bundesligaspiel	O
+,	O
+der	O
+Heimpartie	O
+gegen	O
+den	O
+BV	B-ORG
+Cloppenburg	I-ORG
+am	O
+8	O
+.	O
+
+Der	O
+Super-G	O
+wurde	O
+in	O
+Gröden	B-LOC
+ausgetragen	O
+.	O
+
+===	O
+Konsularische	O
+Vertretungen	O
+in	O
+der	O
+Woiwodschaft	B-LOC
+Lublin	I-LOC
+===	O
+
+Zyprische	B-ORG
+Fußballnationalmannschaft	I-ORG
+der	I-ORG
+Frauen	I-ORG
+
+Piazza	B-LOC
+al	I-LOC
+Serchio	I-LOC
+
+Dennoch	O
+gab	O
+es	O
+Karosseriebauer	O
+,	O
+die	O
+besonders	O
+häufig	O
+von	O
+Rolls-Royce-Kunden	O
+ausgewählt	O
+wurden	O
+,	O
+wie	O
+beispielsweise	O
+Hooper	B-PER
+&	I-PER
+Co.	I-PER
+Coachbuilders	I-PER
+,	O
+Park	B-ORG
+Ward	I-ORG
+,	O
+und	O
+Mulliner	B-PER
+.	O
+
+Filmliste	O
+bei	O
+La	B-ORG
+Repubblica	I-ORG
+
+Jarra	B-LOC
+East	I-LOC
+,	O
+Lower	B-LOC
+River	I-LOC
+Region	I-LOC
+
+Wilhelm	B-PER
+Hyacinth	I-PER
+(	I-PER
+Nassau-Siegen	I-PER
+)	I-PER
+
+Johann	B-PER
+Baptist	I-PER
+und	O
+Dominikus	B-PER
+Zimmermann	I-PER
+
+Alle	O
+Runden	O
+werden	O
+zentral	O
+in	O
+Birmingham	B-LOC
+ausgerichtet	O
+.	O

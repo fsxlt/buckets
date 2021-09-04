@@ -1,0 +1,22 @@
+George	B-PER
+Harrison	I-PER
+–	O
+guitar	O
+lead	O
+,	O
+hát	O
+nền	O
+.	O
+
+Bochnia	B-LOC
+,	O
+Ba	B-LOC
+Lan	I-LOC
+
+''Stars	B-ORG
+and	I-ORG
+Stripes	I-ORG
+''	I-ORG
+(	I-ORG
+báo	I-ORG
+)	I-ORG

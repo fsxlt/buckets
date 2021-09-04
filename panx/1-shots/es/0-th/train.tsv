@@ -1,0 +1,17 @@
+Diablos	B-ORG
+Rojos	I-ORG
+del	I-ORG
+México	I-ORG
+.	O
+
+Kagan	B-PER
+,	I-PER
+Donald	I-PER
+.	O
+
+Parroquia	B-LOC
+de	I-LOC
+St.	I-LOC
+Charles	I-LOC
+-	O
+sureste	O

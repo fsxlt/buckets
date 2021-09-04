@@ -1,0 +1,46 @@
+Legalább	O
+két	O
+szerkesztő	O
+tagja	O
+az	O
+Eszperantó	B-ORG
+Akadémiának	I-ORG
+.	O
+
+Az	O
+egyszerűbb	O
+szerkesztők	O
+,	O
+mint	O
+a	O
+Jegyzettömb	B-PER
+,	O
+nem	O
+különböztetik	O
+meg	O
+az	O
+'	O
+''	O
+Új	O
+sor	O
+''	O
+'t	O
+az	O
+'	O
+''	O
+Új	O
+bekezdés	O
+''	O
+'től	O
+.	O
+
+Porto	B-LOC
+Alegre	I-LOC
+város	O
+Brazíliában	B-LOC
+
+Habsburg–Estei	B-PER
+Mária	I-PER
+Ludovika	I-PER
+magyar	I-PER
+királyné	I-PER

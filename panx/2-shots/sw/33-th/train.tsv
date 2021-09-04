@@ -1,0 +1,29 @@
+Karl	B-PER
+Friedrich	I-PER
+Benz	I-PER
+
+San	B-LOC
+Jose	I-LOC
+,	I-LOC
+California	I-LOC
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25214	O
+
+Mehmed	B-PER
+II	I-PER
+''	O
+Mshindi	O
+''	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Tübingen	I-ORG
+
+Kanisa	B-ORG
+la	I-ORG
+Moravian	I-ORG

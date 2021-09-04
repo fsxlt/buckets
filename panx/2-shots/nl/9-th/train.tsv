@@ -1,0 +1,42 @@
+Titelverdediger	O
+was	O
+FC	B-ORG
+Twente	I-ORG
+.	O
+
+Madison	B-LOC
+Heights	I-LOC
+(	I-LOC
+Michigan	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Raymond	B-PER
+van	I-PER
+Barneveld	I-PER
+''	O
+'	O
+
+Koninklijke	B-ORG
+DSM	I-ORG
+NV	I-ORG
+
+'	O
+''	O
+Rick	B-PER
+Leach	I-PER
+''	O
+'	O
+'	O
+''	O
+Jim	B-PER
+Pugh	I-PER
+''	O
+'	O
+
+San	B-LOC
+Jose	I-LOC
+(	I-LOC
+Californië	I-LOC
+)	I-LOC

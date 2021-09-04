@@ -1,0 +1,21 @@
+da	O
+Briga	B-LOC
+Marittima	I-LOC
+a	O
+Triora	B-LOC
+
+'	O
+''	O
+Frederik	B-PER
+Van	I-PER
+Lierde	I-PER
+''	O
+'	O
+
+Discipline	B-ORG
+:	I-ORG
+The	I-ORG
+Record	I-ORG
+of	I-ORG
+a	I-ORG
+Crusade	I-ORG

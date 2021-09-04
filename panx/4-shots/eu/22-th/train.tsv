@@ -1,0 +1,139 @@
+Cuneoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+Shandong	B-LOC
+probintziaren	I-LOC
+banaketa	I-LOC
+administratiboa	I-LOC
+
+Mugako	O
+egoera	O
+,	O
+zehaztezin	O
+bihurtuko	O
+zen	O
+denbora	O
+batez	O
+,	O
+baina	O
+Intefek	O
+,	O
+Mentuhotep	B-PER
+II.ak	I-PER
+aurrera	O
+eramango	O
+zuen	O
+behin	O
+betiko	O
+erasoaren	O
+oinarriak	O
+jarri	O
+zituen	O
+.	O
+
+Demi	B-PER
+Moore	I-PER
+,	O
+Viggo	B-PER
+Mortensen	I-PER
+eta	O
+Anne	B-PER
+Bancroft	I-PER
+aktoreek	O
+antzeztu	O
+zuten	O
+.	O
+
+L'Aquilako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Abruzzo	B-LOC
+eskualdean	O
+.	O
+
+Mickey	B-PER
+Rooney	I-PER
+,	O
+Yunioshi	O
+anderea	O
+
+Talde	O
+batzuk	O
+(	O
+Negu	B-ORG
+Gorriak	I-ORG
+)	O
+diskoan	O
+bere	O
+debuta	O
+egin	O
+zutenak	O
+.	O
+
+2.	B-ORG
+linea	I-ORG
+(	I-ORG
+Bilboko	I-ORG
+metroa	I-ORG
+)	I-ORG
+
+UPN	B-ORG
+izan	O
+zen	O
+bozkatuena	O
+,	O
+eta	O
+zinegotzi	O
+bat	O
+gehiago	O
+eskuratu	O
+zuen	O
+(	O
+sei	O
+guztira	O
+)	O
+.	O
+
+BIRZUZENDU	O
+Michigan	B-LOC
+(	I-LOC
+aintzira	I-LOC
+)	I-LOC
+
+Administratiboki	O
+Frantziako	B-LOC
+Dordoina	B-LOC
+departamenduan	O
+dago	O
+,	O
+Akitania-Limousin-Poitou-Charentes	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Andrés	B-PER
+Oliva	I-PER
+''	O
+'	O
+
+Aviron	B-ORG
+Bayonnais	I-ORG
+taldean	O
+jokatu	O
+zuen	O
+.	O
+
+BIRZUZENDU	O
+Abraj	B-ORG
+Al	I-ORG
+Bait	I-ORG
+dorreak	I-ORG

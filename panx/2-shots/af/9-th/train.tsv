@@ -1,0 +1,65 @@
+Oppad	O
+na	O
+die	O
+titel	O
+is	O
+daar	O
+met	O
+die	O
+Bundesligaklubs	B-ORG
+BV	B-ORG
+Borussia	I-ORG
+Dortmund	I-ORG
+,	O
+VfL	B-ORG
+Bochum	I-ORG
+,	O
+Karlsruher	B-ORG
+SC	I-ORG
+,	O
+SV	B-ORG
+Werder	I-ORG
+Bremen	I-ORG
+en	O
+VfL	B-ORG
+Borussia	I-ORG
+Mönchengladbach	I-ORG
+afgereken	O
+.	O
+
+Pitirim	B-PER
+van	I-PER
+Kroetitsi	I-PER
+(	O
+locum	O
+tenens	O
+;	O
+1658-1667	O
+)	O
+
+'	O
+''	O
+Hoofstad	B-LOC
+''	O
+'	O
+
+AANSTUUR	O
+Serwië	B-ORG
+en	I-ORG
+Montenegro	I-ORG
+
+'	O
+''	O
+Daniil	B-PER
+Kvyat	I-PER
+''	O
+'	O
+
+Malmesbury	B-LOC
+,	I-LOC
+Wes-Kaap	I-LOC
+
+Michigan	B-LOC
+City	I-LOC
+,	I-LOC
+IN	I-LOC

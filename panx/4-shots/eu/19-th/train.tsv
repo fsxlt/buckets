@@ -1,0 +1,83 @@
+Gerra-garaiko	O
+egoerak	O
+eta	O
+beharrek	O
+gerra-politika	O
+egitera	O
+eraman	O
+zuten	O
+Eusko	B-ORG
+Jaurlaritza	I-ORG
+.	O
+
+'	O
+''	O
+Alejandro	B-PER
+Valverde	I-PER
+''	O
+'	O
+
+Tarentoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Apulia	B-LOC
+eskualdean	O
+.	O
+
+Pepin	B-PER
+Laburra	I-PER
+,	O
+741–751	O
+
+BIRZUZENDU	O
+Juvigny	B-LOC
+(	I-LOC
+Savoia	I-LOC
+Garaia	I-LOC
+)	I-LOC
+
+**	O
+Itsas	B-LOC
+Sena	I-LOC
+(	O
+76	O
+)	O
+
+BIRZUZENDU	O
+Unión	B-ORG
+del	I-ORG
+Pueblo	I-ORG
+Navarro	I-ORG
+
+BIRZUZENDU	O
+Camilo	B-PER
+Torres	I-PER
+Restrepo	I-PER
+
+3	O
+etapa	O
+1952ko	B-ORG
+Italiako	I-ORG
+Giroan	I-ORG
+
+Mario	B-PER
+De	I-PER
+Clercq	I-PER
+(	O
+Belgika	B-LOC
+)	O
+
+'	O
+''	O
+Cardiff	B-ORG
+Blues	I-ORG
+''	O
+'	O
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC

@@ -1,0 +1,52 @@
+**	O
+France	B-ORG
+Médias	I-ORG
+Monde	I-ORG
+.	O
+
+en	O
+Afrique	B-LOC
+du	I-LOC
+Sud	I-LOC
+;	O
+
+REDIRECTION	O
+Högsby	B-LOC
+(	I-LOC
+commune	I-LOC
+)	I-LOC
+
+Matt	B-PER
+Welsh	I-PER
+Brenton	B-PER
+Rickard	I-PER
+Andrew	B-PER
+Lauterstein	I-PER
+Eamon	B-PER
+Sullivan	I-PER
+
+En	O
+double	O
+,	O
+Max	B-PER
+Mirnyi	I-PER
+et	O
+Daniel	B-PER
+Nestor	I-PER
+s'imposent	O
+en	O
+finale	O
+face	O
+à	O
+Bob	B-PER
+Bryan	I-PER
+et	O
+Mike	B-PER
+Bryan	I-PER
+.	O
+
+Conseil	B-ORG
+européen	I-ORG
+de	I-ORG
+recherches	I-ORG
+spatiales	I-ORG

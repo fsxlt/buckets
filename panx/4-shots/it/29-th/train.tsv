@@ -1,0 +1,122 @@
+Amanita	B-LOC
+ceciliae	I-LOC
+''	O
+20px	O
+
+Trasferitosi	O
+a	O
+Torino	B-LOC
+,	O
+divenne	O
+mazziniano	B-PER
+.	O
+
+Mara	B-PER
+Santangelo	I-PER
+/	O
+Paul	B-PER
+Hanley	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+'	O
+''	O
+Emma	B-PER
+Laine	I-PER
+Melanie	B-PER
+South	I-PER
+''	O
+'6–4	O
+,	O
+6–3	O
+
+Per	O
+la	O
+stagione	B-ORG
+2012-2013	I-ORG
+sceglie	O
+la	O
+maglia	O
+numero	O
+4	O
+,	O
+ereditandola	O
+dal	O
+partente	O
+Mark	B-PER
+van	I-PER
+Bommel	I-PER
+.	O
+
+Brigata	B-ORG
+alpina	I-ORG
+``	I-ORG
+Taurinense	I-ORG
+''	I-ORG
+
+Petr	B-PER
+Mach	I-PER
+(	O
+Partito	B-ORG
+dei	I-ORG
+Liberi	I-ORG
+Cittadini	I-ORG
+)	O
+(	O
+membro	O
+osservatore	O
+)	O
+
+RINVIA	O
+Náměšť	B-LOC
+nad	I-LOC
+Oslavou	I-LOC
+
+**	O
+'	O
+''	O
+Dipartimento	B-LOC
+di	I-LOC
+Sarmiento	I-LOC
+(	I-LOC
+Chubut	I-LOC
+)	I-LOC
+''	O
+'	O
+
+E	O
+'vicino	O
+al	O
+villaggio	O
+di	O
+Kumarbandh	O
+Belpahar-Banharpali	O
+che	O
+dista	O
+circa	O
+90	O
+km	O
+da	O
+Sambalpur	B-LOC
+.	O
+
+26.03	O
+Blooming	B-ORG
+Santa	B-LOC
+Cruz	I-LOC
+de	I-LOC
+la	I-LOC
+Sierra	I-LOC
+-	O
+Emelec	B-ORG
+Guayaquil	B-LOC
+2:0	O
+
+Retrocessa	O
+in	O
+Serie	B-ORG
+B	I-ORG
+.	O

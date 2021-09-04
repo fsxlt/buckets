@@ -1,0 +1,50 @@
+'	O
+''	O
+Christiane	B-PER
+Taubira	I-PER
+''	O
+'	O
+
+redirection	O
+Championnat	B-ORG
+d'Espagne	I-ORG
+de	I-ORG
+football	I-ORG
+1929-1930	I-ORG
+
+'	O
+''	O
+Gérard	B-PER
+Schivardi	I-PER
+''	O
+'	O
+
+Ortisei	B-LOC
+/	I-LOC
+St.	I-LOC
+Ulrich	I-LOC
+in	I-LOC
+Gröden	I-LOC
+
+Elle	O
+est	O
+située	O
+dans	O
+les	O
+Territoires	B-LOC
+du	I-LOC
+Nord-Ouest	I-LOC
+.	O
+
+REDIRECTION	O
+Direction	B-ORG
+de	I-ORG
+la	I-ORG
+protection	I-ORG
+et	I-ORG
+de	I-ORG
+la	I-ORG
+sécurité	I-ORG
+de	I-ORG
+la	I-ORG
+Défense	I-ORG

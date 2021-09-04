@@ -1,0 +1,65 @@
+Omdat	O
+de	O
+laatste	O
+vlieggegevens	O
+waarover	O
+hij	O
+beschikt	O
+gunstig	O
+zijn	O
+beslist	O
+hij	O
+door	O
+te	O
+gaan	O
+met	O
+de	O
+vlucht	O
+boven	O
+de	O
+Libische	B-ORG
+Woestijn	I-ORG
+.	O
+
+DOORVERWIJZING	O
+Brazza	B-LOC
+'s	I-LOC
+zwaluw	I-LOC
+
+KPN]]	O
+schakelstation	O
+aan	O
+de	O
+Wijksestraat	O
+,	O
+op	O
+het	O
+Bloklandterrein	O
+,	O
+ten	O
+noordwesten	O
+van	O
+Wijk	B-LOC
+en	I-LOC
+Aalburg	I-LOC
+
+'	O
+''	O
+Tim	B-PER
+Henman	I-PER
+''	O
+'	O
+
+Kenn	B-PER
+'	I-PER
+''	I-PER
+Hansen	I-PER
+''	I-PER
+'	I-PER
+-	O
+
+3e	O
+etappe	O
+Ronde	B-ORG
+van	I-ORG
+Frankrijk	I-ORG

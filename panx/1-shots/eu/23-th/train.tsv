@@ -1,0 +1,17 @@
+Iñigo	B-PER
+Diaz	I-PER
+de	I-PER
+Cerio	I-PER
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Laboral	B-ORG
+Kutxa	I-ORG
+Baskonia	I-ORG
+(	O
+2014-	O
+)	O

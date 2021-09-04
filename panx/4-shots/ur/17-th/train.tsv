@@ -1,0 +1,95 @@
+رجوع_مکرر	O
+ایم	B-ORG
+2	I-ORG
+موٹروے	I-ORG
+(	I-ORG
+پاکستان	I-ORG
+)	I-ORG
+
+کولمبس	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+برتھالومیو	I-LOC
+کاؤنٹی،	I-LOC
+انڈیانا	I-LOC
+
+رجوع_مکرر	O
+مہاراجہ	B-PER
+رنجیت	I-PER
+سنگھ	I-PER
+
+رجوع_مکرر	O
+چؤ	B-LOC
+موئی	I-LOC
+ضلع،	I-LOC
+آن	I-LOC
+گیانگ	I-LOC
+
+رجوع_مکرر	O
+مڈل	B-LOC
+ٹاؤن،	I-LOC
+کاؤنٹی	I-LOC
+آرماہ	I-LOC
+
+رجوع_مکرر	O
+ونڈ	B-ORG
+روز	I-ORG
+ایوی	I-ORG
+ایشن	I-ORG
+
+رجوع_مکرر	O
+معاویہ	B-PER
+بن	I-PER
+ابو	I-PER
+سفیان	I-PER
+
+رجوع_مکرر	O
+احمد	B-ORG
+وال	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+راجپوت	B-ORG
+نگر	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+'	O
+''	O
+الواح	O
+''	O
+'،	O
+حضرت	B-PER
+موسیٰ	I-PER
+علیہ	I-PER
+السلام	I-PER
+پر	O
+جو	O
+تختیاں	O
+اتاری	O
+گئیں	O
+انھیں	O
+'	O
+''	O
+الواح	O
+''	O
+'	O
+کہتے	O
+ہیں۔	O
+اصطلاحٗ	O
+وہ	O
+تختیاں	O
+جن	O
+پر	O
+
+رجوع_مکرر	O
+گولر	B-PER
+ٹیل	I-PER
+بچر	I-PER
+
+جادۂ	B-LOC
+شِیر	I-LOC
+(	I-LOC
+milky	I-LOC
+way	I-LOC
+)	I-LOC

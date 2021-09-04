@@ -1,0 +1,42 @@
+Csongrád	B-LOC
+(	I-LOC
+wilaya	I-LOC
+)	I-LOC
+
+Alimfuata	O
+Papa	B-PER
+Formosus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Stefano	I-PER
+VI	I-PER
+.	O
+
+``	O
+I	B-ORG
+'m	I-ORG
+Sprung	I-ORG
+''	O
+
+Ross	B-PER
+,	I-PER
+Diana	I-PER
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39306	O
+.	O
+
+Do	B-ORG
+n't	I-ORG
+Stop	I-ORG
+'til	I-ORG
+You	I-ORG
+Get	I-ORG
+Enough	I-ORG
+-	O
+6:02	O

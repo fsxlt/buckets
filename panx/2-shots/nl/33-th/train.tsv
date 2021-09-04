@@ -1,0 +1,45 @@
+Men	O
+verloor	O
+er	O
+uiteindelijk	O
+van	O
+Club	B-ORG
+Brugge	I-ORG
+met	O
+3-3	O
+en	O
+4-5	O
+op	O
+strafschoppen	O
+.	O
+
+Louis	B-PER
+Van	I-PER
+Geyt	I-PER
+(	O
+KPB-PCB	O
+)	O
+
+Crocker	B-ORG
+(	I-ORG
+motorfiets	I-ORG
+)	I-ORG
+
+Sjuhalla	B-LOC
+och	I-LOC
+del	I-LOC
+av	I-LOC
+Vrängö	I-LOC
+
+Bad	B-LOC
+Münster	I-LOC
+am	I-LOC
+Stein-Ebernburg	I-LOC
+
+Dickinson	B-PER
+,	I-PER
+Emily	I-PER
+-	O
+''Gedichten	O
+''	O
+.	O

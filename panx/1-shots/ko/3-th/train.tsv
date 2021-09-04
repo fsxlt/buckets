@@ -1,0 +1,38 @@
+심봉다는	O
+2-1로	O
+승리한	O
+첼시와의	B-ORG
+경기에서	O
+프랭크	B-PER
+램퍼드의	I-PER
+과격한	O
+태클로	O
+무릎	O
+인대가	O
+손상되었다	O
+.	O
+
+성이	O
+파괴된	O
+자리에는	O
+원나라의	B-PER
+수도인	O
+대도	B-ORG
+(	O
+大都	O
+)	O
+가	O
+세워지게	O
+되었다	O
+.	O
+
+넘겨주기	O
+존	B-ORG
+레넌	I-ORG
+뮤지엄	I-ORG
+
+넘겨주기	O
+위	B-LOC
+(	I-LOC
+삼국	I-LOC
+)	I-LOC

@@ -1,0 +1,41 @@
+Owl	B-PER
+Eyes	I-PER
+–	O
+``	O
+Pumped	B-ORG
+Up	I-ORG
+Kicks	I-ORG
+''	O
+(	O
+Foster	B-ORG
+the	I-ORG
+People	I-ORG
+)	O
+
+Madison	B-ORG
+Township	I-ORG
+,	O
+Lac	B-LOC
+qui	I-LOC
+Parle	I-LOC
+County	I-LOC
+
+Lincoln	B-LOC
+'s	I-LOC
+sparrow	I-LOC
+,	O
+''Melospiza	O
+lincolnii	O
+''	O
+
+Pat	B-PER
+McAfee	I-PER
+–	O
+Also	O
+played	O
+soccer	B-ORG
+at	O
+West	B-ORG
+Virginia	I-ORG
+University	I-ORG
+.	O

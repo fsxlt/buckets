@@ -1,0 +1,18 @@
+(	O
+1672-1719	O
+)	O
+Joseph	B-PER
+Addison	I-PER
+
+Yönlendirme	O
+Bayır	B-LOC
+,	I-LOC
+Alanya	I-LOC
+
+YÖNLENDİR	O
+Amerika	B-ORG
+Birleşik	I-ORG
+Devletleri	I-ORG
+Deniz	I-ORG
+Piyade	I-ORG
+Kolordusu	I-ORG

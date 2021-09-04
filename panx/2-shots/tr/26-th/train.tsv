@@ -1,0 +1,62 @@
+Cumhurbaşkanı	O
+Turgut	B-PER
+Özal'ın	I-PER
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+G	O
+Grubu	O
+:	O
+Bangkok	B-LOC
+,	O
+Tayland	B-LOC
+
+YÖNLENDİRME	O
+2008-09	B-LOC
+UEFA	I-LOC
+Kadınlar	I-LOC
+Kupası	I-LOC
+
+YÖNLENDİRME	O
+Kavaklı	B-LOC
+,	I-LOC
+Kahta	I-LOC
+
+Miami	B-ORG
+Heat	I-ORG
+(	O
+7	O
+)	O
+
+Modellik	O
+kariyeri	O
+boyunca	O
+Vogue	B-ORG
+''	O
+,	O
+Marie	B-ORG
+Claire	I-ORG
+''	O
+ve	O
+Elle	B-ORG
+''	O
+gibi	O
+dergilerin	O
+kapak	O
+ve	O
+özel	O
+çekimlerinde	O
+yer	O
+aldı	O
+.	O
+
+'	O
+''	O
+Burak	B-PER
+Yılmaz	I-PER
+''	O
+'	O

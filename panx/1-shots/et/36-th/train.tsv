@@ -1,0 +1,31 @@
+Jānis	B-PER
+Čakste	I-PER
+(	O
+2	O
+)	O
+
+aastast	O
+UNESCO	B-ORG
+maailmapärandi	I-ORG
+nimistusse	I-ORG
+.	O
+
+Ta	O
+kasvab	O
+peamiselt	O
+peamiselt	O
+Lõuna-	O
+ja	O
+Euroopas	B-LOC
+alates	O
+Maroko	B-LOC
+üle	O
+Pürenee	B-LOC
+poolsaare	I-LOC
+ida	O
+suunas	O
+kuni	O
+Poola	B-LOC
+ja	O
+Makedooniani	B-LOC
+.	O

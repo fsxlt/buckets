@@ -1,0 +1,25 @@
+;	O
+#	O
+ア	O
+ス	O
+タ	O
+#	O
+-	O
+#	O
+木	B-PER
+村	I-PER
+良	I-PER
+平	I-PER
+
+上	B-LOC
+海	I-LOC
+の	O
+大	O
+学	O
+
+3	O
+3	O
+#	O
+ノ	B-ORG
+ッ	I-ORG
+ト	I-ORG

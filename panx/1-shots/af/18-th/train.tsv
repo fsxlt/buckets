@@ -1,0 +1,43 @@
+**	O
+Glenn	B-PER
+Close	I-PER
+–	O
+''The	O
+World	O
+According	O
+to	O
+Garp	O
+''	O
+
+Die	O
+rivier	O
+stroom	O
+deur	O
+verskillende	O
+lande	O
+,	O
+waaronder	O
+Suid-Afrika	B-LOC
+,	O
+Botswana	B-LOC
+,	O
+Zimbabwe	B-LOC
+en	O
+Mosambiek	B-LOC
+.	O
+
+AANSTUUR	O
+N11	B-ORG
+(	I-ORG
+Suid-Afrika	I-ORG
+)	I-ORG
+
+Tembe	B-LOC
+Olifantpark	I-LOC
+,	O
+deel	O
+van	O
+die	O
+``	O
+Lubombo-oorgrensbewaararea	O
+''	O

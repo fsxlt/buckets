@@ -1,0 +1,99 @@
+Mga	B-ORG
+Kolehiyo	I-ORG
+ng	I-ORG
+Sentrong	I-ORG
+Medikal	I-ORG
+ng	I-ORG
+Kapitolyo	I-ORG
+
+Shinminato	B-LOC
+,	I-LOC
+Toyama	I-LOC
+
+Tengen	B-ORG
+toppen	I-ORG
+Guren	I-ORG
+Laggen	I-ORG
+
+Federico	B-PER
+II	I-PER
+ng	I-PER
+Prusya	I-PER
+
+Pagkakaiba	B-LOC
+sa	I-LOC
+pagitan	I-LOC
+ng	I-LOC
+mga	I-LOC
+paruparo	I-LOC
+at	I-LOC
+mga	I-LOC
+gamugamo	I-LOC
+
+Ito	O
+ay	O
+makikita	O
+sa	O
+pagsasalarawan	O
+ni	O
+Christopher	B-PER
+Columbus	I-PER
+nang	O
+matuklasan	O
+ang	O
+Amerika	O
+.	O
+
+Pambansang	B-ORG
+Mataas	I-ORG
+na	I-ORG
+Paaralang	I-ORG
+Hen.	I-ORG
+T.	I-ORG
+de	I-ORG
+Leon	I-ORG
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Canada	B-LOC
+(	O
+272,000	O
+)	O
+
+Si	O
+Willie	B-PER
+Revillame	I-PER
+ang	O
+pangunahing	O
+tampok	O
+nito	O
+.	O
+
+Kagawaran	B-ORG
+ng	I-ORG
+Agham	I-ORG
+at	I-ORG
+Teknolohiya	I-ORG
+(	I-ORG
+Pilipinas	I-ORG
+)	I-ORG
+
+Utsunomiya	B-LOC
+(	O
+''Kabisera	O
+''	O
+)	O
+
+Magkapatid	B-PER
+na	I-PER
+Montgolfier	I-PER
+
+Nagsasariling	B-LOC
+Sosyalistikong	I-LOC
+Republikang	I-LOC
+Soviet	I-LOC
+ng	I-LOC
+Abkhaz	I-LOC

@@ -1,0 +1,97 @@
+Camila	B-PER
+,	I-PER
+Duquesa	I-PER
+da	I-PER
+Cornualha	I-PER
+
+Faz	O
+fronteira	O
+com	O
+Brindisi	B-LOC
+,	O
+Francavilla	B-LOC
+Fontana	I-LOC
+,	O
+Mesagne	B-LOC
+,	O
+Oria	B-LOC
+,	O
+San	B-LOC
+Michele	I-LOC
+Salentino	I-LOC
+,	O
+San	B-LOC
+Vito	I-LOC
+dei	I-LOC
+Normanni	I-LOC
+.	O
+
+Erich	B-PER
+Ludendorff	I-PER
+(	O
+1865–1937	O
+)	O
+
+''scoparia	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+Michael	B-PER
+Phelps	I-PER
+''	O
+Klete	B-PER
+Keller	I-PER
+''	O
+
+Torneio	B-LOC
+de	I-LOC
+Roland-Garros	I-LOC
+
+REDIRECIONAMENTO	O
+Areias	B-LOC
+,	I-LOC
+Sequeiró	I-LOC
+,	I-LOC
+Lama	I-LOC
+e	I-LOC
+Palmeira	I-LOC
+
+01	O
+``	O
+Let	B-ORG
+'s	I-ORG
+Go	I-ORG
+''	O
+-	O
+Calvin	B-PER
+Harris	I-PER
+feat	O
+.	O
+
+Atualmente	O
+defende	O
+o	O
+San	B-ORG
+José	I-ORG
+Earthquakes	I-ORG
+.	O
+
+22px]]	O
+República	B-LOC
+Turca	I-LOC
+de	I-LOC
+Chipre	I-LOC
+do	I-LOC
+Norte	I-LOC
+
+Tóquio	B-LOC
+,	O
+quanto	O
+à	O
+Japan	B-ORG
+Airlines	I-ORG
+;	O

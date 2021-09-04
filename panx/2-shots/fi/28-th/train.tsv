@@ -1,0 +1,54 @@
+Kuningas	B-ORG
+Baudouinin	I-ORG
+stadion	I-ORG
+
+OHJAUS	O
+Live	B-ORG
+–	I-ORG
+Friday	I-ORG
+the	I-ORG
+13th	I-ORG
+
+'	O
+''	O
+Planica	B-LOC
+''	O
+'	O
+
+border]]	O
+Yhdysvallat	B-LOC
+Marie	B-PER
+Corridon	I-PER
+Thelma	B-PER
+Kalama	I-PER
+Brenda	B-PER
+Helser	I-PER
+Ann	B-PER
+Curtis	I-PER
+
+Turks-	B-LOC
+ja	I-LOC
+Caicossaaret	I-LOC
+
+Elokuvan	O
+on	O
+ohjannut	O
+Roland	B-PER
+af	I-PER
+Hällström	I-PER
+ja	O
+tuottanut	O
+Mauno	B-PER
+Mäkelä	I-PER
+.	O
+
+Sellaisia	O
+olivat	O
+esimerkiksi	O
+Gibraltar	B-LOC
+,	O
+Saint	B-LOC
+Helena	I-LOC
+ja	O
+Basutomaa	B-LOC
+.	O

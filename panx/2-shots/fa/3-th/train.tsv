@@ -1,0 +1,33 @@
+تغییرمسیر	O
+دول	B-LOC
+لیک،	I-LOC
+داکوتای	I-LOC
+شمالی	I-LOC
+
+تغییرمسیر	O
+خدمات	B-ORG
+پستی	I-ORG
+ایالات	I-ORG
+متحده	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+استنلی	B-PER
+واندن	I-PER
+اینده	I-PER
+
+تغییرمسیر	O
+دینان	B-LOC
+(	I-LOC
+آمل	I-LOC
+)	I-LOC
+
+باشگاه	B-ORG
+فوتبال	I-ORG
+باته	I-ORG
+بوریسف	I-ORG
+
+تغییرمسیر	O
+اولین	B-PER
+فاکس	I-PER
+کلر	I-PER

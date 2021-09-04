@@ -1,0 +1,19 @@
+현재	O
+중국	B-ORG
+공산당	I-ORG
+쓰촨	B-LOC
+성	I-LOC
+당위원회	O
+서기이다	O
+.	O
+
+당	B-PER
+경종	I-PER
+(	O
+唐敬宗	O
+)	O
+
+김태원	B-PER
+(	O
+108회	O
+)	O

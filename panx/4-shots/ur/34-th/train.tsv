@@ -1,0 +1,72 @@
+رجوع_مکرر	O
+مسجد	B-ORG
+وزیر	I-ORG
+خان	I-ORG
+
+فرانسیسی	B-ORG
+اپر	I-ORG
+وولٹا	I-ORG
+(	O
+1919–1932	O
+)	O
+
+رجوع_مکرر	O
+آبرن	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+ٹسکاراویس	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+رجوع_مکرر	O
+کانکورڈ،	B-LOC
+نیو	I-LOC
+ساؤتھ	I-LOC
+ویلز	I-LOC
+
+'	O
+''	O
+حارث	B-PER
+سہیل	I-PER
+''	O
+'	O
+
+رجوع_مکرر	O
+تورووکا،	B-LOC
+صوبہ	I-LOC
+پوڈلاسکی	I-LOC
+
+وزیر	B-ORG
+اعلیٰ	I-ORG
+خیبر	I-ORG
+پختونخوا	I-ORG
+
+عبدالملک	B-PER
+بن	I-PER
+مروان	I-PER
+
+رجوع_مکرر	O
+ایس	B-PER
+اے	I-PER
+رحمان	I-PER
+
+رجوع_مکرر	O
+وین	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+وین	B-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+رجوع_مکرر	O
+آصف	B-PER
+نواز	I-PER
+جنجوعہ	I-PER
+
+پروگرام	B-ORG
+برائے	I-ORG
+بین	I-ORG
+الاقوامی	I-ORG
+طالب	I-ORG
+علم	I-ORG
+تعین	I-ORG

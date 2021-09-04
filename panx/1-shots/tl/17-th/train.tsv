@@ -1,0 +1,20 @@
+Taculing	O
+,	O
+Lungsod	B-LOC
+ng	I-LOC
+Bacolod	I-LOC
+,	O
+Negros	B-LOC
+Occidental	I-LOC
+,	O
+Pilipinas	B-LOC
+.	O
+
+Lucy	B-PER
+(	I-PER
+Australopithecus	I-PER
+)	I-PER
+
+Imperyo	B-ORG
+ng	I-ORG
+Maurya	I-ORG

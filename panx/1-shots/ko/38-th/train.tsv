@@ -1,0 +1,16 @@
+오쿠마	B-LOC
+정	I-LOC
+(	O
+)	O
+
+2000년	B-ORG
+AFC	I-ORG
+아시안컵	I-ORG
+3위	O
+
+톰마소	B-PER
+로키가	I-PER
+최근의	O
+최다	O
+득점자였다	O
+.	O

@@ -1,0 +1,36 @@
+تغییرمسیر	O
+عباس‌آباد	B-LOC
+(	I-LOC
+دماوند	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+جاده	B-ORG
+۲۷	I-ORG
+(	I-ORG
+ایران	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	I-LOC
+رباط‌کریم	I-LOC
+
+'	O
+''	O
+لیونل	B-PER
+لیندون	I-PER
+''	O
+'	O
+
+تغییرمسیر	O
+مؤسسه	B-ORG
+استانداردهای	I-ORG
+ملی	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+لوئیس	B-PER
+وی.	I-PER
+بوگی	I-PER

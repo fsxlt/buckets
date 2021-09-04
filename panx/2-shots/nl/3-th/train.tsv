@@ -1,0 +1,26 @@
+Mohamed	B-PER
+Bennouna	I-PER
+(	O
+)	O
+
+Simón	B-PER
+de	I-PER
+Anda	I-PER
+
+San	B-LOC
+Benito	I-LOC
+County	I-LOC
+-	O
+oosten	O
+
+Ormacleit	B-ORG
+Castle	I-ORG
+(	O
+South	B-LOC
+Uist	I-LOC
+)	O
+
+DOORVERWIJZING	O
+Hongaars	B-ORG
+Democratisch	I-ORG
+Forum	I-ORG

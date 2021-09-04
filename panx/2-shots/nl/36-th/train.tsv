@@ -1,0 +1,48 @@
+'	O
+''	O
+Nicky	B-PER
+Hayden	I-PER
+''	O
+'	O
+
+Île	B-LOC
+de	I-LOC
+la	I-LOC
+Gonâve	I-LOC
+
+'	O
+''	O
+Marco	B-PER
+Melandri	I-PER
+''	O
+'	O
+
+29.	B-ORG
+Waffen-Grenadier-Division	I-ORG
+der	I-ORG
+SS	I-ORG
+(	I-ORG
+russische	I-ORG
+Nr.	I-ORG
+1	I-ORG
+)	I-ORG
+
+Charente	B-LOC
+(	I-LOC
+departement	I-LOC
+)	I-LOC
+
+Het	O
+toernooi	O
+wordt	O
+op	O
+de	O
+'Earth'-baan	O
+van	O
+de	O
+Jumeirah	B-ORG
+Golf	I-ORG
+in	O
+Dubai	B-LOC
+gespeeld	O
+.	O

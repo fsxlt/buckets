@@ -1,0 +1,20 @@
+'	O
+''	O
+मार्क	B-PER
+बाउचर	I-PER
+''	O
+'	O
+
+पुनर्निर्देशन	O
+बिर्ला	B-ORG
+इन्स्टिट्यूट	I-ORG
+ऑफ	I-ORG
+टेक्नोलॉजी	I-ORG
+अँड	I-ORG
+सायन्स	I-ORG
+
+मांडवी	B-LOC
+नदी	I-LOC
+(	I-LOC
+गोवा	I-LOC
+)	I-LOC

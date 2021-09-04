@@ -1,0 +1,45 @@
+Castlegar	B-LOC
+,	O
+Brittiläinen	B-LOC
+Kolumbia	I-LOC
+,	O
+Kanada	B-LOC
+
+Koillismaa	B-LOC
+(	I-LOC
+Norja	I-LOC
+)	I-LOC
+
+Christian	B-PER
+Panucci	I-PER
+(	O
+1997–1999	O
+)	O
+
+Hän	O
+edustaa	O
+Espanjan	B-LOC
+Primera	B-ORG
+Divisiónissa	I-ORG
+pelaavaa	O
+Valenciaa	B-ORG
+ja	O
+on	O
+pelipaikaltaan	O
+vasen	O
+laitapuolustaja	O
+.	O
+
+Reko	B-PER
+Lundán	I-PER
+,	O
+kirjailija	O
+
+Hän	O
+toimi	O
+myös	O
+Uusi	B-ORG
+Suomi-lehden	I-ORG
+kulttuuriosaston	O
+päällikkönä	O
+.	O

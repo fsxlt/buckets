@@ -1,0 +1,76 @@
+'	O
+''	O
+Felipe	B-PER
+Massa	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Hérault	I-LOC
+
+LENCONG	O
+Spits	B-ORG
+Jerman	I-ORG
+kecil	I-ORG
+
+Wolfram	B-PER
+Freiherr	I-PER
+von	I-PER
+Richthofen	I-PER
+
+That	B-ORG
+'70s	I-ORG
+Show	I-ORG
+
+'	O
+''	O
+Tim	B-PER
+Cahill	I-PER
+''	O
+'	O
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Jerman	I-ORG
+lama	I-ORG
+
+Seongsu	B-LOC
+1ga	I-LOC
+1	I-LOC
+dong	I-LOC
+(	O
+성수1가	O
+1동	O
+聖水1街	O
+1洞	O
+)	O
+
+LENCONG	O
+Terier	B-ORG
+mainan	I-ORG
+Inggeris	I-ORG
+hitam	I-ORG
+dan	I-ORG
+sawo	I-ORG
+matang	I-ORG
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC

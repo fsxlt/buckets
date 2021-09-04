@@ -1,0 +1,45 @@
+border	O
+Tanganica	B-LOC
+(	O
+amministrato	O
+dal	O
+Regno	B-LOC
+Unito	I-LOC
+)	O
+
+Beastie	B-ORG
+Boys	I-ORG
+—	O
+Hello	B-ORG
+Nasty	I-ORG
+''	O
+
+The	B-ORG
+Walk	I-ORG
+''	O
+-	O
+3:31	O
+
+'	O
+''	O
+Mike	B-PER
+Hawthorn	I-PER
+''	O
+'	O
+
+È	O
+un	O
+difensore	B-PER
+centrale	I-PER
+.	O
+
+''	O
+Kryptolebias	B-LOC
+marmoratus	I-LOC
+''	O
+
+'	O
+''	O
+Oceania	B-LOC
+''	O
+'	O

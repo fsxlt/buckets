@@ -1,0 +1,73 @@
+'	O
+''	O
+Kenneth	B-PER
+Kaunda	I-PER
+''	O
+'	O
+,	O
+President	O
+
+'	O
+''	O
+Valtteri	B-PER
+Bottas	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ain	I-LOC
+
+'	O
+''	O
+Liga	B-ORG
+FAM	I-ORG
+Malaysia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Corse	I-LOC
+
+'	O
+''	O
+Boston	B-ORG
+Red	I-ORG
+Sox	I-ORG
+''	O
+'	O
+2	O
+
+Juan	B-PER
+Carlos	I-PER
+I	I-PER
+dari	I-PER
+Sepanyol	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+Frontpage	B-ORG
+(	I-ORG
+siri	I-ORG
+TV	I-ORG
+)	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Orne	I-LOC
+
+Stadium	B-ORG
+Putera	I-ORG
+Faisal	I-ORG
+bin	I-ORG
+Fahd	I-ORG
+
+Nasiruddin	B-PER
+Nasir	I-PER
+-	O
+Ketot	O

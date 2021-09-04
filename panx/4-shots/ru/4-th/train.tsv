@@ -1,0 +1,104 @@
+Режиссёр	O
+—	O
+Висенте	B-PER
+Аранда	I-PER
+(	O
+)	O
+.	O
+
+Гауч	B-PER
+фон	I-PER
+Франкентурн	I-PER
+,	I-PER
+Пауль	I-PER
+
+Жаботинский	B-PER
+,	I-PER
+Владимир	I-PER
+Евгеньевич	I-PER
+
+'	O
+''	O
+Совинформбюро	B-ORG
+.	O
+''	O
+'	O
+
+Орудовал	O
+в	O
+Московской	B-LOC
+области	I-LOC
+.	O
+
+Спортсмены	O
+сумели	O
+превзойти	O
+прибывших	O
+в	O
+Южное	B-LOC
+полушарие	I-LOC
+итальянцев	B-ORG
+(	O
+15:6	O
+)	O
+.	O
+
+T’en	B-ORG
+va	I-ORG
+pas	I-ORG
+
+Планинц	B-PER
+,	I-PER
+Альбин	I-PER
+
+Большинство	O
+из	O
+них	O
+являются	O
+прихожанами	O
+Венгерской	B-ORG
+реформатской	I-ORG
+церкви	I-ORG
+(	O
+)	O
+.	O
+
+Tony	B-ORG
+Orlando	I-ORG
+and	I-ORG
+Dawn	I-ORG
+—	O
+Tie	B-ORG
+a	I-ORG
+Yellow	I-ORG
+Ribbon	I-ORG
+Round	I-ORG
+the	I-ORG
+Ole	I-ORG
+Oak	I-ORG
+Tree	I-ORG
+
+Иродион	B-LOC
+(	I-LOC
+крепость	I-LOC
+)	I-LOC
+
+Административный	O
+центр	O
+—	O
+город	O
+Рава	B-LOC
+.	O
+
+Севастьяново	B-LOC
+(	I-LOC
+Ленинградская	I-LOC
+область	I-LOC
+)	I-LOC
+
+Крылья	B-ORG
+Советов	I-ORG
+(	I-ORG
+хоккейный	I-ORG
+клуб	I-ORG
+)	I-ORG

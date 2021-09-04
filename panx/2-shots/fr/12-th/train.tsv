@@ -1,0 +1,39 @@
+On	O
+y	O
+voit	O
+aussi	O
+Joseph	B-PER
+Babinski	I-PER
+,	O
+lequel	O
+soutient	O
+la	O
+patiente	O
+.	O
+
+Jean-Gaspard	B-PER
+de	I-PER
+La	I-PER
+Rosée	I-PER
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+Saône-et-Loire	I-LOC
+
+Silvertips	B-ORG
+d'Everett	I-ORG
+(	O
+LHOu	O
+)	O
+
+REDIRECTION	O
+Plage	B-LOC
+de	I-LOC
+Las	I-LOC
+Teresitas	I-LOC
+
+Cruzeiro	B-ORG
+Esporte	I-ORG
+Clube	I-ORG

@@ -1,0 +1,90 @@
+Museum	B-ORG
+of	I-ORG
+Modern	I-ORG
+Art	I-ORG
+in	O
+New	B-LOC
+York	I-LOC
+
+Vojislav	B-PER
+Koštunica	I-PER
+legt	O
+in	O
+Joegoslavië	B-LOC
+de	O
+eed	O
+af	O
+als	O
+president	O
+.	O
+
+'	O
+''	O
+Genepiën	B-LOC
+''	O
+'	O
+
+Mustin	B-LOC
+(	I-LOC
+Mecklenburg	I-LOC
+)	I-LOC
+
+doorverwijzing	O
+Guy	B-PER
+van	I-PER
+Gisburne	I-PER
+
+Eigendom	O
+van	O
+de	O
+Franse	B-ORG
+Oost-Indische	I-ORG
+Compagnie	I-ORG
+
+Yoni	B-PER
+Buyens	I-PER
+(	O
+KV	B-ORG
+Mechelen	I-ORG
+)	O
+
+Het	O
+zou	O
+een	O
+directe	O
+scheepvaartverbinding	O
+mogelijk	O
+maken	O
+tussen	O
+de	O
+Oostzee	B-LOC
+en	O
+de	O
+Zwarte	B-LOC
+Zee	I-LOC
+.	O
+
+''	O
+Vallonia	B-LOC
+declivis	I-LOC
+''	O
+
+Slavia	B-ORG
+Sofia	I-ORG
+-	O
+2.625	O
+
+De	O
+serie	O
+is	O
+gebaseerd	O
+op	O
+de	O
+boeken	O
+met	O
+dezelfde	O
+titel	O
+van	O
+Chris	B-PER
+Ryan	I-PER
+.	O

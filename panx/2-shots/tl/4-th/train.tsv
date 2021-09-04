@@ -1,0 +1,27 @@
+1980	O
+-	O
+Miss	B-PER
+X	I-PER
+
+Jolo	B-LOC
+,	I-LOC
+Sulu	I-LOC
+
+Ikalawang	B-ORG
+Konsilyong	I-ORG
+Vaticano	I-ORG
+
+Bulubundukin	B-LOC
+ng	I-LOC
+Ural	I-LOC
+
+Athena	B-ORG
+:	I-ORG
+Goddess	I-ORG
+of	I-ORG
+War	I-ORG
+''	O
+
+Pánfilo	B-PER
+de	I-PER
+Narváez	I-PER

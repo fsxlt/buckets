@@ -1,0 +1,100 @@
+ALIH	O
+Theodor	B-PER
+W.	I-PER
+Hänsch	I-PER
+
+ALIH	O
+Kompetisi	B-ORG
+National	I-ORG
+Basketball	I-ORG
+Association	I-ORG
+musim	I-ORG
+2008–09	I-ORG
+
+Okinawa]]	O
+-	O
+Tokyo	B-LOC
+(	O
+Jepang	B-LOC
+.	O
+
+You	B-ORG
+'re	I-ORG
+All	I-ORG
+Surrounded	I-ORG
+''	O
+
+Bambang	B-PER
+Hendarso	I-PER
+Danuri	I-PER
+
+ALIH	O
+Otot	B-LOC
+zigomatik	I-LOC
+mayor	I-LOC
+
+Ibu	O
+kotanya	O
+ialah	O
+Najaf	B-LOC
+.	O
+
+Le	B-LOC
+Mont-Saint-Adrien	I-LOC
+(	O
+CAB	O
+)	O
+
+ALIH	O
+Universitas	B-ORG
+Negeri	I-ORG
+Baku	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+''	O
+Amanda	B-PER
+Vilanova	I-PER
+(	O
+2nd	O
+Runner-up	O
+)	O
+''	O
+
+Dale	B-PER
+Carnegie	I-PER
+,	O
+Albert	B-PER
+Einstein	I-PER
+,	O
+Dr.	B-PER
+Seuss	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Finistère	I-LOC
+
+Pada	O
+pertandingan	O
+melawan	O
+PSMS	B-ORG
+,	O
+ia	O
+memborong	O
+empat	O
+gol	O
+.	O
+
+Fraksi	O
+Partai	B-ORG
+Golongan	I-ORG
+Karya	I-ORG
+(	O
+F-Golkar	O
+)	O

@@ -1,0 +1,83 @@
+Fritillaria	B-LOC
+verticillata	I-LOC
+''	O
+Willd	O
+.	O
+
+*Quận	O
+Nam	B-LOC
+Giao	I-LOC
+(	O
+南郊区	O
+)	O
+
+Vĩnh	B-ORG
+Xương	I-ORG
+(	O
+永昌县	O
+)	O
+
+Chiến	B-ORG
+tranh	I-ORG
+Nga-Thổ	I-ORG
+Nhĩ	I-ORG
+Kỳ	I-ORG
+(	I-ORG
+1768–1774	I-ORG
+)	I-ORG
+
+''	O
+Leucorrhinia	B-LOC
+proxima	I-LOC
+''	O
+–	O
+Red-waisted	O
+Whiteface	O
+,	O
+Belted	O
+Whiteface	O
+
+đổi	O
+Đông	B-ORG
+Ánh	I-ORG
+Châu	I-ORG
+Thức	I-ORG
+Hợp	I-ORG
+Xã	I-ORG
+
+''	O
+Carabus	B-LOC
+cancellatus	I-LOC
+''	O
+
+'	O
+''	O
+Suzanne	B-PER
+Lenglen	I-PER
+''	O
+'	O
+
+đổi	O
+Vương	B-PER
+Thái	I-PER
+hậu	I-PER
+(	I-PER
+Đường	I-PER
+Kính	I-PER
+Tông	I-PER
+)	I-PER
+
+Federico	B-PER
+Franco	I-PER
+(	O
+2012-2013	O
+)	O
+
+''	O
+You	B-ORG
+'re	I-ORG
+Beautiful	I-ORG
+''	O
+-	O
+James	B-PER
+Blunt	I-PER

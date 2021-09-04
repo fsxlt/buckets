@@ -1,0 +1,46 @@
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+塞	B-PER
+缪	I-PER
+尔	I-PER
+·	I-PER
+巴	I-PER
+伯	I-PER
+
+#	O
+近	B-ORG
+地	I-ORG
+小	I-ORG
+行	I-ORG
+星	I-ORG
+追	I-ORG
+踪	I-ORG
+
+重	O
+定	O
+向	O
+#	O
+細	B-LOC
+擬	I-LOC
+魮	I-LOC
+
+工	B-ORG
+黨	I-ORG
+（	O
+主	O
+席	O
+：	O
+李	B-PER
+卓	I-PER
+人	I-PER
+）	O
+
+清	B-LOC
+朝	I-LOC

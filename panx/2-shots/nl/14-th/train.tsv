@@ -1,0 +1,43 @@
+DOORVERWIJZING	O
+Jayapura	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+
+Werk	O
+van	O
+Jan	B-PER
+Toorop	I-PER
+in	O
+particulier	O
+bezit	O
+
+Liroy	B-PER
+Zhairi	I-PER
+(	O
+2011-2013	O
+)	O
+
+Hij	O
+vertrok	O
+,	O
+ondanks	O
+een	O
+doorlopend	O
+contract	O
+,	O
+naar	O
+Borussia	B-ORG
+Mönchengladbach	I-ORG
+.	O
+
+Soort	O
+Heterixalus	B-LOC
+madagascariensis	I-LOC
+''	O
+
+Cúcuta	B-ORG
+Deportivo	I-ORG
+(	O
+2	O
+)	O

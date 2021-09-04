@@ -1,0 +1,46 @@
+وتولى	O
+أخوه	O
+عبد	B-ORG
+الملك	I-ORG
+قيادة	O
+الجماعة	O
+من	O
+بعد	O
+مقتل	O
+أخيه	O
+.	O
+
+تحويل	O
+هوبغود	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+جورج	B-PER
+جايلورد	I-PER
+سيمبسون	I-PER
+(	O
+1902–1984	O
+)	O
+
+تحويل	O
+محمد	B-PER
+العلي	I-PER
+(	I-PER
+ممثل	I-PER
+)	I-PER
+
+تحويل	O
+بلدة	B-LOC
+ميلفورد	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+مدرسة	B-ORG
+الإنجليزية	I-ORG
+(	I-ORG
+الكويت	I-ORG
+)	I-ORG

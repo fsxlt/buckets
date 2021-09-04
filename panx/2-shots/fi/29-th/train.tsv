@@ -1,0 +1,51 @@
+'	O
+''	O
+Hyvinkään	B-ORG
+Palloseura	I-ORG
+''	O
+'	O
+
+Sergei	B-PER
+Merkurov	I-PER
+(	O
+1881–1952	O
+)	O
+,	O
+kuvanveistäjä	O
+
+Hilla	B-LOC
+(	I-LOC
+kaupunki	I-LOC
+)	I-LOC
+
+Jarno	B-PER
+Laasala	I-PER
+,	O
+yksi	O
+Duudsonien	B-ORG
+perustajista	O
+
+Sen	O
+rajanaapureita	O
+ovat	O
+Nigeria	B-LOC
+,	O
+Tšad	B-LOC
+,	O
+Libya	B-LOC
+,	O
+Algeria	B-LOC
+,	O
+Mali	B-LOC
+,	O
+Burkina	B-LOC
+Faso	I-LOC
+ja	O
+Benin	B-LOC
+.	O
+
+''	O
+Big	B-ORG
+Syke	I-ORG
+Daddy	I-ORG
+''	O

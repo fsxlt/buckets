@@ -1,0 +1,90 @@
+ALIH	O
+Harburg	B-LOC
+,	I-LOC
+Donau-Ries	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Eure	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Isère	I-LOC
+
+Ini	O
+kemungkinan	O
+adalah	O
+Yohanes	B-PER
+Pembaptis	I-PER
+.	O
+
+Kel	B-PER
+Mitchell	I-PER
+(	O
+1-5	O
+)	O
+
+ALIH	O
+County	B-LOC
+Cooke	I-LOC
+,	I-LOC
+Texas	I-LOC
+
+Shia	B-PER
+LaBeouf	I-PER
+,	O
+Tyrese	B-PER
+Gibson	I-PER
+,	O
+John	B-PER
+Malkovich	I-PER
+
+**	O
+Zagreb	B-LOC
+-	O
+Bandar	B-ORG
+Udara	I-ORG
+Zagreb	I-ORG
+'	O
+''	O
+Hub	O
+''	O
+'	O
+
+Ia	O
+adalah	O
+putra	O
+dari	O
+Raja	B-PER
+Gang	I-PER
+.	O
+
+Jangan	O
+Pernah	O
+Berubah]]	O
+''	O
+(	O
+ST	B-ORG
+12	I-ORG
+)	O
+
+OST]]	O
+It	B-ORG
+'s	I-ORG
+Okay	I-ORG
+,	I-ORG
+Daddy	I-ORG
+'s	I-ORG
+Girl	I-ORG
+''	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+sepak	I-ORG
+bola	I-ORG
+Iran	I-ORG

@@ -1,0 +1,18 @@
+'	O
+''	O
+Paul	B-PER
+di	I-PER
+Resta	I-PER
+''	O
+'	O
+
+Daerah	B-LOC
+Rychnov	I-LOC
+nad	I-LOC
+Kněžnou	I-LOC
+
+Astro	B-ORG
+(	I-ORG
+televisyen	I-ORG
+satelit	I-ORG
+)	I-ORG

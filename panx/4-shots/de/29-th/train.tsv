@@ -1,0 +1,119 @@
+Brega	B-LOC
+(	I-LOC
+Libyen	I-LOC
+)	I-LOC
+
+Vizepräsident	O
+des	O
+Deutschen	B-ORG
+Rates	I-ORG
+der	I-ORG
+Europäischen	I-ORG
+Bewegung	I-ORG
+
+WEITERLEITUNG	O
+Polarsun	B-ORG
+Motor	I-ORG
+Holdings	I-ORG
+
+***	O
+'	O
+''	O
+Erzstift	B-LOC
+Köln	I-LOC
+''	O
+'	O
+
+Diese	O
+Bestände	O
+liegen	O
+in	O
+Coahuila	B-LOC
+und	O
+Nuevo	B-LOC
+León	I-LOC
+sowie	O
+in	O
+Tamaulipas	B-LOC
+.	O
+
+Er	O
+begleitete	O
+Goethe	B-PER
+,	O
+den	O
+er	O
+am	O
+12	O
+.	O
+
+'	O
+''	O
+Chimia	B-ORG
+Râmnicu	I-ORG
+Vâlcea	I-ORG
+''	O
+'	O
+
+Thorsten	B-PER
+Hohmann	I-PER
+schied	O
+im	O
+Achtelfinale	O
+gegen	O
+Chris	B-PER
+Melling	I-PER
+aus	O
+.	O
+
+08055	O
+-	O
+08210	O
+-	O
+Beaumont-en-Argonne	B-LOC
+
+Christian	B-PER
+Franz	I-PER
+Paullini	I-PER
+
+Ferner	O
+war	O
+er	O
+Großaktionär	O
+des	O
+Bremer	B-ORG
+Vulkan	I-ORG
+.	O
+
+Grand	B-LOC
+Kru	I-LOC
+County	I-LOC
+
+WEITERLEITUNG	O
+Hermann	B-PER
+Friedrich	I-PER
+von	I-PER
+Pelden	I-PER
+
+Markus	B-PER
+Lanz	I-PER
+am	O
+24	O
+.	O
+
+Dieses	O
+Ereignis	O
+wurde	O
+nach	O
+dem	O
+Unglücksort	O
+benannt	O
+,	O
+einer	O
+Kleinstadt	O
+in	O
+der	O
+Westtürkei	O
+nahe	O
+Balıkesir	B-LOC
+.	O

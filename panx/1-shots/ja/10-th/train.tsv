@@ -1,0 +1,29 @@
+#	O
+住	B-ORG
+吉	I-ORG
+公	I-ORG
+園	I-ORG
+
+#	O
+南	O
+沢	O
+社	O
+員	O
+〈	O
+2	O
+5	O
+〉	O
+#	O
+-	O
+#	O
+南	B-PER
+沢	I-PER
+奈	I-PER
+央	I-PER
+
+#	O
+グ	B-LOC
+グ	B-LOC
+ア	I-LOC
+ン	I-LOC
+島	I-LOC

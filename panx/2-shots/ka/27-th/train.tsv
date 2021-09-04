@@ -1,0 +1,51 @@
+მანძილზე	O
+,	O
+ჩანდიგარჰიდან	B-LOC
+114	O
+კმ	O
+.	O
+
+'	O
+''	O
+უილიამ	B-PER
+შექსპირის	I-PER
+რომეო	B-LOC
+და	I-LOC
+ჯულიეტა“	I-LOC
+''	O
+'	O
+''	O
+
+If	B-ORG
+You	I-ORG
+Love	I-ORG
+Somebody	I-ORG
+Set	I-ORG
+Them	I-ORG
+Free	I-ORG
+-	O
+4:14	O
+
+გადამისამართება	O
+სკოტი	B-LOC
+(	I-LOC
+ბრაუნის	I-LOC
+ოლქი	I-LOC
+)	I-LOC
+
+'	O
+''	O
+ინდიანა	B-ORG
+პეისერსი	I-ORG
+''	O
+'	O
+
+ედგარ	B-PER
+ეთელინგი	I-PER
+—	O
+ინგლისის	B-LOC
+უგვირგვინო	O
+მეფე	O
+(	O
+დ	O
+.	O

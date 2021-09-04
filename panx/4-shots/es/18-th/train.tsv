@@ -1,0 +1,68 @@
+Países	B-LOC
+Bajos	I-LOC
+,	O
+Suecia	B-LOC
+,	O
+Finlandia	B-LOC
+
+REDIRECCIÓN	O
+Miguel	B-PER
+Ángel	I-PER
+Rodríguez	I-PER
+Gallegos	I-PER
+
+SCE	B-ORG
+Japan	I-ORG
+Studio	I-ORG
+-	O
+Tokio	B-LOC
+,	O
+Japón	B-LOC
+
+'	O
+''	O
+Mary	B-PER
+Joe	I-PER
+Fernández	I-PER
+
+Transformada	B-ORG
+de	I-ORG
+Fourier	I-ORG
+discreta	I-ORG
+
+Completado	O
+por	O
+Karl	B-PER
+Pearson	I-PER
+.	O
+
+REDIRECCIÓN	O
+Arquidiócesis	B-LOC
+de	I-LOC
+Lima	I-LOC
+
+Praga	B-LOC
+,	O
+República	B-LOC
+Checa	I-LOC
+.	O
+
+Torre	B-LOC
+de	I-LOC
+Juan	I-LOC
+Abad	I-LOC
+
+Blake	B-PER
+Griffin	I-PER
+(	O
+Los	B-ORG
+Angeles	I-ORG
+Clippers	I-ORG
+)	O
+
+REDIRECCIÓN	O
+Sportovní	B-ORG
+Klub	I-ORG
+Dynamo	I-ORG
+České	I-ORG
+Budějovice	I-ORG

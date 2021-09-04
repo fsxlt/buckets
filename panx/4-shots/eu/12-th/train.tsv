@@ -1,0 +1,99 @@
+AEB	B-LOC
+,	O
+Suedia	B-LOC
+eta	O
+Ingalaterran	B-LOC
+bizi	O
+eta	O
+lan	O
+egin	O
+izan	O
+du	O
+.	O
+
+1871-1873	O
+George	B-PER
+Biddell	I-PER
+Airy	I-PER
+
+Lou	B-PER
+Reed	I-PER
+(	O
+The	B-ORG
+Velvet	I-ORG
+Underground	I-ORG
+)	O
+
+Santa	B-LOC
+Bàrbara	I-LOC
+3.965	O
+bz	O
+.	O
+
+Hasieran	O
+,	O
+bere	O
+ama	O
+Kleopatra	B-PER
+III.arekin	I-PER
+gobernatu	O
+zuen	O
+.	O
+
+Jarraipeneko	B-ORG
+Irlandako	I-ORG
+Armada	I-ORG
+Errepublikarra	I-ORG
+(	O
+CIRA	O
+)	O
+
+'	O
+''	O
+Boris	B-PER
+Becker	I-PER
+''	O
+'	O
+
+La	B-LOC
+Aldea	I-LOC
+de	I-LOC
+San	I-LOC
+Nicolás	I-LOC
+
+Germaniar	B-ORG
+Konfederazioko	I-ORG
+lehendakari	O
+izan	O
+zen	O
+.	O
+
+Vicenzako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Veneto	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Michigan	B-LOC
+(	I-LOC
+aintzira	I-LOC
+)	I-LOC
+
+BIRZUZENDU	O
+Segurtasun	B-ORG
+Agentzia	I-ORG
+Nazionala	I-ORG
+
+'	O
+''	O
+Dockweiler	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O

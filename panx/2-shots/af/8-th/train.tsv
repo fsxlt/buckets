@@ -1,0 +1,52 @@
+FC	B-ORG
+Emmendingen	I-ORG
+03	I-ORG
+
+AANSTUUR	O
+Aanvalle	B-ORG
+op	I-ORG
+11	I-ORG
+September	I-ORG
+2001	I-ORG
+
+Anthem	O
+van	O
+Ayn	B-PER
+Rand	I-PER
+
+Dit	O
+val	O
+onder	O
+beheer	O
+van	O
+die	O
+Buffalo	B-LOC
+City	I-LOC
+Metropolitaanse	I-LOC
+Munisipaliteit	I-LOC
+.	O
+
+Paul	B-PER
+Kruger	I-PER
+,	O
+A.J.P	O
+.	O
+
+Bloeiende	O
+tekstielvervaardiging	O
+in	O
+die	O
+Lae	B-LOC
+Lande	I-LOC
+het	O
+dit	O
+een	O
+van	O
+die	O
+rykste	O
+''realms	O
+''	O
+in	O
+Europa	B-LOC
+gemaak	O
+.	O

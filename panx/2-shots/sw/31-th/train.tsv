@@ -1,0 +1,49 @@
+2003	O
+Peter	B-PER
+Agre	I-PER
+na	O
+Roderick	B-PER
+MacKinnon	I-PER
+
+``	O
+If	B-ORG
+I	I-ORG
+Ca	I-ORG
+n't	I-ORG
+''	O
+
+Sasa	O
+ni	O
+mgombea	O
+urais	O
+kupitia	O
+Chama	B-ORG
+cha	I-ORG
+Demokrasia	I-ORG
+na	I-ORG
+Maendeleo	I-ORG
+.	O
+
+Manhattan	B-LOC
+Beach	I-LOC
+,	I-LOC
+California	I-LOC
+
+Osaka	B-LOC
+,	O
+Kobe	B-LOC
+,	O
+Nara	B-LOC
+
+Mji	B-LOC
+wa	I-LOC
+Ho	I-LOC
+Chi	I-LOC
+Minh	I-LOC
+
+Chris	B-PER
+Brown	I-PER
+''	O
+(	O
+2005	O
+)	O

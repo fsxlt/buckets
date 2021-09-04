@@ -1,0 +1,92 @@
+'	O
+''	O
+Bagnara	B-LOC
+Calabra	I-LOC
+''	O
+'	O
+
+Star	B-ORG
+Wars	I-ORG
+:	I-ORG
+The	I-ORG
+Clone	I-ORG
+Wars	I-ORG
+''	O
+
+Donald	B-PER
+Young	I-PER
+''	O
+(	O
+semifinali	O
+)	O
+
+Stefano	B-PER
+Galvani	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+'	O
+''	O
+Martina	B-PER
+Navrátilová	I-PER
+''	O
+'	O
+'	O
+''	O
+Pam	B-PER
+Shriver	I-PER
+''	O
+'6-3	O
+,	O
+6-4	O
+
+JTEKT	O
+-	O
+A-TEC	O
+a	O
+Plymouth	B-LOC
+,	I-LOC
+MI	I-LOC
+
+Jakob	B-PER
+Hlasek	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+RINVIA	O
+Eparchia	B-LOC
+di	I-LOC
+Satna	I-LOC
+
+L'Œil	B-ORG
+du	I-ORG
+Malin	I-ORG
+
+Chiesa	B-ORG
+del	I-ORG
+Santo	I-ORG
+Spirito	I-ORG
+
+Repubblica	B-LOC
+romana	I-LOC
+(	O
+''Hispania	O
+''	O
+)	O
+
+:12ª	O
+tappa	O
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+(	O
+Ginevra	B-LOC
+>	O
+Strasburgo	B-LOC
+)	O

@@ -1,0 +1,15 @@
+ÁTIRÁNYÍTÁS	O
+Bardíja	B-PER
+perzsa	I-PER
+király	I-PER
+
+ÁTIRÁNYÍTÁS	O
+India	B-LOC
+(	I-LOC
+település	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Singeki	B-ORG
+no	I-ORG
+kjodzsin	I-ORG

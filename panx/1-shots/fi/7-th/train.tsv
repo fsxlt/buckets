@@ -1,0 +1,16 @@
+OHJAUS	O
+Englantilais-ranskalainen	B-ORG
+pienriistan	I-ORG
+ajokoira	I-ORG
+
+917	O
+(	O
+Vehkalahti	B-LOC
+)	O
+
+Euroopan	B-LOC
+komission	I-LOC
+puheenjohtaja	I-LOC
+José	B-PER
+Manuel	I-PER
+Barroso	I-PER

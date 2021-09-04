@@ -1,0 +1,74 @@
+Xian	B-LOC
+de	I-LOC
+Tieling	I-LOC
+
+**	O
+When	B-ORG
+Love	I-ORG
+Takes	I-ORG
+Over	I-ORG
+''	O
+-	O
+David	B-PER
+Guetta	I-PER
+featuring	O
+Kelly	B-PER
+Rowland	I-PER
+
+Championnat	B-ORG
+d'Italie	I-ORG
+de	I-ORG
+football	I-ORG
+
+**	O
+Sherwin	B-PER
+Vries	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+sud-africain	B-LOC
+.	O
+
+Alain	B-PER
+de	I-PER
+Mijolla	I-PER
+sous	O
+la	O
+dir	O
+.	O
+
+REDIRECTION	O
+Synallaxe	B-LOC
+du	I-LOC
+Cipo	I-LOC
+
+Leçons	B-ORG
+sur	I-ORG
+le	I-ORG
+mariage	I-ORG
+''	O
+(	O
+'	O
+''	O
+'	O
+)	O
+
+Li	B-PER
+Xiannian	I-PER
+(	O
+李先念	O
+)	O
+
+]	O
+''	O
+bictoniensis	O
+×	O
+Onc	B-LOC
+.	I-LOC
+[Oda	O
+.	O
+
+District	B-LOC
+de	I-LOC
+Porto	I-LOC

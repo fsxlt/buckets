@@ -1,0 +1,35 @@
+South	B-LOC
+Africa	I-LOC
+(	O
+Zuid-Afrika	O
+)	O
+
+Lungsod	B-LOC
+ng	I-LOC
+San	I-LOC
+Juan	I-LOC
+(	O
+1	O
+)	O
+
+'	O
+''	O
+Jade	B-PER
+Lopez	I-PER
+''	O
+'	O
+
+100	B-ORG
+Days	I-ORG
+to	I-ORG
+Heaven	I-ORG
+''	O
+
+Mahabang	B-ORG
+Muog	I-ORG
+ng	I-ORG
+Tsina	I-ORG
+
+Papa	B-PER
+Calixto	I-PER
+III	I-PER

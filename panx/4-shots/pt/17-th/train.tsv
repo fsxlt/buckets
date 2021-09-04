@@ -1,0 +1,94 @@
+**	O
+John	B-PER
+Mahoney	I-PER
+-	O
+Frasier	B-ORG
+''	O
+
+Faz	O
+fronteira	O
+com	O
+Monte	B-LOC
+di	I-LOC
+Procida	I-LOC
+,	O
+Pozzuoli	B-LOC
+.	O
+
+Sete	B-ORG
+igrejas	I-ORG
+de	I-ORG
+peregrinação	I-ORG
+de	I-ORG
+Roma	I-ORG
+
+Meng	B-PER
+Fei	I-PER
+(	O
+9,800	O
+)	O
+
+Marisol	B-ORG
+(	I-ORG
+telenovela	I-ORG
+brasileira	I-ORG
+)	I-ORG
+''	O
+
+Federação	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Ginástica	I-ORG
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Damon	B-PER
+Wayans	I-PER
+(	O
+2001-	O
+)	O
+
+B.	B-PER
+B.	B-PER
+King	I-PER
+...	O
+Ele	O
+mesmo	O
+
+Maciço	B-LOC
+des	I-LOC
+Bauges	I-LOC
+
+'	O
+''	O
+Derrotado	O
+''	O
+'	O
+pelo	O
+Cruz	B-ORG
+Azul	I-ORG
+por	O
+5	O
+-	O
+3	O
+(	O
+Final	O
+)	O
+.	O
+
+A	O
+capital	O
+é	O
+Santa	B-LOC
+Fé	I-LOC
+(	O
+população	O
+391.000	O
+)	O
+.	O

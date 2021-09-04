@@ -1,0 +1,50 @@
+הפניה	O
+הוכחה	B-ORG
+בנפנופי	I-ORG
+ידיים	I-ORG
+
+ועדת	B-ORG
+טרכטנברג	I-ORG
+אימצה	O
+את	O
+המלצות	O
+הצוות	O
+שהובילה	O
+שעסק	O
+וקידם	O
+עיקרון	O
+זה	O
+.	O
+
+Union	O
+Theological	O
+Seminary	O
+ניו	B-LOC
+יורק	I-LOC
+.	O
+
+הר	B-LOC
+חריף	I-LOC
+-	O
+1,012	O
+מטרים	O
+.	O
+
+המטבע	O
+הוכנס	O
+לשימוש	O
+על	O
+ידי	O
+עבאס	B-PER
+שאה	I-PER
+הראשון	I-PER
+.	O
+
+אי.	B-PER
+אל.	I-PER
+ג'יימס	I-PER
+(	O
+E.	O
+L.	O
+James	O
+)	O

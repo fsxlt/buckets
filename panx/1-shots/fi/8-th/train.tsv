@@ -1,0 +1,28 @@
+Uhka	B-ORG
+''	O
+(	O
+engl	O
+.	O
+
+Hermann	B-PER
+Müller	I-PER
+,	O
+Otto	B-PER
+Wels	I-PER
+(	O
+1919–1922	O
+)	O
+
+'	O
+''	O
+World	B-LOC
+Series	I-LOC
+''	O
+'	O
+
+The	B-ORG
+Dark	I-ORG
+Side	I-ORG
+of	I-ORG
+the	I-ORG
+Moon	I-ORG

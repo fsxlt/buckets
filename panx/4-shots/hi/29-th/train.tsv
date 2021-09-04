@@ -1,0 +1,114 @@
+**	O
+अंकारा	B-LOC
+(	O
+दूतावास	O
+)	O
+
+चेन्नई	B-ORG
+सुपर	I-ORG
+किंग्स	I-ORG
+
+बैरी	B-PER
+मार्शल	I-PER
+,	O
+रॉबिन	B-PER
+वारेन	I-PER
+
+शाम	B-LOC
+(	I-LOC
+क्षेत्र	I-LOC
+)	I-LOC
+
+पॉल	B-PER
+हैनली	I-PER
+/	O
+केविन	B-PER
+उलियेट	I-PER
+''	O
+(	O
+दूसरा	O
+राउंड	O
+)	O
+
+असम	B-LOC
+(	O
+110	O
+)	O
+,	O
+मिज़ोरम	B-LOC
+(	O
+70	O
+)	O
+
+कांगड़ा	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+गांधार	B-LOC
+(	I-LOC
+जनपद	I-LOC
+)	I-LOC
+
+अनुप्रेषित	O
+एसोसिएशन	B-ORG
+ऑफ	I-ORG
+चार्टर्ड	I-ORG
+सर्टिफाइड	I-ORG
+एकाउंटेंट्स	I-ORG
+
+ओलिवर	B-PER
+दिह्लेत्रा	I-PER
+/	O
+टिम	B-PER
+हैनमैन	I-PER
+ने	O
+जिरी	B-PER
+नोवाक	I-PER
+/	O
+डेविड	B-PER
+रिकल	I-PER
+को	O
+3-6	O
+,	O
+6-4	O
+,	O
+6-2	O
+से	O
+हराया।	O
+
+उत्तर	B-LOC
+प्रदेश	I-LOC
+(	O
+26	O
+)	O
+,	O
+राजस्थान	B-LOC
+(	O
+32	O
+)	O
+,	O
+मध्य	B-LOC
+प्रदेश	I-LOC
+(	O
+712	O
+)	O
+,	O
+महाराष्ट्र	B-LOC
+(	O
+391	O
+)	O
+
+भारत	B-PER
+में	I-PER
+महिलाएँ	I-PER
+
+हिमाचल	B-ORG
+प्रदेश	I-ORG
+विधानसभा	I-ORG
+
+लंदन	B-LOC
+,	O
+संयुक्त	B-LOC
+राजशाही	I-LOC

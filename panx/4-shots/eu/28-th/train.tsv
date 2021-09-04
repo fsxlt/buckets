@@ -1,0 +1,94 @@
+'	O
+''	O
+Amets	B-PER
+Txurruka	I-PER
+''	O
+'	O
+
+A-8	B-ORG
+autopista	I-ORG
+bertatik	O
+pasatzen	O
+da	O
+.	O
+
+Istiluak	O
+AEBetako	B-LOC
+170	O
+hiritara	O
+zabaldu	O
+ziren	O
+.	O
+
+St	B-ORG
+Andrewsko	I-ORG
+Old	I-ORG
+Course	I-ORG
+
+Wolverhampton	B-ORG
+Wanderers	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+birzuzendu	O
+Club	B-ORG
+Deportivo	I-ORG
+Castellón	I-ORG
+
+Joan	B-PER
+Paulo	I-PER
+II.a	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Judi	B-PER
+Dench	I-PER
+(	O
+Ingalaterrako	B-PER
+Elizabeth	I-PER
+I.a	I-PER
+)	O
+
+Gerd	B-PER
+Müller	I-PER
+(	O
+40	O
+)	O
+
+**	O
+Oldendorf	B-LOC
+(	I-LOC
+Schleswig-Holstein	I-LOC
+)	I-LOC
+
+Frantzia	B-ORG
+(	O
+7	O
+)	O
+
+Alessandriako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+Forlì-Cesenako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Emilia-Romagna	B-LOC
+eskualdean	O
+.	O

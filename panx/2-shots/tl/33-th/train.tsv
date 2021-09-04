@@ -1,0 +1,38 @@
+Vintar	B-LOC
+,	I-LOC
+Ilocos	I-LOC
+Norte	I-LOC
+
+''	O
+5	B-ORG
+and	I-ORG
+Up	I-ORG
+''	O
+(	O
+1994–2002	O
+)	O
+
+Mahabang	B-ORG
+Muog	I-ORG
+ng	I-ORG
+Tsina	I-ORG
+
+Barletta-Andria-Trani	B-LOC
+(	O
+BT	O
+)	O
+
+Silver	B-PER
+Swan	I-PER
+(	I-PER
+komiks	I-PER
+)	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Maria	B-PER
+Faustina	I-PER
+Kowalska	I-PER

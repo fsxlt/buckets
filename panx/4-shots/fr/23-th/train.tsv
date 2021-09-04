@@ -1,0 +1,80 @@
+Société	B-ORG
+de	I-ORG
+services	I-ORG
+énergétiques	I-ORG
+(	O
+ESCO	B-ORG
+)	O
+
+Université	B-ORG
+de	I-ORG
+Grenade	I-ORG
+(	O
+Grenade	B-LOC
+)	O
+www.ugr.es	O
+
+REDIRECTION	O
+Magsaysay	B-LOC
+(	I-LOC
+Davao	I-LOC
+du	I-LOC
+Sud	I-LOC
+)	I-LOC
+
+Jared	B-PER
+Leto	I-PER
+,	O
+Shannon	B-PER
+Leto	I-PER
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Sarthe	I-LOC
+
+Nathan	B-PER
+Dempsey	I-PER
+-	O
+Maple	B-ORG
+Leafs	I-ORG
+de	I-ORG
+Saint-Jean	I-ORG
+
+François-Xavier	B-PER
+de	I-PER
+Bourbon-Parme	I-PER
+
+Fromentin	B-PER
+,	I-PER
+Eugène	I-PER
+,	O
+''Les	O
+maîtres	O
+d'autrefois	O
+.	O
+
+Stade	B-ORG
+Félix-Houphouët-Boigny	I-ORG
+,	O
+Abidjan	B-LOC
+,	O
+Côte	B-LOC
+d'Ivoire	I-LOC
+
+'	O
+''	O
+Genève	B-LOC
+(	I-LOC
+GE	I-LOC
+)	I-LOC
+-	I-LOC
+26	I-LOC
+listes	I-LOC
+-	I-LOC
+178	I-LOC
+candidatEs	I-LOC
+''	O
+'	O

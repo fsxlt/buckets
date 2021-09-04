@@ -1,0 +1,39 @@
+تغییرمسیر	O
+آنتیک	B-LOC
+(	I-LOC
+استان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+ریاست‌جمهوری	B-PER
+اکبر	I-PER
+هاشمی	I-PER
+رفسنجانی	I-PER
+
+تغییرمسیر	O
+زنده‌باد	B-ORG
+زندگی	I-ORG
+یا	I-ORG
+مرگ	I-ORG
+و	I-ORG
+همه	I-ORG
+دوستانش	I-ORG
+
+اردک	B-LOC
+بلوطی	I-LOC
+غواص	I-LOC
+''A	O
+.	O
+
+تغییرمسیر	O
+خوزه	B-PER
+امیلیو	I-PER
+پاچکو	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG

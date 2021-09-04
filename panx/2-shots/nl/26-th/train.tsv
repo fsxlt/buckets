@@ -1,0 +1,50 @@
+DOORVERWIJZING	O
+Cornelius	B-PER
+Jacobsz	I-PER
+May	I-PER
+
+Deze	O
+wedstrijd	O
+was	O
+de	O
+eerste	O
+officiële	O
+interland	O
+van	O
+het	O
+Gibraltarees	B-LOC
+voetbalelftal	I-LOC
+.	O
+
+Servon	B-LOC
+(	I-LOC
+Manche	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Henry	B-PER
+Wittenberg	I-PER
+''	O
+'	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+DOORVERWIJZING	O
+Alice	B-ORG
+in	I-ORG
+Wonderland	I-ORG
+,	I-ORG
+de	I-ORG
+musical	I-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG

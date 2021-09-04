@@ -1,0 +1,46 @@
+Ladoke	B-ORG
+Akintola	I-ORG
+University	I-ORG
+of	I-ORG
+Technology	I-ORG
+''Ogbomoso	O
+''	O
+
+Oladipo	B-PER
+Diya	I-PER
+(	O
+Sani	B-PER
+Abacha	I-PER
+Military	O
+regime	O
+)	O
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Onna	I-LOC
+
+Pópù	B-PER
+Gregory	I-PER
+3k	I-PER
+
+Àkójọ	B-ORG
+àwọn	I-ORG
+olúìlú	I-ORG
+orílẹ̀-èdè	I-ORG
+ní	I-ORG
+Europe	I-ORG
+gẹ́gẹ́	I-ORG
+bíi	I-ORG
+ààlà	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+jẹ́	O
+Fáráò	B-PER
+ni	O
+Ẹ́gíptì	B-LOC
+Ayéijọ́un	I-LOC
+.	O

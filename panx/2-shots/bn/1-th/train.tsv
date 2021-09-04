@@ -1,0 +1,37 @@
+রিউ	B-ORG
+দি	I-ORG
+জানেইরু	I-ORG
+মেট্রো	I-ORG
+
+সৈয়দ	B-PER
+ইসমাইল	I-PER
+হোসেন	I-PER
+সিরাজী	I-PER
+
+অযু	B-LOC
+বা	O
+গোসলের	O
+জন্য	O
+ব্যবহৃত	O
+পানি।	O
+
+হেনরি	B-PER
+কিসিঞ্জার	I-PER
+;	O
+লি	B-PER
+ডাক	I-PER
+থো	I-PER
+
+অ্যাভাটর	B-ORG
+:	I-ORG
+দ্য	I-ORG
+লাস্ট	I-ORG
+এয়ারবেন্ডার	I-ORG
+
+টাস্কোলা	B-LOC
+,	I-LOC
+ইলিনয়	I-LOC
+
+চক্রশিলা	B-LOC
+বন্যপ্রাণ	I-LOC
+অভয়ারণ্য	I-LOC

@@ -1,0 +1,113 @@
+In	O
+2001	O
+kwam	O
+hun	O
+eerste	O
+album	O
+uit	O
+en	O
+dat	O
+was	O
+meteen	O
+een	O
+succes	O
+in	O
+met	O
+name	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Metro	B-ORG
+van	I-ORG
+Barcelona	I-ORG
+L1	B-ORG
+
+1972	B-ORG
+-	O
+Eddy	B-PER
+Merckx	I-PER
+
+'	O
+''	O
+1.	B-ORG
+FC	I-ORG
+Köln	I-ORG
+''	O
+'	O
+
+Egmond	B-LOC
+aan	I-LOC
+den	I-LOC
+Hoef	I-LOC
+
+Peggy	B-ORG
+Guggenheim	I-ORG
+Collection	I-ORG
+in	O
+Venetië	B-LOC
+
+''Zanabazar	O
+''	O
+is	O
+in	O
+de	O
+Troodontidae	B-LOC
+geplaatst	O
+,	O
+in	O
+een	O
+afgeleide	O
+positie	O
+.	O
+
+Live	B-LOC
+Oak	I-LOC
+(	I-LOC
+Santa	I-LOC
+Cruz	I-LOC
+County	I-LOC
+,	I-LOC
+Californië	I-LOC
+)	I-LOC
+
+Dit	O
+waren	O
+de	O
+eerste	O
+Europese	B-LOC
+Spelen	I-LOC
+.	O
+
+Ben	B-PER
+Sahar	I-PER
+-	O
+Chelsea	B-ORG
+,	O
+De	B-ORG
+Graafschap	I-ORG
+,	O
+RCD	B-ORG
+Espanyol	I-ORG
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+Mike	B-PER
+Bryan	I-PER
+''	O
+'	O
+
+De	O
+winnaars	O
+waren	O
+de	O
+Amerikanen	O
+Charles	B-PER
+Sands	I-PER
+en	O
+Margaret	B-PER
+Abbott	I-PER
+.	O

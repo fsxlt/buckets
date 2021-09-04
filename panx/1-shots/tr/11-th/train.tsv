@@ -1,0 +1,19 @@
+YÖNLENDİRME	O
+Joe	B-ORG
+Satriani	I-ORG
+(	I-ORG
+albüm	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Şeref	B-PER
+Has	I-PER
+''	O
+'	O
+
+Liaocheng	B-LOC
+,	O
+Çin	B-LOC
+Halk	I-LOC
+Cumhuriyeti	I-LOC

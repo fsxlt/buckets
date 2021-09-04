@@ -1,0 +1,84 @@
+Jakub	B-PER
+Polak	I-PER
+(	I-PER
+musician	I-PER
+)	I-PER
+
+;	O
+:	O
+Iraqi	B-ORG
+Air	I-ORG
+Force	I-ORG
+
+Carmem	B-ORG
+de	I-ORG
+Oliveira	I-ORG
+—	O
+did	O
+not	O
+finish	O
+(	O
+→	O
+no	O
+ranking	O
+)	O
+
+Al	B-ORG
+Nasr	I-ORG
+SC	I-ORG
+
+Matt	B-PER
+Kenseth	I-PER
+'	O
+''	O
+(	O
+PC5	O
+)	O
+'	O
+''	O
+
+The	O
+second	O
+occasion	O
+was	O
+when	O
+he	O
+joined	O
+Reading	B-ORG
+from	O
+Zwolle	B-ORG
+.	O
+
+Chasia	B-LOC
+,	I-LOC
+Trikala	I-LOC
+
+Lindsay	B-PER
+Hartwig	I-PER
+(	O
+Callide	B-LOC
+)	O
+
+Communes	B-LOC
+of	I-LOC
+the	I-LOC
+Charente-Maritime	I-LOC
+department	I-LOC
+
+Tomás	B-PER
+Pedro	I-PER
+Regalado	I-PER
+
+King	B-LOC
+County	I-LOC
+Water	I-LOC
+Taxi	I-LOC
+
+Yellow-throated	B-LOC
+miner	I-LOC
+,	O
+Manorina	B-ORG
+flavigula	I-ORG
+''	O
+-	O
+Aus	B-LOC

@@ -1,0 +1,35 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Moselle	I-LOC
+
+'	O
+''	O
+FC	B-ORG
+Bayern	I-ORG
+München	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+KTM	B-ORG
+''	O
+'	O
+
+Di	O
+Kopenhagen	B-LOC
+,	O
+ia	O
+meneliti	O
+bersama	O
+dengan	O
+Niels	B-PER
+Bohr	I-PER
+dan	O
+mereka	O
+menjadi	O
+teman	O
+baik	O
+.	O

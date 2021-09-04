@@ -1,0 +1,90 @@
+BIRZUZENDU	O
+Bilboko	B-ORG
+Done	I-ORG
+Jakue	I-ORG
+katedrala	I-ORG
+
+Amsterdamgo	B-ORG
+Ajaxek	I-ORG
+utzi	O
+zuen	O
+finalik	O
+gabe	O
+.	O
+
+BIRZUZENDU	O
+Kanuto	B-PER
+II.a	I-PER
+Handia	I-PER
+
+BIRZUZENDU	O
+Bartzelona	B-ORG
+Futbol	I-ORG
+Kluba	I-ORG
+
+'	O
+''	O
+Gino	B-PER
+Bartali	I-PER
+''	O
+'	O
+
+``	O
+Say	B-ORG
+Yeah	I-ORG
+''	O
+
+Bellunoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Veneto	B-LOC
+eskualdean	O
+.	O
+
+Giuseppe	B-PER
+Saronni	I-PER
+izan	O
+zen	O
+garailea	O
+.	O
+
+Friburgo	B-LOC
+kantonamenduan	I-LOC
+dago	O
+,	O
+barrutian	O
+.	O
+
+Modenako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Emilia-Romagna	B-LOC
+eskualdean	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Cantal	B-LOC
+departamenduan	O
+dago	O
+,	O
+Auvernia-Rhône-Alpeak	B-LOC
+eskualdean	O
+.	O
+
+Listowel	B-LOC
+/	I-LOC
+Lios	I-LOC
+Tuathail	I-LOC
+(	O
+4.338	O
+)	O
+
+BIRZUZENDU	O
+George	B-PER
+Ellery	I-PER
+Hale	I-PER

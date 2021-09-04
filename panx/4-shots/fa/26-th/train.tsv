@@ -1,0 +1,67 @@
+دانشگاه	B-ORG
+مهندسی	I-ORG
+فناوری‌های	I-ORG
+نوین	I-ORG
+قوچان	I-ORG
+
+تغییر_مسیر	O
+استیون	B-PER
+جی	I-PER
+گولد	I-PER
+
+تغییرمسیر	O
+تلویزیون	B-ORG
+فارسی	I-ORG
+بی‌بی‌سی	I-ORG
+
+تغییرمسیر	O
+سرریگ	B-LOC
+(	I-LOC
+کهنوج	I-LOC
+)	I-LOC
+
+دانشگاه	B-ORG
+آلاسکا	I-ORG
+در	I-ORG
+انکوریج	I-ORG
+
+تغییر_مسیر	O
+آلفونسوی	B-PER
+سوم	I-PER
+(	I-PER
+آستوریاس	I-PER
+)	I-PER
+
+تغییرمسیر	O
+اسون	B-LOC
+دول،	I-LOC
+کارولینای	I-LOC
+شمالی	I-LOC
+
+تغییرمسیر	O
+جاده	B-ORG
+۳۲	I-ORG
+(	I-ORG
+ایران	I-ORG
+)	I-ORG
+
+تغییر_مسیر	O
+پیر	B-PER
+دو	I-PER
+فرما	I-PER
+
+تغییرمسیر	O
+موسی‌آباد	B-LOC
+(	I-LOC
+بافت	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آهوی	B-LOC
+فریادکش	I-LOC
+سوماترایی	I-LOC
+
+تغییرمسیر	O
+جورج	B-PER
+پی.	I-PER
+ویلبر	I-PER

@@ -1,0 +1,31 @@
+'	O
+''	O
+Jean-Éric	B-PER
+Vergne	I-PER
+''	O
+'	O
+
+Parti	B-ORG
+Punjabi	I-ORG
+Malaysia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Marne	I-LOC
+
+LENCONG	O
+Tentera	B-ORG
+Udara	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Maine-et-Loire	I-LOC
+
+Wolfram	B-PER
+Freiherr	I-PER
+von	I-PER
+Richthofen	I-PER

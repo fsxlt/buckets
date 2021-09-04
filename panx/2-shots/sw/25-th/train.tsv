@@ -1,0 +1,42 @@
+Jangwa	B-LOC
+la	I-LOC
+Namib	I-LOC
+
+Alikwenda	O
+Roma	B-LOC
+,	O
+Italia	B-LOC
+,	O
+kuzungumza	O
+na	O
+Mt	O
+.	O
+
+Greatest	B-ORG
+Hits	I-ORG
+(	I-ORG
+2Pac	I-ORG
+)	I-ORG
+
+Shirika	B-ORG
+Lisilo	I-ORG
+la	I-ORG
+Kiserikali	I-ORG
+
+**	O
+Makamu	B-PER
+wa	I-PER
+Rais	I-PER
+wa	I-PER
+Kenya	I-PER
+
+Samuel	B-PER
+Mqhayi	I-PER
+(	O
+1875-1945	O
+)	O
+
+San	B-LOC
+Dimas	I-LOC
+,	I-LOC
+California	I-LOC

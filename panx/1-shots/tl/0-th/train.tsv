@@ -1,0 +1,16 @@
+Yu-Gi-Oh	B-ORG
+!	I-ORG
+Duel	I-ORG
+Monsters	I-ORG
+''	O
++	O
+
+T'boli	B-LOC
+,	I-LOC
+Timog	I-LOC
+Cotabato	I-LOC
+
+Enrique	B-PER
+II	I-PER
+ng	I-PER
+Pransiya	I-PER

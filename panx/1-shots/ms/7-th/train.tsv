@@ -1,0 +1,21 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Bas-Rhin	I-LOC
+
+'	O
+''	O
+Vitaly	B-PER
+Petrov	I-PER
+''	O
+'	O
+
+Pasukan	O
+ini	O
+dikendalikan	O
+oleh	O
+Persekutuan	B-ORG
+Bola	I-ORG
+Sepak	I-ORG
+Kemboja	I-ORG
+.	O

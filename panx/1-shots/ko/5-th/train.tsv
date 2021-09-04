@@ -1,0 +1,19 @@
+상하이	B-LOC
+시	I-LOC
+창닝	B-LOC
+구	I-LOC
+
+메이지	B-PER
+천황의	I-PER
+시종장을	O
+역임하였다	O
+.	O
+
+캘리포니아	B-ORG
+공과대학교	I-ORG
+,	O
+Distinguished	O
+Alumni	O
+Award	O
+,	O
+1981	O

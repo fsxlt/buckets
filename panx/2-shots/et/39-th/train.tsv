@@ -1,0 +1,43 @@
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+mängis	O
+ta	O
+aastatel	O
+2006–2007	O
+2	O
+mängu	O
+.	O
+
+Jürgen	B-PER
+Schult	I-PER
+,	O
+Saksamaa	B-LOC
+66.69	O
+
+Doubs	B-LOC
+'	I-LOC
+departemangu	I-LOC
+haldusüksuste	I-LOC
+loend	I-LOC
+
+Oli	O
+Eesti	B-ORG
+Kongressi	I-ORG
+liige	O
+.	O
+
+Ta	O
+asub	O
+Kongo	B-LOC
+jõe	I-LOC
+paremal	O
+kaldal	O
+.	O
+
+Enne	O
+Baitullah	B-PER
+Mehsudi	I-PER
+surma	O
+tema	O
+asetäitja	O
+.	O

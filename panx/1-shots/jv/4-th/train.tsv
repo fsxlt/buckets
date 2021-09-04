@@ -1,0 +1,29 @@
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Topaz	B-ORG
+(	O
+Al2SiO4	O
+(	O
+OH-	O
+,	O
+F-	O
+)	O
+2	O
+)	O
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

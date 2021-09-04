@@ -1,0 +1,41 @@
+List	B-ORG
+of	I-ORG
+Portuguese	I-ORG
+birds	I-ORG
+·	O
+
+CHL	B-ORG
+Top	B-ORG
+Prospects	I-ORG
+Game	I-ORG
+Most	O
+Valuable	O
+Player	O
+,	O
+2007	O
+
+Luke	B-PER
+Ridnour	I-PER
+(	O
+6	O
+)	O
+
+Dallas	B-LOC
+(	I-LOC
+town	I-LOC
+)	I-LOC
+,	I-LOC
+Wisconsin	I-LOC
+
+Unionville	B-LOC
+,	I-LOC
+Chester	I-LOC
+County	I-LOC
+,	I-LOC
+Pennsylvania	I-LOC
+
+Alim	B-PER
+Kouliev	I-PER
+-	O
+''Urka	O
+''	O

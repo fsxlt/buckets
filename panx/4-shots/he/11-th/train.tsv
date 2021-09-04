@@ -1,0 +1,72 @@
+גבעת	B-LOC
+מרדכי	I-LOC
+/	O
+בית	B-LOC
+וגן	I-LOC
+
+ארנסט	B-PER
+קלטנברונר	I-PER
+-	O
+דנובה	B-LOC
+.	O
+
+עזר	B-PER
+ויצמן	I-PER
+(	O
+ישראל	B-LOC
+)	O
+
+'	O
+''	O
+קפטן	B-ORG
+אמריקה	I-ORG
+:	I-ORG
+מלחמת	I-ORG
+אזרחים	I-ORG
+''	O
+'	O
+
+הפניה	O
+מוזיאון	B-ORG
+צ'רצ'יל	I-ORG
+וחדרי	I-ORG
+המלחמה	I-ORG
+של	I-ORG
+הקבינט	I-ORG
+
+**	O
+ג'ושוע	B-PER
+ג'קסון	I-PER
+-	O
+פרינג	B-ORG
+'	I-ORG
+''	O
+
+הפניה	O
+צי	B-ORG
+ארצות	I-ORG
+הברית	I-ORG
+
+למור	B-LOC
+צווארון	I-LOC
+שחור	I-LOC
+לבן	I-LOC
+
+הופעה	O
+ראשונה	O
+של	O
+תנוס	B-PER
+ושל	O
+דראקס	B-PER
+המשמיד	I-PER
+
+אמציה	B-LOC
+(	I-LOC
+מושב	I-LOC
+)	I-LOC
+
+הפניה	O
+יחד	B-LOC
+(	I-LOC
+קיבוץ	I-LOC
+)	I-LOC

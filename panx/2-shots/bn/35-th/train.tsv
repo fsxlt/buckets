@@ -1,0 +1,30 @@
+চতুর্থ	B-PER
+আবদুর	I-PER
+রহমান	I-PER
+–	O
+১০২১-১০২২	O
+
+ডেনমার্ক	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+দ্য	B-ORG
+হলিউড	I-ORG
+রিপোর্টার	I-ORG
+
+পানিপাত	B-LOC
+তরফ	I-LOC
+আনসার	I-LOC
+
+rect	O
+236	O
+448	O
+295	O
+503	O
+জিনেদিন	B-PER
+জিদান	I-PER
+
+কোয়া-জুলু	B-LOC
+নাটাল	I-LOC
+প্রদেশ	I-LOC

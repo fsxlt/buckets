@@ -1,0 +1,114 @@
+Sie	O
+docken	O
+an	O
+einem	O
+frei	O
+im	O
+Raum	O
+schwebenden	O
+Tanzlokal	O
+an	O
+,	O
+wo	O
+Cliff	B-PER
+Richard	I-PER
+jr.	O
+und	O
+The	B-ORG
+Shadows	I-ORG
+auftreten	O
+.	O
+
+Die	O
+Entsprechung	O
+der	O
+evangelischen	B-ORG
+Kirche	I-ORG
+ist	O
+die	O
+Diakonie	B-ORG
+Deutschland	I-ORG
+.	O
+
+Gut	B-ORG
+(	I-ORG
+Wirtschaftswissenschaft	I-ORG
+)	I-ORG
+
+Wiener	B-LOC
+Gemeindebezirk	I-LOC
+Innere	B-LOC
+Stadt	I-LOC
+,	O
+unweit	O
+des	O
+Stephansdoms	B-ORG
+.	O
+
+Erst	O
+nach	O
+mehreren	O
+Jahren	O
+konnte	O
+er	O
+sich	O
+als	O
+erfolgreicher	O
+Geschäftsmann	O
+in	O
+der	O
+Madrider	B-LOC
+Geschäftswelt	O
+etablieren	O
+.	O
+
+'	O
+''	O
+Andrés	B-PER
+Guardado	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Kongo	B-LOC
+''	O
+'	O
+
+Groß	B-LOC
+Pankow	I-LOC
+(	I-LOC
+Prignitz	I-LOC
+)	I-LOC
+
+Alexander	B-PER
+Wassiljewitsch	I-PER
+Schirow	I-PER
+
+Sie	O
+ist	O
+Bestandteil	O
+der	O
+Gemeinde	B-LOC
+Kranenburg	I-LOC
+sowie	O
+seit	O
+1	O
+.	O
+
+Sitz	O
+der	O
+Gemeindeverwaltung	O
+ist	O
+Somerset	B-LOC
+East	I-LOC
+.	O
+
+Benediktinerabtei	B-ORG
+St.	I-ORG
+Matthias	I-ORG
+
+WEITERLEITUNG	O
+Juan	B-PER
+Carlos	I-PER
+Payano	I-PER

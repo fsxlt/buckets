@@ -1,0 +1,35 @@
+Nelson	B-PER
+Mandela	I-PER
+vir	O
+'n	O
+wetenskapprojek	O
+ontvang	O
+.	O
+
+****	O
+Assiriese	B-ORG
+Kerk	I-ORG
+van	I-ORG
+die	I-ORG
+Ooste	I-ORG
+
+Dit	O
+het	O
+amper	O
+drie	O
+eeue	O
+lank	O
+geduur	O
+en	O
+die	O
+basis	O
+gevorm	O
+vir	O
+die	O
+grondgebied	O
+van	O
+die	O
+moderne	B-LOC
+Sjinese	I-LOC
+staat	I-LOC
+.	O

@@ -1,0 +1,34 @@
+Benki	B-ORG
+ya	I-ORG
+Kenya	I-ORG
+Commercial	I-ORG
+Bank	I-ORG
+
+Kaizari	B-PER
+Maximilian	I-PER
+I	I-PER
+
+Basilika	B-ORG
+la	I-ORG
+Mt.	I-ORG
+Petro	I-ORG
+
+Ruud	B-PER
+Lubbers	I-PER
+(	O
+1939–	O
+)	O
+
+''O	O
+-	O
+Asia	B-LOC
+ya	I-LOC
+Magharibi	I-LOC
+(	O
+excl	O
+.	O
+
+Mlinzi	B-LOC
+(	I-LOC
+ndege	I-LOC
+)	I-LOC

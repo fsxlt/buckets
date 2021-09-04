@@ -1,0 +1,86 @@
+Lac	B-LOC
+Fundeni	I-LOC
+(	O
+123	O
+ha	O
+)	O
+,	O
+
+American	B-ORG
+Airlines	I-ORG
+Center	I-ORG
+,	O
+Dallas	B-LOC
+(	O
+Texas	B-LOC
+)	O
+
+Liste	B-ORG
+des	I-ORG
+comtes	I-ORG
+palatins	I-ORG
+du	I-ORG
+Rhin	I-ORG
+
+REDIRECTION	O
+Les	B-PER
+Négresses	I-PER
+vertes	I-PER
+
+REDIRECTION	O
+American	B-ORG
+City	I-ORG
+Business	I-ORG
+Journals	I-ORG
+
+Stade	B-LOC
+Abdullah	I-LOC
+bin	I-LOC
+Khalifa	I-LOC
+,	O
+Doha	B-LOC
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+d'Ille-et-Vilaine	I-LOC
+
+Unité	B-ORG
+de	I-ORG
+mesure	I-ORG
+en	I-ORG
+informatique	I-ORG
+
+**	O
+''Palookas	O
+''	O
+(	O
+featuring	O
+Sean	B-PER
+Price	I-PER
+)	O
+
+Monrovia	B-LOC
+(	O
+Liberia	B-LOC
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Ardèche	I-LOC
+
+Marc	B-PER
+Lieb	I-PER
+Romain	B-PER
+Dumas	I-PER
+Neel	B-PER
+Jani	I-PER
+
+Michael	B-PER
+von	I-PER
+Faulhaber	I-PER
+(	O
+1869-1952	O
+)	O

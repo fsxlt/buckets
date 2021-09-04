@@ -1,0 +1,75 @@
+Hän	O
+pelasi	O
+NHL	B-ORG
+:	I-ORG
+ssä	I-ORG
+236	O
+peliä	O
+,	O
+ja	O
+WHA	B-ORG
+:	I-ORG
+ssa	I-ORG
+272	O
+peliä	O
+.	O
+
+Hän	O
+aloitti	O
+taideopintonsa	O
+Yhdysvalloissa	B-LOC
+(	O
+mm	O
+.	O
+
+Thunder	B-LOC
+Bay	I-LOC
+,	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+
+Hän	O
+oli	O
+Euroopan	B-ORG
+parlamentissa	I-ORG
+Vihreät	B-ORG
+/	I-ORG
+Euroopan	I-ORG
+vapaa	I-ORG
+allianssi	I-ORG
+-ryhmän	I-ORG
+jäsen	O
+vuosina	O
+1995–2009	O
+.	O
+
+Perhe	O
+on	O
+kotoisin	O
+Tuzlasta	B-LOC
+,	O
+Bosnia	B-LOC
+ja	I-LOC
+Hertsegovinan	I-LOC
+koillisosasta	O
+.	O
+
+20px]]	O
+''	O
+Jakov	B-PER
+Punkin	I-PER
+''	O
+'	O
+
+James	B-PER
+E.	I-PER
+Folsom	I-PER
+,	I-PER
+Sr	I-PER
+.	I-PER
+(	O
+demokraatit	O
+,	O
+1947–1951	O
+)	O

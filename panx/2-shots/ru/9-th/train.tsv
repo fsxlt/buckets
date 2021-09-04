@@ -1,0 +1,44 @@
+перенаправление	O
+Вейль	B-LOC
+(	I-LOC
+лунный	I-LOC
+кратер	I-LOC
+)	I-LOC
+
+перенаправление	O
+Полиньяк	B-PER
+,	I-PER
+Иоланда	I-PER
+де	I-PER
+
+Джордж	B-PER
+Клинтон	I-PER
+(	O
+'	O
+''	O
+Parliament	B-ORG
+,	O
+Funkadelic	B-ORG
+)	O
+'	O
+''	O
+продюсировал	O
+следующий	O
+альбом	O
+,	O
+Freaky	B-ORG
+Styley	I-ORG
+.	O
+
+Русские	B-LOC
+старожилы	I-LOC
+Сибири	I-LOC
+и	I-LOC
+Аляски	I-LOC
+)	O
+.	O
+
+«Феникс-Ильичёвец»	B-ORG
+(	I-ORG
+Калинино	I-ORG
+)	I-ORG

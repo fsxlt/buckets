@@ -1,0 +1,104 @@
+Petersell	B-LOC
+(	I-LOC
+perekond	I-LOC
+)	I-LOC
+
+Harriet	B-PER
+Beecher	I-PER
+Stowe	I-PER
+
+Mark	B-PER
+Hoppus	I-PER
+(	O
+1972–	O
+)	O
+
+Paide	B-LOC
+vald	I-LOC
+,	O
+Järva	B-LOC
+maakond	I-LOC
+
+Mõnede	O
+üleujutuste	O
+ajal	O
+jõuab	O
+Kaspia	B-LOC
+mereni	I-LOC
+.	O
+
+Estonia	B-ORG
+(	I-ORG
+teater	I-ORG
+)	I-ORG
+
+suuna	O
+Pedro	B-PER
+de	I-PER
+la	I-PER
+Rosa	I-PER
+
+Russalka	B-ORG
+(	I-ORG
+monument	I-ORG
+)	I-ORG
+
+Han-Tengrit	B-LOC
+(	O
+7010	O
+m	O
+)	O
+,	O
+mis	O
+on	O
+neist	O
+tehniliselt	O
+üks	O
+raskemaid	O
+,	O
+ei	O
+loetud	O
+toona	O
+7000-seks	O
+(	O
+ilma	O
+liustikuta	O
+6995	O
+m	O
+)	O
+.	O
+
+Asub	O
+Soome	B-LOC
+lahe	I-LOC
+kaldal	O
+.	O
+
+Otto	B-PER
+von	I-PER
+Habsburg	I-PER
+,	O
+poliitik	O
+(	O
+1912–2011	O
+)	O
+
+Erakond	B-ORG
+Eesti	I-ORG
+Kristlikud	I-ORG
+Demokraadid	I-ORG
+(	O
+EKD	O
+)	O
+
+Paljud	O
+New	B-ORG
+Age	I-ORG
+''	O
+iseloomulikud	O
+motiivid	O
+on	O
+pärit	O
+tema	O
+raamatutest	O
+.	O

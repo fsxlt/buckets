@@ -1,0 +1,34 @@
+Bloukranspas	B-LOC
+(	I-LOC
+Noord-Kaap	I-LOC
+)	I-LOC
+
+Liza	B-PER
+Minnelli	I-PER
+–	O
+The	O
+Sterile	O
+Cuckoo	O
+''	O
+
+AANSTUUR	O
+Royal	B-ORG
+Natal	I-ORG
+Nasionale	I-ORG
+Park	I-ORG
+
+'	O
+''	O
+Vrystaat	B-ORG
+Cheetahs	I-ORG
+''	O
+'	O
+
+New	B-LOC
+Jersey	I-LOC
+–	O
+DeCavalcante-familie	O
+
+Anna	B-PER
+van	I-PER
+Groot-Brittanje	I-PER

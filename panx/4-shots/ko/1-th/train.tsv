@@ -1,0 +1,115 @@
+가가	B-LOC
+군	I-LOC
+기비추오	B-LOC
+정	I-LOC
+
+스미르나에서의	O
+생활	O
+이후	O
+갈레노스는	O
+코린토스	B-LOC
+,	O
+크레타	B-LOC
+,	O
+시칠리아를	B-LOC
+돌며	O
+공부하였다	O
+.	O
+
+일리노이	B-ORG
+대학교	I-ORG
+어배너-섐페인	I-ORG
+(	O
+1908	O
+)	O
+
+대장]]	O
+(	O
+4성	B-PER
+장군	I-PER
+)	O
+
+넘겨주기	O
+카틴	B-LOC
+숲	I-LOC
+대학살	I-LOC
+
+'	B-LOC
+''	I-LOC
+2004년	I-LOC
+''	I-LOC
+'	B-LOC
+-	I-LOC
+클라우수라	I-LOC
+(	I-LOC
+Clausura	I-LOC
+)	I-LOC
+
+'	O
+''	O
+방쓰	B-ORG
+역	I-ORG
+''	O
+'	O
+
+산호랑나비	B-LOC
+''Papilio	O
+machaon	O
+''	O
+
+넘겨주기	O
+오즈와우두	B-PER
+지	I-PER
+올리베이라	I-PER
+
+우에다	B-ORG
+역	I-ORG
+(	I-ORG
+후쿠시마	I-ORG
+현	I-ORG
+)	I-ORG
+(	O
+)	O
+
+'	O
+''	O
+푸랑케	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+로스라고스	B-LOC
+주	I-LOC
+오소르노	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+넘겨주기	O
+도널드	B-PER
+M.	I-PER
+프레이저	I-PER
+
+클럽은	O
+여름	O
+이적	O
+시장에	O
+루카	B-PER
+토니와	I-PER
+세바스티앵	B-PER
+프레이를	I-PER
+영입하게	O
+된다	O
+.	O
+
+포지션은	O
+골키퍼로	B-PER
+,	O
+2009-2010	O
+시즌까지	O
+AC	B-ORG
+밀란에서	I-ORG
+뛰었다	O
+.	O

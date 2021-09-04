@@ -1,0 +1,23 @@
+ÁTIRÁNYÍTÁS	O
+Doubs	B-LOC
+(	I-LOC
+Doubs	B-LOC
+)	I-LOC
+
+A	O
+Magyar	B-ORG
+Tudományos	I-ORG
+Akadémia	I-ORG
+levelező	O
+tagjának	O
+választották	O
+
+Eredetileg	O
+Szent	B-PER
+Pál	I-PER
+tiszteletére	O
+akartak	O
+itt	O
+kápolnát	O
+emelni	O
+.	O

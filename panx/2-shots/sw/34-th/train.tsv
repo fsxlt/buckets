@@ -1,0 +1,34 @@
+Basil	B-PER
+wa	I-PER
+Caesarea	I-PER
+
+Alimfuata	O
+Papa	B-PER
+Linus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Klementi	I-PER
+I	I-PER
+.	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Yamoussoukro	I-ORG
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Stanford	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39302	O
+.	O
+
+Bellerose	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC

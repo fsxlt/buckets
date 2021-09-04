@@ -1,0 +1,38 @@
+***	O
+لجأة	B-LOC
+كمب	I-LOC
+(	O
+''Lepidochelys	O
+kempii	O
+''	O
+)	O
+.	O
+
+تحويل	O
+جادسون	B-PER
+رودريغز	I-PER
+داسيلفا	I-PER
+
+تحويل	O
+تورتوليس	B-LOC
+دي	I-LOC
+لا	I-LOC
+سييرا	I-LOC
+
+عند	O
+وفاته	O
+كان	O
+عميدًا	O
+للأسرة	B-ORG
+الحاكمة	I-ORG
+.	O
+
+تحويل	O
+برج	B-ORG
+تلفزيون	I-ORG
+ناغويا	I-ORG
+
+تحويل	O
+عمر	B-PER
+سيف	I-PER
+غباش	I-PER

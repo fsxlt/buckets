@@ -1,0 +1,27 @@
+Также	O
+в	O
+фильме	O
+звучат	O
+известная	O
+песня	O
+Never	B-ORG
+Can	I-ORG
+Say	I-ORG
+Goodbye	I-ORG
+в	O
+исполнении	O
+Глории	B-PER
+Гейнор	I-PER
+и	O
+композиция	O
+«Зодиак»	O
+одноимённой	B-ORG
+латвийской	I-ORG
+группы	I-ORG
+.	O
+
+Томская	B-LOC
+область	I-LOC
+,	O
+г	O
+.	O

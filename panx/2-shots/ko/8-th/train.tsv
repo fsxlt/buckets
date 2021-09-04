@@ -1,0 +1,53 @@
+**	O
+시마즈	B-PER
+요시히로	I-PER
+(	O
+島津	O
+義弘	O
+)	O
+
+넘겨주기	O
+1971년	B-ORG
+팬아메리칸	I-ORG
+게임	I-ORG
+
+산요	B-ORG
+전기	I-ORG
+(	O
+특별	O
+협찬	O
+)	O
+
+**	O
+로메	B-LOC
+(	O
+대사관	O
+)	O
+
+넘겨주기	O
+세네갈의	B-LOC
+행정	I-LOC
+구역	I-LOC
+
+'	O
+''	O
+이세돌	B-PER
+''	O
+'	O
+9단	O
+
+**	O
+청둬	B-LOC
+현	I-LOC
+(	O
+称多県	O
+,	O
+khri	O
+'du	O
+rdzong	O
+)	O
+
+넘겨주기	O
+교황	B-PER
+레오	I-PER
+1세	I-PER

@@ -1,0 +1,93 @@
+Định	B-ORG
+lý	I-ORG
+bốn	I-ORG
+màu	I-ORG
+
+'	O
+''	O
+Hậu	B-PER
+Lương	I-PER
+Thái	I-PER
+Tổ	I-PER
+''	O
+'	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Bas-Rhin	I-LOC
+
+''	O
+Polyptychus	B-LOC
+potiendus	I-LOC
+''	O
+
+``	O
+When	B-ORG
+You	I-ORG
+Believe	I-ORG
+''	O
+—-	O
+Mariah	B-PER
+Carey	I-PER
+&	O
+Whitney	B-PER
+Houston	I-PER
+
+Vượt	B-ORG
+ngục	I-ORG
+''	O
+(	O
+Season	O
+2-4	O
+)	O
+
+Granulina	B-LOC
+cerea	I-LOC
+''	O
+Smeriglio	O
+,	O
+Gubbioli	O
+&	O
+Mariottini	O
+,	O
+2000	O
+
+Cao	B-PER
+Ly	I-PER
+Tĩnh	I-PER
+Tông	I-PER
+
+đổi	O
+John	B-PER
+Churchill	I-PER
+,	I-PER
+Công	I-PER
+tước	I-PER
+Marlborough	I-PER
+thứ	I-PER
+nhất	I-PER
+
+Ủy	B-ORG
+ban	I-ORG
+phòng	I-ORG
+chống	I-ORG
+Tra	I-ORG
+tấn	I-ORG
+của	I-ORG
+châu	I-ORG
+Âu	I-ORG
+
+Sau	O
+khi	O
+đoàn	O
+tụ	O
+,	O
+tất	O
+cả	O
+sẽ	O
+cùng	O
+về	O
+Ba	B-LOC
+Lan	I-LOC
+.	O

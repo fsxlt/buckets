@@ -1,0 +1,81 @@
+REDIRECCIÓN	O
+Ramón	B-PER
+María	I-PER
+del	I-PER
+Valle-Inclán	I-PER
+
+Habita	O
+en	O
+América	B-LOC
+del	I-LOC
+Norte	I-LOC
+.	O
+
+SriLankan	B-ORG
+Airlines	I-ORG
+/	O
+Air	B-ORG
+China	I-ORG
+
+REDIRECCIÓN	O
+Beppu	B-LOC
+(	I-LOC
+Ōita	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Jurisdicción	B-LOC
+de	I-LOC
+San	I-LOC
+Zadornil	I-LOC
+
+New	B-ORG
+York	I-ORG
+Knicks	I-ORG
+(	O
+desde	O
+San	B-ORG
+Antonio	I-ORG
+Spurs	I-ORG
+)	O
+
+''	O
+'1	O
+''	O
+'	O
+Club	B-ORG
+Cerro	I-ORG
+Porteño	I-ORG
+
+Marc	B-PER
+Blucas	I-PER
+como	O
+Riley	B-PER
+Finn	I-PER
+.	O
+
+Estadio	B-ORG
+Monumental	I-ORG
+de	I-ORG
+Maturín	I-ORG
+,	O
+Maturín	B-LOC
+,	O
+Venezuela	B-LOC
+
+Rafael	B-PER
+Leónidas	I-PER
+Trujillo	I-PER
+
+Jorge	B-PER
+Eduardo	I-PER
+Costilla	I-PER
+Sánchez	I-PER
+
+===	O
+Madrigal	B-LOC
+de	I-LOC
+las	I-LOC
+Altas	I-LOC
+Torres	I-LOC
+===	O

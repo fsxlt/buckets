@@ -1,0 +1,84 @@
+Breyten	B-PER
+Breytenbach	I-PER
+(	O
+1939–	O
+)	O
+
+HIStory	B-ORG
+:	I-ORG
+Past	I-ORG
+,	I-ORG
+Present	I-ORG
+and	I-ORG
+Future	I-ORG
+,	I-ORG
+Book	I-ORG
+I	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Moshi	I-LOC
+Mjini	I-LOC
+;	O
+
+Shinyanga	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+``	O
+I	B-ORG
+Believe	I-ORG
+I	B-ORG
+Can	I-ORG
+Fly	I-ORG
+''	O
+umeimbwa	O
+na	O
+R.	B-PER
+Kelly	I-PER
+–	O
+5:22	O
+
+'	O
+''	O
+Konya	B-LOC
+''	O
+'	O
+
+Eneo	O
+lake	O
+ni	O
+25.9	O
+km²	B-ORG
+.	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Murang'a	I-LOC
+
+Morogoro	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Feira	I-ORG
+de	I-ORG
+Santana	I-ORG
+
+Alikuwa	O
+pia	O
+Mmarekani	B-ORG
+mweusi	I-ORG
+.	O
+
+Ignas	B-PER
+wa	I-PER
+Loyola	I-PER
+
+Dominiko	B-PER
+wa	I-PER
+Guzman	I-PER

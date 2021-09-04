@@ -1,0 +1,72 @@
+কেরল	B-LOC
+,	O
+লক্ষদ্বীপ	B-LOC
+,	O
+পুদুচেরি	B-LOC
+
+ইনস্টিটিউট	B-ORG
+অব	I-ORG
+ইলেকট্রিক্যাল	I-ORG
+অ্যান্ড	I-ORG
+ইলেকট্রনিক্স	I-ORG
+ইঞ্জিনিয়ার্স	I-ORG
+
+'	O
+''	O
+জিনেদিন	B-PER
+জিদান	I-PER
+''	O
+'	O
+
+জাতীয়	B-LOC
+ক্রিকেট	I-LOC
+স্টেডিয়াম	I-LOC
+(	I-LOC
+গ্রেনাডা	I-LOC
+)	I-LOC
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+ফ্রেড্রিখ	B-PER
+চ্যাপম্যান	I-PER
+রবিন্‌স	I-PER
+
+খান	B-PER
+আতাউর	I-PER
+রহমান	I-PER
+-	O
+
+অন্নপূর্ণা	B-LOC
+(	I-LOC
+পর্বতশৃঙ্গ	I-LOC
+)	I-LOC
+
+পলাশ	B-LOC
+উপজেলা	I-LOC
+ও	O
+নরসিংদী	B-LOC
+সদর	I-LOC
+উপজেলার	I-LOC
+অংশবিশেষ	O
+
+মুহাম্মাদ	B-PER
+হাসনাইন	I-PER
+হাইকল	I-PER
+
+টাইম	B-ORG
+(	I-ORG
+সাময়িকী	I-ORG
+)	I-ORG
+
+আইল	B-LOC
+অব	I-LOC
+ম্যান	I-LOC
+
+ফিল্ড	B-ORG
+(	I-ORG
+গণিত	I-ORG
+)	I-ORG

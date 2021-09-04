@@ -1,0 +1,41 @@
+ĐỔI	O
+Giáo	B-PER
+hoàng	I-PER
+Giuliô	I-PER
+II	I-PER
+
+đổi	O
+Tắc	B-LOC
+kè	I-LOC
+palmato	I-LOC
+
+đổi	O
+Maximilian	B-PER
+II	I-PER
+của	I-PER
+đế	I-PER
+quốc	I-PER
+La	I-PER
+Mã	I-PER
+Thần	I-PER
+thánh	I-PER
+
+đổi	O
+Lâu	B-ORG
+đài	I-ORG
+Vaux-le-Vicomte	I-ORG
+
+La	B-LOC
+Almunia	I-LOC
+de	I-LOC
+Doña	I-LOC
+Godina	I-LOC
+
+``	O
+My	B-ORG
+Life	I-ORG
+Would	I-ORG
+Suck	I-ORG
+Without	I-ORG
+You	I-ORG
+''	O

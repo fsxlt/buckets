@@ -1,0 +1,29 @@
+Ugiriki	B-LOC
+(	O
+Athens	B-LOC
+)	O
+(	O
+EU	O
+)	O
+
+Mtaguso	B-ORG
+wa	I-ORG
+pili	I-ORG
+wa	I-ORG
+Vatikani	I-ORG
+
+24	B-ORG
+''	O
+(	O
+2005	O
+-	O
+2009	O
+)	O
+kama	O
+Bill	B-PER
+Buchanan	I-PER
+
+Wilaya	B-LOC
+ya	I-LOC
+Mlima	I-LOC
+Elgon	I-LOC

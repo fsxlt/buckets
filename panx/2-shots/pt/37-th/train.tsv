@@ -1,0 +1,31 @@
+REDIRECIONAMENTO	O
+Basílica	B-ORG
+de	I-ORG
+Santa	I-ORG
+Cruz	I-ORG
+em	I-ORG
+Jerusalém	I-ORG
+
+William	B-PER
+Daniel	I-PER
+Phillips	I-PER
+
+Gheorghe	B-PER
+G.	I-PER
+Mironescu	I-PER
+
+''	O
+Hajime	B-ORG
+no	I-ORG
+Ippo	I-ORG
+''	O
+
+Gualaca	B-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+Clarksville	B-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC

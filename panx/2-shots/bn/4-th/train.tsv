@@ -1,0 +1,36 @@
+**	O
+আব্দিমের	B-LOC
+মানিকজোড়	I-LOC
+,	O
+''Ciconia	O
+abdimii	O
+''	O
+
+দ্বিতীয়	B-PER
+মুহাম্মদ	I-PER
+(	I-PER
+উসমানীয়	I-PER
+সুলতান	I-PER
+)	I-PER
+
+আলোক	B-ORG
+বর্ষ	I-ORG
+(	O
+light	O
+year	O
+)	O
+
+সেন্ট	B-LOC
+ভিনসেন্ট	I-LOC
+ও	I-LOC
+গ্রেনাডাইন	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+সরকারি	B-ORG
+আজিজুল	I-ORG
+হক	I-ORG
+কলেজ	I-ORG
+
+শের	B-PER
+শাহ	I-PER
+সুরি	I-PER

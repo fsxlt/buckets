@@ -1,0 +1,20 @@
+Khâm	B-ORG
+định	I-ORG
+Việt	I-ORG
+sử	I-ORG
+Thông	I-ORG
+giám	I-ORG
+cương	I-ORG
+mục	I-ORG
+
+Chu	B-PER
+Triệu	I-PER
+cộng	I-PER
+hòa	I-PER
+
+đổi	O
+Fukui	B-LOC
+(	I-LOC
+thành	I-LOC
+phố	I-LOC
+)	I-LOC

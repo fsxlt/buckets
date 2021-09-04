@@ -1,0 +1,19 @@
+Imperador	B-PER
+Konoe	I-PER
+,	O
+1142-1155	O
+.	O
+
+Dores	B-LOC
+de	I-LOC
+Guanhães	I-LOC
+(	O
+MG	O
+)	O
+
+**	O
+''	O
+Morde	B-ORG
+&	I-ORG
+Assopra	I-ORG
+''	O

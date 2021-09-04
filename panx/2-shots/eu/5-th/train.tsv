@@ -1,0 +1,64 @@
+Nafarroako	B-LOC
+erregekide	O
+berriak	O
+,	O
+Alfontso	B-PER
+V.a	I-PER
+Aragoikoaren	I-PER
+anaia	O
+,	O
+Joanes	B-PER
+II.a	I-PER
+Gaztelakoaren	I-PER
+laguntza	O
+zuen	O
+handikien	O
+talde	O
+nagusi	O
+batekin	O
+liskarrak	O
+izan	O
+zituen	O
+.	O
+
+St	B-ORG
+Patrick	I-ORG
+'s	I-ORG
+Athletic	I-ORG
+F.C	I-ORG
+.	I-ORG
+
+BIRZUZENDU	O
+Peio	B-PER
+Martinez	I-PER
+de	I-PER
+Eulate	I-PER
+
+Dantzari-harrera	O
+,	O
+New	B-LOC
+Yorken	I-LOC
+hasi	O
+zuen	O
+,	O
+Broadwayko	B-ORG
+musikaletan	O
+.	O
+
+Proiektuak	O
+Euskal	B-ORG
+Y	I-ORG
+izena	O
+hartu	O
+du	O
+ibilbideak	O
+duen	O
+formarengatik	O
+.	O
+
+Friburgo	B-LOC
+kantonamenduan	I-LOC
+dago	O
+,	O
+barrutian	O
+.	O

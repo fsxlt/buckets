@@ -1,0 +1,35 @@
+शर्मिला	B-PER
+टैगोर	I-PER
+-	O
+सीमा	O
+
+पुनर्प्रेषित	O
+येरुशलम	B-ORG
+का	I-ORG
+इब्रानी	I-ORG
+विश्वविद्यालय	I-ORG
+
+उदयगिरि	B-LOC
+(	I-LOC
+मध्य	I-LOC
+प्रदेश	I-LOC
+)	I-LOC
+
+उत्तरी	B-LOC
+तामान्दुआ	I-LOC
+,	O
+दक्षिणी	B-LOC
+तामान्दुआ	I-LOC
+
+पुनर्प्रेषित	O
+सोनिक	B-ORG
+बूम	I-ORG
+धमाल	I-ORG
+और	I-ORG
+धूम	I-ORG
+
+मार्ग्रेट	B-PER
+स्मिथ	I-PER
+कोर्ट	I-PER
+वर्जीनिया	B-PER
+वेड	I-PER

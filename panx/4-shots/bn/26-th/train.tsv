@@ -1,0 +1,71 @@
+বায়ার্ন	B-ORG
+মিউনিখ	I-ORG
+(	O
+জার্মানি	B-LOC
+)	O
+
+এক্সপ্রেশন	B-ORG
+(	I-ORG
+গণিত	I-ORG
+)	I-ORG
+
+দ্বিতীয়	B-LOC
+বিশ্বযুদ্ধে	I-LOC
+অক্ষশক্তি	I-LOC
+
+শঙ্কর	B-PER
+দয়াল	I-PER
+শর্মা	I-PER
+(	O
+১৯১৮-১৯৯৯	O
+)	O
+
+ক্রিস্টাল	B-ORG
+প্যালেস	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+)	O
+,	O
+পাঠানকোট	B-LOC
+(	O
+326	O
+কি.মি.	O
+/	O
+202	O
+মা	O
+.	O
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+হায়দ্রাবাদ	B-LOC
+,	I-LOC
+ভারত	I-LOC
+
+প্রশিক্ষক	O
+–	O
+জ্যাক	B-PER
+ক্যালিস	I-PER
+
+জলপাইরঙা	B-LOC
+সাগর	I-LOC
+কাছিম	I-LOC
+
+এফবিআই	B-PER
+শীর্ষ	I-PER
+দশ	I-PER
+ফেরারী	I-PER
+
+বার্মিংহ্যাম	B-ORG
+সিটি	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+জর্জ-লুই	B-PER
+ল্যক্লের	I-PER
+,	I-PER
+কোঁত	I-PER
+দ্য	I-PER
+বুফোঁ	I-PER

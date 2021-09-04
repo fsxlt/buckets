@@ -1,0 +1,36 @@
+Cortes	B-LOC
+de	I-LOC
+la	I-LOC
+Frontera	I-LOC
+
+**	O
+''	O
+Queen	B-ORG
+of	I-ORG
+the	I-ORG
+Office	I-ORG
+''	O
+(	O
+KBS2	B-ORG
+)	O
+
+'	O
+''	O
+Henri	B-PER
+Leconte	I-PER
+Pavel	B-PER
+Složil	I-PER
+''	O
+'	O
+6–1	O
+,	O
+7–6	O
+
+He	O
+also	O
+made	O
+one	O
+appearance	O
+for	O
+England	B-ORG
+.	O

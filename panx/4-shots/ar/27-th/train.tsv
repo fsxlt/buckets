@@ -1,0 +1,87 @@
+'	O
+''	O
+دافيد	B-PER
+فيرير	I-PER
+''	O
+'	O
+
+تحويل	O
+مقاطعة	B-LOC
+راندولف	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+تحويل	O
+لوكهيد	B-PER
+تراى	I-PER
+ستار	I-PER
+(	I-PER
+سلاح	I-PER
+الجو	I-PER
+الملكي	I-PER
+)	I-PER
+
+**	O
+جماهير	O
+الألمان	B-LOC
+الشرقيين	I-LOC
+يقتحمون	O
+بوابة	B-ORG
+براندنبورغ	I-ORG
+إحدى	O
+بوابات	O
+جدار	B-ORG
+برلين	I-ORG
+.	O
+
+الدوري	B-ORG
+الإسباني	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+1929–30	I-ORG
+
+****	O
+يربوع	B-LOC
+ليختنشتاين،	I-LOC
+''Eremodipus	O
+lichensteini	O
+''	O
+
+نادي	B-ORG
+كاظمة	I-ORG
+×	O
+نادي	B-ORG
+السالمية	I-ORG
+(	O
+1:2	O
+)	O
+و	O
+(	O
+1:1	O
+)	O
+
+تحويل	O
+تشن	B-PER
+يى	I-PER
+بينغ	I-PER
+
+**	O
+جيري	B-PER
+لوردان،	I-PER
+مؤلف	O
+موسيقى	B-LOC
+ومغني	O
+بريطاني	B-LOC
+.	O
+
+تحويل	O
+مونروي	B-LOC
+(	I-LOC
+كونيتيكت	I-LOC
+)	I-LOC
+
+أبراج	B-ORG
+النقل	I-ORG
+الكهربائية	I-ORG
+.	O

@@ -1,0 +1,39 @@
+'	O
+''	O
+Robert	B-PER
+Lindstedt	I-PER
+''	O
+'	O
+'	O
+''	O
+Robin	B-PER
+Söderling	I-PER
+''	O
+'	O
+
+ALIH	O
+Kekaisaran	B-ORG
+Babilonia	I-ORG
+Baru	I-ORG
+
+Kota	B-LOC
+perlindungan	I-LOC
+untuk	I-LOC
+pembunuh	I-LOC
+
+Ella	B-PER
+Fitzgerald	I-PER
+(	O
+1917-1996	O
+)	O
+
+ALIH	O
+Punggung	B-LOC
+tengah	I-LOC
+samudra	I-LOC
+
+ALIH	O
+Protektorat	B-ORG
+Bohemia	I-ORG
+dan	I-ORG
+Moravia	I-ORG

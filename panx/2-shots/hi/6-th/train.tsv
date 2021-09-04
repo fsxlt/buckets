@@ -1,0 +1,34 @@
+जॉर्जिया	B-LOC
+(	I-LOC
+अमरीकी	I-LOC
+राज्य	I-LOC
+)	I-LOC
+
+अनुप्रेषित	O
+कार्ल	B-PER
+डेविड	I-PER
+ऐंडरसन	I-PER
+
+नैनीताल-ऊधमसिंह	B-ORG
+नगर	I-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+राष्ट्रीय	B-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+त्रिची	I-ORG
+
+दादरा	B-LOC
+और	I-LOC
+नगर	I-LOC
+हवेली	I-LOC
+
+मोतीलाल	B-PER
+वोरा	I-PER
+(	O
+२	O
+)	O

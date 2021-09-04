@@ -1,0 +1,92 @@
+'	O
+''	O
+Conspiracy	B-ORG
+of	I-ORG
+One	I-ORG
+''	O
+'	O
+''	O
+
+George	B-PER
+Bernard	I-PER
+Shaw	I-PER
+(	O
+1856–1950	O
+)	O
+
+Raymond	B-PER
+Riotte	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Marie-Laure	B-PER
+Delie	I-PER
+Marie-Laure	B-PER
+Delie	I-PER
+Claire	B-PER
+Lavogez	I-PER
+
+Clube	B-ORG
+de	I-ORG
+Futebol	I-ORG
+Estrela	I-ORG
+da	I-ORG
+Amadora	I-ORG
+
+Elles	O
+se	O
+rencontrent	O
+au	O
+Queensland	B-LOC
+,	O
+en	O
+Nouvelle-Galles	B-LOC
+du	I-LOC
+Sud	I-LOC
+et	O
+au	O
+Victoria	B-LOC
+.	O
+
+São	B-LOC
+Francisco	I-LOC
+do	I-LOC
+Glória	I-LOC
+
+We	B-ORG
+Are	I-ORG
+the	I-ORG
+Champions	I-ORG
+''	O
+
+Paron	B-LOC
+(	I-LOC
+Yonne	I-LOC
+)	I-LOC
+
+Alexandre	B-LOC
+(	I-LOC
+cratère	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Andrea	B-PER
+Hlaváčková	I-PER
+Lucie	B-PER
+Hradecká	I-PER
+
+Ils	O
+sont	O
+remplacés	O
+par	O
+Oxford	B-ORG
+United	I-ORG
+,	O
+Birmingham	B-ORG
+City	I-ORG
+et	O
+Manchester	B-ORG
+City	I-ORG
+.	O

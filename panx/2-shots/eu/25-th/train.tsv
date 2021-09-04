@@ -1,0 +1,49 @@
+31x25px]]	O
+'	O
+''	O
+Interstate	B-ORG
+PRI-1	I-ORG
+''	O
+'	O
+
+Prosper	B-PER
+Ménièreren	I-PER
+omenez	O
+jarri	O
+zioten	O
+izena	O
+.	O
+
+Hiriburuko	O
+Union	B-ORG
+Olimpija	I-ORG
+taldea	O
+da	O
+garaipen	O
+gehien	O
+lortu	O
+dituena	O
+.	O
+
+Huangpu	B-LOC
+Barrutia	I-LOC
+(	O
+黄埔区	O
+)	O
+
+Bere	O
+izena	O
+Cuno	B-PER
+Hoffmeistergatik	I-PER
+jasotzen	O
+du	O
+.	O
+
+Beneventoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O

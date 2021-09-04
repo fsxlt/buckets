@@ -1,0 +1,42 @@
+;	O
+'	O
+''	O
+NB	B-ORG
+II	I-ORG
+''	O
+'	O
+
+Szász	B-PER
+János	I-PER
+(	O
+1958–	O
+)	O
+
+1934–35-ben	O
+öt	O
+alkalommal	O
+szerepelt	O
+az	O
+uruguayi	B-ORG
+válogatottban	I-ORG
+.	O
+
+Ugyanakkor	O
+megtámadta	O
+a	O
+Bizánci	B-LOC
+Birodalom	I-LOC
+flottáját	O
+is	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Ilja	B-PER
+Vlagyimirovics	I-PER
+Cimbalar	I-PER
+
+ÁTIRÁNYÍTÁS	O
+Castiglione	B-LOC
+(	I-LOC
+Haute-Corse	I-LOC
+)	I-LOC

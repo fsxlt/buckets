@@ -1,0 +1,63 @@
+Ognev	O
+–	O
+Szergej	B-PER
+Ivanovics	I-PER
+Ognyov	I-PER
+(	O
+1886–1951	O
+)	O
+
+Napi	O
+járatok	O
+kötik	O
+össze	O
+Caracasszal	B-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+San	B-LOC
+Mango	I-LOC
+d’Aquino	I-LOC
+
+'	O
+''	O
+AFC	B-ORG
+Ajax	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Jakub	B-PER
+Kornfeil	I-PER
+''	O
+'	O
+
+'	O
+''	O
+SC	B-ORG
+Heerenveen	I-ORG
+''	O
+'	O
+(	O
+5.	O
+hely	O
+)	O
+
+Sant	B-LOC
+Fost	I-LOC
+de	I-LOC
+Campsentelles	I-LOC
+-	O
+7	O
+265	O
+
+A	O
+negyedik	O
+évadban	O
+egy	O
+Chevrolet	B-ORG
+El	O
+Caminot	O
+vezetett	O
+.	O

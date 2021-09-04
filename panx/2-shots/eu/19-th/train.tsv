@@ -1,0 +1,64 @@
+Avellinoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+Barakaldo	B-ORG
+CF	I-ORG
+taldean	O
+ibili	O
+eta	O
+gero	O
+Athletic	B-ORG
+Clubera	I-ORG
+pasatu	O
+zen	O
+.	O
+
+Neptuno	B-PER
+(	I-PER
+mitologia	I-PER
+)	I-PER
+
+'	O
+''	O
+Vinningen	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Napoliko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+Izan	O
+ere	O
+,	O
+Juliano	B-PER
+Apostata	I-PER
+Sapor	B-PER
+II.aren	I-PER
+kontra	O
+borrokatzen	O
+ari	O
+zela	O
+hil	O
+zen	O
+.	O
+
+Euzkadi	B-ORG
+(	I-ORG
+egunkaria	I-ORG
+)	I-ORG

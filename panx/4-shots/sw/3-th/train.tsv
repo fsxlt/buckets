@@ -1,0 +1,80 @@
+===	O
+Mkoa	B-LOC
+wa	I-LOC
+Bonde	I-LOC
+la	I-LOC
+Ufa	I-LOC
+===	O
+
+'	O
+''	O
+Daniel	B-PER
+Arap	I-PER
+Moi	I-PER
+''	O
+'	O
+(	O
+1924–	O
+)	O
+
+Umoja	B-ORG
+wa	I-ORG
+Mataifa	I-ORG
+
+Mkoa	B-LOC
+wa	I-LOC
+Kati	I-LOC
+(	I-LOC
+Kenya	I-LOC
+)	I-LOC
+
+Orodha	B-ORG
+ya	I-ORG
+Mawaziri	I-ORG
+Wakuu	I-ORG
+wa	I-ORG
+Ureno	I-ORG
+
+Samuel	B-PER
+Mqhayi	I-PER
+(	O
+1875-1945	O
+)	O
+
+Kaisari	B-PER
+Wilhelm	I-PER
+I	I-PER
+
+Wilaya	B-ORG
+ya	I-ORG
+Sinématiali	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Zanzibar	I-LOC
+Mjini	I-LOC
+Magharibi	I-LOC
+
+Machansela	B-LOC
+wa	I-LOC
+Ujerumani	I-LOC
+
+Allow	B-ORG
+Us	I-ORG
+to	I-ORG
+Be	I-ORG
+Frank	I-ORG
+''	O
+(	O
+2004	O
+)	O
+
+Alimfuata	O
+Papa	B-PER
+Yohane	I-PER
+VI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Sisinnio	I-PER
+.	O

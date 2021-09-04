@@ -1,0 +1,44 @@
+Same	B-ORG
+Trailer	I-ORG
+Different	I-ORG
+Park	I-ORG
+''	O
+(	O
+2013	O
+)	O
+
+Wachenheim	B-ORG
+an	I-ORG
+der	I-ORG
+Weinstraße	I-ORG
+(	O
+Rhl.-Pf	O
+.	O
+
+G3	B-LOC
+:	I-LOC
+Live	I-LOC
+in	I-LOC
+Concert	I-LOC
+''	O
+(	O
+with	O
+Joe	B-PER
+Satriani	I-PER
+and	O
+Steve	B-PER
+Vai	I-PER
+)	O
+
+William	B-PER
+McKinley	I-PER
+was	O
+born	O
+in	O
+Niles	B-LOC
+,	I-LOC
+Ohio	I-LOC
+,	O
+in	O
+1843	O
+.	O

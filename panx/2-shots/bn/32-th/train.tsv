@@ -1,0 +1,29 @@
+সরকারী	B-ORG
+বিজ্ঞান	I-ORG
+কলেজ	I-ORG
+
+ওয়াশিংটন	B-LOC
+,	I-LOC
+ডি.সি	I-LOC
+.	I-LOC
+
+দশমিনা	B-LOC
+উপজেলা	I-LOC
+,	O
+গলাচিপা	B-LOC
+উপজেলা	I-LOC
+
+ল্য	B-ORG
+নুভেল	I-ORG
+অবজের্ভাতর	I-ORG
+
+রিচার্ড	B-PER
+এডওয়ার্ড	I-PER
+টেইলর	I-PER
+
+'	O
+''	O
+চামারা	B-PER
+কাপুগেদারা	I-PER
+''	O
+'	O

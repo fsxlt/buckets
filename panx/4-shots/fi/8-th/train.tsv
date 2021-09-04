@@ -1,0 +1,119 @@
+OHJAUS	O
+Oleg	B-PER
+Ivanov	I-PER
+(	I-PER
+jalkapalloilija	I-PER
+,	I-PER
+1967	I-PER
+)	I-PER
+
+Sen	O
+julkaisi	O
+Monsp	B-ORG
+Records	I-ORG
+.	O
+
+''	O
+Lähde	B-LOC
+''	O
+'	O
+tarkoittaa	O
+joen	O
+alkukohtaa	O
+.	O
+
+Ndola	B-LOC
+,	O
+Rhodesian	B-LOC
+ja	I-LOC
+Njassamaan	I-LOC
+liittovaltio	I-LOC
+
+kuuluu	O
+pääosin	O
+Länsi-Götanmaan	B-LOC
+lääniin	I-LOC
+,	O
+mutta	O
+myös	O
+Jönköpingin	B-LOC
+lääniin	I-LOC
+
+Hän	O
+kävi	O
+esiintymässä	O
+Helsingissä	B-LOC
+useaan	O
+otteeseen	O
+ja	O
+tutustui	O
+kapakoissa	O
+Tapio	B-PER
+Rautavaaran	I-PER
+tuotantoon	O
+.	O
+
+Se	O
+on	O
+Xishuangbannan	B-LOC
+dai-kansan	I-LOC
+autonomisen	I-LOC
+prefektuurin	I-LOC
+päähallintopaikka	O
+.	O
+
+Heidän	O
+edellään	O
+puolustajien	O
+pistepörssissä	O
+oli	O
+vain	O
+Mora	B-ORG
+IK	I-ORG
+:	I-ORG
+n	I-ORG
+Ross	B-PER
+Lupaschuk	I-PER
+.	O
+
+Hän	O
+toimii	O
+tällä	O
+hetkellä	O
+Münchenin	B-ORG
+filharmonisen	I-ORG
+orkesterin	I-ORG
+ylikapellimestarina	O
+.	O
+
+OHJAUS	O
+Ovša	B-ORG
+Kupel	I-ORG
+Stadium	I-ORG
+
+Hän	O
+on	O
+syntyisin	O
+New	B-LOC
+Yorkista	I-LOC
+.	O
+
+Samaan	O
+aikaan	O
+''Tractatus	O
+''	O
+alkoi	O
+herättää	O
+kiinnostusta	O
+,	O
+ja	O
+niin	O
+sanotun	O
+Wienin	B-PER
+piirin	I-PER
+jäsenet	O
+olivat	O
+siitä	O
+erityisen	O
+innostuneita	O
+.	O

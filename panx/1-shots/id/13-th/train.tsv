@@ -1,0 +1,22 @@
+ALIH	O
+A.C.	B-ORG
+Chievo	I-ORG
+Verona	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Manche	I-LOC
+
+Mempunyai	O
+akun	O
+Twitter	B-ORG
+dan	O
+aktif	O
+
+''	O
+Miley	B-PER
+Cyrus	I-PER
+''	O
+'	O

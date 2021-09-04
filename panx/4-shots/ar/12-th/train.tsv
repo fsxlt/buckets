@@ -1,0 +1,83 @@
+تحويل	O
+إي	B-PER
+كوانغ	I-PER
+سو	I-PER
+(	I-PER
+1985	I-PER
+)	I-PER
+
+تحويل	O
+جورجيا	B-LOC
+(	I-LOC
+ولاية	I-LOC
+أمريكية	I-LOC
+)	I-LOC
+
+تحويل	O
+سامسونج	B-ORG
+بطاقة	I-ORG
+المشاركة	I-ORG
+المحدودة	I-ORG
+
+وهو	O
+كان	O
+أحد	O
+لاعبي	O
+منتخب	B-ORG
+ناميبيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+أبو	B-PER
+إسحاق	I-PER
+الحويني	I-PER
+
+تحويل	O
+باولو	B-PER
+روبرتو	I-PER
+فالكاو	I-PER
+
+تحويل	O
+كيرلس	B-PER
+السادس	I-PER
+(	I-PER
+بابا	I-PER
+الإسكندرية	I-PER
+)	I-PER
+
+تحويل	O
+يربوع	B-LOC
+بلوشستان	I-LOC
+القزم	I-LOC
+
+منتخب	B-ORG
+المغرب	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+مثل	O
+منتخب	B-ORG
+رومانيا	I-ORG
+في	O
+6	O
+مباريات	O
+(	O
+1931-1938	O
+)	O
+.	O
+
+تحويل	O
+أغورا	B-LOC
+هيلز	I-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+تحويل	O
+بيل	B-LOC
+ريفيير	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC

@@ -1,0 +1,131 @@
+ÁTIRÁNYÍTÁS	O
+FA	B-ORG
+Ararat	I-ORG
+Jerevan	I-ORG
+
+Ausztrália	B-LOC
+,	O
+Indonézia	B-LOC
+,	O
+Pápua	B-LOC
+Új-Guinea	I-LOC
+,	O
+a	O
+Salamon-szigetek	B-LOC
+és	O
+Kelet-Timor	B-LOC
+területén	O
+honos	O
+.	O
+
+``	O
+Oxygène	B-ORG
+4	O
+''	O
+
+Stanley	B-LOC
+(	I-LOC
+Falkland-szigetek	I-LOC
+)	I-LOC
+
+''	O
+Ariana	B-PER
+Grande	I-PER
+@	O
+arianagrande	O
+''	O
+'	O
+
+Saját	O
+rajz-	O
+és	O
+fotóillusztrációival	O
+jelent	O
+meg	O
+több	O
+önálló	O
+kötete	O
+és	O
+mások	O
+munkáit	O
+(	O
+például	O
+Tollas	B-PER
+Tiboréit	I-PER
+)	O
+is	O
+illusztrálta	O
+.	O
+
+Bogdanovac	B-LOC
+(	I-LOC
+Bujanovac	I-LOC
+)	I-LOC
+,	O
+
+Livingston	B-LOC
+megye	I-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC
+
+FC	B-ORG
+Midtjylland	I-ORG
+(	O
+7,960	O
+)	O
+
+A	O
+tizenegyedik	O
+helyről	O
+rajtolva	O
+megnyerte	O
+a	O
+viadalt	O
+,	O
+megszerezve	O
+Brazília	B-LOC
+első	O
+győzelmét	O
+Emerson	B-PER
+Fittipaldi	I-PER
+1993-as	B-ORG
+sikere	O
+óta	O
+.	O
+
+]]	O
+,	O
+Szöul	B-LOC
+(	O
+서울	O
+용산구	O
+이태원로55길	O
+60-16	O
+,	O
+삼성미술관	O
+리움	O
+(	O
+한남동	O
+)	O
+)	O
+
+Svangaskarð	B-ORG
+Stadion	I-ORG
+,	O
+Toftir	B-LOC
+,	O
+Feröer	B-LOC
+
+Licinia	B-PER
+Eudoxiát	I-PER
+és	O
+III	O
+.	O
+
+Kamichu	B-ORG
+–	I-ORG
+Az	I-ORG
+iskolás	I-ORG
+istennő	I-ORG
+''	O

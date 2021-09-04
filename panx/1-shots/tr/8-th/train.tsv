@@ -1,0 +1,20 @@
+Emilio	B-PER
+Estevez	I-PER
+-	O
+James	B-PER
+Lowell	I-PER
+``	I-PER
+Jim	I-PER
+''	I-PER
+Mitchell	I-PER
+
+YÖNLENDİRME	O
+1957	B-ORG
+Türkiye	I-ORG
+genel	I-ORG
+seçimleri	I-ORG
+
+YÖNLENDİR	O
+Amerika	B-LOC
+altın	I-LOC
+yağmurcunu	I-LOC

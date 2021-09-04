@@ -1,0 +1,38 @@
+David	B-PER
+Cutler	I-PER
+(	I-PER
+Ökonom	I-PER
+)	I-PER
+
+Die	O
+30	O
+NHL-Teams	B-ORG
+hatten	O
+dabei	O
+die	O
+Chance	O
+sich	O
+die	O
+Rechte	O
+an	O
+den	O
+hoffnungsvollsten	O
+Talenten	O
+zu	O
+sichern	O
+.	O
+
+44.	B-ORG
+Armee	I-ORG
+(	I-ORG
+Japanisches	I-ORG
+Kaiserreich	I-ORG
+)	I-ORG
+
+***	O
+'	O
+''	O
+Fürsterzbistum	B-LOC
+Köln	I-LOC
+''	O
+'	O

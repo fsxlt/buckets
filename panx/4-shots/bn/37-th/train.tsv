@@ -1,0 +1,81 @@
+নিউ	B-ORG
+ইয়র্ক	I-ORG
+স্টক	I-ORG
+এক্সচেঞ্জ	I-ORG
+
+উইলিয়াম	B-PER
+হেনরি	I-PER
+হ্যারিসন	I-PER
+
+খয়েরিডানা	B-LOC
+পাপিয়া	I-LOC
+,	O
+''Clamator	O
+coromandus	O
+''	O
+
+জেপি	B-PER
+ডুমিনি	I-PER
+২য়	O
+টেস্টের	O
+১ম	O
+ইনিংসে	O
+১	O
+,	O
+০০০	O
+রান	O
+অতিক্রম	O
+করেন।	O
+
+ইলিয়াস	B-PER
+সানি	I-PER
+(	O
+ঢাকা	B-ORG
+গ্ল্যাডিয়েটরস	I-ORG
+)	O
+,	O
+১৭	O
+
+২	O
+,	O
+০০০জন	O
+মার্কিন	B-LOC
+যুক্তরাষ্ট্র	I-LOC
+,	O
+যুক্তরাজ্য	B-LOC
+,	O
+কানাডা	B-LOC
+,	O
+মধ্যপ্রাচ্য	B-LOC
+এবং	O
+অন্যান্য	O
+দেশে	O
+
+'	O
+''	O
+তাল্লিন	B-LOC
+''	O
+'	O
+
+ক্রিয়েটিভ	B-ORG
+কমন্স	I-ORG
+লাইসেন্স	I-ORG
+
+কমলা	B-ORG
+(	I-ORG
+রঙ	I-ORG
+)	I-ORG
+
+ভার্জিনিয়া	B-LOC
+টেক	I-LOC
+হত্যাকাণ্ড	I-LOC
+
+পার্সি	B-LOC
+জ্যাকসন	I-LOC
+অ্যান্ড	I-LOC
+দি	I-LOC
+অলিম্পিয়ানস	I-LOC
+
+রবার্ট	B-PER
+লুইস	I-PER
+স্টিভেন্সন	I-PER

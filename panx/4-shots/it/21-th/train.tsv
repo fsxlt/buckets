@@ -1,0 +1,105 @@
+'	O
+''	O
+Phil	B-PER
+Hill	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Ivan	B-PER
+Palazzese	I-PER
+''	O
+'	O
+
+Regno	B-ORG
+d'Italia	I-ORG
+(	I-ORG
+1805-1814	I-ORG
+)	I-ORG
+
+Alpi	B-LOC
+dello	I-LOC
+Stubai	I-LOC
+(	O
+9	O
+)	O
+
+Rifugio	B-LOC
+Emílio	I-LOC
+Goeldi	I-LOC
+
+rinvia	O
+Mafalda	B-LOC
+(	I-LOC
+Italia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Pierluigi	B-PER
+Collina	I-PER
+''	O
+'	O
+
+20px	O
+U.S.	B-LOC
+Pompeiana	I-LOC
+,	I-LOC
+Pompei	I-LOC
+
+Banca	B-ORG
+internazionale	I-ORG
+per	I-ORG
+la	I-ORG
+ricostruzione	I-ORG
+e	I-ORG
+lo	I-ORG
+sviluppo	I-ORG
+
+17ª	O
+giornata	O
+-	O
+12	O
+marzo	O
+Palacio	B-ORG
+de	I-ORG
+Recreación	I-ORG
+y	I-ORG
+Deportes	I-ORG
+,	O
+Mayagüez	B-LOC
+
+In	O
+finale	O
+ha	O
+sconfitto	O
+lo	O
+statunitense	B-LOC
+Tommy	B-PER
+Ho	I-PER
+(	O
+tds	O
+n.	O
+4	O
+)	O
+con	O
+il	O
+punteggio	O
+di	O
+6-4	O
+,	O
+4-6	O
+,	O
+6-1	O
+.	O
+
+:4ª	O
+tappa	O
+Giro	B-ORG
+d'Italia	I-ORG
+(	O
+Perugia	B-LOC
+>	O
+Chieti	B-LOC
+)	O

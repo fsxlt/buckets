@@ -1,0 +1,18 @@
+रीवा	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+'	O
+''	O
+तबूक	B-LOC
+प्रान्त	I-LOC
+''	O
+'	O
+
+नागार्जुन	B-PER
+(	I-PER
+प्राचीन	I-PER
+दार्शनिक	I-PER
+)	I-PER

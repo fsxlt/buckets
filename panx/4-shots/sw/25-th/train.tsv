@@ -1,0 +1,86 @@
+Caedmon	B-ORG
+'s	I-ORG
+Call	I-ORG
+(	I-ORG
+albamu	I-ORG
+)	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Wajir	I-LOC
+(	O
+Wajir	B-LOC
+)	O
+==	O
+
+Alifuta	O
+Shirika	B-ORG
+la	I-ORG
+Yesu	I-ORG
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Marinus	I-PER
+II	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Yohane	I-PER
+XII	I-PER
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Hilarius	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Felix	I-PER
+III	I-PER
+.	O
+
+Elmira	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Toluca	B-LOC
+(	O
+747,512	O
+)	O
+
+Got	B-ORG
+to	I-ORG
+Be	I-ORG
+There	I-ORG
+''	O
+
+Mto	B-LOC
+Avon	I-LOC
+(	I-LOC
+Hampshire	I-LOC
+)	I-LOC
+
+Papa	B-PER
+Benedikto	I-PER
+XV	I-PER
+
+Papa	B-PER
+Honorius	I-PER
+II	I-PER
+
+``	O
+With	B-ORG
+a	I-ORG
+Child	I-ORG
+'s	I-ORG
+Heart	I-ORG
+''	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25306	O
+.	O

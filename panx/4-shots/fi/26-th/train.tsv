@@ -1,0 +1,112 @@
+Mike	B-PER
+Patton	I-PER
+(	O
+Faith	B-ORG
+No	I-ORG
+More	I-ORG
+)	O
+ja	O
+Jonathan	B-PER
+Davis	I-PER
+(	O
+Korn	B-ORG
+)	O
+olivat	O
+mukana	O
+kappaleen	O
+”Lookaway”	O
+sanoituksen	O
+teossa	O
+ja	O
+lauloivat	O
+myös	O
+kappaleessa	O
+.	O
+
+Nero	B-PER
+Claudius	I-PER
+Drusus	I-PER
+–	O
+roomalainen	B-LOC
+sotapäällikkö	O
+
+'	O
+''	O
+Elio	B-PER
+de	I-PER
+Angelis	I-PER
+''	O
+'	O
+
+24	O
+Nytvan	B-LOC
+piiri	I-LOC
+(	O
+Nytva	B-LOC
+)	O
+
+'	O
+''	O
+Jani	B-PER
+Sievinen	I-PER
+51,09	O
+''	O
+'	O
+
+Laulu	O
+esitettiin	O
+ensimmäisen	O
+kerran	O
+Ylioppilaskunnan	B-ORG
+Laulajien	I-ORG
+konsertissa	O
+21.4.1912	O
+.	O
+
+Se	O
+liikennöi	O
+säännöllisesti	O
+Helsinki	B-LOC
+Silja	B-ORG
+Line	I-ORG
+-brändin	O
+alaisena	O
+.	O
+
+Hän	O
+edustaa	O
+Moskovan	B-ORG
+Dynamoa	I-ORG
+.	O
+
+Nokikana	B-LOC
+(	O
+''Fulica	O
+atra	O
+''	O
+)	O
+
+Dar	B-LOC
+es	I-LOC
+Salaamiin	I-LOC
+60	O
+km	O
+
+Kanašin	B-LOC
+piiri	I-LOC
+(	O
+Kanaš	B-LOC
+)	O
+
+Se	O
+astuu	O
+voimaan	O
+tasan	O
+vuotta	O
+myöhemmin	O
+,	O
+jolloin	O
+syntyy	O
+Irlannin	B-LOC
+vapaavaltio	I-LOC
+.	O

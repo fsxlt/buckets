@@ -1,0 +1,76 @@
+ALIH	O
+Daftar	B-ORG
+Presiden	I-ORG
+Portugal	I-ORG
+
+30px]]	O
+''	O
+'Batas	O
+Wilayah	O
+Kota	B-LOC
+Bogor	I-LOC
+'	O
+''	O
+
+Spesies	O
+ini	O
+tersebar	O
+di	O
+India	B-LOC
+Timur	I-LOC
+sampai	O
+Australia	B-LOC
+.	O
+
+===	O
+Kabupaten	B-LOC
+Deli	I-LOC
+Serdang	I-LOC
+===	O
+
+ALIH	O
+Does	B-ORG
+Humor	I-ORG
+Belong	I-ORG
+in	I-ORG
+Music	I-ORG
+?	I-ORG
+
+Ratchanok	B-PER
+Intanon	I-PER
+(	O
+Juara	O
+2	O
+)	O
+
+ALIH	O
+Pekan	B-ORG
+Olahraga	I-ORG
+Nasional	I-ORG
+XVII	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Isère	I-LOC
+
+ALIH	O
+Baruch	B-PER
+Samuel	I-PER
+Blumberg	I-PER
+
+Owl	B-ORG
+City	I-ORG
+dan	O
+Carly	B-PER
+Rae	I-PER
+Jepsen	I-PER
+
+25px]]	O
+'	O
+''	O
+Vitantonio	B-PER
+Liuzzi	I-PER
+''	O
+'	O

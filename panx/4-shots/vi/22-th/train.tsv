@@ -1,0 +1,90 @@
+La	B-LOC
+Teste-de-Buch	I-LOC
+(	O
+33529	O
+)	O
+
+Tillandsia	B-LOC
+linearis	I-LOC
+''	O
+Vellozo	O
+
+Lãng	B-LOC
+Trung	I-LOC
+,	O
+Tứ	B-LOC
+Xuyên	I-LOC
+
+Chúng	O
+tôi	O
+mong	O
+muốn	O
+hợp	O
+tác	O
+với	O
+Bộ	B-ORG
+Tư	I-ORG
+pháp	I-ORG
+(	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+)	I-ORG
+để	O
+luật	O
+này	O
+tốt	O
+hơn”	O
+''	O
+.	O
+
+'	O
+''	O
+Jessica	B-PER
+Lange	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Ingmar	B-PER
+Bergman	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+Viện	B-ORG
+hàn	I-ORG
+lâm	I-ORG
+Khoa	I-ORG
+học	I-ORG
+quốc	I-ORG
+gia	I-ORG
+Gruzia	I-ORG
+
+Anh	B-ORG
+em	I-ORG
+nhà	I-ORG
+Marx	I-ORG
+
+đổi	O
+Gà	B-LOC
+lôi	I-LOC
+trắng	I-LOC
+
+Vyacheslav	B-PER
+Vasilyevich	I-PER
+Tikhonov	I-PER
+
+đổi	O
+Trường	B-ORG
+THPT	I-ORG
+Thuận	I-ORG
+Thành	I-ORG
+số	I-ORG
+1	I-ORG

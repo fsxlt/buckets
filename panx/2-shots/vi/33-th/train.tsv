@@ -1,0 +1,40 @@
+đổi	O
+Zeno	B-PER
+xứ	I-PER
+Elea	I-PER
+
+Quận	B-LOC
+Jackson	I-LOC
+,	I-LOC
+Mississippi	I-LOC
+
+Tàu	B-ORG
+vũ	I-ORG
+trụ	I-ORG
+Stardust	I-ORG
+
+Quốc	B-ORG
+vụ	I-ORG
+viện	I-ORG
+Cộng	I-ORG
+hòa	I-ORG
+Nhân	I-ORG
+dân	I-ORG
+Trung	I-ORG
+Hoa	I-ORG
+
+'	O
+''	O
+Đinh	B-PER
+Tiến	I-PER
+Thành	I-PER
+''	O
+'	O
+(	O
+)	O
+
+Sân	B-LOC
+vận	I-LOC
+động	I-LOC
+Gò	I-LOC
+Đậu	I-LOC

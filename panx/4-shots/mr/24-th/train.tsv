@@ -1,0 +1,108 @@
+*तिरुवनंतपुरम	O
+कोळिकोड	B-LOC
+जन	B-ORG
+शताब्दी	I-ORG
+एक्सप्रेस	I-ORG
+
+मिलिंद	B-PER
+(	I-PER
+मिनँडर	I-PER
+पहिला	I-PER
+)	I-PER
+
+पुनर्निर्देशन	O
+न्यू	B-LOC
+हेवन	I-LOC
+,	I-LOC
+कनेटिकट	I-LOC
+
+पुनर्निर्देशन	O
+जम्मू	B-ORG
+आणि	I-ORG
+काश्मीर	I-ORG
+पीपल्स	I-ORG
+डेमोक्रॅटिक	I-ORG
+पार्टी	I-ORG
+
+हे	O
+शहर	O
+गुरगांव	B-LOC
+जिल्ह्याचे	I-LOC
+प्रशासकीय	O
+केंद्र	O
+आहे	O
+.	O
+
+तिरुनलवेली	B-ORG
+(	I-ORG
+लोकसभा	I-ORG
+मतदारसंघ	I-ORG
+)	I-ORG
+
+'	O
+''	O
+पोप	B-PER
+झोसिमस	I-PER
+''	O
+'Papa	O
+'	O
+''	O
+ZOSIMUS	O
+''	O
+'	O
+
+'	O
+''	O
+पोप	B-PER
+अर्बन	I-PER
+सातवा	I-PER
+''	O
+'Papa	O
+'	O
+''	O
+URBANUS	O
+''	O
+'	O
+Septimus	O
+
+रशिया	B-LOC
+,	O
+किर्गिझस्तान	B-LOC
+,	O
+उझबेकिस्तान	B-LOC
+,	O
+तुर्कमेनिस्तान	B-LOC
+,	O
+चीन	B-LOC
+या	O
+देशांना	O
+व	O
+कास्पियन	B-LOC
+समुद्राला	I-LOC
+लागून	O
+याच्या	O
+सीमा	O
+आहेत	O
+.	O
+
+'	O
+''	O
+चिचेन	B-LOC
+इत्सा	I-LOC
+''	O
+'	O
+''	O
+Chi'ch'èen	O
+Ìitsha	O
+'	O
+''	O
+
+कोटला	B-PER
+जयसूर्या	I-PER
+प्रकाश	I-PER
+रेड्डी	I-PER
+
+पुनर्निर्देशन	O
+पानिपतची	B-ORG
+पहिली	I-ORG
+लढाई	I-ORG

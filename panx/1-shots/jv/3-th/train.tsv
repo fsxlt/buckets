@@ -1,0 +1,21 @@
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Muhammad	B-PER
+bin	I-PER
+Idris	I-PER
+asy-Syafi`i	I-PER
+
+Plato	B-PER
+(	O
+427-347	O
+BCE	O
+)	O

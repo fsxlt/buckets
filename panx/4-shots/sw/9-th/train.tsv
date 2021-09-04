@@ -1,0 +1,76 @@
+Benguela	B-LOC
+(	I-LOC
+mkoa	I-LOC
+)	I-LOC
+
+Jamhuri	B-LOC
+ya	I-LOC
+Afrika	I-LOC
+ya	I-LOC
+Kati	I-LOC
+
+``	O
+Tricky	B-ORG
+,	I-ORG
+Tricky	B-ORG
+''	O
+
+Kaizari	B-PER
+Francis	I-PER
+I	I-PER
+
+Eneo	O
+lake	O
+ni	O
+8.4	O
+km²	B-ORG
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Hilarius	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Felix	I-PER
+III	I-PER
+.	O
+
+Jude	B-PER
+Ciccolella	I-PER
+kama	O
+Mike	B-PER
+Novick	I-PER
+
+Thr33	B-ORG
+Ringz	I-ORG
+''	O
+(	O
+2008	O
+)	O
+
+Vipimo	B-ORG
+sanifu	I-ORG
+vya	I-ORG
+kimataifa	I-ORG
+
+Papa	B-PER
+Agapeto	I-PER
+I	I-PER
+
+Wilaya	B-ORG
+ya	I-ORG
+Sinématiali	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39302	O
+.	O
+
+Jamhuri	B-LOC
+ya	I-LOC
+Kidemokrasia	I-LOC
+ya	I-LOC
+Kongo	I-LOC

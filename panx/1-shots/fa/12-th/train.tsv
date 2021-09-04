@@ -1,0 +1,19 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+ولسوالی	B-LOC
+کوه	I-LOC
+صافی	I-LOC
+
+تغییرمسیر	O
+مایکل	B-PER
+بل	I-PER
+(	I-PER
+هنرپیشه	I-PER
+)	I-PER

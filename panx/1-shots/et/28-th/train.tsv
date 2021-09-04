@@ -1,0 +1,30 @@
+Euroopa	B-ORG
+Ülemkogu	I-ORG
+otsustas	O
+mitte	O
+leevendada	O
+Venemaale	B-LOC
+kehtestatud	O
+majandussanktsioone	O
+.	O
+
+Kuldnokk	B-LOC
+''Sturnus	O
+vulgaris	O
+''	O
+
+Imavere	B-LOC
+vald	I-LOC
+,	O
+Järva	B-LOC
+maakond	I-LOC
+
+*Prinzivalli	O
+(	O
+Maurice	B-PER
+Maeterlinck	I-PER
+„Monna	O
+Vanna“	O
+)	O
+1	O
+.	O

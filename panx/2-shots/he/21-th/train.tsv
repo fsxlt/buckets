@@ -1,0 +1,45 @@
+הלימודים	O
+בישיבה	O
+הם	O
+במסלול	O
+ישיבת	B-ORG
+הסדר	I-ORG
+והיא	O
+מונה	O
+כ-80	O
+תלמידים	O
+.	O
+
+'	O
+''	O
+חצור	B-LOC
+הגלילית	I-LOC
+''	O
+'	O
+
+דניאל	B-PER
+פרנסואה	I-PER
+מאלאןDaniel	I-PER
+François	O
+Malan	O
+
+'	O
+''	O
+יאנינה	B-PER
+ויקמאייר	I-PER
+''	O
+'	O
+
+מקיף	O
+עמק	B-LOC
+החולה	I-LOC
+כפר	B-LOC
+בלום	I-LOC
+
+כתום	B-ORG
+זה	I-ORG
+השחור	I-ORG
+החדש	I-ORG
+(	O
+2013-הווה	O
+)	O

@@ -1,0 +1,66 @@
+রোমিও	B-LOC
+অ্যান্ড	I-LOC
+জুলিয়েট	I-LOC
+
+সাঁ	B-LOC
+পিয়ের	I-LOC
+ও	I-LOC
+মিক‌লোঁ	I-LOC
+
+কৃপাময়ী	B-ORG
+কালীমন্দির	I-ORG
+,	I-ORG
+বরানগর	I-ORG
+
+ইয়োহান	B-PER
+ভোলফগাং	I-PER
+ফন	I-PER
+গ্যোটে	I-PER
+
+দিশানায়াকা	B-PER
+মুদিয়ানসেনাগে	I-PER
+জয়রত্নে	I-PER
+
+হার্ড	B-ORG
+ডিস্ক	I-ORG
+ড্রাইভ	I-ORG
+
+জোট-নিরপেক্ষ	B-ORG
+আন্দোলন	I-ORG
+(	O
+NAM	O
+)	O
+
+''আন্নার	O
+মা	O
+''	O
+চরিত্রে	O
+লাবণী	B-PER
+সরকার	I-PER
+
+দক্ষিণ	B-ORG
+এশীয়	I-ORG
+ফুটবল	I-ORG
+ফেডারেশন	I-ORG
+
+'	O
+''	O
+আম্মান	B-LOC
+''	O
+'	O
+
+অশোক	B-PER
+(	I-PER
+সম্রাট	I-PER
+)	I-PER
+
+দক্ষিণ	B-LOC
+চীনের	I-LOC
+বাঘ	I-LOC
+
+'	O
+''	O
+গুয়াম	B-LOC
+টেরিটরি	I-LOC
+''	O
+'	O

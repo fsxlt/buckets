@@ -1,0 +1,84 @@
+REDIRECCIÓN	O
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+la	I-ORG
+República	I-ORG
+Democrática	I-ORG
+del	I-ORG
+Congo	I-ORG
+
+REDIRECCIÓN	O
+Provincia	B-LOC
+de	I-LOC
+Kāpīsā	I-LOC
+
+REDIRECCIÓN	O
+Aldehuela	B-LOC
+de	I-LOC
+Jerte	I-LOC
+
+Godfred	B-PER
+V	I-PER
+de	I-PER
+Mann	I-PER
+.	O
+
+REDIRECCIÓN	O
+Economía	B-ORG
+de	I-ORG
+la	I-ORG
+República	I-ORG
+Democrática	I-ORG
+del	I-ORG
+Congo	I-ORG
+
+REDIRECCIÓN	O
+Mike	B-PER
+Conley	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+REDIRECCIÓN	O
+Paulo	B-PER
+Cézar	I-PER
+Lima	I-PER
+
+REDIRECCIÓN	O
+Unión	B-ORG
+de	I-ORG
+Centro	I-ORG
+Democrático	I-ORG
+
+'	O
+''	O
+Ciencias	B-LOC
+físicas	I-LOC
+''	O
+'	O
+
+Fue	O
+lanzado	O
+al	O
+mercado	O
+bajo	O
+el	O
+sello	O
+discográfico	O
+Sony	B-ORG
+Music	I-ORG
+el	O
+.	O
+
+Annika	B-PER
+Sörenstam	I-PER
+(	O
+2	O
+)	O
+
+REDIRECCIÓN	O
+Arquidiócesis	B-LOC
+de	I-LOC
+Quito	I-LOC

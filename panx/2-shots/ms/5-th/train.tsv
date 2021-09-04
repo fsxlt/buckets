@@ -1,0 +1,34 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Loire	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Eure-et-Loir	I-LOC
+
+Kanu	B-ORG
+pada	I-ORG
+Sukan	I-ORG
+Olimpik	I-ORG
+Beijing	I-ORG
+2008	I-ORG
+
+LENCONG	O
+Abdul	B-PER
+Rahman	I-PER
+III	I-PER
+
+Baharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER
+
+``	O
+Reconcile	O
+''	O
+(	O
+Love	B-ORG
+Me	I-ORG
+Butch	I-ORG
+)	O

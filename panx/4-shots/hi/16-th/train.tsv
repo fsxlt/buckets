@@ -1,0 +1,95 @@
+सुखविंदर	B-PER
+सिंह	I-PER
+,	O
+सुनिधि	B-PER
+चौहान	I-PER
+,	O
+और	O
+शान	B-PER
+
+२००३	B-ORG
+एफ्रो-एशियाई	I-ORG
+खेल	I-ORG
+
+राजेन्द्र	B-ORG
+कृषि	I-ORG
+विश्वविद्यालय	I-ORG
+,	I-ORG
+पूसा	I-ORG
+
+शाम	B-LOC
+(	I-LOC
+क्षेत्र	I-LOC
+)	I-LOC
+
+जिन	B-LOC
+राजवंश	I-LOC
+(	I-LOC
+१११५–१२३४	I-LOC
+)	I-LOC
+
+भूषण	B-PER
+(	I-PER
+हिन्दी	I-PER
+कवि	I-PER
+)	I-PER
+
+पौड़ी	B-LOC
+गढ़वाल	I-LOC
+जिला	I-LOC
+
+राष्ट्रपति	B-ORG
+के	O
+हस्ताक्षर	O
+हेतु	O
+इस	O
+प्रस्ताव	O
+को	O
+उनके	O
+पास	O
+प्रेषित	O
+(	O
+भेजना	O
+)	O
+कर	O
+दिया	O
+जाता	O
+है।	O
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+२२१	I-ORG
+
+इस	O
+फिल्म	O
+का	O
+पहला	O
+हिस्सा	O
+संयुक्त	B-LOC
+अरब	I-LOC
+अमीरात	I-LOC
+में	O
+और	O
+दूसरा	O
+हिस्सा	O
+राजस्थान	B-LOC
+,	O
+भारत	B-LOC
+में	O
+बनाया	O
+गया।	O
+
+महाराज	B-PER
+गुलाब	I-PER
+सिंह	I-PER
+
+21	B-ORG
+जम्प	I-ORG
+स्ट्रीट	I-ORG
+
+'	O
+''	O
+मारसेलो	B-PER
+रिओस	I-PER
+''	O
+'	O

@@ -1,0 +1,42 @@
+القيادة	B-ORG
+العامة	I-ORG
+لشرطة	I-ORG
+دبي	I-ORG
+
+تحويل	O
+بيون	B-LOC
+(	I-LOC
+الألب	I-LOC
+الجبلية	I-LOC
+)	I-LOC
+
+يمثل	O
+منتصف	O
+اللوحة	O
+صورة	O
+خاصة	O
+مريم	B-PER
+العذراء	I-PER
+و	O
+هي	O
+شابة	O
+مع	O
+الطفل	B-ORG
+يسوع	I-ORG
+عاريا	O
+في	O
+حضنها	O
+.	O
+
+تحويل	O
+لوهان	B-PER
+(	I-PER
+مغني	I-PER
+)	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+هوبكنز	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC

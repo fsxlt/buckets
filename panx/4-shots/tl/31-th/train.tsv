@@ -1,0 +1,71 @@
+Pamantasan	B-ORG
+ng	I-ORG
+Misamis	I-ORG
+
+**	O
+'	O
+''	O
+Quezon	B-LOC
+''	O
+'	O
+,	O
+Quezon	B-LOC
+
+Usbong	B-LOC
+ng	I-LOC
+bruselas	I-LOC
+
+Edward	B-PER
+ang	I-PER
+Tagapagpaamin	I-PER
+
+Lungsod	B-LOC
+ng	I-LOC
+Assisi	I-LOC
+
+Kapatid	B-ORG
+sa	I-ORG
+kasal	I-ORG
+
+''	O
+Van	B-PER
+de	I-PER
+Leon	I-PER
+
+Santa	B-LOC
+Maria	I-LOC
+,	I-LOC
+Bulacan	I-LOC
+
+Aklat	B-ORG
+ni	I-ORG
+Amos	I-ORG
+
+Pinagbibidahan	O
+ito	O
+nina	O
+Sandara	B-PER
+Park	I-PER
+at	O
+ni	O
+Hero	B-PER
+Angeles	I-PER
+.	O
+
+Pohang-si	B-LOC
+–	O
+포항시	O
+,	O
+浦項市	O
+
+Silangang	B-LOC
+Imperyong	I-LOC
+Romano	I-LOC
+
+Nuno	B-PER
+Álvares	I-PER
+Pereira	I-PER
+
+Paghalik	B-ORG
+sa	I-ORG
+kamay	I-ORG

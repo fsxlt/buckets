@@ -1,0 +1,55 @@
+Christina	B-PER
+Aguilera	I-PER
+—	O
+''Stripped	O
+''	O
+
+'	O
+''	O
+Deportivo	B-ORG
+La	I-ORG
+Coruña	I-ORG
+''	O
+'	O
+/	O
+'	O
+''	O
+FC	B-ORG
+Barcelona	I-ORG
+''	O
+'	O
+
+Mission	B-ORG
+:	I-ORG
+Impossible	I-ORG
+,	O
+de	O
+originele	O
+televisieserie	O
+
+DOORVERWIJZING	O
+Monaco	B-LOC
+op	I-LOC
+het	I-LOC
+Eurovisiesongfestival	I-LOC
+
+Kort	O
+daarna	O
+komt	O
+een	O
+jonge	O
+Marin	B-PER
+Marais	I-PER
+op	O
+het	O
+kasteeltje	O
+op	O
+het	O
+platteland	O
+aan	O
+.	O
+
+Branne	B-LOC
+(	I-LOC
+Doubs	I-LOC
+)	I-LOC

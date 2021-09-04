@@ -1,0 +1,44 @@
+Tiyatro	B-PER
+Pera	I-PER
+:	O
+6	O
+
+Türkiye	B-ORG
+1.	I-ORG
+Lig	I-ORG
+İkinciliği	O
+(	O
+Süper	B-ORG
+Lig'e	I-ORG
+Yükseliş	O
+)	O
+
+**	O
+Carmelo	B-PER
+Anthony	I-PER
+,	O
+Denver	B-ORG
+Nuggets	I-ORG
+
+'	O
+''	O
++211	O
+:	O
+'	O
+''	O
+SS	B-LOC
+,	O
+
+San	B-LOC
+Fernando	I-LOC
+del	I-LOC
+Valle	I-LOC
+de	I-LOC
+Catamarca	I-LOC
+
+YÖNLENDİRME	O
+1968-69	B-LOC
+Türkiye	I-LOC
+1.	I-LOC
+Futbol	I-LOC
+Ligi	I-LOC

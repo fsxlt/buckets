@@ -1,0 +1,48 @@
+'	O
+''	O
+Andrés	B-PER
+Iniesta	I-PER
+''	O
+'	O
+
+Rita	B-ORG
+Hayworth	I-ORG
+and	I-ORG
+Shawshank	I-ORG
+Redemption	I-ORG
+
+Đồng	B-LOC
+bằng	I-LOC
+sông	I-LOC
+Cửu	I-LOC
+Long	I-LOC
+
+Vương	B-LOC
+quốc	I-LOC
+Tây	I-LOC
+Ban	I-LOC
+Nha	I-LOC
+(	O
+1975-nay	O
+)	O
+===	O
+
+đổi	O
+Thế	B-ORG
+Tông	I-ORG
+Đại	I-ORG
+vương	I-ORG
+(	I-ORG
+phim	I-ORG
+truyền	I-ORG
+hình	I-ORG
+)	I-ORG
+
+Con	O
+là	O
+Tần	B-PER
+Công	I-PER
+Bá	I-PER
+lên	O
+ngôi	O
+.	O

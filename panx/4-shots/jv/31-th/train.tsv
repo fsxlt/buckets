@@ -1,0 +1,68 @@
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[5]	O
+''	O
+'	O
+
+Garuda	B-ORG
+Indonésia	I-ORG
+(	O
+Jakarta	B-LOC
+)	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Muhammad	B-PER
+bin	I-PER
+Idris	I-PER
+asy-Syafi`i	I-PER
+
+Alih	O
+Limburg	B-LOC
+(	I-LOC
+Belgia	I-LOC
+)	I-LOC
+
+Dana	B-ORG
+Monetèr	I-ORG
+Internasional	I-ORG
+(	O
+''IMF	O
+''	O
+)	O

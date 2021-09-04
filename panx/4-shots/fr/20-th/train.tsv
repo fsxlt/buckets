@@ -1,0 +1,91 @@
+Caïque	B-LOC
+à	I-LOC
+tête	I-LOC
+noire	I-LOC
+
+Edition	B-ORG
+of	I-ORG
+Contemporary	I-ORG
+Music	I-ORG
+
+Stade	B-ORG
+de	I-ORG
+l'Aube	I-ORG
+(	O
+Annexe	O
+1	O
+)	O
+
+On	O
+le	O
+trouve	O
+en	O
+Tanzanie	B-LOC
+et	O
+en	O
+Zambie	B-LOC
+.	O
+
+Johann	B-PER
+Rudolf	I-PER
+Wolf	I-PER
+
+REDIRECTION	O
+Laurent	B-PER
+Merlin	I-PER
+(	I-PER
+football	I-PER
+)	I-PER
+
+Parti	B-ORG
+de	I-ORG
+la	I-ORG
+juste	I-ORG
+voie	I-ORG
+
+'	O
+''	O
+Júbilo	B-ORG
+Iwata	I-ORG
+''	O
+'	O
+
+Leia	B-PER
+Organa	I-PER
+(	O
+après	O
+BY	O
+,	O
+non	O
+officiel	O
+)	O
+
+'	O
+''	O
+Annezin	B-LOC
+''	O
+'	O
+
+Brother	B-LOC
+Isle	I-LOC
+(	I-LOC
+Écosse	I-LOC
+)	I-LOC
+
+Gelindo	B-PER
+Bordin2	I-PER
+h	O
+12	O
+min	O
+40	O
+s	O
+
+Pétrel	B-LOC
+de	I-LOC
+Cook	I-LOC
+
+Roitelet	B-LOC
+à	I-LOC
+triple	I-LOC
+bandeau	I-LOC
+''	O

@@ -1,0 +1,20 @@
+Ta	O
+oli	O
+Eesti	B-ORG
+Üliõpilaste	I-ORG
+Seltsi	I-ORG
+vilistlane	O
+.	O
+
+Sebastian	B-PER
+Coe	I-PER
+,	O
+inglise	O
+jooksja	O
+
+Kuksina	B-LOC
+mägi	I-LOC
+(	O
+212	O
+m	O
+)	O

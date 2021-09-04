@@ -1,0 +1,40 @@
+REDIRECIONAMENTO	O
+Laboratório	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Engenharia	I-ORG
+Civil	I-ORG
+
+Canal	B-LOC
+da	I-LOC
+Mancha	I-LOC
+
+'	O
+''	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+''	O
+'	O
+,	O
+Brasil	B-LOC
+
+``	O
+Do	B-ORG
+n't	I-ORG
+Wan	I-ORG
+na	I-ORG
+Lose	I-ORG
+You	I-ORG
+''	O
+
+Gamal	B-PER
+Abdel	I-PER
+Nasser	I-PER
+
+Vincent	B-PER
+Price	I-PER
+...	O
+.	O
+sr.	O
+Maranov	O

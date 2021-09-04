@@ -1,0 +1,87 @@
+Wilaya	B-LOC
+ya	I-LOC
+Moshi	I-LOC
+Mjini	I-LOC
+;	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39208	O
+.	O
+
+Order	B-ORG
+in	I-ORG
+the	I-ORG
+Court	I-ORG
+''	O
+(	O
+1998	O
+)	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Dabou	I-LOC
+
+Wilaya	B-ORG
+ya	I-ORG
+Koun-Fao	I-ORG
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Jibuti	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Pius	I-PER
+VI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Leo	I-PER
+XII	I-PER
+.	O
+
+Kansas	B-LOC
+City	I-LOC
+,	I-LOC
+Missouri	I-LOC
+,	O
+Marekani	B-LOC
+
+Wilhelm	B-PER
+Conrad	I-PER
+Röntgen	I-PER
+
+Mifano	O
+ni	O
+siku	O
+hizi	O
+hasa	O
+Jumuiya	B-ORG
+ya	I-ORG
+Madola	I-ORG
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Stefano	I-PER
+V	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Boniface	I-PER
+VI	I-PER
+.	O
+
+Mary	B-PER
+Lynn	I-PER
+Rajskub	I-PER
+kama	O
+Chloe	B-PER
+O'Brian	I-PER

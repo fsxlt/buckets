@@ -1,0 +1,22 @@
+===	O
+Kota	B-LOC
+Bogor	I-LOC
+,	O
+Jabar	O
+===	O
+
+alih	O
+Federasi	B-ORG
+Sepak	I-ORG
+Bola	I-ORG
+Belarus	I-ORG
+
+Ia	O
+dikalahkan	O
+oleh	O
+Barack	B-PER
+Obama	I-PER
+(	O
+Demokrat	B-ORG
+)	O
+.	O

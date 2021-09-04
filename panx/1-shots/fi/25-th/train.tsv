@@ -1,0 +1,42 @@
+Ohjelma	O
+on	O
+jatkoa	O
+samalla	O
+kanavalla	O
+esitetylle	O
+Late	B-ORG
+Show	I-ORG
+with	I-ORG
+David	I-ORG
+Letterman	I-ORG
+''	O
+-ohjelmalle	O
+(	O
+1993–2015	O
+)	O
+.	O
+
+Tikkurilasta	B-LOC
+tuli	O
+uusi	O
+kuntakeskus	O
+1950-luvulla	O
+.	O
+
+Isabel	B-PER
+Allende	I-PER
+,	O
+kirjailija	O
+,	O
+edellisen	O
+veljentytär	O
+
+Se	O
+sijaitsee	O
+Krasnovišerskin	B-LOC
+piirin	I-LOC
+koillisosassa	O
+Višeran	B-LOC
+luonnonpuiston	I-LOC
+alueella	O
+.	O

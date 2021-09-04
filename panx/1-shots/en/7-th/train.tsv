@@ -1,0 +1,17 @@
+Villard	B-ORG
+(	I-ORG
+imprint	I-ORG
+)	I-ORG
+
+Emily	B-PER
+Dickinson	I-PER
+lived	O
+most	O
+of	O
+her	O
+life	O
+in	O
+Amherst	B-LOC
+,	I-LOC
+Massachusetts	I-LOC
+.	O

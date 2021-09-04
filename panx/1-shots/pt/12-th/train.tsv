@@ -1,0 +1,27 @@
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Irina	B-PER
+Lobacheva	I-PER
+/	O
+Ilia	B-PER
+Averbukh	I-PER
+
+Ituzaingó	B-LOC
+(	O
+Ituzaingó	B-LOC
+)	O
+
+``	O
+Perdeu	O
+''	O
+-	O
+com	O
+Thaeme	B-ORG
+&	I-ORG
+Thiago	I-ORG

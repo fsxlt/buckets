@@ -1,0 +1,70 @@
+Torsten	B-PER
+N.	I-PER
+Wiesel	I-PER
+
+YÖNLENDİRME	O
+Avrupa	B-LOC
+Birliği	I-LOC
+üyesi	I-LOC
+ülkeler	I-LOC
+
+108	B-PER
+(	I-PER
+sanatçı	I-PER
+)	I-PER
+
+YÖNLENDİRME	O
+Ilısu	B-ORG
+Barajı	I-ORG
+ve	I-ORG
+Hidroelektrik	I-ORG
+Santrali	I-ORG
+
+*Japon	O
+All	B-ORG
+Nippon	I-ORG
+Airways	I-ORG
+
+YÖNLENDİRME	O
+Türbet	B-LOC
+Haydariye	I-LOC
+şehristanı	I-LOC
+
+Dördüncü	B-PER
+Doktor'un	I-PER
+döneminde	O
+Gallifrey	B-LOC
+gezegenini	O
+ele	O
+geçirmeye	O
+çalışmışlardı	O
+.	O
+
+Real	B-ORG
+Cartagena'da	I-ORG
+forma	O
+giymektedir	O
+.	O
+
+YÖNLENDİRME	O
+Kavacık	B-LOC
+,	I-LOC
+Mengen	I-LOC
+
+'	O
+''	O
+Cem	B-PER
+Pamiroğlu	I-PER
+''	O
+'	O
+
+YÖNLENDİRME	O
+Karabul	B-LOC
+,	I-LOC
+Gündoğmuş	I-LOC
+
+Beyaz	B-ORG
+Rusya	I-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı	I-ORG

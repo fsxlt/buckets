@@ -1,0 +1,90 @@
+Partnoy	B-ORG
+,	I-ORG
+Frank	I-ORG
+.	O
+
+Red-billed	B-LOC
+tropicbird	I-LOC
+,	O
+''Phaethon	O
+aethereus	O
+''	O
+
+*April	O
+22	O
+–	O
+Marshall	B-PER
+Riddle	I-PER
+
+'	O
+''	O
+Marin	B-PER
+Čilić	I-PER
+''	O
+'	O
+
+Order	B-ORG
+of	I-ORG
+Merit	I-ORG
+for	I-ORG
+the	I-ORG
+Fatherland	I-ORG
+;	O
+
+'	O
+''	O
+Giathenge	O
+''	O
+'	O
+is	O
+a	O
+settlement	O
+in	O
+Kenya	B-LOC
+'s	O
+Central	B-LOC
+Province	I-LOC
+.	O
+
+It	O
+is	O
+now	O
+distributed	O
+by	O
+Dakshin	B-ORG
+Haryana	I-ORG
+Bijli	I-ORG
+Vitran	I-ORG
+Nigam	I-ORG
+Limited	O
+.	O
+
+Mount	B-ORG
+Pleasant	I-ORG
+Correctional	I-ORG
+Facility	I-ORG
+-	O
+Mount	B-LOC
+Pleasant	I-LOC
+
+Communes	B-LOC
+of	I-LOC
+the	I-LOC
+Pas-de-Calais	I-LOC
+department	I-LOC
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+Mike	B-PER
+Bryan	I-PER
+[1]	O
+''	O
+'	O
+
+Tim	B-PER
+Kaine	I-PER
+(	O
+D-VA	O
+)	O

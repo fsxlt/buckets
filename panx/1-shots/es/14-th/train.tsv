@@ -1,0 +1,21 @@
+República	B-ORG
+Democrática	I-ORG
+Federal	I-ORG
+de	I-ORG
+Transcaucasia	I-ORG
+
+REDIRECCIÓN	O
+Clotilde	B-PER
+(	I-PER
+reina	I-PER
+)	I-PER
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+Ten	I-LOC
+Mile	I-LOC
+Lake	I-LOC
+(	I-LOC
+Minnesota	I-LOC
+)	I-LOC

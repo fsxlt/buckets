@@ -1,0 +1,27 @@
+Thurston	B-PER
+Moore	I-PER
+,	O
+Sonic	B-ORG
+Youth	I-ORG
+
+REDIRECIONAMENTO	O
+My	B-ORG
+World	I-ORG
+2.0	I-ORG
+
+Redirecionamento	O
+Alessandro	B-PER
+Del	I-PER
+Mar	I-PER
+
+REDIRECIONAMENTO	O
+Idade	B-LOC
+de	I-LOC
+ouro	I-LOC
+do	I-LOC
+alpinismo	I-LOC
+
+Condado	B-LOC
+de	I-LOC
+Palo	I-LOC
+Pinto	I-LOC

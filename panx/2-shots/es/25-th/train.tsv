@@ -1,0 +1,54 @@
+REDIRECCIÓN	O
+Iglesia	B-ORG
+ortodoxa	I-ORG
+checa	I-ORG
+y	I-ORG
+eslovaca	I-ORG
+
+Área	B-LOC
+metropolitana	I-LOC
+de	I-LOC
+Silesia	I-LOC
+
+REDIRECCIÓN	O
+Arquidiócesis	B-LOC
+de	I-LOC
+Yucatán	I-LOC
+
+REDIRECCIÓN	O
+Club	B-ORG
+Real	I-ORG
+Potosí	I-ORG
+
+'	O
+''	O
+Luis	B-PER
+Fernando	I-PER
+Suárez	I-PER
+
+Además	O
+,	O
+el	O
+jugador	O
+que	O
+más	O
+goles	O
+ha	O
+anotado	O
+fue	O
+Atilio	B-PER
+García	I-PER
+(	O
+468	O
+goles	O
+)	O
+,	O
+seguido	O
+por	O
+Héctor	B-PER
+Scarone	I-PER
+(	O
+301	O
+goles	O
+)	O
+.	O

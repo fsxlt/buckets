@@ -1,0 +1,33 @@
+'	O
+''	O
+Ukhta	B-LOC
+''	O
+'	O
+,	O
+República	B-LOC
+de	I-LOC
+Komi	I-LOC
+,	O
+Rússia	B-LOC
+
+Associação	B-ORG
+Desportiva	I-ORG
+'	I-ORG
+''	I-ORG
+Confiança	I-ORG
+''	I-ORG
+'	I-ORG
+(	O
+Aracaju	B-LOC
+''	O
+)	O
+
+**	O
+Alan	B-PER
+Alda	I-PER
+,	O
+em	O
+The	B-ORG
+West	I-ORG
+Wing	I-ORG
+''	O

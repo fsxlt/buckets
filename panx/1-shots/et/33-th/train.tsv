@@ -1,0 +1,28 @@
+Volhovi	B-LOC
+rajoon	I-LOC
+(	O
+Волховский	O
+район	O
+)	O
+
+George	B-PER
+Orwell	I-PER
+,	O
+“Valaskala	O
+kõhus”	O
+.	O
+
+Sarja	O
+tootmist	O
+alustati	O
+2000.	O
+aastal	O
+ning	O
+algupäraselt	O
+jõudis	O
+see	O
+eetrisse	O
+telekanalil	O
+BBC	B-ORG
+One	I-ORG
+.	O

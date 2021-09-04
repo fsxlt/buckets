@@ -1,0 +1,31 @@
+Ba	B-LOC
+ba	I-LOC
+Nam	I-LOC
+Bộ	I-LOC
+
+*17.01	O
+–	O
+Girls	B-ORG
+'	I-ORG
+Generation11th	I-ORG
+–	O
+'	O
+''	O
+''	O
+I	B-ORG
+Got	I-ORG
+a	I-ORG
+Boy	I-ORG
+''	O
+2nd	O
+''	O
+'	O
+[9,988	O
+điểm]	O
+
+Nicole	B-PER
+Kidman	I-PER
+trong	O
+vai	O
+Grace	B-PER
+Kelly	I-PER

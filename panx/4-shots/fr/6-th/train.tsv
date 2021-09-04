@@ -1,0 +1,94 @@
+Produit	O
+et	O
+écrit	O
+par	O
+The	B-ORG
+Electric	I-ORG
+Soft	I-ORG
+Parade	I-ORG
+,	O
+les	O
+six	O
+titres	O
+sont	O
+enregistrés	O
+en	O
+quelques	O
+jours	O
+à	O
+peine	O
+.	O
+
+Dordogne	B-LOC
+(	I-LOC
+département	I-LOC
+)	I-LOC
+
+Gouvernement	B-PER
+Ponta	I-PER
+I	I-PER
+et	O
+II	B-PER
+
+REDIRECTION	O
+Kozojedy	B-LOC
+(	I-LOC
+district	I-LOC
+de	I-LOC
+Plzeň-Nord	I-LOC
+)	I-LOC
+
+Chris	B-PER
+Foreman	I-PER
+(	O
+Madness	B-ORG
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Morbihan	I-LOC
+
+Belleville	B-LOC
+(	I-LOC
+Illinois	I-LOC
+)	I-LOC
+,	O
+États-Unis	B-LOC
+
+|	O
+'	O
+''	O
+Generali	B-ORG
+Ladies	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Guerrilla	I-ORG
+''	O
+'	O
+
+Hans	B-PER
+Urs	I-PER
+von	I-PER
+Balthasar	I-PER
+
+Báetán	B-PER
+mac	I-PER
+Ninnedo	I-PER
+
+'	O
+''	O
+Cannes	B-LOC
+'	O
+''	O
+
+National	B-ORG
+Association	I-ORG
+of	I-ORG
+Manufacturers	I-ORG

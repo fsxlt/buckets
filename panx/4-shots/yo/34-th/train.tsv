@@ -1,0 +1,76 @@
+Lindsay	B-PER
+Davenport	I-PER
+''	O
+(	O
+Final	O
+)	O
+
+Eugenie	B-PER
+Bouchard	I-PER
+''	O
+(	O
+Semifinals	O
+)	O
+
+Ajagun	B-ORG
+Ojúòfurufú	I-ORG
+Amẹ́ríkà	I-ORG
+
+Aláṣẹ	B-LOC
+Ìjọba	I-LOC
+Orílẹ̀-èdè	I-LOC
+Palẹstínì	I-LOC
+
+Gbọ̀ngàn	B-ORG
+Òfurufú	I-ORG
+Kennedy	I-ORG
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Birnin	I-LOC
+Kudu	I-LOC
+
+Afidimule	B-ORG
+awon	I-ORG
+Onimose-ero	I-ORG
+Onitanna	I-ORG
+ati	I-ORG
+Ero-aloitanna	I-ORG
+
+Yunifásítì	B-ORG
+ìlú	I-ORG
+Abùjá	I-ORG
+
+'	O
+''	O
+Petra	B-PER
+Kvitová	I-PER
+(	O
+Champion	O
+)	O
+'	O
+''	O
+
+Getúlio	B-PER
+Vargas	I-PER
+(	O
+1st	O
+time	O
+)	O
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Mobbar	I-LOC
+
+'	O
+''	O
+'	O
+''	O
+jẹ́	O
+Fáráò	B-PER
+ni	O
+Ẹ́gíptì	B-LOC
+Ayéijọ́un	I-LOC
+.	O

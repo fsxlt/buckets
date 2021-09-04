@@ -1,0 +1,24 @@
+'	O
+''	O
+Nové	B-LOC
+Město	I-LOC
+na	I-LOC
+Moravě	I-LOC
+''	O
+'	O
+
+Ivan	B-PER
+Lendl	I-PER
+(	O
+1	O
+)	O
+
+'	O
+''	O
+Championnat	B-ORG
+de	I-ORG
+Suède	I-ORG
+de	I-ORG
+football	I-ORG
+''	O
+'	O

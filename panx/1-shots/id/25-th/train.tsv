@@ -1,0 +1,20 @@
+Maganoy	O
+→	O
+Shariff	B-LOC
+Aguak	I-LOC
+
+ALIH	O
+Battlestar	B-ORG
+Galactica	I-ORG
+(	I-ORG
+serial	I-ORG
+televisi	I-ORG
+2004	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Jarno	B-PER
+Trulli	I-PER
+''	O
+'	O

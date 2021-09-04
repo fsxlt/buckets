@@ -1,0 +1,78 @@
+'	O
+''	O
+एस्टेली	O
+''	O
+'	O
+,	O
+निकारागुआ	B-LOC
+
+रानी	B-ORG
+झांसी	I-ORG
+समुद्री	I-ORG
+राष्ट्रीय	I-ORG
+उद्यान	I-ORG
+
+साम्भर	B-LOC
+(	I-LOC
+हिरण	I-LOC
+)	I-LOC
+
+जिन	B-LOC
+राजवंश	I-LOC
+(	I-LOC
+१११५–१२३४	I-LOC
+)	I-LOC
+
+अनुप्रेषित	O
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+३१सी	I-ORG
+
+नागराज	B-LOC
+(	I-LOC
+सांप	I-LOC
+)	I-LOC
+
+अनुप्रेषित	O
+सी	B-PER
+वी	I-PER
+रामन	I-PER
+पिल्लै	I-PER
+
+जैकी	B-PER
+श्रॉफ	I-PER
+,	O
+माधुरी	B-PER
+दीक्षित	I-PER
+
+टिहरी	B-ORG
+गढ़वाल	I-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+रिचर्ड	B-PER
+मिल्हौस	I-PER
+निक्सन	I-PER
+
+विश्‍वविद्यालय	B-ORG
+अनुदान	I-ORG
+आयोग	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+'	O
+''	O
+रियो	B-LOC
+डि	I-LOC
+जेनेरो	I-LOC
+''	O
+'	O
+
+हिमानी	B-PER
+शिवपुरी	I-PER
+-	O
+पुलिस	O
+इंस्पेक्टर	O

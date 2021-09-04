@@ -1,0 +1,50 @@
+Venemaa	B-ORG
+Föderatsiooni	I-ORG
+Relvajõudude	I-ORG
+Kindralstaabi	I-ORG
+Sõjaväeakadeemia	I-ORG
+
+suuna	O
+Søndre	B-LOC
+Nordstrandi	I-LOC
+linnaosa	I-LOC
+
+aastal	O
+eraldus	O
+Portugali	B-ORG
+kuningriik	I-ORG
+Leóni	B-LOC
+kuningriigist	I-LOC
+.	O
+
+Aristoteles	B-PER
+nimetab	O
+erinevuseks	O
+``	O
+asjade	O
+teisitiolekut	O
+''	O
+(	O
+Met	O
+.	O
+
+Kristen	B-PER
+Viikmäe	I-PER
+'	O
+''	O
+(	O
+16	O
+)	O
+'	O
+''	O
+
+Peaministriks	O
+sai	O
+ta	O
+pärast	O
+Milo	B-PER
+Đukanovići	I-PER
+tagasiastumist	O
+viimase	O
+soovitusel	O
+.	O

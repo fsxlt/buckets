@@ -1,0 +1,36 @@
+Parides	B-LOC
+anchises	I-LOC
+''	O
+''drucei	O
+''	O
+
+Julien	B-PER
+Lahaut	I-PER
+(	O
+KPB-PCB	O
+)	O
+
+Pamukova	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+van	O
+de	O
+Vierde	B-ORG
+Internationale	I-ORG
+.	O
+
+DOORVERWIJZING	O
+Openbaar	B-ORG
+Ministerie	I-ORG
+(	I-ORG
+Nederland	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Moumouni	B-PER
+Dagano	I-PER
+''	O
+'	O

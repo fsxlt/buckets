@@ -1,0 +1,21 @@
+Liên	B-ORG
+minh	I-ORG
+châu	I-ORG
+Âu	I-ORG
+
+đổi	O
+Étréchy	B-LOC
+,	I-LOC
+Essonne	I-LOC
+
+'	O
+''	O
+Nauru	B-LOC
+''	O
+'	O
+
+đổi	O
+Giáo	B-PER
+hoàng	I-PER
+Calixtô	I-PER
+I	I-PER

@@ -1,0 +1,19 @@
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Lutong	B-ORG
+Koreano	I-ORG
+(	I-ORG
+Hansik	I-ORG
+)	I-ORG
+
+Hiromi	B-PER
+Iwasaki	I-PER
+(	O
+岩崎宏美	O
+)	O
+(	O
+14	O
+)	O

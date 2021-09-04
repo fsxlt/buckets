@@ -1,0 +1,44 @@
+an	O
+der	O
+Grenze	O
+zum	O
+Cibola	B-LOC
+County	I-LOC
+
+''	O
+Frankfurt	B-LOC
+am	I-LOC
+Main	I-LOC
+2009	O
+.	O
+
+Veranstalter	O
+des	O
+Turniers	O
+ist	O
+die	O
+United	B-ORG
+States	I-ORG
+Soccer	I-ORG
+Federation	I-ORG
+.	O
+
+Benediktas	B-PER
+Vilmantas	I-PER
+Rupeika	I-PER
+
+Adolf	B-PER
+Friedrich	I-PER
+zu	I-PER
+Mecklenburg	I-PER
+
+Daraufhin	O
+wechselte	O
+er	O
+zum	O
+EV	B-ORG
+Landshut	I-ORG
+in	O
+die	O
+DEL	B-ORG
+.	O

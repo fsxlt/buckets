@@ -1,0 +1,16 @@
+നോർത്ത്	B-ORG
+മലബാർ	I-ORG
+ഗ്രാമീൺ	I-ORG
+ബാങ്ക്	I-ORG
+
+ഭരത്	B-PER
+ഗോപി	I-PER
+,	O
+സ്മിത	B-PER
+പാട്ടിൽ	I-PER
+
+തിരിച്ചുവിടുക	O
+മാധവി	B-LOC
+(	I-LOC
+സസ്യം	I-LOC
+)	I-LOC

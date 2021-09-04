@@ -1,0 +1,28 @@
+Lagoa	B-LOC
+da	I-LOC
+Prata	I-LOC
+,	O
+Minas	B-LOC
+Gerais	I-LOC
+.	O
+
+'	O
+''	O
+Valencia	B-ORG
+C.F.	I-ORG
+Mestalla	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Mariana	B-PER
+Victoria	I-PER
+de	I-PER
+Braganza	I-PER
+
+'	O
+''	O
+Zacatecas	B-LOC
+''	O
+'	O
+-	O

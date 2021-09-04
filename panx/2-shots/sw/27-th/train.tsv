@@ -1,0 +1,31 @@
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Nanterre	B-LOC
+.	O
+
+Jengo	B-ORG
+la	I-ORG
+Empire	I-ORG
+State	I-ORG
+
+Kitabu	B-PER
+cha	I-PER
+Zaburi	I-PER
+
+'	O
+''	O
+Haile	B-PER
+Selassie	I-PER
+''	O
+'	O
+
+Roselle	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+True	B-ORG
+Jesus	I-ORG
+Church	I-ORG

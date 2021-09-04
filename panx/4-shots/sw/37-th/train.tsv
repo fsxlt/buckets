@@ -1,0 +1,82 @@
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30208	O
+.	O
+
+Karl	B-PER
+Alexander	I-PER
+Müller	I-PER
+
+'	O
+''	O
+Work	B-ORG
+It	I-ORG
+Out”	I-ORG
+''	O
+'	O
+
+Umoja	B-ORG
+wa	I-ORG
+kimataifa	I-ORG
+wa	I-ORG
+astronomia	I-ORG
+
+Jamhuri	B-LOC
+ya	I-LOC
+China	I-LOC
+
+Mkoa	B-LOC
+wa	I-LOC
+Bonde	I-LOC
+la	I-LOC
+Ufa	I-LOC
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Nouakchott	B-LOC
+.	O
+
+Papa	B-PER
+Leo	I-PER
+I	I-PER
+
+Eneo	O
+lake	O
+ni	O
+150.2	O
+km²	B-ORG
+.	O
+
+Benki	B-ORG
+Kuu	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Pius	I-PER
+VI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Leo	I-PER
+XII	I-PER
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Yohane	I-PER
+II	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Silverio	I-PER
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Oxford	I-ORG

@@ -1,0 +1,33 @@
+Administratiboki	O
+Frantziako	B-LOC
+Corrèze	B-LOC
+departamenduan	O
+dago	O
+,	O
+Akitania-Limousin-Poitou-Charentes	B-LOC
+eskualdean	O
+.	O
+
+Immigrazio	B-ORG
+eta	I-ORG
+Aduanen	I-ORG
+Agentzia	I-ORG
+(	I-ORG
+ICE	I-ORG
+)	I-ORG
+
+Handik	O
+bi	O
+urtera	O
+,	O
+Karlos	B-PER
+V.a	I-PER
+Espainiakoa	I-PER
+Le	B-LOC
+Havretik	I-LOC
+Espainiara	B-LOC
+eraman	O
+zuen	O
+ontzi	O
+berberean	O
+.	O

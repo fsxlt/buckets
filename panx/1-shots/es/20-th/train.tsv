@@ -1,0 +1,18 @@
+Vitas	B-PER
+Gerulaitis	I-PER
+(	O
+Estados	B-LOC
+Unidos	I-LOC
+)	O
+/	O
+Paul	B-PER
+McNamee	I-PER
+(	O
+Australia	B-LOC
+)	O
+
+Masters	B-ORG
+Nórdico	I-ORG
+de	I-ORG
+Fórmula	I-ORG
+3	I-ORG

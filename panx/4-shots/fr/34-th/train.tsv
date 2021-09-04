@@ -1,0 +1,67 @@
+Ta	B-ORG
+'	I-ORG
+Qali	I-ORG
+Stadium	I-ORG
+,	O
+Ta	B-LOC
+'	I-LOC
+Qali	I-LOC
+
+'	O
+''	O
+Marcellino	B-PER
+Pipite	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Henri	B-PER
+II	I-PER
+de	I-PER
+Brunswick	I-PER
+
+'	O
+''	O
+Ingemar	B-PER
+Stenmark	I-PER
+''	O
+'	O
+
+Le	O
+Mouvement	B-ORG
+national	I-ORG
+libanais	I-ORG
+
+REDIRECTION	O
+Football	B-ORG
+Club	I-ORG
+Villefranche	I-ORG
+Beaujolais	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Aveyron	I-LOC
+
+Le	B-LOC
+Passage	I-LOC
+(	I-LOC
+Lot-et-Garonne	I-LOC
+)	I-LOC
+
+François	B-PER
+Marie	I-PER
+Daudin	I-PER
+
+Bihoreau	B-LOC
+à	I-LOC
+dos	I-LOC
+blanc	I-LOC
+
+REDIRECTION	O
+Western	B-ORG
+Sydney	I-ORG
+Wanderers	I-ORG
+Football	I-ORG
+Club	I-ORG

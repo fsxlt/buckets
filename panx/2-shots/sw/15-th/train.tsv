@@ -1,0 +1,38 @@
+Lambo	B-ORG
+la	I-ORG
+Aswan	I-ORG
+(	O
+Ziwa	B-LOC
+la	I-LOC
+Nasser	I-LOC
+-	O
+Misri	B-LOC
+)	O
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Quelimane	B-LOC
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Göttingen	I-ORG
+
+Fasilides	B-PER
+wa	I-PER
+Ethiopia	I-PER
+
+Papa	B-PER
+Innocent	I-PER
+XI	I-PER
+
+Aliyemfuata	O
+ni	O
+binti	O
+wake	O
+,	O
+Meisho	B-PER
+.	O

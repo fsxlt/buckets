@@ -1,0 +1,44 @@
+Société	B-ORG
+générale	I-ORG
+des	I-ORG
+transports	I-ORG
+aériens	I-ORG
+
+Staffa	B-LOC
+(	I-LOC
+Scozia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O
+
+In	O
+questo	O
+contesto	O
+si	O
+inserisce	O
+la	O
+tragica	O
+vicenda	O
+della	O
+poetessa	O
+Isabella	B-PER
+di	I-PER
+Morra	I-PER
+.	O
+
+Leonard	B-PER
+Nimoy	I-PER
+–	O
+Star	B-ORG
+Trek	I-ORG
+''	O
+
+Vicariato	B-LOC
+apostolico	I-LOC
+del	I-LOC
+Chaco	I-LOC
+Paraguayo	I-LOC

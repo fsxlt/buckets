@@ -1,0 +1,43 @@
+REDIRECCIÓN	O
+Derrick	B-PER
+Coleman	I-PER
+(	I-PER
+baloncestista	I-PER
+)	I-PER
+
+Wright	B-ORG
+Flyer	I-ORG
+III	I-ORG
+-	O
+Dayton	B-LOC
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Nishitama	I-LOC
+(	I-LOC
+Tokio	I-LOC
+)	I-LOC
+
+Dirigido	O
+por	O
+Gerardo	B-PER
+Sofovich	I-PER
+y	O
+Hugo	B-PER
+Sofovich	I-PER
+.	O
+
+REDIRECCIÓN	O
+San	B-LOC
+Giorgio	I-LOC
+su	I-LOC
+Legnano	I-LOC
+
+'	O
+''	O
+Navegantes	B-ORG
+del	I-ORG
+Magallanes	I-ORG
+''	O
+'	O

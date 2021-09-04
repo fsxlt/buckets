@@ -1,0 +1,17 @@
+দ্য	B-ORG
+নিউ	I-ORG
+ইয়র্ক	I-ORG
+টাইমস	I-ORG
+
+ইখতিয়ার	B-PER
+উদ্দিন	I-PER
+মুহম্মদ	I-PER
+বিন	I-PER
+বখতিয়ার	I-PER
+খলজী	I-PER
+
+***	O
+দাদরা	B-LOC
+ও	I-LOC
+নগর	I-LOC
+হাভেলি	I-LOC

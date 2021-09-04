@@ -1,0 +1,80 @@
+Évolution	B-LOC
+territoriale	I-LOC
+des	I-LOC
+États-Unis	I-LOC
+
+REDIRECTION	O
+Stade	B-LOC
+du	I-LOC
+1er-Novembre-1954	I-LOC
+(	I-LOC
+Tizi-Ouzou	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Gustaf	B-PER
+Mauritz	I-PER
+Armfelt	I-PER
+
+Keys	B-LOC
+(	I-LOC
+Floride	I-LOC
+)	I-LOC
+.	O
+
+Cotton	B-ORG
+Bowl	I-ORG
+(	I-ORG
+stade	I-ORG
+)	I-ORG
+
+Strange	B-ORG
+Kind	I-ORG
+of	I-ORG
+Woman	I-ORG
+''	O
+–	O
+7:34	O
+
+Mitsuo	B-PER
+Nakamura	I-PER
+,	O
+Fumio	B-PER
+Niwa	I-PER
+,	O
+Yukio	B-PER
+Mishima	I-PER
+
+Tournoi	B-ORG
+de	I-ORG
+tennis	I-ORG
+de	I-ORG
+Shenzhen	I-ORG
+
+Abdoulaye	B-PER
+Bathily	I-PER
+Ligue	B-ORG
+démocratique	I-ORG
+/	I-ORG
+Mouvement	I-ORG
+pour	I-ORG
+le	I-ORG
+parti	I-ORG
+du	I-ORG
+travail	I-ORG
+''	O
+
+Toutes	O
+les	O
+nouvelles	O
+sont	O
+signées	O
+Jean-Pierre	B-PER
+Andrevon	I-PER
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+Tarn-et-Garonne	I-LOC

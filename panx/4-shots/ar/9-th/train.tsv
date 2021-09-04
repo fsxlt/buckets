@@ -1,0 +1,87 @@
+إنديانابوليس	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+تحويل	O
+النجم	B-ORG
+الرياضي	I-ORG
+ببني	I-ORG
+خلاد	I-ORG
+
+**	O
+ماريا	B-PER
+دي	I-PER
+فيوتا،	I-PER
+سائقة	O
+فورمولا	B-ORG
+1	I-ORG
+إسبانية	B-LOC
+.	O
+
+الوليد	B-PER
+بن	I-PER
+عبد	I-PER
+الملك	I-PER
+
+وفي	O
+وقت	O
+لاحق	O
+خلال	O
+هذا	O
+اليوم،	O
+أكد	O
+طبيب	O
+من	O
+اللجنة	B-ORG
+الدولية	I-ORG
+للصليب	I-ORG
+الأحمر	I-ORG
+بأن	O
+حدة	O
+القتال	O
+قد	O
+انخفضت	O
+ولكن	O
+ظل	O
+الوضع	O
+متوترًا	O
+.	O
+
+خوان	B-PER
+مارتن	I-PER
+ديل	I-PER
+بوترو	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+
+تحويل	O
+ضرعاء	B-LOC
+هلباء	I-LOC
+شائكة	I-LOC
+
+تحويل	O
+بورلون	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+جودي	B-PER
+لين	I-PER
+اوكيف	I-PER
+
+الوطنية	B-ORG
+الكويتية	I-ORG
+للبترول	I-ORG
+الكويت	B-LOC
+.	O
+
+تحويل	O
+الإمارات	B-LOC
+العربية	I-LOC
+المتحدة	I-LOC

@@ -1,0 +1,99 @@
+===	O
+अखिल	B-ORG
+भारतीय	I-ORG
+सिविल	I-ORG
+सेवा	I-ORG
+===	O
+
+राजा	B-ORG
+रामन्ना	I-ORG
+प्रगत	I-ORG
+प्रौद्योगिकी	I-ORG
+केन्द्र	I-ORG
+(	O
+RRCAT	O
+)	O
+,	O
+इन्दौर	B-LOC
+
+हेमिस	B-LOC
+राष्ट्रीय	I-LOC
+उद्यान	I-LOC
+,	O
+भारत	B-LOC
+
+दक्षिण	B-ORG
+एशियाई	I-ORG
+क्षेत्रीय	I-ORG
+सहयोग	I-ORG
+संगठन	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+दिल्ली	B-LOC
+का	O
+एक	O
+मौहल्ला	O
+है।	O
+
+निशात	B-LOC
+(	I-LOC
+बाग़	I-LOC
+)	I-LOC
+
+रूसो	B-PER
+,	I-PER
+जीन	I-PER
+जेक्स	I-PER
+.	I-PER
+1997	O
+.	O
+
+ललिता	B-PER
+पवार	I-PER
+—	O
+अम्बु	O
+,	O
+घरबारी	O
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+92	O
+रनों	O
+से	O
+जीत	O
+;	O
+MoM	O
+-	O
+सचिन	B-PER
+तेंदुलकर	I-PER
+-	O
+68	O
+(	O
+45	O
+)	O
+
+मिज़ोरम	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+''पार्श्वगायक	O
+''	O
+-	O
+किशोर	B-PER
+कुमार	I-PER
+,	O
+लता	B-PER
+मंगेशकर	I-PER
+
+खान	B-LOC
+मार्किट	I-LOC
+,	I-LOC
+दिल्ली	I-LOC

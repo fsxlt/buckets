@@ -1,0 +1,95 @@
+'	O
+''	O
+1.	B-ORG
+FC	I-ORG
+Köln	I-ORG
+''	O
+'	O
+
+Vincentius	B-PER
+a	I-PER
+Paulo	I-PER
+
+De	O
+lijnen	O
+worden	O
+geëxploiteerd	O
+door	O
+Connexxion	B-ORG
+.	O
+
+Hij	O
+was	O
+in	O
+de	O
+periode	O
+1986-1998	O
+lid	O
+van	O
+de	O
+Tweede	B-ORG
+Kamer	I-ORG
+en	O
+
+Sankt	B-LOC
+Anton	I-LOC
+an	I-LOC
+der	I-LOC
+Jeßnitz	I-LOC
+
+Hij	O
+kreeg	O
+daarbij	O
+de	O
+steun	O
+van	O
+oud-premier	O
+Pierre	B-PER
+Laval	I-PER
+.	O
+
+Marcel	B-PER
+Heller	I-PER
+(	O
+2007-heden	O
+)	O
+
+Grand	B-ORG
+Prix	I-ORG
+Formule	I-ORG
+1	I-ORG
+van	I-ORG
+Italië	I-ORG
+2003	I-ORG
+
+Big	B-LOC
+Horn	I-LOC
+County	I-LOC
+(	I-LOC
+Wyoming	I-LOC
+)	I-LOC
+
+Gniewkowo	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+
+Aellopos	B-LOC
+fadus	I-LOC
+''	O
+(	O
+,	O
+1775	O
+)	O
+
+Henri	B-PER
+Guisan	I-PER
+(	O
+1874-1960	O
+)	O
+
+Als	O
+speler	O
+bij	O
+Fortuna	B-ORG
+Düsseldorf	I-ORG

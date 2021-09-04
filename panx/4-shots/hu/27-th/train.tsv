@@ -1,0 +1,108 @@
+**	O
+Mihail	B-PER
+Gorbacsov	I-PER
+(	O
+1985–1991	O
+)	O
+,	O
+a	O
+Szovjetunió	B-ORG
+Kommunista	I-ORG
+Pártjának	I-ORG
+főtitkára	O
+
+Carlos	B-PER
+Moyà	I-PER
+''	O
+(	O
+Első	O
+kör	O
+)	O
+
+Whole	B-ORG
+Lotta	I-ORG
+Love	I-ORG
+''	O
+''	O
+(	O
+Led	B-ORG
+Zeppelin	I-ORG
+II	I-ORG
+)	O
+''	O
+–	O
+5:34	O
+
+PSV	B-ORG
+Eindhoven	I-ORG
+(	O
+bajnoki	O
+cím	O
+)	O
+
+Stazione	B-ORG
+di	I-ORG
+Pescara	I-ORG
+Porta	I-ORG
+Nuova	I-ORG
+
+'	O
+''	O
+Ronnie	B-PER
+Peterson	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Julia	B-PER
+Görges	I-PER
+''	O
+'	O
+'	O
+''	O
+Polona	B-PER
+Hercog	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Boussay	B-LOC
+(	I-LOC
+Indre-et-Loire	I-LOC
+)	I-LOC
+
+''	O
+Xiphorhynchus	B-LOC
+spixii	I-LOC
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Lagarde	B-LOC
+(	I-LOC
+Haute-Garonne	I-LOC
+)	I-LOC
+
+Angola	B-LOC
+,	O
+Botswana	B-LOC
+,	O
+a	O
+Dél-afrikai	B-LOC
+Köztársaság	I-LOC
+,	O
+a	O
+Kongói	B-LOC
+Demokratikus	I-LOC
+Köztársaság	I-LOC
+,	O
+Lesotho	B-LOC
+,	O
+Namíbia	B-LOC
+,	O
+Zambia	B-LOC
+és	O
+Zimbabwe	B-LOC
+területén	O
+honos	O
+.	O

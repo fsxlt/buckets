@@ -1,0 +1,38 @@
+ALIH	O
+Étienne	B-PER
+Henri	I-PER
+II	I-PER
+
+Iberia	B-ORG
+Airlines	I-ORG
+(	O
+Oneworld	B-ORG
+)	O
+
+ALIH	O
+Provinsi	B-LOC
+Phu	I-LOC
+Yen	I-LOC
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ain	I-LOC
+
+``	O
+Bleed	B-ORG
+It	I-ORG
+Out	I-ORG
+''	O
+–	O
+''Accident	O
+''	O
+dan	O
+''Re-fucking-write	O
+''	O
+
+Jajang	B-PER
+C.	I-PER
+Noer	I-PER
+sebagai	O
+Karsiyem	O

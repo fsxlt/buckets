@@ -1,0 +1,36 @@
+TV	B-ORG
+홋카이도	I-ORG
+(	O
+TVh	O
+)	O
+
+*미에	O
+공장	O
+(	O
+미에	B-LOC
+현	I-LOC
+구와나	B-LOC
+시	I-LOC
+)	O
+
+루이	B-PER
+조제프	I-PER
+게뤼사크	I-PER
+
+나사렛대학교	B-ORG
+,	O
+쌍용3동주민센터	O
+,	O
+시청보건소	O
+,	O
+백석11단지	O
+,	O
+두정고등학교	O
+,	O
+두정역	B-ORG
+,	O
+종합터미널	O
+,	O
+천안TG	O
+,	O
+상명대학교	B-ORG

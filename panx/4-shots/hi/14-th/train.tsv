@@ -1,0 +1,75 @@
+एनोजेइस्सस	B-LOC
+लैटीफ़ोलिया	I-LOC
+''	O
+(	O
+रोक्स्ब	O
+.	O
+
+मध्य	B-LOC
+प्रदेश	I-LOC
+(	O
+भोपाल	B-LOC
+)	O
+
+हेमा	B-PER
+मालिनी	I-PER
+,	O
+राकेश	B-PER
+रोशन	I-PER
+
+हजरत	B-ORG
+निजामुद्दीन	I-ORG
+रेलवे	I-ORG
+स्टेशन	I-ORG
+
+लीला	B-PER
+मिश्रा	I-PER
+-	O
+सुखिया	O
+
+दक्षिण	B-LOC
+कोरिया	I-LOC
+-	O
+3.8	O
+इंच	O
+,	O
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+८८	I-ORG
+
+सैफ़	B-PER
+अली	I-PER
+ख़ान	I-PER
+,	O
+रवीना	B-PER
+टंडन	I-PER
+,	O
+सनी	B-PER
+देओल	I-PER
+
+अंटार्क्टिक	B-LOC
+प्रायद्वीप	I-LOC
+के	O
+कुछ	O
+द्वीपसमूह।	O
+
+राजभवन	B-ORG
+(	I-ORG
+महाराष्ट्र	I-ORG
+)	I-ORG
+,	I-ORG
+नागपुर	I-ORG
+
+मिथुन	B-PER
+चक्रवर्ती	I-PER
+,	O
+रेखा	B-PER
+,	O
+रति	B-PER
+अग्निहोत्री	I-PER
+
+महात्मा	B-ORG
+गाँधी	I-ORG
+काशी	I-ORG
+विद्यापीठ	I-ORG

@@ -1,0 +1,67 @@
+رجوع_مکرر	O
+ہنگول	B-ORG
+قومی	I-ORG
+بوستان	I-ORG
+
+آصف	B-PER
+نواز	I-PER
+جنجوعہ	I-PER
+
+رجوع_مکرر	O
+سیئرا	B-LOC
+کاؤنٹی،	I-LOC
+نیو	I-LOC
+میکسیکو	I-LOC
+
+رجوع_مکرر	O
+بلیو	B-ORG
+پینورما	I-ORG
+ایئر	I-ORG
+لائنز	I-ORG
+
+رجوع_مکرر	O
+جزیرہ	B-ORG
+نما	I-ORG
+باجا	I-ORG
+کیلیفورنیا	I-ORG
+
+'	O
+''	O
+لکسمبرگ	B-ORG
+(	I-ORG
+شہر	I-ORG
+)	I-ORG
+''	O
+'	O
+
+مرزا	B-PER
+طاہر	I-PER
+احمد	I-PER
+
+رجوع_مکرر	O
+آن،	B-PER
+ملکہ	I-PER
+برطانیہ	I-PER
+عظمی	I-PER
+
+رجوع_مکرر	O
+کوئیسنل،	B-LOC
+برٹش	I-LOC
+کولمبیا	I-LOC
+
+رجوع_مکرر	O
+مارٹن	B-PER
+لوتھر	I-PER
+کنگ	I-PER
+جونیئر	I-PER
+
+رجوع_مکرر	O
+ایلم	B-LOC
+ووڈ	I-LOC
+پارک،	I-LOC
+الینوائے	I-LOC
+
+رجوع_مکرر	O
+کآم	B-LOC
+گیآنگ	I-LOC
+ضلع	I-LOC

@@ -1,0 +1,105 @@
+**	O
+Karibische	O
+Inseln	O
+—	O
+კარიბის	B-LOC
+აუზის	I-LOC
+ქვეყნები	I-LOC
+
+გადამისამართება	O
+ვარსკვლავური	B-ORG
+ომები	I-ORG
+(	I-ORG
+საუნდტრეკი	I-ORG
+)	I-ORG
+
+გადამისამართება	O
+ესპანეთის	B-LOC
+მეორე	I-LOC
+რესპუბლიკა	I-LOC
+
+იმავე	O
+ფილმში	O
+ჟღერს	O
+სიმღერის	O
+სხვა	O
+ვერსია	O
+,	O
+შესრულებული	O
+მსახიობ	O
+გლენ	B-PER
+კლოუზის	I-PER
+მიერ	O
+.	O
+
+მას	O
+ხშირად	O
+უწოდებენ	O
+ჯენესისის	B-ORG
+არაოფიციალურ	O
+ალბომს	O
+-	O
+ვინაიდან	O
+მასზე	O
+ასევე	O
+უკრავენ	O
+ფილ	B-PER
+კოლინზი	I-PER
+და	O
+მაიკ	B-PER
+რეზერფორდი	I-PER
+.	O
+
+ქოქოსის	B-LOC
+კუნძულები	I-LOC
+(	O
+)	O
+
+გადამისამართება	O
+Eminem	B-ORG
+Presents	I-ORG
+the	I-ORG
+Re-Up	I-ORG
+
+შეტანილია	O
+ალბომში	O
+Standing	B-ORG
+on	I-ORG
+the	I-ORG
+Shoulder	I-ORG
+of	I-ORG
+Giants	I-ORG
+''	O
+.	O
+
+დისკი	O
+გამოსცა	O
+ლეიბლმა	O
+Sony	B-ORG
+Music	I-ORG
+Finland	I-ORG
+/	O
+Epidrome	O
+.	O
+
+ფილმის	O
+საუნდტრეკის	O
+ავტორია	O
+ჰოვარდ	B-PER
+შორი	I-PER
+.	O
+
+ასევე	O
+ონტარიოს	B-LOC
+ტბაში	I-LOC
+,	O
+კანადა	B-LOC
+.	O
+
+**	O
+7.2	O
+-	O
+მოსის	B-PER
+მელოუნი	I-PER
+,	O
+1978-79	O

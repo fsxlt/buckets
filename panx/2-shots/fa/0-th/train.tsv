@@ -1,0 +1,36 @@
+باشگاه	B-ORG
+فوتبال	I-ORG
+گامبا	I-ORG
+اوساکا	I-ORG
+
+تغییرمسیر	O
+فرناندو	B-PER
+دی	I-PER
+آبرئو	I-PER
+فریرا	I-PER
+
+چشمه	B-LOC
+شیرین	I-LOC
+(	I-LOC
+نی‌ریز	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+بلایت	B-LOC
+ویل	I-LOC
+(	I-LOC
+آرکانزاس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آمریکا	B-ORG
+لاتینا	I-ORG
+لجستیکا	I-ORG
+
+هاینریش	B-PER
+شیر	I-PER
+نوهٔ	O
+دختری	O
+او	O
+بود	O
+.	O

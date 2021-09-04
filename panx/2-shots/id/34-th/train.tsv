@@ -1,0 +1,46 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Creuse	I-LOC
+
+ALIH	O
+Pramoedya	B-PER
+Ananta	I-PER
+Toer	I-PER
+
+ALIH	O
+The	B-ORG
+Unquestionable	I-ORG
+Truth	I-ORG
+(	I-ORG
+Part	I-ORG
+1	I-ORG
+)	I-ORG
+
+ALIH	O
+Presiden	B-ORG
+Dewan	I-ORG
+Eropa	I-ORG
+
+Perkembangan	O
+inilah	O
+yang	O
+ditakutkan	O
+oleh	O
+pemerintah	O
+kolonial	O
+Hindia	B-LOC
+Belanda	I-LOC
+.	O
+
+Rake	B-PER
+Pikatan	I-PER
+Dyah	I-PER
+Saladu	I-PER
+(	O
+22-2-847	O
+-	O
+27-5-855	O
+M	O
+)	O

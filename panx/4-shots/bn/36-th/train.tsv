@@ -1,0 +1,73 @@
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+ইসলামাবাদ	B-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+
+চর	B-LOC
+ভদ্রাসন	I-LOC
+উপজেলা	I-LOC
+
+নীলম	B-PER
+সঞ্জীব	I-PER
+রেড্ডি	I-PER
+
+কলম	B-ORG
+(	I-ORG
+পত্রিকা	I-ORG
+)	I-ORG
+
+''Lonchura	O
+striata	O
+fumigata	O
+''	O
+(	O
+Walden	O
+,	O
+1873	O
+)	O
+-	O
+আন্দামান	B-LOC
+দ্বীপপুঞ্জ।	I-LOC
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+রাজগুরুনগর	B-LOC
+(	I-LOC
+খেদ	I-LOC
+)	I-LOC
+
+অঁরি	B-PER
+দ্য	I-PER
+তুলুজ-লোত্রেক	I-PER
+
+পাকিস্তান	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+লুইস	B-PER
+ফন	I-PER
+গাল	I-PER
+
+ঐশ্বর্যা	B-PER
+রাই	I-PER
+বচ্চন	I-PER
+
+মেডিক্যাল	B-ORG
+কলেজ	I-ORG
+ও	I-ORG
+হাসপাতাল	I-ORG
+,	I-ORG
+কলকাতা	I-ORG

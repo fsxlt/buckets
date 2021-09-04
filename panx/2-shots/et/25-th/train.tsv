@@ -1,0 +1,49 @@
+Õppis	O
+Keiserlikus	B-ORG
+Kunstide	I-ORG
+Akadeemias	I-ORG
+.	O
+
+Linna	O
+asus	O
+Minski	B-LOC
+kubermangus	I-LOC
+.	O
+
+1949.	O
+aastal	O
+sai	O
+temast	O
+Saksamaa	B-ORG
+Sotsiaaldemokraatliku	I-ORG
+Partei	I-ORG
+põgenikeasjade	O
+volinik	O
+.	O
+
+suuna	O
+Albert	B-PER
+(	I-PER
+Riia	I-PER
+piiskop	I-PER
+)	I-PER
+
+Tema	O
+poeg	O
+Eero	B-PER
+Saarinen	I-PER
+oli	O
+samuti	O
+silmapaistev	O
+arhitekt	O
+.	O
+
+Tangi	B-LOC
+dünastia	I-LOC
+ajal	O
+oli	O
+mitu	O
+''Daozang	O
+''	O
+kataloogi	O
+.	O

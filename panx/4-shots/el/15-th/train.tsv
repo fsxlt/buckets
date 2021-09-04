@@ -1,0 +1,111 @@
+'	O
+''	O
+Αυστρία	B-LOC
+''	O
+'	O
+
+Γελένα	B-PER
+Τέμνικοβα	I-PER
+,	O
+Όλγκα	B-PER
+Σεριάμπκινα	I-PER
+,	O
+Αναστασία	B-PER
+Κάρποβα	I-PER
+
+==	O
+--	O
+Δήμος	B-LOC
+Κοσμά	I-LOC
+του	I-LOC
+Αιτωλού	I-LOC
+--	O
+==	O
+
+)	O
+και	O
+ο	O
+Πλίνιος	B-PER
+(	O
+23-79	O
+μ	O
+.	O
+
+'	O
+''	O
+Σουηδία	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Κ.Κ.	B-PER
+Ντάουνινγκ	I-PER
+''	O
+'	O
+-	O
+''κιθάρα	O
+''	O
+
+'	O
+''	O
+British	B-ORG
+Steel	I-ORG
+''	O
+'	O
+''	O
+
+Β΄]]	O
+)	O
+'	O
+''	O
+Ομόνοια	B-ORG
+Αραδίππου	I-ORG
+''	O
+'	O
+
+Αλεσσάντρο	B-PER
+Ντελ	I-PER
+Πιέρο	I-PER
+
+'	O
+''	O
+Ηνωμένο	B-LOC
+Βασίλειο	I-LOC
+''	O
+'	O
+
+Νίκος	B-ORG
+&	I-ORG
+Σωκράτης	I-ORG
+Ερήμης	I-ORG
+
+Δήμος	B-LOC
+Πύδνας	I-LOC
+-	I-LOC
+Κολινδρού	I-LOC
+1	O
+
+'	O
+''	O
+Ατλέτικο	B-ORG
+Μαδρίτης	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Ρικ	B-PER
+Γουέικμαν	I-PER
+''	O
+'	O
+-	O
+''πλήκτρα	O
+''	O
+
+|	O
+Κάτω	B-LOC
+Αυστρία	I-LOC
+(	O
+NÖ	O
+)	O

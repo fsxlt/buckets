@@ -1,0 +1,39 @@
+'	O
+''	O
+Partito	B-ORG
+Unionista	I-ORG
+dell'Ulster	I-ORG
+''	O
+'	O
+
+Zona	B-LOC
+d'operazioni	I-LOC
+delle	I-LOC
+Prealpi	I-LOC
+
+Stati	B-LOC
+Uniti	I-LOC
+d'America	I-LOC
+-	O
+21	O
+
+'	O
+''	O
+Álvaro	B-PER
+Bautista	I-PER
+''	O
+'	O
+
+Partito	B-ORG
+Repubblicano	I-ORG
+Italiano	I-ORG
+(	O
+PRI	O
+)	O
+
+'	O
+''	O
+'	O
+''	O
+Eva	B-PER
+Korpela	I-PER

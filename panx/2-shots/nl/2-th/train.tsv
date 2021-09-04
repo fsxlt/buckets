@@ -1,0 +1,60 @@
+'	O
+''	O
+Wit-Rusland	B-LOC
+''	O
+'	O
+nam	O
+deel	O
+aan	O
+het	O
+'	O
+''	O
+Eurovisiesongfestival	B-ORG
+2012	I-ORG
+''	O
+'	O
+in	O
+Bakoe	B-LOC
+,	O
+Azerbeidzjan	B-LOC
+.	O
+
+Duitsers	O
+pikten	O
+hen	O
+op	O
+en	O
+brachten	O
+hen	O
+naar	O
+Den	B-LOC
+Helder	I-LOC
+.	O
+
+====	O
+Hoogheemraadschap	B-ORG
+van	I-ORG
+Rijnland	I-ORG
+====	O
+
+DOORVERWIJZING	O
+Taboo	B-PER
+(	I-PER
+rapper	I-PER
+)	I-PER
+
+Samen	O
+met	O
+S.	B-LOC
+steerii	I-LOC
+''	O
+,	O
+''S	O
+.	O
+
+'	O
+''	O
+Rick	B-PER
+Leach	I-PER
+Jim	B-PER
+Pugh	I-PER

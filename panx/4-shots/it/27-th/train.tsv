@@ -1,0 +1,97 @@
+libere	B-LOC
+città	I-LOC
+imperiali	I-LOC
+.	O
+
+**	O
+'	O
+''	O
+Chris	B-PER
+Brown	I-PER
+''	O
+'	O
+-	O
+With	B-ORG
+You	I-ORG
+''	O
+
+:12ª	O
+tappa	O
+Vuelta	B-ORG
+a	I-ORG
+España	I-ORG
+(	O
+Villalón	B-LOC
+de	I-LOC
+Campos	I-LOC
+>	O
+Gijón	B-LOC
+)	O
+
+Martinsicuro	B-LOC
+,	O
+Monteodorisio	B-LOC
+,	O
+Monteferrante	B-LOC
+,	O
+Morro	B-LOC
+d'Oro	I-LOC
+,	O
+Ortucchio	B-LOC
+,	O
+Pacentro	B-LOC
+,	O
+Pennapiedimonte	B-LOC
+,	O
+Pietraferrazzana	B-LOC
+
+Jean-Julien	B-PER
+Rojer	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+Leoš	B-PER
+Friedl	I-PER
+/	O
+Janette	B-PER
+Husárová	I-PER
+''	O
+(	O
+terzo	O
+turno	O
+)	O
+
+:17ª	O
+tappa	O
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+
+Torneo	B-ORG
+di	I-ORG
+Wimbledon	I-ORG
+2014	I-ORG
+
+===	O
+Finali	O
+per	O
+il	O
+1º	O
+e	O
+3º	O
+posto	O
+-	O
+San	B-LOC
+Paolo	I-LOC
+===	O
+
+Alexandre	B-PER
+Trauner	I-PER
+,	O
+scenografo	O
+(	O
+Francia	B-LOC
+)	O

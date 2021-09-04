@@ -1,0 +1,51 @@
+울레비	B-ORG
+,	O
+예테보리	B-LOC
+,	O
+스웨덴	B-LOC
+
+넘겨주기	O
+러시아	B-PER
+여대공	I-PER
+마리아	I-PER
+니콜라예브나	I-PER
+(	I-PER
+1819년	I-PER
+)	I-PER
+
+그는	O
+현재	O
+토트넘	B-ORG
+홋스퍼	I-ORG
+FC의	I-ORG
+수석	O
+코치로	O
+역임하고	O
+있다	O
+.	O
+
+평균시청률	O
+18.6	O
+%	O
+(	O
+간토	B-LOC
+지방·	I-LOC
+조사	O
+)	O
+
+***	O
+에리모	B-LOC
+정	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+올랜도	B-ORG
+파이리츠	I-ORG
+FC	I-ORG
+
+미추	B-PER
+이사금은	I-PER
+그의	O
+외손자이다	O
+.	O

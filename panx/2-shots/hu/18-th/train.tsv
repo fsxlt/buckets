@@ -1,0 +1,77 @@
+ÁTIRÁNYÍTÁS	O
+Royal	B-ORG
+Opera	I-ORG
+House	I-ORG
+
+Nagy-Románia	B-ORG
+Párt	I-ORG
+(	O
+PRM	O
+)	O
+
+Az	O
+ő	O
+korai	O
+halála	O
+miatt	O
+unokái	O
+,	O
+Batu	B-PER
+kán	I-PER
+,	O
+Berke	B-PER
+kán	I-PER
+és	O
+Orda	B-PER
+kán	I-PER
+örökölték	O
+a	O
+feladatot	O
+.	O
+
+Középiskolai	O
+tanulmányait	O
+Nagyszebenben	B-LOC
+,	O
+Gyulafehérváron	B-LOC
+,	O
+Székelyudvarhelyen	B-LOC
+és	O
+Marosvásárhelyen	B-LOC
+végezte	O
+(	O
+1939–47	O
+)	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Hohenzollern	B-PER
+Alekszandra	I-PER
+Fjodorovna	I-PER
+orosz	I-PER
+cárné	I-PER
+
+Dánia	B-LOC
+,	O
+Észtország	B-LOC
+,	O
+Izland	B-LOC
+,	O
+Lettország	B-LOC
+,	O
+Magyarország	B-LOC
+,	O
+Portugália	B-LOC
+,	O
+San	B-LOC
+Marino	I-LOC
+,	O
+Svédország	B-LOC
+
+(	O
+Az	O
+Egyesült	B-LOC
+Királyság	I-LOC
+tengerentúli	I-LOC
+területe	I-LOC
+)	O

@@ -1,0 +1,27 @@
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Charente	I-LOC
+
+Sun	B-ORG
+Life	I-ORG
+Stadium	I-ORG
+,	O
+Miami	B-LOC
+(	O
+Floride	B-LOC
+)	O
+
+Antonio	B-PER
+Fogazzaro	I-PER
+et	O
+Gabriele	B-PER
+D'Annunzio	I-PER
+écrivirent	O
+des	O
+textes	O
+pour	O
+lui	O
+.	O

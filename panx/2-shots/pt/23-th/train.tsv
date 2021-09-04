@@ -1,0 +1,43 @@
+REDIRECIONAMENTO	O
+Diederrick	B-PER
+Joel	I-PER
+Tagueu	I-PER
+
+Rio	B-LOC
+Gârda	I-LOC
+Seacă	I-LOC
+
+Carlos	B-PER
+II	I-PER
+de	I-PER
+França	I-PER
+
+São	B-LOC
+Bento	I-LOC
+do	I-LOC
+Tocantins	I-LOC
+
+O	O
+álbum	O
+foi	O
+todo	O
+gravado	O
+mas	O
+foi	O
+cancelado	O
+quando	O
+o	O
+grupo	O
+terminou	O
+o	O
+contrato	O
+com	O
+a	O
+Hollywood	B-ORG
+Records	I-ORG
+.	O
+
+Santa	B-ORG
+Maria	I-ORG
+in	I-ORG
+Domnica	I-ORG

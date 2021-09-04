@@ -1,0 +1,120 @@
+אליפות	B-ORG
+ריו	I-ORG
+דה	I-ORG
+ז'ניירו	I-ORG
+בכדורגל	I-ORG
+-	O
+פלומיננסה	B-ORG
+זכה	O
+באליפות	O
+
+במסגרת	O
+שירותו	O
+היה	O
+רמת	B-LOC
+הכובש	I-LOC
+מעוז	B-LOC
+חיים	I-LOC
+ולאחר	O
+מכן	O
+הוצב	O
+כאפסנאי	O
+במטה	O
+הפלוגה	O
+בקיבוץ	O
+בית	B-LOC
+השיטה	I-LOC
+.	O
+
+מרקיניוס	O
+לא	O
+היה	O
+בסגל	O
+נבחרת	B-ORG
+ברזיל	I-ORG
+מונדיאל	B-ORG
+2014	I-ORG
+.	O
+
+הפניה	O
+פלזמה	B-PER
+(	I-PER
+מצב	I-PER
+צבירה	I-PER
+)	I-PER
+
+ארגנטינה	B-LOC
+(	O
+מאר	B-LOC
+דל	I-LOC
+פלאטה	I-LOC
+)	O
+
+humei	O
+)	O
+-	O
+נפוץ	O
+בחבל	O
+קשמיר	B-LOC
+.	O
+
+גני	B-LOC
+טל	I-LOC
+65	O
+משפחות	O
+
+בערוב	O
+ימיו	O
+השתקע	O
+אנגליה	B-LOC
+.	O
+
+**	O
+זאקרי	B-PER
+לוי	I-PER
+-	O
+צ'אק	B-ORG
+''	O
+
+'	O
+''	O
+מחוז	B-LOC
+חלב	I-LOC
+''	O
+'	O
+
+``	O
+We	B-ORG
+Are	I-ORG
+Young	I-ORG
+''	O
+
+דייוויד	B-PER
+גטה	I-PER
+בשיתוף	O
+עם	O
+קלי	B-PER
+רולנד	I-PER
+
+הוא	O
+החיל	O
+מדיניות	O
+ריכוזית	O
+ביפן	O
+ודגל	O
+במודרניזציה	O
+,	O
+וכמו	O
+כן	O
+היה	O
+ממנהיגי	O
+המהלך	O
+ביטול	B-ORG
+שיטת	I-ORG
+ההאן	I-ORG
+.	O
+
+הפניה	O
+ג'ון	B-PER
+בון	I-PER
+ג'ובי	I-PER

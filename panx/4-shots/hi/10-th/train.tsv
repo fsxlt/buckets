@@ -1,0 +1,79 @@
+गढ़वाल	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+सोनाली	B-PER
+बेंद्रे	I-PER
+-	O
+सीमा	O
+
+डेनियला	B-PER
+हंचुकोवा	I-PER
+ने	O
+मार्टिना	B-PER
+हिंगिस	I-PER
+को	O
+6–3	O
+,	O
+6–4	O
+से	O
+हराया।	O
+
+चीनी	B-LOC
+जनवादी	I-LOC
+गणराज्य	I-LOC
+
+१९९०	B-ORG
+अमरीकी	I-ORG
+ओपन	I-ORG
+टेनिस	I-ORG
+प्रतियोगिता	I-ORG
+
+मनोज	B-PER
+बाजपेयी	I-PER
+,	O
+जूही	B-PER
+चावला	I-PER
+
+बिएन	B-ORG
+दे	I-ORG
+इंतेरेस	I-ORG
+कल्चरल	I-ORG
+
+औरंगाबाद	B-LOC
+,	I-LOC
+बिहार	I-LOC
+
+'	O
+''	O
+जयपुर	B-LOC
+''	O
+'	O
+
+गुरुकुल	B-ORG
+कांगड़ी	I-ORG
+विश्वविद्यालय	I-ORG
+(	O
+हरिद्वार	B-LOC
+के	O
+पास	O
+)	O
+
+मिथुन	B-PER
+चक्रवर्ती	I-PER
+,	O
+रेखा	B-PER
+,	O
+रति	B-PER
+अग्निहोत्री	I-PER
+
+अनुप्रेषित	O
+मुदुमलै	B-LOC
+वन्यजीव	I-LOC
+अभयारण्य	I-LOC
+
+भारत	B-LOC
+का	I-LOC
+विभाजन	I-LOC

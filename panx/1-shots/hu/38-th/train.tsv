@@ -1,0 +1,30 @@
+'	O
+''	O
+Valentino	B-PER
+Rossi	I-PER
+''	O
+'	O
+
+Bár	O
+sziget	O
+,	O
+közel	O
+van	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államok	I-LOC
+déli	O
+részéhez	O
+,	O
+Floridához	B-LOC
+.	O
+
+Tanulmányait	O
+a	O
+budapesti	B-ORG
+Pázmány	I-ORG
+Péter	I-ORG
+Tudományegyetemen	I-ORG
+végezte	O
+.	O

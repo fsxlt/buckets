@@ -1,0 +1,69 @@
+رجوع_مکرر	O
+سینٹ	B-LOC
+جان	I-LOC
+پریش،	I-LOC
+گریناڈا	I-LOC
+
+رجوع_مکرر	O
+لیبیا	B-ORG
+خانہ	I-ORG
+جنگی	I-ORG
+(	I-ORG
+2011ء	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+لیاقت	B-PER
+علی	I-PER
+خان	I-PER
+
+رجوع_مکرر	O
+لیک	B-LOC
+اریل،	I-LOC
+پینسلوانیا	I-LOC
+
+بلند	B-PER
+ایجوت	I-PER
+(	O
+1925–2006	O
+)	O
+
+رجوع_مکرر	O
+سٹیفنز	B-LOC
+کاؤنٹی،	I-LOC
+جارجیا	I-LOC
+
+رجوع_مکرر	O
+منڈی	B-ORG
+احمد	I-ORG
+آباد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+ویتنام	B-ORG
+میں	I-ORG
+اسلام	I-ORG
+
+نعمت	B-PER
+اللہ	I-PER
+خان	I-PER
+-	O
+وکیل	O
+
+دھارووال	B-ORG
+کانگ	I-ORG
+ہالٹ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+مملکت	B-LOC
+يونانی	I-LOC
+ہند	I-LOC
+
+رجوع_مکرر	O
+عقیل	B-PER
+ابن	I-PER
+ابی	I-PER
+طالب	I-PER

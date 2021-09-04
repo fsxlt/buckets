@@ -1,0 +1,86 @@
+YÖNLENDİR	O
+Bolu	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC
+
+Wiz	B-PER
+Khalifa	I-PER
+ft.	O
+Charlie	B-PER
+Puth	I-PER
+
+'	O
+''	O
+Choiseul	O
+''	O
+'	O
+,	O
+Saint	B-LOC
+Lucia'yı	I-LOC
+oluşturan	O
+11	O
+idarî	O
+şehrinden	O
+biridir	O
+.	O
+
+YÖNLENDİR	O
+Henri	B-PER
+de	I-PER
+Toulouse-Lautrec	I-PER
+
+'	O
+''	O
+Andrija	B-PER
+Stipanović	I-PER
+''	O
+'	O
+
+Milliyetçi	B-ORG
+Hareket	I-ORG
+Partisi	I-ORG
+(	O
+MHP	O
+)	O
+
+122	O
+yılında	O
+Hadrian	B-ORG
+Duvarı'nın	I-ORG
+yapımına	O
+başlandı	O
+.	O
+
+YÖNLENDİRME	O
+Karacakılavuz	B-LOC
+,	I-LOC
+Süleymanpaşa	I-LOC
+
+YÖNLENDİRME	O
+Kızılkapı	B-LOC
+,	I-LOC
+Bor	I-LOC
+
+Steve	B-PER
+Davis	I-PER
+(	O
+İngiltere	B-LOC
+)	O
+
+A	B-ORG
+Very	I-ORG
+Gaga	I-ORG
+Holiday	I-ORG
+''	O
+
+Bu	O
+kale	O
+Antakya	B-ORG
+Prensliği	I-ORG
+döneminde	O
+yörenin	O
+önemli	O
+kalelerinden	O
+biriydi	O
+.	O

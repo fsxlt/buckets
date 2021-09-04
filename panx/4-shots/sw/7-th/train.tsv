@@ -1,0 +1,89 @@
+Alimfuata	O
+Papa	B-PER
+Leo	I-PER
+XI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Gregori	I-PER
+XV	I-PER
+.	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Shijiazhuang	B-LOC
+(	O
+石家庄	O
+)	O
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39208	O
+.	O
+
+Georgia	B-LOC
+(	O
+Tbilisi	B-LOC
+)	O
+(	O
+EU	O
+)	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Tabora	I-LOC
+Mjini	I-LOC
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Kenya	B-ORG
+African	I-ORG
+National	I-ORG
+Union	I-ORG
+
+Klara	B-PER
+wa	I-PER
+Asizi	I-PER
+
+Papa	B-PER
+Innocent	I-PER
+XI	I-PER
+
+Alikuwa	O
+pia	O
+Mmarekani	B-ORG
+mweusi	I-ORG
+.	O
+
+Monmouth	B-LOC
+Beach	I-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Allow	B-ORG
+Us	I-ORG
+to	I-ORG
+Be	I-ORG
+Frank	I-ORG
+''	O
+(	O
+2004	O
+)	O
+
+Papa	B-PER
+Theodor	I-PER
+II	I-PER

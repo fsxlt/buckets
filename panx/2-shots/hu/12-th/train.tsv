@@ -1,0 +1,49 @@
+Edmond	B-PER
+Rostand	I-PER
+,	O
+Tom	B-PER
+Jones	I-PER
+
+Még	O
+Zorrót	B-PER
+is	O
+játszotta	O
+két	O
+filmben	O
+.	O
+
+Gare	B-ORG
+de	I-ORG
+Belz	I-ORG
+-	I-ORG
+Ploemel	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Allaire	B-LOC
+(	I-LOC
+Morbihan	I-LOC
+)	I-LOC
+
+'	O
+''	O
+3	O
+játékos	O
+''	O
+'	O
+Csepel	B-ORG
+FC	I-ORG
+
+''	O
+Glücksburg	B-LOC
+(	I-LOC
+Ostsee	I-LOC
+)	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Borisz	B-PER
+Gelfand	I-PER
+''	O
+'	O

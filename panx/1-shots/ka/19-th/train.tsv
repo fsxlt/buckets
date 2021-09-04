@@ -1,0 +1,25 @@
+Houses	B-ORG
+of	I-ORG
+the	I-ORG
+Holy	I-ORG
+''	O
+
+ესაზღვრებოდა	O
+ყირგიზეთის	B-LOC
+სსრ	I-LOC
+,	O
+უზბეკეთის	B-LOC
+სსრ	I-LOC
+,	O
+ავღანეთი	B-LOC
+და	O
+ჩინეთი	B-LOC
+.	O
+
+ლუი	B-PER
+XIV	I-PER
+აფუძნებს	O
+საფრანგეთის	B-ORG
+მეცნიერებათა	I-ORG
+აკადემიას	I-ORG
+.	O

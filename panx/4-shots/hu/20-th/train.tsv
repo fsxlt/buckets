@@ -1,0 +1,110 @@
+'	O
+''	O
+FC	B-ORG
+Carl	I-ORG
+Zeiss	I-ORG
+Jena	I-ORG
+''	O
+'	O
+
+I.	B-PER
+Ottokár	I-PER
+cseh	I-PER
+király	I-PER
+újraegyesíti	O
+Csehországot	B-LOC
+Morvaországgal	B-LOC
+.	O
+
+A	O
+turnén	O
+a	O
+Guns	B-ORG
+N’	I-ORG
+Rosesszel	I-ORG
+léptek	O
+fel	O
+,	O
+mely	O
+révén	O
+minimum	O
+férőhelyes	O
+stadionokban	O
+mutatkozhattak	O
+be	O
+.	O
+
+(	O
+Az	O
+Egyesült	B-LOC
+Királyság	I-LOC
+tengerentúli	I-LOC
+területe	I-LOC
+)	O
+
+'	O
+''	O
+Oláhherepe	O
+''	O
+'	O
+,	O
+falu	O
+Romániában	B-LOC
+,	O
+Erdélyben	B-LOC
+,	O
+Fehér	B-LOC
+megyében	I-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+La	B-LOC
+Rue-Saint-Pierre	I-LOC
+(	I-LOC
+Seine-Maritime	I-LOC
+)	I-LOC
+
+II.	B-PER
+Rómanosz	I-PER
+császár	B-ORG
+(	O
+959–963	O
+)	O
+
+Tim	B-PER
+Henman	I-PER
+''	O
+(	O
+Első	O
+kör	O
+)	O
+''	O
+
+Fritz	B-ORG
+Walter	I-ORG
+Stadion	I-ORG
+,	O
+Kaiserslautern	B-LOC
+
+ÁTIRÁNYÍTÁS	O
+1999–2000-es	B-LOC
+spanyol	I-LOC
+labdarúgó-bajnokság	I-LOC
+(	I-LOC
+első	I-LOC
+osztály	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Lucy	B-PER
+Liu	I-PER
+''	O
+'	O
+–	O
+''	O
+Kill	B-ORG
+Bill	I-ORG
+1	I-ORG
+.	I-ORG
+''	O

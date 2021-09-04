@@ -1,0 +1,102 @@
+Carballeda	B-LOC
+de	I-LOC
+Avia	I-LOC
+
+Passou	O
+alguns	O
+anos	O
+na	O
+Pensilvânia	B-LOC
+,	O
+depois	O
+estabeleceu	O
+residência	O
+em	O
+Boston	B-LOC
+,	O
+onde	O
+vive	O
+com	O
+o	O
+marido	O
+.	O
+
+'	O
+''	O
+Chen	B-PER
+Zihe	I-PER
+Gao	B-PER
+Jun	I-PER
+''	O
+'	O
+
+Federação	B-ORG
+Paulista	I-ORG
+de	I-ORG
+Futebol	I-ORG
+
+(	O
+São	B-LOC
+Bernardo	I-LOC
+do	I-LOC
+Campo	I-LOC
+''	O
+)	O
+
+'	O
+''	O
+Lisa	B-PER
+Raymond	I-PER
+''	O
+'	O
+'	O
+''	O
+Samantha	B-PER
+Stosur	I-PER
+''	O
+'	O
+
+Partido	B-ORG
+Verde	I-ORG
+(	I-ORG
+Irlanda	I-ORG
+)	I-ORG
+
+Redirecionamento	O
+Elétricos	B-ORG
+de	I-ORG
+Lisboa	I-ORG
+
+(	O
+Sacramento	B-ORG
+Kings	I-ORG
+)	O
+(	O
+1	O
+/	O
+1	O
+)	O
+
+REDIRECIONAMENTO	O
+Mette-Marit	B-PER
+,	I-PER
+Princesa	I-PER
+Herdeira	I-PER
+da	I-PER
+Noruega	I-PER
+
+Passaic	B-LOC
+(	I-LOC
+Nova	I-LOC
+Jérsei	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Espírito	B-LOC
+Santo	I-LOC
+''	O
+'	O
+-	O
+Débora	B-PER
+Lyra	I-PER

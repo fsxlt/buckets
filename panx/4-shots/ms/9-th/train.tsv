@@ -1,0 +1,108 @@
+Pengkritik	O
+Barisan	B-ORG
+Nasional	I-ORG
+juga	O
+semakin	O
+bijak	O
+,	O
+ramai	O
+dan	O
+semakin	O
+berani	O
+.	O
+
+''Bacalah	O
+''	O
+-	O
+Rabbani	B-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ain	I-LOC
+
+Babylon	B-PER
+5	I-PER
+''	O
+(	O
+1993–1998	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Finistère	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Marne	I-LOC
+
+YES-YES-YES	O
+'	O
+''	O
+(	O
+Off	O
+Course	O
+)	O
+'	O
+''	O
+-	O
+Aa	B-ORG
+!	I-ORG
+
+'	O
+''	O
+Sergio	B-PER
+Pérez	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Piala	B-ORG
+Dunia	I-ORG
+FIFA	I-ORG
+2002	I-ORG
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Batu	B-LOC
+Pahat	I-LOC
+,	O
+Johor	B-LOC
+
+Meskipun	O
+,	O
+pengkritik	O
+seperti	O
+Koelle	O
+dan	O
+Ibn	B-PER
+Warraq	I-PER
+,	O
+dan	O
+juga	O
+sesetengah	O
+umat	O
+bukan-Islam	O
+lain	O
+,	O
+melihat	O
+tindakannya	O
+sebagai	O
+tidak	O
+berakhlak	O
+.	O
+
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-23	I-ORG
+Jepun	I-ORG

@@ -1,0 +1,147 @@
+Terniko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Umbria	B-LOC
+eskualdean	O
+.	O
+
+EITBk	B-PER
+ere	O
+jarraipen	O
+informatibo	O
+berezia	O
+egin	O
+zuen	O
+.	O
+
+Jōshin'etsu	B-ORG
+Kōgen	I-ORG
+Parke	I-ORG
+Nazionala	I-ORG
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Alpe	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+How	B-ORG
+I	I-ORG
+Met	I-ORG
+Your	I-ORG
+Mother	I-ORG
+''	O
+
+'	O
+''	O
+Faustino	B-PER
+Rupérez	I-PER
+''	O
+'	O
+
+Erromako	B-LOC
+Stadio	B-ORG
+Flaminio	I-ORG
+(	O
+30.000	O
+ikusle	O
+)	O
+
+Herbologian	O
+bikaina	O
+den	O
+arren	O
+hainbat	O
+arazo	O
+izaten	O
+ditu	O
+Pozoien	O
+ikasketetan	O
+eta	O
+horregatik	O
+Severus	B-PER
+Snape	I-PER
+irakasleari	O
+beldur	O
+izugarria	O
+dio	O
+.	O
+
+Urte	O
+honetan	O
+,	O
+bere	O
+seme	O
+Tiglath-Pileser	B-PER
+II.a	I-PER
+izan	O
+zen	O
+bere	O
+oinordekoa	O
+.	O
+
+Real	B-ORG
+Sporting	I-ORG
+de	I-ORG
+Gijón	I-ORG
+
+ETB	B-PER
+2an	I-PER
+elkarrizketa	O
+saio	O
+bat	O
+egin	O
+zuen	O
+.	O
+
+Paduako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Veneto	B-LOC
+eskualdean	O
+.	O
+
+212,91	O
+km-ko	O
+luzera	O
+du	O
+,	O
+Tampatik	B-LOC
+(	O
+Florida	B-LOC
+)	O
+Daytona	B-LOC
+Beachera	I-LOC
+(	O
+Florida	B-LOC
+)	O
+du	O
+ibilbide	O
+,	O
+eta	O
+Florida	B-LOC
+estatutik	O
+igarotzen	O
+da	O
+.	O
+
+'	O
+''	O
+Neu-Seeland	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O

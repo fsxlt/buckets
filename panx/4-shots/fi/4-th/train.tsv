@@ -1,0 +1,121 @@
+Hänen	O
+seuraava	O
+palveluspaikkansa	O
+oli	O
+Viestikoelaitos	B-ORG
+,	O
+jonka	O
+pitkäaikaisimpana	O
+johtajana	O
+hän	O
+toimi	O
+1988–1998	O
+.	O
+
+Tämä	O
+on	O
+uhkana	O
+esimerkiksi	O
+Tšernobylin	B-ORG
+ydinvoimalaitosta	I-ORG
+ympäröivällä	O
+suojavyöhykkeellä	B-LOC
+.	O
+
+Josh	B-PER
+Farro	I-PER
+–	O
+kitara	O
+,	O
+taustalaulu	O
+
+Se	O
+sijaitsee	O
+maan	O
+pohjoisosassa	O
+ja	O
+rajautuu	O
+Montenegroon	B-LOC
+sekä	O
+etelässä	O
+Adrianmereen	B-LOC
+.	O
+
+'	O
+''	O
+Adrian	B-PER
+Sutil	I-PER
+''	O
+'	O
+
+Negrosinbulbuli	B-LOC
+''Ixos	O
+siquijorensis	O
+''	O
+
+Se	O
+kuuluu	O
+Pohjoiseen	B-LOC
+provinssiin	I-LOC
+.	O
+
+Se	O
+sijaitsee	O
+Länsi-Ghatien	B-LOC
+vuoristoon	O
+kuuluvilla	O
+Nilgirivuorilla	B-LOC
+,	O
+ja	O
+on	O
+osa	O
+Nilgirin	B-LOC
+biosfäärialuetta	I-LOC
+.	O
+
+Roger	B-PER
+Penrose	I-PER
+(	O
+1931-	O
+)	O
+
+'	O
+''	O
+BM	B-ORG
+Atletico	I-ORG
+de	I-ORG
+Madrid	I-ORG
+''	O
+'	O
+
+The	B-ORG
+Sound	I-ORG
+of	I-ORG
+Zen	I-ORG
+''	O
+(	O
+2002	O
+)	O
+
+Taivaallisen	B-LOC
+rauhan	I-LOC
+aukiotoist	I-LOC
+
+Arantxa	B-PER
+Sánchez	I-PER
+Vicario	I-PER
+Todd	B-PER
+Woodbridge	I-PER
+
+Balakovon	B-ORG
+ydinvoimalaitos	I-ORG
+(	O
+Saratovin	B-LOC
+alue	I-LOC
+)	O
+
+Kunnan	O
+kuntakeskus	O
+on	O
+Péta	B-LOC
+.	O

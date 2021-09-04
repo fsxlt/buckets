@@ -1,0 +1,91 @@
+REDIRECIONAMENTO	O
+Província	B-LOC
+do	I-LOC
+Vale	I-LOC
+do	I-LOC
+Rift	I-LOC
+
+Wrigley	B-ORG
+Field	I-ORG
+(	O
+2	O
+)	O
+
+*******	O
+''	O
+Phalanger	B-LOC
+matabiru	I-LOC
+''	O
+
+''	O
+Dira	B-PER
+Paes	I-PER
+''	O
+'	O
+-	O
+(	O
+Caminho	B-ORG
+das	I-ORG
+Índias	I-ORG
+''	O
+)	O
+
+São	B-LOC
+José	I-LOC
+dos	I-LOC
+Quatro	I-LOC
+Marcos	I-LOC
+
+*Arthur	O
+Grosser	O
+...	O
+Papa	B-PER
+Sisto	I-PER
+IV	I-PER
+
+Ela	O
+dirige	O
+uma	O
+Ferrari	B-ORG
+''	O
+.	O
+
+Bhalswa	B-LOC
+Jahangir	I-LOC
+Pur	I-LOC
+
+;	O
+Volumes	B-PER
+reunindo	I-PER
+as	I-PER
+histórias	I-PER
+originais	I-PER
+
+Parque	B-ORG
+Nacional	I-ORG
+Everglades	I-ORG
+
+O	O
+filme	O
+foi	O
+dirigido	O
+por	O
+Clyde	B-PER
+Geronimi	I-PER
+,	O
+Hamilton	B-PER
+Luske	I-PER
+e	O
+Wilfred	B-PER
+Jackson	I-PER
+e	O
+produzido	O
+por	O
+Walt	B-PER
+Disney	I-PER
+.	O
+
+''	O
+Game	B-ORG
+Informer	I-ORG
+''	O

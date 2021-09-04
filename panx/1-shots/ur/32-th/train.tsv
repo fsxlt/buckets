@@ -1,0 +1,18 @@
+رجوع_مکرر	O
+لیبیا	B-ORG
+خانہ	I-ORG
+جنگی	I-ORG
+(	I-ORG
+2011ء	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+معین	B-PER
+الدین	I-PER
+احمد	I-PER
+قریشی	I-PER
+
+رجوع_مکرر	O
+سبنگن،	B-LOC
+ماؤنٹین	I-LOC
+علاقہ	I-LOC

@@ -1,0 +1,24 @@
+YÖNLENDİR	O
+With	B-ORG
+a	I-ORG
+Child	I-ORG
+'s	I-ORG
+Heart	I-ORG
+
+Taşburun	B-LOC
+-	O
+Bayburt	B-LOC
+ilinin	O
+köyü	O
+
+YÖNLENDİRME	O
+Hans	B-PER
+Gillisz.	I-PER
+Bollongier	I-PER
+
+Trabzonlu	B-PER
+I.	I-PER
+Andronikos	I-PER
+,	O
+Trabzon	B-LOC
+imparatoru	I-LOC

@@ -1,0 +1,104 @@
+A	B-ORG
+Saucerful	I-ORG
+of	I-ORG
+Secrets	I-ORG
+
+REDIRECCIÓN	O
+José	B-PER
+Demetrio	I-PER
+Rodríguez	I-PER
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O
+vence	O
+a	O
+Rafael	B-PER
+Nadal	I-PER
+,	O
+2–6	O
+,	O
+6–7	O
+(	O
+4–7	O
+)	O
+,	O
+7–6	O
+(	O
+7–5	O
+)	O
+,	O
+6–3	O
+,	O
+6–1	O
+
+*20px	O
+San	B-LOC
+Luis	I-LOC
+(	O
+SLU	O
+)	O
+
+REDIRECCIÓN	O
+Peter	B-PER
+J.	I-PER
+Veniot	I-PER
+
+Condado	B-LOC
+de	I-LOC
+Fulton	I-LOC
+(	O
+sureste	O
+)	O
+
+REDIRECCIÓN	O
+Finnian	B-PER
+de	I-PER
+Moville	I-PER
+
+REDIRECCIÓN	O
+Provincia	B-LOC
+de	I-LOC
+Sucre	I-LOC
+
+Parque	B-ORG
+nacional	I-ORG
+Islas	I-ORG
+de	I-ORG
+Santa	I-ORG
+Fe	I-ORG
+
+Clasificado	O
+a	O
+la	O
+Copa	B-ORG
+Sudamericana	I-ORG
+2009	I-ORG
+.	O
+
+REDIRECCIÓN	O
+Peace	B-ORG
+Sells	I-ORG
+...	I-ORG
+But	I-ORG
+Who	I-ORG
+'s	I-ORG
+Buying	I-ORG
+?	I-ORG
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Nové	I-LOC
+Mesto	I-LOC
+nad	I-LOC
+Váhom	I-LOC
+
+Se	O
+encuentra	O
+en	O
+México	B-LOC
+.	O

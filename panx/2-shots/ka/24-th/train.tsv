@@ -1,0 +1,51 @@
+გადამისამართება	O
+მიკა	B-PER
+(	I-PER
+მომღერალი	I-PER
+)	I-PER
+
+მდებარეობს	O
+ლორეს	B-LOC
+პროვინციაში	I-LOC
+,	O
+სოფელ	O
+აჰნიძორიდან	B-LOC
+ჩრდილო-დასავლეთით	O
+5,5	O
+კილომეტრში	O
+.	O
+
+გადამისამართება	O
+დავით	B-PER
+V	I-PER
+(	I-PER
+დევდარიანი	I-PER
+)	I-PER
+
+ბრძოლის	O
+დროს	O
+დაიკავა	O
+ტერიტორია	O
+კარპატებსა	B-LOC
+და	O
+დნესტრს	B-LOC
+შორის	O
+.	O
+
+მეტეხი	B-LOC
+(	I-LOC
+თბილისი	I-LOC
+)	I-LOC
+
+I	B-ORG
+'m	I-ORG
+Going	I-ORG
+Slightly	I-ORG
+Mad	I-ORG
+
+High	B-ORG
+Hopes	I-ORG
+(	O
+ყოველთვის	O
+სრულდებოდა	O
+)	O

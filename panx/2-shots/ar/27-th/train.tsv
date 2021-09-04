@@ -1,0 +1,41 @@
+'	O
+''	O
+دافيد	B-PER
+فيرير	I-PER
+''	O
+'	O
+
+MMM	O
+–	O
+ثري	B-ORG
+إم	I-ORG
+
+تحويل	O
+لوكهيد	B-PER
+تراى	I-PER
+ستار	I-PER
+(	I-PER
+سلاح	I-PER
+الجو	I-PER
+الملكي	I-PER
+)	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+بيري	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+**	O
+جماهير	O
+الألمان	B-LOC
+الشرقيين	I-LOC
+يقتحمون	O
+بوابة	B-ORG
+براندنبورغ	I-ORG
+إحدى	O
+بوابات	O
+جدار	B-ORG
+برلين	I-ORG
+.	O

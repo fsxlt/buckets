@@ -1,0 +1,37 @@
+مادام	B-PER
+پمپادور	I-PER
+معشوقهٔ	O
+لوئی	B-PER
+پانزدهم	I-PER
+
+تغییرمسیر	O
+جان	B-PER
+لاک	I-PER
+(	I-PER
+لاست	I-PER
+)	I-PER
+
+تغییرمسیر	O
+ناحیه	B-LOC
+ادامز،	I-LOC
+شهرستان	I-LOC
+دلاوار،	I-LOC
+آیووا	I-LOC
+
+تغییرمسیر	O
+مسابقه	B-ORG
+آواز	I-ORG
+یوروویژن	I-ORG
+۲۰۱۱	I-ORG
+
+تغییرمسیر	O
+لاله	B-LOC
+واژگون	I-LOC
+خشتی	I-LOC
+راه‌راه	I-LOC
+
+باشگاه	B-ORG
+فوتبال	I-ORG
+پیام	I-ORG
+مخابرات	I-ORG
+شیراز	I-ORG

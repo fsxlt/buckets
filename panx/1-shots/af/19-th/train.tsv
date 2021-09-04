@@ -1,0 +1,47 @@
+Grens	B-ORG
+Bulldogs	I-ORG
+-	O
+oos	O
+(	O
+tuiswedstryde	O
+in	O
+Oos-Londen	B-LOC
+)	O
+
+Port	B-LOC
+Elizabeth	I-LOC
+,	O
+Suid-Afrika	B-LOC
+.	O
+
+In	O
+die	O
+stigtingsjaar	O
+nog	O
+is	O
+die	O
+eerste	O
+sendeling	O
+na	O
+Suid-Afrika	B-LOC
+of	O
+die	O
+Kaapkolonie	B-ORG
+gestuur	O
+.	O
+
+Dus	O
+lê	O
+hy	O
+sy	O
+planne	O
+aan	O
+die	O
+goewerneur	O
+,	O
+sir	O
+John	B-PER
+Cradock	I-PER
+,	O
+voor	O
+.	O

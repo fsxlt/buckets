@@ -1,0 +1,19 @@
+Hans	B-PER
+Joachim	I-PER
+Pabst	I-PER
+von	I-PER
+Ohain	I-PER
+
+The	B-ORG
+Way	I-ORG
+You	I-ORG
+Make	I-ORG
+Me	I-ORG
+Feel	I-ORG
+''	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Pas-de-Calais	I-LOC

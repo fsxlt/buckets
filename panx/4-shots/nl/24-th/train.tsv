@@ -1,0 +1,123 @@
+Vervolgens	O
+werkte	O
+hij	O
+vijftien	O
+jaar	O
+lang	O
+als	O
+muziekregisseur	O
+voor	O
+de	O
+serie	O
+All	B-PER
+my	I-PER
+children	I-PER
+''	O
+die	O
+werd	O
+uitgezonden	O
+door	O
+de	O
+zender	O
+ABC	B-ORG
+.	O
+
+'	O
+''	O
+FC	B-ORG
+Ordino	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+SC	B-ORG
+Freiburg	I-ORG
+''	O
+'	O
+
+Beste	O
+actrice	O
+in	O
+bijrol	O
+(	O
+Lesley	B-PER
+Ann	I-PER
+Warren	I-PER
+)	O
+
+'	O
+''	O
+Daniela	B-PER
+Hunger	I-PER
+''	O
+'	O
+
+Enerzijds	O
+verloor	O
+hij	O
+zijn	O
+geboorteplaats	O
+(	O
+hij	O
+vluchtte	O
+)	O
+,	O
+dat	O
+vervolgens	O
+onder	O
+Polen	B-LOC
+kwam	O
+.	O
+
+'	O
+''	O
+Sébastien	B-PER
+Amiez	I-PER
+''	O
+'	O
+
+Soort	O
+Lithobates	B-LOC
+yavapaiensis	I-LOC
+''	O
+
+Domburg	B-LOC
+(	I-LOC
+Suriname	I-LOC
+)	I-LOC
+-	O
+Domburg	B-LOC
+(	I-LOC
+Zeeland	I-LOC
+)	I-LOC
+
+Constant	B-ORG
+Vanden	I-ORG
+Stockstadion	I-ORG
+
+Voorheen	O
+gebeurde	O
+dat	O
+alleen	O
+bij	O
+het	O
+Europees	B-ORG
+Hof	I-ORG
+voor	I-ORG
+de	I-ORG
+Rechten	I-ORG
+van	I-ORG
+de	I-ORG
+Mens	I-ORG
+.	O
+
+Boitron	B-LOC
+(	I-LOC
+Seine-et-Marne	I-LOC
+)	I-LOC
+
+DOORVERWIJZING	O
+Musculi	B-LOC
+levatores	I-LOC
+costarum	I-LOC

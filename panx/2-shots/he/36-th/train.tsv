@@ -1,0 +1,35 @@
+חיל	B-ORG
+האוויר	I-ORG
+הישראלי	I-ORG
+
+דוגמאות	O
+נוספות	O
+לכך	O
+ניתן	O
+למצוא	O
+ארמון	B-ORG
+בקינגהאם	I-ORG
+ארמון	B-ORG
+בלנהיים	I-ORG
+אנגליה	B-LOC
+,	O
+ארמון	B-LOC
+ורסאי	I-LOC
+צרפת	B-LOC
+.	O
+
+שמו	O
+ניתן	O
+בידי	O
+זאב	B-PER
+וילנאי	I-PER
+ונובע	O
+מקרבתו	O
+נהר	B-LOC
+הירדן	I-LOC
+.	O
+
+Budgen	B-PER
+,	I-PER
+Frank	I-PER
+.	O

@@ -1,0 +1,31 @@
+Rodrigo	B-PER
+Mora	I-PER
+—	O
+River	B-ORG
+Plate	I-ORG
+(	O
+E	O
+)	O
+
+Game	B-PER
+of	I-PER
+Thrones	I-PER
+
+'	O
+''	O
+Rede	B-ORG
+Globo	I-ORG
+''	O
+'	O
+
+(	O
+Syndicat	B-LOC
+National	I-LOC
+de	I-LOC
+l'Édition	I-LOC
+Phonographique	I-LOC
+)	O
+
+Puerto	B-LOC
+del	I-LOC
+Rosario	I-LOC

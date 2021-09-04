@@ -1,0 +1,77 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Indre-et-Loire	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+Hanover	I-ORG
+
+Mohd	B-PER
+Haris	I-PER
+Safwan	I-PER
+Mohd	B-PER
+Kamal	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+'	O
+''	O
+Lewis	B-PER
+Hamilton	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ille-et-Vilaine	I-LOC
+
+Azri	B-PER
+Iskandar	I-PER
+(	O
+Marsani	O
+)	O
+
+Masjid	B-ORG
+Sultan	I-ORG
+Salahuddin	I-ORG
+Abdul	I-ORG
+Aziz	I-ORG
+Shah	I-ORG
+,	O
+Shah	B-LOC
+Alam	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+putih	I-ORG
+dan	I-ORG
+jingga	I-ORG
+Inggeris-Perancis	I-ORG
+besar	I-ORG
+
+Real	B-ORG
+Madrid	I-ORG
+C.F	I-ORG
+.	I-ORG
+
+dan	O
+isteri	O
+kedua	O
+Sultan	B-PER
+Ahmad	I-PER
+Shah	I-PER
+Al-Musta’in	I-PER
+Billah	I-PER
+ibni	I-PER
+Almarhum	I-PER
+Sultan	B-PER
+Abu	I-PER
+Bakar	I-PER
+.	O

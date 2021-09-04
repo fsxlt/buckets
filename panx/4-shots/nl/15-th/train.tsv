@@ -1,0 +1,106 @@
+Beste	O
+Originele	O
+Scenario	O
+-	O
+Colin	B-PER
+Welland	I-PER
+
+Alleen	O
+in	O
+Qatar	B-LOC
+en	O
+in	O
+de	O
+Verenigde	B-LOC
+Arabische	I-LOC
+Emiraten	I-LOC
+zijn	O
+geen	O
+incidenten	O
+gemeld	O
+.	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Madagaskar	B-LOC
+.	O
+
+My	B-ORG
+Ferry	I-ORG
+Link	I-ORG
+
+Oostplein	B-ORG
+(	I-ORG
+metrostation	I-ORG
+)	I-ORG
+-	O
+
+De	O
+slotetappe	O
+wordt	O
+gewonnen	O
+door	O
+Daniele	B-PER
+Bennati	I-PER
+.	O
+
+Alle	O
+soorten	O
+komen	O
+voor	O
+in	O
+zuidelijk	O
+Afrika	B-LOC
+,	O
+en	O
+hebben	O
+vrijwel	O
+dezelfde	O
+levenswijze	O
+.	O
+
+DOORVERWIJZING	O
+Assemblee	B-ORG
+van	I-ORG
+de	I-ORG
+Republiek	I-ORG
+(	I-ORG
+Noord-Cyprus	I-ORG
+)	I-ORG
+
+Het	O
+is	O
+het	O
+derde	O
+deel	O
+van	O
+de	O
+Space	B-PER
+Odyssey-serie	I-PER
+.	O
+
+São	B-LOC
+José	I-LOC
+da	I-LOC
+Vitória	I-LOC
+
+Denis	B-PER
+Law	I-PER
+(	O
+1962-1973	O
+)	O
+
+Fordham	B-LOC
+(	I-LOC
+Norfolk	I-LOC
+)	I-LOC
+
+Ormacleit	B-ORG
+Castle	I-ORG
+(	O
+South	B-LOC
+Uist	I-LOC
+)	O

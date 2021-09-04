@@ -1,0 +1,82 @@
+Zama	B-ORG
+za	I-ORG
+Mwangaza	I-ORG
+
+Guru	B-PER
+Granth	I-PER
+Sahib	I-PER
+
+``	O
+I	B-ORG
+Ca	I-ORG
+n't	I-ORG
+Live	I-ORG
+Without	I-ORG
+My	I-ORG
+Radio	I-ORG
+''	O
+
+'	O
+''	O
+Australia	B-LOC
+''	O
+'	O
+
+Dodoma	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Akajiunga	O
+na	O
+chama	O
+cha	O
+Kenya	B-ORG
+African	I-ORG
+Union	I-ORG
+.	O
+
+Ghuba	B-LOC
+ya	I-LOC
+Meksiko	I-LOC
+
+Mkoa	B-LOC
+wa	I-LOC
+Magharibi	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+
+Alimfuata	O
+Papa	B-PER
+Benedikto	I-PER
+VI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Yohane	I-PER
+XIV	I-PER
+.	O
+
+Carlos	B-PER
+Bernard	I-PER
+kama	O
+Tony	B-PER
+Almeida	I-PER
+
+Got	B-ORG
+to	I-ORG
+Be	I-ORG
+There	I-ORG
+''	O
+
+'	O
+''	O
+Afrika	B-LOC
+Kusini	I-LOC
+''	O
+'	O
+
+Papa	B-PER
+Innocent	I-PER
+I	I-PER

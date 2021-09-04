@@ -1,0 +1,36 @@
+Hocalı	B-LOC
+Rayonunun	I-LOC
+idarî	O
+merkezidir	O
+.	O
+
+ABD'de	B-LOC
+çeşitli	O
+kuruluşlarda	O
+çalıştı	O
+ve	O
+Koç	B-ORG
+Holding	I-ORG
+yönetim	O
+kurulu	O
+üyesi	O
+kurumsal	O
+iletişim	O
+ve	O
+bilgi	O
+grubu	O
+başkanı	O
+oldu	O
+.	O
+
+2007	B-ORG
+-	O
+Çeyrek	O
+Final	O
+
+Arthur	B-PER
+John	I-PER
+Arberry	I-PER
+(	O
+1947–1969	O
+)	O

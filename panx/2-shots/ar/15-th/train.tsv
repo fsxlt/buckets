@@ -1,0 +1,57 @@
+خلفه	O
+الرئيس	O
+الحالي	O
+خورخي	B-PER
+كارلوس	I-PER
+فونسيكا	I-PER
+.	O
+
+تحويل	O
+بني	B-LOC
+مطر	I-LOC
+(	I-LOC
+مديرية	I-LOC
+)	I-LOC
+
+كما	O
+ان	O
+نظام	O
+التواصل	O
+الثانوي	O
+'	O
+''	O
+G	O
+S	O
+''	O
+'	O
+يستخدم	O
+ترددات	O
+X-band	O
+و	O
+Ka-band	O
+ويتتبع	O
+تأثير	B-ORG
+دوبلر	I-ORG
+.	O
+
+تحويل	O
+محمد	B-PER
+بن	I-PER
+الأمين	I-PER
+بوخبزة	I-PER
+
+49	O
+قتيل	O
+و70	O
+جريح	O
+في	O
+تفجير	B-ORG
+إب	I-ORG
+
+تحويل	O
+بورجو	B-LOC
+سان	I-LOC
+سيرو	I-LOC
+(	I-LOC
+بافيا	I-LOC
+)	I-LOC

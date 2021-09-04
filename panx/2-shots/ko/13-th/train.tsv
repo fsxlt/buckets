@@ -1,0 +1,63 @@
+발해	B-LOC
+(	O
+渤海	O
+)	O
+무왕	B-PER
+(	O
+武王	O
+)	O
+9년	O
+
+안조	B-ORG
+시	I-ORG
+,	O
+다카하마	B-LOC
+시	I-LOC
+,	O
+니시오	B-LOC
+시	I-LOC
+,	O
+한다	B-LOC
+시	I-LOC
+,	O
+지타	B-LOC
+군	I-LOC
+다케토요	B-LOC
+정	I-LOC
+
+센트루	B-LOC
+지방	I-LOC
+(	O
+Centro	O
+)	O
+
+정규	O
+과정의	O
+학생들은	O
+졸업후	O
+소위로	O
+임관하여	O
+초급	O
+지휘관으로	O
+임용되므로	O
+,	O
+대한민국	B-ORG
+육군사관학교와	I-ORG
+기능상	O
+거의	O
+유사하다	O
+.	O
+
+브루노	B-PER
+발터	I-PER
+(	O
+1929-1933	O
+)	O
+
+**	O
+오르반	B-PER
+빅토르	I-PER
+(	O
+2010	O
+~	O
+)	O

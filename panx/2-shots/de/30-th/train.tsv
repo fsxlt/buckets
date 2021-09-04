@@ -1,0 +1,40 @@
+Die	O
+Spielorte	O
+waren	O
+die	O
+Wiener	B-ORG
+Stadthalle	I-ORG
+in	O
+Wien	B-LOC
+und	O
+die	O
+Olympiahalle	B-ORG
+Innsbruck	I-ORG
+.	O
+
+Fjodor	B-PER
+Loginowitsch	I-PER
+Heiden	I-PER
+
+2007	O
+Tschuschen	B-ORG
+:	I-ORG
+power	I-ORG
+
+1765–1769	O
+Figuren	O
+am	O
+Neues	B-LOC
+Palais	I-LOC
+
+Hartlepool	B-LOC
+,	O
+England	B-LOC
+,	O
+Vereinigtes	B-LOC
+Königreich	I-LOC
+
+Hermagoras	B-PER
+(	I-PER
+Heiliger	I-PER
+)	I-PER

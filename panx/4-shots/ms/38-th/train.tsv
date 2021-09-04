@@ -1,0 +1,93 @@
+'	O
+''	O
+Mladá	B-LOC
+Boleslav	I-LOC
+''	O
+'	O
+-	O
+
+'	O
+''	O
+Malaysia	B-LOC
+''	O
+'	O
+
+Vanida	B-PER
+Imran	I-PER
+(	O
+''Akhirat	O
+''	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vendée	I-LOC
+
+(	O
+Mungkin	O
+atau	O
+tidak	O
+diubah	O
+selepas	O
+kejatuhan	O
+Saddam	B-PER
+Hussein	I-PER
+.	O
+)	O
+
+'	O
+''	O
+Sheren	B-PER
+Tang	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Rosyam	B-PER
+Nor	I-PER
+''	O
+'	O
+
+kontrak	O
+perakamannya	O
+dengan	O
+KRU	B-ORG
+.	O
+
+LENCONG	O
+Austin	B-ORG
+&	I-ORG
+Ally	I-ORG
+
+Running	B-ORG
+Man	I-ORG
+(	O
+epsiod	O
+7,11,17,35,36,72,73,104,127,186,242	O
+)	O
+
+That	B-ORG
+'70s	I-ORG
+Album	I-ORG
+(	I-ORG
+Jammin	I-ORG
+'	I-ORG
+)	I-ORG
+
+Astro	B-ORG
+All	I-ORG
+Asia	I-ORG
+Networks	I-ORG

@@ -1,0 +1,19 @@
+REDIRECCIÓN	O
+Plataforma	B-ORG
+S	I-ORG
+(	I-ORG
+Chrysler	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Canóvanas	B-LOC
+(	I-LOC
+Puerto	I-LOC
+Rico	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Abu	B-PER
+Musab	I-PER
+al	I-PER
+Zarqaui	I-PER

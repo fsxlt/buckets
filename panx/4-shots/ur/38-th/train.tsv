@@ -1,0 +1,70 @@
+رجوع_مکرر	O
+لیک	B-LOC
+فارسٹ،	I-LOC
+پلیسر	I-LOC
+کاؤنٹی،	I-LOC
+کیلیفورنیا	I-LOC
+
+رجوع_مکرر	O
+ابو	B-PER
+الاعلی	I-PER
+مودودی	I-PER
+
+نورمن	B-PER
+فوسٹر	I-PER
+رامسے	I-PER
+جے	I-PER
+آر	I-PER
+
+پاک	B-ORG
+فوج	I-ORG
+کی	O
+جانب	O
+سے	O
+اعزازی	O
+شیلڈ	O
+
+رجوع_مکرر	O
+عبد	B-PER
+اللہ	I-PER
+بن	I-PER
+عبد	B-PER
+المطلب	I-PER
+
+بین	B-ORG
+الاقوامی	I-ORG
+شہری	I-ORG
+ہوا	I-ORG
+بازی	I-ORG
+تنظیم	I-ORG
+
+'	O
+''	O
+شرجیل	B-PER
+خان	I-PER
+''	O
+'	O
+
+مسئلۂ	B-ORG
+فیثا	I-ORG
+غورث	I-ORG
+
+رجوع_مکرر	O
+ایئر	B-ORG
+عربیہ	I-ORG
+ماروک	I-ORG
+
+رجوع_مکرر	O
+لانیشی،	B-LOC
+گورینجا	I-LOC
+واس–پولجانی	I-LOC
+
+رجوع_مکرر	O
+پلایماؤت	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+رجوع_مکرر	O
+ہڈسن،	B-LOC
+جنوبی	I-LOC
+ڈکوٹا	I-LOC

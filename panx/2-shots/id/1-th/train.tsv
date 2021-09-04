@@ -1,0 +1,44 @@
+``	O
+Give	B-ORG
+Your	I-ORG
+Heart	I-ORG
+a	I-ORG
+Break	I-ORG
+''	O
+-	O
+Demi	B-PER
+Lovato	I-PER
+
+rect	O
+254	O
+265	O
+339	O
+312	O
+Hugues	B-PER
+yang	I-PER
+Agung	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Hautes-Alpes	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loiret	I-LOC
+
+Pada	O
+saat	O
+ini	O
+ia	O
+bermain	O
+untuk	O
+tim	O
+FC	B-ORG
+Rus	I-ORG
+Saint	I-ORG
+Petersburg	I-ORG
+.	O

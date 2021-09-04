@@ -1,0 +1,30 @@
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+Star	B-ORG
+Trek	I-ORG
+:	I-ORG
+The	I-ORG
+Original	I-ORG
+Series	I-ORG
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O
+''	O
+'	O
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG

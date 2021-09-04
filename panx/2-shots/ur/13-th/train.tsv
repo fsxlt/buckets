@@ -1,0 +1,31 @@
+خان	B-ORG
+محمد	I-ORG
+چاہ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+دی	B-LOC
+پاس،	I-LOC
+مینی	I-LOC
+ٹوبا	I-LOC
+
+رجوع_مکرر	O
+قاضی	B-ORG
+احمد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+ڈپٹی	B-PER
+نذیر	I-PER
+احمد	I-PER
+
+رجوع_مکرر	O
+یوسمتھے	B-LOC
+ولیج،	I-LOC
+کیلی	I-LOC
+فورنیا	I-LOC
+
+فہرست	B-PER
+کتب	I-PER
+آئزک	I-PER
+ایسیموو	I-PER

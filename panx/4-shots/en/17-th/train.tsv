@@ -1,0 +1,73 @@
+**London	O
+:	O
+Thames	B-ORG
+&	I-ORG
+Hudson	I-ORG
+.	O
+
+''Also	O
+see	O
+:	O
+Hot	B-ORG
+100	I-ORG
+No.	I-ORG
+1	I-ORG
+Hits	I-ORG
+of	I-ORG
+1979	I-ORG
+''	O
+
+Jean-Baptiste	B-PER
+Stouf	I-PER
+(	O
+1785	O
+)	O
+
+India	B-LOC
+(	O
+Uttar	B-LOC
+Pradesh	I-LOC
+)	O
+
+Mount	B-LOC
+Airy	I-LOC
+,	I-LOC
+Louisiana	I-LOC
+
+''	O
+Stagmatoptera	B-LOC
+abdominalis	I-LOC
+''	O
+
+Lancaster	B-ORG
+Independent	I-ORG
+School	I-ORG
+District	I-ORG
+
+*Minister-President	O
+of	O
+Thuringia	B-LOC
+–	O
+Dieter	B-PER
+Althaus	I-PER
+
+Bethesda	B-LOC
+,	I-LOC
+Maryland	I-LOC
+,	O
+U.S	B-ORG
+.	I-ORG
+
+Reg	B-PER
+Baker	I-PER
+(	O
+1899–	O
+?	O
+
+'	O
+''	O
+With	O
+Stan	B-PER
+Kenton	I-PER
+''	O
+'	O

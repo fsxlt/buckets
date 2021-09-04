@@ -1,0 +1,60 @@
+Шахар	B-PER
+Пеер	I-PER
+''	O
+(	O
+2	O
+кръг	O
+)	O
+
+Мъжка	B-LOC
+папрат	I-LOC
+Dryopteris	O
+filix-mas	O
+(	O
+L.	O
+)	O
+Schott	O
+.	O
+
+Blood	B-ORG
+Sugar	I-ORG
+Sex	I-ORG
+Magik	I-ORG
+''	O
+
+*****	O
+''	O
+Марция	B-PER
+Евфемия	I-PER
+''	O
+,	O
+омъжва	O
+се	O
+за	O
+Антемий	B-PER
+''	O
+.	O
+
+В	O
+момента	O
+той	O
+е	O
+играч	O
+на	O
+Стоук	B-ORG
+Сити	I-ORG
+.	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Кирибати	B-LOC
+,	O
+Фиджи	B-LOC
+,	O
+Френска	B-LOC
+Полинезия	I-LOC
+и	O
+Чили	B-LOC
+.	O

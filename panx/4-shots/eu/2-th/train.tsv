@@ -1,0 +1,132 @@
+Glasgow	B-ORG
+Warriors	I-ORG
+(	O
+1	O
+)	O
+
+Atzelari	O
+aritzen	O
+zen	O
+,	O
+Aspe	B-ORG
+enpresarekin	I-ORG
+.	O
+
+BIRZUZENDU	O
+Sevilla	B-ORG
+Fútbol	I-ORG
+Club	I-ORG
+
+BIRZUZENDU	O
+Gartzea	B-PER
+I.a	I-PER
+Santxez	I-PER
+
+Aude	B-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+**	O
+Hagia	B-ORG
+Irene	I-ORG
+(	O
+''Ἁγία	O
+Εἰρήνη	O
+''	O
+,	O
+egun	O
+''Aya	O
+İrini	O
+''	O
+)	O
+
+BIRZUZENDU	O
+William	B-PER
+Hickling	I-PER
+Prescott	I-PER
+
+'	O
+''	O
+Peter	B-PER
+Sellers	I-PER
+''	O
+'	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Casertako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+Hessen	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+Douglas	B-LOC
+konderria	I-LOC
+(	I-LOC
+Hego	I-LOC
+Dakota	I-LOC
+)	I-LOC
+
+UPN	B-ORG
+ez	O
+beste	O
+talde	O
+guztien	O
+baiezko	O
+botoarekin	O
+proposamena	O
+aurrera	O
+aterako	O
+zela	O
+zirudienean	O
+,	O
+PSN	B-ORG
+alderdiaren	O
+ustegabeko	O
+jarrera	O
+aldaketak	O
+,	O
+atzera	O
+bota	O
+zuen	O
+gune	O
+mistoaren	O
+hedapena	O
+.	O
+
+Azken	O
+horrek	O
+eskandalua	O
+sortu	O
+zuen	O
+,	O
+bortizkeriaz	O
+egiten	O
+zuelako	O
+Marcel	B-PER
+Duchampen	I-PER
+handitasunaren	O
+mitoaren	O
+kontra	O
+.	O

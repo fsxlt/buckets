@@ -1,0 +1,51 @@
+오타케	B-PER
+히데오	I-PER
+(	O
+大竹英雄	O
+)	O
+9단	O
+
+새로운	B-ORG
+역사	I-ORG
+교과서를	I-ORG
+만드는	I-ORG
+모임	I-ORG
+(	O
+새역모	O
+)	O
+
+앙겔라	B-PER
+메르켈	I-PER
+-	O
+독일의	B-LOC
+총리	I-LOC
+(	O
+2005-현재	O
+)	O
+
+이러한	O
+지역은	O
+지브롤터	B-LOC
+,	O
+포클랜드	B-LOC
+제도	I-LOC
+,	O
+영국령	B-LOC
+인도양	I-LOC
+지역	I-LOC
+,	O
+세인트헬레나이다	B-LOC
+.	O
+
+한국에서는	B-LOC
+수수나	O
+옥수수를	O
+원료로	O
+하기도	O
+한다	O
+.	O
+
+넘겨주기	O
+대구	B-ORG
+도시철도	I-ORG
+2호선	I-ORG

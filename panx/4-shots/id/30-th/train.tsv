@@ -1,0 +1,83 @@
+ALIH	O
+Komando	B-ORG
+Cadangan	I-ORG
+Strategis	I-ORG
+Angkatan	I-ORG
+Darat	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Jura	I-LOC
+
+Greysia	B-PER
+Polii	I-PER
+Nitya	B-PER
+Krishinda	I-PER
+Maheswari	I-PER
+
+Chelsea	B-ORG
+diharapkan	O
+bisa	O
+membawa	O
+pulang	O
+3	O
+poin	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Saône	I-LOC
+
+Grimsby	B-LOC
+(	O
+Britania	B-LOC
+Raya	I-LOC
+)	O
+
+``	O
+All	B-ORG
+We	I-ORG
+Know	I-ORG
+''	O
+
+Dalam	O
+``	O
+Eien	B-ORG
+Pressure	I-ORG
+''	O
+
+'	O
+''	O
+Mika	B-PER
+Häkkinen	I-PER
+''	O
+'	O
+
+ALIH	O
+About	B-ORG
+You	I-ORG
+Now	I-ORG
+(	I-ORG
+album	I-ORG
+mini	I-ORG
+)	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Charente	I-LOC
+
+ALIH	O
+David	B-PER
+de	I-PER
+Lautour	I-PER
+
+ALIH	O
+John	B-PER
+M.G.	I-PER
+Adams	I-PER

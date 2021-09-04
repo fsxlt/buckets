@@ -1,0 +1,29 @@
+**	O
+Hong	B-LOC
+Kong	I-LOC
+(	O
+Konsulado-Heneral	O
+)	O
+
+Ina	B-ORG
+,	I-ORG
+Kapatid	I-ORG
+,	I-ORG
+Anak	I-ORG
+''	O
+
+Papa	B-PER
+Pablo	I-PER
+VI	I-PER
+
+Justa	B-PER
+Grata	I-PER
+Honoria	I-PER
+
+Radio	B-ORG
+Philippines	I-ORG
+Network	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Miyazaki	I-LOC

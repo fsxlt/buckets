@@ -1,0 +1,47 @@
+In	O
+1969	O
+he	O
+was	O
+posthumously	O
+inducted	O
+into	O
+the	O
+International	B-ORG
+Swimming	I-ORG
+Hall	I-ORG
+of	I-ORG
+Fame	I-ORG
+.	O
+
+William	B-PER
+the	I-PER
+Conqueror	I-PER
+
+'	O
+''	O
+KSAFA	B-ORG
+Super	I-ORG
+League	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Jack	B-PER
+Laugher	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Pasir	B-LOC
+Mas	I-LOC
+''	O
+'	O
+
+861	O
+Brownsville	B-LOC
+,	I-LOC
+Florida	I-LOC
+$	O
+9,722	O

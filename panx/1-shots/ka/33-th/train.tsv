@@ -1,0 +1,24 @@
+ვერიკო	B-PER
+ანჯაფარიძე	I-PER
+(	O
+''კნეინა	O
+''	O
+)	O
+
+And	B-ORG
+I	I-ORG
+'ll	I-ORG
+Scratch	I-ORG
+Yours	I-ORG
+''	O
+
+სტრახოვის	O
+მიერ	O
+გამოქვეყნდა	O
+პირველი	O
+მსხვილი	O
+მონოგრაფია	O
+შავის	B-LOC
+ზღვის	I-LOC
+შესახებ	O
+.	O

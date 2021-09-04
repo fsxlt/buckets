@@ -1,0 +1,33 @@
+تغییرمسیر	O
+نی	B-PER
+(	I-PER
+بازیکن	I-PER
+فوتبال	I-PER
+)	I-PER
+
+کنگره	B-ORG
+ملی	I-ORG
+آفریقا	I-ORG
+
+تغییرمسیر	O
+موزه	B-ORG
+ملی	I-ORG
+تاریخ	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+دره	B-LOC
+جفتی	I-LOC
+دشت	I-LOC
+
+تغییرمسیر	O
+وکیل‌آباد	B-LOC
+(	I-LOC
+پاسارگاد	I-LOC
+)	I-LOC
+
+جان	B-PER
+لوند	I-PER
+در	O
+نقش	O
+«اَل»	O

@@ -1,0 +1,126 @@
+II.	B-PER
+Fülöp	I-PER
+Ágost	I-PER
+francia	I-PER
+király	I-PER
+serege	O
+legyőzi	O
+János	B-PER
+angol	I-PER
+király	I-PER
+seregét	O
+,	O
+aki	O
+ezután	O
+kénytelen	O
+lemondani	O
+a	O
+Loire-tól	B-LOC
+délre	O
+fekvő	O
+birtokairól	O
+.	O
+
+A	O
+Dukla	B-ORG
+Banská	I-ORG
+Bystrica	I-ORG
+kiesett	O
+az	O
+élvonalból	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Amy	B-LOC
+(	I-LOC
+Oise	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Roman	B-PER
+Polański	I-PER
+–	O
+''Egy	O
+tiszta	O
+nő	O
+(	O
+Tess	O
+)	O
+''	O
+
+Beşiktaş	B-ORG
+JK	I-ORG
+(	O
+37,010	O
+)	O
+
+Ez	O
+az	O
+együttes	O
+első	O
+lemeze	O
+,	O
+amely	O
+felkerült	O
+a	O
+Billboard	B-LOC
+200	I-LOC
+''	O
+listára	O
+,	O
+a	O
+119.	O
+helyet	O
+érte	O
+el	O
+.	O
+
+Denny	B-PER
+Hulme	I-PER
+4.	O
+győzelme	O
+,	O
+Jochen	B-PER
+Rindt	I-PER
+2.	O
+pole-pozíciója	O
+,	O
+Jo	B-PER
+Siffert	I-PER
+2.	O
+leggyorsabb	O
+köre	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Beaumont	B-LOC
+(	I-LOC
+Haute-Loire	I-LOC
+)	I-LOC
+
+Denver	B-ORG
+Nuggets	I-ORG
+(	O
+4	O
+)	O
+
+Déli-Georgia	B-LOC
+és	I-LOC
+Déli-Sandwich-szigetek	I-LOC
+,	O
+
+IFK	B-ORG
+Göteborg	I-ORG
+(	O
+5	O
+)	O
+
+'	O
+''	O
+Reginald	B-PER
+Doherty	I-PER
+Lawrence	B-PER
+Doherty	I-PER
+''	O
+'	O

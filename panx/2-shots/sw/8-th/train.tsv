@@ -1,0 +1,33 @@
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+33314	O
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Göttingen	I-ORG
+
+``	O
+Tricky	B-ORG
+,	I-ORG
+Tricky	B-ORG
+''	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Dabou	I-LOC
+
+Alimfuata	O
+baba	O
+yake	O
+,	O
+Marcus	B-PER
+Aurelius	I-PER
+.	O
+
+Enzo	B-PER
+G.	I-PER
+Castellari	I-PER

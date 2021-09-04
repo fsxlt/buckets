@@ -1,0 +1,109 @@
+Grönland	B-LOC
+(	O
+Danimarka	B-LOC
+)	O
+''	O
+
+YÖNLENDİRME	O
+Hendek	B-LOC
+,	I-LOC
+Sakarya	I-LOC
+
+New	B-PER
+Orleans	I-PER
+Pelicans	I-PER
+takımında	O
+oynamaktadır	O
+.	O
+
+15'te	O
+kurduğu	O
+Raetia	B-LOC
+Eyaletinin	I-LOC
+güneyinde	O
+yer	O
+alır	O
+.	O
+
+YÖNLENDİRME	O
+Maxwell	B-PER
+(	I-PER
+futbolcu	I-PER
+)	I-PER
+
+YÖNLENDİRME	O
+II.	B-PER
+Maximilian	I-PER
+(	I-PER
+Kutsal	I-PER
+Roma	I-PER
+İmparatoru	I-PER
+)	I-PER
+
+*Kaan	O
+:	O
+``	O
+Hepsi	B-ORG
+Senin	I-ORG
+mi	I-ORG
+?	I-ORG
+''	O
+''	O
+(	O
+Tarkan	B-PER
+)	O
+-	O
+'	O
+''	O
+Son	O
+2	O
+''	O
+'	O
+
+'	O
+''	O
+Matt	B-PER
+Smith	I-PER
+''	O
+'	O
+
+Sayıları	O
+azalmasına	O
+rağmen	O
+bugün	O
+başta	O
+Amerika	B-LOC
+Birleşik	I-LOC
+Devletleri'nde	I-LOC
+olmak	O
+üzere	O
+Belgesel	O
+hipotezin	O
+doğruluğuna	O
+inananlar	O
+hâlen	O
+mevcuttur	O
+.	O
+
+The	B-ORG
+Mamas	I-ORG
+&	I-ORG
+the	I-ORG
+Papas	I-ORG
+
+YÖNLENDİRME	O
+Türkiye'deki	B-ORG
+barajlar	I-ORG
+listesi	I-ORG
+
+Kızıl	B-LOC
+sırtlı	I-LOC
+örümcek	I-LOC
+kuşu	I-LOC
+
+Ali	B-ORG
+Sami	I-ORG
+Yen	I-ORG
+Stadyumu	I-ORG
+,	O
+İstanbul	B-LOC

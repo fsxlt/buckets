@@ -1,0 +1,125 @@
+정준하	B-PER
+,	O
+김원준	B-PER
+,	O
+테이	B-PER
+2부	O
+
+함부르크	B-ORG
+대학교의	I-ORG
+에밀	B-PER
+아르틴에게서	I-PER
+수학했다	O
+.	O
+
+예구노브체	B-LOC
+시	I-LOC
+(	O
+Јегуновце	O
+,	O
+Jegunovce	O
+)	O
+
+벨	B-ORG
+연구소에	I-ORG
+재직	O
+중	O
+노턴의	B-ORG
+정리를	I-ORG
+발표했다	O
+.	O
+
+넘겨주기	O
+피터	B-PER
+L.	I-PER
+버거	I-PER
+
+ERG	B-ORG
+이론에서는	I-ORG
+위의	O
+세가지	O
+욕구가	O
+다음과	O
+같은	O
+원리로	O
+작용한다	O
+.	O
+
+파라과이	B-LOC
+강이	I-LOC
+지나며	O
+,	O
+남쪽으로는	O
+아르헨티나와	B-LOC
+,	O
+동북쪽으로는	O
+브라질과	B-LOC
+,	O
+북서쪽으로는	O
+볼리비아와	B-LOC
+맞닿아있다	O
+.	O
+
+넘겨주기	O
+유니버설	B-ORG
+올랜도	I-ORG
+리조트	I-ORG
+
+극	O
+중	O
+곡	O
+-	O
+프레데리크	B-PER
+쇼팽	I-PER
+〈빗방울	O
+Prelude	O
+Opus	O
+28	O
+Nr.15〉	O
+,	O
+모리스	B-PER
+라벨	I-PER
+〈죽은	O
+왕녀를	O
+위한	O
+파반느〉	O
+
+장강의	B-LOC
+지류로	O
+,	O
+둥팅	B-LOC
+호로	I-LOC
+흘러	O
+들어가는	O
+위안	B-LOC
+강이	I-LOC
+흐른다	O
+.	O
+
+이	O
+책의	O
+제1부는	O
+카를스바트에서	B-LOC
+로마까지의	B-LOC
+여행	O
+,	O
+제2부는	O
+나폴리와	B-LOC
+시칠리아	B-LOC
+섬을	I-LOC
+다녀온	O
+기록이다	O
+.	O
+
+나카무라	B-PER
+쇼자부로	I-PER
+(	O
+中村正三郎	O
+)	O
+
+이후에는	O
+현대자동차에	B-ORG
+입사하면서	O
+기업인으로	O
+활동했다	O
+.	O

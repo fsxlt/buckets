@@ -1,0 +1,54 @@
+Zur	O
+Saison	B-LOC
+2013	I-LOC
+/	I-LOC
+14	I-LOC
+ging	O
+er	O
+zum	O
+Drittligisten	B-ORG
+Hallescher	B-ORG
+FC	I-ORG
+,	O
+bei	O
+dem	O
+er	O
+einen	O
+Zweijahresvertrag	O
+erhielt	O
+.	O
+
+'	O
+''	O
+Michel	B-PER
+Polnareff	I-PER
+''	O
+'	O
+-	O
+''Gloria	O
+''	O
+
+Pseudomys	B-LOC
+gouldii	I-LOC
+''	O
+ist	O
+ebenfalls	O
+ausgestorben	O
+.	O
+
+The	B-ORG
+Twins	I-ORG
+(	I-ORG
+Band	I-ORG
+)	I-ORG
+
+Tycho	B-PER
+Brahe	I-PER
+widmete	O
+ihm	O
+seine	O
+Schrift	O
+„Astronomiae	O
+instauratae	O
+mechanica“	O
+.	O

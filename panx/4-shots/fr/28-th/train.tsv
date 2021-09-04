@@ -1,0 +1,92 @@
+–	O
+''	O
+''	O
+The	B-ORG
+Way	I-ORG
+I	I-ORG
+Are	I-ORG
+''	O
+''	O
+
+Xian	B-LOC
+de	I-LOC
+Wushan	I-LOC
+(	I-LOC
+Chongqing	I-LOC
+)	I-LOC
+
+Église	B-ORG
+San	I-ORG
+Marcello	I-ORG
+al	I-ORG
+Corso	I-ORG
+
+***	O
+Frosinone	B-ORG
+1-5	O
+''Napoli	O
+''	O
+
+*D	O
+Andrew	B-PER
+Ference	I-PER
+,	O
+Penguins	B-ORG
+de	I-ORG
+Pittsburgh	I-ORG
+
+Il	O
+donna	O
+la	O
+chapelle	O
+à	O
+l’Evêché	O
+Angers	B-LOC
+.	O
+
+'	O
+''	O
+Comté	B-LOC
+de	I-LOC
+Kerry	I-LOC
+''	O
+'	O
+
+Xian	B-LOC
+de	I-LOC
+Fengtai	I-LOC
+
+Alatyr	B-LOC
+(	I-LOC
+ville	I-LOC
+)	I-LOC
+
+Looney	B-PER
+Tunes	I-PER
+(	I-PER
+personnages	I-PER
+)	I-PER
+
+Mauro	B-PER
+Poggia	I-PER
+(	O
+MCG	B-ORG
+)	O
+,	O
+41	O
+170	O
+,	O
+sont	O
+élus	O
+.	O
+
+'	O
+''	O
+Jean	B-PER
+Moulin	I-PER
+''	O
+'	O
+''	O
+,	O
+Mickey	B-ORG
+3D	I-ORG

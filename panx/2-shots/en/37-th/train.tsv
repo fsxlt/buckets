@@ -1,0 +1,66 @@
+It	O
+is	O
+located	O
+in	O
+Rancho	B-LOC
+Cucamonga	I-LOC
+.	O
+
+In	O
+the	O
+Netherlands	B-LOC
+,	O
+Part	B-ORG
+1	I-ORG
+was	O
+released	O
+on	O
+June	O
+23	O
+,	O
+2006	O
+and	O
+Part	B-ORG
+2	I-ORG
+was	O
+released	O
+on	O
+November	O
+17	O
+of	O
+the	O
+same	O
+year	O
+.	O
+
+Claude	B-PER
+R.	I-PER
+Kirk	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Łąkociny	B-LOC
+,	I-LOC
+Lower	I-LOC
+Silesian	I-LOC
+Voivodeship	I-LOC
+
+Rugby	B-ORG
+,	I-ORG
+Tennessee	I-ORG
+
+The	O
+third	O
+building	O
+was	O
+designed	O
+by	O
+Edward	B-PER
+Middleton	I-PER
+Barry	I-PER
+and	O
+opened	O
+in	O
+1858	O
+.	O

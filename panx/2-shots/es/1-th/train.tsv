@@ -1,0 +1,40 @@
+Que	O
+Será	O
+-	O
+Diego	B-PER
+Torres	I-PER
+.	O
+
+'	O
+''	O
+SK	B-ORG
+Sturm	I-ORG
+Graz	I-ORG
+''	O
+'	O
+
+Beauty	B-ORG
+&	I-ORG
+the	I-ORG
+Beast	I-ORG
+''	O
+
+Organización	B-LOC
+territorial	I-LOC
+del	I-LOC
+Perú	I-LOC
+
+Carlos	B-PER
+Huertas	I-PER
+'	O
+''	O
+(	O
+N	O
+)	O
+'	O
+''	O
+
+Región	B-LOC
+Centro-Oeste	I-LOC
+de	I-LOC
+Brasil	I-LOC

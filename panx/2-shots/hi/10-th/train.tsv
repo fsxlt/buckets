@@ -1,0 +1,31 @@
+सोनाली	B-PER
+बेंद्रे	I-PER
+-	O
+सीमा	O
+
+'	O
+''	O
+अरुणाचल	B-LOC
+प्रदेश	I-LOC
+''	O
+'	O
+
+मनोज	B-PER
+बाजपेयी	I-PER
+,	O
+जूही	B-PER
+चावला	I-PER
+
+सूचना	B-ORG
+और	I-ORG
+प्रसारण	I-ORG
+मंत्रालय	I-ORG
+
+पेट्रोनास	B-ORG
+जुड़वा	I-ORG
+मीनार	I-ORG
+
+दार्जिलिंग	B-LOC
+गोर्खा	I-LOC
+पार्वत्य	I-LOC
+परिषद	I-LOC

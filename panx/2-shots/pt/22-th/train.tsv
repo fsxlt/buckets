@@ -1,0 +1,55 @@
+Saint-Maurice	B-LOC
+(	I-LOC
+Suíça	I-LOC
+)	I-LOC
+
+''	O
+Bulbophyllum	B-LOC
+lygeron	I-LOC
+''	O
+J.J.Verm	O
+.	O
+
+Strikeforce	B-ORG
+:	I-ORG
+Rockhold	I-ORG
+vs.	I-ORG
+Kennedy	I-ORG
+
+Traduziu	O
+Albert	B-PER
+Camus	I-PER
+,	O
+André	B-PER
+Maurois	I-PER
+,	O
+Jean	B-PER
+Cocteau	I-PER
+e	O
+Georges	B-PER
+Duhamel	I-PER
+.	O
+
+REDIRECIONAMENTO	O
+Speed	B-ORG
+of	I-ORG
+Light	I-ORG
+(	I-ORG
+álbum	I-ORG
+)	I-ORG
+
+Maria	B-PER
+Teresa	I-PER
+da	I-PER
+Áustria	I-PER
+(	O
+1762-1770	O
+)	O
+
+Believe	B-ORG
+(	I-ORG
+canção	I-ORG
+de	I-ORG
+Dima	I-ORG
+Bilan	I-ORG
+)	I-ORG

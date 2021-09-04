@@ -1,0 +1,38 @@
+Eliminato	O
+al	O
+3T	O
+da	O
+Richard	B-PER
+Gasquet	I-PER
+(	O
+21	O
+)	O
+
+Partito	B-ORG
+Socialista	I-ORG
+Democratico	I-ORG
+Italiano	I-ORG
+(	O
+PSDI	O
+)	O
+
+'	O
+''	O
+Isabel	B-PER
+Cueto	I-PER
+(	O
+campionessa	O
+)	O
+
+Piramide	B-ORG
+di	I-ORG
+Ameny	I-ORG
+Qemau	I-ORG
+-	O
+XIII	B-LOC
+dinastia	I-LOC
+
+A	B-LOC
+Illa	I-LOC
+de	I-LOC
+Arousa	I-LOC

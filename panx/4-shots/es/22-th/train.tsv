@@ -1,0 +1,90 @@
+30px	O
+'	O
+''	O
+Estados	B-LOC
+Unidos	I-LOC
+'	O
+''	O
+Wilhelm	B-PER
+Steinitz	I-PER
+''	O
+
+Casados	B-ORG
+con	I-ORG
+hijos	I-ORG
+(	I-ORG
+Argentina	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Guerra	B-ORG
+civil	I-ORG
+chilena	I-ORG
+de	I-ORG
+1829-1830	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Dalian	B-LOC
+''	O
+'	O
+;	O
+
+La	O
+película	O
+está	O
+protagonizada	O
+Kirsten	B-PER
+Dunst	I-PER
+.	O
+
+La	O
+Armada	B-ORG
+de	I-ORG
+los	I-ORG
+Estados	I-ORG
+Unidos	I-ORG
+abogó	O
+por	O
+un	O
+acercamiento	O
+más	O
+gradual	O
+desde	O
+Nueva	B-LOC
+Guinea	I-LOC
+hasta	O
+las	O
+Islas	B-LOC
+Salomón	I-LOC
+.	O
+
+Condado	B-LOC
+de	I-LOC
+Madison	I-LOC
+(	O
+este	O
+)	O
+
+REDIRECCIÓN	O
+Veiga	B-LOC
+del	I-LOC
+Seijo	I-LOC
+
+Carlos	B-PER
+Andrés	I-PER
+Pérez	I-PER
+,	O
+postulado	O
+por	O
+Acción	B-ORG
+Democrática	I-ORG
+.	O
+
+REDIRECCIÓN	O
+Carlos	B-PER
+López	I-PER
+Buchardo	I-PER

@@ -1,0 +1,206 @@
+ఈ	DET
+రెండు	NUM
+అక్షరాలు	NOUN
+దిద్దుకోవే	VERB
+!	PUNCT
+
+ఆమెకి	PRON
+అప్పటికి	ADV
+పదమూడు	NUM
+సంవత్సరాలు	NOUN
+దాటేయో	VERB
+లేదో	VERB
+,	PUNCT
+గాని	CCONJ
+అప్పటికే	NOUN
+బాగా	ADV
+ఏపారిగా	ADV
+ఉండేది	VERB
+.	PUNCT
+
+అడుగో	INTJ
+మీ	PRON
+తమ్ముడు	NOUN
+!	PUNCT
+
+ఒంటికి	NOUN
+మంచిది	NOUN
+కాదు	VERB
+అని	SCONJ
+నేను	PRON
+సిగరెట్లు	NOUN
+తాగటం	VERB
+మానేసేను	VERB
+.	PUNCT
+
+ఆయన	PRON
+ఇప్పుడు	ADV
+కులాసాగా	ADV
+లేడు	VERB
+.	PUNCT
+
+ఆయన	PRON
+ఈ	DET
+ఊరికి	NOUN
+కొత్త	NOUN
+కాదు	VERB
+.	PUNCT
+
+అది	PRON
+ఎలా	ADV
+చేయాలా	VERB
+అని	SCONJ
+దిగులు	NOUN
+పడుతున్నాను	VERB
+.	PUNCT
+
+ఆమెకు	PRON
+మొగ	ADJ
+పిల్లవాడా	NOUN
+,	PUNCT
+ఆడపిల్లా	NOUN
+?	PUNCT
+
+అతను	PRON
+ఉపన్యాసం	NOUN
+చెబుతున్న	VERB
+మూడు	NUM
+గంటలూ	NOUN
+వాన	NOUN
+కురిసింది	VERB
+.	PUNCT
+
+నేను	PRON
+నిన్ను	PRON
+రేపు	NOUN
+వస్తావా	VERB
+అని	SCONJ
+అడిగేను	VERB
+.	PUNCT
+
+పాపం	INTJ
+!	PUNCT
+వాళ్ళ	PRON
+అబ్బాయి	NOUN
+కారు	NOUN
+కింద	ADP
+పడ్డాడట	VERB
+.	PUNCT
+
+భేష్	INTJ
+!	PUNCT
+భేష్	INTJ
+!	PUNCT
+
+అవును	VERB
+అండి	PART
+!	PUNCT
+
+రామయ్య	PROPN
+మంచివాడే	NOUN
+కాని	CCONJ
+కొంచెం	DET
+కోపిష్ఠి	NOUN
+.	PUNCT
+
+ఆమెను	PRON
+తిరిగి	VERB
+క్షేమంగా	NOUN
+తల్లిదండ్రులకు	NOUN
+అప్పగించే	VERB
+పూచీ	NOUN
+నాదే	PRON
+గా	PART
+?	PUNCT
+
+నా	PRON
+పక్కన	ADP
+కూర్చోండి	VERB
+.	PUNCT
+
+అది	PRON
+మంచి	ADJ
+పుస్తకం	NOUN
+.	PUNCT
+
+మీరు	PRON
+నాకు	PRON
+రెండు	NUM
+రూపాయిలు	NOUN
+బాకీ	NOUN
+.	PUNCT
+
+నీకు	PRON
+పాట	NOUN
+వచ్చు	VERB
+అన్న	SCONJ
+సంగతి	NOUN
+అందరికీ	PRON
+చెప్పేసేను	VERB
+.	PUNCT
+
+వాళ్ళు	PRON
+నన్ను	PRON
+గురించి	ADP
+మాట్లాడుకొంటున్నారు	VERB
+.	PUNCT
+
+ఓరి	INTJ
+పిచ్చి	ADJ
+వాడా	PRON
+!	PUNCT
+
+నువ్వు	PRON
+ఈ	DET
+పని	NOUN
+చేయ	VERB
+లేను	VERB
+లే	PART
+!	PUNCT
+
+నేనూ	PRON
+వస్తున్నాను	VERB
+,	PUNCT
+పద	VERB
+.	PUNCT
+
+అతను	PRON
+మీ	PRON
+తమ్ముడు	NOUN
+గదూ	PART
+?	PUNCT
+
+కమల	PROPN
+తెలివైనదే	NOUN
+కాకుండా	CCONJ
+అందమైనది	NOUN
+కూడా	ADV
+.	PUNCT
+
+కమలా	PROPN
+విమలా	NOUN
+పొడుగు	NOUN
+.	PUNCT
+
+వాడు	NOUN
+మంచి	ADJ
+అబ్బాయి	NOUN
+.	PUNCT
+
+కమల	PROPN
+అందగత్తే	NOUN
+కాని	CCONJ
+,	PUNCT
+పొగరుమోతు	NOUN
+.	PUNCT
+
+ఎవరెవరు	PRON
+ఏ	DET
+ఏ	DET
+వేళల	NOUN
+వెళ్తారో	VERB
+ఎస్	PROPN
+కి	ADP
+బాగా	DET
+గుర్తు	NOUN
+.	PUNCT

@@ -1,0 +1,114 @@
+Hervé	B-PER
+Duclos-Lassalle	I-PER
+(	O
+A	O
+5	O
+)	O
+
+Bénévent	B-LOC
+,	O
+Fragneto	B-LOC
+l'Abate	I-LOC
+,	O
+Fragneto	B-LOC
+Monforte	I-LOC
+,	O
+Pago	B-LOC
+Veiano	I-LOC
+,	O
+Pietrelcina	B-LOC
+,	O
+Reino	B-LOC
+,	O
+San	B-LOC
+Marco	I-LOC
+dei	I-LOC
+Cavoti	I-LOC
+
+En	O
+outre	O
+,	O
+la	O
+mission	O
+Jupiter	B-ORG
+Icy	I-ORG
+Moons	I-ORG
+Orbiter	I-ORG
+''	O
+est	O
+annulée	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+Honest	B-ORG
+Jon	I-ORG
+'s	I-ORG
+
+'	O
+''	O
+Tetsuya	B-PER
+Harada	I-PER
+''	O
+'	O
+
+**	O
+Dimítris	B-PER
+Diamantídis	I-PER
+(	O
+1999-présent	O
+)	O
+
+'	O
+''	O
+Caroline	B-PER
+Attia	I-PER
+''	O
+'	O
+
+==	O
+Arrondissement	B-LOC
+de	I-LOC
+Philippeville	I-LOC
+==	O
+
+Lanark	B-LOC
+(	O
+South	B-ORG
+Lanarkshire	I-ORG
+)	O
+
+Il	O
+habite	O
+à	O
+Montréal	B-LOC
+au	O
+Canada	B-LOC
+.	O
+
+Il	O
+occupe	O
+également	O
+une	O
+place	O
+institutionnelle	O
+à	O
+San	B-LOC
+Martín	I-LOC
+del	I-LOC
+Rey	I-LOC
+Aurelio	I-LOC
+,	O
+Langreo	B-LOC
+et	O
+Gozón	B-LOC
+.	O
+
+Cathédrale	B-ORG
+Saint-Tugdual	I-ORG
+de	I-ORG
+Tréguier	I-ORG

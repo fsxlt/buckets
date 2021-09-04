@@ -1,0 +1,23 @@
+2006-2009	O
+مسلسل	B-ORG
+ويبقى	I-ORG
+الحب	I-ORG
+'	O
+''	O
+Binbir	O
+Gece	O
+''	O
+'	O
+.	O
+
+تحويل	O
+دونالدس	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+تحويل	O
+قتل	B-PER
+رحيم	I-PER
+للأطفال	I-PER

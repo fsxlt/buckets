@@ -1,0 +1,114 @@
+'	O
+''	O
+The	B-ORG
+...	I-ORG
+''	O
+'	O
+''	O
+
+ÁTIRÁNYÍTÁS	O
+FC	B-ORG
+Spartak	I-ORG
+Trnava	I-ORG
+
+'	O
+''	O
+Iva	B-PER
+Majoli	I-PER
+''	O
+'	O
+-	O
+Martina	B-PER
+Hingis	I-PER
+6-4	O
+,	O
+6-2	O
+
+ÁTIRÁNYÍTÁS	O
+Mira	B-LOC
+típusú	I-LOC
+változócsillag	I-LOC
+
+Közigazgatásilag	O
+Mali	B-LOC
+Bukovechez	I-LOC
+tartozik	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Angyal	B-PER
+(	I-PER
+Marvel	I-PER
+Comics	I-PER
+)	I-PER
+
+'	O
+''	O
+James	B-PER
+Blake	I-PER
+''	O
+'	O
+/	O
+'	O
+''	O
+Todd	B-PER
+Martin	I-PER
+''	O
+'	O
+
+Szusza	B-LOC
+Ferenc	I-LOC
+Stadion	I-LOC
+,	O
+Budapest	B-LOC
+
+Részt	O
+vesz	O
+az	O
+Európai	B-ORG
+Unió	I-ORG
+ágazati	O
+érdekegyeztetésében	O
+.	O
+
+Az	O
+amerikai	B-LOC
+kapus	O
+,	O
+Brad	B-PER
+Friedel	I-PER
+érkezésével	O
+helye	O
+egyre	O
+bizonytalanabbá	O
+vált	O
+a	O
+klubnál	O
+.	O
+
+A	O
+Billboard	B-LOC
+200-as	I-LOC
+albumlistáján	O
+a	O
+2.	O
+helyig	O
+jutott	O
+,	O
+és	O
+csak	O
+a	O
+Pearl	B-ORG
+Jam	I-ORG
+Vs	B-ORG
+.	I-ORG
+''	O
+című	O
+albuma	O
+akadályozta	O
+meg	O
+,	O
+hogy	O
+listavezető	O
+legyen	O
+.	O

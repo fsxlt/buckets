@@ -1,0 +1,123 @@
+A	O
+közel	O
+40	O
+ezer	O
+férőhelyes	O
+épületet	O
+az	O
+1990-es	B-ORG
+labdarúgó-világbajnokságra	I-ORG
+felújították	O
+.	O
+
+Előbbit	O
+Dennis	B-PER
+Bergkamp	I-PER
+,	O
+utóbbit	O
+a	O
+játékvezető	O
+,	O
+Graham	B-PER
+Poll	I-PER
+fogta	O
+le	O
+,	O
+hogy	O
+ne	O
+kerüljön	O
+sor	O
+tettlegességre	O
+.	O
+
+Flavia	B-PER
+Pennetta	I-PER
+''	O
+(	O
+harmadik	O
+kör	O
+)	O
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Inca	B-LOC
+(	I-LOC
+község	I-LOC
+)	I-LOC
+
+Xena	B-ORG
+:	I-ORG
+A	I-ORG
+harcos	I-ORG
+hercegnő	I-ORG
+''	O
+
+2005-06-os	B-LOC
+szezonban	I-LOC
+visszaesett	O
+formája	O
+és	O
+már	O
+nem	O
+számított	O
+alapembernek	O
+a	O
+klubnál	O
+.	O
+
+Hetes	O
+Kaposvártól	B-LOC
+északnyugatra	O
+,	O
+12	O
+kilométerre	O
+fekszik	O
+.	O
+
+Makkabi	B-ORG
+Haifa	I-ORG
+(	O
+17,050	O
+)	O
+
+'	O
+''	O
+Dimitar	B-PER
+Makriev	I-PER
+''	O
+'	O
+
+'	O
+''	O
+(	O
+x	O
+)	O
+'	O
+''	O
+Golden	B-ORG
+State	I-ORG
+Warriors	I-ORG
+
+Beira-Rio]]	O
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brazília	B-LOC
+
+Albrecht	B-PER
+Dürer	I-PER
+(	O
+1471–1528	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Servas	B-LOC
+(	I-LOC
+Gard	I-LOC
+)	I-LOC
+
+Ság	B-LOC
+(	O
+Sasinkovo	O
+)	O

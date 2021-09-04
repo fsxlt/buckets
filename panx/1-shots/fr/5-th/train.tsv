@@ -1,0 +1,27 @@
+REDIRECTION	O
+Moyale	B-ORG
+Barracks	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+Il	O
+récidive	O
+un	O
+mois	O
+plus	O
+tard	O
+à	O
+Scottsdale	B-LOC
+,	O
+en	O
+Arizona	B-LOC
+,	O
+face	O
+à	O
+Glenn	B-PER
+Layendecker	I-PER
+.	O
+
+Arrondissement	B-LOC
+de	I-LOC
+Werra-Meissner	I-LOC

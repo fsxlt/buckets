@@ -1,0 +1,38 @@
+Griyegong	B-ORG
+Ortodoksong	I-ORG
+Simbahan	I-ORG
+ng	I-ORG
+Herusalem	I-ORG
+
+San	B-LOC
+Diego	I-LOC
+Country	I-LOC
+,	I-LOC
+California	I-LOC
+
+Nicholas	B-PER
+II	I-PER
+ng	I-PER
+Rusya	I-PER
+
+Lambak	B-LOC
+ng	I-LOC
+Aosta	I-LOC
+
+Richard	B-ORG
+Gordon	I-ORG
+(	I-ORG
+politiko	I-ORG
+)	I-ORG
+
+John	B-PER
+Lloyd	I-PER
+Cruz	I-PER
+bilang	O
+Miggy	O
+
+'	O
+''	O
+Samoa	B-LOC
+''	O
+'	O

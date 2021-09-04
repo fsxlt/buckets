@@ -1,0 +1,38 @@
+Rafael	B-PER
+Nadal	I-PER
+/	O
+Fernando	B-PER
+Verdasco	I-PER
+
+Aegugka	O
+của	O
+Đại	B-ORG
+Hàn	I-ORG
+Đế	I-ORG
+quốc	I-ORG
+.	O
+
+Liên	B-ORG
+minh	I-ORG
+châu	I-ORG
+Âu	I-ORG
+
+Ông	O
+là	O
+người	O
+kế	O
+nhiệm	O
+Pak	B-PER
+Song-chol	I-PER
+.	O
+
+đổi	O
+Cá	B-LOC
+mú	I-LOC
+đen	I-LOC
+
+''	O
+Laniarius	B-LOC
+luehderi	I-LOC
+''	O
+.	O

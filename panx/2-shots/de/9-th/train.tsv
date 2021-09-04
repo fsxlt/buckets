@@ -1,0 +1,58 @@
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Trient	I-LOC
+''	O
+'	O
+
+Die	O
+wichtigsten	O
+Gipfel	O
+unten	O
+werden	O
+nach	O
+anderen	O
+Klassifikationen	O
+zu	O
+den	O
+Emmentaler	B-LOC
+Alpen	I-LOC
+gerechnet	O
+.	O
+
+Heinrich	B-PER
+Popow	I-PER
+,	O
+T42	O
+
+2014	O
+Silbermedaille	O
+bei	O
+den	O
+Olympischen	B-ORG
+Winterspielen	I-ORG
+
+Unter	O
+Maria	B-PER
+Theresia	I-PER
+wurde	O
+die	O
+Anlage	O
+stark	O
+erweitert	O
+.	O
+
+Die	O
+Church	B-ORG
+of	I-ORG
+Scotland	I-ORG
+und	O
+die	O
+römisch-katholische	B-ORG
+Kirche	I-ORG
+sind	O
+somit	O
+weit	O
+mitgliederstärker	O
+.	O

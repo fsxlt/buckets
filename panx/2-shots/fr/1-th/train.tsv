@@ -1,0 +1,37 @@
+**	O
+London	B-ORG
+'66-'67	I-ORG
+''	O
+,	O
+Pink	B-ORG
+Floyd	I-ORG
+
+Premier	B-ORG
+architecte	I-ORG
+du	I-ORG
+Roi	I-ORG
+
+Vinkeveen	B-LOC
+>	O
+Vinkeveen	B-LOC
+en	I-LOC
+Waverveen	I-LOC
+
+Politique	B-LOC
+étrangère	I-LOC
+et	I-LOC
+de	I-LOC
+sécurité	I-LOC
+commune	I-LOC
+
+Jacques	B-PER
+Ier	I-PER
+de	I-PER
+Bourbon-La	I-PER
+Marche	I-PER
+
+Mario	B-PER
+Vicini	I-PER
+(	O
+Italie	B-LOC
+)	O

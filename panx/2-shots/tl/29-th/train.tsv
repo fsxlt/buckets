@@ -1,0 +1,42 @@
+Mary	B-PER
+Wollstonecraft	I-PER
+(	O
+1759–1797	O
+)	O
+
+''	O
+Ikaw	B-ORG
+Lang	I-ORG
+Ang	I-ORG
+Mamahalin	I-ORG
+''	O
+(	O
+2001–2002	O
+)	O
+
+Estasyong	B-ORG
+Kamuning	I-ORG
+ng	I-ORG
+MRT	I-ORG
+
+1997	O
+–	O
+Toshiro	B-PER
+Mifune	I-PER
+,	O
+Chinese-Japanese	O
+actor	O
+and	O
+producer	O
+(	O
+b	O
+.	O
+
+Saint	B-LOC
+Kitts	I-LOC
+and	I-LOC
+Nevis	I-LOC
+
+Lungsod	B-LOC
+ng	I-LOC
+Florencia	I-LOC

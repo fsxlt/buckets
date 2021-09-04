@@ -1,0 +1,17 @@
+Lisäksi	O
+hän	O
+kävi	O
+Jan	B-PER
+DeGaetanin	I-PER
+kursseilla	O
+.	O
+
+FC	B-ORG
+Inter	I-ORG
+Turku	I-ORG
+
+Silkeborgin	B-LOC
+kunta	I-LOC
+Skanderborgin	B-LOC
+kunta	I-LOC
+13	O

@@ -1,0 +1,16 @@
+Keke	B-PER
+Rosberg	I-PER
+,	O
+son	O
+père	O
+
+La	B-LOC
+Roche-Bernard	I-LOC
+à	O
+(	O
+)	O
+;	O
+
+Autoroute	B-ORG
+espagnole	I-ORG
+A-66	I-ORG

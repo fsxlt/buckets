@@ -1,0 +1,69 @@
+Dia	O
+sekarang	O
+ini	O
+membintangi	O
+siri	O
+No	B-ORG
+Ordinary	I-ORG
+Family	I-ORG
+.	O
+''	O
+
+Azan	B-PER
+Ismail	I-PER
+(	O
+PR–PKR	O
+)	O
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+Switzerland	I-ORG
+
+Emily	B-PER
+Blunt	I-PER
+sebagai	O
+Ratu	B-PER
+Victoria	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Seine-et-Marne	I-LOC
+
+Thomas	B-PER
+Stamford	I-PER
+Raffles	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Martinique	I-LOC
+
+Josh	B-PER
+Hutcherson	I-PER
+sebagai	O
+Peeta	O
+Mellark	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Sakura	B-ORG
+no	I-ORG
+Hanabiratachi	I-ORG
+
+高音	O
+in	O
+Come	B-ORG
+On	I-ORG
+,	I-ORG
+Cousin	I-ORG

@@ -1,0 +1,40 @@
+Liege	B-ORG
+&	I-ORG
+Lief	I-ORG
+(	O
+Fairport	B-ORG
+Convention	I-ORG
+)	O
+
+Brooks	B-PER
+Robinson	I-PER
+(	O
+11	O
+)	O
+
+**	O
+Église	B-LOC
+Sainte-Ursule	I-LOC
+de	I-LOC
+Cologne	I-LOC
+(	O
+''St	O
+.	O
+
+Balmoral	B-LOC
+(	I-LOC
+Nouveau-Brunswick	I-LOC
+)	I-LOC
+
+Orchestral	B-ORG
+Manoeuvres	I-ORG
+in	I-ORG
+the	I-ORG
+Dark	I-ORG
+
+'	O
+''	O
+Jean-Luc	B-PER
+Mélenchon	I-PER
+''	O
+'	O

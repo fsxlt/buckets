@@ -1,0 +1,34 @@
+wurde	O
+im	O
+Würzburger	B-ORG
+Dom	I-ORG
+bestattet	O
+.	O
+
+Suzanne	B-PER
+Lenglen	I-PER
+Pat	B-PER
+O’Hara	I-PER
+Wood	I-PER
+
+Musculus	B-LOC
+rectus	I-LOC
+abdominis	I-LOC
+
+Weiterleitung	O
+Richard	B-PER
+von	I-PER
+Schaesberg-Tannheim	I-PER
+
+Dritter	O
+Thai	B-ORG
+Premier	I-ORG
+League	I-ORG
+2013	O
+
+Das	O
+Schwarze	B-LOC
+Meer	I-LOC
+wird	O
+entmilitarisiert	O
+.	O

@@ -1,0 +1,92 @@
+Indonesia	B-LOC
+-	O
+Partai	B-ORG
+Komunis	I-ORG
+Indonesia	I-ORG
+
+ALIH	O
+Willem	B-PER
+Adolf	I-PER
+Visser	I-PER
+'t	I-PER
+Hooft	I-PER
+
+ALIH	O
+County	B-LOC
+Comanche	I-LOC
+,	I-LOC
+Texas	I-LOC
+
+Max	B-PER
+Carl	I-PER
+Wilhelm	I-PER
+Weber	I-PER
+
+ALIH	O
+Penyelenggara	B-ORG
+jasa	I-ORG
+Internet	I-ORG
+
+ALIH	O
+Jairon	B-PER
+Feliciano	I-PER
+Damásio	I-PER
+
+ALIH	O
+Paus	B-PER
+Bonifasius	I-PER
+IX	I-PER
+
+ALIH	O
+Tembagapura	B-LOC
+,	I-LOC
+Mimika	I-LOC
+
+''Spiegel	O
+''	O
+diterbitkan	O
+di	O
+Hamburg	B-LOC
+dan	O
+mempunyai	O
+sirkulasi	O
+sekitar	O
+satu	O
+juta	O
+setiap	O
+minggu	O
+.	O
+
+ALIH	O
+F.C.	B-ORG
+Internazionale	I-ORG
+Milano	I-ORG
+
+Landau	B-LOC
+in	I-LOC
+der	I-LOC
+Pfalz	I-LOC
+
+ALIH	O
+Biri	B-LOC
+,	I-LOC
+Samar	I-LOC
+Utara	I-LOC
+
+Konser	O
+tersebut	O
+diadakan	O
+pada	O
+malam	O
+pergantian	O
+tahun	O
+2003-2004	O
+di	O
+Sapporo	B-ORG
+Dome	I-ORG
+.	O
+
+1950	B-ORG
+-	O
+Babak	O
+1	O

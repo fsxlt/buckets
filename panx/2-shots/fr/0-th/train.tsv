@@ -1,0 +1,30 @@
+Histoire	B-ORG
+du	I-ORG
+Valais	I-ORG
+
+**	O
+Bob	B-PER
+Goldham	I-PER
+;	O
+Blackhawks	B-ORG
+de	I-ORG
+Chicago	I-ORG
+.	O
+
+Trou	B-LOC
+bleu	I-LOC
+de	I-LOC
+Dean	I-LOC
+
+Kareem	B-PER
+Abdul-Jabbar	I-PER
+(	O
+4	O
+)	O
+
+Śródmieście	B-LOC
+(	I-LOC
+arrondissement	I-LOC
+de	I-LOC
+Wrocław	I-LOC
+)	I-LOC

@@ -1,0 +1,56 @@
+Romain	B-PER
+III	I-PER
+Argyre	I-PER
+
+Cinéphile	O
+,	O
+il	O
+collectionne	O
+les	O
+Séries	B-ORG
+Noires	I-ORG
+et	O
+les	O
+citations	O
+d'auteurs	O
+.	O
+
+École	B-ORG
+de	I-ORG
+la	I-ORG
+Rose-Croix	I-ORG
+d'Or	I-ORG
+
+Pedro	B-PER
+de	I-PER
+la	I-PER
+Gasca	I-PER
+
+Seuls	O
+six	O
+des	O
+vingt-cinq	B-LOC
+régions	I-LOC
+péruviennes	I-LOC
+sont	O
+représentées	O
+,	O
+les	O
+régions	O
+d'Ancash	B-LOC
+,	O
+de	B-LOC
+Cuzco	I-LOC
+et	O
+de	B-LOC
+Lima	I-LOC
+abritant	O
+plusieurs	O
+sites	O
+.	O
+
+REDIRECTION	O
+Mésange	B-LOC
+à	I-LOC
+tête	I-LOC
+rousse	I-LOC

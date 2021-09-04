@@ -1,0 +1,59 @@
+במהלך	O
+המרד	B-ORG
+הערבי	I-ORG
+הגדול	I-ORG
+נמנה	O
+עם	O
+פלוגות	B-ORG
+השדה	I-ORG
+ב	O
+.	O
+
+בהתמודדות	O
+על	O
+האירוח	O
+הועדפה	O
+מוסקבה	B-LOC
+על	O
+פני	O
+לוס	B-LOC
+אנג'לס	I-LOC
+.	O
+
+אחרים	O
+,	O
+כשהידוע	O
+מביניהם	O
+היה	O
+אדמונד	B-PER
+דה	I-PER
+לה	I-PER
+פול	I-PER
+לא	O
+זכו	O
+לכך	O
+.	O
+
+**	O
+קת'רין	B-PER
+מקפי	I-PER
+-	O
+סמאש	B-ORG
+''	O
+
+הם	O
+חיו	O
+אמריקה	B-LOC
+הצפונית	I-LOC
+,	O
+אפריקה	B-LOC
+וייתכן	O
+שגם	O
+אסיה	B-LOC
+.	O
+
+Ca	B-ORG
+n't	I-ORG
+Buy	I-ORG
+Me	I-ORG
+Love	I-ORG

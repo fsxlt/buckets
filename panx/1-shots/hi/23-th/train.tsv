@@ -1,0 +1,26 @@
+कुणाल	B-PER
+खेमू	I-PER
+,	O
+परेश	B-PER
+रावल	I-PER
+,	O
+सोहा	B-PER
+अली	I-PER
+खान	I-PER
+,	O
+सोनू	B-PER
+सूद	I-PER
+,	O
+असरानी	B-PER
+,	O
+जॉनी	B-PER
+लीवर	I-PER
+
+नागराज	B-LOC
+(	I-LOC
+सांप	I-LOC
+)	I-LOC
+
+थेवेनिन	B-ORG
+का	I-ORG
+प्रमेय	I-ORG

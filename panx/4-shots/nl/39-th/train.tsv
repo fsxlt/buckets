@@ -1,0 +1,101 @@
+Kunsthistorisches	B-ORG
+Museum	I-ORG
+in	O
+Wenen	B-LOC
+
+Velp	B-LOC
+(	I-LOC
+Gelderland	I-LOC
+)	I-LOC
+-	O
+Velp	B-LOC
+(	I-LOC
+Noord-Brabant	I-LOC
+)	I-LOC
+
+In	O
+Lausanne	B-ORG
+kon	O
+worden	O
+overgestapt	O
+op	O
+Cisalpin	B-ORG
+.	O
+
+'	O
+''	O
+Norifumi	B-PER
+Abe	I-PER
+''	O
+'	O
+
+Na	O
+het	O
+neerslaan	O
+van	O
+de	O
+Beierse	B-LOC
+radenrepubliek	I-LOC
+werd	O
+hij	O
+bestraft	O
+met	O
+vijftien	O
+jaar	O
+gevangenis	O
+.	O
+
+Volgens	O
+het	O
+Genootschap	B-ORG
+Onze	I-ORG
+Taal	I-ORG
+wordt	O
+L.S	O
+.	O
+
+Yasuji	B-PER
+Miyazaki	I-PER
+Hisakichi	B-PER
+Toyoda	I-PER
+Takashi	B-PER
+Yokoyama	I-PER
+Masanori	B-PER
+Yusa	I-PER
+
+Ferndale	B-LOC
+(	I-LOC
+Washington	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Joelia	B-PER
+Jefimova	I-PER
+''	O
+'	O
+
+Genouillé	B-LOC
+(	I-LOC
+Vienne	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Amica	B-ORG
+Wronki	I-ORG
+''	O
+'	O
+
+2000	O
+-	O
+Charlotte	B-PER
+Mutsaers	I-PER
+
+'	O
+''	O
+ADO	B-ORG
+Den	I-ORG
+Haag	I-ORG
+''	O
+'	O

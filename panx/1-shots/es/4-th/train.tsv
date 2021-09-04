@@ -1,0 +1,17 @@
+Phil	B-PER
+Soussan	I-PER
+-	O
+bajo	O
+
+Museo	B-ORG
+de	I-ORG
+la	I-ORG
+SHCP	I-ORG
+.	O
+
+REDIRECCIÓN	O
+El	B-LOC
+Playón	I-LOC
+(	I-LOC
+Venezuela	I-LOC
+)	I-LOC

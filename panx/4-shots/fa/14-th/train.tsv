@@ -1,0 +1,80 @@
+دبیر	O
+کل	O
+کنونی	O
+آن	O
+مصطفی	B-PER
+هجری	I-PER
+است	O
+.	O
+
+تغییرمسیر	O
+یواس‌اس	B-ORG
+ماسکالانگ	I-ORG
+(	I-ORG
+اس‌اس-۲۶۲	I-ORG
+)	I-ORG
+
+کروسویل،	B-LOC
+تنسی	I-LOC
+,	O
+United	O
+States	O
+
+تغییرمسیر	O
+نیکولا	B-PER
+سعدی	I-PER
+کارنو	I-PER
+
+تغییرمسیر	O
+اولیویرا	B-LOC
+د	I-LOC
+آزمیس	I-LOC
+
+سید	B-PER
+جعفر	I-PER
+شهیدی	I-PER
+
+تغییرمسیر	O
+لیک	B-LOC
+ال	I-LOC
+سینور،	I-LOC
+کالیفرنیا	I-LOC
+
+تغییرمسیر	O
+داردن	B-LOC
+پرری،	I-LOC
+میزوری	I-LOC
+
+تغییرمسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+ایست‌بورن	I-ORG
+بورو	I-ORG
+
+ایران	B-LOC
+-	O
+روز	O
+بزرگداشت	O
+شیخ	B-PER
+مفید	I-PER
+.	O
+
+تغییرمسیر	O
+شبکه	B-ORG
+۱	I-ORG
+سیمای	I-ORG
+جمهوری	I-ORG
+اسلامی	I-ORG
+ایران	I-ORG
+
+تغییر_مسیر	O
+دیگر	B-ORG
+نمی‌توانی	I-ORG
+روی	I-ORG
+صحنه	I-ORG
+آن‌	I-ORG
+کار	I-ORG
+را	I-ORG
+بکنی،	I-ORG
+جلد	I-ORG
+۶	I-ORG

@@ -1,0 +1,46 @@
+अनुप्रेषित	O
+बदामी	B-LOC
+,	I-LOC
+कर्नाटक	I-LOC
+
+मरियम	B-PER
+(	I-PER
+ईसा	I-PER
+मसीह	I-PER
+की	I-PER
+माँ	I-PER
+)	I-PER
+
+''	O
+गोवा	B-LOC
+''	O
+'	O
+
+जूंग-गू	O
+,	O
+गांग्नम-गू	O
+,	O
+यिओउइदो	O
+(	O
+सियोल	B-LOC
+,	O
+दक्षिण	B-LOC
+कोरिया	I-LOC
+)	O
+
+टाइगर	B-PER
+श्रॉफ	I-PER
+-	O
+बबलू	O
+
+आइनस्टाइन	B-ORG
+क्षेत्र	I-ORG
+समीकरण	I-ORG
+
+अनुप्रेषित	O
+2010	B-ORG
+हॉकी	I-ORG
+विश्वकप	I-ORG
+(	I-ORG
+पुरुष	I-ORG
+)	I-ORG

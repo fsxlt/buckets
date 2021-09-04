@@ -1,0 +1,17 @@
+Belfast	B-LOC
+,	O
+Irlande	B-LOC
+du	I-LOC
+Nord	I-LOC
+
+Championnat	B-ORG
+du	I-ORG
+Lesotho	I-ORG
+de	I-ORG
+football	I-ORG
+
+Laurent	B-PER
+Sciarra	I-PER
+(	O
+Paris	B-ORG
+)	O

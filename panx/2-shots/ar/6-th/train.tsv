@@ -1,0 +1,42 @@
+تحويل	O
+سالفورد	B-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+'	O
+''	O
+لاباما	B-PER
+بوكوتا	I-PER
+''	O
+'	O
+
+التكتل	B-ORG
+الديمقراطي	I-ORG
+من	I-ORG
+أجل	I-ORG
+العمل	I-ORG
+والحريات	I-ORG
+
+تحويل	O
+ويلكسون	B-LOC
+(	I-LOC
+واشنطن	I-LOC
+)	I-LOC
+
+تحويل	O
+شهرك	B-LOC
+المنتظري	I-LOC
+(	I-LOC
+خنافره	I-LOC
+)	I-LOC
+
+تحويل	O
+مزعل	B-PER
+بن	I-PER
+جابر	I-PER
+الكعبي	I-PER

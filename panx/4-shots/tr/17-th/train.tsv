@@ -1,0 +1,103 @@
+YÖNLENDİRME	O
+Sırbistan'daki	B-ORG
+futbol	I-ORG
+kulüpleri	I-ORG
+listesi	I-ORG
+
+Yeni	B-LOC
+Zelanda'da	I-LOC
+da	O
+rastlantısal	O
+konuktur	O
+.	O
+
+'	O
+''	O
+Christina	B-PER
+Aguilera	I-PER
+''	O
+'	O
+
+Roma	B-LOC
+ordusundaki	O
+askerlere	O
+verilen	O
+isimdir	O
+.	O
+
+Bu	O
+albümde	O
+Nightwish'in	B-ORG
+basçısı	O
+ve	O
+vokalisti	O
+Marco	B-PER
+Hietala	I-PER
+,	O
+Within	B-ORG
+Temptation'ın	I-ORG
+vokalisti	O
+Sharon	B-PER
+den	I-PER
+Adel	I-PER
+gibi	O
+birkaç	O
+sanatçı	O
+albümde	O
+konuk	O
+sanatçı	O
+olarak	O
+yer	O
+almıştır	O
+.	O
+
+YÖNLENDİRME	O
+Kırbaş	B-LOC
+,	I-LOC
+Serik	I-LOC
+
+'	O
+''	O
+Miami	B-ORG
+Heat	I-ORG
+''	O
+'	O
+
+Sağlık	B-ORG
+ocağı	I-ORG
+vardır	O
+ama	O
+kullanılmamaktadır	O
+.	O
+
+YÖNLENDİRME	O
+Afşar	B-LOC
+,	I-LOC
+Güdül	I-LOC
+
+**	O
+Steve	B-PER
+Jobs	I-PER
+(	O
+1955–2011	O
+)	O
+
+YÖNLENDİRME	O
+Marcia	B-PER
+Mitzman	I-PER
+Gaven	I-PER
+
+İstanbul	B-LOC
+Boğazı	I-LOC
+kıyıları	O
+boyunca	O
+Ortaköy	B-LOC
+ve	O
+Bebek	B-LOC
+gibi	O
+eski	O
+semtler	O
+birbirlerini	O
+takip	O
+etmektedir	O
+.	O

@@ -1,0 +1,83 @@
+REDIRECCIÓN	O
+Fame	B-ORG
+(	I-ORG
+serie	I-ORG
+de	I-ORG
+televisión	I-ORG
+de	I-ORG
+1982	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Carlos	B-PER
+de	I-PER
+Lorena-Guisa	I-PER
+
+REDIRECCIÓN	O
+Juan	B-PER
+Domingo	I-PER
+Perón	I-PER
+
+REDIRECCIÓN	O
+Buró	B-ORG
+Político	I-ORG
+del	I-ORG
+Comité	I-ORG
+Central	I-ORG
+del	I-ORG
+Partido	I-ORG
+Comunista	I-ORG
+de	I-ORG
+la	I-ORG
+Unión	I-ORG
+Soviética	I-ORG
+
+Población	B-ORG
+negra	I-ORG
+en	I-ORG
+Argentina	I-ORG
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Municipio	B-LOC
+de	I-LOC
+Elk	I-LOC
+Lake	I-LOC
+
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+Tearce	I-LOC
+
+La	O
+Flota	B-ORG
+del	I-ORG
+Báltico	I-ORG
+zarpó	O
+,	O
+siendo	O
+despedida	O
+pomposamente	O
+por	O
+Nicolás	B-PER
+II	I-PER
+.	O
+
+REDIRECCIÓN	O
+Justo	B-PER
+y	I-PER
+Pastor	I-PER
+
+'	O
+''	O
+Región	B-LOC
+natural	I-LOC
+''	O
+'	O

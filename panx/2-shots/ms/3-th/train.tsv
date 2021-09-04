@@ -1,0 +1,48 @@
+Senarai	B-ORG
+daerah	I-ORG
+di	I-ORG
+Pakistan	I-ORG
+
+Beliau	O
+juga	O
+terlibat	O
+sebagai	O
+tenaga	O
+pengajar	O
+untuk	O
+Akademi	B-ORG
+Fantasia	I-ORG
+.	O
+
+Pemasyhuran	O
+Sultan	B-PER
+Perak	I-PER
+yang	O
+baru	O
+.	O
+
+Sharifah	B-PER
+Rodziah	I-PER
+Syed	I-PER
+Alwi	I-PER
+Barakbah	I-PER
+
+Ia	O
+terutamanya	O
+terkenal	O
+sebagai	O
+perhentian	O
+yang	O
+akhir	O
+sebelum	O
+menuju	O
+pada	O
+Taman	B-LOC
+Negara	I-LOC
+Endau	B-LOC
+.	O
+
+Bukit	B-LOC
+Gambir	I-LOC
+,	I-LOC
+Johor	I-LOC

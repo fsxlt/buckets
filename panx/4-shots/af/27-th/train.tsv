@@ -1,0 +1,88 @@
+Jannie	B-PER
+Hofmeyr	I-PER
+,	O
+adjunk-premier	O
+van	O
+die	O
+Unie	B-LOC
+van	I-LOC
+Suid-Afrika	I-LOC
+.	O
+
+**	O
+Kate	B-PER
+Winslet	I-PER
+–	O
+''Eternal	O
+Sunshine	O
+of	O
+the	O
+Spotless	O
+Mind	O
+''	O
+
+Hulle	O
+speel	O
+in	O
+die	O
+Nederlandse	B-LOC
+Eerste	B-ORG
+divisie	I-ORG
+.	O
+
+aanstuur	O
+Duitse	B-ORG
+nasionale	I-ORG
+rugbyspan	I-ORG
+
+'	O
+''	O
+Sauber	B-ORG
+''	O
+'	O
+
+'	O
+''	O
+Jan	B-PER
+Rabie	I-PER
+''	O
+'	O
+
+AANSTUUR	O
+Rotorua	B-ORG
+Internasionale	I-ORG
+Stadion	I-ORG
+
+Die	O
+Natalse	B-ORG
+Haaie	I-ORG
+was	O
+die	O
+verdedigende	O
+kampioen	O
+.	O
+
+Verenigde	B-LOC
+State	I-LOC
+van	I-LOC
+Amerika	I-LOC
+
+AANSTUUR	O
+Turks-	B-LOC
+en	I-LOC
+Caicos-eilande	I-LOC
+
+Russell	B-PER
+Crowe	I-PER
+,	O
+akteur	O
+
+Sy	O
+is	O
+gebore	O
+in	O
+De	B-LOC
+Aar	I-LOC
+,	O
+Noord-Kaap	B-LOC
+.	O

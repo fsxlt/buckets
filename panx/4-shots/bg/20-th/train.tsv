@@ -1,0 +1,100 @@
+виж	O
+Източен	B-LOC
+Рочестър	I-LOC
+(	I-LOC
+Ню	I-LOC
+Йорк	I-LOC
+)	I-LOC
+
+Франция	B-LOC
+-	O
+10	O
+100	O
+
+'	O
+''	O
+Яник	B-PER
+Далмас	I-PER
+''	O
+'	O
+
+ФК	B-ORG
+Барселона	I-ORG
+(	O
+Аржентина	B-LOC
+)	O
+
+**	O
+Коста	B-LOC
+Рика	I-LOC
+(	O
+CR	O
+)	O
+
+'	O
+''	O
+Марк	B-PER
+Уилямс	I-PER
+''	O
+'	O
+(	O
+Уелс	B-LOC
+)	O
+
+виж	O
+ПФК	B-ORG
+Берое	I-ORG
+(	I-ORG
+Стара	I-ORG
+Загора	I-ORG
+)	I-ORG
+
+Следва	O
+през	O
+1608–1609	O
+г.	O
+в	O
+Женева	B-LOC
+заедно	O
+с	O
+братовчед	O
+си	O
+Йохан	B-PER
+Казимир	I-PER
+от	I-PER
+Десау	I-PER
+.	O
+
+**	O
+Линкълн	B-LOC
+(	I-LOC
+окръг	I-LOC
+,	I-LOC
+Невада	I-LOC
+)	I-LOC
+
+виж	O
+Бистрица	B-LOC
+(	I-LOC
+Гърция	I-LOC
+)	I-LOC
+
+What	B-ORG
+You	I-ORG
+Do	I-ORG
+n't	I-ORG
+Know“	I-ORG
+-	O
+3:46	O
+
+Андрей	B-PER
+Ляпчев	I-PER
+(	O
+1866—1933	O
+)	O
+
+``	O
+Flight	B-ORG
+of	I-ORG
+Icarus	I-ORG
+''	O

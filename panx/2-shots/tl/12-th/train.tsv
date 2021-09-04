@@ -1,0 +1,35 @@
+(	O
+2009	O
+)	O
+America	B-ORG
+'s	I-ORG
+Best	I-ORG
+Dance	I-ORG
+Crew	I-ORG
+
+Panghuli	B-ORG
+ng	I-ORG
+pangarap	I-ORG
+
+Henry	B-PER
+Hotspur	I-PER
+Percy	I-PER
+
+Departamento	B-LOC
+ng	I-LOC
+Cundinamarca	I-LOC
+
+'	O
+''	O
+Mindanao	B-LOC
+''	O
+'	O
+
+Alejandro	B-PER
+ang	I-PER
+Dakila	I-PER
+
+Sonshine	B-LOC
+Media	I-LOC
+Network	I-LOC
+International	I-LOC

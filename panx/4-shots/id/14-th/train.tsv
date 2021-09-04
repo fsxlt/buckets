@@ -1,0 +1,89 @@
+Tikus	B-LOC
+pohon	I-LOC
+raksasa	I-LOC
+Verhoeven	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Saône-et-Loire	I-LOC
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Seine-et-Marne	I-LOC
+
+Selain	O
+itu	O
+,	O
+ia	O
+juga	O
+dikenal	O
+sebagai	O
+guru	O
+dari	O
+Zeno	B-PER
+dari	I-PER
+Citium	I-PER
+.	O
+
+Aku	O
+Pulang	O
+(	O
+Dewi	B-PER
+Sandra	I-PER
+)	O
+
+André	B-PER
+F.	I-PER
+Cournand	I-PER
+
+Konvensi	B-ORG
+Nasional	I-ORG
+Partai	I-ORG
+Republik	I-ORG
+(	I-ORG
+Amerika	I-ORG
+Serikat	I-ORG
+)	I-ORG
+
+``	O
+Tiga	O
+lukisannya	O
+berada	O
+di	O
+Museum	B-ORG
+dan	I-ORG
+Galeri	I-ORG
+Seni	I-ORG
+Derby	I-ORG
+setelah	O
+dihadiahkan	O
+oleh	O
+Alfred	B-PER
+E.	I-PER
+Goodey	I-PER
+.	O
+
+Ledakan	O
+mengguncang	O
+lantai	O
+parkir	O
+P2	O
+Gedung	O
+Bursa	B-ORG
+Efek	I-ORG
+Jakarta	I-ORG
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Cher	I-LOC
+
+ALIH	O
+Tentara	B-ORG
+Revolusioner	I-ORG
+Nasional	I-ORG

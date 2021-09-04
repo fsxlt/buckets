@@ -1,0 +1,80 @@
+Palais	B-ORG
+de	I-ORG
+Dioclétien	I-ORG
+à	O
+Spalato	B-LOC
+/	I-LOC
+Split	I-LOC
+
+``	O
+If	B-ORG
+God	I-ORG
+Will	I-ORG
+Send	I-ORG
+His	I-ORG
+Angels	I-ORG
+''	O
+
+République	B-LOC
+du	I-LOC
+Viêt	I-LOC
+Nam	I-LOC
+|	O
+Armée	B-ORG
+de	I-ORG
+la	I-ORG
+République	I-ORG
+du	I-ORG
+Viêt	I-ORG
+Nam	I-ORG
+
+'	O
+''	O
+Serpa	B-LOC
+''	O
+'	O
+
+Brooks	B-PER
+Robinson	I-PER
+(	O
+11	O
+)	O
+
+**	O
+Église	B-LOC
+Sainte-Ursule	I-LOC
+de	I-LOC
+Cologne	I-LOC
+(	O
+''St	O
+.	O
+
+Philippe	B-PER
+de	I-PER
+La	I-PER
+Hire	I-PER
+
+'	O
+''	O
+Jean	B-PER
+Alesi	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Are	B-ORG
+You	I-ORG
+Passionate	I-ORG
+?	I-ORG
+
+'	O
+''	O
+Jean-Luc	B-PER
+Mélenchon	I-PER
+''	O
+'	O
+
+Wallis	B-LOC
+(	I-LOC
+île	I-LOC
+)	I-LOC

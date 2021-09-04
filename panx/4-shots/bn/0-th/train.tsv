@@ -1,0 +1,77 @@
+;	O
+কনকাকাফ	B-ORG
+(	O
+৩	O
+)	O
+
+**	O
+দক্ষিণী	B-LOC
+হলদেঠুঁটি	I-LOC
+ধনেশ	I-LOC
+''Tockus	O
+leucomelas	O
+''	O
+
+আচার্য	B-ORG
+জগদীশচন্দ্র	I-ORG
+বসু	I-ORG
+ভারতীয়	I-ORG
+উদ্ভিদ	I-ORG
+উদ্যান	I-ORG
+
+মহাবিশ্বের	B-ORG
+বৃহৎ-পরিসর	I-ORG
+গঠন	I-ORG
+
+সর্বভারতীয়	B-LOC
+তৃণমূল	I-LOC
+ছাত্র	I-LOC
+পরিষদ	I-LOC
+
+দ্বিতীয়	B-PER
+আবদুর	I-PER
+রহমান	I-PER
+
+চীনের	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+
+'	O
+''	O
+বাবর	B-PER
+আজম	I-PER
+''	O
+'	O
+
+বড়বাজার	B-LOC
+,	I-LOC
+পুরুলিয়া	I-LOC
+
+সোহম	B-PER
+চক্রবর্তী	I-PER
+,	O
+মিমি	B-PER
+চক্রবর্তী	I-PER
+
+হুয়ান	B-PER
+পাবলো	I-PER
+সোরিন	I-PER
+
+ইন্ডিয়ান	B-ORG
+ব্যাঙ্ক	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+,	O
+চেন্নাই	B-LOC
+,	O
+তামিলনাডু	O
+
+নিউ	B-LOC
+ইয়র্ক	I-LOC
+সিটি	I-LOC
+,	O
+নিউ	B-LOC
+ইয়র্ক	I-LOC
+,	O
+মার্কিন	B-LOC
+যুক্তরাষ্ট্র	I-LOC

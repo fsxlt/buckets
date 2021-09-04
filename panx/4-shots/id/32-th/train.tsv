@@ -1,0 +1,75 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Marne	I-LOC
+
+ALIH	O
+Hotel	B-ORG
+Savoy	I-ORG
+Homann	I-ORG
+
+ALIH	O
+World	B-ORG
+Press	I-ORG
+Photo	I-ORG
+
+Pada	O
+saat	O
+ini	O
+ia	O
+bermain	O
+untuk	O
+tim	O
+FC	B-ORG
+Rubin	I-ORG
+Kazan	I-ORG
+.	O
+
+ALIH	O
+Zona	B-LOC
+Vulkanik	I-LOC
+Taupo	I-LOC
+
+ALIH	O
+Eduardo	B-PER
+Frei	I-PER
+Montalva	I-PER
+
+ALIH	O
+Francis	B-PER
+Peyton	I-PER
+Rous	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Somme	I-LOC
+
+Cannibal	B-ORG
+Corpse	I-ORG
+sebagai	O
+Dirinya	O
+sendiri	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Hautes-Pyrénées	I-LOC
+
+ALIH	O
+Rehmat	B-PER
+Aziz	I-PER
+Chitrali	I-PER
+
+Amancio	B-PER
+Ortega	I-PER
+Gaona	I-PER
+-	O
+Spanyol	B-LOC
+-	O
+$	O
+12,6	O
+miliar	O

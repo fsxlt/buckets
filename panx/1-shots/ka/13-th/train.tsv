@@ -1,0 +1,27 @@
+Hips	B-ORG
+Do	I-ORG
+n't	I-ORG
+Lie	I-ORG
+''	O
+
+'	O
+''	O
+პიტერ	B-PER
+ჯექსონი	I-PER
+†	O
+''	O
+'	O
+
+პორტუგალიამ	B-ORG
+ის	O
+შეხვედრა	O
+1:0	O
+წააგო	O
+.	O
+
+ჰაჯი-გირეი	B-PER
+—	O
+ყირიმის	B-LOC
+სახანოს	I-LOC
+დამაარსებელი	O
+.	O

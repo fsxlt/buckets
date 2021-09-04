@@ -1,0 +1,142 @@
+'	O
+''	O
+Alice	B-LOC
+''	O
+'	O
+-	O
+città	O
+del	O
+Dakota	B-LOC
+del	I-LOC
+Nord	I-LOC
+
+il	O
+Federal	B-ORG
+Open	I-ORG
+Market	I-ORG
+Committee	I-ORG
+(	O
+FOMC	O
+)	O
+,	O
+
+RINVIA	O
+American	B-ORG
+Medical	I-ORG
+Association	I-ORG
+
+Il	O
+gruppo	O
+passa	O
+sul	O
+rettilineo	O
+d'arrivo	O
+ad	O
+Arnhem	B-LOC
+
+Carroll	B-LOC
+Valley	I-LOC
+-	O
+''borough	O
+''	O
+
+Acquaviva	B-LOC
+dei	I-LOC
+Vena	I-LOC
+(	O
+''Rakitovec	O
+''	O
+)	O
+
+Grande	B-ORG
+Santuario	I-ORG
+di	I-ORG
+Ise	I-ORG
+
+Passa	O
+Atlantic	B-ORG
+che	O
+lo	O
+fa	O
+collaborare	O
+con	O
+Eric	B-PER
+Dolphy	I-PER
+,	O
+Freddie	B-PER
+Hubbard	I-PER
+,	O
+Scott	B-PER
+LaFaro	I-PER
+e	O
+Jimmy	B-PER
+Garrison	I-PER
+.	O
+
+**1	O
+argento	O
+(	O
+salti	O
+a	O
+Voss-Myrkdalen	B-ORG
+2013	I-ORG
+)	O
+
+Molecola	O
+di	O
+ricerca	O
+Upjohn	B-ORG
+poi	O
+acquista	O
+da	O
+Pfizer	B-ORG
+,	O
+che	O
+la	O
+commercializza	O
+come	O
+'	O
+''	O
+Trobicin	O
+''	O
+'	O
+.	O
+
+Canada	B-LOC
+(	O
+''Billboard	O
+''	O
+)	O
+
+'	O
+''	O
+Sam	B-PER
+Bird	I-PER
+''	O
+'	O
+
+Bristol	B-LOC
+-	O
+città	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Hartford	I-LOC
+,	O
+Connecticut	B-LOC
+
+Diego	B-PER
+Hartfield	I-PER
+''	O
+(	O
+Quarti	O
+di	O
+finale	O
+)	O
+
+Kim	B-PER
+Clijsters4–6	I-PER
+,	O
+6–3	O
+,	O
+6–4	O

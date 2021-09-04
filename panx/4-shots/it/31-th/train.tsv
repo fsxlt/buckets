@@ -1,0 +1,135 @@
+Antico	B-LOC
+cimitero	I-LOC
+degli	I-LOC
+Inglesi	I-LOC
+
+Monte	B-LOC
+Castello	I-LOC
+di	I-LOC
+Vibio	I-LOC
+
+20px	O
+U.S.	B-LOC
+Mariglianese	I-LOC
+,	I-LOC
+Marigliano	I-LOC
+
+Harel	B-PER
+Levy	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+rinvia	O
+Federazione	B-ORG
+calcistica	I-ORG
+della	I-ORG
+Romania	I-ORG
+
+10ª	O
+giornata	O
+-	O
+12	O
+gennaio	O
+PalaPanini	B-ORG
+,	O
+Modena	B-LOC
+
+Lose	B-LOC
+Your	I-LOC
+Illusions	I-LOC
+,	I-LOC
+Vol.	I-LOC
+1	I-LOC
+
+Passa	O
+così	O
+nelle	O
+file	O
+di	O
+Francesco	B-PER
+Maria	I-PER
+I	I-PER
+Della	I-PER
+Rovere	I-PER
+,	O
+con	O
+cui	O
+partecipa	O
+all'entrata	O
+in	O
+Ravenna	B-LOC
+e	O
+Rimini	B-LOC
+,	O
+per	O
+poi	O
+spostarsi	O
+a	O
+Modena	B-LOC
+prima	O
+e	O
+a	O
+Bologna	B-LOC
+poi	O
+,	O
+dove	O
+si	O
+occupa	O
+della	O
+difesa	O
+della	O
+città	O
+attaccata	O
+da	O
+Gian	B-PER
+Giacomo	I-PER
+Trivulzio	I-PER
+.	O
+
+'	O
+''	O
+Saint-Bertrand-de-Comminges	B-LOC
+''	O
+'	O
+
+''	O
+My	B-ORG
+Sweet	I-ORG
+Lord	I-ORG
+''	O
+-	O
+(	O
+George	B-PER
+Harrison	I-PER
+)	O
+
+Studiò	O
+a	O
+Eton	B-ORG
+College	I-ORG
+.	O
+
+RINVIA	O
+Prigione	B-ORG
+di	I-ORG
+Abu	I-ORG
+Ghraib	I-ORG
+
+Rod	B-PER
+Laver6-4	I-PER
+4-6	O
+6-2	O
+8-10	O
+6-3	O
+
+n.	O
+17	O
+a	O
+'	O
+''	O
+Camponogara	B-LOC
+''	O
+'	O

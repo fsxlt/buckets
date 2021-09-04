@@ -1,0 +1,22 @@
+Holmdel	B-LOC
+Township	I-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Jayne	B-PER
+Atkinson	I-PER
+kama	O
+Karen	B-PER
+Hayes	I-PER
+
+Uneo	O
+lake	O
+ni	O
+151.2	O
+km²	B-ORG
+.	O
+
+Face	B-ORG
+to	I-ORG
+Face	B-ORG

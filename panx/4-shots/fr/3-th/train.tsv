@@ -1,0 +1,73 @@
+Grêmio	B-ORG
+Foot-Ball	I-ORG
+Porto	I-ORG
+Alegrense	I-ORG
+
+'	O
+''	O
+Ribeira	B-LOC
+Brava	I-LOC
+''	O
+'	O
+
+Dwight	B-PER
+Buycks	I-PER
+(	O
+Gravelines	B-ORG
+Dunkerque	I-ORG
+)	O
+
+Corey	B-PER
+Parker	I-PER
+&	O
+Justin	B-PER
+Hodges	I-PER
+
+I	B-ORG
+Will	I-ORG
+Always	I-ORG
+Love	I-ORG
+You	I-ORG
+''	O
+-	O
+Whitney	B-PER
+Houston	I-PER
+
+**	O
+Pétain	B-PER
+est	O
+emmené	O
+par	O
+les	O
+Allemands	O
+à	O
+Belfort	B-LOC
+.	O
+
+Vicovu	B-LOC
+de	I-LOC
+Sus	I-LOC
+(	O
+)	O
+
+Assemblée	B-ORG
+législative	I-ORG
+du	I-ORG
+Queensland	I-ORG
+
+Eugénie	B-PER
+Cotton	I-PER
+(	O
+1881-1967	O
+)	O
+
+REDIRECTION	O
+Chevêchette	B-LOC
+des	I-LOC
+saguaros	I-LOC
+
+REDIRECTION	O
+District	B-LOC
+du	I-LOC
+Jura-Nord	I-LOC
+vaudois	I-LOC

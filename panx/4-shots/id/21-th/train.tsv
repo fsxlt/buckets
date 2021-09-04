@@ -1,0 +1,80 @@
+ALIH	O
+Prinsip	B-ORG
+ketidakpastian	I-ORG
+Heisenberg	I-ORG
+
+]]	O
+Manchester	B-ORG
+United	I-ORG
+F.C	I-ORG
+.	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haut-Rhin	I-LOC
+
+Julio	B-PER
+César	I-PER
+Baldivieso	I-PER
+(	O
+June	O
+2012–	O
+)	O
+
+Kampus	O
+utamanya	O
+terletak	O
+di	O
+Shah	B-LOC
+Alam	I-LOC
+,	O
+Selangor	B-LOC
+,	O
+Malaysia	B-LOC
+.	O
+
+ALIH	O
+Herodes	B-PER
+yang	I-PER
+Agung	I-PER
+
+ALIH	O
+Hot	B-ORG
+Chelle	I-ORG
+Rae	I-ORG
+
+ALIH	O
+Spišská	B-LOC
+Nová	I-LOC
+Ves	I-LOC
+
+Gunawan	B-PER
+Dwi	I-PER
+Cahyo	I-PER
+,	O
+Pesepakbola	O
+.	O
+
+Gunung	B-LOC
+Bromo	I-LOC
+merupakan	O
+jenis	O
+ini	O
+.	O
+
+Nobutaka	B-PER
+Machimura	I-PER
+(	O
+2004-2005	O
+)	O
+
+Perancis	B-LOC
+(	O
+pendiri	O
+)	O
+
+Bursa	B-ORG
+efek	I-ORG
+Toronto	I-ORG

@@ -1,0 +1,14 @@
+홋카이도	B-LOC
+노보리베쓰	B-LOC
+시에	I-LOC
+있는	O
+네무로	B-ORG
+본선의	I-ORG
+역	O
+.	O
+
+넘겨주기	O
+제레미	B-PER
+(	I-PER
+가수	I-PER
+)	I-PER

@@ -1,0 +1,96 @@
+현재	O
+대한민국	B-LOC
+K리그	B-ORG
+챌린지의	I-ORG
+서울	B-ORG
+이랜드	I-ORG
+FC에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+로그사므	O
+-	O
+나카무라	B-PER
+시도	I-PER
+
+넘겨주기	O
+프톨레마이오스	B-PER
+4세	I-PER
+필로파토르	I-PER
+
+넘겨주기	O
+아오야마	B-ORG
+1초메	I-ORG
+역	I-ORG
+
+넘겨주기	O
+박태준	B-PER
+(	I-PER
+1927년	I-PER
+)	I-PER
+
+넘겨주기	O
+리옹	B-LOC
+(	I-LOC
+퓌드돔	I-LOC
+주	I-LOC
+)	I-LOC
+
+평균	O
+해발	O
+1,500미터에	O
+위에	O
+위치한	O
+길기트는	O
+주위에	O
+카라코람	B-LOC
+산맥들을	I-LOC
+이루는	O
+언덕들	O
+사이에	O
+위치하며	O
+면적은	O
+38,021	O
+km²이다	O
+.	O
+
+**	O
+여우조연상	O
+(	O
+시바사키	B-ORG
+코우	I-ORG
+)	O
+
+토머스	B-PER
+이언	I-PER
+니컬러스	I-PER
+-	O
+Michael	O
+
+한양여자대학교	B-ORG
+실용음악과	O
+교수로	O
+재직	O
+중이다	O
+.	O
+
+말레이시아	B-ORG
+항공	I-ORG
+(	O
+원월드	B-ORG
+)	O
+
+뎬바이	B-LOC
+구	I-LOC
+(	O
+电白区	O
+)	O
+
+이	O
+곳에는	O
+뮌스터	B-LOC
+주교령의	I-LOC
+총회가	O
+있었다	O
+.	O

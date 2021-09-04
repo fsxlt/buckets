@@ -1,0 +1,39 @@
+Estância	B-LOC
+termal	I-LOC
+—	O
+também	O
+designadas	O
+como	O
+''caldas	O
+''	O
+
+''	O
+Pro	B-ORG
+Wrestling	I-ORG
+Illustrated	I-ORG
+''	O
+'	O
+
+REDIRECIONAMENTO	O
+Springfield	B-LOC
+(	I-LOC
+The	I-LOC
+Simpsons	I-LOC
+)	I-LOC
+
+Bethanie	B-PER
+Mattek-Sands	I-PER
+e	O
+John	B-PER
+Isner	I-PER
+
+Ruben	B-PER
+II	I-PER
+da	I-PER
+Arménia	I-PER
+
+Stade	B-ORG
+de	I-ORG
+Gerland	I-ORG
+,	O
+Lyon	B-LOC

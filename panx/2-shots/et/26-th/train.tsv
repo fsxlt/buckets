@@ -1,0 +1,46 @@
+Orenburgi	B-LOC
+oblast	I-LOC
+(	O
+1934–	O
+)	O
+
+Indoneesia	B-LOC
+presidendina	O
+vannutati	O
+ametisse	O
+Joko	B-PER
+Widodo	I-PER
+.	O
+
+Galiooni	O
+vastu	O
+tundis	O
+huvi	O
+ka	O
+mereröövel	O
+Henry	B-PER
+Morgan	I-PER
+.	O
+
+aastal	O
+sai	O
+sellest	O
+kodustaadion	O
+Hertha	B-ORG
+BSC	I-ORG
+klubile	O
+.	O
+
+Saksa	B-LOC
+okupatsioon	I-LOC
+Eestis	I-LOC
+(	I-LOC
+1941–1944	I-LOC
+)	I-LOC
+
+2002–2009	O
+kuulus	O
+ta	O
+Eestimaa	B-ORG
+Rahvaliitu	I-ORG
+.	O

@@ -1,0 +1,50 @@
+;	O
+Бъфи	B-ORG
+,	I-ORG
+убийцата	I-ORG
+на	I-ORG
+вампири“	I-ORG
+''	O
+
+Фернандо	B-PER
+Вердаско	I-PER
+Гаел	B-PER
+Монфис	I-PER
+Милош	B-PER
+Раонич	I-PER
+Бърнард	B-PER
+Томич	I-PER
+
+Васил	B-PER
+Радославов	I-PER
+(	O
+1854-1929	O
+)	O
+
+Разположена	O
+е	O
+на	O
+Римски	B-LOC
+форум	I-LOC
+в	O
+Рим	B-LOC
+.	O
+
+виж	O
+Африка	B-LOC
+(	I-LOC
+римска	I-LOC
+провинция	I-LOC
+)	I-LOC
+
+Играе	O
+за	O
+Нюкасъл	B-ORG
+Юнайтед	I-ORG
+и	O
+под	O
+наем	O
+за	O
+Норич	B-ORG
+Сити	I-ORG
+.	O

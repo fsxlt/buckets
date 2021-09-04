@@ -1,0 +1,40 @@
+Đang	B-LOC
+Đồ	I-LOC
+,	O
+An	B-LOC
+Huy	I-LOC
+
+My	B-ORG
+Beautiful	I-ORG
+Dark	I-ORG
+Twisted	I-ORG
+Fantasy	I-ORG
+''	O
+
+Kẻ	O
+hủy	O
+diệt	O
+(	O
+Arnold	B-PER
+Schwarzenegger	I-PER
+)	O
+
+đổi	O
+Tấn	B-PER
+Hiếu	I-PER
+hầu	I-PER
+
+Vườn	B-ORG
+quốc	I-ORG
+gia	I-ORG
+San	I-ORG
+Guillermo	I-ORG
+
+Sóc	B-LOC
+đỏ	I-LOC
+Bắc	I-LOC
+Amazon	I-LOC
+,	O
+Sciurus	B-LOC
+igniventris	I-LOC
+''	O

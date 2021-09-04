@@ -1,0 +1,109 @@
+نائبة	O
+الرئيسة	O
+مؤسسة	B-ORG
+بيل	I-ORG
+ومليندا	I-ORG
+غيتس	I-ORG
+
+هيورين	B-PER
+سويو	B-PER
+من	O
+فرقة	O
+سيستار	B-ORG
+(	O
+الحلقة	O
+45	O
+)	O
+
+تحويل	O
+لا	B-LOC
+رينيه	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+ديربي	B-PER
+مدينة	I-PER
+ميلان	I-PER
+بين	O
+فريقي	O
+إيه	B-ORG
+سي	I-ORG
+ميلان	I-ORG
+و	O
+إنتر	B-ORG
+ميلان	I-ORG
+.	O
+
+تحويل	O
+آلفرد	B-PER
+إدوارد	I-PER
+هاوسمان	I-PER
+
+تحويل	O
+أليدو	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+لجنة	B-ORG
+أولمبية	I-ORG
+وطنية	I-ORG
+
+موطنها	O
+المغرب	B-LOC
+العربي	I-LOC
+إسبانيا	B-LOC
+.	O
+
+وجاء	O
+ذلك	O
+في	O
+الغالب	O
+من	O
+``	O
+لجنة	O
+العفة	O
+''	O
+التي	O
+كانت	O
+تتبع	O
+للإمبراطورة	O
+ماريا	B-PER
+تيريزا،	I-PER
+والتي	O
+رمت	O
+إلى	O
+دعم	O
+الآداب	O
+العامة،	O
+
+تحويل	O
+بندر	B-PER
+بن	I-PER
+سلطان	I-PER
+بن	I-PER
+عبد	I-PER
+العزيز	I-PER
+آل	I-PER
+سعود	I-PER
+
+تحويل	O
+أب	B-LOC
+سردان	I-LOC
+السفلی	I-LOC
+جوکار	I-LOC
+(	I-LOC
+مارغون	I-LOC
+)	I-LOC
+
+تحويل	O
+رايغيت	B-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG

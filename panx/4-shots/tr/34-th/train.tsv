@@ -1,0 +1,103 @@
+Şehzadesi	O
+olmadığı	O
+için	O
+hiçbir	O
+zaman	O
+o	O
+dönemki	O
+Hürrem	B-PER
+Sultan	I-PER
+gibi	O
+bir	O
+Haseki	B-ORG
+Sultan	I-ORG
+olamadı	O
+.	O
+
+YÖNLENDİR	O
+Ayşe	B-PER
+Olcay	I-PER
+Tiryaki	I-PER
+
+Pang	B-PER
+Qing	I-PER
+/	O
+Tong	B-PER
+Jian	I-PER
+
+'	O
+''	O
+Beşinci	B-PER
+hakem	I-PER
+:	O
+'	O
+''	O
+
+YÖNLENDİRME	O
+Kraliyet	B-ORG
+Coğrafya	I-ORG
+Topluluğu	I-ORG
+
+Methone	B-LOC
+,	O
+küçük	O
+liman	O
+ve	O
+kumsal	O
+
+'	O
+''	O
+Makedonya	B-LOC
+Cumhuriyeti	I-LOC
+''	O
+'	O
+,	O
+İsveç'in	B-LOC
+başkenti	O
+Stockholm'da	B-LOC
+yapılacak	O
+'	O
+''	O
+2016	B-ORG
+Eurovision	I-ORG
+Şarkı	I-ORG
+Yarışması	I-ORG
+''	O
+''na	O
+katılımını	O
+onaylamıştır	O
+.	O
+
+YÖNLENDİRME	O
+Birleşik	B-LOC
+Devletler'in	I-LOC
+Batı	I-LOC
+Kıyıları	I-LOC
+
+Severn	B-LOC
+Nehrinin	I-LOC
+doğudan	O
+aldığı	O
+kollarından	O
+biridir	O
+.	O
+
+'	O
+''	O
+Elazığspor	B-ORG
+''	O
+'	O
+
+Müslüman	B-ORG
+-	I-ORG
+Türk	I-ORG
+katliamları	I-ORG
+
+Sarı	B-LOC
+kaşlı	I-LOC
+çıvgın	I-LOC
+(	O
+''Phylloscopus	O
+inornatus	O
+''	O
+)	O

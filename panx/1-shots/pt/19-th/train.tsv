@@ -1,0 +1,34 @@
+Federação	B-ORG
+Internacional	I-ORG
+de	I-ORG
+Ginástica	I-ORG
+
+Faz	O
+fronteira	O
+com	O
+Ca	B-LOC
+'	I-LOC
+d'Andrea	I-LOC
+,	O
+Cingia	B-LOC
+de	I-LOC
+'	I-LOC
+Botti	I-LOC
+,	O
+Scandolara	B-LOC
+Ravara	I-LOC
+,	O
+Solarolo	B-LOC
+Rainerio	I-LOC
+,	O
+Voltido	B-LOC
+.	O
+
+Aldous	B-PER
+Huxley	I-PER
+publica	O
+''The	O
+Perennia	O
+Philosophy	O
+''	O
+.	O

@@ -1,0 +1,105 @@
+2.	B-ORG
+Manuel	I-ORG
+Valls	I-ORG
+Hükümeti'ini	I-ORG
+fazla	O
+sağda	O
+bularak	O
+hükümette	O
+yer	O
+almayı	O
+reddetmiştir	O
+.	O
+
+Çerkes	B-PER
+Mehmed	I-PER
+Ali	I-PER
+Paşa	I-PER
+
+YÖNLENDİRME	O
+Beylikköprü	B-LOC
+,	I-LOC
+Polatlı	I-LOC
+
+YÖNLENDİRME	O
+Ernest	B-PER
+William	I-PER
+Brown	I-PER
+
+Pakistan'da	B-LOC
+ileri	O
+derecede	O
+eğitim	O
+almış	O
+,	O
+bazılarının	O
+ailesinden	O
+de	O
+olduğu	O
+bir	O
+grupla	O
+birlikte	O
+çalıştı	O
+.	O
+
+YÖNLENDİR	O
+You	B-ORG
+'re	I-ORG
+Beautiful	I-ORG
+
+YÖNLENDİRME	O
+Die	B-ORG
+Another	I-ORG
+Day	I-ORG
+(	I-ORG
+şarkı	I-ORG
+)	I-ORG
+
+Geminin	O
+ünü	O
+James	B-PER
+Cook'un	I-PER
+Avustralya'yı	B-LOC
+keşfettiği	O
+ilk	O
+seyahatinde	O
+komuta	O
+ettiği	O
+araç	O
+olmasından	O
+kaynaklanmaktadır	O
+.	O
+
+'	O
+''	O
+SC	B-ORG
+Paderborn	I-ORG
+07	I-ORG
+''	O
+'	O
+
+YÖNLENDİR	O
+Hillsboro	B-LOC
+,	I-LOC
+Teksas	I-LOC
+
+;	O
+Hou	B-LOC
+Tang	I-LOC
+(	O
+923-937	O
+)	O
+
+Erzurum	B-LOC
+alt	I-LOC
+bölgesi	I-LOC
+(	O
+TRA1	O
+)	O
+
+'	O
+''	O
+Venus	B-PER
+Williams	I-PER
+''	O
+'	O

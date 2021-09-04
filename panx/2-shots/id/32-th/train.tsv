@@ -1,0 +1,42 @@
+ALIH	O
+Hotel	B-ORG
+Savoy	I-ORG
+Homann	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Savoie	I-LOC
+
+Bersama-sama	O
+dengan	O
+Abdurrahman	B-PER
+Wahid	I-PER
+,	O
+Gedong	B-PER
+Bagus	I-PER
+Oka	I-PER
+,	O
+dll	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Finistère	I-LOC
+
+''	O
+2	B-ORG
+Broke	I-ORG
+Girls	I-ORG
+''	O
+(	O
+2011–present	O
+)	O
+
+ALIH	O
+Rehmat	B-PER
+Aziz	I-PER
+Chitrali	I-PER

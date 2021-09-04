@@ -1,0 +1,19 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+چا	B-PER
+سئونگ	I-PER
+وون	I-PER
+,	O
+گو	B-PER
+آرا	I-PER
+
+تغییرمسیر	O
+کازن	B-LOC
+آیلند،	I-LOC
+مین	I-LOC

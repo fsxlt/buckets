@@ -1,0 +1,18 @@
+Hilagang	B-LOC
+Kapuluang	I-LOC
+Mariana	I-LOC
+
+Louis	B-PER
+VII	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+Pangulo	B-ORG
+ng	I-ORG
+Pransiya	I-ORG
+
+'	O
+''	O
+Hokkaidō	B-LOC
+''	O
+'	O

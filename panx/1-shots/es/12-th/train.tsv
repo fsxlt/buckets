@@ -1,0 +1,17 @@
+'	O
+''	O
+Frank	B-PER
+Sedgman	I-PER
+''	O
+'	O
+
+North	B-LOC
+East	I-LOC
+(	I-LOC
+Maryland	I-LOC
+)	I-LOC
+
+Estación	B-ORG
+de	I-ORG
+San	I-ORG
+Inazio	I-ORG

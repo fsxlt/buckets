@@ -1,0 +1,20 @@
+'	O
+''	O
+Guillermina	B-PER
+de	I-PER
+Hesse-Kassel	I-PER
+''	O
+'	O
+
+Condado	B-LOC
+de	I-LOC
+Montgomery	I-LOC
+(	O
+este	O
+)	O
+
+Instituto	B-ORG
+de	I-ORG
+Astrofísica	I-ORG
+de	I-ORG
+Andalucía	I-ORG

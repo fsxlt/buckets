@@ -1,0 +1,45 @@
+Church	B-ORG
+Missionary	I-ORG
+Society	I-ORG
+(	I-ORG
+CMS	I-ORG
+)	I-ORG
+
+Rio	B-LOC
+de	I-LOC
+la	I-LOC
+Plata	I-LOC
+
+``	O
+I	B-ORG
+Ca	I-ORG
+n't	I-ORG
+Live	I-ORG
+Without	I-ORG
+My	I-ORG
+Radio	I-ORG
+''	O
+
+Alimfuata	O
+Papa	B-PER
+Leo	I-PER
+VIII	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Benedikto	I-PER
+VI	I-PER
+.	O
+
+Interlaken	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Jean	B-PER
+Smart	I-PER
+kama	O
+First	B-PER
+Lady	I-PER
+Martha	I-PER
+Logan	I-PER

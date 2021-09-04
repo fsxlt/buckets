@@ -1,0 +1,20 @@
+تغییرمسیر	O
+محمدآباد	B-LOC
+سفلی	I-LOC
+(	I-LOC
+عنبرآباد	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+دانشگاه	B-ORG
+تگزاس	I-ORG
+در	I-ORG
+سن	I-ORG
+آنتونیو	I-ORG
+
+تغییرمسیر	O
+کریس	B-PER
+بارنز	I-PER
+(	I-PER
+نوازنده	I-PER
+)	I-PER

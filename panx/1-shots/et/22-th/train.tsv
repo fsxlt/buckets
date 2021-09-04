@@ -1,0 +1,34 @@
+``	O
+A	B-ORG
+Thousand	I-ORG
+Suns	I-ORG
+''	O
+
+suuna	O
+Otto	B-PER
+Wille	I-PER
+Kuusinen	I-PER
+
+14-aastane	O
+Till	O
+oli	O
+pärit	O
+Chicagost	B-LOC
+,	O
+kuid	O
+oli	O
+külas	O
+oma	O
+Mississippi	B-LOC
+osariigis	O
+elavatel	O
+sugulastel	O
+.	O
+
+'	O
+''	O
+Kongo	B-LOC
+Demokraatlik	I-LOC
+Vabariik	I-LOC
+''	O
+'	O

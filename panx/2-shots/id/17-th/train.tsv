@@ -1,0 +1,41 @@
+ALIH	O
+Federasi	B-LOC
+Sepak	I-LOC
+Bola	I-LOC
+Burkina	I-LOC
+Faso	I-LOC
+
+ALIH	O
+Prinsip	B-ORG
+ketidakpastian	I-ORG
+Heisenberg	I-ORG
+
+Ia	O
+dimakamkan	O
+di	O
+Basilika	B-ORG
+Santa	I-ORG
+Maria	I-ORG
+Maggiore	I-ORG
+.	O
+
+'	O
+''	O
+Mika	B-PER
+Salo	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Dordogne	I-LOC
+
+'	O
+''	O
+-	O
+Vania	B-PER
+Larissa	I-PER
+''	O
+'	O

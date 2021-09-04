@@ -1,0 +1,36 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gironde	I-LOC
+
+Universiti	B-ORG
+Teknologi	I-ORG
+Kreatif	I-ORG
+Limkokwing	I-ORG
+
+Pertubuhan	B-ORG
+Meteorologi	I-ORG
+Sedunia	I-ORG
+(	O
+WMO	O
+)	O
+
+'	O
+''	O
+Kamui	B-PER
+Kobayashi	I-PER
+''	O
+'	O
+
+Jepun	B-LOC
+(	O
+Waktu	B-LOC
+Piawai	I-LOC
+Jepun	I-LOC
+)	O
+
+Lee	B-PER
+Kyung-won	I-PER
+/	O
+Lee	B-PER
+Hyo-jung	I-PER

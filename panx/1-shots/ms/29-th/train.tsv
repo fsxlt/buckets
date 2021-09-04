@@ -1,0 +1,19 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Drôme	I-LOC
+
+'	O
+''	O
+Nico	B-PER
+Rosberg	I-PER
+''	O
+'	O
+
+Siri	O
+ini	O
+dihasilkan	O
+oleh	O
+Mattel	B-ORG
+Entertainment	I-ORG
+.	O

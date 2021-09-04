@@ -1,0 +1,72 @@
+दक्षिण	B-ORG
+एशियाई	I-ORG
+क्षेत्रीय	I-ORG
+सहयोग	I-ORG
+संगठन	I-ORG
+
+जनता	B-ORG
+दल	I-ORG
+(	I-ORG
+यूनाइटेड	I-ORG
+)	I-ORG
+
+दीना	B-PER
+पाठक	I-PER
+-	O
+बुआ	O
+
+अनुप्रेषित	O
+मालदा	B-LOC
+उत्तर	I-LOC
+लोक	I-LOC
+सभा	I-LOC
+निर्वाचन	I-LOC
+क्षेत्र	I-LOC
+
+मध्य	B-LOC
+प्रदेश	I-LOC
+और	O
+छत्तीसगढ़	B-LOC
+
+अमोल	B-PER
+पालेकर	I-PER
+,	O
+दीना	B-PER
+पाठक	I-PER
+
+ला	B-ORG
+असंकशन	I-ORG
+का	I-ORG
+गिरजाघर	I-ORG
+,	I-ORG
+(	I-ORG
+अल्बासेते	I-ORG
+)	I-ORG
+
+चर्च	B-ORG
+ऑफ	I-ORG
+सेंट	I-ORG
+थॉमस	I-ORG
+द	I-ORG
+मार्टर	I-ORG
+
+हिमाचल	B-LOC
+प्रदेश	I-LOC
+-	O
+यशवंत	B-PER
+सिंह	I-PER
+परमार	I-PER
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+दयानन्द	B-PER
+शेट्टी	I-PER
+वरिष्ठ	O
+निरीक्षक	O
+दया	O
+(	O
+१९९८-वर्तमान	O
+)	O

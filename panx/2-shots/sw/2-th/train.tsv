@@ -1,0 +1,37 @@
+Eneo	O
+lake	O
+ni	O
+68	O
+km²	B-ORG
+.	O
+
+Jangwa	B-LOC
+la	I-LOC
+Namib	I-LOC
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Ghana	I-ORG
+
+Leopold	B-PER
+II	I-PER
+wa	I-PER
+Ubelgiji	I-PER
+
+Elizabeti	B-PER
+(	I-PER
+Injili	I-PER
+)	I-PER
+
+Wilaya	B-ORG
+ya	I-ORG
+Sinématiali	I-ORG
+
+Kisini	B-LOC
+ziwa	I-LOC
+lekundu	I-LOC
+(	O
+Debubawi-Keih-Bahri	O
+)	O

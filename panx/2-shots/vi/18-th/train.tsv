@@ -1,0 +1,38 @@
+Raúl	B-PER
+''	O
+(	O
+Schalke	B-ORG
+04	I-ORG
+)	O
+''	O
+
+Tokugawa	B-PER
+Iesada	I-PER
+(	O
+家祥→家定	O
+)	O
+
+Datsakorn	B-PER
+Thonglao	I-PER
+(	O
+Hoàng	B-ORG
+Anh	I-ORG
+Gia	I-ORG
+Lai	I-ORG
+)	O
+
+Phần	O
+lớn	O
+sự	O
+trợ	O
+giúp	O
+đến	O
+từ	O
+Hoa	B-LOC
+Kỳ	I-LOC
+.	O
+
+Vương	B-LOC
+quốc	I-LOC
+Viêng	I-LOC
+Chăn	I-LOC

@@ -1,0 +1,34 @@
+ALIH	O
+I	B-ORG
+Am	I-ORG
+...	I-ORG
+Sasha	I-ORG
+Fierce	I-ORG
+
+Charles	B-PER
+Darwin	I-PER
+(	O
+1809-1882	O
+)	O
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Vienne	I-LOC
+
+ALIH	O
+Museum	B-ORG
+Prabu	I-ORG
+Geusan	I-ORG
+Ulun	I-ORG
+
+ALIH	O
+Daftar	B-PER
+Raja	I-PER
+Samoa	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Somme	I-LOC

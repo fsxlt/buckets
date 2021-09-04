@@ -1,0 +1,41 @@
+Helen	B-ORG
+Wheels	I-ORG
+''	O
+3:47	O
+(	O
+Singolo	O
+)	O
+
+Sărulești	B-LOC
+(	I-LOC
+Buzău	I-LOC
+)	I-LOC
+
+Saint	B-LOC
+Vincent	I-LOC
+e	I-LOC
+Grenadine	I-LOC
+;	O
+
+Partito	B-ORG
+Repubblicano	I-ORG
+Italiano	I-ORG
+(	O
+PRI	O
+)	O
+
+Kevin	B-PER
+Kim	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+Marco	B-PER
+Chiudinelli	I-PER
+''	O
+(	O
+secondo	O
+turno	O
+)	O

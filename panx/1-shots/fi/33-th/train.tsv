@@ -1,0 +1,35 @@
+Hän	O
+on	O
+pelannut	O
+myös	O
+kaksissa	O
+nuorten	B-ORG
+maailmanmestaruuskilpailuissa	I-ORG
+,	O
+2002	B-LOC
+ja	O
+2003	B-LOC
+.	O
+
+Provinssin	O
+naapureita	O
+ovat	O
+pohjoisessa	O
+Camarines	B-LOC
+Sur	I-LOC
+ja	O
+etelässä	O
+Sorsogon	B-LOC
+.	O
+
+Näitä	O
+vastaan	O
+taistellessaan	O
+hän	O
+joutui	O
+turvautumaan	O
+Bertrand	B-PER
+du	I-PER
+Guesclinin	I-PER
+apuun	O
+.	O

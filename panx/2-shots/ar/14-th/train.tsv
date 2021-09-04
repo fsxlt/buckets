@@ -1,0 +1,42 @@
+تحويل	O
+كلنا	B-ORG
+سوا	I-ORG
+(	I-ORG
+فرقة	I-ORG
+)	I-ORG
+
+ابن	B-PER
+دريد	I-PER
+في	O
+اختصاص	O
+النحو	O
+والأدب	O
+.	O
+
+تحويل	O
+نيو	B-LOC
+هولاكا	I-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+تحويل	O
+طرف	B-LOC
+علوي	I-LOC
+لعظم	I-LOC
+العضد	I-LOC
+
+حلّ	O
+الموناكي	O
+لويس	B-PER
+تشيرون	I-PER
+أولا	O
+.	O
+
+تحويل	O
+الاتحاد	B-ORG
+الدولي	I-ORG
+لتاريخ	I-ORG
+وإحصاءات	I-ORG
+كرة	I-ORG
+القدم	I-ORG

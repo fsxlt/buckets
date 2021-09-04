@@ -1,0 +1,94 @@
+Condado	B-LOC
+de	I-LOC
+Wilson	I-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+
+Ginástica	B-ORG
+rítmica	I-ORG
+nos	I-ORG
+Jogos	I-ORG
+Olímpicos	I-ORG
+de	I-ORG
+Verão	I-ORG
+de	I-ORG
+2008	I-ORG
+-	I-ORG
+Individual	I-ORG
+geral	I-ORG
+
+Nele	O
+está	O
+localizado	O
+o	O
+Pico	B-LOC
+das	I-LOC
+Agulhas	I-LOC
+Negras	I-LOC
+.	O
+
+Redirecionamento	O
+Angelo	B-PER
+Esmael	I-PER
+da	I-PER
+Costa	I-PER
+Júnior	I-PER
+
+REDIRECIONAMENTO	O
+The	B-ORG
+One	I-ORG
+(	I-ORG
+álbum	I-ORG
+de	I-ORG
+Michael	I-ORG
+Jackson	I-ORG
+)	I-ORG
+
+*2006	O
+-	O
+''Mindscan	O
+''	O
+,	O
+Robert	B-PER
+J.	I-PER
+Sawyer	I-PER
+
+'	O
+''	O
+New	B-ORG
+York	I-ORG
+Rangers	I-ORG
+''	O
+'	O
+
+Game	B-PER
+of	I-PER
+Thrones	I-PER
+
+REDIRECIONAMENTO	O
+CSKA	B-ORG
+de	I-ORG
+Moscovo	I-ORG
+
+Mehmet	B-PER
+Ali	I-PER
+Şahin	I-PER
+
+(	O
+Syndicat	B-LOC
+National	I-LOC
+de	I-LOC
+l'Édition	I-LOC
+Phonographique	I-LOC
+)	O
+
+Puerto	B-LOC
+del	I-LOC
+Rosario	I-LOC
+
+Kiss	B-ORG
+Symphony	I-ORG
+:	I-ORG
+Alive	I-ORG
+IV	I-ORG

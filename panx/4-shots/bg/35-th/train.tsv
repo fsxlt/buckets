@@ -1,0 +1,105 @@
+Елена	B-PER
+Веснина	I-PER
+Кики	B-PER
+Бертенс	I-PER
+Кирстен	B-PER
+Флипкенс	I-PER
+Йохана	B-PER
+Ларсон	I-PER
+
+Луций	B-PER
+Постумий	I-PER
+Албин	I-PER
+(	I-PER
+консул	I-PER
+154	I-PER
+пр.н.е	I-PER
+.	I-PER
+)	I-PER
+
+''	O
+Нидерландски	B-LOC
+Антили	I-LOC
+''	O
+'	O
+
+ПФК	B-ORG
+Пирин	I-ORG
+(	I-ORG
+Гоце	I-ORG
+Делчев	I-ORG
+)	I-ORG
+
+пренасочване	O
+Квалификации	B-ORG
+за	I-ORG
+Световното	I-ORG
+първенство	I-ORG
+по	I-ORG
+футбол	I-ORG
+2014	I-ORG
+(	I-ORG
+зона	I-ORG
+Южна	I-ORG
+Америка	I-ORG
+)	I-ORG
+
+Рижки	B-LOC
+залив	I-LOC
+,	O
+Балтийско	B-LOC
+море	I-LOC
+
+'	O
+''	O
+Маги	B-PER
+Джилънхол	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Производител	O
+''	O
+'	O
+North	B-ORG
+American	I-ORG
+Aviation	I-ORG
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Замбия	B-LOC
+,	O
+Малави	B-LOC
+,	O
+Мозамбик	B-LOC
+и	O
+Танзания	B-LOC
+.	O
+
+'	O
+''	O
+Хайме	B-PER
+Алгерсуари	I-PER
+''	O
+'	O
+
+**	O
+Сан	B-LOC
+Франциско	I-LOC
+(	O
+генерално	O
+консулство	O
+)	O
+
+Чехословашка	B-ORG
+социалистическа	I-ORG
+република	I-ORG
+
+виж	O
+Оуайхи	B-LOC
+(	I-LOC
+окръг	I-LOC
+)	I-LOC

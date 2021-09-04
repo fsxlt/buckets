@@ -1,0 +1,83 @@
+66	O
+6-	O
+Nam	B-LOC
+Dakota	I-LOC
+
+''	O
+Bulbophyllum	B-LOC
+gobiense	I-LOC
+''	O
+Schltr	O
+.	O
+
+My	B-ORG
+Beautiful	I-ORG
+Dark	I-ORG
+Twisted	I-ORG
+Fantasy	I-ORG
+''	O
+
+Kanye	B-PER
+West	I-PER
+và	O
+Jamie	B-PER
+Foxx	I-PER
+
+đổi	O
+Quảng	B-ORG
+trường	I-ORG
+Liệt	I-ORG
+Sĩ	I-ORG
+,	I-ORG
+Tripoli	I-ORG
+
+Kẻ	O
+hủy	O
+diệt	O
+(	O
+Arnold	B-PER
+Schwarzenegger	I-PER
+)	O
+
+đổi	O
+Tấn	B-PER
+Hiếu	I-PER
+hầu	I-PER
+
+``	O
+Rolling	B-ORG
+in	I-ORG
+the	I-ORG
+Deep	I-ORG
+''	O
+
+ĐỔI	O
+Giáo	B-PER
+hoàng	I-PER
+Innôcentê	I-PER
+IV	I-PER
+
+2005	B-ORG
+-	O
+Bán	O
+kết	O
+
+đổi	O
+Siêu	B-ORG
+cúp	I-ORG
+Anh	I-ORG
+2012	I-ORG
+
+Sóc	B-LOC
+đỏ	I-LOC
+Bắc	I-LOC
+Amazon	I-LOC
+,	O
+Sciurus	B-LOC
+igniventris	I-LOC
+''	O
+
+Hùng	B-LOC
+(	I-LOC
+huyện	I-LOC
+)	I-LOC

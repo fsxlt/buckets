@@ -1,0 +1,114 @@
+Alle	O
+albums	O
+zijn	O
+geschreven	O
+en	O
+getekend	O
+door	O
+Daniel	B-PER
+Henrotin	I-PER
+.	O
+
+Hij	O
+overleed	O
+op	O
+75-jarige	O
+leeftijd	O
+in	O
+Los	B-LOC
+Angeles	I-LOC
+in	O
+de	O
+VS	B-LOC
+.	O
+
+'	O
+''	O
+Patrick	B-PER
+Tambay	I-PER
+''	O
+'	O
+
+Later	O
+verhuisde	O
+ze	O
+naar	O
+de	O
+Verenigde	B-LOC
+Staten	I-LOC
+.	O
+
+Taufkirchen	B-LOC
+(	I-LOC
+Vils	I-LOC
+)	I-LOC
+
+Me	B-ORG
+and	I-ORG
+My	I-ORG
+Guitar	I-ORG
+''	O
+
+''	O
+Ride	B-ORG
+the	I-ORG
+Wild	I-ORG
+Wind	I-ORG
+''	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+Europa	B-LOC
+.	O
+
+De	O
+niet-erfelijke	O
+prinsentitel	O
+is	O
+tenslotte	O
+ook	O
+verleend	O
+aan	O
+de	O
+kinderen	O
+van	O
+prinses	B-PER
+Margriet	I-PER
+.	O
+
+Voor	O
+die	O
+tijd	O
+was	O
+ze	O
+secretaresse	O
+van	O
+de	O
+hoofdredacteur	O
+van	O
+De	B-ORG
+Telegraaf	I-ORG
+''	O
+.	O
+
+Hostafrancs	B-ORG
+(	I-ORG
+metrostation	I-ORG
+)	I-ORG
+
+Mikulovice	B-LOC
+(	I-LOC
+okres	I-LOC
+Třebíč	I-LOC
+)	I-LOC
+
+Commellin	O
+werd	O
+opgevolgd	O
+door	O
+Johannes	B-PER
+Burman	I-PER
+.	O

@@ -1,0 +1,36 @@
+Surinam	B-LOC
+(	I-LOC
+mto	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Australia	B-LOC
+''	O
+'	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Katiola	I-ORG
+
+Alifuatwa	O
+na	O
+Mohamed	B-PER
+Boudiaf	I-PER
+.	O
+
+Cecil	B-PER
+of	I-PER
+Chelwood	I-PER
+
+Wilaya	B-LOC
+ya	I-LOC
+Mwingi	I-LOC
+(	O
+Mwingi	B-LOC
+)	O
+==	O
+
+Kanisa	B-ORG
+la	I-ORG
+Moravian	I-ORG

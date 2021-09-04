@@ -1,0 +1,117 @@
+YÖNLENDİR	O
+Eurovision	B-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+Bulgaristan	I-LOC
+
+Eugen	B-PER
+Polanski	I-PER
+–	O
+Getafe	B-ORG
+CF	I-ORG
+–	O
+2008-10	O
+
+Alisa	B-PER
+Agafonova	I-PER
+/	O
+Alper	B-PER
+Uçar	I-PER
+
+Ólafur	B-PER
+Ingi	I-PER
+Skúlason	I-PER
+(	O
+1	O
+)	O
+
+Alman	B-ORG
+Ordusu	I-ORG
+,	O
+Bulgaristan'a	B-LOC
+girmeye	O
+başladıktan	O
+hemen	O
+sonra	O
+Adolf	B-PER
+Hitler	I-PER
+Cumhurbaşkanı	O
+İsmet	B-PER
+İnönü'ye	I-PER
+bir	O
+mektup	O
+göndererek	O
+Almanya'nın	B-LOC
+,	O
+Türkiye'yle	B-LOC
+savaşmak	O
+amacında	O
+olmadığını	O
+vurguladı	O
+ve	O
+iki	O
+ülkenin	O
+karşılıklı	O
+çıkarları	O
+doğrultusunda	O
+işbirliği	O
+yapılmasını	O
+istedi	O
+.	O
+
+YÖNLENDİRME	O
+Gözüküçüklü	B-LOC
+,	I-LOC
+Alanya	I-LOC
+
+İdari	O
+olarak	O
+,	O
+eyaletin	O
+Darab	B-LOC
+şehristanı'na	I-LOC
+bağlıdır	O
+ve	O
+buranın	O
+yönetim	O
+merkezidir	O
+.	O
+
+Makedonya]]	O
+,	O
+Sırbistan	B-LOC
+''	O
+,	O
+Karadağ	B-LOC
+,	O
+Romanya	B-LOC
+''	O
+
+YÖNLENDİRME	O
+Boğaköy	B-LOC
+,	I-LOC
+Vezirköprü	I-LOC
+
+Ancak	O
+bu	O
+rekor	O
+kısa	O
+bir	O
+süre	O
+sonra	O
+Kesha	B-PER
+tarafından	O
+``	O
+Tik	B-ORG
+Tok	I-ORG
+''	O
+şarkısıyla	O
+kırıldı	O
+.	O
+
+YÖNLENDİR	O
+Hong	B-ORG
+Kong	I-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı	I-ORG

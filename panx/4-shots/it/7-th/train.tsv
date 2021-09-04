@@ -1,0 +1,98 @@
+RINVIA	O
+Tasso	B-LOC
+(	I-LOC
+Francia	I-LOC
+)	I-LOC
+
+I	B-ORG
+Do	I-ORG
+n't	I-ORG
+Like	I-ORG
+the	I-ORG
+Drugs	I-ORG
+(	I-ORG
+But	I-ORG
+the	I-ORG
+Drugs	I-ORG
+Like	I-ORG
+Me	I-ORG
+)	I-ORG
+''	O
+
+Scorre	O
+verso	O
+il	O
+Mar	B-LOC
+Mediterraneo	I-LOC
+a	O
+
+Italia	B-ORG
+ai	I-ORG
+Giochi	I-ORG
+della	I-ORG
+VII	I-ORG
+Olimpiade	I-ORG
+
+'	O
+''	O
+Vera	B-PER
+Duševina	I-PER
+(	O
+qualificata	O
+)	O
+
+Durante	O
+la	O
+Resistenza	B-ORG
+aderì	O
+alla	O
+Democrazia	B-ORG
+Cristiana	I-ORG
+.	O
+
+'	O
+''	O
+Claudio	B-PER
+Fava	I-PER
+'	O
+''	O
+
+John	B-PER
+Lloyd	I-PER
+''	O
+(	O
+secondo	O
+turno	O
+)	O
+
+``	O
+Niggas	B-ORG
+in	I-ORG
+Paris	I-ORG
+''	O
+
+Sunne	B-LOC
+(	I-LOC
+comune	I-LOC
+)	I-LOC
+
+2014-2015	B-ORG
+-	O
+5°	O
+in	O
+Premier	B-LOC
+League	I-LOC
+.	O
+
+52	O
+Slim	B-PER
+Bob	I-PER
+(	O
+personaggio	O
+bonus	O
+)	O
+
+Savigliano	B-LOC
+(	O
+CN	B-LOC
+)	O

@@ -1,0 +1,39 @@
+رجوع_مکرر	O
+سیڈر	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+رجوع_مکرر	O
+ویٹفیلڈ	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+کلنٹن	I-LOC
+کاؤنٹی،	I-LOC
+الینوائے	I-LOC
+
+رجوع_مکرر	O
+فضل	B-PER
+الرحمٰن	I-PER
+(	I-PER
+پاکستانی	I-PER
+سیاست	I-PER
+دان	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+کولاب	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+گیبریئل	B-PER
+گارسیا	I-PER
+مارکیز	I-PER
+
+رجوع_مکرر	O
+سانتا	B-ORG
+ماریا	I-ORG
+گرجاگھر	I-ORG
+(	I-ORG
+لگاس	I-ORG
+)	I-ORG

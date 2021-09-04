@@ -1,0 +1,108 @@
+YÖNLENDİRME	O
+2010-11	B-LOC
+1.	I-LOC
+Lig	I-LOC
+
+O	O
+kupayı	O
+kürsüde	O
+kaldıran	O
+ise	O
+bir	O
+başka	O
+Juventuslu	O
+Didier	B-PER
+Deschamps'dı	I-PER
+.	O
+
+''	O
+Rascal	B-ORG
+Flatts	I-ORG
+''	O
+'	O
+
+James	B-PER
+Franklin	I-PER
+Jeffrey	I-PER
+(	O
+2008–2010	O
+)	O
+
+Emmanuel	B-PER
+Chabrier	I-PER
+(	O
+1841–1894	O
+)	O
+
+Balkanlar’da	B-LOC
+Kumanlarla	I-LOC
+ilgili	I-LOC
+şehir	I-LOC
+:	I-LOC
+Kumanova	I-LOC
+
+Batısında	O
+Kobuksar	B-LOC
+Moğol	I-LOC
+Özerk	I-LOC
+İlçesi	I-LOC
+,	O
+Jeminay	B-LOC
+İlçesi	I-LOC
+ve	O
+Altay	B-LOC
+şehri	O
+,	O
+tekrar	O
+kuzeyinde	O
+Altay	B-LOC
+şehri	O
+ve	O
+Moğolistan	B-LOC
+,	O
+doğusunda	O
+Koktokay	B-LOC
+İlçesi	I-LOC
+,	O
+güneyinde	O
+Sanci	B-LOC
+şehri	O
+,	O
+Fukang	B-LOC
+şehri	O
+ile	O
+sınırdır	O
+.	O
+
+Estádio	B-ORG
+das	I-ORG
+Antas	I-ORG
+,	O
+Porto	B-LOC
+
+Halkların	B-ORG
+Demokratik	I-ORG
+Partisi	I-ORG
+milletvekili	O
+çıkartamamıştır	O
+.	O
+
+YÖNLENDİRME	O
+Eurovision	B-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+İsrail	I-LOC
+
+Rodrigo	B-PER
+Santoro	I-PER
+,	O
+İsa	B-PER
+
+Yazımını	O
+ve	O
+yapımcılığını	O
+Stock	B-ORG
+Aitken	I-ORG
+Waterman	I-ORG
+üstlendi	O
+.	O

@@ -1,0 +1,99 @@
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO229876	O
+
+تحويل	O
+بدر	B-PER
+شاكر	I-PER
+السياب	I-PER
+
+سلوان	B-ORG
+سكوير	I-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+كارلوس	B-PER
+بيريث	I-PER
+ريال	I-PER
+
+تعلم	O
+في	O
+جامعة	B-ORG
+ولاية	I-ORG
+كارولينا	I-ORG
+الشمالية	I-ORG
+في	I-ORG
+تشابل	I-ORG
+هيل	I-ORG
+.	O
+
+و	O
+قد	O
+لعب	O
+مع	O
+منتخب	B-ORG
+العراق	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+تشتت	B-LOC
+(	I-LOC
+بصريات	I-LOC
+)	I-LOC
+
+و	O
+يسجل	O
+له	O
+أيضا	O
+طلبه	O
+من	O
+الوالي	O
+أحمد	B-PER
+باشا	I-PER
+القره	I-PER
+مانلي	I-PER
+رفع	O
+الضرائب	O
+عن	O
+طلاب	O
+العلم	O
+فرفعت	O
+.	O
+
+تحويل	O
+نيوكاستل	B-LOC
+(	I-LOC
+مين	I-LOC
+)	I-LOC
+
+تحويل	O
+هرمز	B-PER
+بن	I-PER
+يزدجرد	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+مونرو	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+ينتشر	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+.	O

@@ -1,0 +1,44 @@
+교육기관은	O
+'	O
+''	O
+시온기독교선교센터	B-LOC
+''	O
+'이다	O
+.	O
+
+솔로몬	B-LOC
+제도의	I-LOC
+행정	I-LOC
+구역	I-LOC
+
+넘겨주기	O
+위즈	B-ORG
+(	I-ORG
+드라마	I-ORG
+)	I-ORG
+
+로버트	B-PER
+드	I-PER
+니로	I-PER
+-	O
+알	B-PER
+카포네	I-PER
+
+시체들의	B-ORG
+새벽	I-ORG
+-	O
+스님좀비	O
+
+**	O
+'	O
+''	O
+산인	B-LOC
+지방	I-LOC
+''	O
+'	O
+
+넘겨주기	O
+찬성	B-PER
+(	I-PER
+가수	I-PER
+)	I-PER

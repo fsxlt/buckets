@@ -1,0 +1,44 @@
+Chunk	B-ORG
+!	I-ORG
+No	I-ORG
+,	I-ORG
+Captain	I-ORG
+Chunk	B-ORG
+!	I-ORG
+
+Joseph	B-PER
+Wattmann	I-PER
+von	I-PER
+Maëlcamp-Beaulieu	I-PER
+
+Dann	O
+wurde	O
+die	O
+Hauptstadt	O
+nach	O
+Little	B-LOC
+Rock	I-LOC
+verlegt	O
+.	O
+
+'	O
+''	O
+Iberien	B-LOC
+(	I-LOC
+Kartlien	I-LOC
+)	I-LOC
+''	O
+'	O
+
+WEITERLEITUNG	O
+Jean-Baptiste	B-ORG
+Louvet	I-ORG
+de	I-ORG
+Couvray	I-ORG
+
+'	O
+''	O
+Pi	B-PER
+Hongyan	I-PER
+''	O
+'	O

@@ -1,0 +1,44 @@
+REDIRECIONAMENTO	O
+Alexandre	B-PER
+de	I-PER
+Hesse	I-PER
+e	I-PER
+Reno	I-PER
+
+A	O
+revista	O
+Time	B-ORG
+''	O
+afirmou	O
+que	O
+o	O
+filme	O
+``	O
+faz	O
+a	O
+leitura	O
+parecer	O
+,	O
+como	O
+hábito	O
+,	O
+tão	O
+arriscado	O
+quanto	O
+usar	O
+uma	O
+droga	O
+''	O
+.	O
+
+Khammam	B-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+Identificação	B-ORG
+de	I-ORG
+sistemas	I-ORG
+e	O
+classificação	O
+.	O

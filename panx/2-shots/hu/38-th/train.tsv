@@ -1,0 +1,60 @@
+'	O
+''	O
+Real	B-ORG
+Valladolid	I-ORG
+CF	I-ORG
+''	O
+'	O
+
+Az	O
+egyik	O
+részben	O
+Neil	B-PER
+Youngot	I-PER
+próbálta	O
+megleckéztetni	O
+,	O
+amiért	O
+nem	O
+jött	O
+el	O
+a	O
+műsorba	O
+.	O
+
+'	O
+''	O
+Szedlacsik	B-PER
+Ferenc	I-PER
+''	O
+'	O
+
+Jeff	B-LOC
+Davis	I-LOC
+megye	I-LOC
+(	I-LOC
+Georgia	I-LOC
+)	I-LOC
+
+A	O
+Magyar	B-ORG
+Hírlap	I-ORG
+megkeresésére	O
+azonban	O
+több	O
+környékbeli	O
+vendéglő	O
+is	O
+elvállalta	O
+volna	O
+a	O
+rendezvény	O
+lebonyolítását	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Laudenbach	B-LOC
+(	I-LOC
+Rajna-Neckari	I-LOC
+járás	I-LOC
+)	I-LOC

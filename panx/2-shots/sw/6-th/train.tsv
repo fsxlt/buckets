@@ -1,0 +1,41 @@
+Mji	B-LOC
+Mpya	I-LOC
+(	I-LOC
+Morogoro	I-LOC
+)	I-LOC
+
+Uhindi	B-LOC
+(	O
+New	B-LOC
+Delhi	I-LOC
+)	O
+(	O
+AS	O
+)	O
+
+Papa	B-PER
+Pius	I-PER
+IX	I-PER
+na	O
+Mtaguso	B-ORG
+wa	I-ORG
+kwanza	I-ORG
+wa	I-ORG
+Vatikano	I-ORG
+
+Julius	B-PER
+Nyerere	I-PER
+(	O
+1922-1999	O
+)	O
+
+R	B-ORG
+U	I-ORG
+Still	I-ORG
+Down	I-ORG
+?	I-ORG
+(	I-ORG
+Remember	I-ORG
+Me	I-ORG
+)	I-ORG
+''	O

@@ -1,0 +1,81 @@
+Antonín	B-PER
+Rýgr	I-PER
+(	O
+1970–72	O
+)	O
+
+Jawor	B-LOC
+,	I-LOC
+Góra	I-LOC
+County	I-LOC
+
+Martha	B-PER
+Henry	I-PER
+(	O
+for	O
+acting	O
+)	O
+
+Long-tailed	B-LOC
+ground	I-LOC
+roller	I-LOC
+
+3RRR	B-ORG
+(	O
+Melbourne	B-ORG
+,	I-ORG
+Australia	I-ORG
+)	O
+
+SJI	B-ORG
+International	I-ORG
+School	I-ORG
+
+'	O
+''	O
+Union	B-LOC
+County	I-LOC
+:	O
+'	O
+''	O
+
+21	O
+Jeff	B-PER
+Montgomery	I-PER
+,	O
+RP	O
+
+Steve	B-PER
+Lawrence	I-PER
+(	O
+born	O
+1935	O
+)	O
+
+``	O
+At	O
+that	O
+moment	O
+,	O
+the	O
+feed	O
+from	O
+Candlestick	B-ORG
+Park	I-ORG
+was	O
+lost	O
+.	O
+
+Pact	B-LOC
+of	I-LOC
+San	I-LOC
+José	I-LOC
+de	I-LOC
+Flores	I-LOC
+
+350th	B-ORG
+Fighter	I-ORG
+Squadron	I-ORG
+(	O
+LH	O
+)	O

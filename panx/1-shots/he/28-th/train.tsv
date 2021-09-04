@@ -1,0 +1,16 @@
+הפניה	O
+ארת	B-LOC
+ענק	I-LOC
+יקינתונית	I-LOC
+
+הפניה	O
+פסגת	B-ORG
+כדור	I-ORG
+הארץ	I-ORG
+
+ויליאם	B-PER
+הנרי	I-PER
+הריסון	I-PER
+,	O
+ג'ון	B-PER
+טיילר	I-PER

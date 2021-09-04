@@ -1,0 +1,31 @@
+Neid	O
+on	O
+ka	O
+Burkina	B-LOC
+Fasos	I-LOC
+,	O
+Guinea-Bissaus	B-LOC
+,	O
+Beninis	B-LOC
+ja	O
+mujal	O
+.	O
+
+2005.	B-ORG
+aasta	I-ORG
+Euroopa	I-ORG
+meistrivõistlused	I-ORG
+korvpallis	I-ORG
+
+Alevi	O
+lähistel	O
+asub	O
+Ristimägi	B-ORG
+.	O
+
+Ta	O
+on	O
+Ave	B-PER
+Alavainu	I-PER
+tütar	O
+.	O

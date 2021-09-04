@@ -1,0 +1,49 @@
+*1967	O
+:	O
+honorary	O
+Doctor	B-ORG
+of	I-ORG
+Laws	I-ORG
+from	O
+the	O
+University	B-ORG
+of	I-ORG
+Manitoba	I-ORG
+
+The	O
+losses	O
+would	O
+cost	O
+head	O
+coach	O
+Randy	B-PER
+Shannon	I-PER
+his	O
+job	O
+.	O
+
+Dupuis	B-ORG
+,	I-ORG
+Jacques	I-ORG
+.	O
+
+Initially	O
+,	O
+the	O
+band	O
+featured	O
+BJH	O
+drummer	O
+Mel	B-PER
+Pritchard	I-PER
+.	O
+
+Jeníkov	B-LOC
+(	I-LOC
+Teplice	I-LOC
+District	I-LOC
+)	I-LOC
+
+Emirate	B-LOC
+of	I-LOC
+Tbilisi	I-LOC

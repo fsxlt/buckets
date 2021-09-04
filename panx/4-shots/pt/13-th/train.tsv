@@ -1,0 +1,83 @@
+O	O
+Rubro	B-ORG
+Social	I-ORG
+Esporte	I-ORG
+Clube	I-ORG
+foi	O
+o	O
+último	O
+colocado	O
+.	O
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+presidente	O
+Reuven	B-PER
+Rivlin	I-PER
+vota	O
+em	O
+Jerusalém	B-LOC
+
+'	O
+''	O
+Jackie	B-PER
+Stewart	I-PER
+''	O
+'	O
+
+Columbus	B-LOC
+(	I-LOC
+Ohio	I-LOC
+)	I-LOC
+
+Santa	B-LOC
+Rita	I-LOC
+(	I-LOC
+Paraguai	I-LOC
+)	I-LOC
+
+Rhapsody	B-ORG
+of	I-ORG
+Fire	I-ORG
+
+''	O
+Hieracium	O
+orthoglossum	O
+''	O
+-	O
+Biodiversity	B-ORG
+Heritage	I-ORG
+Library	I-ORG
+-	O
+Bibliografia	O
+
+Palestina	B-LOC
+(	I-LOC
+Alagoas	I-LOC
+)	I-LOC
+
+Remixed	B-ORG
+Remade	I-ORG
+Remodeled	I-ORG
+-	I-ORG
+The	I-ORG
+Remix	I-ORG
+Project	I-ORG
+''	O
+
+Tsu	B-PER
+Ch'ung	I-PER
+Chih	I-PER
+
+'	O
+''	O
+Andrea	B-PER
+Hlaváčková	I-PER
+Lucie	B-PER
+Hradecká	I-PER

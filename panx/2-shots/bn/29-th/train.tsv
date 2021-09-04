@@ -1,0 +1,33 @@
+টার্কস্‌	B-LOC
+ও	I-LOC
+কেইকোস	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+ইলিয়াস	B-PER
+সানি	I-PER
+(	O
+ঢাকা	B-ORG
+গ্ল্যাডিয়েটরস	I-ORG
+)	O
+,	O
+১৭	O
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+টটেনহ্যাম	B-ORG
+হটস্পার	I-ORG
+ফুটবল	I-ORG
+ক্লাব	I-ORG
+
+এরিক	B-PER
+ফন	I-PER
+দানিকেন	I-PER
+
+রামপুরা	B-LOC
+(	I-LOC
+নীমুচ	I-LOC
+)	I-LOC

@@ -1,0 +1,47 @@
+'	O
+''	O
+제이슨	B-PER
+므라즈	I-PER
+''	O
+'	O
+(	O
+Jason	O
+Thomas	O
+Mraz	O
+)	O
+
+넘겨주기	O
+마즈	B-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+보스크레센스키	B-LOC
+군	I-LOC
+(	O
+Воскресенский	O
+)	O
+
+의왕역	B-ORG
+,	O
+부곡지구	O
+,	O
+용호고교	O
+,	O
+산본주공3.2단지	O
+,	O
+산본역	B-ORG
+,	O
+산본래미안A	O
+,	O
+금정역	B-ORG
+,	O
+명학역	B-ORG
+,	O
+안양1번가	O
+,	O
+박달동	O
+,	O
+광명역	B-ORG
+,	O
+소하지구	O

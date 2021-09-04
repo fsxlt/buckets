@@ -1,0 +1,86 @@
+Бардо	B-PER
+,	I-PER
+Брижит	I-PER
+
+'	O
+''	O
+Гоньбинка	O
+''	O
+'	O
+—	O
+река	O
+в	O
+России	B-LOC
+,	O
+протекает	O
+в	O
+Малмыжском	B-LOC
+районе	I-LOC
+Кировской	B-LOC
+области	I-LOC
+.	O
+
+'	O
+''	O
+38	O
+2	O
+''	O
+'	O
+xx-xx-xx	O
+—	O
+Хмельницкий	B-LOC
+район	I-LOC
+
+Женская	B-ORG
+сборная	I-ORG
+России	I-ORG
+по	I-ORG
+баскетболу	I-ORG
+
+Архентинос	B-ORG
+Хуниорс	I-ORG
+(	O
+Буэнос-Айрес	B-LOC
+)	O
+
+Tony	B-ORG
+Orlando	I-ORG
+and	I-ORG
+Dawn	I-ORG
+
+Гончар	B-PER
+,	I-PER
+Сергей	I-PER
+Викторович	I-PER
+
+Кёбеле	B-PER
+,	I-PER
+Патрик	I-PER
+
+Эстрада	B-PER
+,	I-PER
+Джозеф	I-PER
+
+Подчиняется	O
+административному	B-LOC
+округу	I-LOC
+Верхний	B-LOC
+Пфальц	I-LOC
+.	O
+
+перенаправление	O
+Попытка	B-ORG
+угона	I-ORG
+Ту-134	I-ORG
+в	I-ORG
+ноябре	I-ORG
+1983	I-ORG
+года	I-ORG
+
+на	O
+севере	O
+—	O
+с	O
+общиной	B-LOC
+Македонски-Брод	I-LOC
+;	O

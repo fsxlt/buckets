@@ -1,0 +1,37 @@
+تغییر_مسیر	O
+یوزف	B-PER
+دوم،	I-PER
+امپراتور	I-PER
+مقدس	I-PER
+روم	I-PER
+
+تغییرمسیر	O
+حسینی	B-LOC
+(	I-LOC
+شاپرک	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+لعل‌آباد	B-LOC
+کل‌کل	I-LOC
+یک	I-LOC
+
+تغییر_مسیر	O
+کارل	B-PER
+لملی	I-PER
+جونیور	I-PER
+
+تغییرمسیر	O
+امپراتوری	B-ORG
+بابل	I-ORG
+نو	I-ORG
+
+``	O
+تا	B-ORG
+به	I-ORG
+اندازه	I-ORG
+کافی	I-ORG
+گیرت	I-ORG
+نیومده	I-ORG
+بس	I-ORG
+نکن	I-ORG

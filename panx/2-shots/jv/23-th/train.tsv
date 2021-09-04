@@ -1,0 +1,45 @@
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Naté	O
+lelana	O
+dhateng	O
+Amsterdam	B-LOC
+lan	O
+Paris	B-LOC
+(	O
+1950-1952	O
+)	O
+.	O
+
+Zachary	B-PER
+Taylor	I-PER
+,	O
+Millard	B-ORG
+Fillmore	I-ORG
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC

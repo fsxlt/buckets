@@ -1,0 +1,97 @@
+REDIRECIONAMENTO	O
+Killing	B-ORG
+With	I-ORG
+a	I-ORG
+Smile	I-ORG
+
+REDIRECIONAMENTO	O
+Trento	B-LOC
+(	I-LOC
+província	I-LOC
+autónoma	I-LOC
+)	I-LOC
+
+Jean	B-PER
+Dolabella	I-PER
+(	O
+Sepultura	B-ORG
+)	O
+
+Redirecionamento	O
+Partido	B-ORG
+da	I-ORG
+imprensa	I-ORG
+golpista	I-ORG
+
+20px]]	O
+Novo	B-LOC
+Hamburgo	I-LOC
+''	O
+'	O
+
+Long	B-LOC
+Island	I-LOC
+(	I-LOC
+Bahamas	I-LOC
+)	I-LOC
+
+REDIRECIONAMENTO	O
+Alberto	B-PER
+II	I-PER
+de	I-PER
+Mônaco	I-PER
+
+Santuário	B-ORG
+de	I-ORG
+Nossa	I-ORG
+Senhora	I-ORG
+da	I-ORG
+Vitória	I-ORG
+(	O
+Batalha	B-LOC
+)	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O
+vence	O
+Fernando	B-PER
+González	I-PER
+,	O
+7-6	O
+(	O
+2	O
+)	O
+,	O
+6-4	O
+,	O
+6-4	O
+
+Suzano	B-LOC
+(	O
+SP	O
+)	O
+
+''	O
+Longitarsus	O
+fuscoaeneus	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+REDIRECIONAMENTO	O
+Coletividade	B-LOC
+de	I-LOC
+ultramar	I-LOC
+
+Claude	B-PER
+Garamond	I-PER
+(	O
+1480-1561	O
+)	O

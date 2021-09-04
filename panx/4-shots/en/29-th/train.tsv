@@ -1,0 +1,99 @@
+''	O
+Kansas	B-ORG
+City	I-ORG
+''	O
+(	O
+Jerry	B-PER
+Leiber	I-PER
+,	O
+Mike	B-PER
+Stoller	I-PER
+)	O
+
+''	O
+Halliwell	B-ORG
+'s	I-ORG
+Who	I-ORG
+'s	I-ORG
+Who	I-ORG
+in	I-ORG
+the	I-ORG
+Movies	I-ORG
+''	O
+HarperCollins	B-ORG
+ISBN	O
+0-06-093507-3	O
+
+Colorado	B-LOC
+Springs	I-LOC
+,	I-LOC
+Colorado	B-LOC
+,	O
+United	B-LOC
+States	I-LOC
+
+In	O
+2010	O
+,	O
+he	O
+signed	O
+to	O
+the	O
+newly	O
+formed	O
+G-Note	B-ORG
+Records	I-ORG
+,	O
+a	O
+subsidiary	O
+label	O
+of	O
+50	B-PER
+Cent	I-PER
+'s	O
+G-Unit	B-ORG
+Records	I-ORG
+.	O
+
+''	O
+November	O
+23	O
+''	O
+–	O
+The	B-PER
+Hitchhiker	I-PER
+
+São	B-LOC
+Caetano	I-LOC
+,	I-LOC
+Pernambuco	I-LOC
+
+Portuguese	B-ORG
+legislative	I-ORG
+election	I-ORG
+,	I-ORG
+2015	I-ORG
+
+''	O
+Mamluk	B-LOC
+Sultanate	I-LOC
+of	I-LOC
+Egypt	I-LOC
+''	O
+'	O
+–	O
+Barsbay	B-PER
+(	O
+1422–1437	O
+)	O
+
+Harrah	B-LOC
+'s	I-LOC
+Casino	I-LOC
+Tunica	I-LOC
+
+Jacques	B-PER
+Roumain	I-PER
+(	O
+1907–1944	O
+)	O

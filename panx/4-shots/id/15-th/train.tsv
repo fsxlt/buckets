@@ -1,0 +1,69 @@
+Mana	B-PER
+Ashida	I-PER
+sebagai	O
+Rin	O
+
+'	O
+''	O
+Mark	B-PER
+Webber	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Sarthe	I-LOC
+
+Ishenbai	B-PER
+Kadyrbekov	I-PER
+(	O
+penjabat	O
+sementara	O
+)	O
+
+ALIH	O
+Cheyenne	B-LOC
+,	I-LOC
+Wyoming	I-LOC
+
+ALIH	O
+Lembaga	B-ORG
+Alkitab	I-ORG
+Indonesia	I-ORG
+
+MediaCorp	B-ORG
+TV	I-ORG
+Channel	I-ORG
+5	I-ORG
+
+Flight	B-ORG
+International	I-ORG
+''	O
+,	O
+Vol	O
+.	O
+
+Jan	B-PER
+Carel	I-PER
+Josephus	I-PER
+van	I-PER
+Speijk	I-PER
+
+ALIH	O
+Institut	B-ORG
+Teknologi	I-ORG
+California	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Cher	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardèche	I-LOC

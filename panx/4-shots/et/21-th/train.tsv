@@ -1,0 +1,113 @@
+August	B-PER
+Englas	I-PER
+(	O
+1925–	O
+)	O
+
+Međimurje	B-LOC
+maakond	I-LOC
+''	O
+(	O
+Međimurska	O
+županija	O
+)	O
+''	O
+
+Iisraeli	B-LOC
+parlamendikomitee	O
+kiitis	O
+häältega	O
+13:11	O
+heaks	O
+Moshe	B-PER
+Katsavi	I-PER
+taotluse	O
+peatada	O
+seoses	O
+algatatud	O
+kriminaalmenetlusega	O
+kolmeks	O
+kuuks	O
+tema	O
+volitused	O
+riigi	O
+presidendina	O
+.	O
+
+Ta	O
+on	O
+kirjutanud	O
+sõnu	O
+lauludele	O
+,	O
+mida	O
+esitab	O
+tema	O
+elukaaslane	O
+Sandra	B-PER
+Nurmsalu	I-PER
+.	O
+
+Cuba	B-ORG
+Gooding	I-ORG
+noorem	I-ORG
+
+suuna	O
+Tallinna	B-ORG
+FC	I-ORG
+Lantana	I-ORG
+
+Guami	B-LOC
+saarelt	O
+viidi	O
+tuli	O
+muuhulgas	O
+Saalomoni	B-LOC
+saartele	I-LOC
+,	O
+Paapua	B-LOC
+Uus-Guineasse	I-LOC
+,	O
+Samoale	B-LOC
+,	O
+Fidžile	B-LOC
+ja	O
+Uus-Meremaale	B-LOC
+.	O
+
+``	O
+Ainult	B-ORG
+unustamiseks	I-ORG
+''	O
+
+Itaalias	B-LOC
+Milanos	B-LOC
+algas	O
+Euroopa	B-ORG
+Liidu	I-ORG
+liikmesriikide	O
+kaitseministrite	O
+kahepäevane	O
+mitteametlik	O
+kohtumine	O
+,	O
+millel	O
+osaleb	O
+ka	O
+Eesti	B-LOC
+kaitseminister	O
+Sven	B-PER
+Mikser	I-PER
+.	O
+
+Franklini	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+Wise'i	B-LOC
+maakond	I-LOC
+(	O
+edelas	O
+)	O

@@ -1,0 +1,92 @@
+ĐỔI	O
+Thư	B-ORG
+viện	I-ORG
+Quốc	I-ORG
+gia	I-ORG
+Pháp	I-ORG
+
+The	B-ORG
+Love	I-ORG
+of	I-ORG
+Siam	I-ORG
+
+SM	B-ORG
+the	I-ORG
+Ballad	I-ORG
+Vol.	I-ORG
+2	I-ORG
+–	I-ORG
+Breath	I-ORG
+''	O
+
+đổi	O
+Xã	B-LOC
+Carlyle	I-LOC
+,	I-LOC
+Quận	I-LOC
+Allen	I-LOC
+,	I-LOC
+Kansas	I-LOC
+
+Thành	B-LOC
+phố	I-LOC
+Hồ	I-LOC
+Chí	I-LOC
+Minh	I-LOC
+
+'	O
+''	O
+Elvis	B-PER
+Presley	I-PER
+''	O
+'	O
+-	O
+''Roustabout	O
+''	O
+
+Phân	B-LOC
+cấp	I-LOC
+hành	I-LOC
+chính	I-LOC
+Hàn	I-LOC
+Quốc	I-LOC
+
+đổi	O
+Blackout	B-ORG
+(	I-ORG
+album	I-ORG
+của	I-ORG
+Britney	I-ORG
+Spears	I-ORG
+)	I-ORG
+
+'	O
+''	O
+José	B-PER
+Manuel	I-PER
+Pinto	I-PER
+''	O
+'	O
+
+Lê	B-PER
+Thần	I-PER
+Tông	I-PER
+(	O
+Trịnh	B-PER
+Tráng	I-PER
+)	O
+
+''	O
+'	O
+''	O
+'	O
+-	O
+Marjorie	B-PER
+Wallace	I-PER
+
+đổi	O
+Mi	B-LOC
+hầu	I-LOC
+đào	I-LOC
+Cống	I-LOC
+Sơn	I-LOC

@@ -1,0 +1,65 @@
+رجوع_مکرر	O
+ڈرہم،	B-LOC
+نیو	I-LOC
+ہیمپشائر	I-LOC
+
+دریائے	B-LOC
+میکانگ	I-LOC
+دہانہ	I-LOC
+(	I-LOC
+ویتنام	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+قرآن	B-ORG
+میں	I-ORG
+مذکور	I-ORG
+خواتین	I-ORG
+
+رجوع_مکرر	O
+ایران	B-LOC
+معیاری	I-LOC
+وقت	I-LOC
+
+عمر	B-ORG
+خیام،	I-ORG
+شاعر	O
+(	O
+1048–1131	O
+)	O
+
+رجوع_مکرر	O
+ایڈگر	B-PER
+رائس	I-PER
+بورس	I-PER
+
+رجوع_مکرر	O
+فاطمہ	B-PER
+ثریا	I-PER
+بجیا	I-PER
+
+معاویہ	B-PER
+بن	I-PER
+ابو	I-PER
+سفیان	I-PER
+
+رجوع_مکرر	O
+کعب	B-PER
+بن	I-PER
+زہیر	I-PER
+
+رجوع_مکرر	O
+حافظ	B-ORG
+آباد	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+لندن	B-LOC
+بورو	I-LOC
+لیمبیتھ	I-LOC
+
+رجوع_مکرر	O
+ٹوراگھبارگی	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG

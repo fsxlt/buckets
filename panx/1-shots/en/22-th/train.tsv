@@ -1,0 +1,26 @@
+Bedford	B-LOC
+,	I-LOC
+Kentucky	I-LOC
+–	O
+$	O
+14,818	O
+
+Meat	B-PER
+Loaf	I-PER
+–	O
+``	O
+I	B-ORG
+'d	I-ORG
+Do	I-ORG
+Anything	I-ORG
+For	I-ORG
+Love	I-ORG
+(	I-ORG
+But	I-ORG
+I	B-ORG
+Wo	I-ORG
+n't	I-ORG
+Do	I-ORG
+That	I-ORG
+)	I-ORG
+''	O

@@ -1,0 +1,127 @@
+Kaksikaadressiga	O
+Oleviste	B-ORG
+kirik	I-ORG
+,	O
+Pikk	O
+65	O
+/	O
+Lai	O
+50	O
+.	O
+
+Norra	B-LOC
+peaminister	B-ORG
+Jens	B-PER
+Stoltenberg	I-PER
+esitles	O
+uusi	O
+valitsusliikmeid	O
+.	O
+
+Kõlleste	B-LOC
+vald	I-LOC
+,	O
+Põlva	B-LOC
+maakond	I-LOC
+
+Bálint	B-PER
+Balassi	I-PER
+(	O
+1554–1594	O
+)	O
+
+1.	B-ORG
+SS-Soomusdiviis	I-ORG
+Leibstandarte	I-ORG
+SS	I-ORG
+Adolf	I-ORG
+Hitler	I-ORG
+
+aastal	O
+asus	O
+ta	O
+koos	O
+vanematega	O
+elama	O
+Ameerika	B-LOC
+Ühendriikidesse	I-LOC
+.	O
+
+Tarvastu	B-LOC
+vald	I-LOC
+,	O
+Viljandi	B-LOC
+maakond	I-LOC
+
+Anne	B-LOC
+Arundeli	I-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+Kogus	O
+rahvalaule.Töötas	O
+Antsla	B-LOC
+ja	O
+Vana-Antsla	B-LOC
+orkestri-	O
+ja	O
+ringijuhina	O
+.	O
+
+Inge	B-PER
+de	I-PER
+Bruijn	I-PER
+,	O
+'	O
+''	O
+24,32	O
+''	O
+'	O
+
+See	O
+oli	O
+pikim	O
+valitsemisaeg	O
+pärast	O
+Hadrianus	B-PER
+I-st	I-PER
+,	O
+hiljem	O
+on	O
+veel	O
+rohkem	O
+valitsenud	O
+Pius	B-PER
+VI	I-PER
+,	O
+Pius	B-PER
+VII	I-PER
+,	O
+Pius	B-PER
+IX	I-PER
+,	O
+Leo	B-PER
+XIII	I-PER
+ja	O
+Johannes	B-PER
+Paulus	I-PER
+II	I-PER
+.	O
+
+Laev	O
+sõidab	O
+Turu	B-LOC
+liinil	O
+Silja	B-ORG
+Line'i	I-ORG
+pardakirjaga	O
+.	O
+
+A.	B-ORG
+Le	I-ORG
+Coq	I-ORG
+Arena	I-ORG
+,	O
+Tallinn	B-LOC

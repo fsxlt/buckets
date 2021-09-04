@@ -1,0 +1,24 @@
+'	O
+''	O
+Danimarca	B-LOC
+''	O
+'	O
+
+Alberto	B-PER
+Martín	I-PER
+Michal	B-PER
+Tabara	I-PER
+Daniel	B-PER
+Vacek	I-PER
+Javier	B-PER
+Sánchez	I-PER
+
+United	B-ORG
+States	I-ORG
+Marine	I-ORG
+Corps	I-ORG
+
+San	B-LOC
+Sebastiano	I-LOC
+al	I-LOC
+Vesuvio	I-LOC

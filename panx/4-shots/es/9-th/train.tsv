@@ -1,0 +1,96 @@
+Mark	B-PER
+Aguirre	I-PER
+(	O
+2	O
+)	O
+
+Condado	B-LOC
+de	I-LOC
+King	I-LOC
+William	I-LOC
+
+REDIRECCIÓN	O
+Estudio	B-ORG
+Op.	I-ORG
+25	I-ORG
+,	I-ORG
+n.º	I-ORG
+8	I-ORG
+(	I-ORG
+Chopin	I-ORG
+)	I-ORG
+
+REDIRECCIÓN	O
+Ana	B-PER
+de	I-PER
+Borbón-Parma	I-PER
+
+Poliñá	B-LOC
+de	I-LOC
+Júcar	I-LOC
+
+'	O
+''	O
+Yves	B-PER
+Allegro	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Right	B-ORG
+Where	I-ORG
+You	I-ORG
+Want	I-ORG
+Me	I-ORG
+(	I-ORG
+canción	I-ORG
+)	I-ORG
+
+Fue	O
+a	O
+la	O
+Universidad	B-ORG
+de	I-ORG
+Túnez	I-ORG
+y	O
+al	O
+Instituto	B-ORG
+de	I-ORG
+Estudios	I-ORG
+Políticos	I-ORG
+de	I-ORG
+París	I-ORG
+.	O
+
+REDIRECCIÓN	O
+Óscar	B-PER
+Díaz	I-PER
+González	I-PER
+
+REDIRECCIÓN	O
+Gregorio	B-LOC
+del	I-LOC
+Pilar	I-LOC
+(	I-LOC
+Ilocos	I-LOC
+Sur	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Río	B-LOC
+Volta	I-LOC
+Rojo	I-LOC
+
+|	O
+Racing	B-ORG
+Club	I-ORG
+(	O
+35	O
+goles	O
+)	O
+San	B-ORG
+Lorenzo	I-ORG
+(	O
+35	O
+goles	O
+)	O

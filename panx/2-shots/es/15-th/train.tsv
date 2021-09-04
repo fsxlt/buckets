@@ -1,0 +1,37 @@
+Paranã	B-LOC
+(	I-LOC
+Tocantins	I-LOC
+)	I-LOC
+
+Samuel	B-PER
+Mockbee	I-PER
+(	O
+1944–2001	O
+)	O
+
+Le	B-LOC
+Pout	I-LOC
+(	O
+33335	O
+)	O
+
+Honoré	B-PER
+Gabriel	I-PER
+Riquetti	I-PER
+
+REDIRECCIÓN	O
+Ringo	B-ORG
+5.1	I-ORG
+:	I-ORG
+The	I-ORG
+Surround	I-ORG
+Sound	I-ORG
+Collection	I-ORG
+
+'	O
+''	O
+Signal	B-ORG
+Iduna	I-ORG
+Park	I-ORG
+''	O
+'	O

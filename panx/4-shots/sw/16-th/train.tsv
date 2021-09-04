@@ -1,0 +1,84 @@
+Alimfuata	O
+Papa	B-PER
+Innocent	I-PER
+VIII	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Pius	I-PER
+III	I-PER
+.	O
+
+Papa	B-PER
+Celestino	I-PER
+IV	I-PER
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Nouakchott	B-LOC
+.	O
+
+Kaizari	B-PER
+Maximilian	I-PER
+I	I-PER
+
+Konrado	B-PER
+wa	I-PER
+Piacenza	I-PER
+
+Wilaya	B-ORG
+ya	I-ORG
+Alépé	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+150.2	O
+km²	B-ORG
+.	O
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Namibe	B-LOC
+(	I-LOC
+mkoa	I-LOC
+)	I-LOC
+
+Pleasant	B-LOC
+Hill	I-LOC
+,	I-LOC
+California	I-LOC
+
+Kampuni	B-ORG
+ya	I-ORG
+Sukari	I-ORG
+ya	I-ORG
+Mumias	I-ORG
+
+Mkoa	B-LOC
+wa	I-LOC
+Mashariki	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+.	O
+
+The	B-ORG
+Don	I-ORG
+Killuminati	I-ORG
+:	I-ORG
+The	B-ORG
+7	I-ORG
+Day	I-ORG
+Theory	I-ORG
+''	O

@@ -1,0 +1,67 @@
+Lettiese	B-LOC
+Sosialistiese	I-LOC
+Sowjetrepubliek	I-LOC
+
+Dit	O
+bevat	O
+ook	O
+die	O
+kantoor	O
+van	O
+die	O
+President	B-ORG
+van	I-ORG
+Suid-Afrika	I-ORG
+.	O
+
+Hy	O
+was	O
+die	O
+negende	O
+koning	O
+van	O
+die	O
+Huis	B-PER
+van	I-PER
+Plantagenêt	I-PER
+en	O
+het	O
+nes	O
+sy	O
+oupa	B-PER
+ook	O
+aanspraak	O
+gemaak	O
+op	O
+die	O
+titel	O
+koning	O
+van	O
+Frankryk	B-LOC
+.	O
+
+Generaal	O
+De	B-PER
+Wet	I-PER
+en	O
+ander	O
+Boereleiers	O
+het	O
+met	O
+gemak	O
+deur	O
+die	O
+blokhuisnetwerk	O
+geglip	O
+.	O
+
+Singapoerse	B-LOC
+Standaardtyd	I-LOC
+(	O
+SST	O
+)	O
+
+AANSTUUR	O
+Crelle	B-ORG
+se	I-ORG
+Tydskrif	I-ORG

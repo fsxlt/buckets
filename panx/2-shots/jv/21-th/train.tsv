@@ -1,0 +1,58 @@
+Martin	B-PER
+Luther	I-PER
+King	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+Taman	B-ORG
+Impian	I-ORG
+Jaya	I-ORG
+Ancol	I-ORG
+
+Deheweke	O
+wis	O
+kaping	O
+112	O
+mbela	O
+timnas	O
+,	O
+iku	O
+ndadekake	O
+dheweke	O
+urutan	O
+nomer	O
+telu	O
+wong	O
+kang	O
+paling	O
+akeh	O
+mbela	O
+timnas	O
+,	O
+nomer	O
+siji	O
+Paolo	B-PER
+Maldini	I-PER
+lan	O
+nomer	O
+loro	O
+Fabio	B-PER
+Cannavaro	I-PER
+.	O
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

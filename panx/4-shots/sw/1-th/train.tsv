@@ -1,0 +1,93 @@
+Alimfuata	O
+Papa	B-PER
+Nikolasi	I-PER
+I	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Yohane	I-PER
+VIII	I-PER
+.	O
+
+Wilaya	B-LOC
+ya	I-LOC
+Bloléquin	I-LOC
+
+'	O
+''	O
+Maximinus	B-PER
+Thrax	I-PER
+''	O
+'	O
+
+Eneo	O
+lake	O
+ni	O
+78	O
+km²	B-ORG
+.	O
+
+Songea	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Dar-es-Salaam	I-ORG
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Teofilo	I-ORG
+Kisanji	I-ORG
+
+lugha	B-LOC
+izungumzwayo	O
+nchini	O
+Papua	B-LOC
+Guinea	I-LOC
+Mpya	I-LOC
+.	O
+
+Kim	B-PER
+Raver	I-PER
+kama	O
+Audrey	B-PER
+Raines	I-PER
+
+Shirika	B-ORG
+la	I-ORG
+Huduma	I-ORG
+kwa	I-ORG
+Wanyama	I-ORG
+Pori	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+Makao	O
+makuu	O
+yako	O
+Nyköping	B-LOC
+.	O
+
+Mkoa	B-LOC
+wa	I-LOC
+Mashariki	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+.	O
+
+One	B-ORG
+Day	I-ORG
+in	I-ORG
+Your	I-ORG
+Life	I-ORG
+''	O
+
+Papa	B-PER
+Innocent	I-PER
+IX	I-PER

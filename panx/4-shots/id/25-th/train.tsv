@@ -1,0 +1,90 @@
+'	O
+''	O
+Daniel	B-PER
+Ricciardo	I-PER
+''	O
+'	O
+
+Pada	O
+saat	O
+ini	O
+ia	O
+bermain	O
+untuk	O
+FC	B-ORG
+Spartak	I-ORG
+Kostroma	I-ORG
+.	O
+
+Inter-Parliamentary	B-ORG
+Union	I-ORG
+(	O
+IPU	O
+)	O
+
+''	O
+Tanjung	B-LOC
+Verde	I-LOC
+''	O
+'	O
+-	O
+
+I	B-ORG
+Can	I-ORG
+Hear	I-ORG
+Your	I-ORG
+Voice	I-ORG
+''	O
+
+ALIH	O
+Yekaterina	B-PER
+II	I-PER
+dari	I-PER
+Rusia	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pyrénées-Atlantiques	I-LOC
+
+Soimah	B-PER
+Pancawati	I-PER
+-	O
+Hasil	O
+Putaran	O
+Final	O
+2	O
+
+ALIH	O
+Total	B-ORG
+S.A	I-ORG
+.	I-ORG
+
+Seo	B-PER
+In-guk	I-PER
+&	O
+Jung	B-PER
+Eun-ji	I-PER
+
+adalah	O
+sebutan	O
+untuk	O
+gunung-gunung	O
+yang	O
+tingginya	O
+sekitar	O
+1.000	O
+m	O
+di	O
+Prefektur	B-LOC
+Wakayama	I-LOC
+,	O
+Jepang	B-LOC
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC

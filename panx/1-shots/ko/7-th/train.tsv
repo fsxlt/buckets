@@ -1,0 +1,37 @@
+오카야	B-LOC
+시	I-LOC
+(	O
+)	O
+
+'	O
+''	O
+月光花	B-ORG
+''	O
+'	O
+
+넘겨주기	O
+잔	B-PER
+마리아	I-PER
+비스콘티	I-PER
+
+그리고	O
+헤이안	B-ORG
+시대	I-ORG
+이후에는	O
+그런	O
+음의	O
+구별이	O
+옅어졌기	O
+때문에	O
+각각	O
+통합되어	O
+있었다고	O
+생각하는	O
+것이다	O
+.	O
+
+마라카낭	B-LOC
+,	O
+리우데자네이루	B-LOC
+,	O
+브라질	B-LOC

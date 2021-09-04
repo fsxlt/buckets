@@ -1,0 +1,128 @@
+청	B-LOC
+(	O
+淸	O
+)	O
+선종	B-PER
+도광제	I-PER
+(	O
+宣宗	O
+道光帝	O
+)	O
+4년	O
+
+에피소드의	O
+제작	O
+및	O
+채색은	O
+캘리포니아	B-LOC
+주의	I-LOC
+버뱅크에서	B-LOC
+이루어진다	O
+.	O
+
+서부	B-LOC
+주	I-LOC
+(	I-LOC
+가나	I-LOC
+)	I-LOC
+
+)	O
+겸	O
+마보도지병마사	O
+(	O
+馬步都知兵馬使	O
+)	O
+장윤신을	B-PER
+유후로	O
+추대하였다	O
+.	O
+
+``	O
+If	B-ORG
+I	I-ORG
+Never	I-ORG
+See	I-ORG
+Your	I-ORG
+Face	I-ORG
+Again	I-ORG
+''	O
+
+'	O
+''	O
+내털리	B-PER
+코글린	I-PER
+''	O
+'	O
+
+고려	B-PER
+현종	I-PER
+(	O
+高麗顯宗	O
+)	O
+
+인증에	O
+대한	O
+익숙한	O
+용도로	O
+접근	B-ORG
+제어가	I-ORG
+있다	O
+.	O
+
+이는	O
+사비	B-PER
+알론소에	I-PER
+뒤쳐지지	O
+않는	O
+준수한	O
+성적이다	O
+.	O
+
+요시노	B-LOC
+정	I-LOC
+(	O
+)	O
+
+대전광역시	B-LOC
+대덕구	B-LOC
+신탄진로315번길	O
+72	O
+(	O
+신대동	O
+)	O
+
+두산	B-ORG
+베어스	I-ORG
+(	O
+정규리그	O
+3위팀	O
+)	O
+v.s	O
+롯데	B-ORG
+자이언츠	I-ORG
+(	O
+정규리그	O
+4위팀	O
+)	O
+
+스코어와	O
+결과	O
+리스트는	O
+대한민국	B-ORG
+국가대표팀의	I-ORG
+득점을	O
+먼저	O
+기록하였다	O
+.	O
+
+미나토	B-LOC
+구	I-LOC
+(	O
+)	O
+
+지우는	O
+파이리를	B-PER
+이용해	O
+성원숭을	O
+포획한다	O
+.	O

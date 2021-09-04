@@ -1,0 +1,47 @@
+Plaza	B-LOC
+de	I-LOC
+Cagancha	I-LOC
+
+``	O
+La	O
+tienda	O
+fue	O
+alabada	O
+en	O
+la	O
+prensa	O
+por	O
+celebridades	O
+como	O
+Steven	B-PER
+Spielberg	I-PER
+y	O
+Lauren	B-PER
+Bacall	I-PER
+.	O
+
+La	B-LOC
+Higuera	I-LOC
+(	I-LOC
+Chile	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Álex	B-PER
+García	I-PER
+Peña	I-PER
+
+REDIRECCIÓN	O
+Al	B-ORG
+Minaa	I-ORG
+Sport	I-ORG
+club	I-ORG
+
+REDIRECCIÓN	O
+Reserva	B-ORG
+biológica	I-ORG
+de	I-ORG
+la	I-ORG
+Cordillera	I-ORG
+de	I-ORG
+Sama	I-ORG

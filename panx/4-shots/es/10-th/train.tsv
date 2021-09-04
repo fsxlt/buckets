@@ -1,0 +1,90 @@
+Fichó	O
+con	O
+el	O
+Richmond	B-ORG
+Kickers	I-ORG
+(	O
+USLPro	O
+)	O
+
+La	B-ORG
+Década	I-ORG
+Prodigiosa	I-ORG
+
+REDIRECCIÓN	O
+Distrito	B-LOC
+de	I-LOC
+Gunzburgo	I-LOC
+
+'	O
+''	O
+Air	B-ORG
+France	I-ORG
+''	O
+'2	O
+destinos	O
+
+St	B-PER
+John	I-PER
+Philby	I-PER
+
+John	B-PER
+Amos	I-PER
+como	O
+Ed	O
+(	O
+7x16	O
+,	O
+7x17	O
+y	O
+7x22	O
+)	O
+
+REDIRECCIÓN	O
+Raión	B-LOC
+de	I-LOC
+Kalíninskaya	I-LOC
+
+Estaba	O
+obsesionado	O
+con	O
+el	O
+juego	O
+y	O
+pronto	O
+adquirió	O
+un	O
+ídolo	O
+en	O
+quien	O
+fijarse	O
+,	O
+Julius	B-PER
+Erving	I-PER
+.	O
+
+REDIRECCIÓN	O
+Saint-Joseph	B-LOC
+(	I-LOC
+Loira	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Álvaro	B-PER
+de	I-PER
+Sande	I-PER
+
+'	O
+''	O
+Yaquis	B-ORG
+de	I-ORG
+Ciudad	I-ORG
+Obregón	I-ORG
+''	O
+'	O
+
+Bulbophyllum	B-LOC
+colliferum	I-LOC
+''	O
+J.J.Sm	O
+.	O

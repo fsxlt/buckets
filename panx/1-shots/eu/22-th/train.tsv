@@ -1,0 +1,21 @@
+'	O
+''	O
+Paolo	B-PER
+Bettini	I-PER
+''	O
+'	O
+,	O
+Italia	B-LOC
+
+2.	B-ORG
+linea	I-ORG
+(	I-ORG
+Bilboko	I-ORG
+metroa	I-ORG
+)	I-ORG
+
+Xinzhou	B-LOC
+Barrutia	I-LOC
+(	O
+新洲区	O
+)	O

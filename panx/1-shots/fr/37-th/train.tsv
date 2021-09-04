@@ -1,0 +1,17 @@
+''	O
+Charmed	B-ORG
+''	O
+(	O
+Piper	B-PER
+Halliwell	I-PER
+)	O
+
+Alcalá	B-LOC
+de	I-LOC
+Guadaíra	I-LOC
+
+Lancers	B-ORG
+d'Omaha	I-ORG
+(	O
+USHL	O
+)	O

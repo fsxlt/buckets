@@ -1,0 +1,75 @@
+দ্য	B-ORG
+ডেইলি	I-ORG
+টেলিগ্রাফ	I-ORG
+
+ভারতের	B-ORG
+কমিউনিস্ট	I-ORG
+পার্টি	I-ORG
+(	I-ORG
+মার্ক্সবাদী	I-ORG
+)	I-ORG
+
+জন	B-PER
+জেমস	I-PER
+রিকার্ড	I-PER
+ম্যাক্লিয়ড	I-PER
+
+জম্মু	B-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+হুসেইন	B-PER
+মুহাম্মদ	I-PER
+এরশাদ	I-PER
+
+টেক্সাস	B-ORG
+এ	I-ORG
+অ্যান্ড	I-ORG
+এম	I-ORG
+ইউনিভার্সিটি	I-ORG
+,	O
+
+বুলেটিন	B-ORG
+অফ	I-ORG
+দ্য	I-ORG
+অ্যাটমিক	I-ORG
+সাইন্টিস্ট্‌স	I-ORG
+
+এম	B-PER
+নাইট	I-PER
+শ্যামালান	I-PER
+
+পাহাড়পুর	B-LOC
+বৌদ্ধবিহার	I-LOC
+(	O
+Ruins	O
+of	O
+the	O
+Buddhist	O
+Vihara	O
+at	O
+Paharpur	O
+)	O
+
+হ্যারি	B-PER
+পটার	I-PER
+(	I-PER
+চরিত্র	I-PER
+)	I-PER
+
+বার্সেলোনা	B-ORG
+(	O
+স্পেন	B-LOC
+)	O
+
+সাইবেরিয়ান	B-LOC
+সারস	I-LOC
+(	O
+''Grus	O
+leucogeranus	O
+''	O
+)	O
+
+উচ্চ	B-LOC
+সিয়াং	I-LOC
+জেলা	I-LOC

@@ -1,0 +1,19 @@
+Universidad	B-ORG
+Johns	I-ORG
+Hopkins	I-ORG
+
+REDIRECCIÓN	O
+República	B-LOC
+de	I-LOC
+Génova	I-LOC
+
+Fritz	B-PER
+Pfenninger	I-PER
+(	O
+3	O
+)	O
+Peter	B-PER
+Post	I-PER
+(	O
+3	O
+)	O

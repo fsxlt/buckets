@@ -1,0 +1,41 @@
+ALIH	O
+Spanish	B-LOC
+Fort	I-LOC
+,	I-LOC
+Alabama	I-LOC
+
+ALIH	O
+Simeulue	B-LOC
+Tengah	I-LOC
+,	I-LOC
+Simeulue	B-LOC
+
+Let	B-ORG
+Your	I-ORG
+Love	I-ORG
+Out	I-ORG
+''	O
+
+ALIH	O
+Foulques	B-PER
+,	I-PER
+Raja	I-PER
+Yerusalem	I-PER
+
+Mickey	B-PER
+Rooney	I-PER
+sebagai	O
+Penduduk	O
+Tua	O
+Smalltown	O
+
+Profil	O
+pada	O
+situs	O
+web	O
+resmi	O
+Federasi	B-ORG
+Sepak	I-ORG
+Bola	I-ORG
+Perancis	I-ORG
+.	O

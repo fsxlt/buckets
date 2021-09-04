@@ -1,0 +1,40 @@
+Watak	O
+utamanya	O
+ialah	O
+Alyssa	B-PER
+Soebandono	I-PER
+dan	O
+Christian	B-PER
+Sugiono	I-PER
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aube	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+rakun	I-ORG
+Inggeris	I-ORG
+Amerika	I-ORG
+
+Sony	B-PER
+Dwi	I-PER
+Kuncoro	I-PER
+0–3	O
+
+Masjid	B-ORG
+Jubli	I-ORG
+Perak	I-ORG
+Sultan	I-ORG
+Ismail	I-ORG
+Petra	I-ORG
+
+LENCONG	O
+Kramolín	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Plzeň-Selatan	I-LOC
+)	I-LOC

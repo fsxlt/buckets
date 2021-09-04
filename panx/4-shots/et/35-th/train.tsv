@@ -1,0 +1,124 @@
+suuna	O
+Eesti	B-ORG
+Diplomaatide	I-ORG
+Kool	I-ORG
+
+Selle	O
+avastas	O
+Fabian	B-PER
+Gottlieb	I-PER
+von	I-PER
+Bellingshausen	I-PER
+,	O
+kelle	O
+järgi	O
+on	O
+saarele	O
+ka	O
+nimi	O
+antud	O
+.	O
+
+Terminaator	B-ORG
+–	O
+``	O
+Ebaõiglane	O
+''	O
+(	O
+3305	O
+)	O
+
+Sündmuse	O
+mälestuseks	O
+on	O
+Paduveres	B-LOC
+mälestuskivi	O
+.	O
+
+Fall	B-ORG
+Out	I-ORG
+Boy	I-ORG
+
+FEMA	B-ORG
+(	O
+''Federal	O
+Emergency	O
+Management	O
+Agency	O
+''	O
+)	O
+
+Mali	B-LOC
+üleminekuvalitsuse	O
+peaministriks	O
+nimetati	O
+astrofüüsik	O
+Cheick	B-PER
+Modibo	I-PER
+Diarra	I-PER
+.	O
+
+Luunja	B-LOC
+vald	I-LOC
+,	O
+Tartu	B-LOC
+maakond	I-LOC
+
+Piirneb	O
+läänes	O
+Leningradi	B-LOC
+oblastiga	I-LOC
+.	O
+
+Paikneb	O
+Araali	B-LOC
+merest	I-LOC
+kirdes	O
+.	O
+
+Saksamaa	B-LOC
+välisminister	O
+Frank-Walter	B-PER
+Steinmeier	I-PER
+teatas	O
+oma	O
+kavatsusest	O
+külastada	O
+oktoobris	O
+Iraani	B-LOC
+.	O
+
+''	O
+Poola	B-ORG
+meistrivõistlused	I-ORG
+''	O
+'	O
+
+Vesihaljas	B-LOC
+tarn	I-LOC
+-	O
+''Carex	O
+flacca	O
+''	O
+
+Harner	B-PER
+,	I-PER
+Michael	I-PER
+.	O
+
+Natura	B-ORG
+2000	I-ORG
+on	O
+üleeuroopaline	O
+kõrge	O
+loodusväärtusega	O
+alade	O
+võrgustik	O
+.	O
+
+Väikekajakas	B-LOC
+(	O
+''Larus	O
+minutus	O
+''	O
+)	O

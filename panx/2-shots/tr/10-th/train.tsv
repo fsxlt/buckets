@@ -1,0 +1,37 @@
+2002	B-LOC
+Türkiye	B-ORG
+Süper	I-ORG
+Lig	I-ORG
+Şampiyonluğu	O
+
+'	O
+''	O
+Jóhanna	B-PER
+Guðrún	I-PER
+Jónsdóttir	I-PER
+''	O
+'	O
+
+YÖNLENDİRME	O
+Jean	B-PER
+Baptiste	I-PER
+Perrin	I-PER
+
+YÖNLENDİR	O
+Göksu	B-LOC
+(	I-LOC
+Kilikya	I-LOC
+)	I-LOC
+
+YÖNLENDİR	O
+Kanada	B-ORG
+Erkekler	I-ORG
+Buz	I-ORG
+Hokeyi	I-ORG
+Millî	I-ORG
+Takımı	I-ORG
+
+YÖNLENDİRME	O
+Ak	B-LOC
+kuyruklu	I-LOC
+çaylak	I-LOC

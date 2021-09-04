@@ -1,0 +1,95 @@
+ALIH	O
+Batuceper	B-LOC
+,	I-LOC
+Tangerang	I-LOC
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+''	O
+'	O
+
+ALIH	O
+Victoria	B-PER
+saking	I-PER
+Britania	I-PER
+Raya	I-PER
+
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+Turki	B-LOC
+(	O
+laladan	O
+Anatolia	B-LOC
+)	O
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+49.035	O
+km²	O
+--	O
+Slowakia	B-LOC
+
+Kutha	B-LOC
+krajanné	I-LOC
+iku	O
+Kopenhagen	B-LOC
+.	O
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Aldo	B-PER
+Moro	I-PER
+(	O
+Periode	O
+kaping	O
+1	O
+)	O
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC
+
+Topaz	B-ORG
+(	O
+Al2SiO4	O
+(	O
+OH-	O
+,	O
+F-	O
+)	O
+2	O
+)	O

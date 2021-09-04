@@ -1,0 +1,16 @@
+वास्को	B-PER
+द	I-PER
+गामा	I-PER
+
+अनुप्रेषित	O
+कैलास	B-ORG
+(	I-ORG
+मन्दिर	I-ORG
+)	I-ORG
+
+मेरठ	B-LOC
+,	O
+(	O
+उत्तर	B-LOC
+प्रदेश	I-LOC
+)	O

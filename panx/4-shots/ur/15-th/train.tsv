@@ -1,0 +1,69 @@
+رجوع_مکرر	O
+ایپسوم،	B-LOC
+نیو	I-LOC
+ہیمپشائر	I-LOC
+
+رجوع_مکرر	O
+بین	B-ORG
+الاقوامی	I-ORG
+مالیاتی	I-ORG
+شرکت	I-ORG
+
+رجوع_مکرر	O
+خانقاہ	B-ORG
+محمد	I-ORG
+پناہ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+فیصل	B-PER
+بن	I-PER
+عبدالعزیز	I-PER
+آل	I-PER
+سعود	I-PER
+
+فرانسیسی	B-ORG
+اپر	I-ORG
+وولٹا	I-ORG
+(	O
+1919–1932	O
+)	O
+
+رجوع_مکرر	O
+یونین،	B-LOC
+جنوبی	I-LOC
+کیرولائنا	I-LOC
+
+رجوع_مکرر	O
+شمالی	B-LOC
+کوریا	I-LOC
+کی	I-LOC
+انتظامی	I-LOC
+تقسیم	I-LOC
+
+رجوع_مکرر	O
+محمد	B-PER
+سید	I-PER
+طنطاوی	I-PER
+
+رجوع_مکرر	O
+وائٹ	B-LOC
+ہال،	I-LOC
+مشی	I-LOC
+گن	I-LOC
+
+رجوع_مکرر	O
+پال	B-PER
+ڈی	I-PER
+کانسٹنٹ	I-PER
+
+1970	B-ORG
+فیفا	I-ORG
+عالمی	I-ORG
+کپ	I-ORG
+
+رجوع_مکرر	O
+احسان	B-PER
+الہی	I-PER
+ظہیر	I-PER

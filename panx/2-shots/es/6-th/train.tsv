@@ -1,0 +1,31 @@
+REDIRECCIÓN	O
+Templo	B-ORG
+de	I-ORG
+Hamilton	I-ORG
+
+Estación	B-ORG
+de	I-ORG
+Sarriko	I-ORG
+
+REDIRECCIÓN	O
+Manuel	B-PER
+de	I-PER
+Jesús	I-PER
+Troncoso	I-PER
+
+REDIRECCIÓN	O
+Mancera	B-LOC
+de	I-LOC
+Abajo	I-LOC
+
+Félix	B-PER
+Bracquemond	I-PER
+(	O
+4	O
+)	O
+
+''Genipa	B-LOC
+americana	I-LOC
+''	I-LOC
+,	I-LOC
+Rubiaceae	I-LOC

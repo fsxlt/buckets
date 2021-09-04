@@ -1,0 +1,48 @@
+Utrechtse	B-LOC
+Heuvelrug	I-LOC
+(	I-LOC
+gemeente	I-LOC
+)	I-LOC
+-	O
+
+'	O
+''	O
+Eric	B-PER
+Butorac	I-PER
+Jean-Julien	B-PER
+Rojer	I-PER
+''	O
+'	O
+
+Na	O
+13	O
+km	O
+sloeg	O
+zij	O
+een	O
+beslissend	O
+gaatje	O
+met	O
+de	O
+Keniaanse	B-LOC
+Joyce	B-PER
+Chepchumba	I-PER
+.	O
+
+Łobez	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+-	O
+Bosbranden	B-ORG
+in	I-ORG
+Griekenland	I-ORG
+2009	I-ORG
+
+'	O
+''	O
+Sparta	B-ORG
+Rotterdam	I-ORG
+''	O
+'	O

@@ -1,0 +1,37 @@
+Marcel	B-PER
+Kimemba	I-PER
+Mbayo	I-PER
+-	O
+Sakaryaspor	B-ORG
+2005-2006	O
+
+Topanga	B-LOC
+,	I-LOC
+Kaliforniya	I-LOC
+,	O
+
+Kemal	B-PER
+Başar	I-PER
+-	O
+Hapishane	O
+Müdürü	O
+
+1877-78	B-ORG
+Osmanlı-Rus	I-ORG
+savaşı	I-ORG
+sonrasında	O
+kurulan	O
+Bulgaristan	B-LOC
+Prensliği'nde	I-LOC
+,	O
+eğitim	O
+sisteminin	O
+oluşturulmasına	O
+katkıda	O
+bulundu	O
+.	O
+
+Grey	B-ORG
+'s	I-ORG
+Anatomy	I-ORG
+''	O

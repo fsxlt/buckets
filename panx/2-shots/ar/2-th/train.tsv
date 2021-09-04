@@ -1,0 +1,47 @@
+كما	O
+تقوم	O
+بتنفيذ	O
+المهام	O
+الخاصة	O
+بالتعاون	O
+مع	O
+القوات	B-ORG
+الجوية	I-ORG
+.	O
+
+تحويل	O
+ويليام	B-PER
+جينكس	I-PER
+وارث	I-PER
+
+تحويل	O
+آشور	B-PER
+نادين	I-PER
+آهي	I-PER
+الأول	I-PER
+
+عالم	B-ORG
+البيسبول	I-ORG
+الكلاسيكي	I-ORG
+،	O
+أنشئها	O
+الاتحاد	B-ORG
+الدولي	I-ORG
+لكرة	I-ORG
+القاعدة	I-ORG
+.	O
+
+تحويل	O
+بلدة	B-LOC
+رايلي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+كلينتون	I-LOC
+)	I-LOC
+
+تحويل	O
+غلستان	B-LOC
+مهدي	I-LOC
+(	I-LOC
+ريغستان	I-LOC
+)	I-LOC

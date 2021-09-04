@@ -1,0 +1,78 @@
+Kimi	B-ORG
+wa	I-ORG
+Jitensha	I-ORG
+Watashi	I-ORG
+wa	I-ORG
+Densha	I-ORG
+de	I-ORG
+Kitaku	I-ORG
+(	O
+君は自転車	O
+私は電車で帰宅	O
+)	O
+
+Kor	B-ORG
+Marin	I-ORG
+Amerika	I-ORG
+Syarikat	I-ORG
+
+''Dinyanyikan	O
+oleh	O
+Suzuki	B-PER
+Airi	I-PER
+dan	O
+Yajima	B-PER
+Maimi	I-PER
+''	O
+
+===	O
+Dewan	B-ORG
+Undangan	I-ORG
+Negeri	I-ORG
+Pahang	I-ORG
+===	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Marne	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+Pyrénées	I-ORG
+besar	I-ORG
+
+Pasukan	B-PER
+bola	I-PER
+sepak	I-PER
+kebangsaan	I-PER
+Indonesia	I-PER
+
+'	O
+''	O
+Nico	B-PER
+Hülkenberg	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haut-Rhin	I-LOC
+
+'	O
+''	O
+Jenson	B-PER
+Button	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Drôme	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aveyron	I-LOC

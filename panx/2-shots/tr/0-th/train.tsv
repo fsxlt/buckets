@@ -1,0 +1,52 @@
+YÖNLENDİRME	O
+Esenyaka	B-LOC
+,	I-LOC
+Yusufeli	I-LOC
+
+Nayarit	B-LOC
+(	O
+büyük	O
+kesimi	O
+)	O
+
+'	O
+''	O
+Nigel	B-PER
+Mansell	I-PER
+''	O
+'	O
+
+2.	B-ORG
+Lig	I-ORG
+ekiplerinden	O
+Fethiyespor'da	B-ORG
+oynamaktadır	O
+.	O
+
+YÖNLENDİRME	O
+Pamuk	B-PER
+Prenses	I-PER
+ve	I-PER
+Yedi	I-PER
+Cüceler	I-PER
+
+YÖNLENDİRME	O
+ABD	B-ORG
+Millî	I-ORG
+Basketbol	I-ORG
+Takımı	I-ORG
+
+Ayrıca	O
+,	O
+Büyük	B-LOC
+Esir	I-LOC
+Gölü'nün	I-LOC
+güneyinde	O
+600	O
+kişiyi	O
+de	O
+etkilemiş	O
+ve	O
+94'ü	O
+ölmüştür	O
+.	O

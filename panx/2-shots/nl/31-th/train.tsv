@@ -1,0 +1,39 @@
+'	O
+''	O
+Clint	B-PER
+Dempsey	I-PER
+''	O
+'	O
+
+The	B-ORG
+Charlie	I-ORG
+Brown	I-ORG
+and	I-ORG
+Snoopy	I-ORG
+Show	I-ORG
+''	O
+
+Station	B-ORG
+Den	I-ORG
+Helder	I-ORG
+-	O
+Den	B-LOC
+Burg	I-LOC
+-	O
+De	B-LOC
+Koog	I-LOC
+
+DOORVERWIJZING	O
+Göyçay	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+Raymonds	O
+grootvader	O
+was	O
+Lodewijk	B-PER
+VI	I-PER
+van	I-PER
+Frankrijk	I-PER
+.	O

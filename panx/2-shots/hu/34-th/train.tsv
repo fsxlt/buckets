@@ -1,0 +1,79 @@
+A	O
+koncertek	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államokban	I-LOC
+és	O
+Európában	B-LOC
+zajlottak	O
+.	O
+
+'	O
+''	O
+AS	B-ORG
+Roma	I-ORG
+''	O
+'	O
+
+Eredeti	O
+areáját	O
+Észak-Afrika	B-LOC
+jelentette	O
+(	O
+főként	O
+az	O
+Atlasz-hegység	B-LOC
+vidéke	O
+)	O
+.	O
+
+Tokaj	B-LOC
+(	I-LOC
+bor	I-LOC
+)	I-LOC
+
+A	O
+rendező	O
+CinemaScope	B-PER
+formátumban	O
+rögzítette	O
+a	O
+klipet	O
+.	O
+
+'	O
+''	O
+Héctor	B-PER
+Barberá	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Kimi	B-PER
+Räikkönen	I-PER
+''	O
+'	O
+
+Az	B-ORG
+Egyesített	I-ORG
+Csapat	I-ORG
+az	I-ORG
+olimpiai	I-ORG
+játékokon	I-ORG
+
+Ez	O
+a	O
+szabályozás	O
+az	O
+egész	O
+jégkorong-közösségben	O
+nagy	O
+felháborodást	O
+keltett	O
+,	O
+így	O
+2006-ra	B-ORG
+eltörölték	O
+.	O

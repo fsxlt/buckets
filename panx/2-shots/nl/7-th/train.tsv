@@ -1,0 +1,59 @@
+Werk	O
+van	O
+Craeyvanger	O
+bevindt	O
+zich	O
+onder	O
+andere	O
+in	O
+de	O
+collectie	O
+van	O
+het	O
+Rijksmuseum	B-ORG
+Amsterdam	I-ORG
+.	O
+
+Aan	O
+de	O
+zijde	O
+van	O
+topspelers	O
+als	O
+Antonio	B-PER
+Roma	I-PER
+,	O
+Antonio	B-PER
+Rattín	I-PER
+en	O
+Silvio	B-PER
+Marzolini	I-PER
+behaalde	O
+hij	O
+drie	O
+landstitels	O
+.	O
+
+11	O
+)	O
+-	O
+Johann	B-PER
+Sebastian	I-PER
+Bach	I-PER
+
+Het	B-ORG
+Journaal	I-ORG
+(	O
+2010	O
+)	O
+
+Gryfów	B-LOC
+Śląski	I-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+
+Effingham	B-LOC
+(	I-LOC
+Illinois	I-LOC
+)	I-LOC

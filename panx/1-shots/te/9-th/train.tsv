@@ -1,0 +1,17 @@
+దారిమార్పు	O
+అలీ	B-PER
+నవాజ్	I-PER
+జంగ్	I-PER
+బహాదుర్	I-PER
+
+MMTS	O
+Timings	O
+దక్షిణ	B-ORG
+మధ్య	I-ORG
+రైల్వే	I-ORG
+ప్రకారం	O
+
+శ్రీకాకుళం	B-LOC
+(	I-LOC
+ఘంటసాల	I-LOC
+)	I-LOC

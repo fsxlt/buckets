@@ -1,0 +1,131 @@
+Miloš	B-PER
+Raonić	I-PER
+''	O
+(	O
+Első	O
+kör	O
+)	O
+
+Nagyon	O
+fiatalon	O
+több	O
+csapat	O
+is	O
+felfigyelt	O
+rá	O
+,	O
+7	O
+évesen	O
+úgy	O
+döntött	O
+,	O
+hogy	O
+gyerekkori	O
+kedvenc	O
+csapatát	O
+,	O
+a	O
+Derby	B-ORG
+Countyt	I-ORG
+választja	O
+.	O
+
+Az	O
+áttörést	O
+az	O
+hozta	O
+meg	O
+,	O
+amikor	O
+az	O
+angol	B-ORG
+másodosztályban	I-ORG
+szereplő	O
+Charlton	B-ORG
+Athletic	I-ORG
+leigazolta	O
+.	O
+
+Ilf	B-PER
+és	I-PER
+Petrov	I-PER
+
+A	O
+következő	O
+város	O
+Port	B-LOC
+Augusta	I-LOC
+lenne	O
+,	O
+ahonnan	O
+az	O
+északra	O
+tartó	O
+útra	O
+rá	O
+lehet	O
+térni	O
+.	O
+
+Az	B-ORG
+Egyesített	I-ORG
+Csapat	I-ORG
+az	I-ORG
+olimpiai	I-ORG
+játékokon	I-ORG
+
+A	O
+Cheb	B-LOC
+déli	O
+szomszédságában	O
+fekvő	O
+településnek	O
+mindössze	O
+41	O
+lakosa	O
+van	O
+.	O
+
+Miami]]	O
+,	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államok	I-LOC
+
+Estación	B-ORG
+de	I-ORG
+Barcelona	I-ORG
+Sants	I-ORG
+
+'	O
+''	O
+Marco	B-PER
+Melandri	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Malón	B-LOC
+(	I-LOC
+község	I-LOC
+)	I-LOC
+
+Leonhard	B-PER
+Euler	I-PER
+(	O
+1707–1783	O
+)	O
+
+A	O
+hegy	O
+a	O
+Triglav	B-LOC
+Nemzeti	I-LOC
+Park	I-LOC
+névadója	O
+,	O
+melynek	O
+központi	O
+részén	O
+található	O
+.	O

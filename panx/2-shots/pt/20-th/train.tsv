@@ -1,0 +1,41 @@
+Brenda	B-PER
+Song	I-PER
+(	O
+A	O
+Capitã	O
+)	O
+
+''	O
+Meganola	O
+togatulalis	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+Concílio	B-ORG
+Vaticano	I-ORG
+II	I-ORG
+
+Bad	B-LOC
+Bleiberg	I-LOC
+(	O
+2.464	O
+)	O
+
+'	O
+''	O
+Andrea	B-PER
+Hlaváčková	I-PER
+Lucie	B-PER
+Hradecká	I-PER
+
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Rio	B-LOC
+Grande	I-LOC
+do	I-LOC
+Sul	I-LOC

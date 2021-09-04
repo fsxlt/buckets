@@ -1,0 +1,31 @@
+जगदीश	B-PER
+राज	I-PER
+-	O
+पुलिस	O
+इंस्पेक्टर	O
+
+सूफी	B-PER
+अंबा	I-PER
+प्रसाद	I-PER
+भटनागर	I-PER
+
+सायन	B-LOC
+पर्वत	I-LOC
+शृंखला	I-LOC
+
+अनुप्रेषित	O
+जई	B-ORG
+का	I-ORG
+दलिया	I-ORG
+
+राष्ट्रीय	B-ORG
+प्रौद्योगिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+सूरतकल	I-ORG
+
+भारतीय	B-LOC
+क्षेत्रीय	I-LOC
+नौवहन	I-LOC
+उपग्रह	I-LOC
+प्रणाली	I-LOC

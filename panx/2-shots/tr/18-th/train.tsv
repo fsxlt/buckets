@@ -1,0 +1,50 @@
+Şehirden	O
+ileri	O
+gidildiğinde	O
+Adriyatik	B-LOC
+Denizi	I-LOC
+belirir	O
+.	O
+
+Glen	B-PER
+Rice	I-PER
+(	O
+Miami	B-ORG
+Heat	I-ORG
+)	O
+
+'	O
+''	O
+Betty	B-PER
+White	I-PER
+''	O
+'	O
+''	O
+
+Bu	O
+suyun	O
+yetmeyeceği	O
+anlaşılınca	O
+Kürdistan	B-LOC
+Eyaleti'nden	I-LOC
+de	O
+su	O
+transferi	O
+planlandı	O
+.	O
+
+Premier	B-ORG
+League	I-ORG
+(	O
+5	O
+)	O
+:	O
+2006-07	B-LOC
+,	O
+2007-08	B-LOC
+,	O
+2008-09	B-LOC
+,	O
+2010-11	B-LOC
+,	O
+2012-13	B-LOC

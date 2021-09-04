@@ -1,0 +1,25 @@
+#	O
+北	B-LOC
+海	I-LOC
+道	I-LOC
+
+チ	B-ORG
+ェ	I-ORG
+ロ	I-ORG
+ソ	I-ORG
+ナ	I-ORG
+タ	I-ORG
+第	I-ORG
+3	I-ORG
+番	I-ORG
+（	O
+ピ	B-PER
+エ	I-PER
+ー	I-PER
+ル	I-PER
+・	I-PER
+フ	I-PER
+ル	I-PER
+ニ	I-PER
+エ	I-PER
+）	O

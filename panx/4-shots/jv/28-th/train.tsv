@@ -1,0 +1,96 @@
+Vereenigde	B-ORG
+Oostindische	I-ORG
+Compagnie	I-ORG
+
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Ali	B-PER
+bin	I-PER
+Abi	I-PER
+Tholib	I-PER
+
+Kuwait	B-LOC
+-	O
+Kuwait	B-LOC
+City	I-LOC
+
+ALIH	O
+Kodhe	B-ORG
+maskapai	I-ORG
+pamaburan	I-ORG
+IATA	I-ORG
+
+Repertoar	O
+iki	O
+arupa	O
+daur	O
+ulang	O
+saka	O
+répertoar	O
+berjudul	O
+padha	O
+kang	O
+pernah	O
+ditotonaké	O
+déning	O
+Tim	O
+S	O
+SKE48	B-ORG
+.	O
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+Powiat	B-LOC
+Puławy	I-LOC
+,	O
+Puławy	B-LOC
+
+1998	B-ORG
+-	O
+''ora	O
+lolos	O
+''	O
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+ALIH	O
+Bacharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O
+
+Kasor	O
+PF	O
+vs	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O

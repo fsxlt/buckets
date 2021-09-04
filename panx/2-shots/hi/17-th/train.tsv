@@ -1,0 +1,46 @@
+पश्चिम	B-LOC
+सिक्किम	I-LOC
+जिला	I-LOC
+
+'	O
+''	O
+अबू	B-LOC
+धाबी	I-LOC
+''	O
+'	O
+यूनाईटेड	B-LOC
+अरब	I-LOC
+एमिराइट्स	I-LOC
+
+'	O
+''	O
+मोरोगोरो	O
+,	O
+'	O
+''	O
+तंजानिया	B-LOC
+
+**	O
+कॉफ़ी	B-ORG
+(	I-ORG
+Coffee	I-ORG
+)	I-ORG
+
+ताज	B-PER
+बीबी	I-PER
+बिलक़िस	I-PER
+मकानी	I-PER
+
+दक्षिण	B-ORG
+दिल्ली	I-ORG
+लोकसभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+महमूद	B-PER
+,	O
+शाहरुख़	B-PER
+ख़ान	I-PER
+,	O
+मनीषा	B-PER
+कोइराला	I-PER

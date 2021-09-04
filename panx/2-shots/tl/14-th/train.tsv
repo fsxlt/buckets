@@ -1,0 +1,44 @@
+Liloan	B-LOC
+,	I-LOC
+Katimugang	I-LOC
+Leyte	I-LOC
+
+Mga	B-LOC
+estadong	I-LOC
+Baltiko	I-LOC
+
+Dionisio	B-PER
+II	I-PER
+ng	I-PER
+Siracusa	I-PER
+
+Mahirap	B-ORG
+na	I-ORG
+kalagayan	I-ORG
+ng	I-ORG
+bilanggo	I-ORG
+
+Jejomar	B-PER
+Binay	I-PER
+nanumpa	O
+na	O
+bilang	O
+Ika-15	O
+na	O
+Pangalawang	B-ORG
+Pangulo	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+.	O
+
+Adana	B-LOC
+(	O
+aggl	O
+.	O
+)	O
+
+Abenida	B-ORG
+Epifanio	I-ORG
+de	I-ORG
+los	I-ORG
+Santos	I-ORG

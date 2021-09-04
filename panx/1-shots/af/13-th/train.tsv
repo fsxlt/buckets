@@ -1,0 +1,40 @@
+Koos	B-PER
+de	I-PER
+la	I-PER
+Rey	I-PER
+.	O
+
+Milton	B-LOC
+Keynes	I-LOC
+(	O
+Unitêre	O
+)	O
+
+Die	O
+vraag	O
+wie	O
+die	O
+huidige	O
+aanspraakmaker	O
+op	O
+die	O
+hoofskap	O
+van	O
+die	O
+Huis	B-ORG
+van	I-ORG
+Romanof	I-ORG
+is	O
+,	O
+is	O
+debatteerbaar	O
+.	O
+
+**	O
+''Keeper	O
+of	O
+Promises	O
+''	O
+(	O
+Brasilië	B-LOC
+)	O

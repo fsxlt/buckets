@@ -1,0 +1,31 @@
+'	O
+''	O
+Universiteit	B-ORG
+van	I-ORG
+Pretoria	I-ORG
+''	O
+'	O
+
+Walter	B-PER
+Battiss	I-PER
+-	O
+kunstenaar	O
+
+Die	O
+eerste	O
+gedokumenteerde	O
+gebruik	O
+van	O
+'n	O
+georganiseerde	O
+koerierdiens	O
+vir	O
+die	O
+stuur	O
+van	O
+briewe	O
+is	O
+in	O
+Antieke	B-LOC
+Egipte	I-LOC
+.	O

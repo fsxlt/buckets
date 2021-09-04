@@ -1,0 +1,130 @@
+'	O
+''	O
+Koppenhága	B-LOC
+''	O
+'	O
+,	O
+Dánia	B-LOC
+
+Gerd	B-PER
+Müller	I-PER
+megint	O
+gólkirály	O
+lett	O
+.	O
+
+'	O
+''	O
+(	O
+x	O
+)	O
+'	O
+''	O
+Phoenix	B-ORG
+Suns	I-ORG
+
+Vitas	B-PER
+Gerulaitis	I-PER
+''	O
+(	O
+Első	O
+kör	O
+)	O
+''	O
+
+'	O
+''	O
+Ciuldești	O
+''	O
+'	O
+falu	O
+Romániában	B-LOC
+,	O
+Fehér	B-LOC
+megyében	I-LOC
+.	O
+
+Michelangelo	B-PER
+Buonarroti	I-PER
+(	O
+1475–1564	O
+)	O
+
+A	O
+DreamWorks	B-ORG
+Animation	I-ORG
+készítette	O
+,	O
+a	O
+Paramount	B-ORG
+Pictures	I-ORG
+forgalmazta	O
+.	O
+
+80	O
+km-re	O
+nyugatra	O
+ered	O
+a	O
+Hindukusban	B-LOC
+.	O
+
+Gabrielle	B-PER
+Solis	I-PER
+szerepét	O
+Eva	B-PER
+Longoria	I-PER
+játszotta	O
+el	O
+,	O
+az	O
+anyagias	O
+hajdani	O
+modellt	O
+,	O
+aki	O
+megcsalja	O
+a	O
+férjét	O
+.	O
+
+Levínská	B-LOC
+Olešnice	I-LOC
+(	O
+falu	O
+,	O
+Semily	O
+)	O
+
+**az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államokhoz	I-LOC
+tartozó	O
+Puerto	B-LOC
+Rico	I-LOC
+
+A	O
+Dallas	B-ORG
+Cowboys	I-ORG
+27–17-re	O
+nyerte	O
+a	O
+mérkőzést	O
+.	O
+
+Igenis	B-ORG
+,	I-ORG
+miniszter	I-ORG
+úr	I-ORG
+!	I-ORG
+
+Csörgő	B-LOC
+réce	I-LOC
+''	O
+(	O
+Anas	O
+crecca	O
+)	O
+''	O
+,	O

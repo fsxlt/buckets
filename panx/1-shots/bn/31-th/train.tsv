@@ -1,0 +1,23 @@
+উত্তর	B-LOC
+দিনাজপুর	I-LOC
+জেলা	I-LOC
+
+বেন	B-ORG
+১০	I-ORG
+(	I-ORG
+টিভি	I-ORG
+ধারাবাহিক	I-ORG
+)	I-ORG
+
+'	O
+''	O
+এবি	B-PER
+ডি	I-PER
+ভিলিয়ার্স	I-PER
+''	O
+'	O
+
+ম্যাসেডোনিয়া	B-LOC
+(	O
+2010–	O
+)	O

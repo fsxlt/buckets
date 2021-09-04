@@ -1,0 +1,42 @@
+Headstrong	B-ORG
+(	I-ORG
+álbum	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Martina	B-PER
+Navrátilová	I-PER
+Pam	B-PER
+Shriver	I-PER
+
+'	O
+''	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+''	O
+'	O
+,	O
+Brasil	B-LOC
+
+REDIRECIONAMENTO	O
+Grande	B-LOC
+São	I-LOC
+Bernardo	I-LOC
+
+Beijing	B-ORG
+Schmidt	I-ORG
+CCD	I-ORG
+Asteroid	I-ORG
+Program	I-ORG
+
+*1984	O
+-	O
+Quilombo	B-PER
+''	O
+-	O
+(	O
+Gilberto	B-PER
+Gil	I-PER
+)	O

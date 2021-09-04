@@ -1,0 +1,36 @@
+Kababaihan	B-PER
+sa	I-PER
+Pilipinas	I-PER
+
+Maging	B-ORG
+Akin	I-ORG
+Ka	I-ORG
+Lamang	I-ORG
+''	O
+
+Rey	B-PER
+``	I-PER
+PJ	I-PER
+''	I-PER
+Abellana	I-PER
+
+Eksarkado	B-LOC
+ng	I-LOC
+Pilipinas	I-LOC
+
+''	O
+Katok	B-ORG
+Mga	I-ORG
+Misis	I-ORG
+!	I-ORG
+''	O
+(	O
+1995–1998	O
+)	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Torino	I-LOC

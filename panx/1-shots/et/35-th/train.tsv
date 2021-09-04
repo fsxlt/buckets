@@ -1,0 +1,25 @@
+Dvortsovõi	B-ORG
+sild	I-ORG
+(	O
+Paleesild	O
+,	O
+üles	O
+tõstetud	O
+1:25–4:55	O
+)	O
+
+Peeter	B-PER
+Mudist	I-PER
+,	O
+5	O
+teost	O
+
+Need	O
+maod	O
+on	O
+levinud	O
+Hindustani	B-LOC
+poolsaarel	I-LOC
+ja	O
+Kagu-Aasias	B-LOC
+.	O

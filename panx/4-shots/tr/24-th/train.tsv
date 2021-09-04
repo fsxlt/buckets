@@ -1,0 +1,107 @@
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O
+
+YÖNLENDİRME	O
+Turkuaz	B-ORG
+(	I-ORG
+mineral	I-ORG
+)	I-ORG
+
+Bu	O
+bölüm	O
+,	O
+Orta	B-LOC
+Asya'da	I-LOC
+en	O
+büyük	O
+olan	O
+18,2	O
+m	O
+çapında	O
+ölçümünde	O
+bir	O
+tuğla	O
+kubbe	O
+ile	O
+kaplıdır	O
+.	O
+
+Yaklaşık	O
+3.500	O
+yıl	O
+önce	O
+Zerdüşt	B-PER
+tarafından	O
+İran'da	B-LOC
+kurulmuştur	O
+.	O
+
+Dan	B-PER
+Castellaneta	I-PER
+-	O
+Narrator	O
+
+YÖNLENDİRME	O
+Alatna	B-LOC
+,	I-LOC
+Alaska	I-LOC
+
+'	O
+''	O
+Carl	B-PER
+Weathers	I-PER
+''	O
+'	O
+
+Manisaspor	B-ORG
+ve	O
+Akhisar	B-ORG
+Belediyespor'a	I-ORG
+yakınlığıyla	O
+tanınır	O
+ve	O
+ağırlıklı	O
+olarak	O
+Ege	B-LOC
+Bölgesinin	I-LOC
+ekiplerinde	O
+görev	O
+almakta	O
+.	O
+
+Washington	B-ORG
+Wizards-x	I-ORG
+(	O
+5	O
+)	O
+
+Suudi	B-LOC
+Arabistan'da	I-LOC
+bulunan	O
+örnekler	O
+ise	O
+genellikle	O
+80	O
+cm	O
+uzunluğu	O
+geçemezler	O
+.	O
+
+Bu	O
+hırsızlıklar	O
+Hercule	B-PER
+Poirot'a	I-PER
+ilginç	O
+gözükmemektedir	O
+.	O
+
+BK	B-ORG
+Donetsk	I-ORG
+B	O
+(	O
+1	O
+)	O

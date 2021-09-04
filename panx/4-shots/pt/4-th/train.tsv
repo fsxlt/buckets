@@ -1,0 +1,89 @@
+Alessandro	B-PER
+Pier	I-PER
+Guidi	I-PER
+3	O
+,	O
+Ho-Pin	B-PER
+Tung	I-PER
+1	O
+
+The	B-ORG
+20	I-ORG
+/	I-ORG
+20	I-ORG
+Experience	I-ORG
+''	O
+
+Hardtner	B-LOC
+(	I-LOC
+Kansas	I-LOC
+)	I-LOC
+
+Marco	B-PER
+Antônio	I-PER
+Orador	I-PER
+
+And	B-ORG
+Thou	I-ORG
+Shalt	I-ORG
+Trust	I-ORG
+...	I-ORG
+the	I-ORG
+Seer	I-ORG
+
+``	O
+Mi	B-ORG
+Chico	I-ORG
+Latino	I-ORG
+''	O
+
+'	O
+''	O
+Valentino	B-PER
+Rossi	I-PER
+''	O
+'	O
+
+''	O
+Bulbophyllum	B-LOC
+rubiferum	I-LOC
+''	O
+J.J.Sm	O
+.	O
+
+Memphis	B-PER
+Slim	I-PER
+(	O
+1915-1988	O
+)	O
+
+Até	O
+hoje	O
+existem	O
+controvérisas	O
+quanto	O
+ao	O
+valor	O
+pago	O
+pelo	O
+Banco	B-ORG
+Bilbao	I-ORG
+Vizcaya	I-ORG
+Argentaria	I-ORG
+.	O
+
+REDIRECIONAMENTO	O
+Kaduna	B-LOC
+(	I-LOC
+estado	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Brasil	B-LOC
+''	O
+'	O
+
+Coreia	B-LOC
+do	I-LOC
+Norte	I-LOC

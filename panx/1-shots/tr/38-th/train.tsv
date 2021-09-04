@@ -1,0 +1,19 @@
+Lipova	B-LOC
+,	I-LOC
+Arad	I-LOC
+
+Mustafa	B-PER
+Fehmi	I-PER
+Kubilay	I-PER
+ve	O
+2	O
+asker	O
+hayatını	O
+kaybetti	O
+.	O
+
+Dosya	O
+:	O
+Belgrad	B-ORG
+Üniversitesi	I-ORG
+Binası	O

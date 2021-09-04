@@ -1,0 +1,16 @@
+Orde	B-ORG
+van	I-ORG
+die	I-ORG
+Tempeliers	I-ORG
+
+Green	B-LOC
+Bay	I-LOC
+,	I-LOC
+Wisconsin	I-LOC
+
+Haar	O
+voorganger	O
+was	O
+Johannes	B-PER
+Mahlangu	I-PER
+.	O

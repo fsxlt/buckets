@@ -1,0 +1,49 @@
+'	O
+''	O
+Dino	B-PER
+Baggio	I-PER
+''	O
+'	O
+
+Meche	B-PER
+Barba	I-PER
+...	O
+''Raquel	O
+''	O
+
+Estadio	B-ORG
+Centenario	I-ORG
+,	O
+Montevideo	B-LOC
+,	O
+Buenos	B-LOC
+Aires	I-LOC
+
+Tras	O
+ese	O
+año	O
+fichó	O
+por	O
+el	O
+Club	B-ORG
+Deportivo	I-ORG
+Guadalajara	I-ORG
+(	I-ORG
+España	I-ORG
+)	I-ORG
+,	O
+donde	O
+fue	O
+titular	O
+indiscutible	O
+durante	O
+toda	O
+la	O
+temporada	O
+.	O
+
+Habita	O
+en	O
+Nueva	B-LOC
+Guinea	I-LOC
+.	O

@@ -1,0 +1,35 @@
+'	O
+''	O
+Glaiza	B-PER
+de	I-PER
+Castro	I-PER
+''	O
+'	O
+
+Pyra	B-ORG
+:	I-ORG
+Ang	I-ORG
+Babaeng	I-ORG
+Apoy	I-ORG
+''	O
+
+Los	B-LOC
+Baños	I-LOC
+,	I-LOC
+Laguna	I-LOC
+
+Nagsasariling	B-LOC
+Sosyalistikong	I-LOC
+Republikang	I-LOC
+Soviet	I-LOC
+ng	I-LOC
+Udmurt	I-LOC
+
+Enrique	B-PER
+ang	I-PER
+Nabigador	I-PER
+
+Unibersidad	B-ORG
+ng	I-ORG
+La	I-ORG
+Salette	I-ORG

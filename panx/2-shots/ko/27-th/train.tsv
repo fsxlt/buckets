@@ -1,0 +1,42 @@
+아베노	B-LOC
+구	I-LOC
+(	O
+阿倍野區	O
+)	O
+
+가코	B-LOC
+군	I-LOC
+이나미	B-LOC
+정	I-LOC
+
+넘겨주기	O
+클로도아우두	B-PER
+파울리뉴	I-PER
+지	I-PER
+리마	I-PER
+
+슈바인슈타이거는	O
+맨체스터	B-ORG
+유나이티드	I-ORG
+FC	I-ORG
+원정에서	O
+이비차	B-PER
+올리치의	I-PER
+추격골의	O
+시발점이	O
+되는	O
+롱패스를	O
+제공했으며	O
+양팀	O
+선수가운데	O
+가장	O
+많은	O
+활동량을	O
+보여주었다	O
+.	O
+
+애리조나	B-ORG
+대학교	I-ORG
+(	O
+1985	O
+)	O

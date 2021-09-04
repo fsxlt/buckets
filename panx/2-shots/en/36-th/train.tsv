@@ -1,0 +1,45 @@
+He	O
+is	O
+buried	O
+at	O
+the	O
+Mount	B-LOC
+of	I-LOC
+Olives	I-LOC
+in	O
+Jerusalem	B-LOC
+,	O
+near	O
+Menachem	B-PER
+Begin	I-PER
+.	O
+
+``	O
+Pumped	B-ORG
+Up	I-ORG
+Kicks	I-ORG
+''	O
+
+Won	O
+the	O
+African	B-ORG
+Champions	I-ORG
+League	I-ORG
+once	O
+with	O
+JS	B-ORG
+Kabylie	I-ORG
+in	O
+1990	O
+
+Guido	B-PER
+De	I-PER
+Luigi	I-PER
+
+=	O
+Riccardia	B-LOC
+chamedryfolia	I-LOC
+''	O
+(	O
+With	O
+.	O

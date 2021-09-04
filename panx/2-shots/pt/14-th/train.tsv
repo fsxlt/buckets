@@ -1,0 +1,31 @@
+Death	B-ORG
+from	I-ORG
+Above	I-ORG
+1979	I-ORG
+
+Chafariz	B-ORG
+de	I-ORG
+São	I-ORG
+Miguel	I-ORG
+
+Liedtke	B-PER
+,	I-PER
+Jochen	I-PER
+''	O
+
+===	O
+Ilha	B-LOC
+de	I-LOC
+São	I-LOC
+Tomé	I-LOC
+===	O
+
+REDIRECIONAMENTO	O
+Coletividade	B-LOC
+de	I-LOC
+ultramar	I-LOC
+
+REDIRECIONAMENTO	O
+Alex	B-PER
+D.	I-PER
+Linz	I-PER

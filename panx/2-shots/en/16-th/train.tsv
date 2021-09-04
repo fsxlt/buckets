@@ -1,0 +1,31 @@
+William	B-PER
+O'Connor	I-PER
+''	O
+(	O
+First	O
+round	O
+)	O
+
+'	O
+''	O
+Felicia	B-PER
+Day	I-PER
+''	O
+'	O
+
+Robin	B-ORG
+Park	I-ORG
+Centre	I-ORG
+,	O
+Wigan	B-LOC
+,	O
+Greater	B-LOC
+Manchester	I-LOC
+
+College	B-ORG
+of	I-ORG
+DuPage	I-ORG
+(	O
+Glen	B-LOC
+Ellyn	I-LOC
+)	O

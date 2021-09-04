@@ -1,0 +1,42 @@
+être	O
+éligible	O
+à	O
+la	O
+Lok	B-ORG
+Sabha	I-ORG
+.	O
+
+'	O
+''	O
+Alex	B-PER
+Len	I-PER
+''	O
+'	O
+
+Champion	B-ORG
+olympique	I-ORG
+aux	O
+Jeux	B-ORG
+de	I-ORG
+Turin	I-ORG
+2006	I-ORG
+.	O
+
+San	B-LOC
+Cristóbal	I-LOC
+de	I-LOC
+La	I-LOC
+Laguna	I-LOC
+,	O
+en	O
+Espagne	B-LOC
+
+Xian	B-LOC
+de	I-LOC
+Chindu	I-LOC
+
+Jerko	B-PER
+Tipurić	I-PER
+(	O
+2	O
+)	O

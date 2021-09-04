@@ -1,0 +1,17 @@
+Baldwini	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+)	O
+
+suuna	O
+ÜRO	B-ORG
+Pagulaste	I-ORG
+Ülemvoliniku	I-ORG
+Amet	I-ORG
+
+François	B-PER
+Duval	I-PER
+(	O
+Belgia	B-LOC
+)	O

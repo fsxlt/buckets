@@ -1,0 +1,37 @@
+Si	O
+trova	O
+su	O
+un'isoletta	O
+circondata	O
+dalle	O
+acque	O
+della	O
+Baia	B-LOC
+di	I-LOC
+Baffin	I-LOC
+,	O
+a	O
+72°09'N	O
+55°33'O	O
+;	O
+appartiene	O
+al	O
+comune	B-LOC
+di	O
+Qaasuitsup	B-LOC
+.	O
+
+'	O
+''	O
+Romain	B-PER
+Barras	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Conclave	B-ORG
+del	I-ORG
+1922	I-ORG
+''	O
+'	O

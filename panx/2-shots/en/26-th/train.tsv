@@ -1,0 +1,41 @@
+Walter	B-PER
+B.	I-PER
+Woodbury	I-PER
+
+United	B-LOC
+States	I-LOC
+:	O
+Henry	B-PER
+Wadsworth	I-PER
+Longfellow	I-PER
+,	O
+Ralph	B-PER
+Waldo	I-PER
+Emerson	I-PER
+,	O
+Edgar	B-PER
+Allan	I-PER
+Poe	I-PER
+
+Longfellow	B-ORG
+Bridge	I-ORG
+,	O
+Boston	B-LOC
+/	O
+Cambridge	B-LOC
+
+He	O
+was	O
+born	O
+and	O
+died	O
+in	O
+Carton	B-LOC
+House	I-LOC
+.	O
+
+Label	O
+:	O
+Universal	B-ORG
+Republic	I-ORG
+Records	I-ORG

@@ -1,0 +1,28 @@
+Kaapse	B-LOC
+Wynlande	I-LOC
+(	O
+DC2	O
+)	O
+in	O
+die	O
+noorde	O
+
+Humphreys-versameling	O
+by	O
+die	O
+Universiteit	B-ORG
+van	I-ORG
+die	I-ORG
+Witwatersrand	I-ORG
+
+Hy	O
+was	O
+aan	O
+moederskant	O
+verwant	O
+aan	O
+Erik	B-PER
+V	I-PER
+van	I-PER
+Denemarke	I-PER
+.	O

@@ -1,0 +1,55 @@
+Az	O
+odavágón	O
+a	O
+debütáló	O
+Kleinheisler	B-PER
+László	I-PER
+26.	O
+percben	O
+szerzett	O
+góljával	O
+sikerült	O
+nyerni	O
+az	O
+oslói	B-LOC
+Ullevaal	B-ORG
+Stadionban	I-ORG
+,	O
+és	O
+így	O
+1-0-ás	O
+előnyből	O
+várhattuk	O
+a	O
+hazai	O
+találkozót	O
+.	O
+
+Az	O
+Iserniai	B-LOC
+Grófság	I-LOC
+része	O
+volt	O
+.	O
+
+A	O
+World	B-ORG
+Chess	I-ORG
+Hall	I-ORG
+of	I-ORG
+Fame	I-ORG
+tagjai	O
+
+'	O
+''	O
+Charlotte	B-PER
+York	I-PER
+Goldenblatt	I-PER
+''	O
+'	O
+
+A	B-LOC
+Debreceni	I-LOC
+VSC	I-LOC
+2014–2015-ös	I-LOC
+szezonja	I-LOC

@@ -1,0 +1,99 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Saône	I-LOC
+
+Seperti	O
+di	O
+``	O
+The	B-PER
+Thing	I-PER
+''	O
+di	O
+mana	O
+bahkan	O
+setelah	O
+Squidward	O
+menyuruh	O
+mereka	O
+untuk	O
+pulang	O
+dan	O
+dia	O
+membanting	O
+pintu	O
+di	O
+depan	O
+wajah	O
+mereka	O
+,	O
+mereka	O
+masih	O
+masuk	O
+ke	O
+rumahnya	O
+dan	O
+duduk	O
+sendiri	O
+di	O
+sofanyas	O
+.	O
+
+Universitas	B-ORG
+California	I-ORG
+,	I-ORG
+Berkeley	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Finistère	I-LOC
+
+ALIH	O
+Ali	B-PER
+Mohammed	I-PER
+Mujawar	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Moselle	I-LOC
+
+'	O
+''	O
+FC	B-ORG
+Midtjylland	I-ORG
+''	O
+'	O
+
+ALIH	O
+Abdul	B-PER
+Qadir	I-PER
+Bajamal	I-PER
+
+ALIH	O
+Organisasi	B-ORG
+Internasional	I-ORG
+untuk	I-ORG
+Standardisasi	I-ORG
+
+ALIH	O
+Pilâtre	B-PER
+de	I-PER
+Rozier	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Moselle	I-LOC
+
+ALIH	O
+Bank	B-ORG
+Sentral	I-ORG
+Negara-Negara	I-ORG
+Afrika	I-ORG
+Barat	I-ORG

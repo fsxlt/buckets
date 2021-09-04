@@ -1,0 +1,107 @@
+De	O
+schaduwen	O
+van	O
+de	O
+jongens	O
+zijn	O
+dan	O
+weer	O
+de	O
+schaduwen	O
+van	O
+de	O
+leden	O
+van	O
+The	B-ORG
+Cure	I-ORG
+.	O
+
+'	O
+''	O
+Natalie	B-PER
+Grinham	I-PER
+''	O
+'	O
+
+Estadio	B-ORG
+Ramón	I-ORG
+Tahuichi	I-ORG
+Aguilera	I-ORG
+
+Voorzitter	O
+van	O
+het	O
+bestuur	O
+is	O
+Willem	B-PER
+A.	I-PER
+Udenhout	I-PER
+.	O
+
+Onafhankelijke	B-ORG
+Grieken	I-ORG
+/	O
+''onafhankelijk	O
+''	O
+
+Hij	O
+gaf	O
+een	O
+steekpass	O
+op	O
+Tony	B-PER
+Adams	I-PER
+die	O
+het	O
+laatste	O
+doelpunt	O
+scoorde	O
+in	O
+de	O
+4−0	O
+overwinning	O
+op	O
+Everton	B-ORG
+,	O
+waarmee	O
+ze	O
+de	O
+titel	O
+veiligstelden	O
+.	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+Lijst	B-PER
+van	I-PER
+bekende	I-PER
+honderdplussers	I-PER
+
+Mińsk	B-LOC
+Mazowiecki	I-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+''	O
+Pipistrellus	B-LOC
+sturdeei	I-LOC
+''	O
+
+Comarca	B-LOC
+da	I-LOC
+Mariña	I-LOC
+Occidental	I-LOC
+
+DOORVERWIJZING	O
+Seis	B-LOC
+am	I-LOC
+Schlern	I-LOC

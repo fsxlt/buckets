@@ -1,0 +1,21 @@
+'	O
+''	O
+Queen	B-ORG
+Rock	I-ORG
+Montreal	I-ORG
+''	O
+'	O
+''	O
+
+Levínská	B-LOC
+Olešnice	I-LOC
+(	O
+falu	O
+,	O
+Semily	O
+)	O
+
+Brian	B-PER
+Cox	I-PER
+,	O
+színész	O

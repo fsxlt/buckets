@@ -1,0 +1,39 @@
+**	O
+Adolf	B-PER
+Schlagintweit	I-PER
+(	O
+1829-1857	O
+)	O
+
+Een	O
+collega-componiste	O
+Mon	B-PER
+Schjelderup	I-PER
+hielp	O
+haar	O
+soms	O
+.	O
+
+Den	B-LOC
+Haag	I-LOC
+-	O
+Krimpen	B-LOC
+aan	I-LOC
+den	I-LOC
+IJssel	I-LOC
+
+Dubai]]	O
+,	O
+Verenigde	B-LOC
+Arabische	I-LOC
+Emiraten	I-LOC
+
+Wereldkampioenschap	B-ORG
+voetbal	I-ORG
+1970	I-ORG
+
+Me	B-ORG
+and	I-ORG
+My	I-ORG
+Guitar	I-ORG
+''	O

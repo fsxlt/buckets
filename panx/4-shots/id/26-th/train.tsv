@@ -1,0 +1,83 @@
+Ia	O
+terakhir	O
+bermain	O
+untuk	O
+tim	O
+FC	B-ORG
+Rubin-2	I-ORG
+Kazan	I-ORG
+.	O
+
+Munisipalitas	B-LOC
+Sorø	I-LOC
+,	O
+Denmark	B-LOC
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Antonio	B-PER
+López	I-PER
+de	I-PER
+Santa	I-PER
+Anna	I-PER
+
+'	O
+''	O
+Bersama	O
+Kenny	B-PER
+Garrett	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meuse	I-LOC
+
+ALIH	O
+Eyes	B-ORG
+on	I-ORG
+You	I-ORG
+
+The	B-ORG
+Prince	I-ORG
+of	I-ORG
+Tennis	I-ORG
+''	O
+(	O
+테니스의	O
+왕자	O
+)	O
+
+Josh	B-PER
+Hutcherson	I-PER
+sebagai	O
+Peeta	B-PER
+Mellark	I-PER
+
+Dia	O
+dilahirkan	O
+di	O
+San	B-LOC
+Jose	I-LOC
+,	I-LOC
+California	I-LOC
+.	O
+
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Vosges	I-LOC
+
+ALIH	O
+Katedral	B-ORG
+Santo	I-ORG
+Yohanes	I-ORG
+,	I-ORG
+'s-Hertogenbosch	I-ORG

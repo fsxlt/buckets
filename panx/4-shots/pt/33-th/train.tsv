@@ -1,0 +1,87 @@
+``	O
+Freak	B-ORG
+on	I-ORG
+a	I-ORG
+Leash	I-ORG
+''	O
+
+Distrito	B-LOC
+de	I-LOC
+Viana	I-LOC
+do	I-LOC
+Castelo	I-LOC
+
+''	O
+Pleurota	O
+pyropella	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+REDIRECIONAMENTO	O
+Beto	B-ORG
+Vázquez	I-ORG
+Infinity	I-ORG
+
+Beata	B-PER
+Sancha	I-PER
+de	I-PER
+Portugal	I-PER
+
+Alguns	O
+eventos	O
+decorreram-se	O
+nas	O
+subsedes	O
+em	O
+Whistler	B-LOC
+,	O
+Richmond	B-LOC
+e	O
+West	B-LOC
+Vancouver	I-LOC
+.	O
+
+Campeonato	B-ORG
+Brasileiro	I-ORG
+de	I-ORG
+Futebol	I-ORG
+-	I-ORG
+Série	I-ORG
+C	I-ORG
+
+Juan	B-PER
+Luis	I-PER
+Guerra	I-PER
+-	O
+produção	O
+
+'	O
+''	O
+Mattia	B-PER
+Pasini	I-PER
+''	O
+'	O
+
+Yanacancha	B-LOC
+(	I-LOC
+distrito	I-LOC
+de	I-LOC
+Chupaca	I-LOC
+)	I-LOC
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+REDIRECIONAMENTO	O
+Alexandre	B-PER
+de	I-PER
+Bérgamo	I-PER

@@ -1,0 +1,60 @@
+Sankt	B-LOC
+Augustin	I-LOC
+,	O
+Nettetal	B-LOC
+2006	O
+
+Erstes	O
+Länderspiel	O
+von	O
+Bundestrainer	O
+Dagur	B-PER
+Sigurðsson	I-PER
+
+Hà	B-ORG
+Nội	I-ORG
+T	I-ORG
+&	I-ORG
+T	I-ORG
+
+Alle	O
+neun	O
+Vereine	O
+aus	O
+der	O
+S.	B-ORG
+League	I-ORG
+sowie	O
+drei	O
+eingeladene	O
+Vereine	O
+aus	O
+Kambodscha	B-LOC
+und	O
+den	O
+Philippinen	B-LOC
+nehmen	O
+teil	O
+.	O
+
+Aus	O
+Altersgründen	O
+ausgeschieden	O
+,	O
+eröffnete	O
+er	O
+in	O
+Timmendorfer	B-LOC
+Strand	I-LOC
+eine	O
+Praxis	O
+.	O
+
+Unterdessen	O
+schied	O
+Al	B-PER
+Herman	I-PER
+mit	O
+Kupplungsschaden	O
+aus	O
+.	O

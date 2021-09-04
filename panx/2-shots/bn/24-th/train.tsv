@@ -1,0 +1,34 @@
+আচার্য	B-ORG
+জগদীশচন্দ্র	I-ORG
+বসু	I-ORG
+ভারতীয়	I-ORG
+উদ্ভিদ	I-ORG
+উদ্যান	I-ORG
+
+এস.এ.এস.	B-LOC
+নগর	I-LOC
+(	I-LOC
+মোহালি	I-LOC
+)	I-LOC
+
+রাদারফোর্ড	B-PER
+বি.	I-PER
+হেইজ	I-PER
+
+জহুর	B-LOC
+আহমেদ	I-LOC
+চৌধুরী	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+চট্টগ্রাম	B-LOC
+
+'	O
+''	O
+মুরলী	B-PER
+বিজয়	I-PER
+''	O
+'	O
+
+চার	B-ORG
+বর্ণ	I-ORG
+উপপাদ্য	I-ORG

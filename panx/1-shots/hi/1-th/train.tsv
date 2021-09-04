@@ -1,0 +1,17 @@
+पोर्टलैंड	B-LOC
+,	I-LOC
+ऑरेगॉन	I-LOC
+
+ग्रीस	B-LOC
+(	O
+1970	O
+)	O
+
+उज्जैन	B-ORG
+का	I-ORG
+महाकालेश्वर	I-ORG
+मंदिर	I-ORG
+
+मोहम्मद	B-PER
+अली	I-PER
+रजाई	I-PER

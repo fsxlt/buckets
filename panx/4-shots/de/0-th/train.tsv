@@ -1,0 +1,118 @@
+'	O
+''	O
+ADO	B-ORG
+Den	I-ORG
+Haag	I-ORG
+''	O
+'	O
+
+die	O
+Stadt	O
+Lingen	B-LOC
+(	I-LOC
+Ems	I-LOC
+)	I-LOC
+,	O
+
+Während	O
+der	O
+Sommerpause	O
+1991	O
+unterzeichnete	O
+er	O
+beim	O
+AC	B-ORG
+Florenz	I-ORG
+,	O
+bei	O
+dem	O
+er	O
+unter	O
+andern	O
+mit	O
+Gabriel	B-PER
+Batistuta	I-PER
+zusammen	O
+spielte	O
+.	O
+
+WEITERLEITUNG	O
+Robert	B-PER
+Gascoyne-Cecil	I-PER
+,	I-PER
+5.	I-PER
+Marquess	I-PER
+of	I-PER
+Salisbury	I-PER
+
+Czesław	B-PER
+Olech	I-PER
+,	O
+1989	O
+
+Die	O
+darauf	O
+folgende	O
+Instanz	O
+ist	O
+das	O
+Bundesarbeitsgericht	B-ORG
+in	O
+Erfurt	B-LOC
+.	O
+
+Zunächst	O
+umfasste	O
+die	O
+Direktion	O
+nur	O
+das	O
+Streckennetz	O
+der	O
+Großherzoglich	B-ORG
+Oldenburgische	I-ORG
+Staatseisenbahnen	I-ORG
+des	O
+Großherzogtums	B-LOC
+Oldenburgs	I-LOC
+.	O
+
+Métrolinie	B-ORG
+13	I-ORG
+(	I-ORG
+Paris	I-ORG
+)	I-ORG
+
+Hugh	B-PER
+Jackman	I-PER
+,	O
+Rachel	B-PER
+Weisz	I-PER
+
+Texarkana	B-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+
+Diese	O
+können	O
+dann	O
+–	O
+wie	O
+das	O
+Leipziger	B-LOC
+Neuseenland	I-LOC
+–	O
+touristisch	O
+genutzt	O
+werden	O
+.	O
+
+Seine	O
+Familie	O
+gehört	O
+zur	O
+Volksgruppe	O
+der	O
+Venda	B-LOC
+.	O

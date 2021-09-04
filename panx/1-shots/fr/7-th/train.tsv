@@ -1,0 +1,22 @@
+REDIRECTION	O
+Liste	B-PER
+de	I-PER
+films	I-PER
+produits	I-PER
+par	I-PER
+Paramount	I-PER
+Pictures	I-PER
+
+L'agent	O
+J.P.	B-ORG
+Hooper	I-ORG
+.	O
+
+Oued	B-LOC
+Sly	I-LOC
+(	O
+Wilaya	B-LOC
+de	I-LOC
+Chlef	I-LOC
+)	O
+.	O

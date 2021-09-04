@@ -1,0 +1,62 @@
+Paus	B-PER
+Pius	I-PER
+X	I-PER
+--	O
+--	O
+--	O
+Ya	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+Korean	B-ORG
+Air	I-ORG
+(	O
+Seoul-Incheon	O
+)	O
+
+Deheweke	O
+wis	O
+kaping	O
+112	O
+mbela	O
+timnas	O
+,	O
+iku	O
+ndadekake	O
+dheweke	O
+urutan	O
+nomer	O
+telu	O
+wong	O
+kang	O
+paling	O
+akeh	O
+mbela	O
+timnas	O
+,	O
+nomer	O
+siji	O
+Paolo	B-PER
+Maldini	I-PER
+lan	O
+nomer	O
+loro	O
+Fabio	B-PER
+Cannavaro	I-PER
+.	O
+
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+ALIH	O
+Jailolo	B-LOC
+,	I-LOC
+Halmahera	I-LOC
+Kulon	I-LOC

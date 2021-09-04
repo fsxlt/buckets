@@ -1,0 +1,77 @@
+تحويل	O
+بوسطن	B-ORG
+(	I-ORG
+ريد	I-ORG
+سوكس	I-ORG
+)	I-ORG
+
+**	O
+تكريم	O
+من	O
+معهد	B-ORG
+العالم	I-ORG
+العربي	I-ORG
+في	O
+باريس	B-LOC
+.	O
+
+تحويل	O
+بلانكا	B-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+عطار	B-LOC
+(	I-LOC
+جنس	I-LOC
+صدف	I-LOC
+)	I-LOC
+
+**	O
+واشنطن	B-LOC
+العاصمة	I-LOC
+(	O
+وفد	O
+عام	O
+)	O
+
+محمد	B-PER
+ناصر	I-PER
+الدين	I-PER
+الألباني	I-PER
+
+مجلس	B-ORG
+الأمن	I-ORG
+الوطني	I-ORG
+السعودي	I-ORG
+.	O
+
+تحويل	O
+خافيير	B-PER
+أوليفا	I-PER
+رودريغيز	I-PER
+
+تحويل	O
+متباينة	B-ORG
+(	I-ORG
+جبر	I-ORG
+)	I-ORG
+
+تحويل	O
+محمد	B-PER
+حسين	I-PER
+طنطاوي	I-PER
+
+تحويل	O
+تشان	B-PER
+سيو	I-PER
+كي	I-PER
+
+تحويل	O
+بلدة	B-LOC
+فالي،	I-LOC
+مقاطعة	I-LOC
+كينغمان	I-LOC
+(	I-LOC
+كنساس	I-LOC
+)	I-LOC

@@ -1,0 +1,78 @@
+Bosnia	B-LOC
+na	I-LOC
+Herzegovina	I-LOC
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Harvard	I-ORG
+
+Lambo	B-ORG
+la	I-ORG
+Aswan	I-ORG
+
+Do	B-ORG
+for	I-ORG
+Love	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Matsue	B-LOC
+(	O
+松江市	O
+)	O
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+39208	O
+.	O
+
+''	O
+Jamaika	B-LOC
+''	O
+'	O
+
+Chris	B-PER
+Hughes	I-PER
+(	I-PER
+Facebook	I-PER
+)	I-PER
+
+Fasilides	B-PER
+wa	I-PER
+Ethiopia	I-PER
+
+Eneo	O
+lake	O
+ni	O
+47	O
+km²	B-ORG
+.	O
+
+Reli	B-ORG
+ya	I-ORG
+Tanganyika	I-ORG
+
+Mkoa	B-LOC
+wa	I-LOC
+Niigata	I-LOC
+katika	O
+Japani	B-LOC
+
+Carlos	B-PER
+Bernard	I-PER
+kama	O
+Tony	B-PER
+Almeida	I-PER
+
+Labda	O
+ndio	O
+waliomlea	O
+mtoto	O
+Yohane	B-PER
+Mbatizaji	I-PER
+.	O

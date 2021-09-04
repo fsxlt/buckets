@@ -1,0 +1,58 @@
+YÖNLENDİRME	O
+Akgöz	B-LOC
+,	I-LOC
+Bartın	I-LOC
+
+Runciman	B-PER
+,	I-PER
+Steven	I-PER
+(	O
+çev	O
+.	O
+
+Ardından	O
+iki	O
+buçuk	O
+yıl	O
+boyunca	O
+İstanbul'da	B-LOC
+Yapı	B-ORG
+Kredi	I-ORG
+Bankası'nda	I-ORG
+çalıştı	O
+.	O
+
+Fransız	B-ORG
+Partizanlar	I-ORG
+ise	O
+çıkarma	O
+yapan	O
+Müttefik	B-ORG
+Devletleri'ine	I-ORG
+destek	O
+vermek	O
+için	O
+harekete	O
+geçti	O
+.	O
+
+Aşağı	B-LOC
+Kurtboğan	I-LOC
+,	O
+Taşpınar	B-LOC
+ve	O
+Doğancı	B-LOC
+köylerinden	O
+geçer	O
+.	O
+
+'	O
+''	O
+Teknik	O
+Direktör	O
+:	O
+'	O
+''	O
+Marco	B-PER
+van	I-PER
+Basten	I-PER

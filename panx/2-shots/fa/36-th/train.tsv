@@ -1,0 +1,51 @@
+تغییرمسیر	O
+هادریانوس	B-PER
+(	I-PER
+روم	I-PER
+)	I-PER
+
+'	O
+''	O
+چوکات	O
+بالا	O
+''	O
+'،	O
+روستایی	O
+از	O
+توابع	O
+بخش	B-LOC
+پلان	I-LOC
+شهرستان	B-LOC
+چابهار	I-LOC
+در	O
+استان	B-LOC
+سیستان	I-LOC
+و	I-LOC
+بلوچستان	I-LOC
+ایران	B-LOC
+است	O
+.	O
+
+تغییرمسیر	O
+الیاس	B-PER
+آلوز	I-PER
+دا	I-PER
+سیلوا	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+دیوید	B-ORG
+دی	I-ORG
+سوازا	I-ORG
+
+تغییر_مسیر	O
+مزرعه	B-LOC
+دیدن	I-LOC
+نو	I-LOC

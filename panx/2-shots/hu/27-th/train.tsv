@@ -1,0 +1,50 @@
+Erkelre	O
+súlyos	O
+terheket	O
+rótt	O
+az	O
+1848-as	B-ORG
+forradalom	I-ORG
+.	O
+
+(	O
+Az	O
+Egyesült	B-LOC
+Királyság	I-LOC
+tengerentúli	I-LOC
+területe	I-LOC
+)	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brazília	B-LOC
+,	O
+
+Bebrits	B-PER
+Lajos	I-PER
+Közlekedésügyi	O
+minisztériumi	O
+államtitkár	O
+
+Mögötte	O
+csapattársa	O
+,	O
+Sergio	B-PER
+Pérez	I-PER
+indult	O
+.	O
+
+A	O
+finálét	O
+a	O
+Debreceni	B-ORG
+VSC–TEVA	I-ORG
+és	O
+a	O
+Ferencvárosi	B-ORG
+TC	I-ORG
+csapatai	O
+játszották	O
+.	O

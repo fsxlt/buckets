@@ -1,0 +1,42 @@
+Por	O
+ello	O
+,	O
+usa	O
+el	O
+Estadio	B-LOC
+Mariano	I-LOC
+Melgar	I-LOC
+.	O
+
+Vince	B-PER
+Carter	I-PER
+(	O
+10	O
+)	O
+
+REDIRECCIÓN	O
+Alfred	B-PER
+James	I-PER
+Wilmott	I-PER
+
+Ciudad	B-LOC
+de	I-LOC
+México	I-LOC
+(	O
+)	O
+
+Campaña	B-ORG
+Internacional	I-ORG
+para	I-ORG
+la	I-ORG
+Prohibición	I-ORG
+de	I-ORG
+las	I-ORG
+Minas	I-ORG
+Antipersona	I-ORG
+
+REDIRECCIÓN	O
+Talbot	B-ORG
+(	I-ORG
+fotometría	I-ORG
+)	I-ORG

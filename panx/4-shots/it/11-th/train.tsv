@@ -1,0 +1,121 @@
+Jordi	B-PER
+Arrese	I-PER
+''	O
+(	O
+Quarti	O
+di	O
+finale	O
+)	O
+
+Con	O
+l'arrivo	O
+dei	O
+francesi	B-LOC
+,	O
+le	O
+scuole	O
+diventarono	O
+licei	O
+.	O
+
+Sono	O
+grandi	O
+tifosi	O
+della	O
+Società	B-ORG
+Sportiva	I-ORG
+Lazio	I-ORG
+
+La	O
+squadra	O
+,	O
+che	O
+retrocede	O
+in	O
+Serie	B-ORG
+B	I-ORG
+,	O
+lo	O
+conferma	O
+anche	O
+la	O
+stagione	O
+successiva	O
+.	O
+
+Worcester	B-LOC
+(	I-LOC
+Regno	I-LOC
+Unito	I-LOC
+)	I-LOC
+
+Summer	B-ORG
+in	I-ORG
+Transylvania	I-ORG
+''	O
+
+RINVIA	O
+Division	B-ORG
+1	I-ORG
+Féminine	I-ORG
+
+Petrella	B-LOC
+Liri	I-LOC
+(	O
+AQ	B-LOC
+)	O
+
+Ora	O
+può	O
+partire	O
+per	O
+New	B-LOC
+York	I-LOC
+.	O
+
+'	O
+''	O
+Pol	B-PER
+Espargaró	I-PER
+''	O
+'	O
+
+Guillermo	B-PER
+Vilas	I-PER
+''	O
+(	O
+Terzo	O
+turno	O
+)	O
+
+Ha	O
+tenuto	O
+recital	O
+a	O
+Milano	B-LOC
+,	O
+New	B-LOC
+York	I-LOC
+,	O
+Londra	B-LOC
+,	O
+Bruxelles	B-LOC
+,	O
+Parigi	B-LOC
+,	O
+Madrid	B-LOC
+,	O
+Hong	B-LOC
+Kong	I-LOC
+,	O
+Bucarest	B-LOC
+e	O
+Sofia	B-LOC
+.	O
+
+'	O
+''	O
+Janica	B-PER
+Kostelić	I-PER
+''	O
+'	O

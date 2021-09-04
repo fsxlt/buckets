@@ -1,0 +1,73 @@
+REDIRECCIÓN	O
+Municipio	B-LOC
+de	I-LOC
+Balvi	I-LOC
+
+Charles	B-PER
+Léo	I-PER
+Lesquereux	I-PER
+
+Nassau	B-ORG
+Veterans	I-ORG
+Memorial	I-ORG
+Coliseum	I-ORG
+
+'	O
+''	O
+Tomás	B-PER
+Hirsch	I-PER
+''	O
+'	O
+
+``	O
+Big	B-ORG
+Empty	I-ORG
+''	O
+
+Estadio	B-ORG
+Lawson	I-ORG
+Tama	I-ORG
+,	O
+Honiara	B-LOC
+
+Kakashi	B-PER
+Hatake	I-PER
+(	I-PER
+niño	I-PER
+)	I-PER
+
+**	O
+Varsovia	B-LOC
+(	O
+Embajada	O
+)	O
+
+San	B-LOC
+Andreas	I-LOC
+(	I-LOC
+California	I-LOC
+)	I-LOC
+
+REDIRECCIÓN	O
+Santa	B-LOC
+Cruz	I-LOC
+(	I-LOC
+Sonora	I-LOC
+)	I-LOC
+
+===	O
+Club	B-ORG
+Atlético	I-ORG
+Rentistas	I-ORG
+===	O
+
+Higashisonogi	B-LOC
+(	I-LOC
+Nagasaki	I-LOC
+)	I-LOC
+
+Tzvi	B-PER
+Tzur	I-PER
+(	O
+1961-64	O
+)	O

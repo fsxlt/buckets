@@ -1,0 +1,20 @@
+Bavarian	B-LOC
+Soviet	I-LOC
+Republic	I-LOC
+
+**	O
+starting	O
+26	O
+December	O
+:	O
+Long	B-PER
+Boret	I-PER
+
+T315I-positive	O
+Chronic	B-ORG
+myelogenous	I-ORG
+leukaemia	I-ORG
+and	O
+Acute	B-ORG
+lymphoblastic	I-ORG
+leukaemia	I-ORG

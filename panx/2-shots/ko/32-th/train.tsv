@@ -1,0 +1,49 @@
+'	O
+''	O
+왕리청	B-PER
+''	O
+'	O
+9단	O
+
+건담	B-ORG
+빌드	I-ORG
+파이터즈	I-ORG
+(	O
+ガンダムビルドファイターズ	O
+)	O
+
+(	O
+2015년	B-ORG
+바가	I-ORG
+학살	I-ORG
+)	O
+
+스탈링은	O
+몬태나	B-LOC
+주에서	I-LOC
+양	O
+목장을	O
+하는	O
+삼촌에게로	O
+보내지게	O
+된다	O
+.	O
+
+제2차	B-PER
+세계	I-PER
+대전	I-PER
+이후	I-PER
+타이완	I-PER
+
+그런데	O
+갑자기	O
+전세는	O
+마른	B-LOC
+강에서	I-LOC
+역전되었다	O
+.	O
+
+넘겨주기	O
+아우구스트	B-PER
+빌헬름	I-PER
+슐레겔	I-PER

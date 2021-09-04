@@ -1,0 +1,72 @@
+Lambo	B-ORG
+la	I-ORG
+Aswan	I-ORG
+(	O
+Ziwa	B-LOC
+la	I-LOC
+Nasser	I-LOC
+-	O
+Misri	B-LOC
+)	O
+
+2004	O
+Aaron	B-PER
+Ciechanover	I-PER
+,	O
+Avram	B-PER
+Hershko	I-PER
+na	O
+Irwin	B-PER
+Rose	I-PER
+
+Fransisko	B-PER
+wa	I-PER
+Paola	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30207	O
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Kifaransa	I-ORG
+cha	I-ORG
+Elimu	I-ORG
+ya	I-ORG
+Usafiri	I-ORG
+Angani	I-ORG
+
+Jamhuri	B-LOC
+ya	I-LOC
+China	I-LOC
+
+Shirika	B-ORG
+Lisilo	I-ORG
+la	I-ORG
+Kiserikali	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Dublin	B-LOC
+.	O
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Dar-es-Salaam	I-ORG
+
+**	O
+Helmut	B-PER
+Kohl	I-PER
+,	O
+Ujerumani	B-LOC
+
+Papa	B-PER
+Theodor	I-PER
+II	I-PER

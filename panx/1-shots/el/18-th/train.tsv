@@ -1,0 +1,27 @@
+'	O
+''	O
+1	O
+)	O
+'	O
+''	O
+το	O
+Ευρωπαϊκό	B-ORG
+Κοινοβούλιο	I-ORG
+
+Σεμπαστιάνο	B-PER
+ντελ	I-PER
+Πιόμπο	I-PER
+(	O
+Sebastiano	O
+del	O
+Piombo	O
+)	O
+(	O
+περ	O
+.	O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Φρανκφούρτη	B-LOC
+(	I-LOC
+Όντερ	I-LOC
+)	I-LOC

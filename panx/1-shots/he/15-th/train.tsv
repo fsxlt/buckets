@@ -1,0 +1,18 @@
+הפניה	O
+לוי	B-PER
+יצחק	I-PER
+מברדיצ'ב	I-PER
+
+הפניה	O
+הארמייה	B-ORG
+ה-51	I-ORG
+(	I-ORG
+ברית	I-ORG
+המועצות	I-ORG
+)	I-ORG
+
+הפניה	O
+גפן	B-LOC
+(	I-LOC
+מושב	I-LOC
+)	I-LOC

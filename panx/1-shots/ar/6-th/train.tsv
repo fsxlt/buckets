@@ -1,0 +1,11 @@
+أليك	B-PER
+بالدوين	I-PER
+-	O
+30	B-ORG
+روك	I-ORG
+
+ينتشر	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+.	O

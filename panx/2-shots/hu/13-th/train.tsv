@@ -1,0 +1,74 @@
+Mao	B-PER
+Ce-tung	I-PER
+(	O
+1893–1976	O
+)	O
+
+'	O
+''	O
+Eva	B-PER
+Birnerová	I-PER
+''	O
+'	O
+
+Wimbledon]]	O
+''	O
+'	O
+,	O
+London	B-LOC
+
+Az	O
+angol	B-ORG
+válogatott	I-ORG
+tagjaként	O
+részt	O
+vett	O
+az	O
+1958-as	B-ORG
+labdarúgó-világbajnokságon	I-ORG
+.	O
+
+A	O
+Bahama-szigetektől	B-LOC
+és	O
+Puerto	B-LOC
+Ricotól	I-LOC
+kezdve	O
+,	O
+egészen	O
+Dél-Amerika	B-LOC
+északi	O
+részéig	O
+megtalálható	O
+.	O
+
+Dallas	B-ORG
+Cowboys	I-ORG
+(	O
+6	O
+)	O
+
+Legnagyobb	O
+városa	O
+nem	O
+a	O
+főváros	O
+,	O
+Chihuahua	B-LOC
+,	O
+hanem	O
+Ciudad	B-LOC
+Juárez	I-LOC
+,	O
+a	O
+Río	B-LOC
+Bravo	I-LOC
+del	I-LOC
+Norte	I-LOC
+partján	O
+,	O
+El	B-LOC
+Paso	I-LOC
+városával	O
+szemközt	O
+.	O

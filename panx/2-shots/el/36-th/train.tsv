@@ -1,0 +1,54 @@
+''από	O
+το	O
+``	O
+Blood	B-ORG
+Fire	I-ORG
+Death	I-ORG
+''	O
+''	O
+
+'	O
+''	O
+Ηνωμένο	B-LOC
+Βασίλειο	I-LOC
+''	O
+'	O
+
+Τζον	B-PER
+Τραβόλτα	I-PER
+&	O
+Σάρον	B-PER
+Στόουν	I-PER
+
+Πόλη	B-LOC
+του	I-LOC
+Αγίου	I-LOC
+Γεωργίου	I-LOC
+
+Οι	O
+πρωταθλητές	O
+της	O
+Ανατολικής	B-ORG
+Περιφέρειας	I-ORG
+,	O
+Ορλάντο	B-ORG
+Μάτζικ	I-ORG
+ηττήθηκαν	O
+από	O
+τους	O
+πρωταθλητές	O
+της	O
+Δυτικής	B-ORG
+Περιφέρειας	I-ORG
+,	O
+Λος	B-ORG
+Άντζελες	I-ORG
+Λέικερς	I-ORG
+.	O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ	O
+Halo	B-PER
+(	I-PER
+σειρά	I-PER
+βιντεοπαιχνιδιών	I-PER
+)	I-PER

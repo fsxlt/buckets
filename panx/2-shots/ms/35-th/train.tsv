@@ -1,0 +1,50 @@
+Pertubuhan	B-ORG
+Kesihatan	I-ORG
+Sedunia	I-ORG
+
+Running	B-ORG
+Man	I-ORG
+(	O
+episod	O
+75	O
+)	O
+(	O
+2012	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Somme	I-LOC
+
+Runut	O
+bunyi	O
+A.	B-PER
+R.	I-PER
+Rahman	I-PER
+,	O
+yang	O
+diperoleh	O
+ulasan	O
+positif	O
+,	O
+mempunyai	O
+dua	O
+landasan	O
+dipertimbangkan	O
+untuk	O
+[[Academy	O
+Award]	O
+penamaan]	O
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Joachim	B-PER
+Fischer	I-PER
+Nielsen	I-PER
+Christinna	B-PER
+Pedersen	I-PER

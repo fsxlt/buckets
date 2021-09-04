@@ -1,0 +1,37 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Allier	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gironde	I-LOC
+
+Jennifer	B-PER
+Jason	I-PER
+Leigh	I-PER
+,	O
+Jude	B-PER
+Law	I-PER
+,	O
+Ian	B-PER
+Holm	I-PER
+
+ALIH	O
+Hot	B-ORG
+Chelle	I-ORG
+Rae	I-ORG
+
+Nobutaka	B-PER
+Machimura	I-PER
+(	O
+2004-2005	O
+)	O
+
+Liga	B-ORG
+Divisi	I-ORG
+Utama	I-ORG
+Finlandia	I-ORG

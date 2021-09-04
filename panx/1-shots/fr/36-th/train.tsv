@@ -1,0 +1,20 @@
+Dune	B-ORG
+(	I-ORG
+groupe	I-ORG
+)	I-ORG
+
+Michel	B-PER
+Félix	I-PER
+Dunal	I-PER
+(	O
+1789-1856	O
+)	O
+
+**	O
+dans	O
+les	O
+Pays	B-LOC
+de	I-LOC
+la	I-LOC
+Loire	I-LOC
+.	O

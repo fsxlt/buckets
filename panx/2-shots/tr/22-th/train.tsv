@@ -1,0 +1,41 @@
+Hermes	B-PER
+Trismegistus	I-PER
+/	O
+Thoth	B-PER
+
+7	B-LOC
+Haziran	I-LOC
+–	O
+Prusya	B-LOC
+kralı	O
+III.	B-PER
+Friedrich	I-PER
+Wilhelm	I-PER
+öldü	O
+.	O
+
+KKTC	B-ORG
+Güvenlik	I-ORG
+Kuvvetleri	I-ORG
+Komutanlığı	I-ORG
+
+YÖNLENDİR	O
+Reroute	B-ORG
+To	I-ORG
+Remain	I-ORG
+(	I-ORG
+albüm	I-ORG
+)	I-ORG
+
+Kendi	O
+adını	O
+taşıyan	O
+Nikşehr	B-LOC
+şehristanı'na	I-LOC
+bağlıdır	O
+ve	O
+bu	O
+şehristanın	O
+yönetim	O
+merkezidir	O
+.	O

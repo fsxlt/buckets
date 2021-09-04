@@ -1,0 +1,29 @@
+Jake	B-ORG
+Long	I-ORG
+–	I-ORG
+amerikkalainen	I-ORG
+lohikäärme	I-ORG
+–	O
+Sivuäänet	O
+
+Kylästä	O
+käsin	O
+hänen	O
+retkikuntansa	O
+tutki	O
+Boothian	B-LOC
+niemimaata	I-LOC
+ja	O
+etsi	O
+magneettisen	B-LOC
+pohjoisnavan	I-LOC
+tarkkaa	O
+sijaintia	O
+.	O
+
+'	O
+''	O
+Luka	B-PER
+Modrić	I-PER
+''	O
+'	O

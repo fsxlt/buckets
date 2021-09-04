@@ -1,0 +1,25 @@
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+
+(	O
+Kingissepa	B-LOC
+salk	O
+)	O
+,	O
+9	O
+.	O
+
+suuna	O
+Rahvusvaheline	B-ORG
+Kinnismälestiste	I-ORG
+Nõukogu	I-ORG
+
+Limburgi	B-LOC
+hertsogkond	I-LOC
+(	I-LOC
+1839–1867	I-LOC
+)	I-LOC

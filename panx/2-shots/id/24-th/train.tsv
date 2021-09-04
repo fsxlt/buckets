@@ -1,0 +1,37 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Loire	I-LOC
+
+ALIH	O
+Zacarias	B-PER
+Albano	I-PER
+da	I-PER
+Costa	I-PER
+
+25px]]	O
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+SoftBank	B-ORG
+Mobile	I-ORG
+(	O
+2011	O
+)	O
+
+Persebaya	B-ORG
+Surabaya	I-ORG
+(	O
+2009	O
+)	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Puy-de-Dôme	I-LOC

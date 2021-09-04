@@ -1,0 +1,58 @@
+Filipo	B-PER
+Arabiarrak	I-PER
+pretoriarren	O
+burua	O
+hartutakoan	O
+kanpainak	O
+aurrera	O
+egin	O
+zuen	O
+.	O
+
+Aprilia	B-LOC
+(	I-LOC
+Italia	I-LOC
+)	I-LOC
+
+BIRZUZENDU	O
+Saint-Hippolyte	B-LOC
+(	I-LOC
+Ekialdeko	I-LOC
+Pirinioak	I-LOC
+)	I-LOC
+
+Bitartean	O
+,	O
+António	B-PER
+de	I-PER
+Oliveira	I-PER
+Salazar	I-PER
+gobernuburu	O
+bilakatu	O
+zen	O
+.	O
+
+Club	B-ORG
+Atlético	I-ORG
+Peñarol	I-ORG
+eta	O
+Nacional	B-ORG
+de	I-ORG
+Montevideo	I-ORG
+dira	O
+dominatzaile	O
+nagusiak	O
+.	O
+
+Multzoa	O
+Poloniak	B-ORG
+,	O
+Greziak	B-ORG
+,	O
+Errusiak	B-ORG
+eta	O
+Txekiar	B-ORG
+Errepublikak	I-ORG
+osatzen	O
+dute	O
+.	O

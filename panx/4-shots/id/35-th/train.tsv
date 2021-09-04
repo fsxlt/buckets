@@ -1,0 +1,94 @@
+ALIH	O
+Polisi	B-ORG
+Pamong	I-ORG
+Praja	I-ORG
+
+ALIH	O
+Letizia	B-PER
+dari	I-PER
+Spanyol	I-PER
+
+Ia	O
+memulai	O
+karier	O
+profesionalnya	O
+bersama	O
+klub	O
+Brescia	B-ORG
+Calcio	I-ORG
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Seine-Maritime	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gard	I-LOC
+
+Jalur	B-PER
+Keturunan	I-PER
+Nabi	I-PER
+Muhammad	I-PER
+SAW	I-PER
+melalui	I-PER
+Husain	I-PER
+bin	I-PER
+Ali	I-PER
+
+Pada	O
+tahun	O
+1993–1995	O
+,	O
+ia	O
+bekerja	O
+di	O
+Copenhagen	B-ORG
+Peace	I-ORG
+Research	I-ORG
+Institute	I-ORG
+(	O
+COPRI	O
+)	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ardèche	I-LOC
+
+''	O
+mendapatkan	O
+$	O
+2,080,046	O
+di	O
+Amerika	B-LOC
+Serikat	I-LOC
+dan	O
+Kanada	B-LOC
+.	O
+
+ALIH	O
+Es	B-ORG
+krim	I-ORG
+pisang	I-ORG
+
+ALIH	O
+Doniéber	B-PER
+Alexander	I-PER
+Marangon	I-PER
+
+Dora	B-PER
+the	I-PER
+Explorer	I-PER
+''	O
+(	O
+kini	O
+di	O
+NBC	B-ORG
+)	O

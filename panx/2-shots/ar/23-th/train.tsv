@@ -1,0 +1,37 @@
+وهي	O
+أخت	O
+الفنانة	O
+أسيل	B-PER
+عمران	I-PER
+.	O
+
+تحويل	O
+قوات	B-ORG
+المساعدة	I-ORG
+الدولية	I-ORG
+لإرساء	I-ORG
+الأمن	I-ORG
+في	I-ORG
+أفغانستان	I-ORG
+
+تحويل	O
+نورويتش	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+مركز	B-ORG
+دبي	I-ORG
+التجاري	I-ORG
+العالمي	I-ORG
+
+تحويل	O
+أبو	B-LOC
+صير	I-LOC
+بنا	I-LOC
+
+قائمة	B-PER
+ملوك	I-PER
+مصر	I-PER
+القديمة	I-PER

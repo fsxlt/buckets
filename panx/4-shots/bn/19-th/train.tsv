@@ -1,0 +1,101 @@
+রতলম	B-LOC
+রেলওয়ে	I-LOC
+কলোনী	I-LOC
+(	I-LOC
+রতলম	B-LOC
+কসবা	I-LOC
+)	I-LOC
+
+**	O
+দক্ষিণী	B-LOC
+হলদেঠুঁটি	I-LOC
+ধনেশ	I-LOC
+''Tockus	O
+leucomelas	O
+''	O
+
+সাতছড়ি	B-ORG
+জাতীয়	I-ORG
+উদ্যান	I-ORG
+;	O
+
+ওয়াল্টার	B-PER
+হাউজার	I-PER
+ব্র্যাটেইন	I-PER
+
+মিগেল	B-PER
+দে	I-PER
+থের্ভান্তেস	I-PER
+
+সেন্ট	B-LOC
+ভিনসেন্ট	I-LOC
+ও	I-LOC
+গ্রেনাডাইন	I-LOC
+দ্বীপপুঞ্জ	I-LOC
+
+গল্পের	O
+অন্য	O
+অবগত	O
+হয়	O
+পূজা	O
+(	O
+মাধুরী	B-PER
+দীক্ষিত	I-PER
+)	O
+,	O
+যারা	O
+​​বিশ্বাস	O
+করে	O
+যে	O
+কেউ	O
+কোথাও	O
+প্রত্যেকের	O
+জন্য	O
+এবং	O
+যখন	O
+তিনি	O
+যে	O
+বিশেষ	O
+কেউ	O
+ঈশ্বরের	O
+পাবেন	O
+একটি	O
+ইঙ্গিত	O
+/	O
+সংকেত	O
+তার	O
+দিতে	O
+হবে	O
+.	O
+
+শ্রীনগর	B-LOC
+,	I-LOC
+জম্মু	I-LOC
+ও	I-LOC
+কাশ্মীর	I-LOC
+
+'	O
+''	O
+গ্যারি	B-PER
+নেভিল	I-PER
+''	O
+'	O
+
+ডোরেমন	B-ORG
+:	I-ORG
+নোবিতা'স	I-ORG
+দ্য	I-ORG
+লেজেন্ড	I-ORG
+অফ	I-ORG
+দ্য	I-ORG
+সান	I-ORG
+কিং	I-ORG
+
+বেভারলি	B-ORG
+হিল্‌স	I-ORG
+হাই	I-ORG
+স্কুল	I-ORG
+
+আদর্শ	B-ORG
+গ্যাস	I-ORG
+সূত্র	I-ORG

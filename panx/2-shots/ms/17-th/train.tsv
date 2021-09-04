@@ -1,0 +1,38 @@
+Tentera	B-ORG
+Darat	I-ORG
+Malaysia	I-ORG
+
+MediaCorp	B-ORG
+Saluran	I-ORG
+8	I-ORG
+HD	I-ORG
+(	O
+Saluran	O
+208	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Lot	I-LOC
+
+Choong	B-PER
+Tan	I-PER
+Fook	I-PER
+/	O
+Lee	B-PER
+Wan	I-PER
+Wah	I-PER
+
+Ketua	O
+jurulatih	O
+mereka	O
+ialah	O
+Javier	B-PER
+Aguirre	I-PER
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC

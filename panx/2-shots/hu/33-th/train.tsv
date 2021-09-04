@@ -1,0 +1,66 @@
+ÁTIRÁNYÍTÁS	O
+XX.	B-PER
+Arsak	I-PER
+pártus	I-PER
+király	I-PER
+
+A	O
+Bayern	B-ORG
+München	I-ORG
+akadémiájáról	O
+került	O
+a	O
+felnőtt	O
+,	O
+illetve	O
+a	O
+tartalék	O
+csapatba	O
+.	O
+
+Ő	O
+alapította	O
+a	O
+Mogul	B-LOC
+Birodalmat	I-LOC
+.	O
+
+Brazília	B-LOC
+,	O
+Francia	B-LOC
+Guyana	I-LOC
+,	O
+Guyana	B-LOC
+,	O
+Suriname	B-LOC
+és	O
+Venezuela	B-LOC
+területén	O
+honos	O
+.	O
+
+Parc	B-ORG
+des	I-ORG
+Princes	I-ORG
+,	O
+Párizs	B-LOC
+
+Alekszandr	B-PER
+Sztyepanovics	I-PER
+Viktorenko	I-PER
+parancsnok	O
+
+Dutch	O
+vállalkozik	O
+rá	O
+,	O
+hogy	O
+elhozza	O
+a	O
+gyereket	O
+Chicagóba	B-LOC
+és	O
+útközben	O
+megbarátkozik	O
+vele	O
+.	O

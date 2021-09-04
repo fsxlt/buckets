@@ -1,0 +1,17 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+Kelayakan	B-ORG
+Piala	I-ORG
+Dunia	I-ORG
+FIFA	I-ORG
+1974	I-ORG

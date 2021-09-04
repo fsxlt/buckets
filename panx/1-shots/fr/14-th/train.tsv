@@ -1,0 +1,19 @@
+REDIRECTION	O
+Kolding	B-LOC
+(	I-LOC
+commune	I-LOC
+)	I-LOC
+
+Voisins	B-ORG
+de	I-ORG
+Laval	I-ORG
+(	O
+LHJMQ	O
+)	O
+
+'	O
+''	O
+Denis	B-PER
+Jenkinson	I-PER
+''	O
+'	O

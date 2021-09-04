@@ -1,0 +1,40 @@
+Mike	B-PER
+Schmidt	I-PER
+(	O
+7	O
+)	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Yonne	I-LOC
+
+Cap	B-LOC
+de	I-LOC
+Couedic	I-LOC
+
+Arizona	B-ORG
+Department	I-ORG
+of	I-ORG
+Public	I-ORG
+Safety	I-ORG
+
+Montbard	B-LOC
+↔	O
+Venarey-les-Laumes	B-LOC
+↔	O
+Vitteaux	B-LOC
+↔	O
+Pouilly-en-Auxois	B-LOC
+
+Cathédrale	B-ORG
+Saint-Tugdual	I-ORG
+de	I-ORG
+Tréguier	I-ORG
+
+Modeste	B-PER
+Gruau	I-PER
+de	I-PER
+La	I-PER
+Barre	I-PER

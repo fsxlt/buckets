@@ -1,0 +1,45 @@
+تحويل	O
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+حمود	I-PER
+الطريقي	I-PER
+
+كأس	B-ORG
+السوبر	I-ORG
+الأوروبي	I-ORG
+2012	I-ORG
+
+تحويل	O
+تاريخ	B-PER
+جمهورية	I-PER
+الصين	I-PER
+
+تحويل	O
+كيستون	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+تحويل	O
+قسم	B-LOC
+شلاهي	I-LOC
+الريفي	I-LOC
+
+'	O
+''	O
+بوسيكو	O
+''	O
+'	O
+هي	O
+محطة	B-ORG
+مترو	I-ORG
+تابعة	O
+لمترو	B-ORG
+باريس	I-ORG
+تقع	O
+في	O
+فرنسا	B-LOC
+في	O
+.	O

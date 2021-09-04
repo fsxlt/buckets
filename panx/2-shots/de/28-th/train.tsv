@@ -1,0 +1,51 @@
+Im	O
+Osten	O
+liegt	O
+die	O
+Gemeinde	B-LOC
+Viqueque	I-LOC
+.	O
+
+WEITERLEITUNG	O
+Edward	B-PER
+Hawke	I-PER
+,	I-PER
+1.	I-PER
+Baron	I-PER
+Hawke	I-PER
+
+Danach	O
+ging	O
+er	O
+auf	O
+die	O
+Yale	B-ORG
+University	I-ORG
+in	O
+New	B-LOC
+Haven	I-LOC
+,	O
+wo	O
+er	O
+als	O
+Klassenbester	O
+abschloss	O
+.	O
+
+2:05:39	O
+,	O
+Eliud	B-PER
+Kiptanui	I-PER
+,	O
+2010	O
+
+Später	O
+erschien	O
+es	O
+beim	O
+neu	O
+gegründeten	O
+Verlag	O
+Media	B-ORG
+Works	I-ORG
+.	O

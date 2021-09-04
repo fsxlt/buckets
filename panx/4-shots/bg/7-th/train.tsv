@@ -1,0 +1,110 @@
+Неин	O
+настоящ	O
+председател	O
+е	O
+Фатмир	B-PER
+Медиу	I-PER
+.	O
+
+'	O
+''	O
+WWE	B-ORG
+NXT	I-ORG
+''	O
+'	O
+
+Алън	B-PER
+Рейчинс	I-PER
+–	O
+Часовникаря	B-PER
+/	I-PER
+Темпъл	I-PER
+Фюгет	I-PER
+
+Мексико	B-LOC
+,	O
+Ню	B-LOC
+Мексико	I-LOC
+и	O
+Тексас	B-LOC
+
+Влива	O
+се	O
+в	O
+Берингово	B-LOC
+море	I-LOC
+.	O
+
+'	O
+''	O
+Джони	B-PER
+Хърбърт	I-PER
+''	O
+'	O
+
+**	O
+Маркус	B-PER
+Бабел	I-PER
+(	O
+р	O
+.	O
+
+Невероятният	B-ORG
+свят	I-ORG
+на	I-ORG
+Гъмбол	I-ORG
+''	O
+
+Към	O
+''Love	O
+Struck	O
+Baby	O
+''	O
+е	O
+направен	O
+видеоклип	O
+,	O
+който	O
+влиза	O
+редовно	O
+в	O
+програмата	O
+на	O
+Ем	B-ORG
+Ти	I-ORG
+Ви	I-ORG
+.	O
+
+Разпространен	O
+е	O
+в	O
+Бангладеш	B-LOC
+,	O
+Индия	B-LOC
+,	O
+Мианмар	B-ORG
+,	O
+Непал	B-LOC
+,	O
+Пакистан	B-LOC
+и	O
+Шри	B-LOC
+Ланка	I-LOC
+.	O
+
+виж	O
+Варненски	B-ORG
+халколитен	I-ORG
+некропол	I-ORG
+
+'	O
+''	O
+Вилает	B-LOC
+Салоника	I-LOC
+''	O
+'	O
+
+Италия	B-LOC
+-	O
+чл	O
+.	O

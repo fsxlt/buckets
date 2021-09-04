@@ -1,0 +1,36 @@
+Вторая	B-LOC
+лига	I-LOC
+Украины	I-LOC
+2013	I-LOC
+/	I-LOC
+14	I-LOC
+
+Je	B-ORG
+Ne	I-ORG
+Sais	I-ORG
+Pas	I-ORG
+Pourquoi	I-ORG
+
+Женская	B-ORG
+сборная	I-ORG
+России	I-ORG
+по	I-ORG
+хоккею	I-ORG
+с	I-ORG
+шайбой	I-ORG
+
+Уиттингем	B-PER
+,	I-PER
+Кен	I-PER
+
+перенаправление	O
+Эльзасская	B-LOC
+Советская	I-LOC
+Республика	I-LOC
+
+Накаджима-Фарран	B-PER
+,	I-PER
+Исси	I-PER
+(	O
+род	O
+.	O

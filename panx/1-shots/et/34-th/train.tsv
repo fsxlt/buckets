@@ -1,0 +1,24 @@
+Pärnus	B-LOC
+koos	O
+olnud	O
+Sotsiaaldemokraatliku	B-ORG
+Erakonna	I-ORG
+volikogu	O
+toetas	O
+ühinemist	O
+Rahvaliiduga	B-ORG
+.	O
+
+Honoré	B-PER
+de	I-PER
+Balzac	I-PER
+
+Palestiinast	B-LOC
+Gaza	B-LOC
+tsoonist	I-LOC
+tulistati	O
+Iisraeli	B-LOC
+territooriumile	O
+kuus	O
+mürsku	O
+.	O

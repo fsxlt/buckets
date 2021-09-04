@@ -1,0 +1,83 @@
+Hans	B-PER
+Isaac	I-PER
+-	O
+''Cuci	O
+''	O
+
+Datin	B-PER
+Seri	I-PER
+Tiara	I-PER
+Jacquelina	I-PER
+-	O
+Pengetua	O
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Karpatos	I-PER
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Stesen	B-ORG
+MRT	I-ORG
+Jalan	I-ORG
+Besar	I-ORG
+
+女に	O
+幸あれ	O
+(	O
+Onna	B-ORG
+ni	I-ORG
+Sachi	I-ORG
+Are	I-ORG
+)	O
+
+'	O
+''	O
+Terengganu	B-ORG
+FA	I-ORG
+'	O
+''	O
+'	O
+''	O
+Gelaran	O
+Pertama	O
+''	O
+'	O
+
+LENCONG	O
+Skály	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Strakonice	I-LOC
+)	I-LOC
+
+30px	O
+Sekolah	B-ORG
+Menengah	I-ORG
+Kebangsaan	I-ORG
+(	I-ORG
+P	I-ORG
+)	I-ORG
+St.	I-ORG
+George	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gers	I-LOC
+
+LENCONG	O
+Ubaidah	B-PER
+bin	I-PER
+al-Harith	I-PER

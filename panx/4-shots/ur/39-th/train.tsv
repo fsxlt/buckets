@@ -1,0 +1,79 @@
+رجوع_مکرر	O
+مشعر	B-ORG
+آزادی	I-ORG
+صحافت	I-ORG
+
+'	O
+''	O
+عورت	O
+''	O
+'	O
+(	O
+عربی	B-ORG
+سے	O
+ماخوذ	O
+.	O
+
+رجوع_مکرر	O
+خطاط	B-PER
+عزیز	I-PER
+افندی	I-PER
+
+رجوع_مکرر	O
+آصف	B-PER
+اقبال	I-PER
+(	I-PER
+کرکٹ	I-PER
+کھلاڑی	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+یونینویل،	B-LOC
+ہومز	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+'	O
+''	O
+لیوی	B-PER
+اشکول	I-PER
+''	O
+'	O
+
+رجوع_مکرر	O
+فیئرویو،	B-LOC
+گاریٹ	I-LOC
+کاؤنٹی،	I-LOC
+میری	I-LOC
+لینڈ	I-LOC
+
+رجوع_مکرر	O
+احمد	B-PER
+بن	I-PER
+بیلا	I-PER
+
+فلمور	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+مینیسوٹا	I-LOC
+
+رجوع_مکرر	O
+حکیمانی	B-ORG
+ہالٹ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+نیشنل	B-ORG
+جیوگرافک	I-ORG
+سوسائیٹی	I-ORG
+
+رجوع_مکرر	O
+جنگل	B-LOC
+آباد،	I-LOC
+قلہ	I-LOC
+گنج	I-LOC
+
+رجوع_مکرر	O
+عالمی	B-ORG
+تجارتی	I-ORG
+ادارہ	I-ORG

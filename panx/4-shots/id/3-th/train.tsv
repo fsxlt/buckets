@@ -1,0 +1,84 @@
+Najib	B-PER
+Tun	I-PER
+Razak	I-PER
+-	O
+Perdana	B-ORG
+Menteri	I-ORG
+Malaysia	I-ORG
+yang	O
+keenam	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Côte-d'Or	I-LOC
+
+'	O
+''	O
+Zagreb	B-LOC
+''	O
+'	O
+
+Ia	O
+menyatakan	O
+kesiapannya	O
+berhadapan	O
+kembali	O
+dengan	O
+Presiden	B-ORG
+Susilo	B-PER
+Bambang	I-PER
+Yudhoyono	I-PER
+jika	O
+mencalonkan	O
+kembali	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Eure-et-Loir	I-LOC
+
+SDN	B-ORG
+Pondok	I-ORG
+Kelapa	I-ORG
+07	I-ORG
+Pagi	I-ORG
+
+ALIH	O
+Plinius	B-PER
+yang	I-PER
+Tua	I-PER
+
+Chūnibyō	B-ORG
+Demo	I-ORG
+Koi	I-ORG
+ga	I-ORG
+Shitai	I-ORG
+!	I-ORG
+
+ALIH	O
+Los	B-ORG
+Angeles	I-ORG
+Kings	I-ORG
+
+'	O
+''	O
+Mohammad	B-PER
+Hatta	I-PER
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+ALIH	O
+Wilayah	B-LOC
+Seberang	I-LOC
+Laut	I-LOC
+Britania	I-LOC

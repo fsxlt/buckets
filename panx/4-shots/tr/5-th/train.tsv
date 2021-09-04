@@ -1,0 +1,116 @@
+YÖNLENDİRME	O
+Kömürcüler	B-LOC
+,	I-LOC
+Döşemealtı	I-LOC
+
+Kanal	B-ORG
+D	I-ORG
+de	O
+yayınlanmıştır	O
+.	O
+
+(	O
+Orlando	B-ORG
+Magic	I-ORG
+)	O
+(	O
+6	O
+/	O
+6	O
+)	O
+
+YÖNLENDİRME	O
+Johann	B-PER
+Friedrich	I-PER
+von	I-PER
+Brandt	I-PER
+
+I.	B-PER
+Leo	I-PER
+(	I-PER
+imparator	I-PER
+)	I-PER
+
+Bazı	O
+parçalar	O
+Hong	B-ORG
+Kong	I-ORG
+canlı	O
+albümü	O
+için	O
+de	O
+kaydedildi	O
+.	O
+
+Yazlarını	O
+Chur	B-LOC
+,	O
+Graubünden	B-LOC
+gibi	O
+kırsal	O
+kesimlerde	O
+geçirmiş	O
+daha	O
+sonra	O
+bu	O
+yerleri	O
+kitaplarına	O
+aktarmıştır	O
+.	O
+
+YÖNLENDİRME	O
+Batı	B-LOC
+Sibirya	I-LOC
+Ovası	I-LOC
+
+Tabletin	O
+üzerindeki	O
+yazıları	O
+Azra	B-PER
+Erhat	I-PER
+çevirmiştir	O
+.	O
+
+Ancak	O
+Ümit	B-LOC
+Burnu'nun	I-LOC
+keşfi	O
+nedeniyle	O
+bu	O
+avantaj	O
+uzun	O
+sürmemiştir	O
+.	O
+
+Karl	B-PER
+A.	I-PER
+Lamers	I-PER
+(	O
+2010-2012	O
+)	O
+
+My	B-ORG
+Beautiful	I-ORG
+Dark	I-ORG
+Twisted	I-ORG
+Fantasy	I-ORG
+''	O
+
+Kuzeybatısında	O
+,	O
+Pireneler	B-LOC
+üzerinde	O
+yer	O
+alan	O
+Coma	B-LOC
+Pedrosa	I-LOC
+,	O
+2.942	O
+metrelik	O
+yüksekliğiyle	O
+ülkenin	O
+en	O
+yüksek	O
+noktası	O
+konumundadır	O
+.	O

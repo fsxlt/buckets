@@ -1,0 +1,138 @@
+Iraagi	B-ORG
+okupatsioon	I-ORG
+(	I-ORG
+2003–2004	I-ORG
+)	I-ORG
+
+Krundi	O
+uue	O
+hoone	O
+projekt	O
+on	O
+valminud	O
+Rootsi	B-LOC
+arhitektuuribüroos	O
+FFNS	O
+.	O
+
+Ta	O
+on	O
+kuulunud	O
+Rohelise	B-ORG
+erakonna	I-ORG
+juhatusse	O
+.	O
+
+Karl	B-PER
+V-l	I-PER
+polnud	O
+aga	O
+kunagi	O
+absoluutset	O
+võimutäiust	O
+,	O
+kuna	O
+erinevalt	O
+François'st	O
+pidi	O
+ta	O
+pidevalt	O
+arvestama	O
+oma	O
+etniliselt	O
+ja	O
+seadustelt	O
+väga	O
+kirevate	O
+valduste	O
+eriõigusi	O
+,	O
+traditsioone	O
+ja	O
+muud	O
+säärast	O
+.	O
+
+Leoni	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+Ta	O
+viidi	O
+raskete	O
+kehavigastustega	O
+ravile	O
+Lõuna-Aafrikasse	B-LOC
+Johannesburgi	B-LOC
+,	O
+kus	O
+ta	O
+veetis	O
+haiglas	O
+kolm	O
+kuud	O
+.	O
+
+*Parim	O
+meesnäitleja	O
+–	O
+Forest	B-PER
+Whitaker	I-PER
+
+suuna	O
+Santa	B-LOC
+Paolina	I-LOC
+vald	I-LOC
+
+Ta	O
+mängis	O
+aastatel	O
+1992–1996	O
+Eesti	B-ORG
+jalgpallikoondises	I-ORG
+29	O
+mängu	O
+.	O
+
+Julia	B-PER
+Sampson	I-PER
+Hayward	I-PER
+
+Tallinna	B-ORG
+FC	I-ORG
+Norma	I-ORG
+(	O
+2	O
+)	O
+
+Norðurland	B-LOC
+eystra	I-LOC
+(	O
+Akureyri	B-LOC
+)	O
+
+suuna	O
+Lachesis	B-LOC
+(	I-LOC
+perekond	I-LOC
+)	I-LOC
+
+Moscovicit	O
+on	O
+mõjutanud	O
+Gustave	B-PER
+Le	I-PER
+Boni	I-PER
+,	O
+Gabriel	B-PER
+Tarde'i	I-PER
+,	O
+Émile	B-PER
+Durkheimi	I-PER
+ja	O
+Sigmund	B-PER
+Freudi	I-PER
+tööd	O
+.	O

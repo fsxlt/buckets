@@ -1,0 +1,90 @@
+Michael	B-PER
+Barry	I-PER
+(	O
+NP	O
+6	O
+)	O
+
+Europe	B-ORG
+'72	I-ORG
+''	O
+(	O
+en	O
+concert	O
+)	O
+
+Château	B-LOC
+des	I-LOC
+ducs	I-LOC
+de	I-LOC
+Bretagne	I-LOC
+
+**	O
+Îles	B-LOC
+Glorieuses	I-LOC
+(	O
+inhabitées	O
+)	O
+
+Aujourd'hui	O
+,	O
+elle	O
+est	O
+reconnue	O
+comme	O
+étant	O
+une	O
+des	O
+chanteuses	O
+au	O
+talent	O
+le	O
+plus	O
+varié	O
+depuis	O
+Asha	B-PER
+Bhosle	I-PER
+.	O
+
+Parallèle	B-LOC
+(	I-LOC
+géographie	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Elvas	B-LOC
+''	O
+'	O
+
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+1928	I-ORG
+
+Époque	B-LOC
+des	I-LOC
+beylicats	I-LOC
+
+Henri	B-PER
+II	I-PER
+d'Autriche	I-PER
+
+Centre	B-ORG
+Bell	I-ORG
+,	O
+Montréal	B-LOC
+,	O
+Québec	B-LOC
+
+'	O
+''	O
+Norah	B-PER
+Jones	I-PER
+''	O
+'	O
+-	O
+Not	B-ORG
+Too	I-ORG
+Late	I-ORG
+''	O

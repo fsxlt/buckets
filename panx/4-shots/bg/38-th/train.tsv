@@ -1,0 +1,105 @@
+**	O
+Джаксън	B-LOC
+(	I-LOC
+окръг	I-LOC
+,	I-LOC
+Южна	I-LOC
+Дакота	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Жан-Ерик	B-PER
+Верн	I-PER
+''	O
+'	O
+
+виж	O
+Международен	B-ORG
+съюз	I-ORG
+за	I-ORG
+защита	I-ORG
+на	I-ORG
+природата	I-ORG
+
+**	O
+Ню	B-LOC
+Делхи	I-LOC
+(	O
+посолство	O
+)	O
+
+'	O
+''	O
+Роман	B-PER
+Полански	I-PER
+''	O
+'	O
+
+виж	O
+Национален	B-ORG
+военноисторически	I-ORG
+музей	I-ORG
+
+Димитър	B-PER
+Трендафилов	I-PER
+(	O
+р	O
+.	O
+
+'	O
+''	O
+Марк	B-PER
+Селби	I-PER
+''	O
+'	O
+
+No	B-ORG
+One	I-ORG
+Like	I-ORG
+You“	I-ORG
+-	O
+3:56	O
+
+пренасочване	O
+Порой	B-LOC
+(	I-LOC
+област	I-LOC
+Бургас	I-LOC
+)	I-LOC
+
+виж	O
+Висящи	B-ORG
+градини	I-ORG
+на	I-ORG
+Вавилон	I-ORG
+
+След	O
+като	O
+Франция	B-LOC
+се	O
+включва	O
+в	O
+конфликта	O
+(	O
+с	O
+т.	O
+нар	O
+.	O
+
+Намира	O
+се	O
+в	O
+Северна	B-LOC
+Добруджа	I-LOC
+.	O
+
+Страбон	B-PER
+,	O
+''Geographica	O
+''	O
+,	O
+366	O
+;	O
+389	O
+.	O

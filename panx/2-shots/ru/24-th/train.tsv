@@ -1,0 +1,51 @@
+Lunatic	B-ORG
+Calm	I-ORG
+—	O
+LC001	O
+
+перенаправление	O
+Лотоцкий	B-PER
+,	I-PER
+Александр	I-PER
+Игнатьевич	I-PER
+
+В	O
+1912-1914	O
+годах	O
+актриса	O
+гастролировала	O
+в	O
+Западной	B-LOC
+Европе	I-LOC
+.	O
+
+Силистра	B-LOC
+(	I-LOC
+община	I-LOC
+)	I-LOC
+
+перенаправление	O
+Хестон	B-PER
+,	I-PER
+Крис	I-PER
+
+Как	O
+и	O
+в	O
+случае	O
+с	O
+британским	O
+изданием	O
+,	O
+параллельно	O
+альбому	O
+в	O
+продажу	O
+поступил	O
+сингл	O
+Yellow	B-ORG
+Submarine	I-ORG
+/	O
+Eleanor	B-ORG
+Rigby	I-ORG
+.	O

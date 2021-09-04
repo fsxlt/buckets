@@ -1,0 +1,92 @@
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+Cantabrie	I-LOC
+
+L'actuelle	O
+Praça	B-ORG
+da	I-ORG
+Figueira	I-ORG
+''	O
+se	O
+trouve	O
+à	O
+l'emplacement	O
+exact	O
+qu'occupait	O
+l'hôpital	O
+.	O
+
+'	O
+''	O
+Samiu	B-PER
+Vaipulu	I-PER
+''	O
+'	O
+
+Ligue	B-ORG
+centrale	I-ORG
+de	I-ORG
+hockey	I-ORG
+junior	I-ORG
+A	I-ORG
+''	O
+'	O
+
+REDIRECTION	O
+Henriette	B-PER
+Marie	I-PER
+de	I-PER
+France	I-PER
+
+Il	O
+vit	O
+à	O
+Tbilissi	B-LOC
+.	O
+
+;	O
+Falcons	B-ORG
+de	I-ORG
+Bowling	I-ORG
+Green	I-ORG
+
+Michel	B-PER
+Rougerie	I-PER
+(	O
+Harley-Davidson	B-ORG
+)	O
+
+Parallèle	B-LOC
+(	I-LOC
+géographie	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Xian	B-LOC
+de	I-LOC
+Fu	I-LOC
+
+Marcin	B-PER
+Robak	I-PER
+''	O
+(	O
+Piast	B-ORG
+Gliwice	I-ORG
+(	O
+1	O
+but	O
+)	O
+puis	O
+Pogoń	B-ORG
+Szczecin	I-ORG
+)	O
+''	O
+
+Comté	B-LOC
+de	I-LOC
+Kootenai	I-LOC
+(	O
+ouest	O
+)	O

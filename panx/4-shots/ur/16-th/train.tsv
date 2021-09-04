@@ -1,0 +1,67 @@
+رجوع_مکرر	O
+ایمیٹی	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+بوٹننیاو	I-LOC
+کاؤنٹی،	I-LOC
+شمالی	I-LOC
+ڈکوٹا	I-LOC
+
+رجوع_مکرر	O
+مڈل	B-LOC
+ٹاؤن،	I-LOC
+مسوری	I-LOC
+
+رجوع_مکرر	O
+بینٹلی،	B-LOC
+مغربی	I-LOC
+آسٹریلیا	I-LOC
+
+رجوع_مکرر	O
+جگر	B-PER
+مراد	I-PER
+آبادی	I-PER
+
+رجوع_مکرر	O
+کتب	B-ORG
+خانہ	I-ORG
+اسکندریہ	I-ORG
+
+رجوع_مکرر	O
+راجہ	B-PER
+تری	I-PER
+دیو	I-PER
+رائے	I-PER
+
+رجوع_مکرر	O
+روک	B-ORG
+چیپل	I-ORG
+آبشار	I-ORG
+
+رجوع_مکرر	O
+اے	B-PER
+کے	I-PER
+گوپالن	I-PER
+
+رجوع_مکرر	O
+مصطفٰی	B-PER
+کمال	I-PER
+اتاترک	I-PER
+
+رجوع_مکرر	O
+شاہجہاں	B-ORG
+مسجد،	I-ORG
+ٹھٹھہ	I-ORG
+
+راولپنڈی	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+(	O
+RWP	O
+)	O
+
+رجوع_مکرر	O
+جم	B-LOC
+ہاگ	I-LOC
+کاؤنٹی،	I-LOC
+ٹیکساس	I-LOC

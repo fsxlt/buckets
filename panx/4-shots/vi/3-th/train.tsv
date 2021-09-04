@@ -1,0 +1,77 @@
+Nhân	B-ORG
+Chứng	I-ORG
+Giê-hô-va	I-ORG
+
+''	O
+Calliandra	B-LOC
+erubescens	I-LOC
+''	O
+Renvoize	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Saône-et-Loire	I-LOC
+
+''dignāga	O
+''	O
+)	O
+,	O
+Pháp	B-PER
+Xứng	I-PER
+(	O
+zh	O
+.	O
+
+Sankt	B-LOC
+Veit	I-LOC
+an	I-LOC
+der	I-LOC
+Gölsen	I-LOC
+
+ĐỔI	O
+Giải	B-ORG
+vô	I-ORG
+địch	I-ORG
+bóng	I-ORG
+đá	I-ORG
+Đông	I-ORG
+Nam	I-ORG
+Á	I-ORG
+2010	I-ORG
+
+TCP	B-PER
+/	I-PER
+IP	I-PER
+
+'	O
+''	O
+Rafael	B-PER
+Nadal	I-PER
+''	O
+'	O
+
+đổi	O
+Chi	B-LOC
+Lan	I-LOC
+hoàng	I-LOC
+thảo	I-LOC
+
+đổi	O
+Tần	B-PER
+Công	I-PER
+Bá	I-PER
+
+Nem	B-ORG
+cuốn	I-ORG
+''	O
+gỏi	O
+cuốn	O
+''	O
+
+Đồng	B-ORG
+minh	I-ORG
+dân	I-ORG
+chủ	I-ORG
+Trung	I-ORG
+Quốc	I-ORG

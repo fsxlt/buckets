@@ -1,0 +1,106 @@
+야마모토	B-LOC
+군	I-LOC
+후지사토	B-LOC
+정	I-LOC
+
+넘겨주기	O
+유엔	B-PER
+안전	I-PER
+보장	I-PER
+이사회	I-PER
+결의	I-PER
+제1973호	I-PER
+
+그리고	O
+알프스산양은	O
+뉴질랜드	B-LOC
+남섬의	B-LOC
+도입종이다	O
+.	O
+
+(	O
+소볼레프	B-ORG
+공간을	I-ORG
+사용하면	O
+증명은	O
+자명하다	O
+.	O
+
+대부는	O
+교황	B-PER
+베네딕토	I-PER
+15세이다	I-PER
+.	O
+
+'	O
+''	O
+올레흐	B-PER
+후세우	I-PER
+''	O
+'	O
+
+넘겨주기	O
+대한민국의	B-ORG
+전화번호	I-ORG
+체계	I-ORG
+
+그러나	O
+오직	O
+두	O
+팀만이	O
+우승을	O
+하였는데	O
+,	O
+그	O
+팀은	O
+셀틱	B-ORG
+FC	I-ORG
+(	O
+6회	O
+우승	O
+)	O
+과	O
+레인저스	B-ORG
+FC	I-ORG
+(	O
+5회	O
+우승	O
+)	O
+이다	O
+.	O
+
+데인바르트의	O
+목소리는	O
+시마다	B-PER
+빈	I-PER
+(	O
+)	O
+이	O
+연기하였다	O
+.	O
+
+리치먼드	B-LOC
+(	I-LOC
+캘리포니아	I-LOC
+주	I-LOC
+)	I-LOC
+
+흐멜니츠키	B-LOC
+주	I-LOC
+안토니우카	O
+,	O
+Katerinowka	O
+(	O
+)	O
+
+넘겨주기	O
+지롱드	B-ORG
+(	I-ORG
+프랑스	I-ORG
+혁명	I-ORG
+)	I-ORG
+
+넘겨주기	O
+유고슬라비아	B-LOC
+사회주의	I-LOC
+연방공화국	I-LOC

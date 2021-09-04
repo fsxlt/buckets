@@ -1,0 +1,40 @@
+تحويل	O
+أكاديمية	B-ORG
+الشرطة	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+روز	B-PER
+ليزلي	I-PER
+بدور	O
+يغريت	O
+(	O
+5	O
+حلقات	O
+)	O
+.	O
+
+تحت	O
+قيادة	O
+بومبيوس	B-PER
+الكبير	I-PER
+.	O
+
+تحويل	O
+جت	B-LOC
+(	I-LOC
+أوكلاهوما	I-LOC
+)	I-LOC
+
+تحويل	O
+نادي	B-ORG
+ماينتس	I-ORG
+05	I-ORG
+
+تحويل	O
+ديرة	B-LOC
+(	I-LOC
+ولاية	I-LOC
+البويرة	I-LOC
+)	I-LOC

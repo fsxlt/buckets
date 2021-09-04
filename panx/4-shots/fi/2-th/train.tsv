@@ -1,0 +1,122 @@
+Euroopan	B-ORG
+hiili-	I-ORG
+ja	I-ORG
+teräsyhteisön	I-ORG
+(	O
+ECSC	O
+)	O
+perustajat	O
+olivat	O
+Ranska	B-LOC
+,	O
+Italia	B-LOC
+,	O
+Länsi-Saksa	B-LOC
+,	O
+Alankomaat	B-LOC
+,	O
+Belgia	B-LOC
+ja	O
+Luxemburg	B-LOC
+.	O
+
+Dire	B-ORG
+Straits	I-ORG
+(	O
+mukana	O
+myös	O
+Sting	B-PER
+)	O
+
+José	B-PER
+Emilio	I-PER
+Amavisca	I-PER
+
+Ala-Myllymäen	O
+kasvattajaseura	O
+on	O
+Tampereen	B-ORG
+Ilves	I-ORG
+.	O
+
+Lisäksi	O
+lintua	O
+tavataan	O
+Kangaroo	B-LOC
+Islandilta	I-LOC
+.	O
+
+Hän	O
+kuului	O
+lahtelaisen	B-LOC
+Sleepy	B-ORG
+Sleepers	I-ORG
+-yhtyeen	O
+perustajajäseniin	O
+ja	O
+on	O
+vaikuttanut	O
+myöhemmin	O
+muun	O
+muassa	O
+Leningrad	B-ORG
+Cowboys	I-ORG
+-yhtyeessä	O
+.	O
+
+Galician	B-LOC
+kuningaskunta	I-LOC
+oli	O
+olemassa	O
+410–585	O
+.	O
+
+Jerry	B-PER
+West	I-PER
+(	O
+2	O
+)	O
+
+'	O
+''	O
+Aleksejevka	O
+''	O
+'	O
+(	O
+)	O
+on	O
+kaupunki	O
+Belgorodin	B-LOC
+alueella	I-LOC
+Venäjällä	B-LOC
+.	O
+
+OHJAUS	O
+Albert	B-PER
+Abraham	I-PER
+Michelson	I-PER
+
+Joukkueeseen	O
+liittyivät	O
+uusina	O
+niminä	O
+muiden	O
+muassa	O
+Jani	B-PER
+Tuppurainen	I-PER
+,	O
+Kalle	B-PER
+Koskinen	I-PER
+,	O
+Jyrki	B-PER
+Välivaara	I-PER
+sekä	O
+Olli	B-PER
+Malmivaara	I-PER
+.	O
+
+Jääkiekon	B-LOC
+1.	I-LOC
+divisioonan	I-LOC
+maailmanmestaruuskilpailut	I-LOC
+2014	I-LOC

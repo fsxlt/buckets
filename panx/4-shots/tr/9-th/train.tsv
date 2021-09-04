@@ -1,0 +1,116 @@
+Bir	O
+zaman	O
+için	O
+Selahaddin	B-PER
+Eyyubi'nin	I-PER
+ordusuyla	O
+Suriye'de	B-LOC
+bulunmuş	O
+ve	O
+sonra	O
+Halep	B-LOC
+ve	O
+Şam'da	B-LOC
+yaşamıştır	O
+.	O
+
+İdari	O
+olarak	O
+Kovser	B-LOC
+şehristanı'na	I-LOC
+bağlıdır	O
+.	O
+
+YÖNLENDİRME	O
+Göldere	B-LOC
+,	I-LOC
+Bayburt	I-LOC
+
+Primera	B-ORG
+División	I-ORG
+:	O
+2005,2006	O
+
+Sebebi	O
+her	O
+ne	O
+olursa	O
+olsun	O
+,	O
+Glycerius	O
+Ravenna'nın	B-LOC
+başkentinde	O
+olmak	O
+yerine	O
+oradaydı	O
+ve	O
+umudu	O
+kalmadığından	O
+hemen	O
+teslim	O
+oldu	O
+.	O
+
+'	O
+''	O
+Banja	B-LOC
+Luka	I-LOC
+''	O
+'	O
+,	O
+Bosna-Hersek	B-LOC
+
+Dan	B-PER
+Aykroyd	I-PER
+-	O
+Ayı	B-PER
+Yogi	I-PER
+
+Filmin	O
+başrolünde	O
+Kurt	B-PER
+Russell	I-PER
+yer	O
+aldı	O
+.	O
+
+YÖNLENDİR	O
+Yeleçli	B-LOC
+,	I-LOC
+Göle	I-LOC
+
+Bruce	B-PER
+Dickinson	I-PER
+-	O
+vokal	O
+
+'	O
+''	O
+Eskişehirspor	B-ORG
+''	O
+'	O
+
+İspanya	B-LOC
+–	O
+Real	B-ORG
+Madrid	I-ORG
+
+Düzenlenen	O
+ilk	O
+sezonda	O
+ligin	O
+şampiyonu	O
+Fenerbahçe	B-ORG
+olmuştur	O
+.	O
+
+YÖNLENDİRME	O
+Dove	B-ORG
+World	I-ORG
+Outreach	I-ORG
+Center	I-ORG
+
+Latin	B-ORG
+Amerika'daki	I-ORG
+Yahudilerin	I-ORG
+tarihi	I-ORG

@@ -1,0 +1,17 @@
+Phoque	B-LOC
+de	I-LOC
+Weddell	I-LOC
+
+====	O
+Championnats	B-ORG
+du	I-ORG
+monde	I-ORG
+====	O
+
+'	O
+''	O
+Avec	O
+Marcus	B-PER
+Ehning	I-PER
+''	O
+'	O

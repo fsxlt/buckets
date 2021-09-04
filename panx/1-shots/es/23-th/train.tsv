@@ -1,0 +1,16 @@
+San	B-LOC
+Bartolomé	I-LOC
+Zoogocho	I-LOC
+
+Partido	B-ORG
+Ecológico-Democrático	I-ORG
+(	O
+ÖDP	O
+)	O
+
+'	O
+''	O
+Lindsay	B-PER
+Davenport	I-PER
+''	O
+'	O

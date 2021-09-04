@@ -1,0 +1,18 @@
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+ALIH	O
+Daftar	B-ORG
+Presiden	I-ORG
+Afrika	I-ORG
+Selatan	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Saône-et-Loire	I-LOC

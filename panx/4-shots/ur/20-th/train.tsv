@@ -1,0 +1,63 @@
+رجوع_مکرر	O
+قاضی	B-PER
+حسین	I-PER
+احمد	I-PER
+
+رجوع_مکرر	O
+سمپسن	B-LOC
+کاؤنٹی،	I-LOC
+مسیسپی	I-LOC
+
+رجوع_مکرر	O
+عالمی	B-ORG
+ادارہ	I-ORG
+صحت	I-ORG
+
+رجوع_مکرر	O
+البانی	B-LOC
+کاؤنٹی،	I-LOC
+وائیومنگ	I-LOC
+
+رجوع_مکرر	O
+میگوئیل	B-PER
+آسن	I-PER
+پلاسیوس	I-PER
+
+رجوع_مکرر	O
+فہد	B-PER
+بن	I-PER
+عبدالعزیز	I-PER
+
+رجوع_مکرر	O
+بےز	B-ORG
+مسئلہ	I-ORG
+اثباتی	I-ORG
+
+رجوع_مکرر	O
+جاروسواویک،	B-LOC
+ہربیسزوو	I-LOC
+کاؤنٹی	I-LOC
+
+پاکستان	B-ORG
+مسلم	I-ORG
+لیگ	I-ORG
+(	I-ORG
+ن	I-ORG
+)	I-ORG
+(	O
+نواز	B-PER
+شریف	I-PER
+)	O
+
+فہرست	B-ORG
+قبرص	I-ORG
+کے	I-ORG
+شہر	I-ORG
+
+غیر	O
+واضح	O
+(	O
+ممکنہ	O
+جبل	B-LOC
+سودہ	I-LOC
+)	O

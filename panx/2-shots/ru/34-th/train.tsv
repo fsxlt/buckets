@@ -1,0 +1,33 @@
+Бейлисс	B-PER
+,	I-PER
+Уильям	I-PER
+Мэддок	I-PER
+
+Подчинён	O
+административному	B-LOC
+округу	I-LOC
+Дармштадт	B-LOC
+.	O
+
+Cold	B-ORG
+Meat	I-ORG
+Industry	I-ORG
+
+перенаправление	O
+Харарит	B-PER
+,	I-PER
+Хайя	I-PER
+
+Фигурное	B-ORG
+катание	I-ORG
+на	I-ORG
+зимних	I-ORG
+Олимпийских	I-ORG
+играх	I-ORG
+1964	I-ORG
+
+перенаправление	O
+Катхуа	B-LOC
+(	I-LOC
+округ	I-LOC
+)	I-LOC

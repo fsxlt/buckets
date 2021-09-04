@@ -1,0 +1,19 @@
+Power	B-ORG
+Rangers	I-ORG
+:	I-ORG
+Operation	I-ORG
+Overdrive	I-ORG
+
+Hans	B-PER
+Joachim	I-PER
+Störig	I-PER
+
+**	O
+Paris	B-LOC
+(	O
+Embaixada	O
+)	O
+
+Santiurde	B-LOC
+de	I-LOC
+Reinosa	I-LOC

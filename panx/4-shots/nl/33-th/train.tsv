@@ -1,0 +1,92 @@
+Eigendom	O
+van	O
+de	O
+West-Indische	B-ORG
+Compagnie	I-ORG
+
+Officer	O
+Lockstock	O
+-	O
+Jeff	B-PER
+McCarthy	I-PER
+
+'	O
+''	O
+Jorge	B-PER
+Lorenzo	I-PER
+''	O
+'	O
+
+Grenada	B-LOC
+(	O
+300	O
+km	O
+)	O
+
+Koninklijke	B-ORG
+N.V.	I-ORG
+Texels	I-ORG
+Eigen	I-ORG
+Stoomboot	I-ORG
+Onderneming	I-ORG
+
+Grodzisk	B-LOC
+Wielkopolski	I-LOC
+(	O
+WP	O
+)	O
+
+Miasteczko	B-LOC
+Śląskie	I-LOC
+(	O
+m	O
+,	O
+ŚL	O
+)	O
+
+Coffee	B-LOC
+County	I-LOC
+(	I-LOC
+Tennessee	I-LOC
+)	I-LOC
+
+Voordien	O
+speelde	O
+hij	O
+onder	O
+andere	O
+voor	O
+Amiens	B-ORG
+SC	I-ORG
+en	O
+US	B-ORG
+Boulogne	I-ORG
+.	O
+
+Tommy	B-PER
+Ho	I-PER
+/	O
+Brett	B-PER
+Steven	I-PER
+
+Luca	B-PER
+Cadalora	I-PER
+(	O
+Garelli	B-ORG
+)	O
+
+Phloeomys	B-LOC
+pallidus	I-LOC
+''	O
+'	O
+''	O
+1	O
+''	O
+'	O
+
+US	B-ORG
+Open	I-ORG
+1996	I-ORG
+(	I-ORG
+tennis	I-ORG
+)	I-ORG

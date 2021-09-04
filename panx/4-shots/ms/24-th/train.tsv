@@ -1,0 +1,90 @@
+Sin	B-ORG
+Chew	I-ORG
+Jit	I-ORG
+Poh	I-ORG
+(	I-ORG
+Malaysia	I-ORG
+)	I-ORG
+
+Tobenai	O
+Agehachou	O
+(	O
+Iiwake	B-ORG
+Maybe	I-ORG
+)	O
+
+Dato	B-PER
+'	I-PER
+Onn	I-PER
+Jaafar	I-PER
+(	O
+Bapa	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Bouches-du-Rhône	I-LOC
+
+Nakanishi	B-PER
+Kana	I-PER
+(	O
+中西香奈	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Indre	I-LOC
+
+Neufelderkoog	B-LOC
+(	O
+144	O
+)	O
+
+*Kedudukan	O
+ini	O
+tidak	O
+mencerminkan	O
+prestasi	O
+sebenar	O
+pasukan	O
+tersebut	O
+kerana	O
+Kedudukan	O
+yang	O
+sebenar	O
+dikeluarkan	O
+oleh	O
+Persekutuan	B-ORG
+Hoki	I-ORG
+Antarabangsa	I-ORG
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Oise	I-LOC
+
+'	O
+''	O
+Atlético	B-ORG
+Madrid	I-ORG
+''	O
+'	O
+
+LENCONG	O
+Zainab	B-PER
+binti	I-PER
+Jahsyi	I-PER
+
+Yang	B-PER
+Wei	I-PER
+/	O
+Zhang	B-PER
+Jiewen	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Saône	I-LOC

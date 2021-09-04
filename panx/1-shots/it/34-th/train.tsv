@@ -1,0 +1,38 @@
+Distretti	B-LOC
+del	I-LOC
+Madagascar	I-LOC
+
+Patrick	B-PER
+McEnroe	I-PER
+/	O
+Sandon	B-PER
+Stolle	I-PER
+''	O
+(	O
+quarti	O
+di	O
+finale	O
+)	O
+
+Gli	O
+abitanti	O
+si	O
+rifugiano	O
+in	O
+un	O
+forte	O
+in	O
+rovina	O
+(	O
+la	O
+roccaforte	O
+di	O
+Neufchâteau	B-LOC
+?	O
+
+20px	O
+Yakima	B-ORG
+Reds	I-ORG
+(	O
+1997-2010	O
+)	O

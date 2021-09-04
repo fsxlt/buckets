@@ -1,0 +1,53 @@
+Ta	O
+lõpetas	O
+Lähis-Ida	B-ORG
+Tehnikaülikooli	I-ORG
+Ankaras	B-LOC
+avaliku	O
+halduse	O
+erialal	O
+.	O
+
+Mõni	O
+aeg	O
+pärast	O
+seda	O
+lagunes	O
+Nõukogude	B-LOC
+Liit	I-LOC
+.	O
+
+Vivian	B-PER
+Campbell	I-PER
+–	O
+Kitarr	O
+,	O
+taustavokaal	O
+
+'	O
+''	O
+Belgia	B-ORG
+jalgpallikoondis	I-ORG
+2002.	B-ORG
+aasta	I-ORG
+jalgpalli	I-ORG
+maailmameistrivõistlustel	I-ORG
+''	O
+'	O
+
+Laurent	B-PER
+Gbagbo	I-PER
+varjus	O
+keldrikorrusele	O
+ega	O
+nõustunud	O
+läbi	O
+rääkima	O
+.	O
+
+Piirneb	O
+idast	O
+Venemaa	B-LOC
+Karjala	B-LOC
+Vabariigiga	I-LOC
+.	O

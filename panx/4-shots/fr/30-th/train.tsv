@@ -1,0 +1,87 @@
+Parti	B-ORG
+libéral	I-ORG
+suisse	I-ORG
+
+REDIRECTION	O
+Philippe	B-PER
+da	I-PER
+Silva	I-PER
+
+Ivan	B-PER
+Demidov	I-PER
+'	O
+''	O
+'	O
+''	O
+
+Paolo	B-PER
+Dal	I-PER
+Soglio	I-PER
+20,22	O
+m	O
+
+Modestas	B-PER
+Paulauskas	I-PER
+(	O
+1	O
+)	O
+
+Stade	B-LOC
+national	I-LOC
+de	I-LOC
+Kaohsiung	I-LOC
+,	O
+Kaohsiung	B-LOC
+
+REDIRECTION	O
+Queer	B-ORG
+as	I-ORG
+Folk	I-ORG
+(	I-ORG
+série	I-ORG
+télévisée	I-ORG
+,	I-ORG
+2000	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Dôme	B-ORG
+du	I-ORG
+Millénaire	I-ORG
+
+Championnat	B-ORG
+de	I-ORG
+Tunisie	I-ORG
+de	I-ORG
+football	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Eure	I-LOC
+
+Ameno	B-LOC
+,	O
+Bolzano	B-LOC
+Novarese	I-LOC
+,	O
+Gozzano	B-LOC
+,	O
+Miasino	B-LOC
+,	O
+Pella	B-LOC
+,	O
+Pettenasco	B-LOC
+,	O
+San	B-LOC
+Maurizio	I-LOC
+d'Opaglio	I-LOC
+,	O
+Omegna	B-LOC
+
+Roitelet	B-LOC
+à	I-LOC
+triple	I-LOC
+bandeau	I-LOC
+''	O

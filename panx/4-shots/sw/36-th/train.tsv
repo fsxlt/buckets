@@ -1,0 +1,78 @@
+Levittown	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Monterey	B-LOC
+Park	I-LOC
+,	I-LOC
+California	I-LOC
+
+Kaizari	B-PER
+Rudolf	I-PER
+II	I-PER
+
+Moon	B-PER
+Bloodgood	I-PER
+-	O
+Starfire	O
+
+Papa	B-PER
+Innocent	I-PER
+III	I-PER
+
+James	B-PER
+Morrison	I-PER
+kama	O
+Bill	B-PER
+Buchanan	I-PER
+
+**	O
+Auckland	B-LOC
+-	O
+''Auckland	O
+Airport	O
+''	O
+
+Me	B-ORG
+Against	I-ORG
+the	I-ORG
+World	I-ORG
+''	O
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Afrika	I-ORG
+Kusini	I-ORG
+
+Uneo	O
+lake	O
+ni	O
+1,119	O
+km²	B-ORG
+.	O
+
+American	B-ORG
+Broadcasting	I-ORG
+Company	I-ORG
+
+Wilaya	B-LOC
+ya	I-LOC
+Zanzibar	I-LOC
+Mjini	I-LOC
+Magharibi	I-LOC
+
+Milima	B-ORG
+ya	I-ORG
+Lebanoni	I-ORG
+ndogo	I-ORG
+
+Bad	B-LOC
+Homburg	I-LOC
+vor	I-LOC
+der	I-LOC
+Höhe	I-LOC

@@ -1,0 +1,108 @@
+Clwb	B-ORG
+Peldroed	I-ORG
+Llanfairpwll	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+Eurythmics	B-ORG
+en	O
+Simply	B-ORG
+Red	I-ORG
+)	O
+ingeschakeld	O
+.	O
+
+Graaf	B-PER
+d’Erlon	I-PER
+viel	O
+de	O
+linkerflank	O
+van	O
+het	O
+geallieerde	O
+leger	O
+aan	O
+.	O
+
+Het	O
+is	O
+de	O
+hoofdplaats	O
+van	O
+het	O
+gelijknamige	B-LOC
+department	B-LOC
+.	O
+
+''	O
+Schweizer	B-ORG
+Cup	I-ORG
+''	O
+'	O
+
+Ze	O
+mondt	O
+in	O
+het	O
+noordoosten	O
+uit	O
+in	O
+het	O
+Keizer	B-LOC
+Frans	I-LOC
+Jozeffjord	I-LOC
+.	O
+
+''	O
+Hipposideros	B-LOC
+calcaratus	I-LOC
+''	O
+
+Zwavelborsttoekan	B-LOC
+(	O
+Ramphastos	B-LOC
+sulfuratus	I-LOC
+''	O
+)	O
+
+Orde	B-ORG
+van	I-ORG
+Hoessein	I-ORG
+ibn	I-ORG
+Ali	I-ORG
+
+Bohemen	B-LOC
+-	O
+Bořivoj	B-PER
+II	I-PER
+opgevolgd	O
+door	O
+zijn	O
+neef	O
+Svatopluk	B-PER
+
+Espírito	B-LOC
+Santo	I-LOC
+do	I-LOC
+Turvo	I-LOC
+
+De	O
+niet-erfelijke	O
+prinsentitel	O
+is	O
+tenslotte	O
+ook	O
+verleend	O
+aan	O
+de	O
+kinderen	O
+van	O
+prinses	B-PER
+Margriet	I-PER
+.	O
+
+Götz	B-PER
+Alsmann	I-PER
+(	O
+piano	O
+)	O

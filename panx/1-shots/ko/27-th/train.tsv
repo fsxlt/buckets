@@ -1,0 +1,41 @@
+(	O
+Lake	O
+Pedder	O
+)	O
+-	O
+(	O
+Lake	O
+Gordon	O
+)	O
+,	O
+오스트레일리아	B-LOC
+
+타이	B-ORG
+항공	I-ORG
+(	O
+스타	B-ORG
+얼라이언스	I-ORG
+)	O
+
+린네는	O
+보트니아	B-LOC
+만의	I-LOC
+해안을	O
+시계방향으로	O
+여행하며	O
+우메오	B-LOC
+,	O
+룰레오	B-LOC
+,	O
+토르니오에서	B-LOC
+주요한	O
+내륙	O
+관찰을	O
+했다	O
+.	O
+
+넘겨주기	O
+할리파	B-PER
+이븐	I-PER
+술만	I-PER
+알할리파	I-PER

@@ -1,0 +1,41 @@
+'	O
+''	O
+Saint	B-LOC
+Vincent	I-LOC
+and	I-LOC
+the	I-LOC
+Grenadines	I-LOC
+''	O
+'	O
+
+**	O
+''	O
+The	B-ORG
+Mommy	I-ORG
+Returns	I-ORG
+:	I-ORG
+Ang	I-ORG
+Mommy	I-ORG
+Kong	I-ORG
+Mamaw	I-ORG
+''	O
+(	O
+2011	O
+)	O
+
+Kardinal	B-PER
+(	I-PER
+Katolisismo	I-PER
+)	I-PER
+
+Pamantasang	B-ORG
+Niccolò	I-ORG
+Cusano	I-ORG
+
+Papa	B-PER
+Sixto	I-PER
+IV	I-PER
+
+Uchinada	B-LOC
+,	I-LOC
+Ishikawa	I-LOC

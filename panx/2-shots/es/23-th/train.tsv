@@ -1,0 +1,48 @@
+REDIRECCIÓN	O
+República	B-LOC
+Socialista	I-LOC
+Soviética	I-LOC
+Carelo-Finesa	I-LOC
+
+'	O
+''	O
+Cristiano	B-PER
+Ronaldo	I-PER
+''	O
+'	O
+
+Fueron	O
+habilitados	O
+solamente	O
+los	O
+partidos	O
+Colorado	B-ORG
+,	O
+Nacional	B-ORG
+y	O
+Unión	B-ORG
+Cívica	I-ORG
+.	O
+
+Fue	O
+contra	O
+el	O
+Real	B-ORG
+Madrid	I-ORG
+en	O
+el	O
+Santiago	B-PER
+Bernabéu	I-PER
+,	O
+marcó	O
+el	O
+0-1	O
+y	O
+luego	O
+perdieron	O
+4-1	O
+.	O
+
+Isla	B-LOC
+Martín	I-LOC
+García	I-LOC

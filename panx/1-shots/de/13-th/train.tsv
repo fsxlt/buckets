@@ -1,0 +1,33 @@
+SAS	B-ORG
+Épinal	I-ORG
+D3	O
+–	O
+Olympique	B-ORG
+Lyon	I-ORG
+L1	O
+3:3	O
+n.V.	O
+,	O
+4:2	O
+i.E	O
+.	O
+
+Drei	O
+weitere	O
+Gemeinden	O
+,	O
+darunter	O
+die	O
+Stadt	O
+Garching	B-LOC
+b.München	I-LOC
+haben	O
+über	O
+15.000	O
+Einwohner	O
+.	O
+
+Arthur	B-PER
+N.	I-PER
+R.	I-PER
+Robinson	I-PER

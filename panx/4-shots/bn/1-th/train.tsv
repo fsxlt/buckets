@@ -1,0 +1,83 @@
+পি.	B-PER
+ভি.	I-PER
+নরসিমা	I-PER
+রাও	I-PER
+
+দাকোপ	B-LOC
+উপজেলা	I-LOC
+এবং	O
+বটিয়াঘাটা	B-LOC
+উপজেলা	I-LOC
+
+অঙ্কুশ	B-PER
+হাজরা	I-PER
+,	O
+শ্রাবন্তী	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+আবীর	B-PER
+চট্টোপাধ্যায়	I-PER
+,	O
+রজতাভ	B-PER
+দত্ত	I-PER
+
+রাহুল	B-PER
+দ্রাবিড়	I-PER
+সাঈদ	B-PER
+আনোয়ার	I-PER
+মার্ক	B-PER
+ওয়াহ	I-PER
+রিকি	B-PER
+পন্টিং	I-PER
+ম্যাথু	B-PER
+হেইডেন	I-PER
+
+জেপি	B-PER
+ডুমিনি	I-PER
+২য়	O
+টেস্টের	O
+১ম	O
+ইনিংসে	O
+১	O
+,	O
+০০০	O
+রান	O
+অতিক্রম	O
+করেন।	O
+
+জাতীয়	B-ORG
+মুক্ত	I-ORG
+বিদ্যালয়	I-ORG
+সংস্থা	I-ORG
+
+হ্যারি	B-LOC
+পটার	I-LOC
+অ্যান্ড	I-LOC
+দ্য	I-LOC
+হাফ-ব্লাড	I-LOC
+প্রিন্স	I-LOC
+
+বিশ্ব	B-ORG
+বাণিজ্য	I-ORG
+সংস্থা	I-ORG
+
+গণতান্ত্রিক	B-LOC
+কঙ্গো	I-LOC
+প্রজাতন্ত্র	I-LOC
+
+অস্ট্রেলিয়া	B-LOC
+(	I-LOC
+মহাদেশ	I-LOC
+)	I-LOC
+
+'	O
+''	O
+সমাজবাদী	B-ORG
+পার্টি	I-ORG
+''	O
+'	O
+
+ফুটবল	B-ORG
+লীগ	I-ORG
+প্রথম	I-ORG
+বিভাগ	I-ORG

@@ -1,0 +1,55 @@
+Castlegar	B-LOC
+,	O
+Brittiläinen	B-LOC
+Kolumbia	I-LOC
+,	O
+Kanada	B-LOC
+
+Vuoden	B-ORG
+2003	I-ORG
+sarjassa	I-ORG
+Joku	O
+tekee	O
+ensi	O
+esiintymisensä	O
+jaksossa	O
+``	O
+Näkeekö	O
+Kukaan	O
+?	O
+
+Hän	O
+palveli	O
+myös	O
+presidentti	O
+Wilford	B-PER
+Woodruffin	I-PER
+ja	O
+presidentti	O
+Lorenzo	B-PER
+Snow	I-PER
+toisena	O
+neuvonantajana	O
+.	O
+
+Etumerkki	B-ORG
+(	I-ORG
+matematiikka	I-ORG
+)	I-ORG
+
+Päätöksen	O
+takana	O
+oli	O
+Karjalan	B-LOC
+tasavallan	I-LOC
+johtaja	O
+Aleksandr	B-PER
+Hudilainen	I-PER
+.	O
+
+Belgia	B-LOC
+–	O
+(	O
+8	O
+uimaria	O
+)	O

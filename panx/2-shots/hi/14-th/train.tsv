@@ -1,0 +1,41 @@
+एनोजेइस्सस	B-LOC
+लैटीफ़ोलिया	I-LOC
+''	O
+(	O
+रोक्स्ब	O
+.	O
+
+सैफ़	B-PER
+अली	I-PER
+ख़ान	I-PER
+,	O
+रवीना	B-PER
+टंडन	I-PER
+,	O
+सनी	B-PER
+देओल	I-PER
+
+1951	B-ORG
+एशियाई	I-ORG
+खेल	I-ORG
+
+मिथुन	B-PER
+चक्रवर्ती	I-PER
+,	O
+रेखा	B-PER
+,	O
+रति	B-PER
+अग्निहोत्री	I-PER
+
+पॉवर	B-ORG
+फाइनेंस	I-ORG
+कॉर्पोरेशन	I-ORG
+(	O
+PFC	O
+)	O
+
+हिमाचल	B-LOC
+प्रदेश	I-LOC
+(	O
+115	O
+)	O

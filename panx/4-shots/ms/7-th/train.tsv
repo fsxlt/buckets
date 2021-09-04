@@ -1,0 +1,72 @@
+'	O
+''	O
+Urawa	B-ORG
+Red	I-ORG
+Diamonds	I-ORG
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Somme	I-LOC
+
+[30.03.2005]	O
+Special	B-ORG
+Genera~tion	I-ORG
+(	O
+スッペシャル	O
+ジェネレ~ション	O
+)	O
+
+'	O
+''	O
+Kate	B-PER
+Tsui	I-PER
+''	O
+'	O
+
+Choong	B-PER
+Tan	I-PER
+Fook	I-PER
+/	O
+Lee	B-PER
+Wan	I-PER
+Wah	I-PER
+
+American	B-ORG
+Dragon	I-ORG
+:	I-ORG
+Jake	I-ORG
+Long	I-ORG
+
+''Dinyanyikan	O
+oleh	O
+Tanaka	B-PER
+Reina	I-PER
+''	O
+
+Senarai	B-ORG
+penggubah	I-ORG
+muzik	I-ORG
+era	I-ORG
+pertengahan	I-ORG
+
+Campo	B-LOC
+de	I-LOC
+la	I-LOC
+Cruz	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Lot	I-LOC
+
+Harry	B-PER
+James	I-PER
+Potter	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC

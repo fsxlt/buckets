@@ -1,0 +1,131 @@
+New	B-ORG
+Jersey	I-ORG
+Devils	I-ORG
+taldearen	O
+aurka	O
+Konferentziako	O
+Finala	O
+galdu	O
+zuen	O
+
+Guadalupe	B-LOC
+konderria	I-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+
+Gainera	O
+Akize	B-LOC
+,	O
+Hendaia	B-LOC
+,	O
+Paue	B-LOC
+,	O
+Donibane	B-LOC
+Garazi	I-LOC
+eta	O
+Aturbera	B-LOC
+joateko	O
+TER	B-ORG
+zerbitzuak	O
+ere	O
+badaude	O
+.	O
+
+'	O
+''	O
+Hohndorf	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Kirgiziako	B-LOC
+SES	I-LOC
+(	O
+oraingo	O
+Kirgizistan	B-LOC
+)	O
+
+Arkiteko	O
+gisa	O
+ere	O
+jardun	O
+zuen	O
+,	O
+bere	O
+lan	O
+garrantzitsuena	O
+Kremlindik	B-ORG
+hurbil	O
+dagoen	O
+Tretiakov	B-ORG
+Galeriako	I-ORG
+fatxada	O
+delarik	O
+.	O
+
+'	O
+''	O
+Rossemaison	O
+''	O
+'	O
+Suitzako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Club	B-ORG
+Atlético	I-ORG
+Peñarol	I-ORG
+eta	O
+Nacional	B-ORG
+de	I-ORG
+Montevideo	I-ORG
+dira	O
+dominatzaile	O
+nagusiak	O
+.	O
+
+Bergamoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+José	B-PER
+Antonio	I-PER
+Ardanza	I-PER
+Garro	I-PER
+(	O
+EAJ	B-ORG
+)	O
+
+Paulina	B-PER
+Rubio	I-PER
+-	O
+''Paulina	O
+''	O
+
+'	O
+''	O
+Claudio	B-PER
+Chiappucci	I-PER
+''	O
+'	O
+
+Ikus	O
+,	O
+Abbadia	B-ORG
+jauregia	I-ORG
+.	O
+
+BIRZUZENDU	O
+William	B-PER
+Henry	I-PER
+Harrison	I-PER

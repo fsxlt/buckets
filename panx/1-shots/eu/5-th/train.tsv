@@ -1,0 +1,26 @@
+Butte	B-LOC
+konderria	I-LOC
+(	I-LOC
+Kalifornia	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Grellingen	O
+''	O
+'	O
+Suitzako	B-LOC
+udalerria	O
+da	O
+.	O
+
+BIRZUZENDU	O
+Antso	B-PER
+VI.a	I-PER
+Gilen	I-PER
+Gaskoiniakoa	I-PER
+
+Artzain	B-ORG
+Onaren	I-ORG
+katedrala	I-ORG
+.	O

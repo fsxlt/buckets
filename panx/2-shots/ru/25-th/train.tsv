@@ -1,0 +1,39 @@
+Man	B-LOC
+with	I-LOC
+a	I-LOC
+Movie	I-LOC
+Camera	I-LOC
+
+перенаправление	O
+The	B-ORG
+Collection	I-ORG
+1977–1982	I-ORG
+
+**	O
+Come	B-ORG
+Around	I-ORG
+Sundown	I-ORG
+''	O
+—	O
+Kings	B-ORG
+of	I-ORG
+Leon	I-ORG
+
+Иршавский	B-LOC
+район	I-LOC
+(	O
+''Ilosvai	O
+járás	O
+''	O
+)	O
+
+перенаправление	O
+Ашуралиев	B-PER
+,	I-PER
+Руслан	I-PER
+Нуралиевич	I-PER
+
+перенаправление	O
+Торп	B-PER
+,	I-PER
+Иан	I-PER

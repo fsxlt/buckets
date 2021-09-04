@@ -1,0 +1,73 @@
+Pulo	B-LOC
+ng	I-LOC
+Christmas	I-LOC
+
+Papa	B-PER
+Calixto	I-PER
+III	I-PER
+
+Pandaigdigang	B-ORG
+Pondong	I-ORG
+Pananalapi	I-ORG
+
+'	O
+''	O
+Hamayka	B-LOC
+''	O
+'	O
+
+Antigua	B-LOC
+at	I-LOC
+Barbuda	I-LOC
+
+Awtonomong	B-LOC
+Rehiyon	I-LOC
+sa	I-LOC
+Muslim	I-LOC
+Mindanao	I-LOC
+
+Maximilien	B-PER
+de	I-PER
+Robespierre	I-PER
+
+Papa	B-PER
+Pio	I-PER
+IX	I-PER
+
+''	O
+Elena	B-ORG
+Patron	I-ORG
+'s	I-ORG
+Blusang	I-ORG
+Itim	I-ORG
+''	O
+(	O
+2011	O
+)	O
+
+'	O
+''	O
+Colombia	B-LOC
+''	O
+'	O
+
+Guns	B-ORG
+N	I-ORG
+'	I-ORG
+Roses	I-ORG
+
+Miho	B-PER
+Nakayama	I-PER
+(	O
+7	O
+)	O
+
+Aklat	B-ORG
+ni	I-ORG
+Zacarias	I-ORG
+
+Kapuluang	B-LOC
+Cocos	I-LOC
+(	I-LOC
+Keeling	I-LOC
+)	I-LOC

@@ -1,0 +1,68 @@
+Előbbit	O
+Dennis	B-PER
+Bergkamp	I-PER
+,	O
+utóbbit	O
+a	O
+játékvezető	O
+,	O
+Graham	B-PER
+Poll	I-PER
+fogta	O
+le	O
+,	O
+hogy	O
+ne	O
+kerüljön	O
+sor	O
+tettlegességre	O
+.	O
+
+Flavia	B-PER
+Pennetta	I-PER
+''	O
+(	O
+harmadik	O
+kör	O
+)	O
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Inca	B-LOC
+(	I-LOC
+község	I-LOC
+)	I-LOC
+
+Xena	B-ORG
+:	I-ORG
+A	I-ORG
+harcos	I-ORG
+hercegnő	I-ORG
+''	O
+
+Hetes	O
+Kaposvártól	B-LOC
+északnyugatra	O
+,	O
+12	O
+kilométerre	O
+fekszik	O
+.	O
+
+'	O
+''	O
+(	O
+x	O
+)	O
+'	O
+''	O
+Golden	B-ORG
+State	I-ORG
+Warriors	I-ORG
+
+Beira-Rio]]	O
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brazília	B-LOC

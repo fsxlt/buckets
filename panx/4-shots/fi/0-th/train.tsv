@@ -1,0 +1,113 @@
+20px]]	O
+'	O
+''	O
+Innes	B-PER
+Ireland	I-PER
+''	O
+'	O
+
+Yhtye	O
+keikkaili	O
+ahkerasti	O
+Los	B-LOC
+Angelesin	I-LOC
+klubeissa	O
+ja	O
+sai	O
+levytyssopimuksen	O
+CBS-yhtiöltä	B-ORG
+.	O
+
+OHJAUS	O
+Englannin	B-LOC
+Valioliigan	I-LOC
+kausi	I-LOC
+2013–2014	I-LOC
+
+Hänen	O
+opettajanaan	O
+toimi	O
+Léon	B-PER
+Bonnat	I-PER
+.	O
+
+FC	B-ORG
+Steaua	I-ORG
+Bukarest	I-ORG
+
+Texas	B-ORG
+Instruments	I-ORG
+ja	O
+monta	O
+muuta	O
+yritystä	O
+.	O
+
+Momotteja	O
+elää	O
+Keski	B-LOC
+ja	O
+Etelä-Amerikassa	B-LOC
+.	O
+
+Salvatore	B-PER
+``	I-PER
+Toto	I-PER
+''	I-PER
+Cutugno	I-PER
+,	O
+suom	O
+.	O
+
+Leo	B-PER
+Mechelin	I-PER
+(	O
+ruots	O
+.	O
+
+Espanjan	B-ORG
+ympäriajo	I-ORG
+,	O
+kokonais-	O
+ja	O
+yhdistelmäkilpailun	O
+voitto	O
+,	O
+etapilla	O
+19	O
+toinen	O
+,	O
+etapeilla	O
+9	O
+ja	O
+13	O
+kolmas	O
+
+OHJAUS	O
+Jääkiekon	B-LOC
+maailmanmestaruuskilpailut	I-LOC
+2012	I-LOC
+
+Penn	B-ORG
+&	I-ORG
+Teller	I-ORG
+''	O
+
+Perhe	O
+on	O
+kotoisin	O
+Tuzlasta	B-LOC
+,	O
+Bosnia	B-LOC
+ja	I-LOC
+Hertsegovinan	I-LOC
+koillisosasta	O
+.	O
+
+Balaídos	B-ORG
+,	O
+Vigo	B-LOC
+(	O
+31	O
+800	O
+)	O

@@ -1,0 +1,18 @@
+Moon	B-PER
+Bloodgood	I-PER
+-	O
+Starfire	O
+
+Kamuli	B-LOC
+,	I-LOC
+Uganda	I-LOC
+,	O
+Wilaya	B-LOC
+ya	I-LOC
+Kamuli	I-LOC
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Dar-es-Salaam	I-ORG

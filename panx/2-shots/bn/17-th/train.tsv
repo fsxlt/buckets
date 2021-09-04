@@ -1,0 +1,34 @@
+শ্রীরামপুর	B-LOC
+(	I-LOC
+বর্ধমান	I-LOC
+)	I-LOC
+
+পাকিস্তান	B-ORG
+জাতীয়	I-ORG
+ক্রিকেট	I-ORG
+দল	I-ORG
+
+কেন্দ্রীয়	B-ORG
+মাধ্যমিক	I-ORG
+শিক্ষা	I-ORG
+বোর্ড	I-ORG
+
+হিমালয়ী	B-LOC
+আম	I-LOC
+,	O
+''Mangifera	O
+sylvatica	O
+''	O
+Roxb	O
+.	O
+
+এডউইন	B-PER
+ফন	I-PER
+দের	I-PER
+সার	I-PER
+
+মানো	B-PER
+মেনেজেস	I-PER
+(	O
+২০১০-২০১২	O
+)	O

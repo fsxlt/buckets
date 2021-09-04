@@ -1,0 +1,41 @@
+REDIRECCIÓN	O
+José	B-PER
+María	I-PER
+Montealegre	I-PER
+Fernández	I-PER
+
+Fortaleza	B-ORG
+del	I-ORG
+Real	I-ORG
+Felipe	I-ORG
+
+REDIRECCIÓN	O
+Marcelo	B-PER
+Torcuato	I-PER
+de	I-PER
+Alvear	I-PER
+
+Stade	B-LOC
+de	I-LOC
+Suisse	I-LOC
+,	O
+Berna	B-LOC
+
+**	O
+San	B-LOC
+Carlos	I-LOC
+de	I-LOC
+la	I-LOC
+Rápita	I-LOC
+-	O
+15.338	O
+
+REDIRECCIÓN	O
+Museo	B-ORG
+Municipal	I-ORG
+de	I-ORG
+Bellas	I-ORG
+Artes	I-ORG
+Juan	I-ORG
+B.	I-ORG
+Castagnino	I-ORG

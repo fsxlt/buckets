@@ -1,0 +1,83 @@
+Vereenigde	B-ORG
+Oostindische	I-ORG
+Compagnie	I-ORG
+
+Rusia	B-LOC
+дд	O
+/	O
+мм	O
+/	O
+гггг	O
+(	O
+день	O
+/	O
+месяц	O
+/	O
+год	O
+)	O
+
+Dhèwèké	O
+salah	O
+sawijining	O
+anggota	O
+saka	O
+Super	B-ORG
+Junior	I-ORG
+.	O
+
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Paus	B-PER
+Zephyrinus	I-PER
+--	O
+--	O
+YaYa	O
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+Nia	B-PER
+Ramadhani	I-PER
+dadi	O
+Niken	O
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+Powiat	B-LOC
+Przasnysz	I-LOC
+,	O
+Przasnysz	B-LOC
+
+ALIH	O
+Muhammad	B-PER
+bin	I-PER
+Idris	I-PER
+asy-Syafi`i	I-PER
+
+ALIH	O
+Asosiasi	B-ORG
+Bangsa	I-ORG
+Bangsa	I-ORG
+Asia	I-ORG
+Kidul	I-ORG
+Wétan	I-ORG
+
+Mount	B-LOC
+Athos	I-LOC
+(	I-LOC
+otonom	I-LOC
+)	I-LOC
+
+ALIH	O
+Bacharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER

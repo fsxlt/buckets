@@ -1,0 +1,21 @@
+Pierre	B-PER
+Le	I-PER
+Moyne	I-PER
+d'Iberville	I-PER
+.	O
+
+REDIRECCIÓN	O
+Repúblicas	B-LOC
+de	I-LOC
+la	I-LOC
+Unión	I-LOC
+Soviética	I-LOC
+
+REDIRECCIÓN	O
+Up	B-ORG
+(	I-ORG
+álbum	I-ORG
+de	I-ORG
+R.E.M	I-ORG
+.	I-ORG
+)	I-ORG

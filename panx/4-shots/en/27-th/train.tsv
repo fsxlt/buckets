@@ -1,0 +1,68 @@
+'	O
+''	O
+Louisville	B-LOC
+,	I-LOC
+Kentucky	I-LOC
+''	O
+'	O
+
+San	B-LOC
+Juan	I-LOC
+y	I-LOC
+Martínez	I-LOC
+
+''	O
+Up	B-ORG
+On	I-ORG
+The	I-ORG
+Ridge	I-ORG
+''	O
+–	O
+Dierks	B-PER
+Bentley	I-PER
+
+Emerald	B-ORG
+Tower	I-ORG
+,	I-ORG
+Brisbane	I-ORG
+
+Jane	B-PER
+Bown	I-PER
+-	O
+Lifetime	O
+Achievement	O
+
+Manchukuo	B-ORG
+Air	I-ORG
+Force	I-ORG
+
+16	O
+-	O
+Tony	B-PER
+Hall	I-PER
+
+He	O
+joined	O
+Newton	B-ORG
+Heath	I-ORG
+in	O
+February	O
+1899	O
+as	O
+a	O
+replacement	O
+for	O
+James	B-PER
+McNaught	I-PER
+.	O
+
+Idahlu	B-LOC
+,	I-LOC
+Hamadan	I-LOC
+
+A	O
+typical	O
+example	O
+is	O
+Earith	B-LOC
+Bulwark	I-LOC

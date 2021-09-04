@@ -1,0 +1,19 @@
+REDIRECIONAMENTO	O
+Shakira	B-ORG
+(	I-ORG
+álbum	I-ORG
+)	I-ORG
+
+Sudeste	B-LOC
+de	I-LOC
+Washington	I-LOC
+,	I-LOC
+D.C	I-LOC
+.	I-LOC
+
+'	O
+''	O
+Dwight	B-PER
+Davis	I-PER
+Holcombe	B-PER
+Ward	I-PER

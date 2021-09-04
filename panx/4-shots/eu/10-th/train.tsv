@@ -1,0 +1,131 @@
+Bere	O
+oinordekoa	O
+,	O
+bere	O
+seme	O
+Tiglath-Pileser	B-PER
+I.a	I-PER
+izan	O
+zen	O
+.	O
+
+BIRZUZENDU	O
+Aisac	B-LOC
+e	I-LOC
+Òst	I-LOC
+
+Lur	B-ORG
+Berri	I-ORG
+kooperatiban	O
+ere	O
+goi-karguak	O
+okupatu	O
+ditu	O
+.	O
+
+Martinus	B-PER
+W.	I-PER
+Beijerinck	I-PER
+zientzialari	O
+holandarrak	O
+aurkitu	O
+zuen	O
+XX	O
+.	O
+
+Montagne	B-LOC
+(	I-LOC
+Isère	I-LOC
+)	I-LOC
+,	O
+Frantziako	B-LOC
+udalerria	O
+.	O
+
+Peñíscola	B-LOC
+(	O
+Valentziako	B-LOC
+Erkidegoa	I-LOC
+)	O
+.	O
+
+Jean-Marie	B-PER
+Le	I-PER
+Pen	I-PER
+,	O
+Fronte	B-ORG
+Nazionalaren	I-ORG
+hautagaia	O
+bosgarren	O
+aldiz	O
+.	O
+
+Bertan	O
+autore	O
+modernoen	O
+zale	O
+egin	O
+zen	O
+,	O
+Haeckel	B-PER
+eta	O
+Nietzscherena	B-PER
+bereziki	O
+.	O
+
+Eraikuntzaren	O
+kostu	O
+osoa	O
+341	O
+milioi	O
+euro	O
+izan	O
+zen	O
+,	O
+TSV	B-ORG
+1860	I-ORG
+München	I-ORG
+eta	O
+FC	B-ORG
+Bayern	I-ORG
+München	I-ORG
+taldeek	O
+ordainduak	O
+.	O
+
+Laval-sur-Vologne	B-LOC
+Vosgesko	B-LOC
+hiriburua	O
+da	O
+.	O
+
+Douglas	B-LOC
+konderria	I-LOC
+(	I-LOC
+Hego	I-LOC
+Dakota	I-LOC
+)	I-LOC
+
+Chariots	B-ORG
+of	I-ORG
+Fire	I-ORG
+(	I-ORG
+Vangelis	I-ORG
+)	I-ORG
+
+Azpiegiturak	O
+gertu	O
+dauka	O
+Iruñea	B-LOC
+eta	O
+Zaragoza	B-LOC
+bitarteko	O
+autobiderako	O
+sarbidea	O
+.	O
+
+Gerben	B-PER
+De	I-PER
+Knegt	I-PER
+(	O
+)	O

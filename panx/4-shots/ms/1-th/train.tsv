@@ -1,0 +1,91 @@
+LENCONG	O
+Mohd	B-PER
+Khairul	I-PER
+Izuan	I-PER
+Rosli	I-PER
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Tatra	I-PER
+Poland	I-PER
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+miorița	I-ORG
+
+Gerakan	B-ORG
+Tanah	I-ORG
+Melayu	I-ORG
+
+5	O
+/	O
+8	O
+Chen	B-PER
+Jin	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC
+
+Tesis	O
+MPN	O
+akan	O
+melibatkan	O
+negara	O
+Uganda	B-LOC
+,	O
+Maldives	B-LOC
+,	O
+Palestin	B-ORG
+dan	O
+Mesir	B-LOC
+juga	O
+.	O
+''	O
+
+Oleh	O
+itu	O
+,	O
+''Pikachu	B-PER
+''	I-PER
+akan	O
+sentiasa	O
+mengikut	O
+ke	O
+mana	O
+sahaja	O
+tuannya	O
+pergi	O
+.	O
+
+Dewan	B-ORG
+Undangan	I-ORG
+Negeri	I-ORG
+N.05	O
+Santan	B-ORG
+(	O
+7,008	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gers	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+gunung	I-ORG
+Entlebuch	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ille-et-Vilaine	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Garonne	I-LOC

@@ -1,0 +1,71 @@
+넘겨주기	O
+베니토	B-PER
+페레스	I-PER
+갈도스	I-PER
+
+아프리카계	B-ORG
+미국인이	I-ORG
+인구의	O
+80	O
+%	O
+이상을	O
+차지하고	O
+,	O
+영국계	B-LOC
+,	O
+아일랜드계	B-LOC
+,	O
+독일계	B-LOC
+,	O
+이탈리아계	B-LOC
+,	O
+폴란드계의	B-LOC
+주민들도	O
+산다	O
+.	O
+
+2회전의	O
+각조	O
+1,2위팀은	O
+여섯	O
+팀의	O
+자동진출국과	O
+함께	O
+2011년	B-ORG
+AFC	I-ORG
+아시안컵	I-ORG
+본선에	O
+참가하게	O
+된다	O
+.	O
+
+행크	B-PER
+에런	I-PER
+-	O
+2,297	O
+
+)	O
+은	O
+일제	B-LOC
+강점기와	I-LOC
+대한민국	B-LOC
+건국	O
+초기의	O
+군인이다	O
+.	O
+
+전세계에	O
+3속	O
+6종이	O
+발견되며	O
+,	O
+주로	O
+북아메리카와	B-LOC
+유라시아에	B-LOC
+분포한다	O
+.	O
+
+가미사토	B-LOC
+정	I-LOC
+(	O
+)	O

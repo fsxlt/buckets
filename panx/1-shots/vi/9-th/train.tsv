@@ -1,0 +1,26 @@
+Danh	B-ORG
+sách	I-ORG
+vua	I-ORG
+Triều	I-ORG
+Tiên	I-ORG
+
+Comoros	B-LOC
+,	O
+Madagascar	B-LOC
+và	O
+Seychelles	B-LOC
+cũng	O
+tuyên	O
+bố	O
+chủ	O
+quyền	O
+
+đổi	O
+Sở	B-PER
+Đổ	I-PER
+Ngao	I-PER
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Aveyron	I-LOC

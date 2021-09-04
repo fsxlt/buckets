@@ -1,0 +1,105 @@
+2007-2008	O
+-	O
+Anthony	B-PER
+Anderson	I-PER
+,	O
+Oeste	O
+
+'	O
+''	O
+Albacete	B-ORG
+Balompié	I-ORG
+''	O
+'	O
+
+REDIRECCIÓN	O
+Roberto	B-PER
+de	I-PER
+Nobili	I-PER
+
+Diego	B-PER
+de	I-PER
+Avendaño	I-PER
+
+Tour	B-ORG
+de	I-ORG
+Francia	I-ORG
+20px	O
+,	O
+más	O
+1	O
+etapa	O
+y	O
+mejor	O
+joven	O
+20px	O
+
+REDIRECCIÓN	O
+Policía	B-ORG
+de	I-ORG
+la	I-ORG
+Provincia	I-ORG
+de	I-ORG
+Santa	I-ORG
+Fe	I-ORG
+
+Catedral	B-ORG
+de	I-ORG
+San	I-ORG
+Esteban	I-ORG
+de	I-ORG
+Viena	I-ORG
+
+Se	O
+encuentra	O
+en	O
+la	O
+India	B-LOC
+
+REDIRECCIÓN	O
+San	B-LOC
+Rafael	I-LOC
+del	I-LOC
+Paraná	I-LOC
+(	I-LOC
+Paraguay	I-LOC
+)	I-LOC
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+De	B-LOC
+Kalb	I-LOC
+(	O
+pueblo	O
+)	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Baja	B-PER
+''	O
+'	O
+,	O
+accidente	O
+o	O
+lesión	O
+.	O
+
+Dinastía	B-LOC
+Ming	I-LOC
+(	O
+1368-1644	O
+)	O

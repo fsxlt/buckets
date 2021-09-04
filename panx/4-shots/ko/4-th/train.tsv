@@ -1,0 +1,88 @@
+중화민국	B-ORG
+장쑤	I-ORG
+성	I-ORG
+난징	I-ORG
+총통부	I-ORG
+
+한티만시	B-LOC
+자치구	I-LOC
+,	O
+중심지	O
+-	O
+한티만시스크	B-LOC
+
+**	O
+강민호	B-PER
+(	O
+4년	O
+총액	O
+75억원으로	O
+롯데	B-ORG
+자이언츠	I-ORG
+잔류	O
+)	O
+
+바위비둘기와	B-LOC
+더불어	O
+,	O
+도시의	O
+문제거리이다	O
+.	O
+
+이	O
+때에	O
+노모	B-PER
+히데오를	I-PER
+참고로	O
+한	O
+것은	O
+일절	O
+없었다고	O
+말했다	O
+.	O
+
+혼조	B-PER
+시게루	I-PER
+(	O
+本庄繁	O
+)	O
+중장	O
+
+넘겨주기	O
+패멀라	B-PER
+린던	I-PER
+트래버스	I-PER
+
+다케오	B-LOC
+시	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+센추리언	B-ORG
+에어	I-ORG
+카고	I-ORG
+
+후임	O
+자리는	O
+라인란트팔츠	B-LOC
+주	I-LOC
+총리였던	O
+헬무트	B-PER
+콜이	I-PER
+맡게	O
+된다	O
+.	O
+
+)	O
+은	O
+일제	B-LOC
+강점기의	I-LOC
+관료이다	O
+.	O
+
+넘겨주기	O
+도쿄	B-ORG
+지하철	I-ORG
+난보쿠	I-ORG
+선	I-ORG

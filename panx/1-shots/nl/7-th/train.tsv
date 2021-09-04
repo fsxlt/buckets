@@ -1,0 +1,37 @@
+Embleem	O
+ontworpen	O
+door	O
+Major-General	B-PER
+Charles	I-PER
+George	I-PER
+Gordon	I-PER
+.	O
+
+''	O
+Egoli	B-ORG
+:	I-ORG
+Plek	I-ORG
+van	I-ORG
+Goud	I-ORG
+''	O
+(	O
+1992–2001	O
+)	O
+
+border]]	O
+Sao	B-LOC
+Tomé	I-LOC
+en	I-LOC
+Principe	I-LOC
+
+Medyka	B-LOC
+,	O
+Orły	B-LOC
+,	O
+Przemyśl	B-LOC
+,	O
+Przemyśl	B-LOC
+,	O
+Rokietnica	B-LOC
+,	O
+Stubno	B-LOC

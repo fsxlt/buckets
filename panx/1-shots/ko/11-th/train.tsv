@@ -1,0 +1,18 @@
+;	O
+모모코의	O
+어머니	O
+-	O
+시노하라	B-PER
+료코	I-PER
+
+바스쿠	B-ORG
+다	I-ORG
+가마	I-ORG
+다리	I-ORG
+
+넘겨주기	O
+UEFA	B-LOC
+유럽	I-LOC
+축구	I-LOC
+선수권	I-LOC
+대회	I-LOC

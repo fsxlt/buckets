@@ -1,0 +1,42 @@
+أبو	B-PER
+جعفر	I-PER
+الخازن	I-PER
+.	O
+
+تحويل	O
+دبليو	B-ORG
+دبليو	B-ORG
+إي	I-ORG
+راو	I-ORG
+
+تحويل	O
+بلدة	B-LOC
+أوفيد	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+برانش	I-LOC
+)	I-LOC
+
+تستخدم	O
+بشكل	O
+أساسي	O
+من	O
+قبل	O
+بحرية	B-ORG
+الولايات	I-ORG
+المتحدة	I-ORG
+.	O
+
+تحويل	O
+مجتبى	B-PER
+الحسيني	I-PER
+الشيرازي	I-PER
+
+تحويل	O
+بلدة	B-LOC
+مابل	I-LOC
+غروف	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+باري	I-LOC
+)	I-LOC

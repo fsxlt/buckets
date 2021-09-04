@@ -1,0 +1,31 @@
+심슨	B-ORG
+가족	I-ORG
+(	O
+The	O
+Simpsons	O
+)	O
+
+달루	B-LOC
+환초	I-LOC
+(	O
+Dhaalu	O
+)	O
+
+다음	O
+싱글인	O
+제이지가	B-PER
+참여한	O
+'Diamonds	O
+From	O
+Sierra	O
+Leone'과	O
+루페	B-PER
+피에스코가	I-PER
+참여한	O
+'Touch	O
+The	O
+Sky'로	O
+빌보드차트	B-ORG
+1위를	O
+석권했다	O
+.	O

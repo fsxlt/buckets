@@ -1,0 +1,32 @@
+খান	B-ORG
+মোহাম্মদ	I-ORG
+মৃধা	I-ORG
+মসজিদ	I-ORG
+
+মনোহরদী	B-LOC
+উপজেলা	I-LOC
+এবং	O
+বেলাবো	B-LOC
+উপজেলা	I-LOC
+
+'	O
+''	O
+বিসাউ	B-LOC
+''	O
+'	O
+
+জেরোম	B-PER
+আইজ্যাক	I-PER
+ফ্রিডম্যান	I-PER
+
+অস্ট্রিয়ার	B-ORG
+ফ্রীডম	I-ORG
+পার্টি	I-ORG
+
+হো	B-PER
+চি	I-PER
+মিন	I-PER
+
+সাঙ্গলি-মিরাজ	B-LOC
+বারো	I-LOC
+কুপওয়াদ	I-LOC

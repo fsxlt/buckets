@@ -1,0 +1,77 @@
+Tambol	B-ORG
+na	I-ORG
+snare	I-ORG
+
+*33	O
+anyos	O
+-	O
+Rosa	B-PER
+del	I-PER
+Rosario	I-PER
+
+Nat	B-PER
+King	I-PER
+Cole	I-PER
+
+Federico	B-PER
+I	I-PER
+,	I-PER
+Emperador	I-PER
+ng	I-PER
+Banal	I-PER
+na	I-PER
+Imperyong	I-PER
+Romano	I-PER
+
+Franklin	B-PER
+D.	I-PER
+Roosevelt	I-PER
+
+Pamantasan	B-ORG
+ng	I-ORG
+Baliuag	I-ORG
+
+2006	O
+-	O
+Majika	B-ORG
+''	O
+
+Kapuluan	B-LOC
+ng	I-LOC
+Galapagos	I-LOC
+
+Sierra	B-LOC
+Madre	I-LOC
+(	I-LOC
+Pilipinas	I-LOC
+)	I-LOC
+
+''	O
+Kape	B-ORG
+at	I-ORG
+Balita	I-ORG
+''	O
+(	O
+1991–1993	O
+)	O
+
+Hyderabad	B-LOC
+,	I-LOC
+Andhra	I-LOC
+Pradesh	I-LOC
+
+Kataas-taasang	B-ORG
+Hukuman	I-ORG
+ng	I-ORG
+Estados	I-ORG
+Unidos	I-ORG
+
+Lawa	B-LOC
+ng	I-LOC
+Tanganyika	I-LOC
+
+'	O
+''	O
+Armenia	B-LOC
+''	O
+'	O

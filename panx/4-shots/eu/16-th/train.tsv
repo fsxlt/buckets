@@ -1,0 +1,110 @@
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+EAJk	B-ORG
+eta	O
+PPk	B-ORG
+ez	O
+zuten	O
+onartzen	O
+.	O
+
+Actor´s	B-ORG
+Studio	I-ORG
+''	O
+eskolan	O
+ikasi	O
+zuen	O
+.	O
+
+'	O
+''	O
+BC	B-ORG
+Khimki	I-ORG
+''	O
+'	O
+
+Napoliko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+birzuzendu	O
+Tibalt	B-PER
+II.a	I-PER
+Nafarroakoa	I-PER
+
+'	O
+''	O
+Amona	O
+''	O
+'	O
+Katalina	B-PER
+Medici	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Loire-Atlantique	B-LOC
+departamenduan	O
+dago	O
+,	O
+Pays	B-LOC
+de	I-LOC
+la	I-LOC
+Loire	I-LOC
+eskualdean	O
+.	O
+
+Uwe	B-PER
+Seeler	I-PER
+(	O
+Hamburger	B-ORG
+SV	I-ORG
+)	O
+'	O
+''	O
+33	O
+''	O
+'	O
+
+'	O
+''	O
+Isidro	B-PER
+Langara	I-PER
+''	O
+'	O
+
+Australian	B-LOC
+eta	O
+Ginea	B-LOC
+Berrian	I-LOC
+bizi	O
+dira	O
+.	O
+
+Udaleko	O
+hamaika	O
+zinegotzietatik	O
+hamar	O
+lortu	O
+zituen	O
+,	O
+gehiengo	O
+osoa	O
+;	O
+oposizio	O
+bakarra	O
+Eusko	B-ORG
+Abertzale	I-ORG
+Ekintzako	I-ORG
+zinegotzia	O
+izan	O
+zen	O
+.	O

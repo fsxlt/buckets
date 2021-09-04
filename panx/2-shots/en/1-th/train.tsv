@@ -1,0 +1,39 @@
+Entered	O
+into	O
+the	O
+39th	B-ORG
+Berlin	I-ORG
+International	I-ORG
+Film	I-ORG
+Festival	I-ORG
+
+It	O
+is	O
+also	O
+found	O
+in	O
+the	O
+Juan	B-LOC
+Fernández	I-LOC
+Islands	I-LOC
+.	O
+
+Robert	B-PER
+T.	I-PER
+A.	I-PER
+Innes	I-PER
+
+William	B-PER
+C.	I-PER
+Gorgas	I-PER
+
+List	B-ORG
+of	I-ORG
+Zeppelins	I-ORG
+
+Parañaque	B-LOC
+,	O
+Metro	B-LOC
+Manila	I-LOC
+,	O
+Philippines	B-LOC

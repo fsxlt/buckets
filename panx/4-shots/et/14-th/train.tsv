@@ -1,0 +1,117 @@
+Hennepini	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O
+
+aastast	O
+tööl	O
+ajalehes	O
+Noorte	B-ORG
+Hääl	I-ORG
+,	O
+algul	O
+korrespondendina	O
+,	O
+hiljem	O
+toimetaja	O
+asetäitjana	O
+.	O
+
+Rapla	B-LOC
+vald	I-LOC
+,	O
+Rapla	B-LOC
+maakond	I-LOC
+
+Pobeda	B-LOC
+mägi	I-LOC
+(	O
+3003	O
+m	O
+)	O
+
+Gruusia	B-LOC
+uueks	O
+välisministriks	O
+nimetati	O
+Giorgi	B-PER
+Kvirikašvili	I-PER
+.	O
+
+Naabervallad	O
+olid	O
+Jyväskylä	B-LOC
+linn	I-LOC
+,	O
+Korpalahti	B-LOC
+,	O
+Laukaa	B-LOC
+,	O
+Muurame	B-LOC
+,	O
+Petäjävesi	B-LOC
+,	O
+Toivakka	B-LOC
+ja	O
+Uurainen	B-LOC
+.	O
+
+Giotto	B-PER
+di	I-PER
+Bondone	I-PER
+(	O
+1276–1337	O
+)	O
+
+suuna	O
+Vasakpartei	B-ORG
+(	I-ORG
+Saksamaa	I-ORG
+)	I-ORG
+
+Johan	B-PER
+Laidoner	I-PER
+,	O
+KCMG	O
+–	O
+Eesti	B-LOC
+
+Iga	O
+päev	O
+kell	O
+12	O
+andis	O
+ta	O
+mõnest	O
+Richard	B-PER
+Wagneri	I-PER
+ooperist	O
+pärineva	O
+pasunasignaaliga	O
+märku	O
+lõuna	O
+algusest	O
+.	O
+
+1932.	O
+aastal	O
+sai	O
+Vollratist	O
+Eesti	B-ORG
+jalgpallikoondise	I-ORG
+esimene	O
+eestlasest	O
+peatreener	O
+.	O
+
+Ta	O
+sündis	O
+Antslas	B-LOC
+käsitöölise	O
+tütrena	O
+.	O
+
+Santiago	B-ORG
+Bernabéu	I-ORG
+staadion	I-ORG

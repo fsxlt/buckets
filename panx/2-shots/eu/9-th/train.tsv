@@ -1,0 +1,36 @@
+birzuzendu	O
+Real	B-ORG
+Betis	I-ORG
+Balompié	I-ORG
+
+Villanueva	B-LOC
+de	I-LOC
+la	I-LOC
+Condesa	I-LOC
+
+===	O
+Europako	B-LOC
+Futbol	I-LOC
+Txapelketa	I-LOC
+===	O
+
+'	O
+''	O
+Bilbao	B-ORG
+Athletic	I-ORG
+''	O
+'	O
+
+Heinz	B-PER
+von	I-PER
+Foerster	I-PER
+(	O
+1911–2002	O
+)	O
+
+'	O
+''	O
+Mikel	B-PER
+Zarrabeitia	I-PER
+''	O
+'	O

@@ -1,0 +1,105 @@
+Alan	B-PER
+Paton	I-PER
+,	I-PER
+''Cry	I-PER
+,	I-PER
+The	I-PER
+Beloved	I-PER
+Country	I-PER
+''	I-PER
+(	I-PER
+Afrika	I-PER
+ya	I-PER
+Kusini	I-PER
+)	I-PER
+
+Mark	B-LOC
+(	I-LOC
+manispaa	I-LOC
+)	I-LOC
+
+Timu	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kandanda	I-ORG
+ya	I-ORG
+Afrika	I-ORG
+Kusini	I-ORG
+
+Makao	O
+makuu	O
+yako	O
+Den	B-LOC
+Haag	I-LOC
+(	O
+Uholanzi	B-LOC
+)	O
+.	O
+
+''	O
+Urusi	B-LOC
+''	O
+'	O
+
+Shirika	B-ORG
+za	I-ORG
+msalaba	I-ORG
+mwekundu	I-ORG
+na	I-ORG
+hilali	I-ORG
+nyekundu	I-ORG
+
+Hawa	B-PER
+Abdulrahman	I-PER
+Ghasia	I-PER
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Rachuonyo	I-LOC
+''	O
+'	O
+
+James	B-PER
+A.	I-PER
+Garfield	I-PER
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Mwingi	I-LOC
+''	O
+'	O
+
+**	O
+Kwame	B-PER
+Nkrumah	I-PER
+,	O
+Ghana	B-LOC
+
+The	B-ORG
+Don	I-ORG
+Killuminati	I-ORG
+:	I-ORG
+The	B-ORG
+7	I-ORG
+Day	I-ORG
+Theory	I-ORG
+''	O
+
+Eneo	O
+lake	O
+ni	O
+8.2	O
+km²	B-ORG
+.	O
+
+One	B-ORG
+Day	I-ORG
+in	I-ORG
+Your	I-ORG
+Life	I-ORG
+''	O

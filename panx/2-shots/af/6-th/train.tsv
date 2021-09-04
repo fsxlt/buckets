@@ -1,0 +1,64 @@
+Ngaka	B-LOC
+Modiri	I-LOC
+Molema	I-LOC
+(	O
+DC38	O
+)	O
+in	O
+die	O
+noordooste	O
+
+Pous	B-PER
+Clemens	I-PER
+III	I-PER
+
+Georgiese	B-LOC
+Sosialistiese	I-LOC
+Sowjetrepubliek	I-LOC
+
+Hy	O
+is	O
+opgevolg	O
+deur	O
+sy	O
+seun	O
+Edmund	B-PER
+Ironside	I-PER
+.	O
+
+AANSTUUR	O
+Sanlamsentrum	B-ORG
+,	I-ORG
+Windhoek	I-ORG
+
+'n	O
+Tradisionele	O
+volksverhaal	O
+vertel	O
+van	O
+'n	O
+Skotse	B-LOC
+koning	O
+wat	O
+van	O
+'n	O
+siekte	O
+genees	O
+het	O
+nadat	O
+hy	O
+die	O
+water	O
+gedrink	O
+het	O
+.	O
+
+Hy	O
+speel	O
+ook	O
+as	O
+vleuel	O
+vir	O
+Kaizer	B-ORG
+Chiefs	I-ORG
+.	O

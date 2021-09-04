@@ -1,0 +1,34 @@
+REDIRECTION	O
+Le	B-ORG
+Lynx	I-ORG
+(	I-ORG
+journal	I-ORG
+)	I-ORG
+
+Denys	B-PER
+l'Aréopagite	I-PER
+(	O
+ou	O
+)	O
+.	O
+
+REDIRECTION	O
+Kolding	B-LOC
+(	I-LOC
+commune	I-LOC
+)	I-LOC
+
+Everett	B-LOC
+(	I-LOC
+Washington	I-LOC
+)	I-LOC
+,	O
+États-Unis	B-LOC
+
+Con	B-ORG
+te	I-ORG
+partirò	I-ORG
+''	O
+–	O
+Andrea	B-PER
+Bocelli	I-PER

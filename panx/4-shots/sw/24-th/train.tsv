@@ -1,0 +1,95 @@
+Uhusika	O
+umechezwa	O
+na	O
+Jennifer	B-PER
+Garner	I-PER
+.	O
+
+The	B-ORG
+Jackson	I-ORG
+5	I-ORG
+
+Wizara	B-ORG
+ya	I-ORG
+Habari	I-ORG
+,	I-ORG
+Vijana	I-ORG
+,	I-ORG
+Utamaduni	I-ORG
+na	I-ORG
+Michezo	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+47	O
+km²	B-ORG
+.	O
+
+Brazzaville	B-LOC
+-	O
+''Maya-Maya	O
+Airport	O
+''	O
+
+Thr33	B-ORG
+Ringz	I-ORG
+''	O
+(	O
+2008	O
+)	O
+
+Thoma	B-PER
+wa	I-PER
+Cori	I-PER
+
+Alimfuata	O
+Papa	B-PER
+Soter	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Viktor	I-PER
+I	I-PER
+.	O
+
+``	O
+I	B-ORG
+Got	I-ORG
+a	I-ORG
+Girl	I-ORG
+''	O
+-	O
+3:13	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Lome	B-LOC
+.	O
+
+Hendrick	B-PER
+Witbooi	I-PER
+(	O
+1840-1905	O
+)	O
+
+Jamhuri	B-LOC
+ya	I-LOC
+Kidemokrasia	I-LOC
+ya	I-LOC
+Kongo	I-LOC
+
+Mkoa	B-LOC
+wa	I-LOC
+Mashariki	I-LOC
+(	I-LOC
+Zambia	I-LOC
+)	I-LOC
+.	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Sligo	B-LOC
+.	O

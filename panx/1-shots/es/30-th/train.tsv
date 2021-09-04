@@ -1,0 +1,21 @@
+Pedro	B-PER
+Mesía	I-PER
+de	I-PER
+la	I-PER
+Cerda	I-PER
+
+'	O
+''	O
+Pieve	B-LOC
+Emanuele	I-LOC
+''	O
+'	O
+,	O
+Italia	B-LOC
+
+'	O
+''	O
+Athletic	B-ORG
+Club	I-ORG
+''	O
+'	O

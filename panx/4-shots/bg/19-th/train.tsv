@@ -1,0 +1,123 @@
+Велико	B-LOC
+Търново	I-LOC
+,	O
+България	B-LOC
+
+пренасочване	O
+Кремен	B-LOC
+(	I-LOC
+област	I-LOC
+Кърджали	I-LOC
+)	I-LOC
+
+пренасочване	O
+Пиратска	B-ORG
+партия	I-ORG
+(	I-ORG
+Швеция	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Лайош	B-PER
+Тихи	I-PER
+''	O
+'	O
+
+``	O
+Soul	B-ORG
+to	I-ORG
+Squeeze	I-ORG
+''	O
+–	O
+4:50	O
+
+Той	O
+е	O
+вицепрезидент	O
+на	O
+борда	O
+на	O
+сръбския	O
+ПЕН-център	B-ORG
+.	O
+
+Музиката	O
+във	O
+филма	O
+е	O
+композирана	O
+от	O
+Георги	B-PER
+Атанасов	I-PER
+.	O
+
+``	O
+Taste	B-ORG
+the	I-ORG
+Pain	I-ORG
+''	O
+–	O
+4:32	O
+
+Марк	B-PER
+Антоний	I-PER
+го	O
+погребва	O
+с	O
+почести	O
+.	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Ангола	B-LOC
+и	O
+Демократична	B-LOC
+република	I-LOC
+Конго	I-LOC
+.	O
+
+Хенри	B-PER
+Бейкър	I-PER
+(	O
+1698-1774	O
+)	O
+,	O
+естественик	O
+
+виж	O
+Армия	B-ORG
+на	I-ORG
+Република	I-ORG
+Македония	I-ORG
+
+Разпространен	O
+е	O
+в	O
+Буркина	B-LOC
+Фасо	I-LOC
+,	O
+Гана	B-LOC
+,	O
+Етиопия	B-LOC
+,	O
+Камерун	B-LOC
+,	O
+Мали	B-LOC
+,	O
+Нигер	B-LOC
+,	O
+Нигерия	B-LOC
+,	O
+Сенегал	B-LOC
+,	O
+Централноафриканска	B-LOC
+република	I-LOC
+,	O
+Чад	B-LOC
+и	O
+Южен	B-LOC
+Судан	I-LOC
+.	O

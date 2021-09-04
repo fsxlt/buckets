@@ -1,0 +1,37 @@
+''	O
+Iomys	B-LOC
+sipora	I-LOC
+''	O
+
+Puiești	B-LOC
+(	I-LOC
+Buzău	I-LOC
+)	I-LOC
+
+FSV	B-ORG
+Frankfurt	I-ORG
+(	O
+N	O
+)	O
+
+Romanos	B-PER
+IV	I-PER
+Diogenes	I-PER
+
+Aljaksandr	B-ORG
+Kazoelin	I-ORG
+(	O
+Wit-Russische	B-ORG
+Sociaaldemocratische	I-ORG
+Partij	I-ORG
+)	O
+
+De	O
+regie	O
+is	O
+in	O
+handen	O
+van	O
+Rob	B-PER
+Cohen	I-PER
+.	O

@@ -1,0 +1,38 @@
+تغییرمسیر	O
+محمدآباد	B-LOC
+(	I-LOC
+الیگودرز	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آزادراه	B-ORG
+۵	I-ORG
+(	I-ORG
+ایران	I-ORG
+)	I-ORG
+
+تغییر_مسیر	O
+شواینفورت	B-LOC
+(	I-LOC
+شهرستان	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+آندره	B-PER
+د	I-PER
+جاینت	I-PER
+
+تغییر_مسیر	O
+هنری	B-PER
+پنجم	I-PER
+(	I-PER
+انگلستان	I-PER
+)	I-PER

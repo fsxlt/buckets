@@ -1,0 +1,15 @@
+Lucius	B-PER
+Cornelius	I-PER
+Sulla	I-PER
+
+3.	B-ORG
+tankiarmee	I-ORG
+(	I-ORG
+Saksamaa	I-ORG
+)	I-ORG
+
+Krostitzi	B-LOC
+vald	I-LOC
+(	O
+3991	O
+)	O

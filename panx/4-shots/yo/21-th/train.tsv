@@ -1,0 +1,83 @@
+Ìwo	B-LOC
+Orí	I-LOC
+ilẹ̀	I-LOC
+Áfríkà	I-LOC
+
+Àmì	B-ORG
+ọ̀pá	I-ORG
+àṣẹ	I-ORG
+ilẹ̀	I-ORG
+Udmurtia	I-ORG
+
+Pópù	B-PER
+Alexander	I-PER
+4k	I-PER
+
+Carla	B-PER
+Suárez	I-PER
+Navarro	I-PER
+''	O
+(	O
+Fourth	O
+round	O
+)	O
+
+Gbọ̀ngàn	B-ORG
+Òfurufú	I-ORG
+Kennedy	I-ORG
+
+Oladipo	B-PER
+Diya	I-PER
+(	O
+Sani	B-PER
+Abacha	I-PER
+Military	O
+regime	O
+)	O
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Onna	I-LOC
+
+Àwọn	B-ORG
+ọmọ	I-ORG
+Áfríkà	I-ORG
+Amẹ́ríkà	I-ORG
+
+Orin-ìyìn	B-ORG
+Orílẹ̀-èdè	I-ORG
+Ìsọ̀kan	I-ORG
+Sófìẹ̀tì	I-ORG
+
+'	O
+''	O
+'	O
+''	O
+ni	O
+Kánsílọ̀	B-LOC
+orile-ede	O
+Jẹ́mánì	B-LOC
+tele	O
+.	O
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Girei	I-LOC
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Mobbar	I-LOC
+
+Pópù	B-PER
+Jòhánù	I-PER
+Páúlù	I-PER
+Èkínní	I-PER
+
+ZAR	O
+Zaire	B-ORG
+—	O
+From	O
+1997-07	O

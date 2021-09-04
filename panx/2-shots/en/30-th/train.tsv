@@ -1,0 +1,44 @@
+Spring	B-LOC
+(	I-LOC
+season	I-LOC
+)	I-LOC
+
+Premier	B-PER
+of	I-PER
+Ontario	I-PER
+-	O
+Bill	B-PER
+Davis	I-PER
+then	O
+Frank	B-ORG
+Miller	I-ORG
+then	O
+David	B-PER
+Peterson	I-PER
+
+``	O
+Here	B-ORG
+Is	I-ORG
+the	I-ORG
+News	I-ORG
+''	O
+(	O
+Electric	B-ORG
+Light	I-ORG
+Orchestra	I-ORG
+cover	O
+)	O
+–	O
+3:52	O
+
+'	O
+''	O
+Massimo	B-PER
+Luongo	I-PER
+''	O
+'	O
+
+Clonostachys	B-LOC
+rosea	I-LOC
+f.	I-LOC
+rosea	I-LOC

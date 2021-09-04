@@ -1,0 +1,124 @@
+Egun	O
+berean	O
+jakin	O
+zen	O
+Eusko	B-ORG
+Jaurlaritza	I-ORG
+ez	O
+zela	O
+joango	O
+mobilizaziora	O
+.	O
+
+'	O
+''	O
+Inozentzio	B-PER
+XI.a	I-PER
+''	O
+'Papa	O
+'	O
+''	O
+INNOCENTIUS	O
+''	O
+'	O
+Undecimus	O
+
+'	O
+''	O
+Giulietta	B-PER
+Masina	I-PER
+''	O
+'	O
+
+BIRZUZENDU	O
+Luzio	B-PER
+Emilio	I-PER
+Lepido	I-PER
+Paulo	I-PER
+
+Madrilgo	B-LOC
+2004ko	B-ORG
+martxoaren	I-ORG
+11ko	I-ORG
+atentatuak	I-ORG
+
+Gazterik	O
+ELAn	B-ORG
+eta	O
+EAJn	B-ORG
+eman	O
+zuen	O
+izena	O
+.	O
+
+Oxfordeko	B-ORG
+Unibertsitatean	I-ORG
+ere	O
+aritu	O
+zen	O
+lanean	O
+.	O
+
+'	O
+''	O
+Saint-André-Capcèze	O
+''	O
+'	O
+(	O
+)	O
+Okzitaniako	B-LOC
+udalerri	O
+bat	O
+da	O
+.	O
+
+BIRZUZENDU	O
+Zubillaga	B-LOC
+(	I-LOC
+Lantaron	I-LOC
+)	I-LOC
+
+BIRZUZENDU	O
+Petri	B-PER
+II.a	I-PER
+(	I-PER
+Nafarroako	I-PER
+mariskala	I-PER
+)	I-PER
+
+Donibane	B-LOC
+Garazi	I-LOC
+herrialdeburura	O
+47	O
+km	O
+daude	O
+.	O
+
+Mariaren	B-PER
+inguruko	O
+ikuspegia	O
+adibidez	O
+.	O
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Ondoren	O
+Japoniako	B-LOC
+itsasoan	I-LOC
+egindako	O
+ikerketek	O
+ere	O
+antzerako	O
+emaitzak	O
+eman	O
+zituzten	O
+.	O
+
+Artzain	B-ORG
+Onaren	I-ORG
+katedrala	I-ORG
+.	O

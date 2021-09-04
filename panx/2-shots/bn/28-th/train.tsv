@@ -1,0 +1,34 @@
+অটল	B-PER
+বিহারী	I-PER
+বাজপেয়ী	I-PER
+
+আব্রাহাম	B-ORG
+লিঙ্কনের	I-ORG
+বাসস্থান	I-ORG
+
+দেবীগঞ্জের	O
+কাছে	O
+তোলা	O
+করতোয়া	B-LOC
+নদীর	I-LOC
+দৃশ্য।]]	O
+
+জর্জ-লুই	B-PER
+ল্যক্লের	I-PER
+,	I-PER
+কোঁত	I-PER
+দ্য	I-PER
+বুফোঁ	I-PER
+
+বাংলাদেশ	B-ORG
+বিমান	I-ORG
+বাহিনী	I-ORG
+একাডেমী	I-ORG
+
+**	O
+ভুবন	B-LOC
+চিল	I-LOC
+,	O
+''Milvus	O
+migrans	O
+''	O

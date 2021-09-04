@@ -1,0 +1,31 @@
+Alan	B-PER
+Paton	I-PER
+,	I-PER
+''Cry	I-PER
+,	I-PER
+The	I-PER
+Beloved	I-PER
+Country	I-PER
+''	I-PER
+(	I-PER
+Afrika	I-PER
+ya	I-PER
+Kusini	I-PER
+)	I-PER
+
+Bangkok	B-LOC
+-	O
+''Suvarnabhumi	O
+Airport	O
+''	O
+
+Loyal	B-ORG
+to	I-ORG
+the	I-ORG
+Game	I-ORG
+''	O
+
+Johns	B-LOC
+Creek	I-LOC
+,	I-LOC
+Georgia	I-LOC

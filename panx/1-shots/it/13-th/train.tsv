@@ -1,0 +1,15 @@
+Partito	B-ORG
+Repubblicano	I-ORG
+Italiano	I-ORG
+(	O
+PRI	O
+)	O
+
+San	B-LOC
+Martino	I-LOC
+Valle	I-LOC
+Caudina	I-LOC
+
+Arcadio	B-PER
+di	I-PER
+Mauritania	I-PER

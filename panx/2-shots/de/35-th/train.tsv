@@ -1,0 +1,44 @@
+'	O
+''	O
+Taylor	B-PER
+Swift	I-PER
+—	O
+Blank	B-ORG
+Space	I-ORG
+''	O
+'	O
+''	O
+
+2014	O
+gibt	O
+er	O
+sein	O
+Debüt	O
+bei	O
+den	O
+Münchner	B-ORG
+Philharmonikern	I-ORG
+unter	O
+Christoph	B-PER
+Eschenbach	I-PER
+.	O
+
+Die	O
+Ortschaft	O
+wurde	O
+anschließend	O
+der	O
+Verwaltung	O
+der	O
+Volksrepublik	B-LOC
+Polen	I-LOC
+übergeben	O
+.	O
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Augsburg	I-LOC
+''	O
+'	O

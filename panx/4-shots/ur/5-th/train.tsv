@@ -1,0 +1,67 @@
+جمہوریہ	B-LOC
+گنی	I-LOC
+5	O
+اگست	O
+1849	O
+
+رجوع_مکرر	O
+ایئر	B-ORG
+نیو	I-ORG
+زی	I-ORG
+لینڈ	I-ORG
+
+رجوع_مکرر	O
+2014	B-ORG
+فیفا	I-ORG
+عالمی	I-ORG
+کپ	I-ORG
+گروپ	I-ORG
+اے	I-ORG
+
+رجوع_مکرر	O
+ایڈسن	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+پنسلوانیا	I-LOC
+
+آدم	B-PER
+علیہ	I-PER
+السلام	I-PER
+
+جام	B-ORG
+صاحب	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+محمد	B-PER
+علی	I-PER
+جناح	I-PER
+
+رجوع_مکرر	O
+ابراہام	B-PER
+بنجامن	I-PER
+ڈیویلیئرز	I-PER
+
+راحت	B-PER
+نصرت	I-PER
+فتح	I-PER
+علی	I-PER
+خان	I-PER
+
+رجوع_مکرر	O
+بٹلر	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+سکاٹ	I-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+رجوع_مکرر	O
+بکرالا	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+شہرستان	B-LOC
+مسجد	I-LOC
+سلیمان	I-LOC

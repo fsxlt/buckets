@@ -1,0 +1,35 @@
+رجوع_مکرر	O
+عروہ	B-PER
+بن	I-PER
+زبیر	I-PER
+
+رجوع_مکرر	O
+ضلع	B-LOC
+(	I-LOC
+چین	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+ٹرائے	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+کرافورڈ	I-LOC
+کاؤنٹی،	I-LOC
+پنسلوانیا	I-LOC
+
+رجوع_مکرر	O
+کوٹ	B-ORG
+سلطان	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+فہرست	B-PER
+حکمران	I-PER
+مغلیہ	I-PER
+سلطنت	I-PER
+
+رجوع_مکرر	O
+پیر	B-ORG
+غائب	I-ORG
+آبشار	I-ORG

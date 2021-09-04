@@ -1,0 +1,97 @@
+'	O
+''	O
+New	B-ORG
+Zealand	I-ORG
+''	O
+'	O
+–	O
+Martin	B-PER
+Guptill	I-PER
+,	O
+Roneel	B-PER
+Hira	I-PER
+,	O
+Tim	B-PER
+Southee	I-PER
+,	O
+Todd	B-PER
+Astle	I-PER
+,	O
+Colin	B-PER
+Munro	I-PER
+and	O
+Hamish	B-PER
+Bennett	I-PER
+
+:	O
+:	O
+:	O
+SE331	O
+Västerbotten	B-LOC
+County	I-LOC
+
+John	B-PER
+Torchetti	I-PER
+(	O
+interim	O
+)	O
+:	O
+2006	O
+
+South	B-ORG
+Health	I-ORG
+Campus	I-ORG
+
+``	O
+Crazy	B-ORG
+''	O
+by	O
+Gnarls	B-ORG
+Barkley	I-ORG
+
+In	O
+2005	O
+,	O
+he	O
+was	O
+signed	O
+by	O
+San	B-ORG
+Marino	I-ORG
+Calcio	I-ORG
+.	O
+
+Empress	B-PER
+Dowager	I-PER
+Ma	I-PER
+(	I-PER
+Southern	I-PER
+Ming	I-PER
+)	I-PER
+
+'	O
+''	O
+Banganapalle	B-LOC
+State	I-LOC
+''	O
+'	O
+–	O
+Faiz	B-PER
+Ali	I-PER
+Khan	I-PER
+,	O
+Nawab	B-PER
+of	I-PER
+Banganapalle	I-PER
+(	O
+1689–1759	O
+)	O
+
+Jia	B-LOC
+,	I-LOC
+Iran	I-LOC
+
+''	O
+Syncopacma	B-LOC
+polychromella	I-LOC
+''	O

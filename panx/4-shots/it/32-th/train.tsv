@@ -1,0 +1,132 @@
+'	O
+''	O
+Isola	B-LOC
+di	I-LOC
+Man	I-LOC
+
+Renneville	B-LOC
+(	I-LOC
+Alta	I-LOC
+Garonna	I-LOC
+)	I-LOC
+
+Tathiana	B-PER
+Garbin	I-PER
+''	O
+(	O
+Primo	O
+turno	O
+)	O
+
+Contea	B-LOC
+di	I-LOC
+Deaf	I-LOC
+Smith	I-LOC
+
+Fece	O
+parte	O
+del	O
+gruppo	O
+di	O
+artisti	O
+di	O
+Ca	B-ORG
+'	I-ORG
+Pesaro	I-ORG
+.	O
+
+Ha	O
+raggiunto	O
+la	O
+posizione	O
+36	O
+nella	O
+classifica	O
+Billboard	B-LOC
+200	I-LOC
+.	O
+
+*2011	O
+Lady	B-PER
+Gaga	I-PER
+–	O
+``	O
+Judas	B-ORG
+''	O
+
+'	O
+''	O
+Lagonegro	B-LOC
+''	O
+'	O
+
+BCR	B-ORG
+Open	I-ORG
+Romania	I-ORG
+,	O
+Bucarest	B-LOC
+(	O
+1	O
+)	O
+
+S'ispira	O
+a	O
+Ronaldo	B-PER
+e	O
+il	O
+suo	O
+idolo	O
+è	O
+Zlatan	B-PER
+Ibrahimović	I-PER
+.	O
+
+È	O
+attraversata	O
+dal	O
+Danubio	B-LOC
+che	O
+divide	O
+le	O
+due	O
+parti	O
+.	O
+
+'	O
+''	O
+Perho	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Pietro	B-PER
+del	I-PER
+Monte	I-PER
+''	O
+'	O
+,	O
+condottiero	O
+.	O
+
+Nella	O
+stagione	O
+2012-13	B-LOC
+milita	O
+nella	O
+Divizia	B-ORG
+Națională	I-ORG
+.	O
+
+Sekirei	B-ORG
+～Pure	I-ORG
+Engagement～	I-ORG
+''	O
+-	O
+'	O
+''	O
+Homura	O
+/	O
+Kagari	O
+''	O
+'	O

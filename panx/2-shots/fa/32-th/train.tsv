@@ -1,0 +1,30 @@
+تغییرمسیر	O
+آبشار	B-LOC
+کاسکاتا	I-LOC
+دل	I-LOC
+توسه	I-LOC
+
+تغییرمسیر	O
+یواس‌اس	B-ORG
+گاوینا	I-ORG
+(	I-ORG
+اس‌اس-۳۶۲	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+سنجاب	B-LOC
+زمینی	I-LOC
+دم‌گرد	I-LOC
+
+تغییرمسیر	O
+نوح	B-PER
+دوم	I-PER
+سامانی	I-PER
+
+جک	B-PER
+بلک	I-PER
+—	O
+فو	B-ORG
+فایترز	I-ORG
+معرفی	O
+کرد	O

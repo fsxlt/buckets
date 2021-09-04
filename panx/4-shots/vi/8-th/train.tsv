@@ -1,0 +1,86 @@
+''	O
+'	O
+''	O
+'	O
+-	O
+Rosanna	B-PER
+Davison	I-PER
+
+''	O
+(	O
+cho	O
+mượn	O
+từ	O
+Manchester	B-ORG
+City	I-ORG
+)	O
+''	O
+
+August	B-PER
+Wilhelm	I-PER
+của	I-PER
+Phổ	I-PER
+(	I-PER
+1722-1758	I-PER
+)	I-PER
+
+đổi	O
+Xã	B-LOC
+Warwick	I-LOC
+,	I-LOC
+Quận	I-LOC
+Tuscarawas	I-LOC
+,	I-LOC
+Ohio	I-LOC
+
+''Xem	O
+thêm	O
+Người	B-ORG
+Mỹ	I-ORG
+gốc	I-ORG
+Phi	I-ORG
+''	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Aveyron	I-LOC
+
+Đại	B-LOC
+Vũ	I-LOC
+(	O
+大武鄉	O
+)	O
+
+Vườn	B-ORG
+thú	I-ORG
+và	I-ORG
+bách	I-ORG
+thảo	I-ORG
+Cincinnati	I-ORG
+
+''	O
+Manduca	B-LOC
+lefeburii	I-LOC
+''	O
+
+Thác	B-PER
+Bạt	I-PER
+Tất	I-PER
+Lộc	I-PER
+
+ĐỔI	O
+Đội	B-ORG
+tuyển	I-ORG
+bóng	I-ORG
+đá	I-ORG
+quốc	I-ORG
+gia	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+Cộng	I-ORG
+hòa	I-ORG
+
+Saparmurat	B-PER
+Atayevich	I-PER
+Niyazov	I-PER

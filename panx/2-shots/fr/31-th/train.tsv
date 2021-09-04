@@ -1,0 +1,34 @@
+'	O
+''	O
+Carsten	B-PER
+Ball	I-PER
+''	O
+'	O
+
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+(	O
+Brésil	B-LOC
+)	O
+
+Richard	B-ORG
+Franklin	I-ORG
+—	O
+Le	B-PER
+Capitaine	I-PER
+Mike	I-PER
+Yates	I-PER
+''	O
+
+Pierre	B-PER
+Braine	I-PER
+(	O
+K	B-ORG
+Beerschot	I-ORG
+VAC	I-ORG
+)	O
+
+Lac	B-LOC
+Bleu	I-LOC
+d'Ilhéou	I-LOC

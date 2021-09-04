@@ -1,0 +1,60 @@
+Tänapäeval	O
+on	O
+jääkeegliklubisid	O
+paljudes	O
+Euroopa	B-LOC
+riikides	O
+.	O
+
+Kaitsealal	O
+asub	O
+maailma	O
+mandriala	O
+kõige	O
+põhjapoolsem	O
+,	O
+Slettnesi	B-ORG
+tuletorn	I-ORG
+.	O
+
+Frode	B-PER
+Estil	I-PER
+Odd-Bjørn	B-PER
+Hjelmeset	I-PER
+Thomas	B-PER
+Alsgaard	I-PER
+Tor	B-PER
+Arne	I-PER
+Hetland	I-PER
+
+Tema	O
+õpilased	O
+olid	O
+teiste	O
+seas	O
+Ascanio	B-PER
+Sobrero	I-PER
+ja	O
+Alfred	B-PER
+Nobel	I-PER
+.	O
+
+suuna	O
+Viljandi	B-ORG
+JK	I-ORG
+Tulevik	I-ORG
+
+Asub	O
+La	B-LOC
+Manche'i	I-LOC
+ääres	O
+.	O
+
+Grandi	B-LOC
+maakond	I-LOC
+(	I-LOC
+Utah	I-LOC
+)	I-LOC
+(	O
+läänes	O
+)	O

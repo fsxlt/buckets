@@ -1,0 +1,30 @@
+Peaministri	O
+kohusetäitjaks	O
+sai	O
+senine	O
+asepeaminister	O
+Ömürbek	B-PER
+Babanov	I-PER
+.	O
+
+Juabi	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+)	O
+
+Gim	B-ORG
+me	I-ORG
+!	I-ORG
+Gim	B-ORG
+me	I-ORG
+!	I-ORG
+Gim	B-ORG
+me	I-ORG
+!	I-ORG
+(	I-ORG
+A	I-ORG
+Man	I-ORG
+After	I-ORG
+Midnight	I-ORG
+)	I-ORG

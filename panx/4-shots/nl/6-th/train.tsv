@@ -1,0 +1,107 @@
+Jeßnitz	B-LOC
+(	I-LOC
+Anhalt	I-LOC
+)	I-LOC
+
+Als	O
+speler	O
+van	O
+Sparta	B-ORG
+Praag	I-ORG
+
+Autonome	B-LOC
+regio	I-LOC
+'s	I-LOC
+van	I-LOC
+Spanje	I-LOC
+
+'	O
+''	O
+Marc	B-PER
+Márquez	I-PER
+''	O
+'	O
+
+In	O
+het	O
+seizoen	O
+2007-2008	O
+onder	O
+de	O
+nieuwe	O
+coach	O
+Laurent	B-PER
+Blanc	I-PER
+wist	O
+hij	O
+zijn	O
+goede	O
+vorm	O
+te	O
+hervinden	O
+.	O
+
+Willem	B-PER
+Abraham	I-PER
+Wythoff	I-PER
+
+Heracles	B-ORG
+Almelo	I-ORG
+-	O
+FC	B-ORG
+Utrecht	I-ORG
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+Poljanice	B-LOC
+(	I-LOC
+Ljig	I-LOC
+)	I-LOC
+
+In	O
+Nederland	B-LOC
+wordt	O
+dit	O
+seizoen	O
+van	O
+de	O
+serie	O
+door	O
+RTL	B-PER
+5	I-PER
+uitgezonden	O
+en	O
+dit	O
+zal	O
+ongeveer	O
+een	O
+half	O
+jaar	O
+later	O
+gebeuren	O
+.	O
+
+Stockton	B-LOC
+(	I-LOC
+New	I-LOC
+Jersey	I-LOC
+)	I-LOC
+
+Hij	O
+werkte	O
+ook	O
+voor	O
+de	O
+United	B-ORG
+States	I-ORG
+Geological	I-ORG
+Survey	I-ORG
+.	O

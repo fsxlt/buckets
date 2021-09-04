@@ -1,0 +1,81 @@
+Musa	B-PER
+Haji	I-PER
+Ismail	I-PER
+Galal	I-PER
+
+Lower	B-LOC
+West	I-LOC
+Pubnico	I-LOC
+,	I-LOC
+Nova	I-LOC
+Scotia	I-LOC
+
+Whatcom	B-LOC
+County	I-LOC
+,	I-LOC
+Washington	I-LOC
+
+New	B-LOC
+Westminster	I-LOC
+,	O
+British	B-LOC
+Columbia	I-LOC
+
+Countdown	B-LOC
+:	I-LOC
+The	I-LOC
+Savoy	I-LOC
+Sessions	I-LOC
+''	O
+
+Friedrich	B-PER
+Heinrich	I-PER
+Vering	I-PER
+(	O
+1833–1896	O
+)	O
+
+Kootenay	B-ORG
+Ice	I-ORG
+''	O
+'x	O
+''	O
+'	O
+
+Before	O
+1945	O
+the	O
+area	O
+was	O
+part	O
+of	O
+Germany	B-LOC
+.	O
+
+'	O
+''	O
+Milton	B-ORG
+Keynes	I-ORG
+Lions	I-ORG
+''	O
+'	O
+
+R.J.	B-PER
+Rummel	I-PER
+(	O
+1990	O
+)	O
+.	O
+
+Wanya	B-PER
+Morris	I-PER
+of	O
+Boyz	B-ORG
+II	I-ORG
+Men	I-ORG
+
+Co-written	O
+with	O
+Adam	B-ORG
+E.	I-ORG
+Fierro	I-ORG

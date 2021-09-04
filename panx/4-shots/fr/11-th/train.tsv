@@ -1,0 +1,70 @@
+Lac-De	B-LOC
+La	I-LOC
+Bidière	I-LOC
+,	O
+un	O
+territoire	O
+non	O
+organisé	O
+
+'	O
+''	O
+Alex	B-PER
+Barros	I-PER
+''	O
+'	O
+
+Mattias	B-PER
+Weinhandl	I-PER
+(	O
+HK	B-ORG
+Dinamo	I-ORG
+Moscou	I-ORG
+)	O
+
+'	O
+''	O
+Nigel	B-PER
+Mansell	I-PER
+''	O
+'	O
+
+Radio	B-ORG
+Nacional	I-ORG
+de	I-ORG
+la	I-ORG
+Republica	I-ORG
+Árabe	I-ORG
+Saharaui	I-ORG
+Democrática	I-ORG
+
+Paon	B-LOC
+du	I-LOC
+Congo	I-LOC
+
+I	B-ORG
+Will	I-ORG
+Always	I-ORG
+Love	I-ORG
+You	I-ORG
+''	O
+-	O
+Whitney	B-PER
+Houston	I-PER
+
+Pic	B-LOC
+à	I-LOC
+dos	I-LOC
+noir	I-LOC
+
+'	O
+''	O
+Mitsubishi	B-ORG
+Corporation	I-ORG
+''	O
+'	O
+
+Afar	B-LOC
+(	I-LOC
+région	I-LOC
+)	I-LOC

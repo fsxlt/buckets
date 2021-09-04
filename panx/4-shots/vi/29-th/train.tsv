@@ -1,0 +1,75 @@
+Vùng	B-LOC
+đô	I-LOC
+thị	I-LOC
+phức	I-LOC
+hợp	I-LOC
+Dallas–Fort	I-LOC
+Worth	I-LOC
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Finistère	I-LOC
+
+Pyotr	B-PER
+I	I-PER
+của	I-PER
+Nga	I-PER
+
+*Huyện	O
+'	O
+''	O
+Long	B-LOC
+Thành	I-LOC
+''	O
+'	O
+
+Trận	B-ORG
+Orléans	I-ORG
+lần	I-ORG
+thứ	I-ORG
+hai	I-ORG
+
+Hiệp	B-LOC
+hội	I-LOC
+bóng	I-LOC
+đá	I-LOC
+Quần	I-LOC
+đảo	I-LOC
+Cook	I-LOC
+
+===	O
+''	O
+Genus	O
+Thamnoecha	B-LOC
+''	O
+===	O
+
+Ulysses	B-PER
+S.	I-PER
+Grant	I-PER
+,	O
+Tổng	B-ORG
+thống	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+thứ	O
+18	O
+
+Alicia	B-PER
+Keys	I-PER
+cho	O
+``	O
+Fallin	B-ORG
+'	I-ORG
+''	O
+
+đổi	O
+George	B-PER
+Andrew	I-PER
+Olah	I-PER
+
+đổi	O
+Ly	B-ORG
+giáo	I-ORG
+Đông–Tây	I-ORG

@@ -1,0 +1,19 @@
+Kejohanan	B-ORG
+Trofi	I-ORG
+Hassanal	I-ORG
+Bolkiah	I-ORG
+2012	I-ORG
+
+Jaktim	O
+,	O
+Jakarta	B-LOC
+Timur	I-LOC
+,	O
+Indonesia	B-LOC
+.	O
+
+Kumiko	B-PER
+Ogura	I-PER
+/	O
+Reiko	B-PER
+Shiota	I-PER

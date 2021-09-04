@@ -1,0 +1,76 @@
+تحويل	O
+ويتون	B-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+في	O
+الولايات	B-LOC
+المتحدة،	I-LOC
+يسمى	O
+ذلك	O
+خوض	O
+الانتخابات	O
+.	O
+
+تحويل	O
+بالدوين	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+منحنى	B-ORG
+عجلي	I-ORG
+فوقي	I-ORG
+
+تحويل	O
+کندل	B-LOC
+(	I-LOC
+کاني	I-LOC
+سور	I-LOC
+)	I-LOC
+
+تحويل	O
+الاتحاد	B-ORG
+الكويتي	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+قائمة	B-PER
+الصدر	I-PER
+الأعظم	I-PER
+للدولة	I-PER
+العثمانية	I-PER
+
+تحويل	O
+أبو	B-PER
+مصعب	I-PER
+السوري	I-PER
+
+كأس	B-ORG
+العالم	I-ORG
+2006	I-ORG
+ربع	O
+النهائي	O
+
+و	O
+قد	O
+لعب	O
+مع	O
+منتخب	B-ORG
+الكويت	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+شاكر	B-PER
+حسن	I-PER
+آل	I-PER
+سعيد	I-PER
+
+تحويل	O
+يحيى	B-PER
+بن	I-PER
+سرافيون	I-PER

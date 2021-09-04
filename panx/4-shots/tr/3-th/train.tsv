@@ -1,0 +1,77 @@
+''	O
+Greater	B-LOC
+Manchester	I-LOC
+''	O
+'	O
+
+YÖNLENDİRME	O
+Abdulhamid	B-PER
+Ebu	I-PER
+Habib	I-PER
+
+YÖNLENDİR	O
+Yakut-safir	B-LOC
+sinek	I-LOC
+kuşu	I-LOC
+
+Romanın	O
+,	O
+yazarın	O
+iyi	O
+bildiği	O
+Sahra	B-LOC
+Çölü'nde	I-LOC
+geçmesi	O
+de	O
+bu	O
+sorgulamayı	O
+simgeselleştirir	O
+.	O
+
+'	O
+''	O
+Celtic	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+Kantuzzili'nin	O
+oğlu	O
+I.	B-PER
+Tuthaliya	I-PER
+tahta	O
+çıkmıştır	O
+.	O
+
+Cavit	B-PER
+Çağlar	I-PER
+(	O
+1982-86	O
+)	O
+
+YÖNLENDİRME	O
+Arruda	B-LOC
+dos	I-LOC
+Vinhos	I-LOC
+
+YÖNLENDİRME	O
+Nikola	B-ORG
+Pašić	I-ORG
+Meydanı	I-ORG
+
+YÖNLENDİRME	O
+Ahmed	B-PER
+Cevad	I-PER
+Paşa	I-PER
+
+ABD	B-ORG
+Ulusal	I-ORG
+Bilimler	I-ORG
+Akademisi	I-ORG
+üyesidir	O
+.	O
+
+YÖNLENDİRME	O
+Aydınlık	B-ORG
+Türkiye	I-ORG
+Partisi	I-ORG

@@ -1,0 +1,77 @@
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Lalawigan	I-LOC
+ng	I-LOC
+Pavia	I-LOC
+
+Fernando	B-ORG
+Primo	I-ORG
+de	I-ORG
+Rivera	I-ORG
+''	O
+(	O
+panohon	O
+ika-1	O
+)	O
+''	O
+
+Teresa	B-PER
+ng	I-PER
+Lisieux	I-PER
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Franchesca	B-PER
+Salcedo	I-PER
+bilang	O
+batang	O
+Marga	O
+
+Lungsod	B-LOC
+ng	I-LOC
+Ho	I-LOC
+Chi	I-LOC
+Minh	I-LOC
+
+''	O
+Extra	B-ORG
+Income	I-ORG
+''	O
+(	O
+2002–2003	O
+)	O
+
+Ngayon	B-PER
+at	I-PER
+Kailanman	I-PER
+
+Federico	B-PER
+II	I-PER
+ng	I-PER
+Prusya	I-PER
+
+'	O
+''	O
+Riohacha	B-LOC
+''	O
+'	O
+
+Unibersidad	B-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+,	I-ORG
+Los	I-ORG
+Baños	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Miyazaki	I-LOC
+
+Pamantasan	B-ORG
+ng	I-ORG
+Santo	I-ORG
+Tomas	I-ORG

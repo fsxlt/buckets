@@ -1,0 +1,40 @@
+Mike	B-ORG
+,	I-ORG
+o	I-ORG
+Cavaleiro	I-ORG
+(	O
+também	O
+na	O
+RTP1	B-PER
+e	O
+RTP2	B-PER
+)	O
+
+Octavia	B-PER
+Spencer	I-PER
+como	O
+Dra	O
+.	O
+
+Corinne	B-LOC
+(	I-LOC
+Utah	I-LOC
+)	I-LOC
+
+I	B-ORG
+Governo	I-ORG
+Constitucional	I-ORG
+de	I-ORG
+Portugal	I-ORG
+
+São	B-LOC
+João	I-LOC
+del-Rei	I-LOC
+
+Perdeu	O
+na	O
+QF	O
+para	O
+Roger	B-PER
+Federer	I-PER
+[3]	O

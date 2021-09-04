@@ -1,0 +1,54 @@
+El	B-LOC
+Puerto	I-LOC
+de	I-LOC
+Santa	I-LOC
+María	I-LOC
+
+Samuel	B-PER
+Johann	I-PER
+Pauli	I-PER
+
+WEITERLEITUNG	O
+Sozialistische	B-ORG
+Sowjetrepublik	I-ORG
+Iran	I-ORG
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Utrecht	I-LOC
+''	O
+'	O
+
+Zu	O
+Ringworms	O
+Einflüssen	O
+sollen	O
+Motörhead	B-ORG
+,	O
+Celtic	B-ORG
+Frost	I-ORG
+,	O
+Discharge	B-ORG
+und	O
+Thin	B-ORG
+Lizzy	I-ORG
+gehören	O
+.	O
+
+James	B-PER
+Davison	I-PER
+und	O
+Buddy	B-PER
+Lazier	I-PER
+verzichteten	O
+weiterhin	O
+aus	O
+Budgetgründen	O
+auf	O
+die	O
+Aufnahme	O
+des	O
+Trainings	O
+.	O

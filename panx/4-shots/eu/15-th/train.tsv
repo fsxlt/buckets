@@ -1,0 +1,122 @@
+Bikotearen	O
+argazki	O
+bat	O
+izango	O
+zen	O
+aldizkari	O
+horren	O
+azala	O
+,	O
+baina	O
+John	B-PER
+Lennon	I-PER
+bakarrik	O
+agertzen	O
+zen	O
+argazkia	O
+ere	O
+atera	O
+nahi	O
+izan	O
+zuen	O
+,	O
+beharbada	O
+,	O
+artista	O
+bakarrik	O
+ateratzea	O
+erabaki	O
+zitekeelako	O
+.	O
+
+Estatu	B-LOC
+Batuetara	I-LOC
+bidaia	O
+bat	O
+egin	O
+ondoren	O
+,	O
+egonaldi	O
+haren	O
+inguruan	O
+''Bidaia-Gutunak	O
+''	O
+(	O
+1876-1878	O
+)	O
+idatzi	O
+zituen	O
+.	O
+
+BIRZUZENDU	O
+Bilboko	B-ORG
+Done	I-ORG
+Jakue	I-ORG
+katedrala	I-ORG
+
+'	O
+''	O
+Marino	B-PER
+Lejarreta	I-PER
+''	O
+'	O
+
+Baita	O
+New	B-LOC
+Yorkeko	I-LOC
+Broadwayn	B-ORG
+ere	O
+.	O
+
+Graham	B-PER
+Greenek	I-PER
+gidoia	O
+idatzi	O
+zuen	O
+.	O
+
+Francisco	B-PER
+Javier	I-PER
+Saenz	I-PER
+de	I-PER
+Oiza	I-PER
+
+Norwich	B-ORG
+City	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+Bilbao	B-ORG
+Basket	I-ORG
+(	O
+2015-	O
+)	O
+
+Udineko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Friuli-Venezia-Julia	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Park	B-ORG
+Inn	I-ORG
+by	I-ORG
+Radisson	I-ORG
+Berlin	I-ORG
+Alexanderplatz	I-ORG
+
+Erakunde	O
+honen	O
+egoitza	O
+San	B-LOC
+Salvadorren	I-LOC
+(	O
+El	B-LOC
+Salvador	I-LOC
+)	O
+dago	O
+.	O

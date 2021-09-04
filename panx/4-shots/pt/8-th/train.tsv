@@ -1,0 +1,96 @@
+Williston	B-LOC
+(	I-LOC
+Carolina	I-LOC
+do	I-LOC
+Sul	I-LOC
+)	I-LOC
+
+'	O
+''	O
+The	B-ORG
+Coats	I-ORG
+of	I-ORG
+Claude	I-ORG
+''	O
+'	O
+''	O
+
+Warwick	B-LOC
+(	I-LOC
+Bermudas	I-LOC
+)	I-LOC
+
+Só	O
+Hoje	O
+-	O
+Jota	B-ORG
+Quest	I-ORG
+
+'	O
+''	O
+Eduardo	B-PER
+Santamarina	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Force	B-ORG
+India	I-ORG
+''	O
+'	O
+
+Olivia	B-PER
+Wilde	I-PER
+como	O
+Quorra	O
+
+'	O
+''	O
+Jacques	B-PER
+Laffite	I-PER
+''	O
+'	O
+
+Redirecionamento	O
+El	B-LOC
+Kef	I-LOC
+(	I-LOC
+Tunísia	I-LOC
+)	I-LOC
+
+gravado	O
+em	O
+Porto	B-LOC
+Alegre	I-LOC
+.	O
+
+A	O
+final	O
+foi	O
+pelo	O
+oitavo	O
+ano	O
+consecutivo	O
+no	O
+Estádio	B-ORG
+Olímpico	I-ORG
+de	I-ORG
+Roma	I-ORG
+.	O
+
+'	O
+''	O
+Ken	B-PER
+Rosewall	I-PER
+''	O
+'	O
+vence	O
+Arthur	B-PER
+Ashe	I-PER
+,	O
+6-1	O
+,	O
+7-5	O
+,	O
+6-3	O

@@ -1,0 +1,73 @@
+Martin	B-PER
+Luther	I-PER
+King	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+Astro	B-ORG
+(	I-ORG
+TV	I-ORG
+satelit	I-ORG
+)	I-ORG
+
+ALIH	O
+Institut	B-ORG
+Tèknologi	I-ORG
+Bandung	I-ORG
+
+ALIH	O
+Muhammad	B-PER
+bin	I-PER
+Idris	I-PER
+asy-Syafi`i	I-PER
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+(	O
+'	O
+''	O
+Tutugé	B-PER
+...	I-PER
+''	O
+'	O
+)	O
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

@@ -1,0 +1,135 @@
+Almanya'da	B-LOC
+gerçekleşen	O
+2006	B-ORG
+FIFA	I-ORG
+Dünya	I-ORG
+Kupası'nda	I-ORG
+H	O
+Grubu	O
+açılış	O
+maçında	O
+İspanya	B-LOC
+ile	O
+Ukrayna	B-LOC
+arasındaki	O
+karşılaşmayı	O
+yönetti	O
+.	O
+
+**	O
+Larry	B-PER
+Bird	I-PER
+,	O
+Boston	B-ORG
+Celtics	I-ORG
+
+:	O
+'	O
+''	O
+''NOT	O
+:	O
+'	O
+''	O
+Ev	O
+sahibi	O
+olarak	O
+Kamerun	B-ORG
+baz	O
+alınmıştır	O
+.	O
+''	O
+
+Çocuklardan	O
+teknik	O
+direktörlüğünü	O
+yaptığı	O
+bir	O
+takım	O
+kurup	O
+Austin	B-LOC
+,	I-LOC
+Teksas'taki	I-LOC
+lige	O
+katılırlar	O
+ancak	O
+,	O
+ilk	O
+maçları	O
+katılmalarından	O
+sadece	O
+bir	O
+gün	O
+sonradır	O
+.	O
+
+:	O
+:	O
+:	O
+CH053	O
+Appenzell	B-LOC
+Ausserrhoden	I-LOC
+
+YÖNLENDİRME	O
+Kenan	B-PER
+Eyüp	I-PER
+Şahin	I-PER
+
+'	O
+''	O
+Bucaspor	B-ORG
+''	O
+'	O
+
+İlginç	O
+olan	O
+albüme	O
+bu	O
+şarkının	O
+Jimi	B-PER
+Hendrix'in	I-PER
+olduğu	O
+şeklinde	O
+yanlış	O
+yazılmasıdır	O
+.	O
+
+:	O
+Joshua	B-PER
+Slocum	I-PER
+(	O
+1844-1909	O
+)	O
+US-Reiseschriftsteller	O
+
+Cerenbulak	B-LOC
+Bucağı	I-LOC
+-	O
+白碱滩区	O
+''Báijiǎntān	O
+Qū	O
+''	O
+;	O
+
+Sağlık	B-ORG
+ocağı	I-ORG
+ve	O
+PTT	B-ORG
+şubesi	O
+yoktur	O
+ancak	O
+acentesi	O
+mevcuttur	O
+.	O
+
+Ankara	B-ORG
+Üniversitesi	I-ORG
+Hukuk	I-ORG
+Fakültesi`ni	I-ORG
+bitirdi	O
+.	O
+
+YÖNLENDİRME	O
+Blagoevgrad	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC

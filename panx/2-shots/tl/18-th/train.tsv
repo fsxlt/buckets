@@ -1,0 +1,40 @@
+San	B-LOC
+Jose	I-LOC
+,	I-LOC
+Occidental	I-LOC
+Mindoro	I-LOC
+
+Papa	B-PER
+Pablo	I-PER
+VI	I-PER
+
+''	O
+Chameleon	B-PER
+''	O
+,	O
+isang	O
+tauhan	O
+o	O
+karakter	O
+pang-komiks	O
+.	O
+
+Musashimurayama	B-LOC
+,	I-LOC
+Tokyo	I-LOC
+
+Papa	B-PER
+Leo	I-PER
+IX	I-PER
+
+Pagpapanumbalik	B-ORG
+ng	I-ORG
+Meiji	I-ORG
+
+Honey	B-ORG
+and	I-ORG
+Clover	I-ORG
+''	O
+(	O
+2005	O
+)	O

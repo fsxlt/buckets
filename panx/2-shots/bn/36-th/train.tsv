@@ -1,0 +1,28 @@
+নাটাল	B-ORG
+ইন্ডিয়ান	I-ORG
+কংগ্রেস	I-ORG
+
+রাশিয়ার	B-PER
+দ্বিতীয়	I-PER
+নিকোলাস	I-PER
+
+কমলা	B-ORG
+(	I-ORG
+রঙ	I-ORG
+)	I-ORG
+
+ইকার	B-PER
+ক্যাসিয়াস	I-PER
+(	O
+দ	O
+)	O
+
+পাতি	B-LOC
+সমুদ্র	I-LOC
+ঘোড়া	I-LOC
+
+শারজাহ]]	O
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC

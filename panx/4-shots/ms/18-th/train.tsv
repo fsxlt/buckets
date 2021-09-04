@@ -1,0 +1,80 @@
+Ia	O
+dikawal	O
+oleh	O
+Persekutuan	B-ORG
+Bola	I-ORG
+Sepak	I-ORG
+Kemboja	I-ORG
+.	O
+
+Kuasa	B-LOC
+Paksi	I-LOC
+Perang	I-LOC
+Dunia	I-LOC
+II	I-LOC
+
+[2008]	O
+AKB	B-ORG
+0ji	I-ORG
+59fun	I-ORG
+
+daripada	O
+Yang	B-ORG
+di-Pertuan	I-ORG
+Agong	I-ORG
+Pertama	O
+,	O
+Seri	B-PER
+Paduka	I-PER
+Baginda	I-PER
+Tuanku	I-PER
+Abdul	I-PER
+Rahman	I-PER
+,	O
+Yang	B-PER
+di-Pertuan	I-PER
+Besar	I-PER
+Negeri	I-PER
+Sembilan	I-PER
+.	O
+
+Tentera	B-ORG
+Laut	I-ORG
+Diraja	I-ORG
+Thailand	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Maine-et-Loire	I-LOC
+
+'	O
+''	O
+Jarno	B-PER
+Trulli	I-PER
+''	O
+'	O
+
+Tolstoy	B-PER
+,	I-PER
+Leo	I-PER
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Guadeloupe	I-LOC
+
+Cut	B-PER
+Tari	I-PER
+sebagai	O
+'	O
+''	O
+Sofie	O
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meuse	I-LOC

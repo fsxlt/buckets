@@ -1,0 +1,20 @@
+Bangko	B-ORG
+sa	I-ORG
+Pagpapaunlad	I-ORG
+ng	I-ORG
+Asya	I-ORG
+
+Enrique	B-PER
+III	I-PER
+ng	I-PER
+Pransiya	I-PER
+
+Sugino	O
+(	O
+Tactics	B-ORG
+''	O
+)	O
+
+Prepektura	B-LOC
+ng	I-LOC
+Kyoto	I-LOC

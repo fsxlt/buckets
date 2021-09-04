@@ -1,0 +1,18 @@
+LENCONG	O
+Szabolcs	B-LOC
+(	I-LOC
+kampung	I-LOC
+)	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+Halden	I-ORG
+
+``	O
+Mana	O
+Mungkin	O
+''	O
+nyanyian	O
+Dayang	B-PER
+Nurfaizah	I-PER

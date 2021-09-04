@@ -1,0 +1,23 @@
+Caroline	B-PER
+Wozniacki	I-PER
+''	O
+(	O
+Putaran	O
+Kedua	O
+)	O
+
+ALIH	O
+Richmond	B-ORG
+International	I-ORG
+Raceway	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Ille-et-Vilaine	I-LOC
+
+1974	B-ORG
+-	O
+Babak	O
+ke-2	O

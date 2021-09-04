@@ -1,0 +1,37 @@
+Catholic	B-ORG
+School	I-ORG
+Girls	I-ORG
+Rule	I-ORG
+''	O
+-	O
+1:57	O
+
+Petr	B-PER
+Korbel	I-PER
+(	O
+simple	O
+)	O
+
+Ligue	B-LOC
+des	I-LOC
+champions	I-LOC
+de	I-LOC
+l'UEFA	I-LOC
+1997-1998	I-LOC
+
+Politique	B-LOC
+étrangère	I-LOC
+et	I-LOC
+de	I-LOC
+sécurité	I-LOC
+commune	I-LOC
+
+REDIRECTION	O
+Yazid	B-PER
+ben	I-PER
+Mohammed	I-PER
+
+Remo	B-ORG
+(	I-ORG
+PA	I-ORG
+)	I-ORG

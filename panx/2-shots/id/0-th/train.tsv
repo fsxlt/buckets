@@ -1,0 +1,47 @@
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Vosges	I-LOC
+
+Oliver	B-PER
+Platt	I-PER
+,	O
+Stanley	B-PER
+Tucci	I-PER
+,	O
+Alfred	B-PER
+Molina	I-PER
+
+Nadia	B-PER
+Petrova	I-PER
+''	O
+(	O
+Putaran	O
+Keempat	O
+)	O
+
+Dia	O
+adalah	O
+asisten	O
+manajer	O
+di	O
+Schalke	B-ORG
+04	I-ORG
+.	O
+
+Anjungan	O
+[[Jawa	O
+Barat]	O
+di	O
+situs	O
+resmi	O
+Taman	B-ORG
+Mini	I-ORG
+Indonesia	I-ORG
+Indah	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Allier	I-LOC

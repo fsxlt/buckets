@@ -1,0 +1,62 @@
+「	O
+長	O
+女	O
+」	O
+花	B-PER
+枝	I-PER
+·	I-PER
+辛	I-PER
+普	I-PER
+森	I-PER
+
+重	O
+定	O
+向	O
+#	O
+红	B-PER
+线	I-PER
+女	I-PER
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+德	B-LOC
+城	I-LOC
+区	I-LOC
+
+#	O
+史	B-ORG
+克	I-ORG
+威	I-ORG
+尔	I-ORG
+艾	I-ORG
+尼	I-ORG
+克	I-ORG
+斯	I-ORG
+
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+馬	B-LOC
+略	I-LOC
+卡	I-LOC
+島	I-LOC
+
+#	O
+週	B-ORG
+六	I-ORG
+夜	I-ORG
+現	I-ORG
+場	I-ORG

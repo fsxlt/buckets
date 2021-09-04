@@ -1,0 +1,42 @@
+Selle	O
+otsuse	O
+pidi	O
+kinnitama	O
+Nikolai	B-PER
+II	I-PER
+,	O
+kes	O
+aga	O
+venitas	O
+oma	O
+nõusoleku	O
+andmisega	O
+poolteist	O
+aastat	O
+.	O
+
+Potsdamis	B-ORG
+fikseeriti	O
+ka	O
+selle	O
+üksikasjad	O
+.	O
+
+aastast	O
+mängib	O
+NBA	B-ORG
+meeskonnas	O
+Miami	B-ORG
+Heat	I-ORG
+.	O
+
+''	O
+'	O
+''	O
+Gemmatimonas	B-LOC
+aurantiaca	I-LOC
+''	O
+'	O
+''	O
+,	O
+bakteriliik	O

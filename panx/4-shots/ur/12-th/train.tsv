@@ -1,0 +1,75 @@
+خان	B-PER
+حبیب	I-PER
+اللہ	I-PER
+خان	B-PER
+
+چوا	B-ORG
+کریالا	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+باربرا	B-PER
+ہیرس	I-PER
+(	I-PER
+اداکارہ	I-PER
+)	I-PER
+
+رجوع_مکرر	O
+حمزہ	B-PER
+علی	I-PER
+عباسی	I-PER
+
+رجوع_مکرر	O
+2013	B-ORG
+پشاور	I-ORG
+گرجا	I-ORG
+گھر	I-ORG
+بم	I-ORG
+دھماکا	I-ORG
+
+رجوع_مکرر	O
+آکاش	B-ORG
+وانی	I-ORG
+(	I-ORG
+ریڈیو	I-ORG
+ناشر	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+بھیرم	B-LOC
+آرا	I-LOC
+ذیلی	I-LOC
+ضلع	I-LOC
+
+رجوع_مکرر	O
+مریم	B-PER
+علیہا	I-PER
+السلام	I-PER
+
+گنی	B-LOC
+(	I-LOC
+خطہ	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+بیت	B-LOC
+عنیاہ	I-LOC
+(	I-LOC
+کتاب	I-LOC
+مقدس	I-LOC
+گاؤں	I-LOC
+)	I-LOC
+
+رجوع_مکرر	O
+کولمبیا	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+وائٹلی	I-LOC
+کاؤنٹی،	I-LOC
+انڈیانا	I-LOC
+
+رجوع_مکرر	O
+لندن	B-ORG
+بورو	I-ORG
+ہیورنگ	I-ORG

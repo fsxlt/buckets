@@ -1,0 +1,20 @@
+''	O
+-	O
+0:31	O
+(	O
+7	B-ORG
+Seconds	I-ORG
+)	O
+
+'	O
+''	O
+Alex	B-PER
+De	I-PER
+Angelis	I-PER
+''	O
+'	O
+
+San	B-LOC
+Benedetto	I-LOC
+del	I-LOC
+Tronto	I-LOC

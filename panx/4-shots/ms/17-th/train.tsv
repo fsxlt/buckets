@@ -1,0 +1,83 @@
+'	O
+''	O
+Mark	B-PER
+Webber	I-PER
+''	O
+'	O
+
+Daerah	B-LOC
+Žďár	I-LOC
+nad	I-LOC
+Sázavou	I-LOC
+
+LENCONG	O
+Kerajaan	B-LOC
+Bani	I-LOC
+Abbasiyah	I-LOC
+
+Kelab	B-ORG
+Bolasepak	I-ORG
+Perbadanan	I-ORG
+Kemajuan	I-ORG
+Negeri	I-ORG
+Selangor	I-ORG
+
+Choong	B-PER
+Tan	I-PER
+Fook	I-PER
+/	O
+Lee	B-PER
+Wan	I-PER
+Wah	I-PER
+
+LENCONG	O
+Lawrencetown	B-LOC
+,	I-LOC
+Daerah	I-LOC
+Down	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+berbulu	I-ORG
+kasar	I-ORG
+Slovakia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Deux-Sèvres	I-LOC
+
+きずな	O
+(	O
+Kizuna	B-ORG
+)	O
+/	O
+Matsuura	B-PER
+Aya	I-PER
+
+H.	B-PER
+S.	I-PER
+Lee	I-PER
+
+Dalam	O
+Liga	B-ORG
+Perdana	I-ORG
+Inggeris	I-ORG
+,	O
+Clichy	O
+beraksi	O
+15	O
+perlawanan	O
+,	O
+tujuh	O
+dalam	O
+kesebelasan	O
+utama	O
+.	O
+
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Switzerland	I-ORG
+putih	I-ORG

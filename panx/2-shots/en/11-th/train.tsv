@@ -1,0 +1,37 @@
+Illinois	B-ORG
+Route	I-ORG
+120	I-ORG
+
+**	O
+2nd	B-ORG
+Brigade	I-ORG
+Combat	I-ORG
+Team	I-ORG
+,	I-ORG
+1st	I-ORG
+Cavalry	I-ORG
+Division	I-ORG
+
+Electorate	B-LOC
+of	I-LOC
+Württemberg	I-LOC
+
+VM91	O
+:	O
+Đắk	B-LOC
+Nông	I-LOC
+Province	I-LOC
+
+'	O
+''	O
+With	O
+Bob	B-PER
+Cooper	I-PER
+''	O
+'	O
+
+*January	O
+23	O
+–	O
+Farmer	B-PER
+Weaver	I-PER

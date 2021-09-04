@@ -1,0 +1,16 @@
+Lambo	B-ORG
+la	I-ORG
+Aswan	I-ORG
+(	O
+Ziwa	B-LOC
+la	I-LOC
+Nasser	I-LOC
+-	O
+Misri	B-LOC
+)	O
+
+Reiko	B-PER
+Aylesworth	I-PER
+kama	O
+Michelle	B-PER
+Dessler	I-PER

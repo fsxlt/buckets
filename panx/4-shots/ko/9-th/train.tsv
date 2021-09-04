@@ -1,0 +1,120 @@
+AKS	O
+소속이고	O
+아이치	B-LOC
+현	I-LOC
+출신이다	O
+.	O
+
+현재	O
+대한민국	B-LOC
+K리그	B-ORG
+챌린지	I-ORG
+서울	B-ORG
+이랜드	I-ORG
+FC에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+넘겨주기	O
+호드	B-PER
+(	I-PER
+노르드	I-PER
+신화	I-PER
+)	I-PER
+
+'	O
+''	O
+이문동	B-LOC
+''	O
+'	O
+
+쿤산	B-LOC
+시	I-LOC
+(	O
+昆山市	O
+,	O
+Kūnshān	O
+)	O
+
+'	O
+''	O
+KARA	B-ORG
+컬렉션	I-ORG
+''	O
+'	O
+''	O
+
+아틀레티코	B-ORG
+마드리드가	I-ORG
+아틀레틱	B-ORG
+빌바오를	I-ORG
+3-0으로	O
+꺾고	O
+우승을	O
+차지하였다	O
+.	O
+
+니콜	B-PER
+키드먼	I-PER
+,	O
+에런	B-PER
+엑하트	I-PER
+,	O
+다이앤	B-PER
+위스트	I-PER
+등이	O
+출연하며	O
+존	B-PER
+캐머런	I-PER
+미첼이	I-PER
+감독을	O
+맡았다	O
+.	O
+
+김규리	B-PER
+-	O
+소현	O
+역	O
+
+사카모토	B-PER
+료마	I-PER
+-	O
+후쿠야마	B-PER
+마사하루	I-PER
+
+니코바르	B-LOC
+제도	I-LOC
+(	O
+1778-1783	O
+)	O
+
+'	O
+''	O
+우번	B-PER
+''	O
+'	O
+
+칸타헤메	B-LOC
+지역	I-LOC
+(	O
+Kanta-Hämeen	O
+maakunta	O
+)	O
+
+넘겨주기	O
+더	B-ORG
+엑스	I-ORG
+팩터	I-ORG
+
+6차전	O
+선발로	O
+삼성은	O
+장원삼이	B-PER
+,	O
+SK는	O
+마리오	B-PER
+산티아고가	I-PER
+각각	O
+등판했다	O
+.	O

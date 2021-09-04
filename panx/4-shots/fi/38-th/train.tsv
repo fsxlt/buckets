@@ -1,0 +1,112 @@
+Rattikelkkailu	B-ORG
+talviolympialaisissa	I-ORG
+2002	I-ORG
+
+'	O
+''	O
+Joensuun	B-ORG
+Palloseura	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Helsingin	B-ORG
+Jalkapalloklubi	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Leo	B-PER
+Honkala	I-PER
+''	O
+'	O
+
+Giants	B-ORG
+Stadium	I-ORG
+,	O
+East	B-LOC
+Rutherford	I-LOC
+,	O
+Yhdysvallat	B-LOC
+
+Kaupunki	O
+on	O
+Porhovin	B-LOC
+piirin	I-LOC
+keskus	O
+.	O
+
+Se	O
+on	O
+saanut	O
+nimensä	O
+Béla	B-PER
+IV	I-PER
+:	I-PER
+n	I-PER
+tyttären	O
+Margaretin	B-PER
+mukaan	O
+.	O
+
+Menestyksekkään	O
+35-åringen-albumin	B-ORG
+ilmestyttyä	O
+muun	O
+muassa	O
+näyttelijä-laulaja	O
+Tommy	B-PER
+Körberg	I-PER
+ilmaisi	O
+tyytymättömyyttään	O
+”Jag	O
+mår	O
+illa”	O
+-kappaleen	O
+tekstiin	O
+.	O
+
+1920-luvulla	O
+Suomi	B-LOC
+oli	O
+vasta	O
+itsenäistynyt	O
+,	O
+ja	O
+suurin	O
+osa	O
+armeijan	O
+kalustosta	O
+oli	O
+vanhan	O
+Tsaarin	B-LOC
+Venäjän	I-LOC
+perua	O
+.	O
+
+Baldur	B-PER
+von	I-PER
+Schirach	I-PER
+–	O
+Hitler-Jugendin	B-ORG
+(	O
+HJ	O
+)	O
+johtaja	O
+
+Sitä	O
+tavataan	O
+muun	O
+muassa	O
+Simienin	B-LOC
+kansallispuistossa	I-LOC
+.	O
+
+Santaisabelinmonarkkia	O
+tavataan	O
+Papua-Uudessa-Guineassa	B-LOC
+ja	O
+Salomonsaarilla	B-LOC
+.	O

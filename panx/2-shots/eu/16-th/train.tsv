@@ -1,0 +1,57 @@
+'	O
+''	O
+San	B-LOC
+Petersburgo	I-LOC
+''	O
+'	O
+Errusia	B-LOC
+
+'	O
+''	O
+Arrach	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Naohiro	B-PER
+Takahara	I-PER
+(	O
+26	O
+)	O
+
+Espedizio	O
+guztietan	O
+porrota	O
+jasan	O
+ondoren	O
+Euskal	B-LOC
+Herrira	I-LOC
+itzuli	O
+ziren	O
+.	O
+
+Hurrengo	O
+urteetan	O
+Kristau	B-ORG
+Demokraziak	I-ORG
+bakarrik	O
+gobernatu	O
+zuen	O
+.	O
+
+'	O
+''	O
+Barakaldo	B-ORG
+CF	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Eddy	B-PER
+Merckx	I-PER
+''	O
+'	O

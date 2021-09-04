@@ -1,0 +1,41 @@
+Mga	B-LOC
+lalawigan	I-LOC
+ng	I-LOC
+Italya	I-LOC
+
+James	B-PER
+D.	I-PER
+Watson	I-PER
+
+Hindi	O
+alam	O
+na	O
+may	O
+akda	O
+na	O
+walang	O
+direktang	O
+koneksiyon	O
+kay	O
+Hesus	B-PER
+
+Totoong	B-ORG
+Simbahan	I-ORG
+ni	I-ORG
+Hesus	I-ORG
+
+Kirishima	B-LOC
+,	I-LOC
+Kagoshima	I-LOC
+
+Maricel	B-PER
+Soriano	I-PER
+,	O
+Eugene	B-PER
+Domingo	I-PER
+
+Kapuso	B-ORG
+Mo	I-ORG
+,	I-ORG
+Jessica	I-ORG
+Soho	I-ORG

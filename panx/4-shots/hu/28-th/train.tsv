@@ -1,0 +1,125 @@
+ÁTIRÁNYÍTÁS	O
+Spanyol	B-ORG
+férfi	I-ORG
+kézilabda-bajnokság	I-ORG
+(	I-ORG
+másodosztály	I-ORG
+)	I-ORG
+
+A	O
+templom	O
+védőszentje	O
+Árpád-házi	B-PER
+Szent	I-PER
+Erzsébet	I-PER
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Auckland	B-LOC
+(	I-LOC
+település	I-LOC
+)	I-LOC
+
+Latina	B-LOC
+,	O
+közigazgatási	O
+székhelye	O
+Latina	B-LOC
+,	O
+települések	O
+száma	O
+33	O
+
+ÁTIRÁNYÍTÁS	O
+Curtain	B-ORG
+Call	I-ORG
+:	I-ORG
+The	I-ORG
+Hits	I-ORG
+
+Richard	B-PER
+Gasquet	I-PER
+''	O
+(	O
+Első	O
+kör	O
+)	O
+
+**A	O
+kommunista	B-ORG
+párt	I-ORG
+főtitkára	O
+–	O
+Enver	B-PER
+Hoxha	I-PER
+(	O
+1944–1985	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Joinville	B-LOC
+(	I-LOC
+Haute-Marne	I-LOC
+)	I-LOC
+
+Reinhold	B-PER
+Messner	I-PER
+az	O
+első	O
+olyan	O
+ismert	O
+hegymászó	O
+,	O
+aki	O
+oxigénpalack	O
+használata	O
+nélkül	O
+többször	O
+is	O
+járt	O
+a	O
+csúcson	O
+.	O
+
+A	O
+middleporti	O
+''Burleigh	O
+''	O
+a	O
+világ	O
+egyik	O
+legrégebben	O
+működő	O
+,	O
+Viktória-korabeli	B-PER
+fazekasműhelye	O
+.	O
+
+Prunières	B-LOC
+(	I-LOC
+Lozère	I-LOC
+)	I-LOC
+
+Az	O
+út	O
+majdnem	O
+teljes	O
+egészében	O
+Heves	B-LOC
+megye	I-LOC
+területén	O
+húzódik	O
+,	O
+csak	O
+a	O
+legészakibb	O
+csücske	O
+található	O
+Nógrádban	B-LOC
+.	O
+
+2015-ös	B-ORG
+Ázsia-kupa	I-ORG
+(	I-ORG
+döntő	I-ORG
+)	I-ORG

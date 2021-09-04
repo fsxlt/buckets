@@ -1,0 +1,29 @@
+600	O
+km	O
+südlich	O
+von	O
+Santiago	B-LOC
+de	I-LOC
+Chile	I-LOC
+.	O
+
+Sein	O
+Nachfolger	O
+als	O
+Vorstandsvorsitzender	O
+wird	O
+Dieter	B-PER
+Zetsche	I-PER
+.	O
+
+Es	O
+entstand	O
+durch	O
+die	O
+Aufspaltung	O
+und	O
+Umfirmierung	O
+der	O
+News	B-ORG
+Corporation	I-ORG
+.	O

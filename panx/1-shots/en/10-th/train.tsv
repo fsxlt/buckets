@@ -1,0 +1,20 @@
+Is	B-ORG
+This	I-ORG
+the	I-ORG
+Way	I-ORG
+to	I-ORG
+Amarillo	I-ORG
+
+Williamston	B-LOC
+,	I-LOC
+North	I-LOC
+Carolina	I-LOC
+
+Schoten	B-LOC
+:	O
+102,9	O
+MHz	O
+
+Ngo	B-PER
+Dinh	I-PER
+Diem	I-PER

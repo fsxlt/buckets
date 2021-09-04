@@ -1,0 +1,16 @@
+রেসো	B-ORG
+এক্সপ্রেস	I-ORG
+রেজিওনাল	I-ORG
+
+হিরোস	B-PER
+(	I-PER
+টিভি	I-PER
+সিরিজ	I-PER
+)	I-PER
+
+শেখ	B-LOC
+আবু	I-LOC
+নাসের	I-LOC
+স্টেডিয়াম	I-LOC
+,	O
+খুলনা	B-LOC

@@ -1,0 +1,35 @@
+দাদরা	B-LOC
+ও	I-LOC
+নগর	I-LOC
+হাভেলি	I-LOC
+
+ওসামা	B-PER
+বিন	I-PER
+লাদেন	I-PER
+
+**	O
+উদয়ী	B-LOC
+মানিকজোড়	I-LOC
+,	O
+''Ciconia	O
+boyciana	O
+''	O
+(	O
+formerly	O
+in	O
+''C	O
+.	O
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+এরিক	B-PER
+টেম্পল	I-PER
+বেল	I-PER
+
+ভারতের	B-ORG
+সামরিক	I-ORG
+বাহিনী	I-ORG

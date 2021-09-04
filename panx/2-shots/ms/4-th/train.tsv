@@ -1,0 +1,29 @@
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+penjejak	I-ORG
+Rusia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Marne	I-LOC
+
+'	O
+''	O
+Romain	B-PER
+Grosjean	I-PER
+''	O
+'	O
+
+Abdul	B-PER
+Aziz	I-PER
+Ismail	I-PER
+to	O
+Perlis	B-ORG
+FA	I-ORG

@@ -1,0 +1,18 @@
+Kova	B-ORG
+laki	I-ORG
+:	I-ORG
+Erikoisyksikkö	I-ORG
+''	O
+
+Antti	B-PER
+J.	I-PER
+Jokinen	I-PER
+(	O
+ohj	O
+.	O
+
+OHJAUS	O
+Ostheim	B-LOC
+vor	I-LOC
+der	I-LOC
+Rhön	I-LOC

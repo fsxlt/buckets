@@ -1,0 +1,20 @@
+تغییرمسیر	O
+چنگان	B-LOC
+(	I-LOC
+اردبیل	I-LOC
+)	I-LOC
+
+'	O
+''	O
+پیتر	B-PER
+فینچ	I-PER
+''	O
+'	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG

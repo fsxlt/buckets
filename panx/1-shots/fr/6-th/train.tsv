@@ -1,0 +1,15 @@
+Régions	B-LOC
+de	I-LOC
+la	I-LOC
+Namibie	I-LOC
+
+Hippolyte	B-PER
+Girardot	I-PER
+-	O
+''Marc	O
+Bénesteau	O
+''	O
+
+Barrage	B-ORG
+de	I-ORG
+Çorum	I-ORG

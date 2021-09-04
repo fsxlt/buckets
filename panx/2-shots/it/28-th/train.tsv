@@ -1,0 +1,61 @@
+''	O
+Charlie	B-PER
+Magri	I-PER
+''	O
+'	O
+-	O
+pugile	O
+britannico	B-LOC
+
+I	B-ORG
+Love	I-ORG
+Rock	I-ORG
+'n	I-ORG
+'	I-ORG
+Roll	I-ORG
+''	O
+
+'	O
+''	O
+Maurice	B-PER
+Garin	I-PER
+''	O
+'	O
+
+Si	O
+trovano	O
+spesso	O
+in	O
+conflitto	O
+con	O
+la	O
+Repubblica	B-LOC
+romana	I-LOC
+,	O
+che	O
+solitamente	O
+ne	O
+esce	O
+sconfitta	O
+.	O
+
+San	B-LOC
+Millán	I-LOC
+de	I-LOC
+Yécora	I-LOC
+
+'	O
+''	O
+Moldavia	B-LOC
+''	O
+'	O
+
+:16ª	O
+tappa	O
+Giro	B-ORG
+d'Italia	I-ORG
+(	O
+Parma	B-LOC
+>	O
+Savona	B-LOC
+)	O

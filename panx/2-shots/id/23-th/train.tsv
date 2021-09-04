@@ -1,0 +1,52 @@
+'	O
+''	O
+Persipura	B-ORG
+Jayapura	I-ORG
+''	O
+'	O
+
+Ia	O
+memegang	O
+keyakinan	O
+bahwa	O
+Allah	O
+adalah	O
+sosok	O
+pribadi	O
+,	O
+yang	O
+berbeda	O
+dengan	O
+pandangan	O
+sahabatnya	O
+,	O
+Albert	B-PER
+Einstein	I-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+The	B-ORG
+Coffee	I-ORG
+Bean	I-ORG
+&	I-ORG
+Tea	I-ORG
+Leaf	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Marne	I-LOC
+
+Ashley	B-PER
+Benson	I-PER
+memainkan	O
+peran	O
+sebagai	O
+gantinya	O
+.	O

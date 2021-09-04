@@ -1,0 +1,109 @@
+Pous	B-PER
+Johannes	I-PER
+XI	I-PER
+(	O
+931-935	O
+)	O
+
+Groot	O
+stede	O
+is	O
+Wladiwostok	B-LOC
+,	O
+Chabarofsk	B-LOC
+,	O
+Komsomolsk	B-LOC
+aan	I-LOC
+die	I-LOC
+Amoer	I-LOC
+,	O
+Blagowesjtsjensk	B-LOC
+en	O
+Jakoetsk	B-LOC
+.	O
+
+In	O
+hulle	O
+lang	O
+huwelik	O
+leef	O
+hulle	O
+hoofsaaklik	O
+in	O
+Los	B-LOC
+Angeles	I-LOC
+,	O
+Kalifornië	B-LOC
+.	O
+
+Sentraal	B-LOC
+Karoo	I-LOC
+(	O
+DC5	O
+)	O
+in	O
+die	O
+noorde	O
+
+Dit	O
+is	O
+’n	O
+nieregeringsorganisasie	O
+met	O
+amptelike	O
+bande	O
+met	O
+die	O
+Verenigde	B-ORG
+Nasies	I-ORG
+.	O
+
+AANSTUUR	O
+Puerto	B-ORG
+Ricaanse	I-ORG
+Onafhanklikheidsparty	I-ORG
+
+Pous	B-PER
+Clemens	I-PER
+V	I-PER
+
+'	O
+''	O
+Frank	B-PER
+Gehry	I-PER
+''	O
+'	O
+
+Pous	B-PER
+Celestinus	I-PER
+III	I-PER
+
+Hulle	O
+het	O
+die	O
+Westelike	B-ORG
+Provinsie	I-ORG
+met	O
+33–19	O
+in	O
+die	O
+2013	B-LOC
+eindstryd	I-LOC
+op	O
+Nuweland	B-ORG
+verslaan	O
+.	O
+
+Die	O
+Hoërskool	B-ORG
+Jan	I-ORG
+van	I-ORG
+Riebeeck	I-ORG
+in	O
+Kaapstad	B-LOC
+met	O
+46	O
+leerders	O
+en	O
+mnr	O
+.	O

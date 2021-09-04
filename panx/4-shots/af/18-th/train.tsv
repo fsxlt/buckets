@@ -1,0 +1,104 @@
+FC	B-ORG
+Emmendingen	I-ORG
+03	I-ORG
+
+Jannie	B-PER
+Hofmeyr	I-PER
+,	O
+adjunk-premier	O
+van	O
+die	O
+Unie	B-LOC
+van	I-LOC
+Suid-Afrika	I-LOC
+.	O
+
+Verenigde	B-LOC
+State	I-LOC
+van	I-LOC
+Amerika	I-LOC
+
+AANSTUUR	O
+Miño	B-LOC
+de	I-LOC
+San	I-LOC
+Esteban	I-LOC
+
+Vanweë	O
+sy	O
+verwantskap	O
+aan	O
+Knoet	B-PER
+die	I-PER
+Grote	I-PER
+is	O
+hy	O
+vroeg	O
+reeds	O
+beskou	O
+as	O
+’n	O
+aanspraakmaker	O
+op	O
+die	O
+troon	O
+.	O
+
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Johannes	I-PER
+Paulus	I-PER
+II	I-PER
+.	O
+
+Dit	O
+is	O
+'n	O
+onafhanklike	O
+liggaam	O
+met	O
+sy	O
+hoofkantoor	O
+in	O
+Den	B-LOC
+Haag	I-LOC
+.	O
+
+Die	O
+Noord-Transvaalse	O
+rugbyondersteuners	O
+sal	O
+nooit	O
+die	O
+1977-voorval	O
+op	O
+Loftus	B-ORG
+Versfeld	I-ORG
+vergeet	O
+waar	O
+hy	O
+hul	O
+gunsteling	O
+,	O
+Naas	B-PER
+Botha	I-PER
+,	O
+hard	O
+geduik	O
+het	O
+nie	O
+.	O
+
+AANSTUUR	O
+Uitvoerverwerkingsone	B-ORG
+van	I-ORG
+Walvisbaai	I-ORG
+
+Huis	B-ORG
+van	I-ORG
+Sakse-Koburg	I-ORG
+en	I-ORG
+Gotha	I-ORG

@@ -1,0 +1,64 @@
+رجوع_مکرر	O
+اویلر	B-ORG
+برنولی	I-ORG
+بیم	I-ORG
+مساوات	I-ORG
+
+رجوع_مکرر	O
+فرنسو	B-LOC
+کاؤنٹی،	I-LOC
+کیلیفورنیا	I-LOC
+
+رجوع_مکرر	O
+مروان	B-PER
+بن	I-PER
+محمد	I-PER
+بن	I-PER
+مروان	B-PER
+
+احمد	B-PER
+بن	I-PER
+شعیب	I-PER
+النسائی	I-PER
+–	O
+
+رجوع_مکرر	O
+بیوکینن	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+موسیٰ	B-PER
+علیہ	I-PER
+السلام	I-PER
+
+رجوع_مکرر	O
+حلقہ	B-LOC
+این	I-LOC
+اے۔264	I-LOC
+
+رجوع_مکرر	O
+نو	B-ORG
+حارہ	I-ORG
+ماحولیاتی	I-ORG
+خطہ	I-ORG
+
+رجوع_مکرر	O
+بےز	B-ORG
+مسئلہ	I-ORG
+اثباتی	I-ORG
+
+علی	B-PER
+بن	I-PER
+ابی	I-PER
+طالب	I-PER
+
+رجوع_مکرر	O
+ہیرموسا	B-LOC
+بیچ،	I-LOC
+کیلیفورنیا	I-LOC
+
+مقدونیہ	B-ORG
+(	I-ORG
+قدیم	I-ORG
+مملکت	I-ORG
+)	I-ORG

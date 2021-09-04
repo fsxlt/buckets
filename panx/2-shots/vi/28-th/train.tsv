@@ -1,0 +1,42 @@
+đổi	O
+Xã	B-LOC
+Wilburn	I-LOC
+,	I-LOC
+Quận	I-LOC
+Ford	I-LOC
+,	I-LOC
+Kansas	I-LOC
+
+đổi	O
+Seleukos	B-PER
+II	I-PER
+Kallinikos	I-PER
+
+đổi	O
+Phương	B-LOC
+diện	I-LOC
+quân	I-LOC
+Dự	I-LOC
+bị	I-LOC
+
+đổi	O
+Văn	B-ORG
+minh	I-ORG
+lưu	I-ORG
+vực	I-ORG
+sông	I-ORG
+Ấn	I-ORG
+
+Franz	B-PER
+Beckenbauer	I-PER
+(	O
+1970-1977	O
+)	O
+
+Sư	B-ORG
+đoàn	I-ORG
+bộ	I-ORG
+binh	I-ORG
+cơ	I-ORG
+giới	I-ORG
+320	I-ORG

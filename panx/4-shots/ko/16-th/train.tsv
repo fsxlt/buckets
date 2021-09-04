@@ -1,0 +1,112 @@
+우루과이	B-ORG
+프리메라	I-ORG
+디비시온	I-ORG
+(	O
+Primera	O
+División	O
+Uruguaya	O
+)	O
+
+음악은	O
+한스	B-PER
+치머와	I-PER
+론	B-PER
+밸프가	I-PER
+공동으로	O
+작업하였다	O
+.	O
+
+수	B-PER
+문제는	I-PER
+이	O
+사실을	O
+듣고	O
+글을	O
+보내	O
+이를	O
+꾸짖었다	O
+.	O
+
+넘겨주기	O
+2013년	B-ORG
+동아시아	I-ORG
+경기	I-ORG
+대회	I-ORG
+
+'	O
+''	O
+크리스티아누	B-PER
+호날두	I-PER
+''	O
+'	O
+(	O
+2	O
+)	O
+
+특별상	O
+-	O
+후카사쿠	B-PER
+긴지	I-PER
+
+조선	B-LOC
+(	O
+朝鮮	O
+)	O
+숙종	B-PER
+(	O
+肅宗	O
+)	O
+14년	O
+
+'	O
+''	O
+추쥔	B-PER
+''	O
+'	O
+
+난조	B-LOC
+군	I-LOC
+(	O
+)	O
+
+그리니치	B-LOC
+섬과	I-LOC
+리빙스턴	B-LOC
+섬	I-LOC
+—	O
+,	O
+,	O
+이	O
+영유권을	O
+주장함	O
+.	O
+
+넘겨주기	O
+벤저민	B-ORG
+무어	I-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+방콕	B-LOC
+만의	I-LOC
+북동쪽	O
+끝에서	O
+타이	B-LOC
+만으로	I-LOC
+흘러	O
+든다	O
+.	O
+
+치비토케	B-LOC
+주	I-LOC
+(	O
+Cibitoke	O
+)	O
+
+도전	B-ORG
+!	I-ORG
+슈퍼모델》에서	I-ORG
+심사위원으로도	O
+활동하였다	O
+.	O

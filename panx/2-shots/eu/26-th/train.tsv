@@ -1,0 +1,56 @@
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+'	O
+''	O
+Wolverhampton	B-LOC
+''	O
+'	O
+,	O
+West	B-LOC
+Midlands	I-LOC
+
+Lehenbiziko	O
+aldiz	O
+2010eko	B-ORG
+azaroaren	I-ORG
+28ko	I-ORG
+Kataluniako	I-ORG
+Parlamentuko	I-ORG
+hauteskundeetan	I-ORG
+aurkeztu	O
+zen	O
+.	O
+
+Giorgio	B-PER
+de	I-PER
+Chirico	I-PER
+(	O
+1888-1978	O
+)	O
+
+Europar	B-ORG
+Batasuna	I-ORG
+bere	O
+herrialde	O
+guztiak	O
+erakunde	O
+honetan	O
+sartzen	O
+saiatzen	O
+ari	O
+da	O
+.	O
+
+BIRZUZENDU	O
+Pierre	B-PER
+Louis	I-PER
+Prieur	I-PER

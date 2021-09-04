@@ -1,0 +1,68 @@
+हर्ड	B-LOC
+द्वीप	I-LOC
+और	I-LOC
+मैकडोनाल्ड	I-LOC
+द्वीप	I-LOC
+
+''कांग्रेस	O
+''	O
+भारतीय	B-ORG
+राष्ट्रीय	I-ORG
+कांग्रेस	I-ORG
+
+सुंदरवन	B-LOC
+राष्ट्रीय	I-LOC
+उद्यान	I-LOC
+
+कोट्टयन	B-PER
+कटंकोट	I-PER
+वेणुगोपाल	I-PER
+
+इंपीरियल	B-ORG
+बैंक	I-ORG
+ऑफ़	I-ORG
+इंडिया	I-ORG
+
+कार्टून	B-ORG
+नेटवर्क	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+दक्षिण	B-LOC
+अफ़्रीका	I-LOC
+के	I-LOC
+प्रान्त	I-LOC
+
+मोतीलाल	B-PER
+वोरा	I-PER
+(	O
+२	O
+)	O
+
+रोहित	B-PER
+शेट्टी	I-PER
+(	O
+युधिष्ठिर	B-ORG
+)	O
+
+बांद्रा	B-LOC
+(	I-LOC
+मुंबई	I-LOC
+)	I-LOC
+
+यशवन्त	B-ORG
+सिंह	I-ORG
+परमार	I-ORG
+औद्यानिकी	I-ORG
+एवं	I-ORG
+वानिकी	I-ORG
+विश्वविद्यालय	I-ORG
+,	O
+सोलन	B-LOC
+
+फूलन	B-PER
+देवी	I-PER
+(	O
+1963-2001	O
+)	O

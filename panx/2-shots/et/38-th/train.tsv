@@ -1,0 +1,37 @@
+Karl	B-PER
+Mööl	I-PER
+'	O
+''	O
+(	O
+6	O
+)	O
+'	O
+''	O
+
+Karolinska	B-ORG
+Instituut	I-ORG
+(	O
+''Karolinska	O
+institutet	O
+''	O
+)	O
+Solna	B-LOC
+vallas	I-LOC
+
+Alžeeria	B-LOC
+peaministriks	O
+nimetati	O
+Ahmed	B-PER
+Ouyahia	I-PER
+.	O
+
+Eurovisiooni	B-ORG
+lauluvõistluse	I-ORG
+Eesti	I-ORG
+eelvoor	I-ORG
+
+Waltoni	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O

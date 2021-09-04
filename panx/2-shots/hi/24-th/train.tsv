@@ -1,0 +1,29 @@
+बंबई	B-ORG
+स्टॉक	I-ORG
+एक्सचेंज	I-ORG
+
+दुबई]]	O
+,	O
+संयुक्त	B-LOC
+अरब	I-LOC
+अमीरात	I-LOC
+
+दिनेश	B-PER
+हिंगू	I-PER
+-	O
+शादीलाल	O
+
+अंतरराष्ट्रीय	B-ORG
+मानकीकरण	I-ORG
+संगठन	I-ORG
+
+कादर	B-PER
+ख़ान	I-PER
+-	O
+चाचा	O
+जी	O
+
+शाम	B-LOC
+(	I-LOC
+क्षेत्र	I-LOC
+)	I-LOC

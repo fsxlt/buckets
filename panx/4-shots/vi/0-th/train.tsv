@@ -1,0 +1,79 @@
+đổi	O
+Đại	B-ORG
+học	I-ORG
+Bard	I-ORG
+Berlin	I-ORG
+
+Cung	B-ORG
+điện	I-ORG
+Hoàng	I-ORG
+gia	I-ORG
+Campuchia	I-ORG
+
+Con	O
+ông	O
+là	O
+Triệu	B-PER
+Thành	I-PER
+hầu	I-PER
+lên	O
+nối	O
+ngôi	O
+.	O
+
+''	O
+Back	B-ORG
+Up	I-ORG
+''	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Drôme	I-LOC
+
+đổi	O
+Xã	B-LOC
+Pleasant	I-LOC
+,	I-LOC
+Quận	I-LOC
+Marion	I-LOC
+,	I-LOC
+Ohio	I-LOC
+
+Quit	B-ORG
+Playing	I-ORG
+Games	I-ORG
+(	I-ORG
+With	I-ORG
+My	I-ORG
+Heart	I-ORG
+)	I-ORG
+
+đổi	O
+Quận	B-LOC
+Davidson	I-LOC
+,	I-LOC
+Bắc	I-LOC
+Carolina	I-LOC
+
+'	O
+''	O
+Natalie	B-PER
+Portman	I-PER
+''	O
+'	O
+
+đổi	O
+Đoàn	B-PER
+Chính	I-PER
+Minh	I-PER
+
+Asparn	B-LOC
+an	I-LOC
+der	I-LOC
+Zaya	I-LOC
+
+đổi	O
+Antiochos	B-PER
+II	I-PER
+Theos	I-PER

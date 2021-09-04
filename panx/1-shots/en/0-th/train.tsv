@@ -1,0 +1,36 @@
+Noisy-channel	B-ORG
+coding	I-ORG
+theorem	I-ORG
+
+4	B-ORG
+January	I-ORG
+–	O
+Hywel	B-PER
+Teifi	I-PER
+Edwards	I-PER
+,	O
+writer	O
+and	O
+broadcaster	O
+,	O
+74	O
+
+He	O
+died	O
+February	O
+26	O
+,	O
+1956	O
+and	O
+is	O
+buried	O
+in	O
+Bath	B-LOC
+National	I-LOC
+Cemetery	I-LOC
+,	O
+Bath	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+.	O

@@ -1,0 +1,37 @@
+دانشگاه	B-ORG
+علوم	I-ORG
+قضایی	I-ORG
+و	I-ORG
+خدمات	I-ORG
+اداری	I-ORG
+
+موبرلی،	B-LOC
+میزوری،	I-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+تغییرمسیر	O
+استرفلد	B-LOC
+(	I-LOC
+بای	I-LOC
+ناومبورگ	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+ساندرو	B-PER
+کاردوسو	I-PER
+دوس	I-PER
+سانتوس	I-PER
+
+تغییرمسیر	O
+تام	B-PER
+باور	I-PER
+(	I-PER
+هنرپیشه	I-PER
+)	I-PER
+
+تغییرمسیر	O
+ورزشگاه	B-ORG
+بین‌المللی	I-ORG
+خلیفه	I-ORG

@@ -1,0 +1,44 @@
+``	O
+Flaunt	B-ORG
+It	I-ORG
+''	O
+–	O
+TV	B-ORG
+Rock	I-ORG
+featuring	O
+Seany	B-PER
+B	I-PER
+(	O
+4	O
+weeks	O
+)	O
+
+Number	B-ORG
+10	I-ORG
+(	I-ORG
+TV	I-ORG
+series	I-ORG
+)	I-ORG
+
+2014	O
+:	O
+First	O
+round	O
+(	O
+lost	O
+to	O
+Mervyn	B-PER
+King	I-PER
+0–3	O
+)	O
+
+25px	O
+Helvetic	B-LOC
+Republic	I-LOC
+-	O
+1,600,000	O
+
+Judyty	B-LOC
+,	I-LOC
+Pomeranian	I-LOC
+Voivodeship	I-LOC

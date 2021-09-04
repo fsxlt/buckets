@@ -1,0 +1,76 @@
+رجوع_مکرر	O
+عطاء	B-PER
+الحق	I-PER
+قاسمی	I-PER
+
+رجوع_مکرر	O
+سندھ	B-ORG
+عدالت	I-ORG
+عالیہ	I-ORG
+
+رجوع_مکرر	O
+گرینز	B-ORG
+وائل	I-ORG
+آبشار	I-ORG
+
+خدیجہ	B-PER
+خیریہ	I-PER
+عائشہ	I-PER
+در	I-PER
+شہوار	I-PER
+
+رجوع_مکرر	O
+میکیناو	B-LOC
+ٹاؤنشپ،	I-LOC
+ٹازیویل	I-LOC
+کاؤنٹی،	I-LOC
+الینوائے	I-LOC
+
+رجوع_مکرر	O
+ہسپانیہ	B-ORG
+قومی	I-ORG
+فٹ	I-ORG
+بال	I-ORG
+ٹیم	I-ORG
+
+'	O
+''	O
+حبیب	B-PER
+ابراہیم	I-PER
+رحمت	I-PER
+اللہ	I-PER
+''	O
+'	O
+(	O
+1912-1991	O
+)	O
+
+رجوع_مکرر	O
+دلائی	B-PER
+لاما	I-PER
+دوئم	I-PER
+
+رجوع_مکرر	O
+واشنگٹن	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+کلارک	I-LOC
+کاؤنٹی،	I-LOC
+انڈیانا	I-LOC
+
+بیور	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+سالئین	I-LOC
+کاؤنٹی،	I-LOC
+آرکنساس	I-LOC
+
+فہرست	B-ORG
+قبرص	I-ORG
+کے	I-ORG
+شہر	I-ORG
+
+رجوع_مکرر	O
+داتو	B-LOC
+انساے،	I-LOC
+ماگوئنداناؤ	I-LOC

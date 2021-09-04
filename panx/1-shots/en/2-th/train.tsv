@@ -1,0 +1,36 @@
+Lohan	B-PER
+Jacobs	I-PER
+(	O
+released	O
+)	O
+
+Working	B-ORG
+Group	I-ORG
+on	I-ORG
+Indigenous	I-ORG
+Populations	I-ORG
+
+Similar	O
+deals	O
+were	O
+made	O
+for	O
+plants	O
+in	O
+Vancouver	B-LOC
+Island	I-LOC
+,	O
+Canada	B-LOC
+and	O
+the	O
+Orange	B-ORG
+Free	I-ORG
+State	I-ORG
+,	O
+South	B-LOC
+Africa	I-LOC
+in	O
+the	O
+same	O
+year	O
+.	O

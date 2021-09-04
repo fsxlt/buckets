@@ -1,0 +1,44 @@
+Ito	O
+ay	O
+pinagbibidahan	O
+nina	O
+Kim	B-PER
+Chiu	I-PER
+at	O
+ni	O
+Xian	B-PER
+Lim	I-PER
+.	O
+
+Lalawigan	B-LOC
+ng	I-LOC
+Arkhangai	I-LOC
+
+Maning	B-ORG
+malutong	I-ORG
+at	I-ORG
+marupok	I-ORG
+
+Kababaihan	B-PER
+sa	I-PER
+Pilipinas	I-PER
+
+Pader	B-ORG
+ng	I-ORG
+Berlin	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+New	I-LOC
+York	I-LOC
+
+*Itinanghal	O
+si	O
+Megan	B-PER
+Young	I-PER
+bilang	O
+''Miss	O
+World-Philippines	O
+''	O
+2013	O
+.	O

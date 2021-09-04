@@ -1,0 +1,30 @@
+Läbimurre	O
+oli	O
+1995.	O
+aastal	O
+sarjas	O
+Alarm	B-PER
+Cobra	I-PER
+11	I-PER
+-	I-PER
+Highway	I-PER
+Patrol	I-PER
+,	O
+mida	O
+filmitakse	O
+tänaseni	O
+.	O
+
+'	O
+''	O
+Läti	B-LOC
+''	O
+'	O
+
+aastal	O
+eraldus	O
+Portugali	B-ORG
+kuningriik	I-ORG
+Leóni	B-LOC
+kuningriigist	I-LOC
+.	O

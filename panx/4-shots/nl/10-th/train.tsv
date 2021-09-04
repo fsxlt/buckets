@@ -1,0 +1,124 @@
+Lee	B-PER
+Slattery	I-PER
+(	O
+-6	O
+)	O
+
+De	O
+weg	O
+loopt	O
+door	O
+Valencia	B-LOC
+,	O
+Tarragona	B-LOC
+en	O
+Barcelona	B-LOC
+.	O
+
+Daarna	O
+werd	O
+kansloos	O
+met	O
+3-2	O
+verloren	O
+op	O
+bezoek	O
+bij	O
+FC	B-ORG
+Dordrecht	I-ORG
+.	O
+
+2010	O
+Flo	B-PER
+Rida	I-PER
+feat	O
+.	O
+
+Vanaf	O
+het	O
+seizoen	O
+2012	B-LOC
+/	I-LOC
+13	I-LOC
+speelde	O
+hij	O
+vervolgens	O
+meer	O
+competitiewedstrijden	O
+wel	O
+dan	O
+niet	O
+,	O
+maar	O
+na	O
+de	O
+jaargang	O
+2013	B-LOC
+/	I-LOC
+14	I-LOC
+volgde	O
+degradatie	O
+naar	O
+de	O
+Serie	B-ORG
+B	I-ORG
+.	O
+
+Hij	O
+versloeg	O
+in	O
+de	O
+finale	O
+Maks	B-PER
+Mirny	I-PER
+.	O
+
+Het	O
+wordt	O
+tegenwoordig	O
+onder	O
+licentie	O
+geproduceerd	O
+door	O
+de	O
+Dr	B-ORG
+Pepper	I-ORG
+Snapple	I-ORG
+Group	I-ORG
+.	O
+
+'	O
+''	O
+Jablonec	B-LOC
+nad	I-LOC
+Jizerou	I-LOC
+''	O
+'	O
+-	O
+
+A	B-ORG
+Fever	I-ORG
+You	I-ORG
+Ca	I-ORG
+n't	I-ORG
+Sweat	I-ORG
+Out	I-ORG
+''	O
+
+'	O
+''	O
+Stefan	B-PER
+Bradl	I-PER
+''	O
+'	O
+
+Marino	B-LOC
+(	I-LOC
+Italië	I-LOC
+)	I-LOC
+
+DOORVERWIJZING	O
+Mizuma	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC

@@ -1,0 +1,41 @@
+******	O
+Edward	B-PER
+Kilenyi	I-PER
+(	O
+1910–2000	O
+)	O
+
+Cyril	B-PER
+Takayama	I-PER
+(	O
+1973-	O
+)	O
+,	O
+américano-japonais	O
+
+(	O
+14	O
+sélections	O
+avec	O
+Équipe	B-ORG
+de	I-ORG
+Tchécoslovaquie	I-ORG
+)	O
+.	O
+
+Géorgie	B-LOC
+(	I-LOC
+pays	I-LOC
+)	I-LOC
+
+New	B-LOC
+York	I-LOC
+compte	O
+habitants	O
+.	O
+
+REDIRECTION	O
+Guimbarde	B-ORG
+(	I-ORG
+instrument	I-ORG
+)	I-ORG

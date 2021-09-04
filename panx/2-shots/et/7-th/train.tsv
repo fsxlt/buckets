@@ -1,0 +1,54 @@
+suuna	O
+Cry	B-ORG
+Just	I-ORG
+a	I-ORG
+Little	I-ORG
+Bit	I-ORG
+
+suuna	O
+Vanamõisa	B-LOC
+(	I-LOC
+Viljandi	I-LOC
+)	I-LOC
+
+aastal	O
+teenis	O
+ta	O
+Nõukogude	B-ORG
+armees	I-ORG
+.	O
+
+François	B-PER
+Duval	I-PER
+(	O
+Belgia	B-LOC
+)	O
+
+Makedoonias	B-LOC
+astus	O
+ametisse	O
+president	B-ORG
+Đorge	B-PER
+Ivanov	I-PER
+.	O
+
+Asub	O
+Biskaia	B-LOC
+lahe	I-LOC
+ääres	O
+18	O
+km	O
+kaugusel	O
+Prantsusmaa	B-LOC
+piirist	O
+,	O
+103	O
+km	O
+kaugusel	O
+Vitoria-Gasteizist	B-LOC
+ja	O
+473	O
+km	O
+kaugusel	O
+Madridist	B-LOC
+.	O

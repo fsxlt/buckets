@@ -1,0 +1,18 @@
+تغییرمسیر	O
+مونیک	B-PER
+فن	I-PER
+ده	I-PER
+فن	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+جهادآباد	B-LOC
+چشمه	I-LOC
+تاگی	I-LOC

@@ -1,0 +1,55 @@
+아프리카	B-ORG
+축구	I-ORG
+연맹	I-ORG
+(	O
+3팀	O
+)	O
+====	O
+
+당	B-LOC
+(	O
+唐	O
+)	O
+헌종	B-PER
+(	O
+憲宗	O
+)	O
+6년	O
+
+니키	B-ORG
+항공	I-ORG
+(	O
+원월드	B-ORG
+)	O
+
+'	O
+''	O
+고창군	B-LOC
+''	O
+'	O
+
+가메이	B-PER
+요시유키	I-PER
+(	O
+亀井善之	O
+)	O
+
+'	O
+''	O
+하기와라	B-PER
+마이	I-PER
+''	O
+'	O
+
+룽청	B-LOC
+구	I-LOC
+(	O
+榕城区	O
+)	O
+
+**	O
+광저우	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O

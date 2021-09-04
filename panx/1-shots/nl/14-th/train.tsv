@@ -1,0 +1,32 @@
+''	O
+Kampioen	B-ORG
+Serie	I-ORG
+A	I-ORG
+
+Als	O
+‘huwelijksreis’	O
+fungeerde	O
+een	O
+reis	O
+naar	O
+Weimar	B-LOC
+en	O
+Berlijn	B-LOC
+.	O
+
+DOORVERWIJZING	O
+Czyżew	B-LOC
+(	I-LOC
+gemeente	I-LOC
+)	I-LOC
+
+*Nero	O
+benoemd	O
+Titus	B-PER
+Flavius	I-PER
+Vespasianus	I-PER
+tot	O
+opperbevelhebber	O
+in	O
+Syria	B-ORG
+.	O

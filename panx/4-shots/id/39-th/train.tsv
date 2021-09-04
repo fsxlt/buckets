@@ -1,0 +1,94 @@
+**	O
+François	B-PER
+Fillon	I-PER
+,	O
+Perdana	B-ORG
+Menteri	I-ORG
+Perancis	I-ORG
+(	O
+2007–2012	O
+)	O
+
+Edisi	O
+ini	O
+juga	O
+memuat	O
+Edward	B-PER
+de	I-PER
+Vere	I-PER
+menggantikan	O
+William	B-PER
+Shakespeare	I-PER
+.	O
+
+Media	B-ORG
+Nusantara	I-ORG
+Citra	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Tarn-et-Garonne	I-LOC
+
+ALIH	O
+GMC	B-ORG
+(	I-ORG
+otomotif	I-ORG
+)	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Côte-d'Or	I-LOC
+
+Milos	B-PER
+Raonic	I-PER
+''	O
+(	O
+Semifinal	O
+)	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Dordogne	I-LOC
+
+Menurut	O
+Biro	B-ORG
+Sensus	I-ORG
+Amerika	I-ORG
+Serikat	I-ORG
+,	O
+Mentor	O
+mencakup	O
+wilayah	O
+seluas	O
+1,5	O
+km²	O
+,	O
+di	O
+mana	O
+1,4	O
+km²	O
+berupa	O
+daratan	O
+dan	O
+0,1	O
+km²	O
+perairan	O
+.	O
+
+Richard	B-PER
+Harris	I-PER
+sebagai	O
+Albus	B-PER
+Dumbledore	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gers	I-LOC

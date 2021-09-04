@@ -1,0 +1,94 @@
+L'image	O
+renvoyait	O
+sur	O
+Google	B-ORG
+Maps	I-ORG
+centré	O
+sur	O
+la	O
+Chine	B-LOC
+.	O
+
+Cape	B-ORG
+Town	I-ORG
+Stadium	I-ORG
+,	O
+Le	B-LOC
+Cap	I-LOC
+,	O
+Afrique	B-LOC
+du	I-LOC
+Sud	I-LOC
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Gironde	I-LOC
+
+Elisabetta	B-PER
+Perrone	I-PER
+42	O
+min	O
+12	O
+s	O
+
+Guillaume	B-PER
+VI	I-PER
+de	I-PER
+Juliers	I-PER
+
+Le	O
+climat	O
+est	O
+océanique	B-LOC
+avec	O
+des	O
+étés	O
+tempérés	O
+.	O
+
+REDIRECTION	O
+Temple	B-ORG
+de	I-ORG
+Garni	I-ORG
+
+Ghislain	B-PER
+de	I-PER
+Rasilly	I-PER
+
+Vallée	B-LOC
+de	I-LOC
+la	I-LOC
+Roya	I-LOC
+
+Elle	O
+est	O
+administrée	O
+directement	O
+par	O
+le	O
+Corps	B-ORG
+de	I-ORG
+production	I-ORG
+et	I-ORG
+de	I-ORG
+construction	I-ORG
+du	I-ORG
+Xinjiang	I-ORG
+(	O
+''Bingtuan	O
+''	O
+)	O
+.	O
+
+===	O
+Province	B-LOC
+de	I-LOC
+Teramo	I-LOC
+===	O
+
+Gudule	B-PER
+de	I-PER
+Bruxelles	I-PER

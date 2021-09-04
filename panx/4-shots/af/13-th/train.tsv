@@ -1,0 +1,141 @@
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Stefanus	I-PER
+II	I-PER
+.	O
+
+Boca	B-ORG
+Juniors	I-ORG
+is	O
+die	O
+huidige	O
+kampioene	O
+.	O
+
+Timur	O
+verslaan	O
+beide	O
+die	O
+Ottomaanse	B-LOC
+Ryk	I-LOC
+en	O
+die	O
+Mamluk	O
+Sultanaat	O
+van	O
+Egipte	B-LOC
+en	O
+verower	O
+die	O
+stad	O
+Damaskus	B-LOC
+in	O
+die	O
+hedendaagse	O
+Sirië	B-LOC
+.	O
+
+In	O
+die	O
+ooste	O
+word	O
+dit	O
+begrens	O
+deur	O
+'n	O
+580	O
+km	O
+kuslyn	O
+met	O
+die	O
+Middellandse	B-LOC
+See	I-LOC
+.	O
+
+Kannemeyer	B-PER
+,	I-PER
+J.C	I-PER
+.	O
+
+Opstand	B-ORG
+in	I-ORG
+die	I-ORG
+Warskou-ghetto	I-ORG
+
+'	O
+''	O
+Jordanië	B-LOC
+''	O
+'	O
+
+Adam	B-PER
+Tas	I-PER
+het	O
+in	O
+sy	O
+klagskrif	O
+onder	O
+meer	O
+ook	O
+teen	O
+ds	O
+.	O
+
+Telkom	B-ORG
+SA	I-ORG
+Bpk	I-ORG
+(	O
+50	O
+%	O
+)	O
+
+'	O
+''	O
+Blou	B-ORG
+Bulle	I-ORG
+''	O
+'	O
+
+Die	O
+Britse	B-LOC
+kolonie	O
+Gibraltar	B-LOC
+,	O
+aan	O
+die	O
+suidkus	O
+van	O
+Spanje	B-LOC
+.	O
+
+Lourens	B-PER
+van	I-PER
+der	I-PER
+Merwe	I-PER
+
+AANSTUUR	O
+Coke	B-LOC
+se	I-LOC
+hartbees	I-LOC
+
+Die	O
+eerste	O
+gedokumenteerde	O
+gebruik	O
+van	O
+'n	O
+georganiseerde	O
+koerierdiens	O
+vir	O
+die	O
+stuur	O
+van	O
+briewe	O
+is	O
+in	O
+Antieke	B-LOC
+Egipte	I-LOC
+.	O

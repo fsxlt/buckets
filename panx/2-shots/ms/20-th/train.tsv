@@ -1,0 +1,31 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vendée	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Essonne	I-LOC
+
+LENCONG	O
+Abdul	B-PER
+Rahman	I-PER
+I	I-PER
+
+Tony	B-PER
+Pua	I-PER
+Kiam	I-PER
+Wee	I-PER
+
+Ultraman	B-ORG
+Cosmos	I-ORG
+''	O
+(	O
+2001–2002	O
+)	O
+
+Tenaga	B-ORG
+Nasional	I-ORG
+Berhad	I-ORG
+HC	I-ORG

@@ -1,0 +1,98 @@
+'	O
+''	O
+The	B-ORG
+Pink	I-ORG
+Floyd	I-ORG
+and	I-ORG
+Syd	I-ORG
+Barrett	I-ORG
+Story	I-ORG
+''	O
+'	O
+''	O
+
+სტოკჰოლმი	B-LOC
+დაფუძნდა	O
+ბირგერ	B-PER
+იარლის	I-PER
+მიერ	O
+.	O
+
+მდებარეობს	O
+სამხრეთი	B-LOC
+ამერიკის	I-LOC
+ჩრდილოეთ-დასავლეთ	O
+ნაწილში	O
+.	O
+
+მდებარეობს	O
+ტავუშის	B-LOC
+პროვინციის	I-LOC
+სოფელ	O
+ჩინარში	B-LOC
+.	O
+
+*20	O
+/	O
+07	O
+/	O
+88	O
+ბარსელონა	B-LOC
+,	O
+ესპანეთი	B-LOC
+
+მისი	O
+ავტორია	O
+სიდ	B-PER
+ბარეტი	I-PER
+.	O
+
+ბარი	B-LOC
+(	I-LOC
+იტალია	I-LOC
+)	I-LOC
+
+საქართველოს	B-ORG
+განათლებისა	I-ORG
+და	I-ORG
+მეცნიერების	I-ORG
+სამინისტრო	I-ORG
+
+რობერტ	B-ORG
+დაუნი	I-ORG
+უმცროსი	I-ORG
+-	O
+ტონი	B-PER
+სტარკი	I-PER
+/	I-PER
+რკინის	I-PER
+კაცი	I-PER
+
+ფილ	B-PER
+კემპბელი	I-PER
+–	O
+გიტარა	B-ORG
+,	O
+შემცვლელი	O
+ვოკალი	O
+(	O
+1984–დღემდე	O
+)	O
+
+'	O
+''	O
+ბოსტონ	B-ORG
+სელტიკსი	I-ORG
+''	O
+'†	O
+
+აღმოსავლეთიდან	O
+ესაზღვრება	O
+ლიმონის	B-LOC
+პროვინცია	I-LOC
+,	O
+დასავლეთით	O
+კი	O
+სან-ხოსეს	B-LOC
+პროვინცია	I-LOC
+.	O

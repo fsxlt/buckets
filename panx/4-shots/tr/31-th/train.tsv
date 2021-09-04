@@ -1,0 +1,95 @@
+Madison	B-PER
+Chock	I-PER
+/	O
+Greg	B-PER
+Zuerlein	I-PER
+
+YÖNLENDİRME	O
+Bozhüyük	B-LOC
+,	I-LOC
+Adıyaman	I-LOC
+
+1990'lu	O
+yıllarda	O
+tahliye	O
+olup	O
+Lübnan'da	B-LOC
+Bekaa	B-LOC
+Vadisi'ne	I-LOC
+gitti	O
+.	O
+
+Üsküdar	B-ORG
+Valide-i	I-ORG
+Atik	I-ORG
+Camii	I-ORG
+
+'	O
+''	O
+Anthony	B-PER
+Hopkins	I-PER
+''	O
+'	O
+
+YÖNLENDİRME	O
+2006-07	B-LOC
+UEFA	I-LOC
+Kadınlar	I-LOC
+Kupası	I-LOC
+
+**	O
+Endonezya'da	B-LOC
+7'si	O
+yabancı	O
+8	O
+mahkûm	O
+uyuşturucu	O
+ticaretinden	O
+suçlu	O
+bulunarak	O
+idam	O
+edildi	O
+.	O
+
+1926-1939	O
+yılları	O
+arasında	O
+57	O
+maçta	O
+Çekoslovakya	B-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı'nda	I-ORG
+yer	O
+aldı	O
+.	O
+
+YÖNLENDİR	O
+Bayağı	B-LOC
+kara	I-LOC
+ördek	I-LOC
+
+Mehmed	B-PER
+Akif	I-PER
+Paşa	I-PER
+''2	O
+.	O
+
+Peter	B-PER
+Parker	I-PER
+/	I-PER
+Spider-Man	I-PER
+
+How	B-ORG
+I	I-ORG
+Met	I-ORG
+Your	I-ORG
+Mother	I-ORG
+''	O
+
+BK	B-ORG
+Donetsk	I-ORG
+B	O
+(	O
+1	O
+)	O

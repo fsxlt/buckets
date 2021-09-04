@@ -1,0 +1,85 @@
+BIRZUZENDU	O
+Pöyrisjärviko	B-LOC
+Eremu	I-LOC
+Basatia	I-LOC
+
+Espainia	B-LOC
+(	O
+Ceuta	B-LOC
+eta	O
+Melillak	B-LOC
+xedapen	O
+bereziak	O
+dituzte	O
+)	O
+
+Valencia	B-ORG
+Club	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+
+Léon	B-PER
+Vanderkindere	I-PER
+(	O
+1899-1906	O
+)	O
+
+Maiatzaren	B-LOC
+30a	I-LOC
+-	O
+Karlos	B-PER
+IX.a	I-PER
+Frantziakoa	I-PER
+,	O
+Frantziako	B-ORG
+erregea	I-ORG
+(	O
+j	O
+.	O
+
+BIRZUZENDU	O
+El	B-ORG
+Corte	I-ORG
+Inglés	I-ORG
+
+Protagonista	O
+nagusia	O
+Angela	B-PER
+Lansbury	I-PER
+aktorea	O
+zen	O
+.	O
+
+'	O
+''	O
+Bilbao	B-ORG
+Athletic	I-ORG
+''	O
+'	O
+
+Sault-de-Navailles	B-LOC
+''	O
+(	O
+197	O
+.	O
+
+Lodiko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lombardia	B-LOC
+eskualdean	O
+.	O
+
+La	B-LOC
+Crau	I-LOC
+(	O
+CVG	O
+)	O
+
+Urraka	B-PER
+Gaztelakoa	I-PER
+(	O
+1109–1126	O
+)	O

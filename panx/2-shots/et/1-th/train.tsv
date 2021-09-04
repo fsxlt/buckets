@@ -1,0 +1,64 @@
+New	B-ORG
+Yorgi	I-ORG
+moodsa	I-ORG
+kunsti	I-ORG
+muuseum	I-ORG
+
+Mark	B-PER
+Hoppus	I-PER
+(	O
+1972–	O
+)	O
+
+Mõnede	O
+üleujutuste	O
+ajal	O
+jõuab	O
+Kaspia	B-LOC
+mereni	I-LOC
+.	O
+
+Han-Tengrit	B-LOC
+(	O
+7010	O
+m	O
+)	O
+,	O
+mis	O
+on	O
+neist	O
+tehniliselt	O
+üks	O
+raskemaid	O
+,	O
+ei	O
+loetud	O
+toona	O
+7000-seks	O
+(	O
+ilma	O
+liustikuta	O
+6995	O
+m	O
+)	O
+.	O
+
+Asub	O
+Soome	B-LOC
+lahe	I-LOC
+kaldal	O
+.	O
+
+Otto	B-PER
+von	I-PER
+Habsburg	I-PER
+,	O
+poliitik	O
+(	O
+1912–2011	O
+)	O
+
+Metallica	B-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG

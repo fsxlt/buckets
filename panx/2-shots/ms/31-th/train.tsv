@@ -1,0 +1,36 @@
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Catalonia	I-ORG
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Karst	I-PER
+
+**	O
+Sekolah	B-ORG
+Menengah	I-ORG
+Jenis	I-ORG
+Kebangsaan	I-ORG
+Keat	I-ORG
+Hwa	I-ORG
+
+LENCONG	O
+Lada	B-LOC
+,	I-LOC
+Daerah	I-LOC
+Prešov	I-LOC
+
+Stephen	B-PER
+Kalong	I-PER
+Ningkan	I-PER
+(	O
+Penggal	O
+pertama	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Indre-et-Loire	I-LOC

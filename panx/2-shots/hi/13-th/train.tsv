@@ -1,0 +1,31 @@
+वसुन्धरा	B-PER
+राजे	I-PER
+सिंधिया	I-PER
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+५६	I-ORG
+
+सैन	B-LOC
+जुआन	I-LOC
+प्रान्त	I-LOC
+,	I-LOC
+अर्जेन्टीना	I-LOC
+
+एस॰	B-PER
+पी॰	I-PER
+बालासुब्रमण्यम	I-PER
+
+==	O
+जम्मू	B-LOC
+और	I-LOC
+कश्मीर	I-LOC
+==	O
+
+अनुप्रेषित	O
+भारतीय	B-ORG
+कम्युनिस्ट	I-ORG
+पार्टी	I-ORG
+(	I-ORG
+मार्क्सवादी	I-ORG
+)	I-ORG

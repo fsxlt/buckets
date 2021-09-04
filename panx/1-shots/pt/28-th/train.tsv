@@ -1,0 +1,19 @@
+Vitória	B-LOC
+(	I-LOC
+Espírito	I-LOC
+Santo	I-LOC
+)	I-LOC
+
+'	O
+''	O
+José	B-PER
+Ruperto	I-PER
+Monagas	I-PER
+''	O
+'	O
+
+Liga	B-ORG
+Brasileira	I-ORG
+de	I-ORG
+Futebol	I-ORG
+Americano	I-ORG

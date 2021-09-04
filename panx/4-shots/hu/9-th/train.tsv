@@ -1,0 +1,120 @@
+'	O
+''	O
+Chick	B-PER
+Coreával	I-PER
+''	O
+'	O
+
+''	O
+Német-római	B-ORG
+Birodalom	I-ORG
+''	O
+'	O
+–	O
+I.	B-PER
+''Nagy	I-PER
+''	I-PER
+Ottó	I-PER
+császár	B-PER
+(	O
+936–973	O
+)	O
+
+Cornelis	B-PER
+Johannes	I-PER
+van	I-PER
+Houten	I-PER
+,	O
+Ingrid	B-PER
+van	I-PER
+Houten-Groeneveld	I-PER
+,	O
+Tom	B-PER
+Gehrels	I-PER
+
+Vénusz	B-ORG
+projekt	I-ORG
+,	O
+társadalmi	O
+rendszer	O
+,	O
+jövőkép	O
+,	O
+új	O
+módja	O
+a	O
+gondolkodásnak	O
+
+*2008	O
+Valencia	B-LOC
+Street	I-LOC
+Circuit	I-LOC
+,	O
+Spanyolország	B-LOC
+
+)	O
+''	O
+Macedón	B-ORG
+labdarúgó-bajnokság	I-ORG
+(	O
+5,875	O
+)	O
+
+ÁTIRÁNYÍTÁS	O
+Kırıkkale	B-LOC
+(	I-LOC
+tartomány	I-LOC
+)	I-LOC
+
+A	O
+falu	O
+Székelykeresztúrtól	B-LOC
+14	O
+km-re	O
+északkeletre	O
+,	O
+a	O
+Gada-	O
+,	O
+a	O
+Szalon-	O
+és	O
+a	O
+Szalom-patakok	O
+Nyikóba	B-LOC
+torkollásánál	O
+fekszik	O
+.	O
+
+Közigazgatási	O
+központja	O
+Coronel	B-LOC
+Marcelino	I-LOC
+Maridueña	I-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Saint-Angel	B-LOC
+(	I-LOC
+Puy-de-Dôme	I-LOC
+)	I-LOC
+
+Keletről	O
+Ukrajna	B-LOC
+határolja	O
+,	O
+nyugatról	O
+Moldova	B-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Frank	B-PER
+de	I-PER
+Bleeckere	I-PER
+
+a	O
+Cartoon	B-ORG
+Network	I-ORG
+sugározta	O
+)	O
+.	O

@@ -1,0 +1,81 @@
+ویسٹ	B-LOC
+فیلڈ	I-LOC
+(	I-LOC
+گاؤں	I-LOC
+)	I-LOC
+،	I-LOC
+نیو	I-LOC
+یارک	I-LOC
+
+رجوع_مکرر	O
+سرخ	B-LOC
+سینہ	I-LOC
+مکاؤ	I-LOC
+
+رجوع_مکرر	O
+شوگر	B-LOC
+ہل،	I-LOC
+نیو	I-LOC
+ہیمپشائر	I-LOC
+
+رجوع_مکرر	O
+نوح	B-PER
+علیہ	I-PER
+السلام	I-PER
+
+رجوع_مکرر	O
+ستارہ	B-PER
+(	I-PER
+اداکارہ	I-PER
+)	I-PER
+
+کیانگ	B-ORG
+نام	I-ORG
+ہنوئی	I-ORG
+لینڈ	I-ORG
+مارک	I-ORG
+ٹاور	I-ORG
+
+رجوع_مکرر	O
+2012ء	B-ORG
+گرمائی	I-ORG
+اولمپکس	I-ORG
+میں	I-ORG
+ایتھلیٹکس	I-ORG
+
+رجوع_مکرر	O
+ضیاء	B-PER
+فتح	I-PER
+آبادی	I-PER
+
+رجوع_مکرر	O
+لوہی	B-ORG
+بھیر	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+مجموعہ	B-LOC
+الجزائر	I-LOC
+سان	I-LOC
+اندریس،	I-LOC
+پروودینسیا	I-LOC
+اور	I-LOC
+سانتا	I-LOC
+کاتالینا	I-LOC
+
+*2007-08	O
+-	O
+سوئی	B-ORG
+ناردرن	I-ORG
+گیس	I-ORG
+پائپ	I-ORG
+لائنز	I-ORG
+لمیٹڈ	I-ORG
+
+امینہ	B-PER
+گل	I-PER
+بہار	I-PER
+خاتون	I-PER
+یا	O
+مکرم	O

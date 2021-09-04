@@ -1,0 +1,27 @@
+Học	B-ORG
+viện	I-ORG
+Kỹ	I-ORG
+thuật	I-ORG
+Quân	I-ORG
+sự	I-ORG
+,	O
+
+Khu	B-LOC
+di	I-LOC
+tích	I-LOC
+Chichén	I-LOC
+Itzá	I-LOC
+
+đổi	O
+Henri	B-PER
+,	I-PER
+Đại	I-PER
+Công	I-PER
+tước	I-PER
+Luxembourg	I-PER
+
+Zimbabwe	B-LOC
+–	O
+Ngày	O
+Độc	O
+lập	O

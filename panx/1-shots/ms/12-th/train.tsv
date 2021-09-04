@@ -1,0 +1,20 @@
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+Malaysia	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Ille-et-Vilaine	I-LOC
+
+Cerita	O
+ini	O
+pertama	O
+kali	O
+diterbitkan	O
+oleh	O
+Charles	B-PER
+Perrault	I-PER
+.	O

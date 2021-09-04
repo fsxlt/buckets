@@ -1,0 +1,34 @@
+***	O
+Gwen	B-PER
+Stefani	I-PER
+—	O
+``	O
+Hollaback	B-ORG
+Girl	I-ORG
+''	O
+
+``	O
+Breaking	B-ORG
+the	I-ORG
+Habit	I-ORG
+''	O
+
+.hm	B-ORG
+–	O
+Đảo	B-LOC
+Heard	I-LOC
+và	I-LOC
+quần	I-LOC
+đảo	I-LOC
+McDonald	I-LOC
+
+Giáo	B-PER
+hoàng	I-PER
+đối	I-PER
+lập	I-PER
+Pascalê	I-PER
+
+đổi	O
+Thàn	B-LOC
+mát	I-LOC
+tía	I-LOC

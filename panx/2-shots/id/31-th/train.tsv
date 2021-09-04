@@ -1,0 +1,32 @@
+ALIH	O
+Legiun	B-ORG
+Asing	I-ORG
+Perancis	I-ORG
+
+Paul	B-PER
+McCartney	I-PER
+–	O
+Chaos	B-ORG
+and	I-ORG
+Creation	I-ORG
+in	I-ORG
+the	I-ORG
+Backyard	I-ORG
+''	O
+
+ALIH	O
+Martin	B-PER
+dari	I-PER
+Porres	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pyrénées-Atlantiques	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gard	I-LOC

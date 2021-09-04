@@ -1,0 +1,29 @@
+C.D.	B-ORG
+Atlético	I-ORG
+Junior	I-ORG
+
+Taunton	B-LOC
+Vale	I-LOC
+Sports	I-LOC
+Club	I-LOC
+Ground	I-LOC
+
+Jesse	B-PER
+D.	I-PER
+Bright	I-PER
+(	O
+D	O
+)	O
+
+*2004	O
+:	O
+Be	B-ORG
+Here	I-ORG
+''	O
+by	O
+Keith	B-PER
+Urban	I-PER
+
+Yellowwood	B-LOC
+State	I-LOC
+Forest	I-LOC

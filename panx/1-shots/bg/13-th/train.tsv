@@ -1,0 +1,26 @@
+Играл	O
+е	O
+в	O
+Евро	B-ORG
+2000	I-ORG
+и	O
+Световното	B-ORG
+първенство	I-ORG
+по	I-ORG
+футбол	I-ORG
+през	I-ORG
+1998	I-ORG
+.	O
+
+Ричард	B-PER
+Арнолд	I-PER
+и	O
+Стивън	B-PER
+Суонсън	I-PER
+
+пренасочване	O
+Градец	B-LOC
+(	I-LOC
+област	I-LOC
+Сливен	I-LOC
+)	I-LOC

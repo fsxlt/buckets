@@ -1,0 +1,40 @@
+Enkyori	O
+Poster	O
+(	O
+Sakura	B-ORG
+no	I-ORG
+Shiori	I-ORG
+)	O
+
+'	O
+''	O
+Mohammed	B-PER
+Ghaddar	I-PER
+''	O
+'	O
+
+Adakah	O
+Severus	B-PER
+Snape	I-PER
+Baik	O
+atau	O
+Jahat	O
+?	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC
+
+Kuala	B-LOC
+Lumpur	I-LOC
+melalui	O
+Lebuhraya	B-ORG
+Cheras-Kajang	I-ORG
+dan	O
+Jalan	B-ORG
+Lingkaran	I-ORG
+Tengah	I-ORG
+2	I-ORG
+Kuala	I-ORG
+Lumpur	I-ORG

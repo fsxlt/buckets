@@ -1,0 +1,61 @@
+Administratiboki	O
+Frantziako	B-LOC
+Var	B-LOC
+departamenduan	O
+dago	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+Reggio	B-LOC
+di	I-LOC
+Calabriako	I-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Calabria	B-LOC
+eskualdean	O
+.	O
+
+Leskarreko	B-ORG
+katedralean	I-ORG
+lurperatu	O
+zuten	O
+.	O
+
+Unicaja	B-ORG
+Málaga	I-ORG
+(	O
+1991-1992	O
+)	O
+
+Xabier	B-PER
+Zubiri	I-PER
+(	O
+1898-1983	O
+)	O
+
+Gaur	O
+egun	O
+galduta	O
+dagoen	O
+bere	O
+''Tangentziak	O
+''	O
+edo	O
+''Loturak	O
+''	O
+lanean	O
+,	O
+agertzen	O
+da	O
+,	O
+Pappus	B-PER
+Alexandriakoari	I-PER
+esker	O
+ezagutzen	O
+dena	O
+.	O

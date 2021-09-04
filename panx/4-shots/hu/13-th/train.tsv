@@ -1,0 +1,113 @@
+Igor	B-PER
+Vasziljevics	I-PER
+Kurcsatovról	I-PER
+nevezték	O
+el	O
+.	O
+
+Ennél	O
+az	O
+állomásnál	O
+található	O
+a	O
+Ferencvárosi	B-ORG
+TC	I-ORG
+Groupama	B-LOC
+Aréna	I-LOC
+stadionja	O
+.	O
+
+Perczel	B-PER
+Zita	I-PER
+(	O
+1918–1996	O
+)	O
+
+Utah	B-ORG
+Jazz	I-ORG
+(	O
+11	O
+)	O
+
+Cumagyini	B-LOC
+járás	I-LOC
+(	O
+Цумадинский	O
+)	O
+
+Üllői	B-ORG
+úti	I-ORG
+Stadion	I-ORG
+,	O
+Budapest	B-LOC
+
+Közigazgatásilag	O
+Sundini	B-LOC
+községhez	I-LOC
+tartozik	O
+.	O
+
+Hajdúböszörményben	B-LOC
+hat	O
+hétig	O
+tartják	O
+fogva	O
+,	O
+mire	O
+igazolja	O
+,	O
+hogy	O
+a	O
+város	O
+méneséből	O
+saját	O
+lovait	O
+szakította	O
+ki	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Aba	B-LOC
+(	I-LOC
+Magyarország	I-LOC
+)	I-LOC
+
+Fernand	B-PER
+Jaccard	I-PER
+(	O
+1937–1939	O
+)	O
+
+Timo	B-PER
+Bernhard	I-PER
+Sascha	B-PER
+Maassen	I-PER
+Romain	B-PER
+Dumas	I-PER
+
+A	O
+Lahn-völgyhíd	B-LOC
+után	O
+a	O
+110.	O
+vonalkilométernél	O
+eléri	O
+végül	O
+Limburg	B-ORG
+Süd	I-ORG
+vasútállomást	I-ORG
+,	O
+amely	O
+a	O
+Németország	B-LOC
+egyetlen	O
+kizárólag	O
+ICE-vonatok	B-ORG
+által	O
+kiszolgált	O
+állomása	O
+kétes	O
+értékű	O
+kitüntetésben	O
+díszeleghet	O
+.	O

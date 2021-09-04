@@ -1,0 +1,103 @@
+تحويل	O
+جامع	B-ORG
+الشيخ	I-ORG
+زايد	I-ORG
+
+مقاطعة	B-LOC
+غلوستر	I-LOC
+(	I-LOC
+نيو	I-LOC
+جيرسي	I-LOC
+)	I-LOC
+
+تحويل	O
+سيلفر	B-LOC
+كريك	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+وتعد	O
+تونس	B-LOC
+من	O
+أصغر	O
+الأقطار	O
+المغرب	B-LOC
+العربي	I-LOC
+حيث	O
+تبلغ	O
+مساحتها	O
+163610	O
+كم2،	O
+لكنها	O
+الأكثر	O
+تأثرا	O
+البحر	B-LOC
+الأبيض	I-LOC
+المتوسط	I-LOC
+الذي	O
+يحيط	O
+بها	O
+من	O
+الشمال	O
+والشرق	O
+ولذلك	O
+انعكاس	O
+على	O
+المجال	O
+الطبيعي	O
+رغم	O
+ضيقه	O
+.	O
+
+تحويل	O
+هاري	B-LOC
+بوتر	I-LOC
+والأمير	I-LOC
+الهجين	I-LOC
+
+تعلم	O
+في	O
+جامعة	B-ORG
+كولومبيا	I-ORG
+.	O
+
+'	O
+''	O
+لاباما	B-PER
+بوكوتا	I-PER
+''	O
+'	O
+
+تحويل	O
+إسماعيل	B-PER
+بن	I-PER
+عبيد	I-PER
+الله	I-PER
+بن	I-PER
+أبي	I-PER
+المهاجر	I-PER
+
+الأهلي	B-ORG
+الليبي	I-ORG
+(	I-ORG
+بنغازي	I-ORG
+)	I-ORG
+
+تحويل	O
+مزعل	B-PER
+بن	I-PER
+جابر	I-PER
+الكعبي	I-PER
+
+اتحاد	B-ORG
+المنظمات	I-ORG
+الإسلامية	I-ORG
+في	I-ORG
+أوروبا	I-ORG
+
+جولي	B-PER
+هالارد	I-PER
+ديكوجيس	I-PER
+أنكه	B-PER
+هوبر	I-PER

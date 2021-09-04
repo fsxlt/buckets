@@ -1,0 +1,40 @@
+Kanisa	B-ORG
+Katoliki	I-ORG
+la	I-ORG
+Waeritrea	I-ORG
+
+``	O
+Saving	B-ORG
+All	I-ORG
+My	I-ORG
+Love	I-ORG
+for	I-ORG
+You	I-ORG
+''	O
+
+Gerardus	B-PER
+'t	I-PER
+Hooft	I-PER
+
+24	B-ORG
+''	O
+(	O
+2005	O
+-	O
+2009	O
+)	O
+kama	O
+Bill	B-PER
+Buchanan	I-PER
+
+Belleville	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+53805	O
+.	O

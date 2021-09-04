@@ -1,0 +1,80 @@
+Grand	B-ORG
+Prix	I-ORG
+F1	I-ORG
+Brasil	I-ORG
+2004	I-ORG
+
+ALIH	O
+Guillaume	B-PER
+V	I-PER
+dari	I-PER
+Aquitaine	I-PER
+
+I	B-ORG
+Can	I-ORG
+Hear	I-ORG
+Your	I-ORG
+Voice	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loire-Atlantique	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Saône	I-LOC
+
+Hyde	B-ORG
+,	I-ORG
+Jekyll	I-ORG
+,	I-ORG
+Me	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Gers	I-LOC
+
+Philipp	B-PER
+Etter	I-PER
+(	O
+1891-1977	O
+)	O
+
+Dale	B-PER
+Carnegie	I-PER
+,	O
+Albert	B-PER
+Einstein	I-PER
+,	O
+Dr.	B-PER
+Seuss	I-PER
+
+'	O
+''	O
+Glenn	B-PER
+Fredly	I-PER
+-	O
+Tega	O
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Isère	I-LOC
+
+When	B-ORG
+Dream	I-ORG
+and	I-ORG
+Day	I-ORG
+Unite	I-ORG
+''	O

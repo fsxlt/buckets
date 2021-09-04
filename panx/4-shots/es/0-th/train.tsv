@@ -1,0 +1,78 @@
+Se	O
+encuentra	O
+en	O
+Madagascar	B-LOC
+y	O
+Nueva	B-LOC
+Zelanda	I-LOC
+.	O
+
+Escuela	B-ORG
+Naval	I-ORG
+del	I-ORG
+Perú	I-ORG
+
+redirección	O
+Orden	B-ORG
+de	I-ORG
+la	I-ORG
+Merced	I-ORG
+
+'	O
+''	O
+Diego	B-PER
+Nargiso	I-PER
+''	O
+'	O
+
+REDIRECCIÓN	O
+Pozuelo	B-LOC
+del	I-LOC
+Páramo	I-LOC
+
+Copa	B-ORG
+Mundial	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+de	I-ORG
+1974	I-ORG
+
+Harry	B-PER
+S.	I-PER
+Truman	I-PER
+(	O
+1884–1972	O
+)	O
+,	O
+presidente	O
+
+redirección	O
+Josep	B-PER
+Maria	I-PER
+Guzmán	I-PER
+Cañas	I-PER
+
+Actualmente	O
+reside	O
+en	O
+Los	B-LOC
+Angeles	I-LOC
+.	O
+
+Copa	B-LOC
+de	I-LOC
+Naciones	I-LOC
+del	I-LOC
+Golfo	I-LOC
+
+REDIRECCIÓN	O
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Senegal	I-ORG
+
+Ricardo	B-PER
+Blume	I-PER
+,	O
+Actor	O

@@ -1,0 +1,50 @@
+남서쪽으로는	O
+아카바	B-LOC
+주	I-LOC
+,	O
+북서쪽으로는	O
+타필라	B-LOC
+주	I-LOC
+,	O
+카라크	B-LOC
+주와	I-LOC
+인접해	O
+있으며	O
+북쪽으로는	O
+암만	B-LOC
+주	I-LOC
+,	O
+동쪽으로는	O
+사우디아라비아와	B-LOC
+인접해	O
+있다	O
+.	O
+
+**	O
+■	O
+서울	B-ORG
+지하철	I-ORG
+2호선	I-ORG
+
+넘겨주기	O
+오즈와우두	B-PER
+지	I-PER
+올리베이라	I-PER
+
+아이우통	B-PER
+''	O
+(	O
+베르더	B-ORG
+브레멘	I-ORG
+)	O
+''	O
+
+철원군	B-LOC
+(	I-LOC
+남	I-LOC
+)	I-LOC
+
+프란시스코	B-PER
+아쿠냐	I-PER
+데	I-PER
+피게로아	I-PER

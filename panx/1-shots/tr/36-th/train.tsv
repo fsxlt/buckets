@@ -1,0 +1,34 @@
+Aynı	O
+yıl	O
+,	O
+ilk	O
+müze	O
+müdürü	O
+olarak	O
+Galatasaray	B-ORG
+Lisesi	I-ORG
+öğretmenlerinden	O
+''Dr	O
+.	O
+
+Viña	B-LOC
+del	I-LOC
+Mar	I-LOC
+,	O
+Şili	B-LOC
+
+Türkiye'de	B-LOC
+Digiturk	B-ORG
+platformunda	O
+yayın	O
+yapmış	O
+fakat	O
+sonradan	O
+kapanmıştır	O
+.	O
+
+Teknik	O
+direktör	O
+:	O
+Enzo	B-PER
+Bearzot	I-PER

@@ -1,0 +1,65 @@
+виж	O
+Обявяване	B-ORG
+на	I-ORG
+независимостта	I-ORG
+на	I-ORG
+България	I-ORG
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Бразилия	B-LOC
+,	O
+Венецуела	B-LOC
+,	O
+Гвиана	B-LOC
+,	O
+Суринам	B-LOC
+и	O
+Френска	B-LOC
+Гвиана	I-LOC
+.	O
+
+30px]]	O
+'	O
+''	O
+Дженсън	B-PER
+Бътън	I-PER
+''	O
+'	O
+
+Луций	B-PER
+Емилий	I-PER
+Павел	I-PER
+(	I-PER
+консул	I-PER
+219	I-PER
+пр.н.е	I-PER
+.	I-PER
+)	I-PER
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Еквадор	B-LOC
+,	O
+Колумбия	B-LOC
+,	O
+Коста	B-LOC
+Рика	I-LOC
+,	O
+Никарагуа	B-LOC
+,	O
+Панама	B-LOC
+и	O
+Хондурас	B-LOC
+.	O
+
+виж	O
+Програма	B-ORG
+на	I-ORG
+ООН	I-ORG
+за	I-ORG
+развитие	I-ORG

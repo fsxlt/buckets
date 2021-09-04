@@ -1,0 +1,32 @@
+2002	O
+NHL	B-ORG
+All-Star	I-ORG
+Game	I-ORG
+
+Die	O
+Nachbargemeinden	O
+sind	O
+Berzano	B-LOC
+di	I-LOC
+Tortona	I-LOC
+,	O
+Montegioco	B-LOC
+,	O
+Montemarzino	B-LOC
+,	O
+Sarezzano	B-LOC
+,	O
+Volpedo	B-LOC
+und	O
+Volpeglino	B-LOC
+.	O
+
+Timothy	B-PER
+Laurence	I-PER
+,	O
+Vizeadmiral	B-ORG
+,	O
+Heirat	O
+am	O
+12	O
+.	O

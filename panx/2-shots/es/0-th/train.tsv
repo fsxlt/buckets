@@ -1,0 +1,44 @@
+Se	O
+encuentra	O
+en	O
+Madagascar	B-LOC
+y	O
+Nueva	B-LOC
+Zelanda	I-LOC
+.	O
+
+'	O
+''	O
+Diego	B-PER
+Nargiso	I-PER
+''	O
+'	O
+
+Harry	B-PER
+S.	I-PER
+Truman	I-PER
+(	O
+1884–1972	O
+)	O
+,	O
+presidente	O
+
+REDIRECCIÓN	O
+Agustín	B-ORG
+Codazzi	I-ORG
+(	I-ORG
+Cesar	I-ORG
+)	I-ORG
+
+Territorios	B-LOC
+de	I-LOC
+los	I-LOC
+Estados	I-LOC
+Unidos	I-LOC
+
+REDIRECCIÓN	O
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Senegal	I-ORG

@@ -1,0 +1,42 @@
+''	O
+Hypercompe	B-LOC
+brasiliensis	I-LOC
+''	O
+
+đổi	O
+Amou	B-LOC
+,	I-LOC
+Landes	I-LOC
+
+``	O
+I	B-ORG
+Know	I-ORG
+You	I-ORG
+Want	I-ORG
+Me	I-ORG
+(	I-ORG
+Calle	I-ORG
+Ocho	I-ORG
+)	I-ORG
+''	O
+—	O
+Pitbull	B-PER
+
+đổi	O
+Ptolemaios	B-PER
+III	I-PER
+Euergetes	I-PER
+
+''	O
+Always	B-ORG
+Be	I-ORG
+My	I-ORG
+Baby	I-ORG
+''	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+''	O
+'	O

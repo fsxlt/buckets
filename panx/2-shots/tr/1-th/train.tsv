@@ -1,0 +1,28 @@
+Scarlett	B-PER
+Johansson	I-PER
+ve	O
+Joaquin	B-PER
+Phoenix	I-PER
+
+YÖNLENDİRME	O
+2004-05	B-LOC
+FA	I-LOC
+Premier	I-LOC
+League	I-LOC
+
+YÖNLENDİRME	O
+Türk	B-ORG
+Hava	I-ORG
+Yolları	I-ORG
+
+YÖNLENDİRME	O
+Groß-Rosen	B-LOC
+Toplama	I-LOC
+Kampı	I-LOC
+
+**	O
+Shawn	B-PER
+Bradley	I-PER
+,	O
+Philadelphia	B-ORG
+76ers	I-ORG

@@ -1,0 +1,76 @@
+ALIH	O
+Piala	B-ORG
+Dunia	I-ORG
+FIFA	I-ORG
+2006	I-ORG
+
+ALIH	O
+I	B-ORG
+Am	I-ORG
+...	I-ORG
+Sasha	I-ORG
+Fierce	I-ORG
+
+Dalam	O
+``	O
+Gomen	B-ORG
+ne	I-ORG
+,	I-ORG
+Summer	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+ALIH	O
+Frank	B-PER
+Sherwood	I-PER
+Rowland	I-PER
+
+Jeongjong	B-PER
+dari	I-PER
+Joseon	I-PER
+
+Kabupaten	B-LOC
+Aceh	I-LOC
+Timur	I-LOC
+,	O
+5	O
+.	O
+
+ALIH	O
+Bertha	B-PER
+dari	I-PER
+Artois	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Loire	I-LOC
+
+Direktur	O
+Utama	O
+NET	B-ORG
+.	I-ORG
+(	O
+2013-sekarang	O
+)	O
+
+ALIH	O
+Republik	B-LOC
+Sosialis	I-LOC
+Soviet	I-LOC
+Uzbekistan	I-LOC
+
+ALIH	O
+Yves	B-PER
+Saint	I-PER
+Laurent	I-PER
+(	I-PER
+perancang	I-PER
+busana	I-PER
+)	I-PER

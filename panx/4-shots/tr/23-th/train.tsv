@@ -1,0 +1,110 @@
+David	B-PER
+Ferrer	I-PER
+(	O
+16	O
+)	O
+
+YÖNLENDİRME	O
+II.	B-PER
+Gustav	I-PER
+Adolf	I-PER
+
+Eurovision	B-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+Estonya	I-LOC
+
+Savaş	O
+sırasında	O
+ve	O
+sonrasında	O
+Amerika	B-LOC
+Birleşik	I-LOC
+Devletleri	I-LOC
+,	O
+Hindistan'a	B-LOC
+destek	O
+olmuştur	O
+.	O
+
+Seattle	B-ORG
+SuperSonics	I-ORG
+Oklahoma	B-ORG
+City	I-ORG
+Thunder	I-ORG
+
+Cheick	B-PER
+Tioté	I-PER
+(	O
+Twente	B-ORG
+)	O
+
+Amanda	B-PER
+Seyfried	I-PER
+-Sophie	O
+,	O
+Donna'nın	O
+kızı	O
+ve	O
+Sky'ın	O
+nişanlısı	O
+.	O
+
+Azerbaycan	B-LOC
+adına	O
+yarışan	O
+Ell	B-ORG
+&	I-ORG
+Nikki'nin	I-ORG
+2011	B-ORG
+yarışmasını	I-ORG
+kazanmasının	O
+ardından	O
+Azerbaycan'ın	B-LOC
+başkenti	O
+Bakü'de	B-LOC
+düzenlendi	O
+.	O
+
+YÖNLENDİRME	O
+Kuyu	B-ORG
+ve	I-ORG
+Sarkaç	I-ORG
+
+Sentenced	B-ORG
+ilk	O
+iki	O
+albümü	O
+ve	O
+piyasaya	O
+sürdüğü	O
+diğer	O
+ürünlerle	O
+kendisine	O
+yer	O
+edinmeye	O
+başlamıştı	O
+.	O
+
+YÖNLENDİRME	O
+1997-98	B-LOC
+UEFA	I-LOC
+Şampiyonlar	I-LOC
+Ligi	I-LOC
+
+Daha	O
+sonra	O
+Cerezo	B-ORG
+Osaka	I-ORG
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+YÖNLENDİRME	O
+Eurovision	B-LOC
+Çocuk	I-LOC
+Şarkı	I-LOC
+Yarışması'nda	I-LOC
+Beyaz	I-LOC
+Rusya	I-LOC

@@ -1,0 +1,52 @@
+Arusha	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Alimfuata	O
+Papa	B-PER
+Formosus	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Stefano	I-PER
+VI	I-PER
+.	O
+
+Previously	O
+Omar	B-PER
+Bongo	I-PER
+;	O
+amekuwa	O
+akiwa	O
+madarakani	O
+
+Shirika	B-ORG
+la	I-ORG
+Huduma	I-ORG
+kwa	I-ORG
+Wanyama	I-ORG
+Pori	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+Mifano	O
+ni	O
+siku	O
+hizi	O
+hasa	O
+Jumuiya	B-ORG
+ya	I-ORG
+Madola	I-ORG
+.	O
+
+Red	B-LOC
+Deer	I-LOC
+,	I-LOC
+Alberta	I-LOC
+
+'	O
+''	O
+Omani	B-LOC
+''	O
+'	O

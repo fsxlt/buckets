@@ -1,0 +1,60 @@
+'	O
+''	O
+Ivan	B-PER
+Ljubičić	I-PER
+''	O
+'	O
+
+Krásný	B-LOC
+Les	I-LOC
+(	I-LOC
+Karlovy	I-LOC
+Vary-i	I-LOC
+járás	I-LOC
+)	I-LOC
+
+Ennek	O
+fő	O
+oka	O
+az	O
+volt	O
+,	O
+hogy	O
+csak	O
+kevés	O
+szolgáltatónál	O
+volt	O
+jelen	O
+,	O
+műholdon	O
+csak	O
+a	O
+Digi	B-ORG
+TV	I-ORG
+csomagjában	O
+volt	O
+benne	O
+.	O
+
+*1990	O
+•	O
+Kunstmesse	O
+,	O
+Frankfurt	B-LOC
+am	I-LOC
+Main	I-LOC
+
+''	O
+(	O
+Kiadásának	O
+költségeit	O
+Majláth	B-PER
+György	I-PER
+fedezte	O
+)	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Lengyelország	B-ORG
+Nemzeti	I-ORG
+Újjászületése	I-ORG

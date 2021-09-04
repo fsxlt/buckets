@@ -1,0 +1,19 @@
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+برزیل	I-ORG
+
+تغییرمسیر	O
+چاه	B-LOC
+سنگی	I-LOC
+(	I-LOC
+قلعه	I-LOC
+گنج	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+مایکل	B-PER
+آدامز	I-PER
+(	I-PER
+شطرنج‌باز	I-PER
+)	I-PER

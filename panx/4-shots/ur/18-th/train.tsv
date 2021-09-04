@@ -1,0 +1,77 @@
+رجوع_مکرر	O
+وزیراعظم	B-ORG
+ہاؤس	I-ORG
+(	I-ORG
+پاکستان	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+آکاش	B-ORG
+وانی	I-ORG
+(	I-ORG
+ریڈیو	I-ORG
+ناشر	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+فیئرویو،	B-LOC
+کینٹن	I-LOC
+کاؤنٹی،	I-LOC
+کینٹکی	I-LOC
+
+رجوع_مکرر	O
+سردار	B-PER
+یوسف	I-PER
+عزیز	I-PER
+مگسی	I-PER
+
+رجوع_مکرر	O
+لیک	B-LOC
+بریڈگیپورٹ،	I-LOC
+ٹیکساس	I-LOC
+
+رجوع_مکرر	O
+ایل	B-ORG
+جی	I-ORG
+کارپوریشن	I-ORG
+
+رجوع_مکرر	O
+کونسٹانٹین	B-ORG
+(	I-ORG
+ٹی	I-ORG
+وی	I-ORG
+سلسلہ	I-ORG
+)	I-ORG
+
+رجوع_مکرر	O
+سینٹ	B-LOC
+جارج،	I-LOC
+نیو	I-LOC
+فاؤنڈ	I-LOC
+لینڈ	I-LOC
+اور	I-LOC
+لیبرے	I-LOC
+ڈار	I-LOC
+
+محمد	B-PER
+اسد	I-PER
+الله	I-PER
+الغالب	I-PER
+
+رجوع_مکرر	O
+موسیٰ	B-PER
+کاظم	I-PER
+قرہ	I-PER
+بکر	I-PER
+
+رجوع_مکرر	O
+لکھیم	B-LOC
+پور	I-LOC
+کھیری	I-LOC
+ضلع	I-LOC
+
+عائشہ	B-PER
+بنت	I-PER
+ابی	I-PER
+بکر	I-PER
+–	O

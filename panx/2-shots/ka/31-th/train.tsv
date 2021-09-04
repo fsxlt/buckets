@@ -1,0 +1,46 @@
+მასზე	O
+უფრო	O
+დიდ	O
+იყო	O
+მზე	B-LOC
+.	O
+
+ვანავარის	O
+ჩრდილო-დასავლეთით	O
+60	O
+კმ	O
+კრასნოიარსკის	B-LOC
+მხარე	I-LOC
+,	O
+რუსეთის	B-LOC
+იმპერია	I-LOC
+
+(	B-LOC
+12.04	I-LOC
+)	I-LOC
+ცხენისწაბლა	I-LOC
+(	O
+Marronnier	O
+)	O
+
+``	O
+We	B-ORG
+Love	I-ORG
+You	I-ORG
+''	O
+
+ჰატოიამა	B-PER
+იტირო	I-PER
+(	O
+მესამედ	O
+)	O
+
+გადამისამართება	O
+Dolce	B-ORG
+&	I-ORG
+Gabbana	I-ORG
+
+გადამისამართება	O
+ედგარ	B-PER
+ალან	I-PER
+პო	I-PER

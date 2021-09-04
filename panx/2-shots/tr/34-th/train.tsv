@@ -1,0 +1,53 @@
+1.	B-ORG
+Ordu	I-ORG
+(	I-ORG
+Türkiye	I-ORG
+)	I-ORG
+
+Ak	B-LOC
+pelikan	I-LOC
+(	O
+''Pelecanus	O
+onocrotalus	O
+''	O
+)	O
+
+YÖNLENDİRME	O
+Love	B-LOC
+and	I-LOC
+Peace	I-LOC
+:	I-LOC
+A	I-LOC
+Tribute	I-LOC
+to	I-LOC
+Horace	I-LOC
+Silver	I-LOC
+
+Satellite]]	O
+''	O
+(	O
+Lena	B-PER
+Meyer-Landrut	I-PER
+)	O
+
+YÖNLENDİRME	O
+Türk	B-ORG
+asıllı	I-ORG
+Kanadalılar	I-ORG
+
+Basketi	O
+bıraktıktan	O
+sonra	O
+oyunculuk	O
+konusunda	O
+eğitim	O
+alan	O
+Çelikkol'un	O
+Osman	B-PER
+Sınav'la	I-PER
+tanışması	O
+hayatında	O
+dönüm	O
+noktası	O
+oldu	O
+.	O

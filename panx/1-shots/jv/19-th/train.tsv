@@ -1,0 +1,17 @@
+'	O
+''	O
+Libanon	B-LOC
+''	O
+'	O
+
+Sapardi	B-PER
+Djoko	I-PER
+Damono	I-PER
+(	O
+Anggota	O
+)	O
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG

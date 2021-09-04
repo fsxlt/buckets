@@ -1,0 +1,59 @@
+Do	B-ORG
+n't	I-ORG
+Stand	I-ORG
+So	I-ORG
+Close	I-ORG
+to	I-ORG
+Me	I-ORG
+
+19.969	O
+)	O
+,	O
+პუსანი	B-LOC
+(	O
+3.505	O
+;	O
+აგლომ	O
+.	O
+
+კონცერტს	O
+იღებდა	O
+დევიდ	B-PER
+ლინჩი	I-PER
+.	O
+
+გადამისამართება	O
+მერანი	B-ORG
+მარტვილი	I-ORG
+(	I-ORG
+საფეხბურთო	I-ORG
+კლუბი	I-ORG
+)	I-ORG
+
+ექვემდებარება	O
+მესინის	B-LOC
+პროვინციის	I-LOC
+ადმინისტრაციას	O
+.	O
+
+``	O
+-ის	O
+ძირითადი	O
+ავტორია	O
+ჯონ	B-PER
+ლენონია	I-PER
+,	O
+მაგრამ	O
+ავტორებად	O
+მითითებულები	O
+არიან	O
+ლენონი	B-PER
+/	I-PER
+მაკ-კარტნი	I-PER
+.	O
+
+Live	B-LOC
+at	I-LOC
+Montreux	I-LOC
+1981	I-LOC
+''	O

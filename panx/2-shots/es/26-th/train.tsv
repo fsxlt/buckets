@@ -1,0 +1,33 @@
+Jordi	B-PER
+Solé	I-PER
+Tura	I-PER
+
+Bolsa	B-ORG
+de	I-ORG
+Valores	I-ORG
+de	I-ORG
+Colombia	I-ORG
+
+==	O
+Provincia	B-LOC
+del	I-LOC
+Este	I-LOC
+==	O
+
+EDIPUCRS	O
+,	O
+Porto	B-LOC
+Alegre	I-LOC
+,	O
+Brasil	B-LOC
+.	O
+
+Casa	B-ORG
+de	I-ORG
+Borbón-Busset	I-ORG
+
+Peter	B-PER
+Luczak	I-PER
+(	O
+98º	O
+)	O

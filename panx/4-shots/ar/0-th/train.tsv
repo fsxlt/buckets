@@ -1,0 +1,87 @@
+ريال	B-ORG
+سوسيداد	I-ORG
+(	O
+P	O
+)	O
+
+'	O
+''	O
+ماريا	B-PER
+صوفيا	I-PER
+من	I-PER
+نيوبورغ	I-PER
+''	O
+'	O
+
+تحويل	O
+أرملة	B-LOC
+سوداء	I-LOC
+قمية	I-LOC
+
+'	O
+''	O
+Blanco	O
+''	O
+'	O
+-	O
+فرنسيسكو	B-PER
+مانويل	I-PER
+بلانكو	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250921	O
+
+تحويل	O
+بوكلاند	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+**الرئيس	O
+–	O
+إمام	B-ORG
+علي	I-ORG
+رحمن،	I-ORG
+رئيس	B-ORG
+طاجيكستان	I-ORG
+(	O
+1992–حالياً	O
+)	O
+
+تحويل	O
+عبد	B-PER
+المنعم	I-PER
+التراس	I-PER
+
+'	O
+''	O
+جوزيف	B-PER
+كابيلا	I-PER
+''	O
+'،	O
+رئيس	O
+
+**	O
+أديس	B-LOC
+أبابا	I-LOC
+(	O
+البعثة	O
+الدائمة	O
+لدى	O
+الاتحاد	B-ORG
+الأفريقي	I-ORG
+)	O
+
+تحويل	O
+ليدين	B-LOC
+(	I-LOC
+ماساتشوستس	I-LOC
+)	I-LOC

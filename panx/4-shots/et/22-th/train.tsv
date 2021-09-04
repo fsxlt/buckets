@@ -1,0 +1,103 @@
+''	O
+Wonder	B-ORG
+Showzen	I-ORG
+''	O
+
+Kaljulõhes	O
+leidis	O
+pelgupaiga	O
+Bilbo	B-PER
+Paunaste	I-PER
+ja	O
+hiljem	O
+ka	O
+Sõrmuse	B-PER
+Vennaskond	I-PER
+.	O
+
+``	O
+The	B-ORG
+Daily	I-ORG
+Show	I-ORG
+with	I-ORG
+Jon	I-ORG
+Stewart	I-ORG
+''	O
+
+suuna	O
+Manchester	B-ORG
+City	I-ORG
+FC	I-ORG
+
+Virgilijus	B-PER
+Alekna	I-PER
+,	O
+Leedu	B-LOC
+66.46	O
+
+Piirneb	O
+Permi	B-LOC
+krai	I-LOC
+ja	O
+Kirovi	B-LOC
+oblastiga	I-LOC
+.	O
+
+Venemaa	B-LOC
+föderaalsubjektide	I-LOC
+(	O
+Föderaalringkondade	B-LOC
+)	O
+riigikaitseorganite	O
+;	O
+
+Samoa	B-LOC
+parlament	O
+kinnitas	O
+ühehäälselt	O
+uueks	O
+viieaastaseks	O
+ametiajaks	O
+riigipeaks	O
+ka	O
+seni	O
+sama	O
+ametit	O
+pidanud	O
+Tupua	B-PER
+Tamasese	I-PER
+Tupuola	I-PER
+Tufuga	I-PER
+Efi	I-PER
+.	O
+
+Stauchitzi	B-LOC
+vald	I-LOC
+(	O
+3485	O
+)	O
+
+Kes	O
+Vanas	B-LOC
+Roomas	I-LOC
+omas	O
+orja	O
+,	O
+omas	O
+ka	O
+orja	O
+toodangut	O
+.	O
+
+François	B-PER
+Duval	I-PER
+(	O
+Belgia	B-LOC
+)	O
+
+suuna	O
+Major	B-ORG
+Antônio	I-ORG
+Couto	I-ORG
+Pereira	I-ORG
+staadion	I-ORG

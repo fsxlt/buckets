@@ -1,0 +1,99 @@
+넘겨주기	O
+파리	B-LOC
+(	I-LOC
+곤충	I-LOC
+)	I-LOC
+
+넘겨주기	O
+세계	B-ORG
+양궁	I-ORG
+연맹	I-ORG
+
+본기제3	O
+-	O
+헌종	B-PER
+(	I-PER
+憲宗	I-PER
+)	I-PER
+
+넘겨주기	O
+도쿄	B-ORG
+급행	I-ORG
+전철	I-ORG
+
+넘겨주기	O
+엑스선	B-ORG
+전산화	I-ORG
+단층	I-ORG
+촬영	I-ORG
+
+에드워드	B-PER
+벙커	I-PER
+(	O
+Edward	O
+Bunker	O
+)	O
+의	O
+친구이다	O
+.	O
+
+**	O
+주오	B-LOC
+구	I-LOC
+-	O
+다이토	B-LOC
+구	I-LOC
+-	O
+스미다	B-LOC
+구	I-LOC
+-	O
+가쓰시카	B-LOC
+구	I-LOC
+
+나는	O
+모로코	B-LOC
+여자와	O
+결혼했다	O
+그	O
+후	O
+
+2002년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+국가대표	O
+
+멕시코	B-LOC
+주	I-LOC
+(	O
+México	O
+)	O
+
+크리스토퍼	B-PER
+마커스	I-PER
+&	I-PER
+스티븐	I-PER
+맥필리	I-PER
+
+'	O
+''	O
+독도	B-LOC
+''	O
+'라는	O
+이름은	O
+'	O
+''	O
+조선	B-PER
+세종	I-PER
+''	O
+'	O
+때부터	O
+있던	O
+말이	O
+아니다	O
+.	O
+
+베이타	B-LOC
+구	I-LOC
+(	O
+北塔区	O
+)	O

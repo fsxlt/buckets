@@ -1,0 +1,76 @@
+Kaizari	B-PER
+Rudolf	I-PER
+II	I-PER
+
+Alikwenda	O
+Roma	B-LOC
+,	O
+Italia	B-LOC
+,	O
+kuzungumza	O
+na	O
+Mt	O
+.	O
+
+Wilhelm	B-PER
+Bleek	I-PER
+(	O
+1827-1875	O
+)	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Dublin	B-LOC
+.	O
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Teofilo	I-ORG
+Kisanji	I-ORG
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Kyambogo	I-ORG
+
+Carlos	B-PER
+Bernard	I-PER
+kama	O
+Tony	B-PER
+Almeida	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+53815	O
+.	O
+
+Yonkers	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Kimbo	B-ORG
+(	I-ORG
+Kamerun	I-ORG
+)	I-ORG
+
+Jengo	B-ORG
+la	I-ORG
+Empire	I-ORG
+State	I-ORG
+
+Alfred	B-PER
+Leonhard	I-PER
+Maluma	I-PER
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Rachuonyo	I-LOC
+''	O
+'	O

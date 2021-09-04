@@ -1,0 +1,76 @@
+Muna	B-PER
+Lee	I-PER
+(	I-PER
+mwanamichezo	I-PER
+)	I-PER
+
+The	B-ORG
+Village	I-ORG
+Voice	I-ORG
+
+Alifuatwa	O
+na	O
+Mohamed	B-PER
+Boudiaf	I-PER
+.	O
+
+'	O
+''	O
+Sahle	B-PER
+Dengel	I-PER
+''	O
+'	O
+
+Harper	B-LOC
+Woods	I-LOC
+,	I-LOC
+Michigan	I-LOC
+
+Orodha	B-LOC
+ya	I-LOC
+mikoa	I-LOC
+ya	I-LOC
+Argentina	I-LOC
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25214	O
+
+Eneo	O
+lake	O
+ni	O
+61.2	O
+km²	B-ORG
+.	O
+
+Mkoa	B-LOC
+wa	I-LOC
+Cabo	I-LOC
+Delgado	I-LOC
+
+Hoteli	B-ORG
+ya	I-ORG
+Royal	I-ORG
+Palm	I-ORG
+(	I-ORG
+Miami	I-ORG
+)	I-ORG
+
+Soko	B-ORG
+la	I-ORG
+Hisa	I-ORG
+la	I-ORG
+Dar-es-Salaam	I-ORG
+
+Kampuni	B-ORG
+ya	I-ORG
+Sukari	I-ORG
+ya	I-ORG
+Mumias	I-ORG
+
+Shenzi	O
+-	O
+Whoopi	B-PER
+Goldberg	I-PER

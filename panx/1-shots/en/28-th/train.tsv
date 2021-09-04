@@ -1,0 +1,26 @@
+Dawn	B-ORG
+Equipment	I-ORG
+Company	I-ORG
+(	O
+Sycamore	B-LOC
+)	O
+
+As	O
+of	O
+2013	O
+she	O
+served	O
+as	O
+Deputy	O
+of	O
+the	O
+LXII	B-PER
+Legislature	I-PER
+of	I-PER
+the	I-PER
+Mexican	I-PER
+Congress	I-PER
+representing	O
+Baja	B-LOC
+California	I-LOC
+.	O

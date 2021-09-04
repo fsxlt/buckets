@@ -1,0 +1,40 @@
+שירות	B-ORG
+הביטחון	I-ORG
+הכללי	I-ORG
+ישראל	B-LOC
+.	O
+
+דייב	B-PER
+דבושר	I-PER
+(	O
+ניו	B-ORG
+יורק	I-ORG
+ניקס	I-ORG
+)	O
+
+דנידין	B-LOC
+(	I-LOC
+ניו	I-LOC
+זילנד	I-LOC
+)	I-LOC
+
+בריטני	B-PER
+ספירס	I-PER
+(	O
+יחד	O
+עם	O
+מדונה	B-PER
+)	O
+
+גר	O
+הוד	B-LOC
+השרון	I-LOC
+,	O
+שם	O
+גם	O
+ממוקמים	O
+משרדי	O
+``	O
+טררם	O
+''	O
+.	O

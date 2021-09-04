@@ -1,0 +1,45 @@
+23	O
+points	O
+-	O
+Mario	B-PER
+Lemieux	I-PER
+(	O
+13	O
+buts	O
+,	O
+10	O
+passes	O
+)	O
+,	O
+10	O
+parties	O
+.	O
+
+Construite	O
+par	O
+Georges-Robert	B-PER
+Lefort	I-PER
+.	O
+
+*PPC	O
+=	O
+Parti	B-ORG
+progressiste	I-ORG
+du	I-ORG
+Canada	I-ORG
+
+Massif	B-LOC
+de	I-LOC
+Verwall	I-LOC
+
+Diocèse	B-LOC
+de	I-LOC
+Quimper	I-LOC
+et	I-LOC
+Léon	I-LOC
+
+==	O
+Saint-Empire	B-ORG
+romain	I-ORG
+germanique	I-ORG
+==	O

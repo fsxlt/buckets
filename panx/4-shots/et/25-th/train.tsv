@@ -1,0 +1,96 @@
+Saksa	B-LOC
+rahvusrajoon	I-LOC
+(	O
+Немецкий	O
+Национальный	O
+район	O
+)	O
+
+Õppis	O
+Keiserlikus	B-ORG
+Kunstide	I-ORG
+Akadeemias	I-ORG
+.	O
+
+Ta	O
+on	O
+õppinud	O
+Moskva	B-ORG
+Riiklikus	I-ORG
+Ülikoolis	I-ORG
+.	O
+
+Paide	B-LOC
+vald	I-LOC
+,	O
+Järva	B-LOC
+maakond	I-LOC
+
+Pete	B-PER
+Townshend	I-PER
+;	O
+The	B-ORG
+Who	I-ORG
+kaver	O
+
+Permi	B-LOC
+krai	I-LOC
+-	O
+Пермский	O
+край	O
+
+1949.	O
+aastal	O
+sai	O
+temast	O
+Saksamaa	B-ORG
+Sotsiaaldemokraatliku	I-ORG
+Partei	I-ORG
+põgenikeasjade	O
+volinik	O
+.	O
+
+Ta	O
+on	O
+geenitehnoloogiaettevõtte	O
+Icosagen	B-ORG
+asutaja	O
+ja	O
+tegevjuht	O
+.	O
+
+Baldwini	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O
+
+suuna	O
+Albert	B-PER
+(	I-PER
+Riia	I-PER
+piiskop	I-PER
+)	I-PER
+
+Tema	O
+poeg	O
+Eero	B-PER
+Saarinen	I-PER
+oli	O
+samuti	O
+silmapaistev	O
+arhitekt	O
+.	O
+
+Koosolekut	O
+juhatas	O
+Jegor	B-PER
+Ligatšov	I-PER
+.	O
+
+Kõrvukräts	B-LOC
+(	O
+''Asio	O
+otus	O
+''	O
+)	O

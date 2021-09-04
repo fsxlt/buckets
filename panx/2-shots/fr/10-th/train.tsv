@@ -1,0 +1,56 @@
+Malgré	O
+la	O
+présence	O
+Erik	B-PER
+Zabel	I-PER
+et	O
+Alessandro	B-PER
+Petacchi	I-PER
+,	O
+qui	O
+le	O
+devancent	O
+à	O
+plusieurs	O
+reprises	O
+,	O
+il	O
+parvient	O
+à	O
+remporter	O
+la	O
+étape	O
+à	O
+Castellón	B-LOC
+de	I-LOC
+la	I-LOC
+Plana	I-LOC
+.	O
+
+Saison	B-ORG
+2	I-ORG
+de	I-ORG
+Highlander	I-ORG
+
+'	O
+''	O
+Brad	B-PER
+Binder	I-PER
+''	O
+'	O
+
+Presqu'île	B-LOC
+de	I-LOC
+Rhuys	I-LOC
+
+'	O
+''	O
+CA	B-ORG
+Bègles	I-ORG
+''	O
+'	O
+
+Analyse	B-PER
+du	I-PER
+comportement	I-PER
+appliquée	I-PER

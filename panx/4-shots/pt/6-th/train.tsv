@@ -1,0 +1,91 @@
+São	B-LOC
+José	I-LOC
+dos	I-LOC
+Campos	I-LOC
+,	O
+São	B-LOC
+Paulo	I-LOC
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+San	B-ORG
+Rocco	I-ORG
+all'Augusteo	I-ORG
+
+``	O
+Smile	B-ORG
+''	O
+–	O
+Lily	B-PER
+Allen	I-PER
+(	O
+3:15	O
+)	O
+
+35º	O
+-	O
+Caxias	B-LOC
+do	I-LOC
+Sul	I-LOC
+
+'	O
+''	O
+Julian	B-PER
+Knowle	I-PER
+Filip	B-PER
+Polášek	I-PER
+''	O
+'6–3	O
+,	O
+6–2	O
+
+Big	B-ORG
+Brother	I-ORG
+and	I-ORG
+the	I-ORG
+Holding	I-ORG
+Company	I-ORG
+
+Redirecionamento	O
+Arquipélago	B-LOC
+de	I-LOC
+Chonos	I-LOC
+
+'	O
+''	O
+Tom	B-PER
+Hanks	I-PER
+(	O
+1º	O
+)	O
+'	O
+''	O
+Filadélfia	B-LOC
+''	O
+
+Lev	B-PER
+Landau	I-PER
+e	O
+Vitaly	B-PER
+Ginzburg	I-PER
+
+REDIRECIONAMENTO	O
+Hauptverein	B-ORG
+Dresdner	I-ORG
+Sport-Club	I-ORG
+1898	I-ORG
+e.V	I-ORG
+.	I-ORG
+
+Pixar	B-ORG
+/	O
+The	B-ORG
+Walt	I-ORG
+Disney	I-ORG
+Company	I-ORG

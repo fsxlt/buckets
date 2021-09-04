@@ -1,0 +1,23 @@
+Bronisław	B-PER
+Komorowski	I-PER
+elnök	O
+és	O
+felesége	O
+
+'	O
+''	O
+Deggendorf	B-ORG
+''	O
+'	O
+
+''	O
+Bad	B-LOC
+Wildbad	I-LOC
+''	O
+'	O
+
+NZ	B-ORG
+Stars	I-ORG
+(	O
+Budapest	B-LOC
+)	O

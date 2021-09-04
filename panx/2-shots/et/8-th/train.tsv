@@ -1,0 +1,52 @@
+suuna	O
+Gustav	B-ORG
+Adolfi	I-ORG
+Gümnaasium	I-ORG
+
+**	O
+'	O
+''	O
+8	O
+''	O
+'	O
+Rubens	B-PER
+Barrichello	I-PER
+,	O
+Brasiilia	B-LOC
+
+Suurimad	O
+õunatootjad	O
+on	O
+Hiina	B-LOC
+,	O
+Ameerika	B-LOC
+Ühendriigid	I-LOC
+,	O
+Poola	B-LOC
+,	O
+Prantsusmaa	B-LOC
+,	O
+Iraan	B-LOC
+,	O
+Itaalia	B-LOC
+ja	O
+Türgi	B-LOC
+.	O
+
+Richlandi	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+)	O
+
+Eestis	B-LOC
+Tallinnas	B-LOC
+Saku	B-ORG
+Suurhallis	I-ORG
+andis	O
+lahkumiskontserdi	O
+Venemaa	B-LOC
+poplaulja	O
+Alla	B-PER
+Pugatšova	I-PER
+.	O

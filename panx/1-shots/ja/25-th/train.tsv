@@ -1,0 +1,26 @@
+#	O
+対	B-LOC
+馬	I-LOC
+市	I-LOC
+
+#	O
+明	B-ORG
+星	I-ORG
+大	I-ORG
+学	I-ORG
+・	O
+明	O
+星	O
+大	O
+学	O
+大	O
+学	O
+院	O
+
+#	O
+平	B-PER
+本	I-PER
+ア	I-PER
+キ	I-PER
+ラ	I-PER
+#	O

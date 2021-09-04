@@ -1,0 +1,38 @@
+LENCONG	O
+Otín	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Žďár	I-LOC
+nad	I-LOC
+Sázavou	I-LOC
+)	I-LOC
+
+**	O
+Transformers	B-ORG
+:	I-ORG
+Animated	I-ORG
+''	O
+
+'	O
+''	O
+Ralf	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC
+
+Robert	B-PER
+Ritter	I-PER
+von	I-PER
+Greim	I-PER
+
+'	O
+''	O
+Maybank	B-ORG
+HC	I-ORG
+''	O
+'	O

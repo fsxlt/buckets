@@ -1,0 +1,20 @@
+Antall	B-PER
+József	I-PER
+(	O
+MDF	B-ORG
+)	O
+miniszterelnök	O
+1990–93	O
+
+ÁTIRÁNYÍTÁS	O
+RTL	B-ORG
+II	I-ORG
+(	I-ORG
+Magyarország	I-ORG
+)	I-ORG
+
+UEFA	B-LOC
+Európa-bajnokság	I-LOC
+ezüstérmes	O
+–	O
+2008	B-ORG

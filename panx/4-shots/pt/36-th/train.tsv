@@ -1,0 +1,102 @@
+Claudia	B-PER
+Leitte	I-PER
+''	O
+e	O
+Lulu	B-PER
+Santos	I-PER
+''	O
+viraram	O
+
+Carmen	B-PER
+Rasmusen	I-PER
+(	O
+3	O
+)	O
+
+Down	B-ORG
+III	I-ORG
+:	I-ORG
+Over	I-ORG
+the	I-ORG
+Under	I-ORG
+''	O
+
+**	O
+Kuala	B-LOC
+Lumpur	I-LOC
+(	O
+Embaixada	O
+)	O
+
+Faz	O
+fronteira	O
+com	O
+Chiusaforte	B-LOC
+,	O
+Moggio	B-LOC
+Udinese	I-LOC
+,	O
+Resia	B-LOC
+,	O
+Venzone	B-LOC
+.	O
+
+Aí	O
+,	O
+fugiu	O
+para	O
+a	O
+Escócia	B-LOC
+e	O
+depois	O
+juntou-se	O
+à	O
+rainha	B-PER
+Margarida	I-PER
+,	O
+exilada	O
+em	O
+França	B-LOC
+.	O
+
+Região	B-LOC
+Norte	I-LOC
+(	I-LOC
+Malawi	I-LOC
+)	I-LOC
+
+I	B-ORG
+Am	I-ORG
+...	I-ORG
+Sasha	I-ORG
+Fierce	I-ORG
+''	O
+
+West	B-LOC
+Bend	I-LOC
+(	I-LOC
+Iowa	I-LOC
+)	I-LOC
+
+Club	B-ORG
+Deportivo	I-ORG
+La	I-ORG
+Equidad	I-ORG
+
+;	O
+''Unidade	O
+Educacional	O
+-	O
+''	O
+Alfenas	B-LOC
+
+Estádio	B-ORG
+Defensores	I-ORG
+del	I-ORG
+Chaco	I-ORG
+,	O
+Assunção	B-LOC
+
+Jaime	B-PER
+Roldós	I-PER
+Aguilera	I-PER

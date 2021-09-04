@@ -1,0 +1,37 @@
+沪	B-ORG
+杭	I-ORG
+客	I-ORG
+运	I-ORG
+专	I-ORG
+线	I-ORG
+
+#	O
+第	O
+1	O
+2	O
+通	O
+信	O
+隊	O
+，	O
+位	O
+於	O
+榛	B-LOC
+東	I-LOC
+村	I-LOC
+。	O
+
+#	O
+#	O
+#	O
+#	O
+主	O
+唱	O
+：	O
+小	B-PER
+松	I-PER
+未	I-PER
+步	I-PER
+（	O
+編	O
+曲	O
+）	O

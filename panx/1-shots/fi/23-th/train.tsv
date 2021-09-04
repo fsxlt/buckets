@@ -1,0 +1,18 @@
+Sony	B-ORG
+BMG	I-ORG
+Music	I-ORG
+Entertainment	I-ORG
+
+Iowan	B-LOC
+pääkaupungin	O
+Des	B-LOC
+Moinesin	I-LOC
+kautta	O
+.	O
+
+Alexi	B-PER
+Laiho	I-PER
+–	O
+laulu	O
+,	O
+kitara	O

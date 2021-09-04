@@ -1,0 +1,37 @@
+ALIH	O
+Perpustakaan	B-ORG
+Nasional	I-ORG
+Republik	I-ORG
+Indonesia	I-ORG
+
+ALIH	O
+Van	B-LOC
+Diemen	I-LOC
+'s	I-LOC
+Land	I-LOC
+
+ALIH	O
+James	B-PER
+Paul	I-PER
+Chapin	I-PER
+
+ALIH	O
+Antiokhos	B-PER
+yang	I-PER
+Agung	I-PER
+
+Tukang	B-ORG
+Bubur	I-ORG
+Naik	I-ORG
+Haji	I-ORG
+The	I-ORG
+Series	I-ORG
+''	O
+sebagai	O
+Tuning	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aude	I-LOC

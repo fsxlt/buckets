@@ -1,0 +1,64 @@
+R	O
+E	O
+D	O
+I	O
+R	O
+E	O
+C	O
+T	O
+#	O
+佛	B-LOC
+得	I-LOC
+角	I-LOC
+
+#	O
+小	B-ORG
+行	I-ORG
+星	I-ORG
+8	I-ORG
+5	I-ORG
+9	I-ORG
+B	O
+o	O
+u	O
+z	O
+a	O
+r	O
+é	O
+a	O
+h	O
+
+裸	B-LOC
+奇	I-LOC
+異	I-LOC
+點	I-LOC
+，	O
+物	O
+理	O
+學	O
+上	O
+的	O
+概	O
+念	O
+。	O
+
+佐	B-PER
+藤	I-PER
+勉	I-PER
+
+#	O
+国	B-ORG
+道	I-ORG
+5	I-ORG
+号	I-ORG
+＝	O
+昭	O
+和	O
+4	O
+丁	O
+目	O
+
+#	O
+大	B-PER
+灰	I-PER
+狼	I-PER

@@ -1,0 +1,17 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+همل،	B-LOC
+داکوتای	I-LOC
+جنوبی	I-LOC
+
+سید	B-PER
+صادق	I-PER
+حسینی	I-PER
+شیرازی	I-PER

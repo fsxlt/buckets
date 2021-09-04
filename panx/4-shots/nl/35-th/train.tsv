@@ -1,0 +1,114 @@
+Volkan	B-PER
+Şen	I-PER
+Gökhan	B-PER
+Töre	I-PER
+Mehmet	B-PER
+Topal	I-PER
+
+Serra	B-LOC
+de	I-LOC
+São	I-LOC
+Miguel	I-LOC
+
+Mike	B-PER
+Smith	I-PER
+bleef	O
+in	O
+de	O
+muziekbusiness	O
+.	O
+
+FC	B-ORG
+Porto	I-ORG
+(	O
+3	O
+)	O
+
+Godzilla	B-PER
+:	I-PER
+The	I-PER
+Series	I-PER
+''	O
+
+DOORVERWIJZING	O
+Volksopstand	B-ORG
+in	I-ORG
+de	I-ORG
+DDR	I-ORG
+(	I-ORG
+1953	I-ORG
+)	I-ORG
+
+Met	O
+het	O
+nummer	O
+''Loin	O
+d'ici	O
+''	O
+ging	O
+ze	O
+deze	O
+keer	O
+wel	O
+met	O
+de	O
+zegepalm	O
+aan	O
+de	O
+haal	O
+,	O
+waardoor	O
+ze	O
+haar	O
+vaderland	O
+mocht	O
+vertegenwoordigen	O
+op	O
+het	O
+Eurovisiesongfestival	B-ORG
+2016	I-ORG
+,	O
+dat	O
+gehouden	O
+werd	O
+in	O
+de	O
+Zweedse	B-LOC
+hoofdstad	O
+Stockholm	B-LOC
+.	O
+
+Guernica	B-LOC
+(	I-LOC
+Spanje	I-LOC
+)	I-LOC
+
+Norrtälje	B-LOC
+(	I-LOC
+stad	I-LOC
+)	I-LOC
+
+King	B-LOC
+Edward	I-LOC
+Point	I-LOC
+
+DOORVERWIJZING	O
+Stade	B-ORG
+Félix	I-ORG
+Houphouët-Boigny	I-ORG
+
+Deze	O
+spin	O
+treft	O
+men	O
+voornamelijk	O
+aan	O
+in	O
+Suriname	B-LOC
+.	O
+
+Willem	B-PER
+I	I-PER
+van	I-PER
+La	I-PER
+Roche	I-PER

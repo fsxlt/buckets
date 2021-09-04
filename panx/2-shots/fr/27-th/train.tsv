@@ -1,0 +1,40 @@
+le	O
+Parti	B-ORG
+communiste	I-ORG
+;	O
+
+Congrès	B-ORG
+mondial	I-ORG
+d'espéranto	I-ORG
+
+Laura	B-PER
+Bassett	I-PER
+(	O
+face	O
+au	O
+)	O
+,	O
+en	O
+demi-finale	O
+.	O
+
+Institute	B-LOC
+of	I-LOC
+Materials	I-LOC
+,	I-LOC
+Minerals	I-LOC
+and	I-LOC
+Mining	I-LOC
+
+François	B-PER
+Vincent	I-PER
+Latil	I-PER
+
+La	B-LOC
+Palma	I-LOC
+del	I-LOC
+Condado	I-LOC
+(	O
+Huelva	B-LOC
+)	O
+.	O

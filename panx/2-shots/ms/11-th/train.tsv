@@ -1,0 +1,31 @@
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+Hungary	I-ORG
+
+LENCONG	O
+Anjing	B-ORG
+pemburu	I-ORG
+gunung	I-ORG
+Montenegro	I-ORG
+
+'	O
+''	O
+Nico	B-PER
+Rosberg	I-PER
+''	O
+'	O
+
+Yazid	B-PER
+bin	I-PER
+Muawiyah	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Tarn	I-LOC

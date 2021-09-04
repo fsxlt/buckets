@@ -1,0 +1,22 @@
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-20	I-ORG
+Uzbekistan	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Manche	I-LOC
+
+Keadaan	O
+ini	O
+telah	O
+timbul	O
+dalam	O
+kes	O
+Stephen	B-PER
+Kalong	I-PER
+Ningkan	I-PER
+.	O

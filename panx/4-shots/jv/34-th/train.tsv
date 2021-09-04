@@ -1,0 +1,102 @@
+Alih	O
+Laos	B-LOC
+(	I-LOC
+negara	I-LOC
+)	I-LOC
+
+Louis	B-PER
+Armstrong	I-PER
+,	O
+(	O
+1901-1971	O
+)	O
+
+'	O
+''	O
+Libanon	B-LOC
+''	O
+'	O
+
+Punika	O
+ugi	O
+langkung	O
+amargi	O
+kabegjan	O
+,	O
+amargi	O
+Michael	B-PER
+Schumacher	I-PER
+ingkang	O
+nalika	O
+punika	O
+saweg	O
+mimpin	O
+balapan	O
+,	O
+ngalami	O
+perkawis	O
+transmisi	O
+wonten	O
+ing	O
+lap	O
+ingkang	O
+pungkasan	O
+.	O
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Spanyol	I-ORG
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Andries	B-PER
+Cornelis	I-PER
+Dirk	I-PER
+de	I-PER
+Graeff	I-PER
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+Merpati	B-ORG
+Nusantara	I-ORG
+Airlines	I-ORG
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+Powiat	B-LOC
+Ząbkowice	I-LOC
+Śląskie	I-LOC
+,	O
+Ząbkowice	B-LOC
+Śląskie	I-LOC
+
+(	O
+'	O
+''	O
+Tutugé	B-PER
+...	I-PER
+''	O
+'	O
+)	O
+
+Dheweke	O
+banjur	O
+kuliah	O
+ing	O
+Universitas	B-ORG
+Indonésia	I-ORG
+.	O

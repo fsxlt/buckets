@@ -1,0 +1,38 @@
+REDIRECTION	O
+Première	B-LOC
+circonscription	I-LOC
+d'Athènes	I-LOC
+
+Histoire	B-ORG
+des	I-ORG
+États-Unis	I-ORG
+de	I-ORG
+1918	I-ORG
+à	I-ORG
+1945	I-ORG
+
+Opération	B-ORG
+des	I-ORG
+Nations	I-ORG
+unies	I-ORG
+au	I-ORG
+Congo	I-ORG
+
+Guy	B-PER
+Vanhengel	I-PER
+remplace	O
+Annemie	B-PER
+Neyts-Uyttebroeck	I-PER
+29.06.1999-12.10.2000	O
+
+REDIRECTION	O
+Dzongsar	B-PER
+Khyentsé	I-PER
+Chökyi	I-PER
+Lodrö	I-PER
+
+Salle	B-LOC
+Harcha	I-LOC
+Hassan	I-LOC
+,	O
+Alger	B-LOC

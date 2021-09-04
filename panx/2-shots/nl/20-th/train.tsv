@@ -1,0 +1,57 @@
+Macedonië	B-LOC
+(	I-LOC
+Griekenland	I-LOC
+)	I-LOC
+
+Ook	O
+trad	O
+hij	O
+op	O
+in	O
+toneelstukken	O
+van	O
+William	B-PER
+Shakespeare	I-PER
+onder	O
+regie	O
+van	O
+Kenneth	B-PER
+Branagh	I-PER
+.	O
+
+Keeping	B-ORG
+Up	I-ORG
+with	I-ORG
+the	I-ORG
+Kardashians	I-ORG
+
+Günter	B-PER
+Netzer	I-PER
+(	O
+1973–1976	O
+)	O
+
+De	O
+renners	O
+reden	O
+een	O
+vlakke	O
+rit	O
+van	O
+183	O
+kilometer	O
+van	O
+Montecatini	B-LOC
+Terme	I-LOC
+naar	O
+Castiglione	B-LOC
+della	I-LOC
+Pescaia	I-LOC
+.	O
+
+'	O
+''	O
+VV	B-ORG
+Berkum	I-ORG
+''	O
+'	O

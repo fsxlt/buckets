@@ -1,0 +1,122 @@
+David	B-PER
+Hudson	I-PER
+,	O
+lawyer	O
+and	O
+writer	O
+
+Léopold	B-ORG
+II	I-ORG
+of	I-ORG
+Belgium	I-ORG
+(	O
+1980	O
+)	O
+
+Adapted	O
+in	O
+1947	O
+from	O
+a	O
+play	O
+by	O
+Ferenc	B-PER
+Molnár	I-PER
+;	O
+not	O
+produced	O
+
+Chris	B-PER
+Adcock	I-PER
+/	O
+Andrew	B-PER
+Ellis	I-PER
+''	O
+(	O
+First	O
+Round	O
+)	O
+
+San	B-LOC
+Francisco	I-LOC
+–	O
+'	O
+''	O
+KGO-TV	B-ORG
+7	O
+''	O
+'	O
+
+In	O
+1991	O
+,	O
+the	O
+headquarters	O
+shifted	O
+to	O
+Naples	B-LOC
+,	I-LOC
+Florida	I-LOC
+.	O
+
+''Téléfoot	O
+''	O
+by	O
+Thierry	B-PER
+Roland	I-PER
+
+Gate	B-ORG
+of	I-ORG
+China	I-ORG
+,	I-ORG
+Beijing	I-ORG
+
+This	O
+species	O
+is	O
+only	O
+found	O
+in	O
+the	O
+Caribbean	B-LOC
+Sea	I-LOC
+,	O
+where	O
+it	O
+is	O
+abundant	O
+.	O
+
+''	O
+The	B-ORG
+Heart	I-ORG
+of	I-ORG
+Chicago	I-ORG
+1967–1998	I-ORG
+Volume	I-ORG
+II	I-ORG
+''	O
+
+List	B-ORG
+of	I-ORG
+number-one	I-ORG
+R	I-ORG
+&	I-ORG
+B	I-ORG
+albums	I-ORG
+of	I-ORG
+1999	I-ORG
+(	I-ORG
+U.S	I-ORG
+.	I-ORG
+)	I-ORG
+
+(	O
+A	O
+)	O
+Recorded	O
+at	O
+Rockfield	B-LOC
+Studios	I-LOC
+,	O
+1982	O

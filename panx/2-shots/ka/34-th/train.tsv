@@ -1,0 +1,47 @@
+ულრიხ	B-PER
+როთი	I-PER
+—	O
+მთავარი	O
+გიტარა	B-ORG
+,	O
+შემცვლელი	O
+ვოკალი	O
+;	O
+
+აქადის	B-LOC
+იმპერიამ	I-LOC
+ელამი	B-ORG
+დაიპყრო	O
+
+Message	B-ORG
+in	I-ORG
+a	I-ORG
+Bottle	I-ORG
+-	O
+4:49	O
+
+მდებარეობს	O
+ქვეყნის	O
+ჩრდილო-აღმოსავლეთ	B-LOC
+რეგიონში	I-LOC
+.	O
+
+სავარაუდოდ	O
+ეკუთვნოდა	O
+თამარ	B-PER
+მეფეს	I-PER
+.	O
+
+Beady	B-ORG
+Eye	I-ORG
+–	O
+Different	B-ORG
+Gear	I-ORG
+,	I-ORG
+Still	I-ORG
+Speeding	I-ORG
+(	I-ORG
+დამატებითი	I-ORG
+სიმღერებით	I-ORG
+)	I-ORG
+''	O

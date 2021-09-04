@@ -1,0 +1,45 @@
+WEITERLEITUNG	O
+1.	B-ORG
+FC	I-ORG
+Lokomotive	I-ORG
+Leipzig	I-ORG
+
+``	O
+Dave-Schultz	O
+''	O
+-Memorial	O
+in	O
+Colorado	B-LOC
+Springs	I-LOC
+
+'	O
+''	O
+Gerald	B-PER
+Howarth	I-PER
+''	O
+'	O
+
+Die	O
+deutsche	B-ORG
+Fußballnationalmannschaft	I-ORG
+galt	O
+bis	O
+Mitte	O
+der	O
+1920er	O
+Jahre	O
+als	O
+drittklassig	O
+.	O
+
+'	O
+''	O
+Landkreis	B-LOC
+Kelheim	I-LOC
+''	O
+'	O
+
+WEITERLEITUNG	O
+Baldur	B-PER
+Ingimar	I-PER
+Aðalsteinsson	I-PER

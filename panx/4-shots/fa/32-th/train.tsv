@@ -1,0 +1,78 @@
+تغییرمسیر	O
+کی	B-PER
+بیلی	I-PER
+هاچیسون	I-PER
+
+اسرائیل،	B-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+و	O
+اروپا	B-LOC
+
+جاپلین،	B-LOC
+میزوری،	I-LOC
+ایالات	B-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+تغییرمسیر	O
+کشتی	B-ORG
+در	I-ORG
+بازی‌های	I-ORG
+المپیک	I-ORG
+تابستانی	I-ORG
+۲۰۱۲	I-ORG
+–	I-ORG
+۵۵	I-ORG
+کیلوگرم	I-ORG
+آزاد	I-ORG
+مردان	I-ORG
+
+تغییرمسیر	O
+جاده	B-ORG
+۳۷	I-ORG
+(	I-ORG
+ایران	I-ORG
+)	I-ORG
+
+فیلمنامه	O
+همراه	O
+با	O
+پیتر	B-PER
+هاندکه	I-PER
+
+تغییرمسیر	O
+مؤسسه	B-ORG
+فیزیک	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+استیون	B-PER
+مالوری	I-PER
+دوم	I-PER
+
+تغییرمسیر	O
+قبله	B-LOC
+بلاغی	I-LOC
+(	I-LOC
+زنجان	I-LOC
+)	I-LOC
+
+لیگ	B-ORG
+برتر	I-ORG
+فوتبال	I-ORG
+انگلستان	I-ORG
+
+تغییرمسیر	O
+پیتر	B-PER
+بارتون	I-PER
+(	I-PER
+هنرپیشه	I-PER
+)	I-PER
+
+ورزشگاه	B-LOC
+مرسدس	I-LOC
+بنز	I-LOC
+آرنا،	I-LOC
+اشتوتگارت	B-LOC

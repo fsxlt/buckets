@@ -1,0 +1,49 @@
+**	O
+마키미나토	O
+주거지역	O
+,	O
+나하	B-LOC
+시	I-LOC
+
+넘겨주기	O
+호드	B-PER
+(	I-PER
+노르드	I-PER
+신화	I-PER
+)	I-PER
+
+명	B-LOC
+(	O
+明	O
+)	O
+세종	B-PER
+가정제	I-PER
+(	O
+世宗	O
+嘉靖帝	O
+)	O
+11년	O
+
+``	O
+Man	B-ORG
+in	I-ORG
+the	I-ORG
+Mirror	I-ORG
+''	O
+/	O
+''	O
+MJ	O
+Air	O
+''	O
+Outro	O
+
+제작	O
+저작	O
+-	O
+닛폰	B-ORG
+TV	I-ORG
+
+미사토	B-LOC
+정	I-LOC
+(	O
+)	O

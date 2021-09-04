@@ -1,0 +1,109 @@
+Martin	B-PER
+Luther	I-PER
+King	I-PER
+,	I-PER
+Jr	I-PER
+.	I-PER
+
+Dhèwèké	O
+misuwur	O
+minangka	O
+panyithak	O
+gol	O
+kapisan	O
+Euro	B-ORG
+2008	I-ORG
+.	O
+
+Kabupatèn	B-LOC
+Alor	I-LOC
+,	O
+Nusa	B-LOC
+Tenggara	I-LOC
+Wétan	I-LOC
+
+'	O
+''	O
+Brasil	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+''	O
+'	O
+
+Hong	B-LOC
+Kong	I-LOC
+(	O
+in	O
+English	O
+)	O
+
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+Punika	O
+ugi	O
+langkung	O
+amargi	O
+kabegjan	O
+,	O
+amargi	O
+Michael	B-PER
+Schumacher	I-PER
+ingkang	O
+nalika	O
+punika	O
+saweg	O
+mimpin	O
+balapan	O
+,	O
+ngalami	O
+perkawis	O
+transmisi	O
+wonten	O
+ing	O
+lap	O
+ingkang	O
+pungkasan	O
+.	O
+
+0255	O
+-	O
+Sebagian	O
+Kabupatèn	B-LOC
+Cianjur	I-LOC
+
+ALIH	O
+Tlaga	B-LOC
+Mono	I-LOC
+,	I-LOC
+California	I-LOC
+
+ALIH	O
+Tim	B-ORG
+nasional	I-ORG
+bal-balan	I-ORG
+Rumania	I-ORG
+
+ALIH	O
+Asosiasi	B-ORG
+Bangsa	I-ORG
+Bangsa	I-ORG
+Asia	I-ORG
+Kidul	I-ORG
+Wétan	I-ORG
+
+Kasor	O
+PF	O
+vs	O
+Rafael	B-PER
+Nadal	I-PER
+[1]	O

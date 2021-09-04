@@ -1,0 +1,95 @@
+تغییرمسیر	O
+کالدول	B-LOC
+شمالی،	I-LOC
+نیوجرسی	I-LOC
+
+تغییرمسیر	O
+مرکز	B-ORG
+فدرال	I-ORG
+آموزش	I-ORG
+فنی	I-ORG
+حرفه‌ای	I-ORG
+میناس	I-ORG
+گرایس	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+100px]]	O
+''	O
+رند	B-PER
+پال	I-PER
+''	O
+'	O
+
+از	O
+آهنگ‌های	O
+این	O
+گروه	O
+در	O
+۲۴	B-ORG
+(	I-ORG
+مجموعه	I-ORG
+تلویزیونی	I-ORG
+)	I-ORG
+و	O
+سکس	B-ORG
+و	I-ORG
+شهر	I-ORG
+نیز	O
+استفاده	O
+شده	O
+.	O
+
+تغییر_مسیر	O
+ده‌نو	B-LOC
+(	I-LOC
+عسلویه	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+جبرآباد	B-LOC
+(	I-LOC
+ایرانشهر	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آکیرا	B-PER
+اندو	I-PER
+(	I-PER
+زیست‌شیمی‌دان	I-PER
+)	I-PER
+
+همچنین	O
+در	O
+شصت	B-ORG
+و	I-ORG
+نهمین	I-ORG
+جشنواره	I-ORG
+فیلم	I-ORG
+ونیز	I-ORG
+نیز	O
+به	O
+نمایش	O
+درآمد	O
+.	O
+
+میرزا	B-PER
+آقاخان	I-PER
+کرمانی	I-PER
+
+تغییرمسیر	O
+سرآب	B-LOC
+(	I-LOC
+گیلانغرب	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+هانس	B-PER
+کریستین	I-PER
+بلش	I-PER

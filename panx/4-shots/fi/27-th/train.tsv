@@ -1,0 +1,103 @@
+Claude	B-PER
+Provost	I-PER
+,	O
+Montreal	B-ORG
+Canadiens	I-ORG
+
+Kaikkein	O
+kuuluisin	O
+on	O
+tietenkin	O
+Anton	B-PER
+Tšehov	I-PER
+,	O
+josta	O
+muistutetaan	O
+kaikkialla	O
+.	O
+
+OHJAUS	O
+Kayin	B-LOC
+(	I-LOC
+osavaltio	I-LOC
+)	I-LOC
+
+Ruskotöyhtötypäkkö	B-LOC
+(	O
+''Lophotriccus	O
+pileatus	O
+''	O
+)	O
+
+Se	O
+kuuluu	O
+Pohjoiseen	B-LOC
+provinssiin	I-LOC
+.	O
+
+Västerbottenin	B-LOC
+läänissä	I-LOC
+taudin	O
+esiintymistiheys	O
+on	O
+kokoluokaltaan	O
+8,5	O
+/	O
+100	O
+000	O
+,	O
+muualla	O
+se	O
+on	O
+vielä	O
+harvinaisempi	O
+–	O
+1	O
+/	O
+100	O
+000	O
+.	O
+
+Janne	B-PER
+Parviainen	I-PER
+–	O
+rummut	O
+
+Syyskuussa	O
+2006	O
+hän	O
+liittyi	O
+Minnesota	B-ORG
+Timberwolvesin	I-ORG
+organisaatioon	O
+.	O
+
+OHJAUS	O
+Jääkiekon	B-LOC
+naisten	I-LOC
+maailmanmestaruuskilpailut	I-LOC
+2009	I-LOC
+
+OHJAUS	O
+The	B-ORG
+Fame	I-ORG
+Monster	I-ORG
+
+Blohm	B-ORG
++	I-ORG
+Voss	I-ORG
+,	O
+Hampuri	B-LOC
+
+Myöhemmin	O
+oman	O
+ohjaajauransa	O
+juonut	O
+Jonas	B-PER
+Mekas	I-PER
+kehui	O
+kriitikkona	O
+vuolaasti	O
+Brakhagen	O
+työtä	O
+.	O

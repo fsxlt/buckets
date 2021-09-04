@@ -1,0 +1,21 @@
+Lungsod	B-LOC
+ng	I-LOC
+Chiba	I-LOC
+
+Central	B-ORG
+Japan	I-ORG
+Railway	I-ORG
+Company	I-ORG
+
+Pagpapalabas	B-PER
+na	I-PER
+pambabae	I-PER
+
+'	O
+''	O
+Thailand	B-LOC
+''	O
+'	O
+–	O
+Aniporn	O
+Chalermburanawong	O

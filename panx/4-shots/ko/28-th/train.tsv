@@ -1,0 +1,91 @@
+넘겨주기	O
+빈	B-ORG
+필하모니	I-ORG
+관현악단	I-ORG
+
+타오산	B-LOC
+구	I-LOC
+(	O
+桃山区	O
+)	O
+
+**	O
+하쿠이	B-LOC
+군	I-LOC
+시카	B-LOC
+정	I-LOC
+
+2009년	B-ORG
+UEFA	I-ORG
+U-21	I-ORG
+챔피언십	I-ORG
+국가대표	O
+
+넘겨주기	O
+사이클롭스	B-PER
+(	I-PER
+마블	I-PER
+코믹스	I-PER
+)	I-PER
+
+잔루이지	B-PER
+부폰	I-PER
+(	O
+33	O
+)	O
+
+어떤	B-ORG
+과학의	I-ORG
+초전자포S（	I-ORG
+''	O
+'우이하루	O
+카자리	O
+''	O
+'）	O
+
+청양	B-LOC
+구	I-LOC
+(	O
+城阳区	O
+)	O
+
+바렐	O
+-	O
+야마데라	B-PER
+코이치	I-PER
+
+작은	B-ORG
+별〉의	I-ORG
+원곡	O
+〈아	O
+!	O
+
+현재는	O
+스타드	B-LOC
+드	I-LOC
+스위스가	I-LOC
+들어서	O
+있다	O
+.	O
+
+대구광역시	B-LOC
+및	O
+경상북도	B-LOC
+지역을	O
+거점으로	O
+방송한다	O
+.	O
+
+넘겨주기	O
+앙투안	B-PER
+프랑수아	I-PER
+푸르크루아	I-PER
+
+아들로는	O
+진태	B-PER
+(	O
+陳泰	O
+)	O
+가	O
+있다	O
+.	O

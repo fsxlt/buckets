@@ -1,0 +1,50 @@
+Cornelis	B-PER
+Johannes	I-PER
+van	I-PER
+Houten	I-PER
+,	O
+Ingrid	B-PER
+van	I-PER
+Houten-Groeneveld	I-PER
+,	O
+Tom	B-PER
+Gehrels	I-PER
+
+L’Hospitalet	B-LOC
+de	I-LOC
+Llobregat	I-LOC
+-	O
+248	O
+150	O
+
+'	O
+''	O
+Déli	B-ORG
+pályaudvar	I-ORG
+M	O
+''	O
+'	O
+
+Izland	B-ORG
+csatlakozása	I-ORG
+az	I-ORG
+Európai	I-ORG
+Unióhoz	I-ORG
+
+Dubaj	B-LOC
+,	O
+Egyesült	B-LOC
+Arab	I-LOC
+Emírségek	I-LOC
+
+Galliából	B-LOC
+származott	O
+,	O
+I.	B-PER
+Theodosius	I-PER
+és	O
+II.	B-PER
+Theodosius	I-PER
+idejében	O
+élt	O
+.	O

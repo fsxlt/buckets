@@ -1,0 +1,133 @@
+(	O
+Supposed	B-ORG
+Former	I-ORG
+Infatuation	I-ORG
+Junkie	I-ORG
+''	O
+)	O
+
+Norwegian	B-ORG
+Air	I-ORG
+Shuttle	I-ORG
+(	O
+Tukholma-Arlanda	O
+)	O
+
+Hän	O
+toimi	O
+pappina	O
+useissa	O
+amerikansuomalaisissa	O
+seurakunnissa	O
+ja	O
+oli	O
+vuosina	O
+1922–1950	O
+Amerikan	B-ORG
+suomalaisen	I-ORG
+evankelis-luterilaisen	I-ORG
+kirkon	I-ORG
+johtaja	O
+.	O
+
+Rakennuksen	O
+oli	O
+suunnitellut	O
+arkkitehti	O
+Erik	B-PER
+Bryggman	I-PER
+.	O
+
+Ranskan	B-ORG
+muukalaislegioona	I-ORG
+on	O
+käyttänyt	O
+modafiniilia	O
+.	O
+
+Mallin	O
+avulla	O
+on	O
+luotu	O
+esimerkiksi	O
+kehittynyt	O
+kellojakson	O
+tarkkuudella	O
+toimiva	O
+simulaattori	O
+StrongArm-arkkitehtuurille	B-ORG
+.	O
+
+Finaalissa	O
+he	O
+voittivat	O
+toiseksi	O
+sijoitetut	O
+Daniel	B-PER
+Nestorin	I-PER
+ja	O
+Nenad	B-PER
+Zimonjićin	I-PER
+.	O
+
+Amenhotepin	O
+viimeisinä	O
+vuosina	O
+hänen	O
+kenraalinsa	O
+Thutmosis	B-PER
+I	I-PER
+toimi	O
+hänen	O
+kanssahallitsijanaan	O
+.	O
+
+Ennen	O
+ajateltiin	O
+valon	O
+kulkevan	O
+Heron	B-PER
+Aleksandrialaisen	I-PER
+määritelmän	O
+mukaisesti	O
+kahden	O
+pisteen	O
+välillä	O
+lyhintä	O
+mahdollista	O
+reittiä	O
+.	O
+
+OHJAUS	O
+Jääkiekon	B-LOC
+nuorten	I-LOC
+maailmanmestaruuskilpailut	I-LOC
+2015	I-LOC
+
+Lisäkuvauksia	O
+suoritettiin	O
+muun	O
+muassa	O
+Los	B-LOC
+Angelesissa	I-LOC
+,	O
+Huntington	B-LOC
+Beachilla	I-LOC
+ja	O
+Santa	B-LOC
+Catalinan	I-LOC
+saarella	O
+.	O
+
+Yhdistynyt	B-LOC
+kuningaskunta	I-LOC
+,	O
+edustaa	O
+Skotlantia	B-LOC
+
+Se	O
+on	O
+Wasitin	B-LOC
+maakunnan	I-LOC
+pääkaupunki	O
+.	O

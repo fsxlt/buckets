@@ -1,0 +1,21 @@
+Absteiger	O
+in	O
+die	O
+Serie	B-ORG
+B	I-ORG
+
+Er	O
+wurde	O
+zum	O
+Bischof	B-LOC
+von	I-LOC
+Eichstätt	I-LOC
+berufen	O
+am	O
+12	O
+.	O
+
+WEITERLEITUNG	O
+Son	B-PER
+Dam	I-PER
+Bi	I-PER

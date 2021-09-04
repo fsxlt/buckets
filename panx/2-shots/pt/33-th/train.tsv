@@ -1,0 +1,38 @@
+REDIRECIONAMENTO	O
+Seleção	B-ORG
+Groenlandesa	I-ORG
+de	I-ORG
+Handebol	I-ORG
+Masculino	I-ORG
+
+It	B-ORG
+Started	I-ORG
+With	I-ORG
+a	I-ORG
+Kiss	I-ORG
+''	O
+
+Resende	B-LOC
+Costa	I-LOC
+(	O
+MG	O
+)	O
+
+Boris	B-PER
+Karloff	I-PER
+...	O
+.	O
+Monstro	O
+
+'	O
+''	O
+Edward	B-PER
+Norton	I-PER
+''	O
+'	O
+
+border]]	O
+Cabo	B-LOC
+Verde	I-LOC
+''	O
+'	O

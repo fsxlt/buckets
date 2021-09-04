@@ -1,0 +1,56 @@
+Formerly	O
+Ashbourne	B-LOC
+Urban	I-LOC
+District	I-LOC
+
+William	B-PER
+FitzAlan	I-PER
+,	I-PER
+16th	I-PER
+Earl	I-PER
+of	I-PER
+Arundel	I-PER
+1483–1488	O
+
+Antiochia	B-LOC
+in	I-LOC
+Sittacene	I-LOC
+–	O
+Antiochus	B-PER
+I	I-PER
+Soter	I-PER
+
+St.	B-ORG
+Jarlath	I-ORG
+'s	I-ORG
+College	I-ORG
+,	O
+Tuam	B-LOC
+1-7	O
+
+It	O
+was	O
+digitally	O
+released	O
+by	O
+Red	B-ORG
+Scare	I-ORG
+Industries	I-ORG
+on	O
+July	O
+7	O
+,	O
+2009	O
+,	O
+with	O
+a	O
+physical	O
+release	O
+following	O
+one	O
+week	O
+later	O
+on	O
+July	O
+14	O
+.	O

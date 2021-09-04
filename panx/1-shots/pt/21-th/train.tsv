@@ -1,0 +1,37 @@
+Mulhouse	B-LOC
+(	O
+110	O
+359	O
+)	O
+
+'	O
+''	O
+Fernando	B-PER
+Lugo	I-PER
+'	O
+''	O
+
+Faz	O
+fronteira	O
+com	O
+Traversella	B-LOC
+,	O
+Ingria	B-LOC
+,	O
+Pont-Canavese	B-LOC
+,	O
+Borgiallo	B-LOC
+,	O
+Castelnuovo	B-LOC
+Nigra	I-LOC
+,	O
+Chiesanuova	B-LOC
+.	O
+
+Associação	B-ORG
+Desportiva	I-ORG
+Guarujá	I-ORG
+(	O
+Guarujá	B-LOC
+''	O
+)	O

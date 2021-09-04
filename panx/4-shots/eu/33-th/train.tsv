@@ -1,0 +1,115 @@
+San	B-PER
+Marco	I-PER
+,	O
+argi	O
+dagoenez	O
+,	O
+bere	O
+izena	O
+San	B-ORG
+Marko	I-ORG
+basilikagandik	I-ORG
+jasotzen	O
+du	O
+.	O
+
+BIRZUZENDU	O
+Pöyrisjärviko	B-LOC
+Eremu	I-LOC
+Basatia	I-LOC
+
+Hainbat	O
+herrik	O
+,	O
+Belgika	B-LOC
+,	O
+Frantzia	B-LOC
+,	O
+Portugal	B-LOC
+eta	O
+Erresuma	B-LOC
+Batua	I-LOC
+hain	O
+zuzen	O
+ere	O
+,	O
+haien	O
+interesa	O
+erakutsi	O
+zuten	O
+lurralde	O
+hauek	O
+konkistatzeko	O
+.	O
+
+**	O
+Glenda	B-PER
+Jackson	I-PER
+-	O
+Sunday	B-ORG
+Bloody	I-ORG
+Sunday	B-ORG
+''	O
+
+'	O
+''	O
+Antonio	B-PER
+I.a	I-PER
+''	O
+'	O
+
+Gainera	O
+,	O
+Armadak	O
+tropak	O
+erretiratu	O
+egin	O
+zituen	O
+Gazatik	B-LOC
+.	O
+
+'	O
+''	O
+Real	B-ORG
+Sociedad	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Louis	B-PER
+Mottiat	I-PER
+''	O
+'	O
+
+Alderdi	B-ORG
+Popularreko	I-ORG
+diputatuekin	O
+aurrez	O
+aurreko	O
+pare	O
+bat	O
+izan	O
+zituen	O
+.	O
+
+Yucatán	B-LOC
+estatuan	O
+kokatua	O
+dago	O
+.	O
+
+Delaware	B-LOC
+konderria	I-LOC
+(	I-LOC
+Pennsylvania	I-LOC
+)	I-LOC
+
+Beneventoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O

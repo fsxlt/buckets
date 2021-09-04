@@ -1,0 +1,42 @@
+हरिहरन]]	O
+,	O
+पूरब	B-PER
+कोहली	I-PER
+,	O
+रति	B-PER
+अग्निहोत्री	I-PER
+
+'	O
+''	O
+कैनसस	B-ORG
+सिटी	I-ORG
+चीफ्स	I-ORG
+''	O
+'	O
+
+भारतीय	B-ORG
+सांख्यिकी	I-ORG
+संस्थान	I-ORG
+
+उत्तर	B-LOC
+कन्नड़	I-LOC
+ज़िला	I-LOC
+
+)	O
+और	O
+नागार्जुन	B-PER
+(	O
+200	O
+ई	O
+.	O
+
+कूवम	B-LOC
+नदी	I-LOC
+,	O
+अड्यार	B-LOC
+नदी	I-LOC
+
+अनुप्रेषित	O
+सैयद	B-PER
+अहमद	I-PER
+खान	I-PER

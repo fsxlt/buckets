@@ -1,0 +1,82 @@
+محمد	B-PER
+علي	I-PER
+كلاي	I-PER
+•	O
+بيليه	B-PER
+.	O
+
+تولت	O
+مناصب	O
+جامعة	B-ORG
+برنستون،	I-ORG
+جامعة	B-ORG
+كاليفورنيا،	I-ORG
+بركلي	I-ORG
+.	O
+
+تحويل	O
+أورفيل	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+رحمت	B-LOC
+أباد	I-LOC
+(	I-LOC
+جهاد	I-LOC
+أباد	I-LOC
+كرمان	I-LOC
+)	I-LOC
+
+وكان	O
+يقع	O
+فيها	O
+المقر	O
+السابق	O
+شركة	B-ORG
+شاحنات	I-ORG
+ماك	I-ORG
+.	O
+
+جري	B-ORG
+ماتر	I-ORG
+أنتيرأكتيف	I-ORG
+
+تحويل	O
+أبو	B-PER
+عمرو	I-PER
+البصري	I-PER
+
+تحويل	O
+القناص	B-ORG
+(	I-ORG
+مانغا	I-ORG
+)	I-ORG
+
+مقاطعة	B-LOC
+ويستمورلاند	I-LOC
+(	I-LOC
+بنسيلفانيا	I-LOC
+)	I-LOC
+
+تحويل	O
+راكدة	B-LOC
+مقاومة	I-LOC
+للإشعاع	I-LOC
+
+تحويل	O
+الحسين	B-PER
+بن	I-PER
+علي	I-PER
+
+تحويل	O
+سفراء	B-PER
+الولايات	I-PER
+المتحدة	I-PER
+الأمريكية	I-PER
+في	I-PER
+المملكة	I-PER
+الأردنية	I-PER
+الهاشمية	I-PER

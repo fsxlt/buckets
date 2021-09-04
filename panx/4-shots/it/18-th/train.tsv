@@ -1,0 +1,101 @@
+Fu	O
+poi	O
+medico	O
+a	O
+Worms	B-LOC
+al	O
+servizio	O
+di	O
+Caterina	B-PER
+di	I-PER
+Pomerania-Wolgast	I-PER
+,	O
+moglie	O
+di	O
+Enrico	B-PER
+IV	I-PER
+,	I-PER
+duca	I-PER
+di	I-PER
+Brunswick-Lüneburg	I-PER
+.	O
+
+'	O
+''	O
+Sébastien	B-PER
+Loeb	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Team	B-ORG
+Milram	I-ORG
+''	O
+'	O
+
+Estádio	B-ORG
+do	I-ORG
+Dragão	I-ORG
+
+Gardnar	B-PER
+Mulloy	I-PER
+''	O
+(	O
+semifinali	O
+)	O
+''	O
+
+Santa	B-LOC
+Lucia	I-LOC
+Stazione	I-LOC
+(	O
+''Postaja	O
+''	O
+)	O
+
+*border	O
+Ducato	B-ORG
+di	I-ORG
+Modena	I-ORG
+e	I-ORG
+Reggio	I-ORG
+
+====	O
+Sierra	B-LOC
+de	I-LOC
+Tramontana	I-LOC
+====	O
+
+Magliano	B-LOC
+de	I-LOC
+'	I-LOC
+Marsi	I-LOC
+
+Ha	O
+inciso	O
+per	O
+la	O
+Laurie	B-ORG
+Records	I-ORG
+.	O
+
+'	O
+''	O
+François	B-PER
+Pervis	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Frazzanò	B-LOC
+''	O
+'	O
+
+Carolina	B-LOC
+del	I-LOC
+Nord	I-LOC
+(	O
+NC	O
+)	O

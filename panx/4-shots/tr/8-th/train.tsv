@@ -1,0 +1,90 @@
+Sara	B-PER
+Tancredi'ye	I-PER
+(	O
+Sarah	B-PER
+Wayne	I-PER
+Callies	I-PER
+)	O
+güveniyorlardı	O
+,	O
+O	O
+Lincoln'nün	O
+suçsuz	O
+olduğunu	O
+kanıtlayacak	O
+bazı	O
+deliller	O
+bulmuştu	O
+.	O
+
+West	B-LOC
+Lancashire	I-LOC
+(	I-LOC
+borough	I-LOC
+)	I-LOC
+
+Parma	B-LOC
+ili	I-LOC
+,	O
+İtalya	B-LOC
+
+Amerika	B-LOC
+Birleşik	I-LOC
+Devletleri	I-LOC
+,	O
+Karayipler	B-LOC
+,	O
+Latin	B-LOC
+Amerika	I-LOC
+ve	O
+Meksika'da	B-LOC
+hizmet	O
+vermektedir	O
+.	O
+
+YÖNLENDİRME	O
+Almanya	B-ORG
+Ulusal	I-ORG
+Demokratik	I-ORG
+Partisi	I-ORG
+
+YÖNLENDİRME	O
+(	B-ORG
+What	I-ORG
+'s	I-ORG
+the	I-ORG
+Story	I-ORG
+)	I-ORG
+Morning	I-ORG
+Glory	I-ORG
+?	I-ORG
+
+YÖNLENDİRME	O
+Aziz	B-PER
+Osman	I-PER
+bin	I-PER
+Selahaddin	I-PER
+
+Sanem	B-PER
+Çelik	I-PER
+(	O
+konuk	O
+oyuncu	O
+)	O
+
+YÖNLENDİRME	O
+Güney	B-LOC
+,	I-LOC
+Sinanpaşa	I-LOC
+
+**	O
+Ed	B-PER
+Macauley	I-PER
+,	O
+Boston	B-ORG
+Celtics	I-ORG
+
+YÖNLENDİRME	O
+Deloitte	B-ORG
+Touche	I-ORG
+Tohmatsu	I-ORG

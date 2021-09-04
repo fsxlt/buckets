@@ -1,0 +1,44 @@
+YÖNLENDİR	O
+Kadro	B-ORG
+(	I-ORG
+dergi	I-ORG
+)	I-ORG
+
+I.	B-PER
+Bartholomeos	I-PER
+(	O
+1991'den	O
+beri	O
+)	O
+
+35	O
+sezon	O
+Division	B-ORG
+2'de	I-ORG
+mücadele	O
+etti	O
+.	O
+
+YÖNLENDİRME	O
+Bölücekova	B-LOC
+,	I-LOC
+Göynük	I-LOC
+
+'	O
+''	O
+Abdoulaye	B-PER
+Ba	I-PER
+''	O
+'	O
+-	O
+'	O
+''	O
+Fenerbahçe	B-ORG
+''	O
+'	O
+2015-	O
+
+Northway	B-LOC
+Village	I-LOC
+,	I-LOC
+Alaska	I-LOC

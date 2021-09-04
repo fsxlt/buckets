@@ -1,0 +1,108 @@
+Aastail	O
+2001–2011	O
+oli	O
+ta	O
+Eesti	B-ORG
+Keskerakonna	I-ORG
+liige	O
+.	O
+
+Ka	O
+tema	O
+poeg	O
+Maximilian	B-PER
+II	I-PER
+jätkas	O
+analoogset	O
+poliitikat	O
+.	O
+
+Aleksander	B-PER
+II	I-PER
+(	O
+1818–1881	O
+)	O
+
+Sama	O
+õpetasid	O
+hiljem	O
+teiste	O
+seas	O
+ka	O
+Canterbury	B-PER
+Anselm	I-PER
+ja	O
+Aquino	B-PER
+Thomas	I-PER
+.	O
+
+Free	B-ORG
+Software	I-ORG
+Foundation	I-ORG
+
+Charles	B-PER
+II	I-PER
+Paljaspea	I-PER
+
+Liikmeteks	O
+on	O
+Araabia	B-LOC
+Ühendemiraadid	I-LOC
+,	O
+Bahrein	B-LOC
+,	O
+Katar	B-LOC
+,	O
+Kuveit	B-LOC
+,	O
+Omaan	B-LOC
+ja	O
+Saudi	B-LOC
+Araabia	I-LOC
+.	O
+
+Kulgeb	O
+loode-kagu	O
+suunas	O
+,	O
+kagus	O
+ühenduses	O
+Altaiga	B-LOC
+Edelanõlvad	O
+laskuvad	O
+laugelt	O
+Lääne-Siberi	B-LOC
+madalikule	I-LOC
+,	O
+kirdenõlvad	O
+langevad	O
+järsult	O
+Kuznetski	B-LOC
+basseini	I-LOC
+.	O
+
+suuna	O
+Ära	B-ORG
+osta	I-ORG
+Venemaa	I-ORG
+kaupu	I-ORG
+!	I-ORG
+
+'	O
+''	O
+Sierra	B-LOC
+Leone	I-LOC
+'	O
+''	O
+
+suuna	O
+5.	B-ORG
+SS-Soomusdiviis	I-ORG
+``	I-ORG
+Wiking	I-ORG
+''	I-ORG
+
+2013	B-ORG
+Val	B-LOC
+di	I-LOC
+Fiemmes	I-LOC

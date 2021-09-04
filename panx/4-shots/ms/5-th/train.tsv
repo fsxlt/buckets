@@ -1,0 +1,81 @@
+Penjajahan	B-ORG
+Sepanyol	I-ORG
+di	I-ORG
+Amerika	I-ORG
+
+LENCONG	O
+Abdul	B-PER
+Rahman	I-PER
+III	I-PER
+
+Beliau	O
+merancang	O
+untuk	O
+berpindah	O
+ke	O
+New	B-LOC
+York	I-LOC
+untuk	O
+meneruskan	O
+kariernya	O
+sebagai	O
+seorang	O
+model	O
+.	O
+
+Dato	B-PER
+'	I-PER
+Paduka	I-PER
+Mukhriz	I-PER
+Tun	I-PER
+Mahathir	I-PER
+–	O
+Menteri	B-ORG
+Besar	I-ORG
+Kedah	I-ORG
+
+LENCONG	O
+Campo	B-LOC
+,	I-LOC
+Sepanyol	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Oise	I-LOC
+
+Baharuddin	B-PER
+Jusuf	I-PER
+Habibie	I-PER
+
+LENCONG	O
+Anjing	B-ORG
+pengutip	I-ORG
+berbulu	I-ORG
+keriting	I-ORG
+
+``	O
+Reconcile	O
+''	O
+(	O
+Love	B-ORG
+Me	I-ORG
+Butch	I-ORG
+)	O
+
+Dinyanyikan	O
+oleh	O
+Takahashi	B-PER
+Ai	I-PER
+dan	O
+Niigaki	B-PER
+Risa	I-PER
+
+Bir	B-LOC
+El	I-LOC
+Djir	I-LOC
+''	O
+(	O
+68,300	O
+)	O
+''	O

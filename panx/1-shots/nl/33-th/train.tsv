@@ -1,0 +1,35 @@
+Behalve	O
+in	O
+haar	O
+geboorteplaats	O
+groeide	O
+ze	O
+op	O
+in	O
+Philadelphia	B-LOC
+(	I-LOC
+Pennsylvania	I-LOC
+)	I-LOC
+.	O
+
+De	O
+Christian	B-ORG
+Medical	I-ORG
+Fellowship	I-ORG
+richt	O
+zich	O
+eveneens	O
+op	O
+medische	O
+professionals	O
+,	O
+maar	O
+meer	O
+praktisch	O
+gericht	O
+
+Frank	B-PER
+Boeijen	I-PER
+(	I-PER
+toetsenist	I-PER
+)	I-PER

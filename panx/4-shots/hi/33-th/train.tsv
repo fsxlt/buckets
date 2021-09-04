@@ -1,0 +1,85 @@
+'	O
+''	O
+जम्मू	B-LOC
+और	I-LOC
+कश्मीर	I-LOC
+''	O
+'	O
+
+राजा	B-PER
+मान	I-PER
+सिंह	I-PER
+
+आमिर	B-PER
+ख़ान	I-PER
+,	O
+मनीषा	B-PER
+कोइराला	I-PER
+
+वाल्मीकि	B-LOC
+राष्ट्रीय	I-LOC
+उद्यान	I-LOC
+
+मार्क	B-PER
+बाउचर	I-PER
+(	O
+विकेट	O
+कीपर	O
+)	O
+
+परमाणु	B-ORG
+ऊर्जा	I-ORG
+आयोग	I-ORG
+(	I-ORG
+भारत	I-ORG
+)	I-ORG
+
+महाराष्ट्र	B-LOC
+(	O
+55	O
+)	O
+,	O
+मध्य	B-LOC
+प्रदेश	I-LOC
+(	O
+295	O
+)	O
+
+अनुप्रेषित	O
+सशस्त्र	B-ORG
+सेना	I-ORG
+झंडा	I-ORG
+दिवस	I-ORG
+
+'	O
+''	O
+पोर्ट	B-LOC
+ब्लेयर	I-LOC
+''	O
+'	O
+
+पुनर्प्रेषित	O
+नाइजीरिया	B-ORG
+बम	I-ORG
+विस्फोट	I-ORG
+–	I-ORG
+मई	I-ORG
+२०१४	I-ORG
+
+स्वेतलाना	B-PER
+कुज़नेतसोवा	I-PER
+ने	O
+एलीना	B-PER
+देमेनतीवा	I-PER
+को	O
+63	O
+75	O
+से	O
+हराया।	O
+
+इस्लामी	B-ORG
+परामर्शक	I-ORG
+सभा	I-ORG
+(	I-ORG
+ईरान	I-ORG
+)	I-ORG

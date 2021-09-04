@@ -1,0 +1,40 @@
+تحويل	O
+كوينسي	B-LOC
+(	I-LOC
+فلوريدا	I-LOC
+)	I-LOC
+
+تحويل	O
+كومبين	B-LOC
+دي	I-LOC
+بوفيري	I-LOC
+
+استطاع	O
+الاستيلاء	O
+على	O
+سرقسطة	B-LOC
+والقضاء	O
+على	O
+سلطة	O
+بني	B-ORG
+قسي	I-ORG
+.	O
+
+فرانكي	B-PER
+فان	I-PER
+در	I-PER
+إلست	I-PER
+
+تحويل	O
+حزب	B-ORG
+القراصنة	I-ORG
+(	I-ORG
+السويد	I-ORG
+)	I-ORG
+
+'	O
+''	O
+باري	B-PER
+ليفنسون	I-PER
+''	O
+'	O

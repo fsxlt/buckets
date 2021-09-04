@@ -1,0 +1,89 @@
+Rahvapartei	B-ORG
+(	I-ORG
+Läti	I-ORG
+)	I-ORG
+
+A.	B-ORG
+Le	I-ORG
+Coq	I-ORG
+Arena	I-ORG
+,	O
+Tallinn	B-LOC
+
+Kate	B-PER
+Moss	I-PER
+,	O
+inglise	O
+modell	O
+(	O
+1974–	O
+)	O
+
+Oil	B-LOC
+City	I-LOC
+(	I-LOC
+Maryland	I-LOC
+)	I-LOC
+
+Paar	O
+elab	O
+Santa	B-LOC
+Monicas	I-LOC
+Californias	B-LOC
+.	O
+
+Tema	O
+eelmine	O
+klubi	O
+oli	O
+JK	B-ORG
+Sillamäe	I-ORG
+Kalev	I-ORG
+.	O
+
+suuna	O
+Georg	B-PER
+Friedrich	I-PER
+Parrot	I-PER
+
+Egiptuses	B-LOC
+ajas	O
+sõjavägi	O
+laiali	O
+ekspresident	O
+Muḩammad	B-PER
+Mursī	I-PER
+toetajate	O
+meeleavaldused	O
+.	O
+
+Ta	O
+oli	O
+pärit	O
+Keila	B-LOC
+vallast	I-LOC
+Keelva	B-LOC
+külast	O
+.	O
+
+Krasnodari	B-LOC
+krai	I-LOC
+(	O
+1937–	O
+)	O
+
+*Eestisse	O
+saabusid	O
+ametlikule	O
+visiidile	O
+Ameerika	B-ORG
+Ühendriikide	I-ORG
+president	I-ORG
+George	B-PER
+W.	I-PER
+Bush	I-PER
+ja	O
+välisminister	O
+Condoleezza	B-PER
+Rice	I-PER
+.	O

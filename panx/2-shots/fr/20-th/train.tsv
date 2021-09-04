@@ -1,0 +1,44 @@
+Petit	B-LOC
+sphinx	I-LOC
+de	I-LOC
+la	I-LOC
+vigne	I-LOC
+
+REDIRECTION	O
+Egoli	B-ORG
+:	I-ORG
+Place	I-ORG
+of	I-ORG
+Gold	I-ORG
+
+Thomas	B-PER
+Stafford	I-PER
+(	O
+2	O
+)	O
+
+Équipe	B-LOC
+de	I-LOC
+France	I-LOC
+de	I-LOC
+Fed	I-LOC
+Cup	I-LOC
+
+c'est	O
+le	O
+Kapa	B-ORG
+o	I-ORG
+Pango	I-ORG
+qui	O
+est	O
+interprété	O
+en	O
+préambule	O
+.	O
+
+Yasuji	B-PER
+Okamura	I-PER
+(	O
+1884–1966	O
+)	O
+.	O

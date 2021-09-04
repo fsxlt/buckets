@@ -1,0 +1,83 @@
+تغییرمسیر	O
+ارنست	B-PER
+تیلدن	I-PER
+پارکر	I-PER
+
+تغییرمسیر	O
+گره	B-LOC
+(	I-LOC
+خرم‌آباد	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+امیدآباد	B-LOC
+(	I-LOC
+فارسان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+آنتونیو	B-PER
+لبو	I-PER
+لبو	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+اداره	O
+این	O
+مجموعه	O
+پس	O
+از	O
+مصادره	O
+به	O
+بنیاد	B-ORG
+مستضعفان	I-ORG
+انقلاب	I-ORG
+اسلامی	I-ORG
+واگذار	O
+شد	O
+.	O
+
+تغییرمسیر	O
+ویلهلم	B-PER
+دی.	I-PER
+استایر	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+جان	B-PER
+لوگان	I-PER
+(	I-PER
+نویسنده	I-PER
+)	I-PER
+
+تغییرمسیر	O
+فیروزآباد	B-LOC
+(	I-LOC
+نوشهر	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+هبراسپرینگز	B-LOC
+(	I-LOC
+آرکانزاس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+لیگ	B-ORG
+دسته	I-ORG
+اول	I-ORG
+فوتبال	I-ORG
+مونته‌نگرو	I-ORG

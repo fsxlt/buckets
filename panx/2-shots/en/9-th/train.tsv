@@ -1,0 +1,40 @@
+2,000	B-ORG
+Guineas	I-ORG
+Stakes	I-ORG
+–	O
+El	B-LOC
+Gran	I-LOC
+Senor	I-LOC
+
+Superior	B-LOC
+ganglion	I-LOC
+of	I-LOC
+vagus	I-LOC
+nerve	I-LOC
+
+It	O
+is	O
+close	O
+to	O
+St	B-ORG
+Albans	I-ORG
+City	I-ORG
+railway	I-ORG
+station	I-ORG
+.	O
+
+Richard	B-PER
+J.	I-PER
+Daley	I-PER
+-	O
+2	O
+(	O
+0.07	O
+%	O
+)	O
+
+Kevin	B-PER
+Garnett	I-PER
+(	O
+12	O
+)	O

@@ -1,0 +1,70 @@
+Giovanni	B-PER
+Domenico	I-PER
+Cassini	I-PER
+
+Hugo	B-PER
+Gernsback	I-PER
+(	O
+1884-1967	O
+)	O
+
+Carélie	B-LOC
+du	I-LOC
+Sud	I-LOC
+
+Médaillé	B-ORG
+d'argent	I-ORG
+aux	O
+Jeux	B-ORG
+de	I-ORG
+Vancouver	I-ORG
+2010	I-ORG
+.	O
+
+Jimmy	B-PER
+Johnstone	I-PER
+(	O
+1944-2006	O
+)	O
+
+Casamicciola	B-LOC
+Terme	I-LOC
+,	O
+Lacco	B-LOC
+Ameno	I-LOC
+,	O
+Serrara	B-LOC
+Fontana	I-LOC
+
+Musée	B-ORG
+Munch	I-ORG
+,	O
+Oslo	B-LOC
+,	O
+Norvège	B-LOC
+
+École	B-ORG
+de	I-ORG
+Barcelone	I-ORG
+
+===	O
+Ligue	B-ORG
+nationale	I-ORG
+de	I-ORG
+hockey	I-ORG
+===	O
+
+Joševa	B-LOC
+(	I-LOC
+Valjevo	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Diarmait	B-PER
+Mac	I-PER
+Murchada	I-PER
+
+Zygène	B-LOC
+de	I-LOC
+la	I-LOC
+bruyère	I-LOC

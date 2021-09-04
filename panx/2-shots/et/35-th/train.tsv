@@ -1,0 +1,53 @@
+Paide	B-LOC
+vald	I-LOC
+,	O
+Järva	B-LOC
+maakond	I-LOC
+
+Eestisse	B-LOC
+saabus	O
+kahepäevasele	O
+visiidile	O
+Ameerika	B-ORG
+Ühendriikide	I-ORG
+Kongressi	I-ORG
+delegatsioon	O
+.	O
+
+Amadou	B-PER
+Toumani	I-PER
+Touré	I-PER
+(	O
+2	O
+)	O
+
+See	O
+on	O
+Pürenee	B-LOC
+poolsaare	I-LOC
+ning	O
+Euroopa	B-LOC
+mandriosa	O
+lõunapoolseim	O
+punkt	O
+.	O
+
+Jaapani	B-ORG
+jalgpallikoondises	I-ORG
+mängis	O
+ta	O
+1927.	O
+aastal	O
+2	O
+mängu	O
+.	O
+
+Eduard	B-PER
+Georg	I-PER
+von	I-PER
+Wahl	I-PER
+,	O
+arstiteadlane	O
+(	O
+1833–1890	O
+)	O

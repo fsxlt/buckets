@@ -1,0 +1,33 @@
+'	O
+''	O
+David	B-PER
+Coulthard	I-PER
+''	O
+'	O
+
+Sedangkan	O
+Pantai	B-ORG
+Gading	I-ORG
+dan	O
+Mali	B-ORG
+berhasil	O
+menembus	O
+masuk	O
+babak	O
+semifinal	O
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Calvados	I-LOC
+(	I-LOC
+A-L	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Honda	B-ORG
+''	O
+'	O

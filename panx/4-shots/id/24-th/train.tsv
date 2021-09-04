@@ -1,0 +1,83 @@
+Maganoy	O
+→	O
+Shariff	B-LOC
+Aguak	I-LOC
+
+'	O
+''	O
+Roy	B-PER
+Beerens	I-PER
+''	O
+'	O
+
+Glee	B-ORG
+:	I-ORG
+The	I-ORG
+Music	I-ORG
+Presents	I-ORG
+The	I-ORG
+Warblers	I-ORG
+''	O
+
+'	O
+''	O
+Francesca	B-PER
+Schiavone	I-PER
+[5]	O
+''	O
+'	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Calvados	I-LOC
+(	I-LOC
+A-L	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Odil	B-PER
+Akhmedov	I-PER
+''	O
+'	O
+
+Sky	B-ORG
+News	I-ORG
+Sunday	I-ORG
+Business	I-ORG
+''	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meuse	I-LOC
+
+``	O
+Aitakatta	B-ORG
+(	I-ORG
+Ingin	I-ORG
+Bertemu	I-ORG
+)	I-ORG
+''	O
+(	O
+会いたかった	O
+)	O
+
+ALIH	O
+Tengku	B-PER
+Amir	I-PER
+Shah	I-PER
+
+ALIH	O
+Hip	B-ORG
+Hip	B-ORG
+Hura	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Charente-Maritime	I-LOC

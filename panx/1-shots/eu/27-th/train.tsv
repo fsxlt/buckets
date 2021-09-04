@@ -1,0 +1,29 @@
+Beste	O
+taldea	O
+,	O
+era	O
+berean	O
+ugaria	O
+,	O
+iraultzaileena	O
+izan	O
+zen	O
+,	O
+Largo	B-PER
+Caballero	I-PER
+buruzagi	O
+.	O
+
+Berna	B-LOC
+kantonamenduan	I-LOC
+dago	O
+,	O
+barrutian	O
+.	O
+
+FC	B-ORG
+Flora	I-ORG
+Tallinn	I-ORG
+(	O
+10	O
+)	O

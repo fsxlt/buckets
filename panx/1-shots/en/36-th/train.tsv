@@ -1,0 +1,27 @@
+Maritime	B-LOC
+Security	I-LOC
+Patrol	I-LOC
+Area	I-LOC
+
+Edward	B-PER
+Lee	I-PER
+(	I-PER
+bishop	I-PER
+)	I-PER
+
+It	O
+was	O
+published	O
+between	O
+1948	O
+and	O
+2002	O
+by	O
+the	O
+Rijksmuseum	B-ORG
+van	I-ORG
+Natuurlijke	I-ORG
+Historie	I-ORG
+in	O
+Leiden	B-LOC
+.	O

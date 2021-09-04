@@ -1,0 +1,79 @@
+تغییرمسیر	O
+حسین	B-PER
+بن	I-PER
+علی	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+لوئیز	B-PER
+کارلوس	I-PER
+پریرا	I-PER
+
+تغییرمسیر	O
+علی‌آباد	B-LOC
+(	I-LOC
+مهریز	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+ایران	B-LOC
+-	O
+روز	O
+بزرگداشت	O
+شیخ	B-PER
+مفید	I-PER
+.	O
+
+تغییر_مسیر	O
+هنری	B-PER
+پنجم	I-PER
+(	I-PER
+انگلستان	I-PER
+)	I-PER
+
+نمای	B-LOC
+کلی	I-LOC
+ایالات	I-LOC
+متحده	I-LOC
+آمریکا	I-LOC
+
+تغییرمسیر	O
+خان‌آباد	B-LOC
+(	I-LOC
+الیگودرز	I-LOC
+)	I-LOC
+
+تغییر_مسیر	O
+آتشفشان	B-LOC
+سان	I-LOC
+میگل	I-LOC

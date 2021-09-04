@@ -1,0 +1,44 @@
+Jimbo	B-LOC
+ya	I-LOC
+Oran	I-LOC
+(	I-LOC
+Aljeria	I-LOC
+)	I-LOC
+
+Mkoa	B-LOC
+wa	I-LOC
+Unguja	I-LOC
+Kusini	I-LOC
+
+Kimbo	B-ORG
+(	I-ORG
+Kamerun	I-ORG
+)	I-ORG
+
+Papa	B-PER
+Yohane	I-PER
+Paulo	I-PER
+II	I-PER
+
+Democratic	B-ORG
+Party	I-ORG
+(	I-ORG
+Kenya	I-ORG
+)	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+51	O
+km²	B-ORG
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Yohane	I-PER
+VI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Sisinnio	I-PER
+.	O

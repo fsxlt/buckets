@@ -1,0 +1,33 @@
+Hiljem	O
+lisati	O
+Utah	B-ORG
+'	I-ORG
+Ülikooli	I-ORG
+arvutigraafikalaboris	O
+täielik	O
+3D-kujutis	O
+SHRLDU	O
+``	O
+maailmast	O
+''	O
+.	O
+
+Ta	O
+on	O
+ajakirja	O
+Semiotica	B-ORG
+''	O
+peatoimetaja	O
+.	O
+
+Richlandi	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+)	O
+
+Portree	O
+autor	O
+Peter	B-PER
+Paul	I-PER
+Rubens	I-PER

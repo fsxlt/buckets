@@ -1,0 +1,39 @@
+'	O
+''	O
+Gorka	B-PER
+Izagirre	I-PER
+''	O
+'	O
+
+Fernando	B-ORG
+de	I-ORG
+Buen	I-ORG
+y	I-ORG
+Lozano	I-ORG
+
+Vénétie	B-LOC
+-	O
+Trentin-Haut-Adige	B-LOC
+-	O
+Frioul-Vénétie	B-LOC
+julienne	I-LOC
+
+==	O
+État	B-LOC
+de	I-LOC
+New	I-LOC
+York	I-LOC
+==	O
+
+redirection	O
+Université	B-ORG
+catholique	I-ORG
+de	I-ORG
+Bruxelles	I-ORG
+
+'	O
+''	O
+Eddie	B-PER
+Irvine	I-PER
+''	O
+'	O

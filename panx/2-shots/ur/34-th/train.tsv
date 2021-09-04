@@ -1,0 +1,34 @@
+رجوع_مکرر	O
+محمد	B-PER
+صلی	I-PER
+اللہ	I-PER
+علیہ	I-PER
+و	I-PER
+آلہ	I-PER
+و	I-PER
+سلم	I-PER
+
+جامعہ	B-ORG
+وسطی	I-ORG
+پنجاب	I-ORG
+,	O
+لاہور	B-LOC
+
+رجوع_مکرر	O
+میپلووڈ،	B-LOC
+نیو	I-LOC
+جرسی	I-LOC
+
+رجوع_مکرر	O
+محمد	B-PER
+مارمادوک	I-PER
+پکتھال	I-PER
+
+قبائلی	B-LOC
+علاقہ	I-LOC
+جات	I-LOC
+
+رجوع_مکرر	O
+بھارتیہ	B-ORG
+جنتا	I-ORG
+پارٹی	I-ORG

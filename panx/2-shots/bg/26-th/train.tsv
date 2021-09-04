@@ -1,0 +1,66 @@
+на	O
+юг	O
+–	O
+Община	B-LOC
+Девня	I-LOC
+;	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Индонезия	B-LOC
+и	O
+Папуа	B-LOC
+Нова	I-LOC
+Гвинея	I-LOC
+.	O
+
+'	O
+''	O
+Македония	B-ORG
+(	I-ORG
+Скопие	I-ORG
+)	I-ORG
+''	O
+'	O
+
+Марк	B-PER
+Лициний	I-PER
+Крас	I-PER
+Фруги	I-PER
+(	I-PER
+консул	I-PER
+27	I-PER
+г	I-PER
+.	I-PER
+)	I-PER
+
+Кариерата	O
+му	O
+започва	O
+в	O
+Септември	B-ORG
+(	I-ORG
+София	I-ORG
+)	I-ORG
+.	O
+
+Той	O
+е	O
+бащата	O
+на	O
+Пени	B-PER
+Уидмор	I-PER
+(	O
+Соня	B-PER
+Уолгър	I-PER
+)	O
+и	O
+Даниъл	B-PER
+Фарадей	I-PER
+(	O
+Джеръми	B-PER
+Дейвис	I-PER
+)	O
+.	O

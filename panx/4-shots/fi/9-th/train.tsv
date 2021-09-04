@@ -1,0 +1,113 @@
+Dark	B-ORG
+Assault	I-ORG
+''	O
+(	O
+2001	O
+)	O
+
+Safi	B-ORG
+Airways	I-ORG
+(	O
+Mazar-i-Sharif	B-LOC
+)	O
+
+'	O
+''	O
+Tallinmäki	O
+''	O
+'	O
+on	O
+noin	O
+kaksi	O
+kilometriä	O
+Haminan	B-LOC
+keskustasta	O
+itään	O
+sijaitseva	O
+kaupunginosa	O
+.	O
+
+'	O
+''	O
+Sjeng	B-PER
+Schalken	I-PER
+''	O
+'	O
+
+Kolmen	B-ORG
+rotkon	I-ORG
+pato	I-ORG
+
+''	O
+San	B-LOC
+Antonio	I-LOC
+''	O
+'	O
+
+Dr.	B-PER
+Dre	I-PER
+,	O
+Snoop	B-PER
+Dogg	I-PER
+
+Kap	B-LOC
+Verdellä	I-LOC
+laji	O
+pesii	O
+kolmella	O
+saarella	O
+,	O
+joiden	O
+kannan	O
+koko	O
+on	O
+5	O
+000–10	O
+000	O
+paria	O
+.	O
+
+Järven	O
+länsipää	O
+ulottuu	O
+hieman	O
+myös	O
+Kauniaisten	B-LOC
+alueelle	O
+.	O
+
+Sen	O
+Mäkelin-reliefin	O
+on	O
+tehnyt	O
+kuvanveistäjä	O
+Emil	B-PER
+Wikström	I-PER
+.	O
+
+Hän	O
+on	O
+pelannut	O
+Suomen	B-LOC
+Fed	I-LOC
+Cup	I-LOC
+-joukkueessa	I-LOC
+vuodesta	O
+2001	O
+alkaen	O
+.	O
+
+1987	B-ORG
+–	O
+Luc	B-PER
+Robitaille	I-PER
+,	O
+Los	B-ORG
+Angeles	I-ORG
+Kings	I-ORG
+
+OHJAUS	O
+Cotopaxi	B-LOC
+(	I-LOC
+maakunta	I-LOC
+)	I-LOC

@@ -1,0 +1,15 @@
+টিকি	B-LOC
+হাঁস	I-LOC
+(	O
+''Aythya	O
+fuligula	O
+''	O
+)	O
+
+ড্যাফোডিল	B-ORG
+ইন্টারন্যাশনাল	I-ORG
+ইউনিভার্সিটি	I-ORG
+
+জন	B-PER
+ল্য	I-PER
+কারে	I-PER

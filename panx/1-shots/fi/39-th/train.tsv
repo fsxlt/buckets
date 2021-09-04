@@ -1,0 +1,35 @@
+Aiemmin	O
+kilpailuun	O
+osallistuneista	O
+maista	O
+Saksa	B-ORG
+ei	O
+ole	O
+tällä	O
+kertaa	O
+mukana	O
+.	O
+
+**	O
+Santiago	B-LOC
+de	I-LOC
+Chile	I-LOC
+(	O
+suurlähetystö	O
+)	O
+
+Hän	O
+oli	O
+Teknillisen	B-ORG
+korkeakoulun	I-ORG
+huoneenrakennusopin	O
+professori	O
+1951–1965	O
+.	O
+
+Hero]]	O
+''	O
+(	O
+Mariah	B-PER
+Carey	I-PER
+)	O

@@ -1,0 +1,114 @@
+Viene	O
+perciò	O
+spesso	O
+paragonata	O
+a	O
+Wall	B-ORG
+Street	I-ORG
+a	O
+New	B-LOC
+York	I-LOC
+.	O
+
+''	O
+Speciale	B-ORG
+Scooby	I-ORG
+''	O
+
+2014-2015	B-ORG
+-	O
+10º	O
+in	O
+Serie	B-LOC
+A	I-LOC
+.	O
+
+Poi	O
+proseguì	O
+fino	O
+a	O
+raggiungere	O
+Alessandria	B-LOC
+d'Egitto	I-LOC
+.	O
+
+Mar	B-LOC
+di	I-LOC
+Flores	I-LOC
+
+'	O
+''	O
+Johan	B-PER
+Museeuw	I-PER
+''	O
+'	O
+
+Europa	B-LOC
+(	O
+zone	O
+centro-settentrionali	O
+)	O
+
+'	O
+''	O
+Martin	B-PER
+Fischer	I-PER
+
+20px	O
+'	O
+''	O
+Caen	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+''Scambiata	O
+con	O
+i	O
+New	B-ORG
+England	I-ORG
+Patriots	I-ORG
+''	O
+'	O
+''	O
+'	O
+''	O
+[b]	O
+''	O
+'	O
+
+Anello	B-PER
+del	I-PER
+pescatore	I-PER
+
+Nazionale	B-ORG
+di	I-ORG
+pallacanestro	I-ORG
+della	I-ORG
+Papua	I-ORG
+Nuova	I-ORG
+Guinea	I-ORG
+
+'	O
+''	O
+Bimota-Adriatica	B-ORG
+''	O
+'	O
+
+'	O
+''	O
+Marin	B-PER
+Čilić	I-PER
+''	O
+'	O
+ha	O
+battuto	O
+in	O
+finale	O
+Somdev	B-PER
+Devvarman	I-PER
+,	O
+6-4	O
+,	O
+7-63	O

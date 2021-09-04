@@ -1,0 +1,135 @@
+중화민국의	B-LOC
+중앙은행은	O
+중화민국	B-ORG
+중앙은행이다	I-ORG
+.	O
+
+음와로	B-LOC
+주	I-LOC
+(	O
+Mwaro	O
+)	O
+
+그는	O
+대한민국	B-ORG
+축구	I-ORG
+국가대표팀의	I-ORG
+일원으로서	O
+활약하기도	O
+했는데	O
+,	O
+58경기에	O
+나와	O
+21골을	O
+넣었다	O
+.	O
+
+아이가이레타이	B-LOC
+구	I-LOC
+(	O
+Aiga-i-le-Tai	O
+)	O
+1	O
+)	O
+
+본부는	O
+워싱턴	B-LOC
+D.C.에	I-LOC
+위치하고	O
+있다	O
+.	O
+
+카리서	B-PER
+판	I-PER
+하우턴	I-PER
+-	O
+비르기타	O
+욘스도티르	O
+
+|	O
+''	O
+페로즈	B-PER
+1세	I-PER
+''	O
+'	O
+
+'	O
+''	O
+구미시	B-LOC
+''	O
+'	O
+
+SET	B-ORG
+LIST〜グレイテストソングス〜完全盤	I-ORG
+SET	O
+LIST~그레이티스트	O
+송즈~완전반》에	O
+수록	O
+
+사회적	O
+혼란이	O
+일었기	O
+때문에	O
+중화인민공화국	B-ORG
+국무원에	I-ORG
+의해	O
+폐지되었다	O
+.	O
+
+넘겨주기	O
+매사추세츠	B-LOC
+만	I-LOC
+식민지	I-LOC
+
+커크	B-PER
+해밋	I-PER
+(	O
+Kirk	O
+Hammett	O
+)	O
+-	O
+기타	B-ORG
+
+애덤	B-PER
+리바인이	I-PER
+설명하길	O
+이	O
+음반은	O
+조금	O
+더	O
+자신감	O
+있으며	O
+,	O
+가사적으로도	O
+강력하다고	O
+하였다	O
+.	O
+
+서하	B-LOC
+(	O
+西夏	O
+)	O
+숭종	B-PER
+(	O
+崇宗	O
+)	O
+37년	O
+
+롯데전에	B-ORG
+상대적으로	O
+강했던	O
+특징을	O
+보여	O
+롯데	B-ORG
+구단에서	O
+그를	O
+보상	O
+선수로	O
+지명하였다	O
+.	O
+
+노체라수페리오레	B-LOC
+(	O
+Nocera	O
+Superiore	O
+)	O

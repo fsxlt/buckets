@@ -1,0 +1,88 @@
+Juan	B-PER
+Sebastián	I-PER
+Elcano	I-PER
+
+Shiroi	B-ORG
+,	I-ORG
+Chiba	I-ORG
+
+La	B-LOC
+Paz	I-LOC
+,	I-LOC
+Leyte	I-LOC
+(	O
+Cogon	O
+)	O
+
+Guyabano	B-LOC
+(	O
+''Soursop	O
+''	O
+)	O
+
+Pandaigdigang	B-ORG
+Hukumang	I-ORG
+Pangkatarungan	I-ORG
+
+Ji	B-PER
+Jin	I-PER
+Hee	I-PER
+(	O
+지진희	O
+)	O
+bilang	O
+'	O
+''	O
+Min	O
+Jeong-ho	O
+''	O
+'	O
+(	O
+민정호	O
+(	O
+閔政浩	O
+)	O
+)	O
+
+Mga	B-LOC
+comune	I-LOC
+ng	I-LOC
+Ain	I-LOC
+
+Dionisio	B-PER
+II	I-PER
+ng	I-PER
+Siracusa	I-PER
+
+Fabian	B-PER
+de	I-PER
+la	I-PER
+Rosa	I-PER
+
+Lalawigan	B-LOC
+ng	I-LOC
+Arezzo	I-LOC
+
+Judeau	O
+sa	O
+Berserk	B-ORG
+''	O
+
+Paligsahan	B-ORG
+ng	I-ORG
+mga	I-ORG
+Pelikula	I-ORG
+ng	I-ORG
+Kalakhang	I-ORG
+Maynila	I-ORG
+ng	I-ORG
+2008	I-ORG
+
+Okazaki	B-LOC
+,	I-LOC
+Aichi	I-LOC
+
+Estasyong	B-ORG
+Legarda	I-ORG
+ng	I-ORG
+LRT	I-ORG

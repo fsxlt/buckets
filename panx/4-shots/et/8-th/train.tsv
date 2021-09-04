@@ -1,0 +1,84 @@
+suuna	O
+Napi	B-LOC
+(	I-LOC
+Hiiu	I-LOC
+)	I-LOC
+
+**	O
+'	O
+''	O
+8	O
+''	O
+'	O
+Rubens	B-PER
+Barrichello	I-PER
+,	O
+Brasiilia	B-LOC
+
+Ta	O
+võttis	O
+ameti	O
+üle	O
+Zimbabwe	B-LOC
+presidendilt	O
+Robert	B-PER
+Mugabelt	I-PER
+.	O
+
+Klubi	O
+kodustaadioniks	O
+on	O
+Moss	B-ORG
+Rose	I-ORG
+.	O
+
+Venemaa	B-LOC
+Keisririigi	I-LOC
+Vilno	B-ORG
+kubermang	I-ORG
+
+Tapa	B-LOC
+vald	I-LOC
+,	O
+Lääne-Viru	B-LOC
+maakond	I-LOC
+
+Richlandi	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+)	O
+
+suuna	O
+20.	B-ORG
+eesti	I-ORG
+diviis	I-ORG
+
+Tema	O
+kasuisa	O
+oli	O
+lavastaja	O
+Grigori	B-PER
+Kromanov	I-PER
+.	O
+
+Salga	O
+piiras	O
+sisse	O
+ja	O
+hävitas	O
+kohalik	O
+Omakaitse	B-ORG
+.	O
+
+Eestis	B-LOC
+Tallinnas	B-LOC
+Saku	B-ORG
+Suurhallis	I-ORG
+andis	O
+lahkumiskontserdi	O
+Venemaa	B-LOC
+poplaulja	O
+Alla	B-PER
+Pugatšova	I-PER
+.	O

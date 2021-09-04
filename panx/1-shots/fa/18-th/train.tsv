@@ -1,0 +1,16 @@
+تیم	B-ORG
+ملی	I-ORG
+فوتبال	I-ORG
+جمهوری	I-ORG
+ایرلند	I-ORG
+
+تغییرمسیر	O
+چشمه	B-LOC
+انجیر	I-LOC
+(	I-LOC
+ممسنی	I-LOC
+)	I-LOC
+
+رحیم	B-PER
+مؤذن‌زاده	I-PER
+اردبیلی	I-PER

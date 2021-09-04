@@ -1,0 +1,40 @@
+1964–1982	O
+oli	O
+ministrikohal	O
+August	B-PER
+Koern	I-PER
+.	O
+
+Piirneb	O
+läänes	O
+Pihkva	B-LOC
+oblastiga	I-LOC
+ja	O
+lõunas	O
+Smolenski	B-LOC
+oblastiga	I-LOC
+.	O
+
+Luunja	B-LOC
+vald	I-LOC
+,	O
+Tartu	B-LOC
+maakond	I-LOC
+
+Õppis	O
+Tartu	B-ORG
+Ülikoolis	I-ORG
+1835–1838	O
+.	O
+
+Louisiana	B-ORG
+(	I-ORG
+ajalooline	I-ORG
+piirkond	I-ORG
+)	I-ORG
+
+Tamīm	B-PER
+ibn	I-PER
+Ḩamad	I-PER
+Āl	I-PER
+Thānī	I-PER

@@ -1,0 +1,17 @@
+Saplad	B-ORG
+ng	I-ORG
+Angat	I-ORG
+
+Osama	B-PER
+bin	I-PER
+Laden	I-PER
+
+Aprikot	B-LOC
+(	O
+''Apricot	O
+''	O
+)	O
+
+United	B-LOC
+Arab	I-LOC
+Emirates	I-LOC

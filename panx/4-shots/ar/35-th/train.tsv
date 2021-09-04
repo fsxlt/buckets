@@ -1,0 +1,78 @@
+ألباني	B-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+†	O
+
+ملعب	B-ORG
+ستاد	I-ORG
+السلام	I-ORG
+.	O
+
+تحويل	O
+إدوارد	B-PER
+وستمنستر	I-PER
+(	I-PER
+أمير	I-PER
+ويلز	I-PER
+)	I-PER
+
+تحويل	O
+ركين	B-LOC
+بنغالي	I-LOC
+صغير	I-LOC
+
+تحويل	O
+ذا	B-ORG
+دوكس	I-ORG
+اوف	I-ORG
+هازرد	I-ORG
+
+متبوعا	O
+التجمع	B-ORG
+الوطني	I-ORG
+للأحرار	I-ORG
+ثم	O
+حزب	B-ORG
+الأصالة	I-ORG
+والمعاصرة	I-ORG
+.	O
+
+فولفغانغ	B-PER
+أماديوس	I-PER
+موتسارت	I-PER
+.	O
+
+تحويل	O
+بلنسية	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+)	I-LOC
+
+ميما	B-PER
+ياوشوفيتس	I-PER
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+كأس	B-ORG
+العالم	I-ORG
+لكرة	I-ORG
+القاعدة	I-ORG
+للنساء	I-ORG
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+سيباستيان	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+فضيلة	O
+الشيخ	O
+العلامة	O
+صالح	B-PER
+الفوزان	I-PER

@@ -1,0 +1,80 @@
+LENCONG	O
+Nurabad	B-LOC
+,	I-LOC
+Azerbaijan	I-LOC
+Barat	I-LOC
+
+LENCONG	O
+Johor	B-ORG
+Darul	I-ORG
+Ta'zim	I-ORG
+FC	I-ORG
+
+CSI	B-ORG
+:	I-ORG
+Crime	I-ORG
+Scene	I-ORG
+Investigation	I-ORG
+
+Phan	B-PER
+Thị	I-PER
+Kim	I-PER
+Phúc	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Seine-Maritime	I-LOC
+
+Bank	B-ORG
+Simpanan	I-ORG
+Nasional	I-ORG
+(	O
+BSN	O
+)	O
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+(	O
+7	O
+)	O
+,	O
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+(	O
+3	O
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Indre-et-Loire	I-LOC
+
+James	B-PER
+Levine	I-PER
+,	O
+Metropolitan	B-ORG
+Opera	I-ORG
+orchestra	O
+and	O
+chorus	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Seine-et-Marne	I-LOC
+
+'	O
+''	O
+Heikki	B-PER
+Kovalainen	I-PER
+''	O
+'	O

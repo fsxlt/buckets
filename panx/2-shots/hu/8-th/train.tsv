@@ -1,0 +1,68 @@
+Jelenleg	O
+Kyllburgban	B-LOC
+dolgozik	O
+és	O
+él	O
+.	O
+
+'	O
+''	O
+Bob	B-PER
+Bryan	I-PER
+''	O
+'	O
+
+Budapest	B-LOC
+,	O
+Szusza	B-LOC
+Ferenc	I-LOC
+Stadion	I-LOC
+
+'	O
+''	O
+Jacques	B-PER
+Laffite	I-PER
+''	O
+'	O
+
+S.L.	B-ORG
+Magic	I-ORG
+''	O
+→	O
+Doll	B-ORG
+''	O
+
+|	O
+a	O
+Volga	B-LOC
+és	O
+a	O
+Dnyeper	B-ORG
+között	O
+
+A	O
+Billboard	B-LOC
+200-as	I-LOC
+albumlistáján	O
+a	O
+2.	O
+helyig	O
+jutott	O
+,	O
+és	O
+csak	O
+a	O
+Pearl	B-ORG
+Jam	I-ORG
+Vs	B-ORG
+.	I-ORG
+''	O
+című	O
+albuma	O
+akadályozta	O
+meg	O
+,	O
+hogy	O
+listavezető	O
+legyen	O
+.	O

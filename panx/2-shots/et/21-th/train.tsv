@@ -1,0 +1,56 @@
+Stewarti	B-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+)	O
+
+suuna	O
+Turu	B-ORG
+Rootsi	I-ORG
+Teater	I-ORG
+
+Hillsborough	B-LOC
+'	I-LOC
+maakond	I-LOC
+(	O
+põhjas	O
+ja	O
+kirdes	O
+)	O
+
+August	B-PER
+Englas	I-PER
+(	O
+1925–	O
+)	O
+
+Elu	O
+lõpus	O
+elas	O
+ta	O
+Garmisch-Partenkirchenis	B-LOC
+,	O
+kus	O
+ta	O
+ka	O
+suri	O
+.	O
+
+Ta	O
+on	O
+kirjutanud	O
+sõnu	O
+lauludele	O
+,	O
+mida	O
+esitab	O
+tema	O
+elukaaslane	O
+Sandra	B-PER
+Nurmsalu	I-PER
+.	O
+
+suuna	O
+Tallinna	B-ORG
+FC	I-ORG
+Lantana	I-ORG

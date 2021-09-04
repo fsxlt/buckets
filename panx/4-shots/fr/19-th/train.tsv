@@ -1,0 +1,84 @@
+Paulin	B-LOC
+(	I-LOC
+Dordogne	I-LOC
+)	I-LOC
+
+**	O
+Pierre	B-PER
+Palmade	I-PER
+à	O
+Olympia	B-ORG
+
+Stade	B-LOC
+Pakhtakor	I-LOC
+Markaziy	I-LOC
+
+Parc	B-ORG
+national	I-ORG
+du	I-ORG
+lac	I-ORG
+Manyara	I-ORG
+
+'	O
+''	O
+KVC	B-ORG
+Westerlo	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Juan	B-PER
+Bautista	I-PER
+Aznar-Cabañas	I-PER
+''	O
+'	O
+
+Galerie	B-ORG
+des	I-ORG
+drapeaux	I-ORG
+des	I-ORG
+pays	I-ORG
+du	I-ORG
+monde	I-ORG
+
+redirection	O
+Neuvième	B-LOC
+circonscription	I-LOC
+de	I-LOC
+l'Essonne	I-LOC
+
+À	O
+cette	O
+occasion	O
+,	O
+il	O
+écrase	O
+en	O
+3	O
+sets	O
+Stefan	B-PER
+Edberg	I-PER
+et	O
+Mats	B-PER
+Wilander	I-PER
+.	O
+
+Équipe	B-ORG
+d'Italie	I-ORG
+de	I-ORG
+volley-ball	I-ORG
+féminin	I-ORG
+
+Donna	B-PER
+Jean	I-PER
+Godchaux	I-PER
+,	O
+chœurs	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+l'Ardèche	I-LOC

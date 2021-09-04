@@ -1,0 +1,24 @@
+Luce	B-PER
+Irigaray	I-PER
+(	O
+ca.1932	O
+)	O
+
+De	O
+hoofdplaats	O
+is	O
+Kingfisher	B-LOC
+.	O
+
+DOORVERWIJZING	O
+Groot	B-LOC
+gevlekt	I-LOC
+roetneusje	I-LOC
+
+border]]	O
+Verenigde	B-ORG
+Staten	I-ORG
+van	I-ORG
+de	I-ORG
+Ionische	I-ORG
+Eilanden	I-ORG

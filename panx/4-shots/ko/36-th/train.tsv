@@ -1,0 +1,116 @@
+가와니시	B-LOC
+정	I-LOC
+(	O
+)	O
+
+연세대학교	B-ORG
+의예과	O
+입학	O
+,	O
+연세대학교의과대학	O
+졸업	O
+,	O
+의사면허	O
+취득	O
+
+前	O
+중화민국	B-ORG
+외교부	I-ORG
+비서관	O
+.	O
+
+안드레이	B-PER
+키릴렌코	I-PER
+(	O
+브루클린	B-ORG
+네츠	I-ORG
+)	O
+
+리처드	B-PER
+체임벌린	I-PER
+-	O
+하이파더	O
+
+'	O
+''	O
+스바로	O
+''	O
+'	O
+(	O
+Sbarro	O
+)	O
+는	O
+미국	B-LOC
+오하이오	B-LOC
+주	I-LOC
+콜럼버스에	B-LOC
+본사를	O
+둔	O
+피자	B-ORG
+체인점이다	O
+.	O
+
+넘겨주기	O
+라울	B-PER
+알베르토	I-PER
+라스티리	I-PER
+
+'	O
+''	O
+드라간	B-PER
+므르자	I-PER
+''	O
+'	O
+
+1994년	B-ORG
+–	O
+둥가	B-PER
+(	O
+브라질	B-ORG
+)	O
+
+정규리그	O
+1위를	O
+차지한	O
+고양	B-ORG
+대교가	I-ORG
+챔피언	O
+결정전에서도	O
+승리하여	O
+우승을	O
+차지하였다	O
+.	O
+
+룽청	B-LOC
+구	I-LOC
+(	O
+榕城区	O
+)	O
+
+아이치	B-LOC
+현：	I-LOC
+,	O
+신시로	B-LOC
+시	I-LOC
+,	O
+기타시타라	B-LOC
+군	I-LOC
+도에이	B-LOC
+정·	I-LOC
+
+대신	O
+세	O
+번째로	O
+제작된	O
+``	O
+It	B-ORG
+Came	I-ORG
+from	I-ORG
+the	I-ORG
+Nightosphere	I-ORG
+''	O
+가	O
+첫	O
+에피소드로	O
+방영되었다	O
+.	O

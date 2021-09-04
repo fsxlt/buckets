@@ -1,0 +1,129 @@
+William	B-PER
+Marshal	I-PER
+,	O
+1	O
+.	O
+
+Outer	B-PER
+Limits	I-PER
+–	I-PER
+Die	I-PER
+unbekannte	I-PER
+Dimension	I-PER
+
+WEITERLEITUNG	O
+Kordel	B-LOC
+(	I-LOC
+Eifel	I-LOC
+)	I-LOC
+
+Danach	O
+schlug	O
+er	O
+die	O
+Beamtenlaufbahn	O
+bei	O
+der	O
+österreichischen	B-ORG
+Staatsbahn	I-ORG
+ein	O
+.	O
+
+**	O
+Nationalstraße	B-ORG
+1	I-ORG
+,	O
+nach	O
+Chūō	B-LOC
+oder	O
+Ōsaka	B-LOC
+
+In	O
+der	O
+anschließenden	O
+Aufstiegsrunde	O
+schaffte	O
+die	O
+Mannschaft	O
+den	O
+Sprung	O
+in	O
+die	O
+Bundesliga	B-ORG
+.	O
+
+FC	B-ORG
+Queen’s	I-ORG
+Park	I-ORG
+
+Biberach	B-LOC
+an	I-LOC
+der	I-LOC
+Riß	I-LOC
+
+2001	O
+Writer-in-Residence	B-ORG
+an	O
+der	O
+New	B-ORG
+York	I-ORG
+University	I-ORG
+
+Zwei	O
+Kilometer	O
+vor	O
+dem	O
+Ziel	O
+griff	O
+Roman	B-PER
+Kreuziger	I-PER
+an	O
+,	O
+gab	O
+seinen	O
+Angriff	O
+aber	O
+auf	O
+,	O
+als	O
+sein	O
+Teamkapitän	O
+Ivan	B-PER
+Basso	I-PER
+nicht	O
+mehr	O
+folgen	O
+konnte	O
+.	O
+
+1996	O
+erhielt	O
+er	O
+ein	O
+Heinrich	B-PER
+von	I-PER
+Zügel-Stipendium	I-PER
+der	O
+Stadt	O
+Wörth	B-LOC
+am	I-LOC
+Rhein	I-LOC
+.	O
+
+Die	O
+Kreishauptstadt	O
+Târgu	B-LOC
+Mureș	I-LOC
+befindet	O
+sich	O
+etwa	O
+40	O
+km	O
+östlich	O
+.	O
+
+'	O
+''	O
+Guatemala	B-LOC
+''	O
+'	O

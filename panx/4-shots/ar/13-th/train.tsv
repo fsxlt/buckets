@@ -1,0 +1,86 @@
+قائمة	B-LOC
+مقاطعات	I-LOC
+ولاية	I-LOC
+ميزوري	I-LOC
+الأمريكية	I-LOC
+
+'	O
+''	O
+مارات	B-PER
+زافين	I-PER
+''	O
+'	O
+هزم	O
+لايتون	B-PER
+هيويت	I-PER
+,	O
+1-6	O
+,	O
+6-3	O
+,	O
+6-4	O
+,	O
+6-4	O
+
+تحويل	O
+ماري	B-PER
+وورتلي	I-PER
+مونتاغيو	I-PER
+
+جائزة	B-ORG
+إيطاليا	I-ORG
+الكبرى	I-ORG
+للدراجات	I-ORG
+النارية	I-ORG
+2001	I-ORG
+
+تحويل	O
+جنوب	B-ORG
+إيلينغ	I-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+دائرة	B-LOC
+أولاد	I-LOC
+رشاش	I-LOC
+
+تحويل	O
+راويل	B-PER
+عين	I-PER
+الدين	I-PER
+
+تحويل	O
+اقتصاد	B-ORG
+كوريا	I-ORG
+الجنوبية	I-ORG
+
+تحويل	O
+جملة	B-ORG
+مفتوحة	I-ORG
+(	I-ORG
+رياضيات	I-ORG
+)	I-ORG
+
+تحويل	O
+كيندر	B-LOC
+(	I-LOC
+لويزيانا	I-LOC
+)	I-LOC
+
+غسان	B-PER
+كنفاني،	I-PER
+مؤلف	O
+ومفكر	O
+
+تحويل	O
+التقسيم	B-LOC
+الإداري	I-LOC
+في	I-LOC
+ولايات	I-LOC
+ميكرونيسيا	I-LOC
+المتحدة	I-LOC

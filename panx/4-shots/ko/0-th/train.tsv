@@ -1,0 +1,105 @@
+찰리	B-PER
+허냄	I-PER
+-	O
+보지	O
+역	O
+
+'	O
+''	O
+피어스	B-PER
+브로스넌	I-PER
+''	O
+'	O
+
+도요타	B-ORG
+스포츠	I-ORG
+센터	I-ORG
+(	O
+336명	O
+)	O
+
+야에야마	B-LOC
+군	I-LOC
+(	O
+)	O
+
+**	O
+스웨덴	B-ORG
+의회가	I-ORG
+동성결혼을	O
+법적으로	O
+허용했다	O
+.	O
+
+**	O
+국왕	B-ORG
+―	O
+조지	B-PER
+투포우	I-PER
+2세	I-PER
+(	O
+1893	O
+~	O
+1918	O
+)	O
+
+넘겨주기	O
+카보베르데의	B-ORG
+국가	I-ORG
+원수	I-ORG
+목록	I-ORG
+
+미국	B-LOC
+플로리다	B-LOC
+주의	I-LOC
+대부분을	O
+차지한다	O
+.	O
+
+비슷한	O
+모델이	O
+조지프	B-PER
+라모어에	I-PER
+의해서도	O
+제시되었다	O
+(	O
+1897,1900	O
+)	O
+.	O
+
+룽청	B-LOC
+구	I-LOC
+(	O
+榕城区	O
+)	O
+
+레분	B-LOC
+정의	I-LOC
+최북단이지만	O
+소야	B-LOC
+곶보다는	I-LOC
+남쪽에	O
+위치해	O
+있다	O
+.	O
+
+넘겨주기	O
+소니	B-ORG
+코퍼레이션	I-ORG
+오브	I-ORG
+아메리카	I-ORG
+
+마우레타니아군은	B-ORG
+크게	O
+무너졌고	O
+,	O
+마리우스는	B-PER
+승리한	O
+로마군을	O
+이끌고	O
+해안가로	O
+가	O
+겨울	O
+숙영지를	O
+마련하였다	O
+.	O

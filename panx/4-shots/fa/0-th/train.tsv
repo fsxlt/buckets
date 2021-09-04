@@ -1,0 +1,73 @@
+تغییرمسیر	O
+سفره‌ماهی	B-LOC
+بزرگ	I-LOC
+اقیانوسی	I-LOC
+
+تغییرمسیر	O
+لئاندرو	B-PER
+پادوانی	I-PER
+سلین	I-PER
+
+تغییرمسیر	O
+سازمان	B-ORG
+آزادی‌بخش	I-ORG
+فلسطین	I-ORG
+
+تغییر_مسیر	O
+آلن	B-PER
+جی.	I-PER
+پویندسکتر	I-PER
+
+تغییرمسیر	O
+میراث	B-ORG
+(	I-ORG
+آلبوم	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+منطقه	B-LOC
+حفاظت‌شده	I-LOC
+انگورونگورو	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+فرناندو	B-PER
+دی	I-PER
+آبرئو	I-PER
+فریرا	I-PER
+
+بادپر	B-LOC
+شکری،	I-LOC
+''Petaurus	O
+breviceps	O
+''	O
+
+تغییرمسیر	O
+۱۰۰	B-ORG
+نفر	I-ORG
+(	I-ORG
+مجموعه	I-ORG
+تلویزیونی	I-ORG
+)	I-ORG
+
+هاینریش	B-PER
+شیر	I-PER
+نوهٔ	O
+دختری	O
+او	O
+بود	O
+.	O
+
+''Phoebastria	O
+immutabilis	O
+''	O
+,	O
+آلباتروس	B-LOC
+لیسان	I-LOC

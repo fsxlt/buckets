@@ -1,0 +1,83 @@
+Rafael	B-PER
+Nadal	I-PER
+(	O
+2005-09	O
+)	O
+,	O
+5	O
+.	O
+
+BIRZUZENDU	O
+Azawaden	B-ORG
+Askapen	I-ORG
+Nazionalerako	I-ORG
+Mugimendua	I-ORG
+
+)	O
+,	O
+Ander	B-PER
+Herrera	I-PER
+(	O
+Mikel	B-PER
+Rico	I-PER
+,	O
+69	O
+.	O
+
+Gregorio	B-PER
+Blasco	I-PER
+(	O
+3	O
+)	O
+
+Rage	B-ORG
+Against	I-ORG
+the	I-ORG
+Machine	I-ORG
+
+'	O
+''	O
+Bilshausen	O
+''	O
+'	O
+Alemaniako	B-LOC
+udalerria	O
+da	O
+.	O
+
+Lisboa	B-LOC
+(	I-LOC
+eskualdea	I-LOC
+)	I-LOC
+
+Euskal	B-LOC
+herria	I-LOC
+itzuli	O
+zenean	O
+Aurelio	B-PER
+Artetarekin	I-PER
+jarraitu	O
+zituen	O
+ikasketak	O
+.	O
+
+Upucerthia	B-LOC
+jelskii	I-LOC
+''	O
+.	O
+
+Le	B-LOC
+Houlme	I-LOC
+(	O
+CAR	O
+)	O
+
+Madrilgo	B-ORG
+Errege	I-ORG
+Jauregia	I-ORG
+.	O
+
+Empire	B-ORG
+(	I-ORG
+aldizkaria	I-ORG
+)	I-ORG

@@ -1,0 +1,78 @@
+Lebuhraya	B-ORG
+Butterworth-Kulim	I-ORG
+(	O
+RM10	O
+juta	O
+)	O
+
+LENCONG	O
+Evolusi	B-ORG
+uji	I-ORG
+kaji	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+Kini	O
+beliau	O
+memegang	O
+portfolio	O
+'	O
+''	O
+Timbalan	B-ORG
+Menteri	I-ORG
+Pendidikan	I-ORG
+I	I-ORG
+''	O
+'	O
+.	O
+
+'	O
+''	O
+Marco	B-PER
+Melandri	I-PER
+''	O
+'	O
+
+Mawi]]	O
+,	O
+Diana	B-PER
+Danielle	I-PER
+,	O
+Ziana	B-PER
+Zain	I-PER
+
+'	O
+''	O
+Lisa	B-PER
+Surihani	I-PER
+''	O
+'	O
+
+Suzuki	B-PER
+Kanon	I-PER
+(	O
+鈴木香音	O
+)	O
+
+Parti	B-ORG
+Komunis	I-ORG
+Malaya	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Corrèze	I-LOC

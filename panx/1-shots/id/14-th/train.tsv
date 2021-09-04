@@ -1,0 +1,25 @@
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Haute-Saône	I-LOC
+
+Ia	O
+menggantikan	O
+ayahandanya	O
+Thierry	B-PER
+dari	I-PER
+Alsace	I-PER
+.	O
+
+Fanipol	B-LOC
+(	O
+;	O
+)	O
+-	O
+13,200	O
+
+ALIH	O
+Bantul	B-ORG
+,	I-ORG
+Bantul	B-ORG

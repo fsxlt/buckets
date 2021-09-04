@@ -1,0 +1,34 @@
+Salto	B-ORG
+Uruguay	I-ORG
+Fútbol	I-ORG
+Club	I-ORG
+
+Condado	B-LOC
+de	I-LOC
+Adams	I-LOC
+-	O
+sureste	O
+
+Steve	B-PER
+Francis	I-PER
+(	O
+2	O
+)	O
+
+REDIRECCIÓN	O
+Aragua	B-LOC
+de	I-LOC
+Maturín	I-LOC
+
+REDIRECCIÓN	O
+The	B-ORG
+Fresh	I-ORG
+Prince	I-ORG
+of	I-ORG
+Bel-Air	I-ORG
+
+Woodes	B-PER
+Rogers	I-PER
+(	O
+1728-1732	O
+)	O

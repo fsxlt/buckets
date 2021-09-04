@@ -1,0 +1,32 @@
+Bent	B-PER
+Christensen	I-PER
+–	O
+FC	B-ORG
+Schalke	I-ORG
+04	I-ORG
+–	O
+1991–93	O
+
+YÖNLENDİRME	O
+Oldham	B-ORG
+Athletic	I-ORG
+AFC	I-ORG
+
+YÖNLENDİRME	O
+Kuzey	B-LOC
+Adası	I-LOC
+(	I-LOC
+Yeni	I-LOC
+Zelanda	I-LOC
+)	I-LOC
+
+YÖNLENDİR	O
+Kırmızı	B-LOC
+boynuzlu	I-LOC
+gelincik	I-LOC
+
+Bob	B-PER
+Cousy	I-PER
+(	O
+7	O
+)	O

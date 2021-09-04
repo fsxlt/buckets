@@ -1,0 +1,41 @@
+'	O
+''	O
+SWD	O
+''	O
+'	O
+—	O
+Водзиславский	B-LOC
+повят	I-LOC
+
+Харпер	B-PER
+,	I-PER
+Лора	I-PER
+
+20px]]	O
+'	O
+''	O
+Верхний	B-LOC
+Египет	I-LOC
+''	O
+'	O
+
+Стадион	B-ORG
+имени	I-ORG
+шейха	I-ORG
+Джассима	I-ORG
+бин	I-ORG
+Хамада	I-ORG
+
+Занимал	O
+пост	O
+исполнительного	O
+директора	O
+компании	O
+United	B-ORG
+Technologies	I-ORG
+.	O
+
+Эспенес-Крул	B-PER
+,	I-PER
+Лив	I-PER
+Кристин	I-PER

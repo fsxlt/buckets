@@ -1,0 +1,64 @@
+Ilé-Ẹjọ́	B-ORG
+Ìwàọ̀daràn	I-ORG
+Káríayé	I-ORG
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Ilaje	I-LOC
+
+Pópù	B-PER
+Benedict	I-PER
+15k	I-PER
+
+Lindsay	B-PER
+Davenport	I-PER
+''	O
+(	O
+Final	O
+)	O
+
+Venus	B-PER
+Williams	I-PER
+''	O
+(	O
+Semifinals	O
+)	O
+''	O
+
+Àwọn	B-ORG
+ọmọ	I-ORG
+Áfríkà	I-ORG
+
+Monica	B-PER
+Niculescu	I-PER
+''	O
+(	O
+First	O
+Round	O
+)	O
+
+(	O
+old	O
+)	O
+Ìpínlẹ̀	B-ORG
+Anámbra	I-ORG
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Ejigbo	I-LOC
+
+Agbègbè	B-LOC
+Ìjọba	I-LOC
+Ìbílẹ̀	I-LOC
+Girei	I-LOC
+
+Ajagun	B-ORG
+Ojúòfurufú	I-ORG
+Nàìjíríà	I-ORG
+
+Àwọn	B-LOC
+Ẹ́mírétì	I-LOC
+Árábù	I-LOC
+Aṣọ̀kan	I-LOC

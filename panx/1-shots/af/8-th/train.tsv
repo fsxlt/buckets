@@ -1,0 +1,34 @@
+deur	O
+onderskeidelik	O
+Ptolemeus	B-PER
+IV	I-PER
+en	O
+Ptolemeus	B-PER
+V	I-PER
+afgekondig	O
+.	O
+
+AANSTUUR	O
+Queen	B-LOC
+Elizabeth	I-LOC
+Olympic	I-LOC
+Park	I-LOC
+
+Hulle	O
+neem	O
+aan	O
+Formule	B-ORG
+Eenwêreldkampioenskapsrenne	I-ORG
+deel	O
+en	O
+maak	O
+tans	O
+gebruik	O
+van	O
+Honda	B-ORG
+se	O
+F1-enjins	O
+in	O
+hulle	O
+renmotors	O
+.	O

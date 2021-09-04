@@ -1,0 +1,59 @@
+Fue	O
+dirigida	O
+por	O
+Duccio	B-PER
+Tessari	I-PER
+y	O
+protagonizada	O
+por	O
+el	O
+actor	O
+austriáco	O
+Helmut	B-PER
+Berger	I-PER
+.	O
+
+REDIRECCIÓN	O
+Liga	B-ORG
+de	I-ORG
+Campeones	I-ORG
+de	I-ORG
+la	I-ORG
+UEFA	I-ORG
+2001-02	I-ORG
+
+REDIRECCIÓN	O
+Sociedad	B-ORG
+Cooperativa	I-ORG
+Manufacturera	I-ORG
+de	I-ORG
+Cemento	I-ORG
+Portland	I-ORG
+La	I-ORG
+Cruz	I-ORG
+Azul	I-ORG
+S.C.L	I-ORG
+
+REDIRECCIÓN	O
+Lilo	B-PER
+&	I-PER
+Stitch	I-PER
+:	I-PER
+The	I-PER
+Series	I-PER
+
+'	O
+''	O
+Unión	B-LOC
+Cordobesa	I-LOC
+de	I-LOC
+Rugby	I-LOC
+''	O
+'	O
+
+REDIRECCIÓN	O
+San	B-LOC
+Antonio	I-LOC
+(	I-LOC
+Chile	I-LOC
+)	I-LOC

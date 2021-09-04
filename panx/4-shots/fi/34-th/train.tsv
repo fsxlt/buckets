@@ -1,0 +1,109 @@
+Dieppe]]	O
+,	O
+New	B-LOC
+Brunswick	I-LOC
+,	O
+Kanada	B-LOC
+
+Billie	B-PER
+Jean	I-PER
+King	I-PER
+,	O
+/	O
+Martina	B-PER
+Navrátilová	I-PER
+
+Kuokkala	B-LOC
+(	I-LOC
+Jyväskylä	I-LOC
+)	I-LOC
+
+Tapani	B-PER
+Tölli	I-PER
+(	O
+2003–	O
+)	O
+
+Hän	O
+kilpaili	O
+myös	O
+Aasian	B-ORG
+GP2-sarjassa	I-ORG
+kaudella	O
+2008-09	O
+.	O
+
+''	O
+Better	B-ORG
+the	I-ORG
+Devil	I-ORG
+You	I-ORG
+Know	I-ORG
+''	O
+
+Spell	B-ORG
+of	I-ORG
+Iron	I-ORG
+
+Anne	B-PER
+Holt	I-PER
+,	O
+kirjailija	O
+
+Kuvšinovon	B-LOC
+piiri	I-LOC
+(	O
+Kuvšinovo	B-LOC
+)	O
+
+Songs	B-ORG
+of	I-ORG
+Silence	I-ORG
+
+Nykyisin	O
+Fäliskäretissä	O
+toimii	O
+Metsähallituksen	B-ORG
+luontoasema	O
+.	O
+
+Se	O
+sijaitsee	O
+Okan	B-LOC
+rannalla	O
+78	O
+kilometriä	O
+Nižni	B-LOC
+Novgorodista	I-LOC
+lounaaseen	O
+.	O
+
+Osmo	B-PER
+Soininvaaran	I-PER
+mukaan	O
+jokainen	O
+tätä	O
+arvostuseroa	O
+voi	O
+pohtia	O
+siitä	O
+näkökulmasta	O
+,	O
+osallistuisiko	O
+venäläiseen	O
+rulettiin	O
+mieluummin	O
+20-	O
+vai	O
+70-vuotiaana	O
+tai	O
+pitävätkö	O
+ihmiset	O
+koko	O
+elämäänsä	O
+arvokkaampana	O
+kuin	O
+sen	O
+viimeisiä	O
+vuosia	O
+.	O

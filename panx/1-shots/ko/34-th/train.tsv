@@ -1,0 +1,18 @@
+살리나스	B-LOC
+(	I-LOC
+에콰도르	I-LOC
+)	I-LOC
+
+루트비히	B-PER
+판	I-PER
+베토벤	I-PER
+
+현재	O
+대한민국	B-LOC
+K리그	B-ORG
+클래식	I-ORG
+상주	B-ORG
+상무에서	I-ORG
+활약하고	O
+있다	O
+.	O

@@ -1,0 +1,104 @@
+חיל	B-ORG
+האוויר	I-ORG
+הישראלי	I-ORG
+
+הפניה	O
+אאוטלו	B-PER
+(	I-PER
+קומיקס	I-PER
+)	I-PER
+
+הפניה	O
+לואי	B-PER
+השלושה	I-PER
+עשר	I-PER
+,	I-PER
+מלך	I-PER
+צרפת	I-PER
+
+כיהן	O
+כנשיא	O
+אוניברסיטת	B-ORG
+בר-אילן	I-ORG
+בין	O
+השנים	O
+1996-2013	O
+.	O
+
+עקרון	B-LOC
+(	I-LOC
+עיר	I-LOC
+מקראית	I-LOC
+)	I-LOC
+
+שמו	O
+ניתן	O
+בידי	O
+זאב	B-PER
+וילנאי	I-PER
+ונובע	O
+מקרבתו	O
+נהר	B-LOC
+הירדן	I-LOC
+.	O
+
+Budgen	B-PER
+,	I-PER
+Frank	I-PER
+.	O
+
+הוא	O
+חונך	O
+בית	B-ORG
+הספר	I-ORG
+הארו	I-ORG
+,	O
+ולאחר	O
+מכן	O
+ב	O
+.	O
+
+מילוול	B-LOC
+(	O
+Millwall	O
+)	O
+באזור	O
+E14	O
+
+``	O
+ימים	B-ORG
+מאושרים	I-ORG
+''	O
+(	O
+1974-1984	O
+)	O
+
+'	O
+''	O
+מגדל	B-LOC
+העמק	I-LOC
+''	O
+'	O
+
+כמו	O
+כן	O
+באזור	O
+זה	O
+קיים	O
+השיעור	O
+הגבוה	O
+ביותר	O
+של	O
+תושבים	O
+שנולדו	O
+מחוץ	O
+לתחומי	O
+הממלכה	B-LOC
+המאוחדת	I-LOC
+.	O
+
+נולד	O
+בקרסטון	O
+,	O
+איווה	B-LOC
+.	O

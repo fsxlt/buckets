@@ -1,0 +1,38 @@
+BIRZUZENDU	O
+August	B-PER
+Wilhelm	I-PER
+Schlegel	I-PER
+
+RSC	B-ORG
+Anderlecht	I-ORG
+(	O
+2	O
+)	O
+,	O
+RKV	B-ORG
+Malinas	I-ORG
+(	O
+1	O
+)	O
+
+Boone	B-LOC
+konderria	I-LOC
+(	I-LOC
+Kentucky	I-LOC
+)	I-LOC
+
+Halaber	O
+,	O
+Europako	B-LOC
+urtetsuenetarikoa	O
+da	O
+,	O
+Oxfordekoa	B-ORG
+,	O
+Bolognakoa	B-ORG
+,	O
+Salamancakoa	B-ORG
+eta	O
+Coimbrakoarekin	B-ORG
+batera	O
+.	O

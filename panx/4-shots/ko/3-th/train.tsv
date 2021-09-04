@@ -1,0 +1,129 @@
+무라카미	B-ORG
+역	I-ORG
+(	I-ORG
+지바	I-ORG
+현	I-ORG
+)	I-ORG
+
+넘겨주기	O
+강철	B-PER
+(	I-PER
+축구인	I-PER
+)	I-PER
+
+UEFA	B-ORG
+유로	I-ORG
+2008	I-ORG
+4강	O
+
+일본	B-LOC
+지바	B-LOC
+현	I-LOC
+사와라	B-LOC
+시	I-LOC
+(	O
+현재의	O
+가토리	B-LOC
+시	I-LOC
+)	O
+출신이다	O
+.	O
+
+넘겨주기	O
+루트비히	B-PER
+4세	I-PER
+(	I-PER
+동프랑크	I-PER
+)	I-PER
+
+'	O
+''	O
+곽가	B-PER
+''	O
+'	O
+봉효	O
+
+'	O
+''	O
+유럽사자	O
+''	O
+'는	O
+일반적으로	O
+아시아사자와	B-LOC
+같은	O
+종으로	O
+추정된다	O
+.	O
+
+대개	O
+검은딸기	O
+(	O
+Rubus	B-LOC
+croceacanthus	I-LOC
+)	O
+가	O
+전통적으로	O
+블랙베리와	O
+그	O
+산물에	O
+속한다	O
+.	O
+
+MBC	B-ORG
+측은	O
+급하게	O
+대체방송을	O
+내보냈지만	O
+이미	O
+엎질러진	O
+물이었다	O
+.	O
+
+아오한	B-LOC
+기	I-LOC
+(	O
+敖汉旗	O
+)	O
+
+넘겨주기	O
+ID	B-ORG
+;	I-ORG
+Peace	I-ORG
+B	I-ORG
+(	I-ORG
+음반	I-ORG
+)	I-ORG
+
+영국의	B-LOC
+간호사	O
+플로렌스	B-PER
+나이팅게일	I-PER
+
+이	O
+점령으로	O
+세르비아	B-LOC
+왕국	I-LOC
+및	O
+그	O
+국가의	O
+후원자인	O
+범슬라브주의	B-ORG
+동방	B-ORG
+정교회의	I-ORG
+러시아	B-LOC
+제국을	I-LOC
+화나게	O
+했다	O
+.	O
+
+청	B-LOC
+(	O
+淸	O
+)	O
+고종	B-PER
+건륭제	I-PER
+(	O
+高宗	O
+乾隆帝	O
+)	O
+35년	O

@@ -1,0 +1,24 @@
+Eneo	O
+lake	O
+ni	O
+62	O
+km²	B-ORG
+.	O
+
+Kimeru	B-ORG
+(	I-ORG
+Tanzania	I-ORG
+)	I-ORG
+
+Yangtze	B-LOC
+(	I-LOC
+mto	I-LOC
+)	I-LOC
+
+Lauryn	B-PER
+Hill	I-PER
+,	O
+Pras	B-PER
+,	O
+Wyclef	B-PER
+Jean	I-PER

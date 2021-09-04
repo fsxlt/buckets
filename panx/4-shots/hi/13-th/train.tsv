@@ -1,0 +1,91 @@
+और	O
+मेसाचुसेट्स	B-ORG
+प्रौद्योगिक	I-ORG
+संस्थान	I-ORG
+.	O
+
+वसुन्धरा	B-PER
+राजे	I-PER
+सिंधिया	I-PER
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+५६	I-ORG
+
+पेंच	B-LOC
+राष्ट्रीय	I-LOC
+उद्यान	I-LOC
+
+एस॰	B-PER
+पी॰	I-PER
+बालासुब्रमण्यम	I-PER
+
+जम्मू	B-LOC
+और	I-LOC
+कश्मीर	I-LOC
+(	O
+6	O
+)	O
+===	O
+
+'	O
+''	O
+चौडी	O
+''	O
+'	O
+भारत	B-LOC
+के	O
+गोवा	B-LOC
+राज्य	B-ORG
+के	O
+दक्षिण	B-LOC
+गोवा	I-LOC
+जिले	I-LOC
+में	O
+स्थित	O
+एक	O
+कस्बा	O
+है	O
+जो	O
+काणकोण	B-LOC
+से	O
+दो	O
+किलोमीटर	O
+दूर	O
+है।	O
+
+अनुप्रेषित	O
+एशिया	B-PER
+और	I-PER
+प्रशांत	I-PER
+हेतु	I-PER
+संयुक्त	I-PER
+राष्ट्र	I-PER
+का	I-PER
+आर्थिक	I-PER
+और	I-PER
+सामाजिक	I-PER
+आयोग	I-PER
+(	I-PER
+एस्केप	I-PER
+)	I-PER
+
+कुर्अतुल	B-PER
+ऐन	I-PER
+हैदर	I-PER
+
+अनुप्रेषित	O
+राजीव	B-ORG
+गांधी	I-ORG
+प्रौद्योगिकी	I-ORG
+विश्वविद्यालय	I-ORG
+
+औरंगाबाद	B-LOC
+,	I-LOC
+महाराष्ट्र	I-LOC
+
+लोकमान्य	B-ORG
+तिलक	I-ORG
+टर्मिनस	I-ORG
+रेलवे	I-ORG
+स्टेशन	I-ORG

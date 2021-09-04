@@ -1,0 +1,37 @@
+Kuasanya	O
+dipindahkan	O
+ke	O
+Ehud	B-PER
+Olmert	I-PER
+.	O
+
+LENCONG	O
+Anjing	B-ORG
+penuding	I-ORG
+Navarra	I-ORG
+
+'	O
+''	O
+Sebastian	B-PER
+Vettel	I-PER
+''	O
+'	O
+
+LENCONG	O
+Zdětín	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Prostějov	I-LOC
+)	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Cantal	I-LOC
+
+Nante	O
+Bohemian	O
+(	O
+Gingham	B-ORG
+Check	I-ORG
+)	O

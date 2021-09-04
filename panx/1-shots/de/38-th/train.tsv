@@ -1,0 +1,19 @@
+'	O
+''	O
+Kap	B-LOC
+Verde	I-LOC
+''	O
+'	O
+
+Autobahn	B-ORG
+3	I-ORG
+(	I-ORG
+Belgien	I-ORG
+)	I-ORG
+
+Das	O
+Hauptreferat	O
+hielt	O
+Erich	B-PER
+Weinert	I-PER
+.	O

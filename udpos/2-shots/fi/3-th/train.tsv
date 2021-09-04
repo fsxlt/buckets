@@ -1,0 +1,134 @@
+Suomen	PROPN
+miniää	NOUN
+harmitti	VERB
+täkäläisten	ADJ
+iltapäivälehtien	NOUN
+tapa	NOUN
+kaivaa	VERB
+esiin	ADV
+vain	PART
+huonot	ADJ
+arviot	NOUN
+pariskunnan	NOUN
+uutuuselokuvasta	NOUN
+The	X
+Long	X
+Kiss	X
+Goodnight	X
+.	PUNCT
+
+kaupunkikuva	NOUN
+Jyväskylästä	PROPN
+ennen	ADP
+sotia	NOUN
+on	AUX
+äärimmäisen	ADJ
+arvokas	ADJ
+kulttuurihistoriallisesti	ADV
+.	PUNCT
+
+en	AUX
+kai	PART
+minä	PRON
+huvikseni	ADV
+soittele	VERB
+tähän	DET
+aikaan	NOUN
+.	PUNCT
+
+perus-	X
+ja	CCONJ
+täydennyskoulutus	NOUN
+
+Jos	SCONJ
+saa	VERB
+yhdenkin	NUM
+niin	PART
+voi	AUX
+olla	AUX
+tyytyväinen	ADJ
+.	PUNCT
+
+Kyllä	PART
+ne	PRON
+jonkin	DET
+näpäytyksen	NOUN
+ansaitsisivat	VERB
+.	PUNCT
+
+Silloin	ADV
+ajattelin	VERB
+:	PUNCT
+"	PUNCT
+Voi	INTJ
+ei	VERB
+,	PUNCT
+anna	VERB
+mun	PRON
+kaikki	PRON
+kestää	VERB
+!	PUNCT
+"	PUNCT
+
+Suoliston	NOUN
+tavallisimmat	ADJ
+ärtymykset	NOUN
+ja	CCONJ
+tulehdukset	NOUN
+ovat	AUX
+lienee	PART
+edellä	ADV
+mainittujen	VERB
+sairauksien	NOUN
+ilmentymiä	NOUN
+.	PUNCT
+
+Harkittua	VERB
+ostelua	NOUN
+parhaimmillaan	ADV
+.	PUNCT
+:)	SYM
+
+Kas	INTJ
+kummaa	INTJ
+,	PUNCT
+minä	PRON
+luulin	VERB
+että	SCONJ
+neiti	NOUN
+tulee	VERB
+tänne	ADV
+rahaa	NOUN
+ruikuttamaan	VERB
+.	PUNCT
+
+Moraaliopetus	NOUN
+pitää	AUX
+olla	AUX
+kaikkien	PRON
+oppiaineiden	NOUN
+asia	NOUN
+.	PUNCT
+
+|	PUNCT
+D12	SYM
+|	PUNCT
+suhteista	NOUN
+Mashrek-maihin	NOUN
+vastaava	VERB
+valtuuskunta	NOUN
+:	PUNCT
+|	PUNCT
+20	NUM
+jäsentä	NOUN
+
+Muusikon	NOUN
+uran	NOUN
+jälkeen	ADP
+Kokljuschkin	PROPN
+on	AUX
+luonut	VERB
+uran	NOUN
+suomalaisessa	ADJ
+musiikkibusineksessa	NOUN
+.	PUNCT

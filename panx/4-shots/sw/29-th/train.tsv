@@ -1,0 +1,89 @@
+Dodoma	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+University	B-LOC
+Gardens	I-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Maurice	B-PER
+Michael	I-PER
+Otunga	I-PER
+
+Uhusika	O
+unachezwa	O
+na	O
+Glenn	B-PER
+Morshower	I-PER
+.	O
+
+'	O
+''	O
+Entebbe	B-LOC
+''	O
+'	O
+
+Wizara	B-ORG
+ya	I-ORG
+Habari	I-ORG
+,	I-ORG
+Vijana	I-ORG
+,	I-ORG
+Utamaduni	I-ORG
+na	I-ORG
+Michezo	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+57	O
+km²	B-ORG
+.	O
+
+``	B-ORG
+Because	I-ORG
+of	I-ORG
+You	I-ORG
+''	I-ORG
+(	I-ORG
+wimbo	I-ORG
+wa	I-ORG
+Ne-Yo	I-ORG
+)	I-ORG
+
+``	O
+You	B-ORG
+Rock	I-ORG
+My	I-ORG
+World	I-ORG
+''	O
+
+2007	O
+Peter	B-PER
+Grünberg	I-PER
+na	O
+Albert	B-PER
+Fert	I-PER
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Middelburg	B-LOC
+.	O
+
+Papa	B-PER
+Celestino	I-PER
+I	I-PER
+
+Belleville	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC
+
+True	B-ORG
+Jesus	I-ORG
+Church	I-ORG

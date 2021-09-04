@@ -1,0 +1,63 @@
+넘겨주기	O
+캄페오나투	B-ORG
+브라질레이루	I-ORG
+세리에	I-ORG
+A	I-ORG
+
+원적지는	O
+광둥	B-LOC
+성	I-LOC
+광저우이며	B-LOC
+상하이	B-LOC
+출생이다	O
+.	O
+
+크리스	B-PER
+에버트는	I-PER
+두	O
+종류의	O
+코트에서	O
+우승했다	O
+.	O
+
+**	O
+모하마드	B-PER
+레자	I-PER
+팔라비	I-PER
+(	O
+,	O
+1919	O
+~	O
+1980	O
+)	O
+
+지금의	O
+규슈	B-LOC
+후쿠오카	B-LOC
+현에	I-LOC
+도읍을	O
+정하여	O
+오우치노도조라	O
+칭하고	O
+,	O
+그	O
+후예가	O
+47대를	O
+이어	O
+내려갔다고	O
+한다	O
+.	O
+
+현재	O
+김천시	B-LOC
+직지사	B-ORG
+(	I-ORG
+直指寺	I-ORG
+)	I-ORG
+역	O
+인근에	O
+신도비와	O
+묘역이	O
+조성돼	O
+있다	O
+.	O

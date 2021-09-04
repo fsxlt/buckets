@@ -1,0 +1,97 @@
+Thierry	B-PER
+Henry	I-PER
+(	O
+24	O
+)	O
+
+1820-1820	O
+William	B-PER
+Hyde	I-PER
+Wollaston	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Daisetsuzan	B-ORG
+Parke	I-ORG
+Nazionalaren	I-ORG
+barnean	O
+dago	O
+.	O
+
+Altes	B-ORG
+Museumren	I-ORG
+iparraldean	O
+dago	O
+.	O
+
+Ikasketak	O
+Euskal	B-ORG
+Herriko	I-ORG
+Unibertsitatean	I-ORG
+burutu	O
+zituen	O
+.	O
+
+Bilera	O
+horretan	O
+,	O
+Kataluniako	B-LOC
+galdeketa	O
+eta	O
+beste	O
+gai	O
+batzuk	O
+izango	O
+zituzten	O
+gaitzat	O
+.	O
+
+BIRZUZENDU	O
+Alejandro	B-PER
+Agustín	I-PER
+Lanusse	I-PER
+
+Xinjin	B-LOC
+Konderria	I-LOC
+(	O
+新津县	O
+)	O
+
+Monumentu	B-ORG
+Nazionala	I-ORG
+(	I-ORG
+Ameriketako	I-ORG
+Estatu	I-ORG
+Batuak	I-ORG
+)	I-ORG
+
+Le	B-LOC
+Ployron	I-LOC
+(	O
+60503	O
+)	O
+
+BIRZUZENDU	O
+Alan	B-PER
+García	I-PER
+Pérez	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Vaucluse	B-LOC
+departamenduan	O
+dago	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O

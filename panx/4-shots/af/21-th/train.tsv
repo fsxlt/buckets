@@ -1,0 +1,167 @@
+'	O
+''	O
+Lewis	B-PER
+Hamilton	I-PER
+''	O
+'	O
+
+Hy	O
+is	O
+opgevolg	O
+deur	O
+Michail	B-PER
+Gorbatsjof	I-PER
+.	O
+
+20px]]	O
+Rio	B-LOC
+Grande	I-LOC
+do	I-LOC
+Sul	I-LOC
+
+AANSTUUR	O
+São	B-LOC
+Tomé	I-LOC
+en	I-LOC
+Príncipe	I-LOC
+
+Audrey	B-PER
+Hepburn	I-PER
+–	O
+''The	O
+Nun	O
+'s	O
+Story	O
+''	O
+
+``	O
+Later	O
+het	O
+hy	O
+in	O
+die	O
+kamp	O
+op	O
+Kimberley	B-ORG
+gaan	O
+werk	O
+.	O
+
+Die	O
+amptelike	O
+godsdiens	O
+is	O
+die	O
+Anglikaanse	B-ORG
+kerk	I-ORG
+.	O
+
+Noord	O
+is	O
+die	O
+teenoorgestelde	O
+rigting	O
+van	O
+suid	O
+,	O
+en	O
+dui	O
+die	O
+rigting	O
+van	O
+die	O
+Noordpool	B-LOC
+aan	O
+.	O
+
+AANSTUUR	O
+Panga	B-LOC
+(	I-LOC
+vis	I-LOC
+)	I-LOC
+
+Milton	B-LOC
+Keynes	I-LOC
+(	O
+Unitêre	O
+)	O
+
+'	O
+''	O
+Vrystaat	B-ORG
+Cheetahs	I-ORG
+''	O
+'	O
+
+Daar	O
+is	O
+ook	O
+'n	O
+bogrondse	O
+stasie	O
+vir	O
+die	O
+Gautrein	B-ORG
+gebou	O
+bo	O
+die	O
+bestaande	O
+stasie	O
+.	O
+
+Die	O
+tender	O
+van	O
+die	O
+here	O
+Fritz-Broers	O
+van	O
+Heidelberg	B-ORG
+,	I-ORG
+Transvaal	I-ORG
+,	O
+is	O
+vir	O
+die	O
+oprigting	O
+van	O
+die	O
+kerkgebou	O
+aanvaar	O
+.	O
+
+Dit	O
+word	O
+uiteindelik	O
+deur	O
+Clovis	B-PER
+I	I-PER
+vernietig	O
+.	O
+
+**	O
+''Live	O
+for	O
+Life	O
+''	O
+—	O
+Frankryk	B-LOC
+
+Ná	O
+sy	O
+dood	O
+word	O
+hy	O
+opgevolg	O
+deur	O
+sy	O
+verstandelik	O
+gestremde	O
+seun	O
+Fjodor	B-PER
+.	O
+
+AANSTUUR	O
+Sekunjalo	B-ORG
+Independent	I-ORG
+Media	I-ORG

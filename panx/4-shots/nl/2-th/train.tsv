@@ -1,0 +1,111 @@
+Zij	O
+heeft	O
+gestudeerd	O
+aan	O
+de	O
+London	B-ORG
+Academy	I-ORG
+of	I-ORG
+Music	I-ORG
+and	I-ORG
+Dramatic	I-ORG
+Art	I-ORG
+in	O
+Londen	B-LOC
+.	O
+
+Duitsers	O
+pikten	O
+hen	O
+op	O
+en	O
+brachten	O
+hen	O
+naar	O
+Den	B-LOC
+Helder	I-LOC
+.	O
+
+Toch	O
+werd	O
+later	O
+waarschijnlijk	O
+de	O
+Sensée	B-LOC
+als	O
+werkelijke	O
+grens	O
+beschouwd	O
+.	O
+
+-	O
+Oudezeele	B-LOC
+(	I-LOC
+Oudezele	I-LOC
+)	I-LOC
+
+====	O
+Hoogheemraadschap	B-ORG
+van	I-ORG
+Rijnland	I-ORG
+====	O
+
+DOORVERWIJZING	O
+Taboo	B-PER
+(	I-PER
+rapper	I-PER
+)	I-PER
+
+Samen	O
+met	O
+S.	B-LOC
+steerii	I-LOC
+''	O
+,	O
+''S	O
+.	O
+
+'	O
+''	O
+Phil	B-PER
+Read	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Rick	B-PER
+Leach	I-PER
+Jim	B-PER
+Pugh	I-PER
+
+Learco	B-PER
+Guerra	I-PER
+(	O
+Ita	O
+)	O
+
+Met	O
+Norwich	B-ORG
+City	I-ORG
+was	O
+ook	O
+het	O
+buitenland	O
+vertegenwoordigd	O
+ondertussen	O
+.	O
+
+Law	B-ORG
+&	I-ORG
+Order	I-ORG
+:	I-ORG
+Special	I-ORG
+Victims	I-ORG
+Unit	I-ORG
+''	O
+
+Bias	B-LOC
+(	I-LOC
+Landes	I-LOC
+)	I-LOC

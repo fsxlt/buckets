@@ -1,0 +1,16 @@
+הפניה	O
+פורבס	B-PER
+טרוול	I-PER
+גייד	I-PER
+
+הפניה	O
+פדרציית	B-ORG
+השחייה	I-ORG
+הבינלאומית	I-ORG
+
+הפניה	O
+ניי	B-LOC
+(	I-LOC
+עיר	I-LOC
+מדינה	I-LOC
+)	I-LOC

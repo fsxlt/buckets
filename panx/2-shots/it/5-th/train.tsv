@@ -1,0 +1,43 @@
+Mardy	B-PER
+Fish	I-PER
+(	O
+16	O
+)	O
+
+'	O
+''	O
+Nicolas	B-PER
+Hülkenberg	I-PER
+''	O
+'	O
+
+Medford	B-LOC
+-	O
+capoluogo	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Taylor	I-LOC
+,	O
+Wisconsin	B-LOC
+
+Repubblica	B-LOC
+Democratica	I-LOC
+di	I-LOC
+Armenia	I-LOC
+(	O
+fino	O
+al	O
+28	O
+novembre	O
+)	O
+
+Stazione	B-ORG
+di	I-ORG
+Coira	I-ORG
+Città	I-ORG
+
+Custodia	B-ORG
+di	I-ORG
+Terra	I-ORG
+Santa	I-ORG

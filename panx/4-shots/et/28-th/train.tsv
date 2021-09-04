@@ -1,0 +1,113 @@
+Eibenstock	B-LOC
+(	O
+6440	O
+)	O
+
+Ta	O
+mängis	O
+selle	O
+hooaja	O
+laenul	O
+Birmingham	B-ORG
+Citys	I-ORG
+.	O
+
+Harti	B-LOC
+maakond	I-LOC
+(	O
+lõunas	O
+)	O
+
+suuna	O
+Francisco	B-PER
+Macías	I-PER
+Nguema	I-PER
+
+aastal	O
+on	O
+moodustatud	O
+Otepää	B-LOC
+vald	I-LOC
+.	O
+
+IFK	B-ORG
+Norrköping	I-ORG
+(	O
+8	O
+)	O
+
+Ta	O
+mängib	O
+Eesti	B-LOC
+klubis	O
+Nõmme	B-ORG
+Kalju	I-ORG
+FC	I-ORG
+.	O
+
+Nevio	B-PER
+Passaro	I-PER
+,	O
+itaalia-saksa	O
+laulja	O
+(	O
+1980–	O
+)	O
+
+Washingtoni	B-LOC
+maakond	I-LOC
+(	O
+idas	O
+ja	O
+kagus	O
+)	O
+
+Raua	B-ORG
+tänava	I-ORG
+algkooli	I-ORG
+hoone	O
+;	O
+
+Naurskaja	B-LOC
+rajoon	I-LOC
+(	O
+Наурский	O
+район	O
+)	O
+
+Oli	O
+abielus	O
+August	B-PER
+Reiga	I-PER
+.	O
+
+Geezer	B-PER
+Butler	I-PER
+,	O
+inglise	O
+muusik	O
+(	O
+1949–	O
+)	O
+
+R1a1a7	O
+(	O
+R1a1ag	O
+)	O
+on	O
+määratletud	O
+M458-ga	O
+ja	O
+leitud	O
+peaaegu	O
+tervest	O
+Euroopast	B-LOC
+ja	O
+madala	O
+sagedusega	O
+Türgist	B-LOC
+ning	O
+mõningatest	O
+Kaukaasia	B-LOC
+piirkondadest	O
+.	O

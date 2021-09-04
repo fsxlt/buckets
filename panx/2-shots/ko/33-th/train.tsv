@@ -1,0 +1,41 @@
+넘겨주기	O
+웨스트햄	B-ORG
+유나이티드	I-ORG
+FC	I-ORG
+
+오늘날의	O
+그로세토	B-LOC
+현과	I-LOC
+시에나	B-LOC
+현의	I-LOC
+일부인	O
+이솔라델질리오와	B-LOC
+카스틸리오네도르차	B-LOC
+지역에	O
+세워졌다	O
+.	O
+
+번청은	O
+지금의	O
+후쿠야마	B-LOC
+시에	I-LOC
+있는	O
+후쿠야마	B-ORG
+성이다	I-ORG
+.	O
+
+복식	O
+경기에서는	O
+오스트레일리아의	B-LOC
+에드윈	B-PER
+플랙과	I-PER
+함께	O
+짝을	O
+이뤄서	O
+출전했다	O
+.	O
+
+넘겨주기	O
+다코타	B-PER
+블루	I-PER
+리처즈	I-PER

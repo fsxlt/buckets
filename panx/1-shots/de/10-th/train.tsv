@@ -1,0 +1,36 @@
+Amazonas	B-LOC
+(	I-LOC
+Region	I-LOC
+)	I-LOC
+
+14	O
+Spieler	O
+des	O
+Clubs	O
+haben	O
+es	O
+in	O
+den	O
+Kader	O
+der	O
+British	B-ORG
+and	I-ORG
+Irish	I-ORG
+Lions	I-ORG
+geschafft	O
+,	O
+18	O
+wurden	O
+zu	O
+Kapitänen	O
+der	O
+walisischen	B-ORG
+Nationalmannschaft	I-ORG
+.	O
+
+Carlo	B-PER
+Azeglio	I-PER
+Ciampi	I-PER
+,	O
+K.U.O.M	O
+.	O

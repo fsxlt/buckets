@@ -1,0 +1,33 @@
+ALIH	O
+Georg	B-PER
+Friedrich	I-PER
+Händel	I-PER
+
+''	O
+Chaos	B-ORG
+and	I-ORG
+Creation	I-ORG
+in	I-ORG
+the	I-ORG
+Backyard	I-ORG
+''	O
+performed	O
+by	O
+Paul	B-PER
+McCartney	I-PER
+
+Jimmy	B-ORG
+Kimmel	I-ORG
+Live	I-ORG
+!	I-ORG
+(	O
+ABC	B-ORG
+,	O
+Amerika	B-LOC
+Serikat	I-LOC
+)	O
+
+Banjir	B-LOC
+lumpur	I-LOC
+panas	I-LOC
+Sidoarjo	I-LOC

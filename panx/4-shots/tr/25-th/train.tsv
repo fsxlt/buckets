@@ -1,0 +1,95 @@
+``	O
+Is	B-ORG
+It	I-ORG
+True	I-ORG
+?	I-ORG
+''	O
+
+'	O
+''	O
+Einhaus	O
+''	O
+'	O
+Almanya'nın	B-LOC
+kuzeyinde	O
+Schleswig-Holstein	B-LOC
+eyâletinde	O
+,	O
+Herzogtum	B-LOC
+Lauenburg	I-LOC
+iline	O
+bağlı	O
+bölge	O
+.	O
+
+Taylor	B-PER
+Swift	I-PER
+—	O
+``	O
+I	B-ORG
+Knew	I-ORG
+You	I-ORG
+Were	I-ORG
+Trouble	I-ORG
+''	O
+
+Senaryo	O
+Passolini	O
+ve	O
+Dacia	B-PER
+Maraini	I-PER
+işbirliğiyle	O
+yazıldı	O
+.	O
+
+Kaliforniya	B-LOC
+kondoru	I-LOC
+(	O
+''Gymnogyps	O
+californianus	O
+''	O
+)	O
+
+Iris	B-PER
+tarafından	O
+seslendirilen	O
+,	O
+2012	B-ORG
+Eurovision	I-ORG
+Şarkı	I-ORG
+Yarışması'nda	I-ORG
+Belçika'yı	B-LOC
+temsil	O
+eden	O
+şarkıdır	O
+.	O
+
+'	O
+''	O
+Justine	B-PER
+Henin	I-PER
+''	O
+'	O
+1—3	O
+
+Valensiya	B-LOC
+(	I-LOC
+özerk	I-LOC
+topluluk	I-LOC
+)	I-LOC
+
+YÖNLENDİR	O
+Sovyetler	B-ORG
+Birliği	I-ORG
+Marşı	I-ORG
+
+Nicholas	B-PER
+Brendon	I-PER
+:	O
+Xander	B-PER
+Harris	I-PER
+
+YÖNLENDİRME	O
+Eğerlikozören	B-LOC
+,	I-LOC
+Kızılcahamam	I-LOC

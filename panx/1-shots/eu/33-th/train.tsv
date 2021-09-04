@@ -1,0 +1,26 @@
+Euskal	B-LOC
+Herriko	I-LOC
+kairik	O
+garrantzitsuenetarikoa	O
+dugu	O
+gaur	O
+egun	O
+.	O
+
+Samuel	B-PER
+Eto'o	I-PER
+(	O
+2009-	O
+)	O
+.	O
+
+2013-14	O
+denboraldiaren	O
+hasieran	O
+Deportivo	B-ORG
+Alavesen	I-ORG
+bigarren	O
+entrenatzailea	O
+izendatu	O
+zuten	O
+.	O

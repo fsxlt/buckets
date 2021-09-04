@@ -1,0 +1,77 @@
+تغییرمسیر	O
+فینال	B-ORG
+جام	I-ORG
+حذفی	I-ORG
+فوتبال	I-ORG
+انگلستان	I-ORG
+۱۹۸۷	I-ORG
+
+تغییرمسیر	O
+دهستان	B-LOC
+باروق	I-LOC
+(	I-LOC
+هریس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+دستیاری	B-PER
+(	I-PER
+پزشکی	I-PER
+)	I-PER
+
+ما	B-ORG
+دنیاییم	I-ORG
+We	O
+Are	O
+the	O
+World	O
+
+تغییرمسیر	O
+ساترن	B-LOC
+گریت	I-LOC
+پلین	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+مرکز	B-ORG
+پرواز	I-ORG
+والوپ	I-ORG
+
+این	O
+ابزار	O
+توسط	O
+داگلاس	B-PER
+کراکفرد	I-PER
+توسعه	O
+داده‌شده	O
+است	O
+.	O
+
+تغییرمسیر	O
+حشره‌خوار	B-LOC
+دندان‌سفید	I-LOC
+مونتان	I-LOC
+
+تغییرمسیر	O
+تام	B-PER
+باور	I-PER
+(	I-PER
+هنرپیشه	I-PER
+)	I-PER
+
+تغییرمسیر	O
+جان	B-PER
+براون	I-PER
+فرانسیس	I-PER
+
+تغییرمسیر	O
+میمون	B-LOC
+شنل‌پوش	I-LOC
+باریک‌اندام	I-LOC

@@ -1,0 +1,76 @@
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+30208	O
+.	O
+
+Baraza	B-ORG
+la	I-ORG
+Usalama	I-ORG
+la	I-ORG
+Umoja	I-ORG
+wa	I-ORG
+Mataifa	I-ORG
+
+Guru	B-PER
+Granth	I-PER
+Sahib	I-PER
+
+Greatest	B-ORG
+Hits	I-ORG
+(	I-ORG
+2Pac	I-ORG
+)	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Miltiades	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Marko	I-PER
+.	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Yamoussoukro	I-ORG
+
+Mikoa	B-LOC
+na	I-LOC
+Wilaya	I-LOC
+za	I-LOC
+Uswidi	I-LOC
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Middelburg	B-LOC
+.	O
+
+Hospitali	B-ORG
+ya	I-ORG
+Taifa	I-ORG
+ya	I-ORG
+Kenyatta	I-ORG
+
+Antoni	B-PER
+wa	I-PER
+Padua	I-PER
+
+Alimfuata	O
+Papa	B-PER
+Benedikto	I-PER
+IV	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Sergio	I-PER
+III	I-PER
+.	O
+
+Roselle	B-LOC
+,	I-LOC
+New	I-LOC
+Jersey	I-LOC

@@ -1,0 +1,28 @@
+გადამისამართება	O
+ჟუან	B-PER
+ბერნარდუ	I-PER
+ვიეირა	I-PER
+
+სხვადასხვა	O
+დროს	O
+შედიოდა	O
+ლაზიკის	B-LOC
+სამეფოში	I-LOC
+,	O
+ბიზანტიის	B-LOC
+იმპერიაში	I-LOC
+,	O
+ტრაპიზონის	B-LOC
+იმპერიაში	I-LOC
+,	O
+რუმის	B-LOC
+სასულთნოში	I-LOC
+და	O
+ოსმალეთის	B-LOC
+იმპერიაში	I-LOC
+.	O
+
+A	B-ORG
+Question	I-ORG
+of	I-ORG
+Time	I-ORG

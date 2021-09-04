@@ -1,0 +1,89 @@
+Yohane	B-PER
+wa	I-PER
+Msalaba	I-PER
+,	O
+Mt	O
+.	O
+
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Tullamore	B-LOC
+.	O
+
+Shirika	B-ORG
+la	I-ORG
+Huduma	I-ORG
+kwa	I-ORG
+Wanyama	I-ORG
+Pori	I-ORG
+ya	I-ORG
+Kenya	I-ORG
+
+*Desemba	O
+-	O
+Papa	B-PER
+Yohane	I-PER
+X	I-PER
+
+Alimfuata	O
+Papa	B-PER
+Eugenio	I-PER
+II	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Gregori	I-PER
+IV	I-PER
+.	O
+
+Klara	B-PER
+wa	I-PER
+Asizi	I-PER
+
+Eneo	O
+lake	O
+ni	O
+150.2	O
+km²	B-ORG
+.	O
+
+Wanachezea	O
+katika	O
+Chama	B-ORG
+cha	I-ORG
+Mpira	I-ORG
+wa	I-ORG
+Kikapu	I-ORG
+nchini	O
+Marekani	B-LOC
+.	O
+
+Basilika	B-ORG
+la	I-ORG
+Mt.	I-ORG
+Petro	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+33404	O
+.	O
+
+Ufalme	B-LOC
+wa	I-LOC
+Muungano	I-LOC
+
+Pleasant	B-LOC
+Hill	I-LOC
+,	I-LOC
+California	I-LOC
+
+Shirika	B-ORG
+za	I-ORG
+msalaba	I-ORG
+mwekundu	I-ORG
+na	I-ORG
+hilali	I-ORG
+nyekundu	I-ORG

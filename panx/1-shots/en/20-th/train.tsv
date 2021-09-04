@@ -1,0 +1,15 @@
+Commonwealth	B-ORG
+Stadium	I-ORG
+,	O
+Lexington	B-LOC
+,	I-LOC
+Kentucky	I-LOC
+
+:1st	O
+Stage	O
+4	O
+Giro	B-ORG
+d'Italia	I-ORG
+,	O
+Enrico	B-PER
+Battaglin	I-PER

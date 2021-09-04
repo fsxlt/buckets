@@ -1,0 +1,52 @@
+Lothar	B-PER
+Mendes	I-PER
+,	O
+Lewis	B-PER
+Seiler	I-PER
+
+Dabei	O
+durchquert	O
+sie	O
+die	O
+Stadtgemeinden	O
+Alvalade	B-LOC
+,	O
+Avenidas	B-LOC
+Novas	I-LOC
+und	O
+Arroios	B-LOC
+.	O
+
+Königreich	B-ORG
+der	I-ORG
+Vereinigten	I-ORG
+Niederlande	I-ORG
+
+Weiterleitung	O
+Albert	B-PER
+Ebossé	I-PER
+Bodjongo	I-PER
+
+'	O
+''	O
+Aerosmith	B-ORG
+''	O
+'	O
+-	O
+I	B-ORG
+Don’t	I-ORG
+Want	I-ORG
+to	I-ORG
+Miss	I-ORG
+a	I-ORG
+Thing	I-ORG
+''	O
+
+1	O
+km	O
+nördlich	O
+vorbeiführenden	O
+Canal	B-LOC
+du	I-LOC
+Midi	I-LOC
+.	O

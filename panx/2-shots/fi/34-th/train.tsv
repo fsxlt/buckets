@@ -1,0 +1,51 @@
+``	O
+The	B-ORG
+Trooper	I-ORG
+''	O
+-	O
+4:13	O
+
+A	B-LOC
+Coruña	I-LOC
+(	I-LOC
+maakunta	I-LOC
+)	I-LOC
+
+Hän	O
+ajoi	O
+Britannian	B-ORG
+parlamentissa	I-ORG
+läpi	O
+lain	O
+alusten	O
+merikelpoisuuden	O
+tarkastamisesta	O
+.	O
+
+Piet	B-PER
+Sielck	I-PER
+–	O
+laulu	O
+,	O
+kitara	O
+
+Saintluciankerttuli	B-LOC
+''Leucopeza	O
+semperi	O
+''	O
+
+Mira	B-PER
+(	I-PER
+nimi	I-PER
+)	I-PER
+
+Hän	O
+näytteli	O
+saman	O
+roolin	O
+näytelmän	O
+uusintaesityksessä	O
+Lontoon	B-LOC
+West	B-LOC
+Endissä	I-LOC
+.	O

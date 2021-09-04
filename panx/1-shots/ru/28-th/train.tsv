@@ -1,0 +1,18 @@
+Департамент	O
+—	O
+Верхние	B-LOC
+Пиренеи	I-LOC
+.	O
+
+перенаправление	O
+Ли	B-PER
+Сын	I-PER
+У	I-PER
+(	I-PER
+писатель	I-PER
+)	I-PER
+
+ОАО	B-ORG
+«Завод	I-ORG
+имени	I-ORG
+И.	I-ORG

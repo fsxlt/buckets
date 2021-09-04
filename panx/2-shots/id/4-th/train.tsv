@@ -1,0 +1,62 @@
+Digubah	O
+oleh	O
+rasul	B-PER
+Paulus	I-PER
+dan	O
+ditujukan	O
+kepada	O
+Timotius	B-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Aisne	I-LOC
+
+'	O
+''	O
+Kota	B-LOC
+Malang	I-LOC
+''	O
+'	O
+''	O
+
+ALIH	O
+Kementerian	B-ORG
+Transportasi	I-ORG
+(	I-ORG
+Malaysia	I-ORG
+)	I-ORG
+
+Sempat	O
+pindah	O
+ke	O
+HJK	B-ORG
+dan	O
+1899	B-ORG
+Hoffenheim	I-ORG
+yang	O
+meminjamkannya	O
+ke	O
+SC	B-ORG
+Paderborn	I-ORG
+07	I-ORG
+dan	O
+Osasuna	B-ORG
+sebelum	O
+bergabung	O
+dengan	O
+SC	B-ORG
+Heerenveen	I-ORG
+pada	O
+tahun	O
+2012	O
+.	O
+
+Hilang	O
+Naluri]]	O
+''	O
+-	O
+Once	B-PER
+Mekel	I-PER

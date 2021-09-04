@@ -1,0 +1,39 @@
+'	O
+''	O
+Georges	B-PER
+Bizet	I-PER
+''	O
+'	O
+(	O
+1838-1875	O
+)	O
+.	O
+
+LENCONG	O
+Laluan	B-ORG
+MRT	I-ORG
+Sungai	I-ORG
+Buloh-Kajang	I-ORG
+
+Markis	B-PER
+Kido	I-PER
+/	O
+Hendra	B-PER
+Setiawan	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côte-d'Or	I-LOC
+
+**	O
+FRUITY	B-ORG
+KILLER	I-ORG
+TUNE	I-ORG
+Lagu	O
+Ke-4	O

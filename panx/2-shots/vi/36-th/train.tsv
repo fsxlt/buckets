@@ -1,0 +1,47 @@
+Jelena	B-PER
+Jankovic	I-PER
+''	O
+(	O
+Bán	O
+kết	O
+)	O
+
+'	O
+''	O
+Quách	B-PER
+Thái	I-PER
+Khiết	I-PER
+''	O
+'	O
+
+Ngân	B-ORG
+hàng	I-ORG
+Nông	I-ORG
+nghiệp	I-ORG
+và	I-ORG
+Phát	I-ORG
+triển	I-ORG
+Nông	I-ORG
+thôn	I-ORG
+Việt	I-ORG
+Nam	I-ORG
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Ardennes	I-LOC
+
+đổi	O
+Sáo	B-LOC
+cánh	I-LOC
+hung	I-LOC
+
+'	O
+''	O
+†	O
+''	O
+'	O
+''	O
+Rubber	B-ORG
+Soul	I-ORG
+''	O

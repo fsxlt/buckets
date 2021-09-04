@@ -1,0 +1,39 @@
+DOORVERWIJZING	O
+Katholieke	B-ORG
+Universiteit	I-ORG
+Leuven	I-ORG
+Kulak	I-ORG
+
+'	O
+''	O
+Boston	B-ORG
+Celtics	I-ORG
+''	O
+'	O
+
+Hij	O
+versloeg	O
+in	O
+de	O
+finale	O
+Maks	B-PER
+Mirny	I-PER
+.	O
+
+'	O
+''	O
+Stefan	B-PER
+Bradl	I-PER
+''	O
+'	O
+
+Marino	B-LOC
+(	I-LOC
+Italië	I-LOC
+)	I-LOC
+
+DOORVERWIJZING	O
+Mizuma	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC

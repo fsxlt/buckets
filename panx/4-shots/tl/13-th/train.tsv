@@ -1,0 +1,55 @@
+Cagayan	B-LOC
+de	I-LOC
+Oro	I-LOC
+
+The	B-ORG
+Prince	I-ORG
+of	I-ORG
+Tennis	I-ORG
+''	O
+
+Papa	B-PER
+Pio	I-PER
+XII	I-PER
+
+Boston	B-LOC
+,	I-LOC
+Massachusetts	I-LOC
+
+Couples	B-ORG
+for	I-ORG
+Christ	I-ORG
+
+Vice	B-PER
+Ganda	I-PER
+(	O
+2009-kasalukuyan	O
+)	O
+
+Mondino	B-PER
+de	I-PER
+Luzzi	I-PER
+
+Yumiko	B-PER
+Kobayashi	I-PER
+bilang	O
+Ukitsu	O
+
+Laurel	B-LOC
+,	I-LOC
+Batangas	I-LOC
+
+Those	B-ORG
+Who	I-ORG
+Hunt	I-ORG
+Elves	I-ORG
+''	O
+
+Lungsod	B-LOC
+ng	I-LOC
+Fukuoka	I-LOC
+
+Estasyong	B-ORG
+Magallanes	I-ORG
+ng	I-ORG
+MRT	I-ORG

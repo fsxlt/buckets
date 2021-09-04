@@ -1,0 +1,44 @@
+Gaur	O
+egun	O
+Arraia-Maeztu	B-LOC
+izeneko	O
+udalerriaren	O
+barnean	O
+dago	O
+.	O
+
+Jorge	B-PER
+Luis	I-PER
+Borges	I-PER
+.	O
+
+2001eko	B-ORG
+irailaren	I-ORG
+11ko	I-ORG
+atentatuak	I-ORG
+
+Les	B-LOC
+Vignes	I-LOC
+(	O
+48195	O
+)	O
+
+Pio	B-PER
+V.a	I-PER
+hautatu	O
+zuten	O
+1565–66ko	B-ORG
+konklabea	I-ORG
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Alpe	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dagoena	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O

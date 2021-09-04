@@ -1,0 +1,41 @@
+Hän	O
+edustaa	O
+NFL-liigassa	B-ORG
+pelaavaa	O
+Atlanta	B-ORG
+Falconsia	I-ORG
+.	O
+
+'	O
+''	O
+Sjeng	B-PER
+Schalken	I-PER
+''	O
+'	O
+
+''	O
+San	B-LOC
+Antonio	I-LOC
+''	O
+'	O
+
+Dr.	B-PER
+Dre	I-PER
+,	O
+Snoop	B-PER
+Dogg	I-PER
+
+Red	B-ORG
+Hot	I-ORG
+Chili	I-ORG
+Peppers	I-ORG
+–	O
+Knock	B-ORG
+Me	I-ORG
+Down”	I-ORG
+
+Östersundin	B-LOC
+kunta	I-LOC
+,	O
+Krokomin	B-LOC
+kunta	I-LOC

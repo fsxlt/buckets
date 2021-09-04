@@ -1,0 +1,89 @@
+Жан-Лу	B-PER
+Кретиен	I-PER
+(	O
+CNES	B-ORG
+)	O
+
+'	O
+''	O
+Ричи	B-PER
+Гинтър	I-PER
+''	O
+'	O
+
+**	O
+Национална	B-ORG
+библиотека	I-ORG
+на	I-ORG
+Франция	I-ORG
+,	O
+Париж	B-LOC
+;	O
+
+Макар	O
+и	O
+оправдан	O
+е	O
+преследван	O
+от	O
+властите	O
+и	O
+се	O
+укрива	O
+в	O
+Черна	B-LOC
+гора	I-LOC
+.	O
+
+пренасочване	O
+Владимирово	B-LOC
+(	I-LOC
+област	I-LOC
+Монтана	I-LOC
+)	I-LOC
+
+Атлетико	B-ORG
+Насионал	I-ORG
+(	O
+под	O
+наем	O
+)	O
+
+Полуда	O
+в	O
+TCM	B-ORG
+Movie	I-ORG
+Database	I-ORG
+
+пренасочване	O
+ФК	B-ORG
+Бока	I-ORG
+Хуниорс	I-ORG
+
+Мария	B-PER
+Хосе	I-PER
+Мартинес	I-PER
+Санчес	I-PER
+''	O
+(	O
+3	O
+кръг	O
+)	O
+
+Естуар	B-LOC
+(	I-LOC
+провинция	I-LOC
+)	I-LOC
+
+Варвара	B-PER
+Лепченко	I-PER
+''	O
+(	O
+Първи	O
+кръг	O
+)	O
+
+виж	O
+Синдзян-уйгурски	B-LOC
+автономен	I-LOC
+регион	I-LOC

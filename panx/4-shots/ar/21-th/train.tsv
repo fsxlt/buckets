@@ -1,0 +1,80 @@
+تحويل	O
+سويو	B-PER
+(	I-PER
+مغنية	I-PER
+)	I-PER
+
+الحزب	B-ORG
+الشيوعي	I-ORG
+التركي	I-ORG
+(	O
+TKP	O
+)	O
+
+المجمع	B-PER
+المقدس	I-PER
+للكنيسة	I-PER
+القبطية	I-PER
+الأرثوذكسية	I-PER
+
+الأبطال	O
+الأولمبيون	O
+موقع	O
+اللجنة	B-ORG
+الأولمبية	I-ORG
+الدولية	I-ORG
+
+تحويل	O
+بيارن	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+وخلفه	O
+على	O
+عرشه	O
+ابنه	O
+نصير	B-PER
+الدين	I-PER
+همايون	I-PER
+.	O
+
+تحويل	O
+هولوواي	B-LOC
+(	I-LOC
+لندن	I-LOC
+)	I-LOC
+
+تحويل	O
+العربية	B-ORG
+البريطانية	I-ORG
+للمروحيات	I-ORG
+
+تحويل	O
+بيو	B-ORG
+الثاني	I-ORG
+عشر	I-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+مدريد	I-ORG
+)	I-ORG
+
+تحويل	O
+غرين	B-LOC
+سبرينغز	I-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+تحويل	O
+باولا	B-PER
+تيرادوس	I-PER
+سانتشيث	I-PER
+
+تحويل	O
+نيوتونيا	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC

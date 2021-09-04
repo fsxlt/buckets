@@ -1,0 +1,39 @@
+REDIRECCIÓN	O
+Extensión	B-ORG
+de	I-ORG
+la	I-ORG
+Línea	I-ORG
+7	I-ORG
+
+Río	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+(	O
+)	O
+
+Lucio	B-PER
+Papirio	I-PER
+Cursor	I-PER
+
+Odessa	B-LOC
+(	I-LOC
+Washington	I-LOC
+)	I-LOC
+,	O
+pueblo	O
+.	O
+
+Universidad	B-ORG
+de	I-ORG
+Nevada	I-ORG
+en	I-ORG
+Las	I-ORG
+Vegas	I-ORG
+(	O
+1973-1992	O
+)	O
+
+REDIRECCIÓN	O
+José	B-PER
+López	I-PER
+Rubio	I-PER

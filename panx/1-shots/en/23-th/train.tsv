@@ -1,0 +1,18 @@
+Nurullah	B-PER
+Sağlam	I-PER
+(	O
+2009	O
+)	O
+
+Middle	B-LOC
+Musquodoboit	I-LOC
+,	I-LOC
+Nova	I-LOC
+Scotia	I-LOC
+
+Hertha	B-ORG
+BSC	I-ORG
+Berlin	I-ORG
+(	O
+5	O
+)	O

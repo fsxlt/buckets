@@ -1,0 +1,133 @@
+Nafarroako	B-LOC
+erregekide	O
+berriak	O
+,	O
+Alfontso	B-PER
+V.a	I-PER
+Aragoikoaren	I-PER
+anaia	O
+,	O
+Joanes	B-PER
+II.a	I-PER
+Gaztelakoaren	I-PER
+laguntza	O
+zuen	O
+handikien	O
+talde	O
+nagusi	O
+batekin	O
+liskarrak	O
+izan	O
+zituen	O
+.	O
+
+Sanin	B-ORG
+Kaigan	I-ORG
+Parke	I-ORG
+Nazionala	I-ORG
+
+Poza	B-LOC
+de	I-LOC
+la	I-LOC
+Sal	I-LOC
+
+Mendiko	O
+etapa]]	O
+(	O
+Peter	B-PER
+Sagan	I-PER
+)	O
+
+'	O
+''	O
+Sestao	B-ORG
+Sport	I-ORG
+''	O
+'	O
+
+Namibia	B-ORG
+(	O
+20	O
+)	O
+
+Denbighshire	B-LOC
+/	I-LOC
+Sir	I-LOC
+Ddinbych	I-LOC
+.	O
+
+Nazio	B-ORG
+Batuen	I-ORG
+Erakundeari	I-ORG
+oparitutako	O
+eskopetarra	O
+berriz	O
+,	O
+desarmatze-hitzaldi	O
+batean	O
+erakutsia	O
+izan	O
+zen	O
+.	O
+
+Hokkaidoren	B-LOC
+hegoaldean	O
+dago	O
+,	O
+Tsugaruko	B-LOC
+itsasarteak	I-LOC
+bereizia	O
+;	O
+eta	O
+Shikokuren	B-LOC
+iparraldean	O
+eta	O
+Kyushuren	B-LOC
+ipar-ekialdean	O
+,	O
+Kanmon	B-LOC
+itsasarteak	I-LOC
+bereizia	O
+.	O
+
+Desmond	B-PER
+Tuturen	I-PER
+esanetan	O
+,	O
+ubuntuduna	O
+«zabala	O
+den	O
+pertsona	O
+da	O
+eta	O
+beti	O
+besteentzako	O
+eskuragarri	O
+dagoena	O
+.	O
+
+Teramoko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Abruzzo	B-LOC
+eskualdean	O
+.	O
+
+Rudy	B-PER
+Fernández	I-PER
+(	O
+RMAD	O
+)	O
+
+Irlandan	B-LOC
+asko	O
+eraiki	O
+zituzten	O
+,	O
+adibidez	O
+,	O
+Grianan	B-ORG
+Aileachkoa	I-ORG
+.	O

@@ -1,0 +1,92 @@
+Copa	B-LOC
+Panamericana	I-LOC
+de	I-LOC
+Voleibol	I-LOC
+Femenino	I-LOC
+Sub-20	I-LOC
+de	I-LOC
+2013	I-LOC
+
+``	O
+For	B-ORG
+Whom	I-ORG
+the	I-ORG
+Bell	I-ORG
+Tolls	I-ORG
+''	O
+
+Concertación	B-ORG
+de	I-ORG
+Partidos	I-ORG
+por	I-ORG
+la	I-ORG
+Democracia	I-ORG
+
+Vive	O
+en	O
+Los	B-LOC
+Ángeles	I-LOC
+con	O
+su	O
+esposa	O
+y	O
+su	O
+hija	O
+.	O
+
+Gigi	B-PER
+Fernández	I-PER
+/	O
+Rennae	B-PER
+Stubbs	I-PER
+
+Super	B-PER
+Mario	I-PER
+Bros.	I-PER
+3	I-PER
+(	I-PER
+serie	I-PER
+de	I-PER
+televisión	I-PER
+)	I-PER
+
+Ben	B-PER
+Watson	I-PER
+(	I-PER
+futbolista	I-PER
+)	I-PER
+
+Parque	B-LOC
+nacional	I-LOC
+natural	I-LOC
+de	I-LOC
+Los	I-LOC
+Katíos	I-LOC
+
+**	O
+20px	O
+Ray	B-PER
+Scott	I-PER
+(	O
+Detroit	B-ORG
+Pistons	I-ORG
+)	O
+
+'	O
+''	O
+Municipio	B-LOC
+de	I-LOC
+Prairie	I-LOC
+''	O
+'	O
+,	O
+en	O
+el	O
+condado	B-LOC
+de	I-LOC
+Delaware	I-LOC
+.	O
+
+Cervezas	B-ORG
+de	I-ORG
+México	I-ORG

@@ -1,0 +1,88 @@
+'	O
+''	O
+Andy	B-PER
+Murray	I-PER
+''	O
+'	O
+
+Columbus	B-LOC
+,	I-LOC
+Ohio	I-LOC
+
+đổi	O
+Sâu	B-LOC
+cuốn	I-LOC
+lá	I-LOC
+chuối	I-LOC
+
+Tuân	O
+Tức	O
+lập	O
+em	O
+ông	O
+là	O
+Trác	B-PER
+Tử	I-PER
+làm	O
+vua	O
+Tấn	O
+mới	O
+.	O
+
+Hội	B-ORG
+Truyền	I-ORG
+giáo	I-ORG
+Phúc	I-ORG
+âm	I-ORG
+Liên	I-ORG
+hiệp	I-ORG
+
+Hiệp	B-ORG
+hội	I-ORG
+Xã	I-ORG
+hội	I-ORG
+học	I-ORG
+Quốc	I-ORG
+tế	I-ORG
+
+Không	B-ORG
+quân	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+
+Live	B-ORG
+to	I-ORG
+Tell	I-ORG
+
+*Cửa	O
+hàng	O
+Peek+Cloppenburg	O
+,	O
+Berlin	B-LOC
+
+•	O
+Tuyên	B-LOC
+Thành	I-LOC
+(	O
+宣城市	O
+)	O
+
+''	O
+Xylophanes	B-LOC
+jamaicensis	I-LOC
+''	O
+
+Miley	B-PER
+Cyrus	I-PER
+–	O
+Bangerz	B-ORG
+''	O
+
+đổi	O
+Vương	B-PER
+Hạo	I-PER
+(	I-PER
+nhà	I-PER
+toán	I-PER
+học	I-PER
+)	I-PER

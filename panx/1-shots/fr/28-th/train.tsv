@@ -1,0 +1,25 @@
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Puy-de-Dôme	I-LOC
+
+À	O
+12	O
+ans	O
+,	O
+il	O
+découvre	O
+l'escalade	O
+et	O
+s'inscrit	O
+au	O
+Club	B-ORG
+alpin	I-ORG
+suisse	I-ORG
+.	O
+
+REDIRECTION	O
+Albert	B-PER
+Nikolaïevitch	I-PER
+Benois	I-PER

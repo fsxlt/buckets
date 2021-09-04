@@ -1,0 +1,76 @@
+Núi	B-LOC
+Phan	I-LOC
+Xi	I-LOC
+Păng	I-LOC
+
+''	O
+Anthidium	B-LOC
+sinuatellum	I-LOC
+''	O
+
+'	O
+''	O
+Severus	B-PER
+II	I-PER
+''	O
+'	O
+'	O
+''	O
+FLAVIVS	O
+VALERIVS	O
+SEVERVS	O
+''	O
+'	O
+AVGVSTVS	O
+
+Papiss	B-PER
+Cissé	I-PER
+''	O
+(	O
+SC	B-ORG
+Freiburg	I-ORG
+)	O
+''	O
+
+Đại	B-ORG
+học	I-ORG
+Khoa	I-ORG
+học	I-ORG
+Tự	I-ORG
+nhiên	I-ORG
+
+đổi	O
+Vườn	B-LOC
+quốc	I-LOC
+gia	I-LOC
+Núi	I-LOC
+Semien	I-LOC
+
+Jean-Marie	B-PER
+Gustave	I-PER
+Le	I-PER
+Clézio	I-PER
+
+Giáo	B-PER
+hoàng	I-PER
+Ađrianô	I-PER
+VI	I-PER
+(	O
+1522–1523	O
+)	O
+
+Minh	B-ORG
+Trị	I-ORG
+Duy	I-ORG
+tân	I-ORG
+
+''	O
+Trithemis	B-LOC
+ellenbeckii	I-LOC
+''	O
+
+Tối	B-ORG
+đa	I-ORG
+hóa	I-ORG
+thỏa	I-ORG
+dụng	I-ORG

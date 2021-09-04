@@ -1,0 +1,129 @@
+Las	B-LOC
+Vegas	I-LOC
+,	O
+Nevada	B-LOC
+,	O
+Yhdysvallat	B-LOC
+
+''	O
+Did	B-ORG
+It	I-ORG
+Again	I-ORG
+''	O
+
+Vanantaa	O
+tarkoittaa	O
+nykykielellä	O
+``	O
+Vanajan	B-LOC
+takainen	I-LOC
+''	O
+.	O
+
+Sen	O
+suunnittelussa	O
+auttoi	O
+myös	O
+John	B-PER
+Barnard	I-PER
+.	O
+
+Paul	B-PER
+Pierce	I-PER
+(	O
+3	O
+)	O
+
+'	O
+''	O
+Orlunda	O
+''	O
+'	O
+on	O
+kylä	O
+Vadstenan	B-LOC
+kunnassa	O
+Itä-Götanmaan	B-LOC
+läänissä	I-LOC
+Ruotsissa	B-LOC
+.	O
+
+Hän	O
+edustaa	O
+Ranskan	B-LOC
+liigassa	B-ORG
+pelaavaa	O
+Stade	B-ORG
+Rennais'ta	I-ORG
+ja	O
+on	O
+pelipaikaltaan	O
+hyökkääjä	O
+.	O
+
+OHJAUS	O
+Anne	B-ORG
+Robert	I-ORG
+Jacques	I-ORG
+Turgot	I-ORG
+
+Venäläis-amerikkalainen	B-ORG
+kauppakomppanian	I-ORG
+palveluksessa	O
+Alaskassa	B-LOC
+hän	O
+oli	O
+1839-1846	O
+,	O
+tehden	O
+oman	O
+aluksensa	O
+päällikönä	O
+laajoja	O
+purjehdusmatkoja	O
+.	O
+
+'	O
+''	O
+Pentaur	O
+''	O
+'	O
+oli	O
+muinainen	B-LOC
+egyptiläinen	I-LOC
+runoilija	O
+tai	O
+runoilijajoukko	O
+,	O
+joka	O
+Ramses	B-PER
+II	I-PER
+:	I-PER
+n	I-PER
+aikana	O
+kirjoitti	O
+runoja	O
+tämän	O
+urotöistä	O
+.	O
+
+Edmonton	B-LOC
+,	O
+Alberta	B-LOC
+,	O
+Kanada	B-LOC
+
+Hän	O
+urallaan	O
+myös	O
+Ruotsissa	B-LOC
+Sveitsissä	B-LOC
+,	O
+Suomessa	B-LOC
+ja	O
+Saksassa	B-LOC
+.	O
+
+José	B-PER
+María	I-PER
+Montes	I-PER

@@ -1,0 +1,57 @@
+Kappaleen	O
+on	O
+säveltänyt	O
+ja	O
+sanoittanut	O
+Teemu	B-PER
+Brunila	I-PER
+.	O
+
+Philadelphia	B-LOC
+)	O
+tai	O
+yleisen	O
+eurooppalaisen	O
+paikannimistön	O
+(	O
+vrt	O
+.	O
+
+Tartu	B-ORG
+Ülikool	I-ORG
+/	I-ORG
+Rock	I-ORG
+''	O
+(	O
+1	O
+)	O
+''	O
+
+Onni	B-PER
+Hiltunen	I-PER
+(	O
+1930–1962	O
+)	O
+
+OHJAUS	O
+Timiș	B-LOC
+(	I-LOC
+piirikunta	I-LOC
+)	I-LOC
+
+Vuosikymmenen	O
+lopulla	O
+hän	O
+opiskeli	O
+kankaanpainantaa	O
+Cornellin	B-ORG
+yliopistossa	I-ORG
+New	B-LOC
+Yorkissa	I-LOC
+.	O
+
+``	O
+Like	B-ORG
+a	I-ORG
+Virgin	I-ORG
+''	O

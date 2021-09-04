@@ -1,0 +1,92 @@
+Belle	B-LOC
+(	I-LOC
+Virgínia	I-LOC
+Ocidental	I-LOC
+)	I-LOC
+
+Henrique	B-PER
+VII	I-PER
+da	I-PER
+Germânia	I-PER
+
+Condado	B-LOC
+de	I-LOC
+Saline	I-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC
+
+Campeonato	B-ORG
+Carioca	I-ORG
+de	I-ORG
+Futebol	I-ORG
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Estes	O
+conceitos	O
+podem	O
+ser	O
+usados	O
+,	O
+por	O
+exemplo	O
+,	O
+na	O
+Resolução	B-ORG
+de	I-ORG
+equações	I-ORG
+.	O
+
+Urso	B-PER
+de	I-PER
+Soleura	I-PER
+
+Redirecionamento	O
+Museu	B-ORG
+de	I-ORG
+Arte	I-ORG
+e	I-ORG
+História	I-ORG
+(	I-ORG
+Genebra	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Michael	B-PER
+Schumacher	I-PER
+''	O
+'	O
+
+Alcolea	B-LOC
+de	I-LOC
+las	I-LOC
+Peñas	I-LOC
+
+``	O
+Send	B-ORG
+It	I-ORG
+On	I-ORG
+''	O
+(	O
+colaboração	O
+com	O
+Demi	B-PER
+Lovato	I-PER
+,	O
+Jonas	B-ORG
+Brothers	I-ORG
+,	O
+Selena	B-PER
+Gomez	I-PER
+e	O
+Miley	B-PER
+Cyrus	I-PER
+)	O

@@ -1,0 +1,108 @@
+Baikonur	B-LOC
+(	O
+Bayqoñır	O
+)	O
+(	O
+vuokrattu	O
+Venäjälle	B-LOC
+)	O
+
+====	O
+Cheek	B-PER
+–	O
+Jare	B-ORG
+Henrik	I-ORG
+Tiihonen	I-ORG
+2	I-ORG
+''	O
+====	O
+
+Samalla	O
+listalla	O
+oli	O
+ollut	O
+myös	O
+Hella	B-PER
+Wuolijoen	I-PER
+nimi	O
+.	O
+
+Sen	O
+pääkaupunki	O
+on	O
+Forst	B-LOC
+(	I-LOC
+Lausitz	I-LOC
+)	I-LOC
+.	O
+
+OHJAUS	O
+Wisconsinin	B-ORG
+yliopisto	I-ORG
+,	I-ORG
+Milwaukee	I-ORG
+
+''	O
+Love	B-ORG
+Gun	I-ORG
+''	O
+
+Yhden	O
+kultamitalin	O
+ovat	O
+voittaneet	O
+Mamo	B-PER
+Wolde	I-PER
+,	O
+Fatuma	B-PER
+Roba	I-PER
+,	O
+Millon	B-PER
+Wolde	I-PER
+,	O
+Gezahegne	B-PER
+Abera	I-PER
+ja	O
+Meseret	B-PER
+Defar	I-PER
+.	O
+
+Seuran	O
+kotikaupunki	O
+on	O
+Kamloops	B-LOC
+Brittiläisessä	B-LOC
+Kolumbiassa	I-LOC
+.	O
+
+Jerry	B-PER
+West	I-PER
+(	O
+2	O
+)	O
+
+Magdalena	B-LOC
+(	O
+Santa	B-LOC
+Marta	I-LOC
+)	O
+
+Cruella	B-PER
+de	I-PER
+Vil	I-PER
+
+Sinne	O
+liikennöi	O
+säännöllisesti	O
+laivoja	O
+Korfun	B-LOC
+kaupungista	I-LOC
+ja	O
+Sidárista	B-LOC
+.	O
+
+``	O
+This	B-ORG
+Place	I-ORG
+Hotel	I-ORG
+''	O

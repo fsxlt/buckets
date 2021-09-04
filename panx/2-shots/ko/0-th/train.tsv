@@ -1,0 +1,64 @@
+오타케	B-PER
+히데오	I-PER
+(	O
+大竹英雄	O
+)	O
+9단	O
+
+아메리칸	B-ORG
+항공	I-ORG
+,	O
+유나이티드	B-ORG
+항공	I-ORG
+,	O
+버진	B-ORG
+아메리카	I-ORG
+
+그는	O
+퀘벡은	O
+난공불락으로	O
+믿고	O
+있으며	O
+,	O
+세인트로렌스	B-LOC
+강은	I-LOC
+상당히	O
+숙련된	O
+안내역이	O
+없으면	O
+,	O
+매우	O
+위험하다고	O
+생각했다	O
+.	O
+
+캘리포니아	B-LOC
+주	I-LOC
+리버사이드	B-LOC
+군	I-LOC
+리버사이드	B-LOC
+
+넘겨주기	O
+2010년	B-PER
+아시안	I-PER
+게임	I-PER
+
+유벤투스	B-ORG
+FC는	I-ORG
+이	O
+시즌에	O
+27승	O
+6무	O
+5패로	O
+우승을	O
+달성했지만	O
+UC	B-ORG
+삼프도리아한테는	I-ORG
+이카르디의	O
+맹활약	O
+때문에	O
+한번도	O
+이기지	O
+못한	O
+것이다	O
+.	O

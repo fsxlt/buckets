@@ -1,0 +1,84 @@
+Clivio	B-PER
+Piccione	I-PER
+,	O
+Ferdinando	B-PER
+Monfardini	I-PER
+,	O
+Gianmaria	B-PER
+Bruni	I-PER
+
+Grande	B-LOC
+Lago	I-LOC
+do	I-LOC
+Urso	I-LOC
+
+**	O
+Reestreia	O
+Laços	B-ORG
+de	I-ORG
+Família	I-ORG
+''	O
+no	O
+Canal	B-ORG
+Viva	I-ORG
+.	O
+
+Drica	B-PER
+Moraes	I-PER
+-	O
+(	O
+Império	B-ORG
+''	O
+)	O
+
+Redirecionamento	O
+República	B-LOC
+Socialista	I-LOC
+Soviética	I-LOC
+Quirguiz	I-LOC
+
+Zona	B-ORG
+Desmilitarizada	I-ORG
+da	I-ORG
+Coreia	I-ORG
+
+Foram	O
+detidos	O
+pelo	O
+Capitão	B-PER
+América	I-PER
+.	O
+
+Ana	B-PER
+de	I-PER
+la	I-PER
+Reguera	I-PER
+como	O
+Rosaura	O
+
+Terra	B-LOC
+do	I-LOC
+Fogo	I-LOC
+
+Estádio	B-ORG
+Municipal	I-ORG
+Coaracy	I-ORG
+da	I-ORG
+Mata	I-ORG
+Fonseca	I-ORG
+
+==Clubes	O
+pertencentes	O
+ao	O
+Oblast	B-LOC
+de	I-LOC
+Sverdlovsk	I-LOC
+
+REDIRECIONAMENTO	O
+Catedral	B-ORG
+de	I-ORG
+Santo	I-ORG
+Estêvão	I-ORG
+(	I-ORG
+Metz	I-ORG
+)	I-ORG

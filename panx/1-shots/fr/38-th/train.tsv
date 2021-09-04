@@ -1,0 +1,17 @@
+redirection	O
+Razès	B-LOC
+(	I-LOC
+Haute-Vienne	I-LOC
+)	I-LOC
+
+Ice	B-ORG
+Gators	I-ORG
+de	I-ORG
+la	I-ORG
+Louisiane	I-ORG
+
+Pernelle	B-PER
+Carron	I-PER
+/	O
+Lloyd	B-PER
+Jones	I-PER

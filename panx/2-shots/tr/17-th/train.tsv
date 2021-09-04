@@ -1,0 +1,63 @@
+Ada	B-LOC
+martısı	I-LOC
+(	O
+''Larus	O
+audouinii	O
+''	O
+)	O
+
+Bazı	O
+yabancı	O
+ülkelerde	O
+(	O
+İngiltere	B-LOC
+,	O
+İspanya	B-LOC
+,	O
+Danimarka	B-LOC
+,	O
+Türkiye	B-LOC
+,	O
+Almanya	B-LOC
+)	O
+turnelere	O
+çıkmıştır	O
+.	O
+
+'	O
+''	O
+Gerhard	B-PER
+Berger	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Law	B-ORG
+&	I-ORG
+Order	I-ORG
+''	O
+'	O
+''	O
+
+Luke	B-PER
+Harangody	I-PER
+(	O
+15.0	O
+)	O
+
+YÖNLENDİRME	O
+Fransız	B-LOC
+Güney	I-LOC
+ve	I-LOC
+Antarktika	I-LOC
+Toprakları	I-LOC
+
+Ortaokul	O
+ve	O
+liseyi	O
+TED	B-ORG
+Ankara	I-ORG
+Koleji'nde	I-ORG
+okudu	O
+.	O

@@ -1,0 +1,60 @@
+Silangang	B-LOC
+Samar	I-LOC
+(	O
+1	O
+)	O
+
+Aklat	B-ORG
+ni	I-ORG
+Ageo	I-ORG
+
+Susu	B-LOC
+,	I-LOC
+Ishikawa	I-LOC
+
+Roseller	B-PER
+T.	I-PER
+Lim	I-PER
+
+**	O
+San	B-LOC
+Francisco	I-LOC
+(	O
+Konsulado-Heneral	O
+)	O
+
+Maning	B-ORG
+malutong	I-ORG
+at	I-ORG
+marupok	I-ORG
+
+Lungsod	B-LOC
+ng	I-LOC
+Saga	I-LOC
+
+Jejomar	B-PER
+Binay	I-PER
+nanumpa	O
+na	O
+bilang	O
+Ika-15	O
+na	O
+Pangalawang	B-ORG
+Pangulo	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+.	O
+
+Papa	B-PER
+Inocencio	I-PER
+II	I-PER
+
+Daddy	B-ORG
+Di	I-ORG
+Do	I-ORG
+Du	I-ORG
+''	O
+
+Wolfgang	B-PER
+Amadeus	I-PER
+Mozart	I-PER

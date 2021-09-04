@@ -1,0 +1,125 @@
+Hänet	O
+vietiin	O
+takaisin	O
+Virginiaan	B-LOC
+samassa	O
+ambulanssissa	O
+kuin	O
+kenraali	O
+John	B-PER
+Bell	I-PER
+Hood	I-PER
+.	O
+
+Lehtokielo	B-LOC
+(	O
+''Polygonatum	O
+multiflorum	O
+''	O
+)	O
+
+Suomalaisen	B-ORG
+Kirjallisuuden	I-ORG
+Seura	I-ORG
+,	O
+2005	O
+.	O
+
+luokkien	O
+opetusta	O
+antava	O
+yläkoulu	O
+Akaan	B-LOC
+Toijalasa	B-LOC
+.	O
+
+Hänen	O
+puolueensa	O
+oli	O
+Suomen	B-ORG
+Sosialidemokraattinen	I-ORG
+Puolue	I-ORG
+.	O
+
+Seuran	O
+kotistadion	O
+oli	O
+StubHub	B-LOC
+Center	I-LOC
+,	O
+joka	O
+sijaitsee	O
+Carsonin	B-LOC
+kaupungissa	O
+Los	B-LOC
+Angelesin	I-LOC
+piirikunnassa	I-LOC
+Kaliforniassa	B-LOC
+.	O
+
+Se	O
+on	O
+Monte	B-LOC
+Rosan	I-LOC
+massiivia	I-LOC
+.	O
+
+Mary-Louise	B-PER
+Parker	I-PER
+–	O
+Weeds	B-ORG
+''	O
+
+Kytherasta	O
+tuli	O
+osa	O
+Rooman	B-LOC
+valtakuntaa	I-LOC
+sen	O
+laajentuessa	O
+itään	O
+.	O
+
+'	O
+''	O
+Emaar	O
+Properties	O
+''	O
+'	O
+on	O
+Dubaissa	B-LOC
+sijaitseva	O
+kiinteistösijoitusyhtiö	O
+.	O
+
+OHJAUS	O
+Monza	B-LOC
+e	I-LOC
+Brianzan	I-LOC
+maakunta	I-LOC
+
+Mike	B-PER
+Bossy	I-PER
+,	O
+New	B-ORG
+York	I-ORG
+Islanders	I-ORG
+
+Olivier	B-PER
+Panis	I-PER
+ajoi	O
+tuolloin	O
+voittoon	O
+.	O
+
+OHJAUS	O
+Yleisurheilu	B-ORG
+kesäolympialaisissa	I-ORG
+1952	I-ORG
+–	I-ORG
+miesten	I-ORG
+4	I-ORG
+×	I-ORG
+400	I-ORG
+m	I-ORG
+viestijuoksu	I-ORG

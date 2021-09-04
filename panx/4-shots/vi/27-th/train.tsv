@@ -1,0 +1,74 @@
+Ed	B-PER
+Sheeran	I-PER
+—	O
+``	O
+Lego	B-ORG
+House	I-ORG
+''	O
+
+Âu	B-PER
+Dã	I-PER
+Tử	I-PER
+
+đổi	O
+Chuột	B-LOC
+chù	I-LOC
+Tây	I-LOC
+Ấn	I-LOC
+
+Hội	B-ORG
+Hoàng	I-ORG
+gia	I-ORG
+Luân	I-ORG
+Đôn	I-ORG
+
+Vùng	B-LOC
+quốc	I-LOC
+hải	I-LOC
+Hoa	I-LOC
+Kỳ	I-LOC
+
+``	O
+What	B-ORG
+a	I-ORG
+Girl	I-ORG
+Wants	I-ORG
+''	O
+
+Ngô	B-ORG
+Thừa	I-ORG
+Ân	I-ORG
+và	I-ORG
+Tây	I-ORG
+du	I-ORG
+ký	I-ORG
+-	O
+Trư	B-PER
+Bát	I-PER
+Giới	I-PER
+(	O
+2007	O
+)	O
+
+'	O
+''	O
+Cartagena	B-LOC
+''	O
+'	O
+
+Trần	B-PER
+Đại	I-PER
+Quang	I-PER
+(	O
+1956-	O
+)	O
+
+đổi	O
+An	B-LOC
+ca	I-LOC
+lớn	I-LOC
+
+Boadella	B-LOC
+d'Empordà	I-LOC
+-	O
+215	O

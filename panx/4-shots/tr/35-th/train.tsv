@@ -1,0 +1,108 @@
+YÖNLENDİR	O
+Luís	B-PER
+de	I-PER
+Camões	I-PER
+
+[[100	O
+metre	O
+rekortmeni	O
+Christine	B-PER
+Arron	I-PER
+,	O
+tüm	O
+zamanlarda	O
+Marion	B-PER
+Jones	I-PER
+,	O
+Florence	B-PER
+Griffith-Joyner	I-PER
+,	O
+Shelly-Ann	B-PER
+Fraser-Pryce	I-PER
+ve	O
+Carmelita	B-PER
+Jeter'in	I-PER
+ardından	O
+en	O
+hızlı	O
+isim	O
+oldu	O
+.]]	O
+
+YÖNLENDİR	O
+Kurtuluş	B-LOC
+,	I-LOC
+Şişli	I-LOC
+
+Eser	O
+,	O
+eş	O
+resmi	O
+,	O
+3	B-ORG
+Mayıs	I-ORG
+1808	I-ORG
+''	O
+ile	O
+birlikte	O
+ve	O
+Madrid'deki	B-LOC
+Prado	B-ORG
+Müzesi'nde	I-ORG
+sergilenmektedir	O
+.	O
+
+En	O
+irileri	O
+olan	O
+İmparator	B-LOC
+penguen	I-LOC
+45	O
+kg	O
+.	O
+
+**	O
+Jerry	B-PER
+West	I-PER
+,	O
+Los	B-ORG
+Angeles	I-ORG
+Lakers	I-ORG
+
+Tel	B-ORG
+Aviv	I-ORG
+Üniversitesi	I-ORG
+yerleşkesinde	O
+yer	O
+almaktadır	O
+.	O
+
+Sonrasında	O
+ise	O
+Ligue	B-ORG
+1	I-ORG
+ekiplerinden	O
+Paris	B-ORG
+Saint-Germain	I-ORG
+ile	O
+anlaştı	O
+.	O
+
+2012-13	B-LOC
+1.	I-LOC
+Lig	I-LOC
+sezonunun	I-LOC
+sekizinci	O
+sırada	O
+tamamlamıştır	O
+.	O
+
+YÖNLENDİRME	O
+D.	B-PER
+H.	I-PER
+Lawrence	I-PER
+
+YÖNLENDİRME	O
+Mora	B-LOC
+,	I-LOC
+Portekiz	I-LOC

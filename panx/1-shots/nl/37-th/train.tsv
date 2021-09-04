@@ -1,0 +1,21 @@
+Zacky	B-PER
+Vengeance	I-PER
+-	O
+slaggitaar	O
+,	O
+achtergrondzang	O
+
+Łopuszno	B-LOC
+,	O
+Miedziana	B-LOC
+Góra	I-LOC
+,	O
+Mniów	B-LOC
+,	O
+Piekoszów	B-LOC
+
+Make	B-ORG
+You	I-ORG
+Feel	I-ORG
+My	I-ORG
+Love	I-ORG

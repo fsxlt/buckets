@@ -1,0 +1,30 @@
+I	B-ORG
+Love	I-ORG
+Betty	I-ORG
+La	I-ORG
+Fea	I-ORG
+''	O
+
+Ang	O
+'	O
+''	O
+Nishiaisu	O
+''	O
+'	O
+ay	O
+isang	O
+munisipalidad	O
+sa	O
+Prepektura	B-LOC
+ng	I-LOC
+Fukushima	I-LOC
+.	O
+
+Henry	B-PER
+IV	I-PER
+,	I-PER
+Banal	I-PER
+na	I-PER
+Emperador	I-PER
+ng	I-PER
+Roma	I-PER

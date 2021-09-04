@@ -1,0 +1,133 @@
+Nooralotta	B-PER
+Neziri	I-PER
+''	O
+Turun	B-ORG
+Urheiluliitto	I-ORG
+''	O
+
+Alkuperäinen	O
+loppu	O
+kuitenkin	O
+palautettiin	O
+Carl	B-PER
+Barksin	I-PER
+kootut	I-PER
+''	O
+-sarjassa	O
+.	O
+
+'	O
+''	O
+Steffi	B-PER
+Graf	I-PER
+''	O
+'	O
+
+Porto]]	O
+''	O
+'	O
+(	O
+Portugali	B-LOC
+)	O
+
+ohjaus	O
+Lucas	B-PER
+López	I-PER
+García	I-PER
+
+Se	O
+sijaitsee	O
+Thessalonikin	B-LOC
+alueyksikössä	I-LOC
+Keski-Makedonian	B-LOC
+alueella	I-LOC
+.	O
+
+OHJAUS	O
+Kypséli	B-LOC
+(	I-LOC
+Ateena	I-LOC
+)	I-LOC
+
+Kitchener	B-LOC
+,	O
+Ontario	B-LOC
+,	O
+Kanada	B-LOC
+
+Pohjoisempi	O
+populaatio	O
+sijaitsee	O
+Queenslandin	B-LOC
+osavaltion	O
+koillisrannikolla	O
+ja	O
+eteläisempi	O
+populaatio	O
+Uuden	B-LOC
+Etelä-Walesin	I-LOC
+osavaltion	O
+alueella	O
+hieman	O
+Kauriin	B-LOC
+kääntöpiirin	I-LOC
+pohjoispuolella	O
+.	O
+
+Kaupungista	O
+avautuvat	O
+Pyreneiden	B-LOC
+vuoriston	I-LOC
+jylhät	O
+maisemat	O
+jäivät	O
+Gautier’n	O
+mieleen	O
+.	O
+
+Oulun	B-ORG
+kansainvälinen	I-ORG
+lasten-	I-ORG
+ja	I-ORG
+nuortenelokuvien	I-ORG
+festivaali	I-ORG
+
+OHJAUS	O
+Society	B-ORG
+of	I-ORG
+United	I-ORG
+Irishmen	I-ORG
+
+Vaahteramaljassa	O
+kohtasivat	O
+Helsinki	B-ORG
+Roosters	I-ORG
+ja	O
+Seinäjoki	B-ORG
+Crocodiles	I-ORG
+.	O
+
+Maradonalla	O
+on	O
+ollut	O
+myös	O
+oma	O
+tv-ohjelma	O
+,	O
+viiden	O
+miljoonan	O
+dollarin	O
+sopimus	O
+Hitachin	B-ORG
+kanssa	O
+sekä	O
+useita	O
+muita	O
+mainossopimuksia	O
+.	O
+
+Tapahtuman	O
+pääjärjestäjä	O
+on	O
+Kepa	B-ORG
+.	O

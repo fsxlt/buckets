@@ -1,0 +1,35 @@
+Condado	B-LOC
+de	I-LOC
+Wrocław	I-LOC
+
+Wendell	B-LOC
+(	I-LOC
+Carolina	I-LOC
+do	I-LOC
+Norte	I-LOC
+)	I-LOC
+
+''granulatostellulata	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+Ordonho	B-PER
+I	I-PER
+das	I-PER
+Astúrias	I-PER
+
+REDIRECIONAMENTO	O
+Imperador	B-PER
+Taizong	I-PER
+de	I-PER
+Tang	I-PER
+
+REDIRECIONAMENTO	O
+Ashanti	B-ORG
+Gold	I-ORG
+Sporting	I-ORG
+Club	I-ORG

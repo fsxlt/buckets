@@ -1,0 +1,66 @@
+تغییرمسیر	O
+شهرآرا	B-LOC
+(	I-LOC
+چالوس	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	I-LOC
+سامان	I-LOC
+
+تغییرمسیر	O
+مؤسسه	B-ORG
+بتن	I-ORG
+آمریکا	I-ORG
+
+تغییرمسیر	O
+کمپانی	B-ORG
+هند	I-ORG
+شرقی	I-ORG
+بریتانیا	I-ORG
+
+فهرست	B-ORG
+شهرهای	I-ORG
+مراکش	I-ORG
+
+تغییرمسیر	O
+فرانسیس	B-PER
+(	I-PER
+پاپ	I-PER
+)	I-PER
+
+تغییرمسیر	O
+کردخیل	B-LOC
+(	I-LOC
+رامسر	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+ادوین	B-PER
+توماس	I-PER
+جینز	I-PER
+
+تغییرمسیر	O
+جرج	B-PER
+کریستف	I-PER
+لیختنبرگ	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+بلدرچین	B-LOC
+بوته‌ای	I-LOC
+سینه‌سیاه	I-LOC
+
+تغییرمسیر	O
+کنستانتین	B-PER
+سوم	I-PER
+اسکاتلند	I-PER

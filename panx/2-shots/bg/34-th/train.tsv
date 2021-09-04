@@ -1,0 +1,58 @@
+пренасочване	O
+Неокесария	B-LOC
+(	I-LOC
+дем	I-LOC
+Катерини	I-LOC
+)	I-LOC
+
+Има	O
+4	O
+мача	O
+с	O
+2	O
+гола	O
+за	O
+``	B-ORG
+А	I-ORG
+''	I-ORG
+националния	I-ORG
+отбор	I-ORG
+.	O
+
+Южночешки	B-LOC
+край	I-LOC
+(	O
+Jihočeský	O
+kraj	O
+)	O
+
+*World	O
+Tag	O
+Team	O
+Championship	O
+(	O
+1	O
+път	O
+)	O
+–	O
+с	O
+Букър	B-PER
+Ти	I-PER
+
+[[Паметник	O
+на	O
+Карл	B-PER
+Маркс	I-PER
+в	O
+един	O
+от	O
+дворовете	O
+.	O
+
++	O
+=	O
+Заедно	O
+с	O
+Партия	B-ORG
+Център	I-ORG
+.	O

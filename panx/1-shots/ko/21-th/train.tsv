@@ -1,0 +1,18 @@
+음와로	B-LOC
+주	I-LOC
+(	O
+Mwaro	O
+)	O
+
+현재	O
+총리는	O
+자민당의	B-ORG
+아베	B-PER
+신조이다	I-PER
+.	O
+
+넘겨주기	O
+길드홀	B-ORG
+음악	I-ORG
+연극	I-ORG
+학교	I-ORG

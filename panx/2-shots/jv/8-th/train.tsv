@@ -1,0 +1,47 @@
+Universitas	B-ORG
+Diponegoro	I-ORG
+(	O
+UNDIP	O
+)	O
+
+Turki	B-LOC
+(	O
+laladan	O
+Anatolia	B-LOC
+)	O
+
+'	O
+''	O
+Luís	B-PER
+Figo	I-PER
+''	O
+'	O
+
+Nia	B-PER
+Ramadhani	I-PER
+dadi	O
+Niken	O
+
+Powiat	B-LOC
+Gorlice	I-LOC
+,	O
+Gorlice	B-LOC
+
+'	O
+''	O
+Jayanagara	B-PER
+''	O
+'	O
+(	O
+1309-1328	O
+)	O
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC
+
+ALIH	O
+Dhéwan	B-ORG
+Kaamanan	I-ORG
+PBB	I-ORG

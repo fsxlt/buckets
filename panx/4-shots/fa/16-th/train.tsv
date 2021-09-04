@@ -1,0 +1,72 @@
+تغییرمسیر	O
+کمال‌آباد	B-LOC
+(	I-LOC
+سروستان	I-LOC
+)	I-LOC
+
+چادر	B-ORG
+فریم	I-ORG
+فلزی	I-ORG
+
+تغییرمسیر	O
+سهره	B-LOC
+جزیره	I-LOC
+بلبل	I-LOC
+
+**	O
+جیغ‌کش	B-LOC
+جزیره	I-LOC
+کویبا	I-LOC
+,	O
+''Alouatta	O
+coibensis	O
+''	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+رحیم	B-LOC
+حاتم	I-LOC
+دو	I-LOC
+
+تغییرمسیر	O
+کارلوس	B-PER
+آلبرتو	I-PER
+پریرا	I-PER
+
+تغییرمسیر	O
+میگل	B-PER
+د	I-PER
+سروانتس	I-PER
+
+'	O
+''	O
+مورگان	B-PER
+فریمن	I-PER
+''	O
+'	O
+
+تغییر_مسیر	O
+قرارگاه	B-ORG
+پدافند	I-ORG
+هوایی	I-ORG
+خاتم‌الانبیا	I-ORG
+
+تغییر_مسیر	O
+علی‌اکبر	B-PER
+آقایی	I-PER
+مغانجویی	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG

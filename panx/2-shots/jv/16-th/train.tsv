@@ -1,0 +1,41 @@
+'	O
+''	O
+Brasil	B-LOC
+''	O
+'	O
+
+Dhaptar	B-LOC
+Taman	I-LOC
+Nasional	I-LOC
+ing	I-LOC
+Indonésia	I-LOC
+
+'	O
+''	O
+Maria	B-PER
+Sharapova	I-PER
+[5]	O
+''	O
+'	O
+
+'	O
+''	O
+Luís	B-PER
+Figo	I-PER
+''	O
+'	O
+
+ALIH	O
+Garis	B-ORG
+Bar	I-ORG
+Lev	I-ORG
+
+ALIH	O
+Kebon	B-ORG
+Botani	I-ORG
+Kalmthout	I-ORG
+
+ALIH	O
+Vocan	B-LOC
+Santa	I-LOC
+Maria	I-LOC

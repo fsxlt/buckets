@@ -1,0 +1,18 @@
+הפניה	O
+שער	B-ORG
+הניצחון	I-ORG
+בפריז	I-ORG
+
+'	O
+''	O
+גלעד	B-PER
+בלום	I-PER
+''	O
+'	O
+
+סולה	B-LOC
+אדומת	I-LOC
+רגל	I-LOC
+''Sula	O
+sula	O
+''	O

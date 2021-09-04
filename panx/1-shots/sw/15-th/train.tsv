@@ -1,0 +1,23 @@
+Church	B-ORG
+Missionary	I-ORG
+Society	I-ORG
+(	I-ORG
+CMS	I-ORG
+)	I-ORG
+
+Alimfuata	O
+Papa	B-PER
+Leo	I-PER
+XI	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Gregori	I-PER
+XV	I-PER
+.	O
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+25206	O

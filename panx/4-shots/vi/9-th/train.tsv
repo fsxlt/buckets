@@ -1,0 +1,113 @@
+(	O
+13	O
+,	O
+Thành	B-LOC
+phố	I-LOC
+Hồ	I-LOC
+Chí	I-LOC
+Minh	I-LOC
+)	O
+
+Ông	O
+bắt	O
+đầu	O
+sự	O
+nghiệp	O
+với	O
+việc	O
+chơi	O
+guitar	O
+tự	O
+do	O
+tại	O
+một	O
+số	O
+địa	O
+điểm	O
+ở	O
+London	B-LOC
+,	O
+trước	O
+khi	O
+trở	O
+thành	O
+thành	O
+viên	O
+của	O
+The	B-ORG
+Yardbirds	I-ORG
+(	O
+1966-1968	O
+)	O
+.	O
+
+'	O
+''	O
+Tống	B-PER
+Cao	I-PER
+Tông	I-PER
+''	O
+'	O
+
+ĐỔI	O
+Giáo	B-PER
+hoàng	I-PER
+Giuliô	I-PER
+II	I-PER
+
+Xem	O
+ở	O
+Vũ	B-LOC
+khí	I-LOC
+hóa	I-LOC
+học	I-LOC
+
+Turkish	B-ORG
+Airlines	I-ORG
+(	O
+Istanbul-Atatürk	O
+)	O
+
+đổi	O
+Dòng	B-ORG
+Anh	I-ORG
+Em	I-ORG
+Giảng	I-ORG
+Thuyết	I-ORG
+
+đổi	O
+Triều	B-PER
+Tiên	I-PER
+Thái	I-PER
+Tổ	I-PER
+
+đổi	O
+Maximilian	B-PER
+II	I-PER
+của	I-PER
+đế	I-PER
+quốc	I-PER
+La	I-PER
+Mã	I-PER
+Thần	I-PER
+thánh	I-PER
+
+La	B-LOC
+Almunia	I-LOC
+de	I-LOC
+Doña	I-LOC
+Godina	I-LOC
+
+'	O
+''	O
+Album	O
+''	O
+'	O
+-	O
+Tạp	B-ORG
+chí	I-ORG
+Billboard	I-ORG
+(	O
+Bắc	B-LOC
+Mỹ	I-LOC
+)	O

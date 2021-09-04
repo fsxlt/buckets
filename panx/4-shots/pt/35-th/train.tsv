@@ -1,0 +1,104 @@
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+Chanute	B-LOC
+(	I-LOC
+Kansas	I-LOC
+)	I-LOC
+
+Começou	O
+a	O
+carreira	O
+no	O
+América	B-ORG
+de	I-ORG
+Cáli	I-ORG
+e	O
+jogou	O
+no	O
+Brasil	B-LOC
+pelo	O
+Internacional	B-ORG
+.	O
+
+Voivodia	B-LOC
+de	I-LOC
+Brześć	I-LOC
+Litewski	I-LOC
+
+''	O
+Stigmella	O
+centifoliella	O
+''	O
+-	O
+Global	B-ORG
+Biodiversity	I-ORG
+Information	I-ORG
+Facility	I-ORG
+
+``	O
+Smile	B-ORG
+''	O
+–	O
+Lily	B-PER
+Allen	I-PER
+(	O
+3:15	O
+)	O
+
+John	B-PER
+Lennon	I-PER
+(	O
+The	B-ORG
+Beatles	I-ORG
+,	O
+Plastic	B-ORG
+Ono	I-ORG
+Band	I-ORG
+,	O
+The	B-ORG
+Dirty	I-ORG
+Mac	I-ORG
+,	O
+solo	O
+)	O
+
+Governou	O
+o	O
+país	O
+até	O
+partir	O
+rumo	O
+a	O
+Lima	B-LOC
+.	O
+
+**	O
+``	O
+Love	B-ORG
+Profusion	I-ORG
+''	O
+
+E.	B-PER
+E.	B-PER
+Cummings	I-PER
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O
+
+'	O
+''	O
+Philipp	B-PER
+Kohlschreiber	I-PER
+''	O
+'	O

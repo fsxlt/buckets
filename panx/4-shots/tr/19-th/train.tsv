@@ -1,0 +1,109 @@
+Dosya	O
+:	O
+Ana	O
+Ana	B-PER
+Srebrnič	I-PER
+
+Bunlardan	O
+biri	O
+de	O
+kendi	O
+adının	O
+verildiği	O
+Alexandre	B-PER
+Dumas'dır	I-PER
+.	O
+
+Avusturya	B-ORG
+Futbol	I-ORG
+Federasyonu	I-ORG
+
+YÖNLENDİRME	O
+Akçakaya	B-LOC
+,	I-LOC
+Gölbaşı	I-LOC
+
+Şehristanın	O
+önemli	O
+şehirleri	O
+şunlardır	O
+:	O
+Masal	B-LOC
+ve	O
+Bazar	B-LOC
+Cuma	I-LOC
+.	O
+
+YÖNLENDİRME	O
+Los	B-LOC
+Glaciares	I-LOC
+Ulusal	I-LOC
+Parkı	I-LOC
+
+Vince	B-PER
+Carter	I-PER
+1,911,973	O
+oyla	O
+en	O
+çok	O
+oylanan	O
+oyuncu	O
+olmuştur	O
+.	O
+
+Mike	B-PER
+D'Antoni	I-PER
+(	O
+PG	O
+)	O
+
+Kız	B-ORG
+Kulesi	I-ORG
+En	O
+Önemli	O
+Yapılardan	O
+Biridir	O
+.	O
+
+Abdullah	B-LOC
+bin	I-LOC
+Abbas	I-LOC
+,	O
+bu	O
+dönem	O
+müfessirlerinin	O
+başında	O
+gelir	O
+.	O
+
+*240S	O
+:	O
+Uzun	O
+yıllar	O
+Massey	B-ORG
+Ferguson	I-ORG
+logosu	O
+altında	O
+üretilen	O
+klasik	O
+modeldir	O
+.	O
+
+Yavuz	B-ORG
+Sultan	I-ORG
+Selim	I-ORG
+Köprüsü	I-ORG
+-	O
+üçüncü	O
+köprü	O
+2013-2016	O
+arası	O
+tamamlanmıştır	O
+ve	O
+kıtaları	O
+birleştiren	O
+en	O
+uzun	O
+köprü	O
+konumundadır	O
+.	O

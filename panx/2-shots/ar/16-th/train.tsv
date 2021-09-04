@@ -1,0 +1,46 @@
+جاوس	B-ORG
+(	I-ORG
+وحدة	I-ORG
+)	I-ORG
+.	O
+
+تحويل	O
+أبو	B-PER
+بكر	I-PER
+الحصار	I-PER
+
+تحويل	O
+إرم	B-LOC
+ذات	I-LOC
+العماد	I-LOC
+
+أطول	O
+مدة	O
+لمنتخب	O
+حمل	O
+لقب	O
+بطل	O
+العالم،	O
+هو	O
+منتخب	B-ORG
+إيطاليا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+في	O
+الفترة	O
+ما	O
+بين	O
+1934-1950	O
+.	O
+
+تحويل	O
+بريتش	B-LOC
+ران	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+فرح	B-PER
+زينب	I-PER
+عبد	I-PER
+الله	I-PER

@@ -1,0 +1,47 @@
+Channel	B-ORG
+Orange	I-ORG
+''	O
+(	O
+as	O
+producer	O
+)	O
+
+''	O
+'	O
+''	O
+Oxycarpus	O
+''	O
+'	O
+''	O
+Lour	B-PER
+.	I-PER
+
+''	O
+Hannah	B-ORG
+Montana	I-ORG
+3	I-ORG
+''	O
+(	O
+2009	O
+)	O
+
+Sân	B-LOC
+vận	I-LOC
+động	I-LOC
+Gò	I-LOC
+Đậu	I-LOC
+
+Trường	B-PER
+Chinh	I-PER
+(	O
+1907–1988	O
+)	O
+
+đổi	O
+Xã	B-LOC
+Deerhead	I-LOC
+,	I-LOC
+Quận	I-LOC
+Barber	I-LOC
+,	I-LOC
+Kansas	I-LOC

@@ -1,0 +1,42 @@
+دبیر	O
+کل	O
+کنونی	O
+آن	O
+مصطفی	B-PER
+هجری	I-PER
+است	O
+.	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+خرم‌آباد	B-LOC
+(	I-LOC
+کردکوی	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+قطعنامه	B-ORG
+۱۰۹۹	I-ORG
+شورای	I-ORG
+امنیت	I-ORG
+
+ایران	B-LOC
+-	O
+روز	O
+بزرگداشت	O
+شیخ	B-PER
+مفید	I-PER
+.	O
+
+تغییر_مسیر	O
+واشینگتن	B-LOC
+کورت	I-LOC
+هاوس،	I-LOC
+اوهایو	I-LOC

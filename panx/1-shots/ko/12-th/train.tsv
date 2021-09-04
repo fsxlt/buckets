@@ -1,0 +1,26 @@
+외무대신	B-PER
+-	O
+나카야마	B-PER
+다로	I-PER
+
+'	O
+''	O
+코린토스	B-LOC
+''	O
+'	O
+
+이치카와	B-LOC
+시	I-LOC
+(	O
+)	O
+
+파블린은	O
+지난	O
+유로	B-ORG
+2000	I-ORG
+조별리그에서	O
+유고슬라비아를	B-ORG
+상대로	O
+득점을	O
+기록했었다	O
+.	O

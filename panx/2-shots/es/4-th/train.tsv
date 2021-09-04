@@ -1,0 +1,38 @@
+Dee	B-PER
+Bradley	I-PER
+Baker	I-PER
+como	O
+Diogee	O
+
+Lewisia	B-LOC
+cotyledon	I-LOC
+''	O
+(	O
+S.Watson	B-PER
+)	O
+B.L.Rob	B-PER
+.	I-PER
+
+REDIRECCIÓN	O
+Línea	B-ORG
+Serpujovsko-Timiriázevskaya	I-ORG
+(	I-ORG
+Metro	I-ORG
+de	I-ORG
+Moscú	I-ORG
+)	I-ORG
+
+Parque	B-LOC
+nacional	I-LOC
+natural	I-LOC
+de	I-LOC
+Los	I-LOC
+Katíos	I-LOC
+
+Comisión	B-ORG
+Nacional	I-ORG
+de	I-ORG
+Energía	I-ORG
+(	I-ORG
+España	I-ORG
+)	I-ORG

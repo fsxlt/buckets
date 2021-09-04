@@ -1,0 +1,37 @@
+It	O
+also	O
+borders	O
+the	O
+Czech	B-LOC
+Republic	I-LOC
+.	O
+
+'	O
+''	O
+Iván	B-PER
+Silva	I-PER
+''	O
+'	O
+
+Priscilla	B-PER
+Susan	I-PER
+Bury	I-PER
+
+Dębina	B-LOC
+,	I-LOC
+Prudnik	I-LOC
+County	I-LOC
+
+Ordinary	B-ORG
+language	I-ORG
+philosophy	I-ORG
+
+Baker	B-ORG
+Bowl	I-ORG
+–	O
+Philadelphia	B-LOC
+,	O
+Pennsylvania	B-LOC
+(	O
+1887–1938	O
+)	O

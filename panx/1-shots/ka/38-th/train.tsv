@@ -1,0 +1,16 @@
+შედის	O
+ედინეცის	B-LOC
+რაიონის	I-LOC
+შემადგენლობაში	O
+.	O
+
+პეტრე	B-PER
+ბაგრატიონი	I-PER
+(	I-PER
+მეცნიერი	I-PER
+)	I-PER
+
+A	B-ORG
+Question	I-ORG
+of	I-ORG
+Time	I-ORG

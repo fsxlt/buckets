@@ -1,0 +1,46 @@
+A	B-ORG
+Few	I-ORG
+Days	I-ORG
+with	I-ORG
+Me	I-ORG
+''	O
+
+**	O
+Duke	B-PER
+of	I-PER
+Loulé	I-PER
+(	O
+1869–1870	O
+)	O
+
+Netřebice	B-LOC
+(	I-LOC
+Český	I-LOC
+Krumlov	I-LOC
+District	I-LOC
+)	I-LOC
+
+Sunil	B-PER
+Dutt	I-PER
+,	O
+Rekha	B-PER
+,	O
+Ranjeet	B-PER
+,	O
+Rajendra	B-PER
+Nath	I-PER
+
+``	O
+Baby	B-ORG
+,	I-ORG
+I	I-ORG
+Love	I-ORG
+Your	I-ORG
+Way	I-ORG
+''	O
+
+Eastern	B-LOC
+Europe	I-LOC
+and	O
+Central	B-LOC
+Asia	I-LOC

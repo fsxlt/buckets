@@ -1,0 +1,48 @@
+Mettant	O
+en	O
+vedette	O
+Ben	B-PER
+Affleck	I-PER
+et	O
+Morgan	B-PER
+Freeman	I-PER
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+des	I-LOC
+Hautes-Alpes	I-LOC
+
+***	O
+Par	O
+arrangement	O
+avec	O
+Sony	B-ORG
+Music	I-ORG
+Entertainment	I-ORG
+
+Brigham	B-PER
+Young	I-PER
+a	O
+choisi	O
+le	O
+site	O
+le	O
+.	O
+
+'	O
+''	O
+Championnat	B-ORG
+du	I-ORG
+Maroc	I-ORG
+D2	I-ORG
+''	O
+'	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Nièvre	I-LOC

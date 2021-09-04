@@ -1,0 +1,30 @@
+**	O
+John	B-PER
+Mahoney	I-PER
+-	O
+Frasier	B-ORG
+''	O
+
+Milt	B-PER
+Schmidt	I-PER
+,	O
+Boston	B-ORG
+Bruins	I-ORG
+
+Redirecionamento	O
+Ratangarh	B-LOC
+(	I-LOC
+Neemuch	I-LOC
+)	I-LOC
+
+Região	B-ORG
+administrativa	I-ORG
+especial	I-ORG
+
+Está	O
+ameaçada	O
+por	O
+perda	B-LOC
+de	I-LOC
+habitat	I-LOC
+.	O

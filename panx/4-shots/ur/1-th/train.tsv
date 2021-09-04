@@ -1,0 +1,67 @@
+رجوع_مکرر	O
+دلائی	B-PER
+لاما	I-PER
+پنجم	I-PER
+
+رجوع_مکرر	O
+انسون	B-LOC
+کاؤنٹی،	I-LOC
+شمالی	I-LOC
+کیرولائنا	I-LOC
+
+ذوالفقار	B-PER
+علی	I-PER
+بھٹو	I-PER
+-سابق	O
+وزیر	B-ORG
+اعظم	I-ORG
+اور	O
+وزیر	B-PER
+خارجہ	I-PER
+پاکستان	I-PER
+
+رجوع_مکرر	O
+ابراہیم	B-PER
+بن	I-PER
+ولید	I-PER
+
+سلطنت	B-LOC
+سولو	I-LOC
+(	O
+1450–1936	O
+)	O
+
+رجوع_مکرر	O
+لپر	B-LOC
+علی	I-LOC
+بابا	I-LOC
+محمدی	I-LOC
+
+رجوع_مکرر	O
+ٹریگو	B-LOC
+کاؤنٹی،	I-LOC
+کنساس	I-LOC
+
+رجوع_مکرر	O
+کُل	B-ORG
+احتمال	I-ORG
+کا	I-ORG
+قانون	I-ORG
+
+**	O
+تسجیل	B-ORG
+و	I-ORG
+نو	I-ORG
+پیداوار	I-ORG
+صوت	I-ORG
+
+رجوع_مکرر	O
+ہاریہ	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+ولیم	B-PER
+چہارم،	I-PER
+مملکت	I-PER
+متحدہ	I-PER

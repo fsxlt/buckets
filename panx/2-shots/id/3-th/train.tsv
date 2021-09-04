@@ -1,0 +1,39 @@
+Leopoldo	B-PER
+Galtieri	I-PER
+(	O
+1926–2003	O
+)	O
+
+``	O
+Do	B-ORG
+n't	I-ORG
+Stand	I-ORG
+So	I-ORG
+Close	I-ORG
+to	I-ORG
+Me	I-ORG
+''	O
+
+ALIH	O
+Othniel	B-PER
+Charles	I-PER
+Marsh	I-PER
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Seine-Maritime	I-LOC
+
+ALIH	O
+Jalan	B-ORG
+Tol	I-ORG
+Prof.	I-ORG
+Dr.	I-ORG
+Sedyatmo	I-ORG
+
+ALIH	O
+Distrik	B-LOC
+Haeundae	I-LOC
+,	I-LOC
+Busan	I-LOC

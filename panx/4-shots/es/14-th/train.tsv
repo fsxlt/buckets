@@ -1,0 +1,77 @@
+The	B-ORG
+Sarah	I-ORG
+Jane	I-ORG
+Adventures	I-ORG
+''	O
+
+Kemper	B-LOC
+Arena	I-LOC
+,	O
+Kansas	B-LOC
+City	I-LOC
+(	I-LOC
+Misuri	I-LOC
+)	I-LOC
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+Copa	B-ORG
+Mundial	I-ORG
+de	I-ORG
+Fútbol	I-ORG
+de	I-ORG
+1950	I-ORG
+
+REDIRECCIÓN	O
+Selección	B-ORG
+de	I-ORG
+fútbol	I-ORG
+de	I-ORG
+Liberia	I-ORG
+
+Habita	O
+en	O
+Nueva	B-LOC
+Guinea	I-LOC
+(	O
+Indonesia	B-LOC
+)	O
+.	O
+
+Familia	B-PER
+de	I-PER
+protocolos	I-PER
+de	I-PER
+Internet	I-PER
+
+Tony	B-PER
+Parker	I-PER
+(	O
+San	B-ORG
+Antonio	I-ORG
+Spurs	I-ORG
+)	O
+
+Craig	B-PER
+T.	I-PER
+Nelson	I-PER
+
+Alessio	B-PER
+di	I-PER
+Mauro	I-PER
+Simone	B-PER
+Vagnozzi	I-PER
+
+'	O
+''	O
+Vilella	B-LOC
+Alta	I-LOC
+''	O
+'	O

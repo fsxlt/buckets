@@ -1,0 +1,68 @@
+Pusat	B-ORG
+Tenaga	I-ORG
+Rakyat	I-ORG
+
+Tentera	B-ORG
+Laut	I-ORG
+Diraja	I-ORG
+British	I-ORG
+
+LENCONG	O
+Jerlun	B-LOC
+,	I-LOC
+Perak	I-LOC
+
+''	O
+Sonic	B-ORG
+X	I-ORG
+''	O
+
+'	O
+''	O
+Mohd	B-PER
+Azlan	I-PER
+Iskandar	I-PER
+
+'	O
+''	O
+Michael	B-PER
+Owen	I-PER
+''	O
+'	O
+''	O
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+Astro	B-ORG
+TVIQ	I-ORG
+&	O
+Astro	B-ORG
+Maya	I-ORG
+HD	I-ORG
+
+'	O
+''	O
+Roger	B-PER
+Federer	I-PER
+[3]	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Calvados	I-LOC
+
+LENCONG	O
+Burung	B-LOC
+Takur	I-LOC
+Besar	I-LOC
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC

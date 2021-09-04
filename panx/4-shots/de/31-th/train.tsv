@@ -1,0 +1,128 @@
+als	O
+Teil	O
+der	O
+Savoyer	B-LOC
+Voralpen	I-LOC
+im	O
+Osten	O
+.	O
+
+2011	O
+auf	O
+der	O
+Konzert-DVD	O
+Live	B-ORG
+at	I-ORG
+the	I-ORG
+Paramount	I-ORG
+
+Veracruz	B-LOC
+(	I-LOC
+Bundesstaat	I-LOC
+)	I-LOC
+
+WEITERLEITUNG	O
+Geological	B-ORG
+Survey	I-ORG
+of	I-ORG
+Victoria	I-ORG
+
+Podgórki	B-LOC
+(	I-LOC
+Malechowo	I-LOC
+)	I-LOC
+
+Dabei	O
+ist	O
+die	O
+Differenz	O
+dieser	O
+beiden	O
+Temperaturen	O
+entscheidend	O
+für	O
+den	O
+Wirkungsgrad	B-ORG
+,	O
+der	O
+die	O
+Effizienz	O
+der	O
+Maschine	O
+beschreibt	O
+.	O
+
+Sie	O
+zeigt	O
+unter	O
+anderen	O
+Gemälde	O
+von	O
+Rembrandt	B-PER
+,	O
+Van	B-PER
+Dyck	I-PER
+,	O
+Rubens	B-PER
+und	O
+Vermeer	B-PER
+.	O
+
+Omi]]	O
+/	O
+'	O
+''	O
+Felix	B-ORG
+Jaehn	I-ORG
+''	O
+'	O
+
+Wan	B-LOC
+na	I-LOC
+,	O
+OT	O
+Westernwanna	O
+
+Ian	B-PER
+Carr	I-PER
+u.a	O
+.	O
+
+Freddy	B-PER
+Quinn	I-PER
+,	O
+Roberta	B-PER
+Peters	I-PER
+
+Während	O
+der	O
+Saison	B-ORG
+1980	I-ORG
+/	I-ORG
+81	I-ORG
+wurde	O
+er	O
+an	O
+die	O
+Québec	B-ORG
+Nordiques	I-ORG
+verkauft	O
+,	O
+für	O
+die	O
+er	O
+noch	O
+ein	O
+paar	O
+Spiele	O
+bestritt	O
+.	O
+
+Ein	O
+hl.	B-PER
+Andreas	I-PER
+entstand	O
+1480	O
+bis	O
+1490	O
+.	O

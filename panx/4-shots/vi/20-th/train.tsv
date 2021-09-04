@@ -1,0 +1,86 @@
+''	O
+Akodon	B-LOC
+mimus	I-LOC
+''	O
+
+Ngày	B-ORG
+Sinh	I-ORG
+viên	I-ORG
+Quốc	I-ORG
+tế	I-ORG
+
+Bắc	B-PER
+Chu	I-PER
+Tĩnh	I-PER
+Đế	I-PER
+
+Wat	B-ORG
+Chiang	I-ORG
+Man	I-ORG
+
+đổi	O
+Xã	B-LOC
+Des	I-LOC
+Moines	I-LOC
+,	I-LOC
+Quận	I-LOC
+Boone	I-LOC
+,	I-LOC
+Iowa	I-LOC
+
+Gilles	B-PER
+Simon	I-PER
+,	O
+''	O
+(	O
+Vòng	O
+3	O
+,	O
+thua	O
+Rafael	B-PER
+Nadal	I-PER
+)	O
+''	O
+
+'	O
+''	O
+Lâu	B-ORG
+đài	I-ORG
+Neuschwanstein	I-ORG
+''	O
+'	O
+
+đổi	O
+Thiên	B-PER
+hoàng	I-PER
+Suizei	I-PER
+
+Vụ	O
+Nga	B-LOC
+-	O
+Đông	B-LOC
+Âu	I-LOC
+-	O
+Trung	B-LOC
+Á	I-LOC
+
+Destiny	B-ORG
+'s	I-ORG
+Child	I-ORG
+-	O
+Survivor	B-ORG
+''	O
+
+đổi	O
+Ốc	B-LOC
+nón	I-LOC
+địa	I-LOC
+lý	I-LOC
+
+'	O
+''	O
+Trịnh	B-PER
+Du	I-PER
+Linh	I-PER
+''	O
+'	O

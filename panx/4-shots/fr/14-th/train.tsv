@@ -1,0 +1,77 @@
+Glee	B-ORG
+:	I-ORG
+The	I-ORG
+Music	I-ORG
+,	I-ORG
+Volume	I-ORG
+2	I-ORG
+''	O
+
+Parc	B-ORG
+national	I-ORG
+de	I-ORG
+Bandhavgarh	I-ORG
+
+Late	B-ORG
+Night	I-ORG
+with	I-ORG
+Conan	I-ORG
+O'Brien	I-ORG
+''	O
+
+Guido	B-PER
+Van	I-PER
+Calster	I-PER
+(	O
+BEL	B-LOC
+)	O
+
+REDIRECTION	O
+Fédération	B-LOC
+des	I-LOC
+îles	I-LOC
+Turques-et-Caïques	I-LOC
+de	I-LOC
+football	I-LOC
+
+Tina	B-PER
+Fey	I-PER
+et	O
+Jane	B-PER
+Krakowski	I-PER
+
+'	O
+''	O
+Jean-Marie	B-PER
+Le	I-PER
+Pen	I-PER
+''	O
+'	O
+
+Province	B-LOC
+de	I-LOC
+Salerne	I-LOC
+
+REDIRECTION	O
+Being	B-ORG
+Human	I-ORG
+:	I-ORG
+La	I-ORG
+Confrérie	I-ORG
+de	I-ORG
+l'étrange	I-ORG
+
+Parashorea	B-LOC
+malaanonan	I-LOC
+''	O
+,	O
+(	O
+Blanco	B-PER
+)	O
+Merr	B-PER
+.	I-PER
+
+Québec	B-LOC
+(	I-LOC
+ville	I-LOC
+)	I-LOC

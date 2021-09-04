@@ -1,0 +1,72 @@
+Antico	B-LOC
+cimitero	I-LOC
+degli	I-LOC
+Inglesi	I-LOC
+
+''	O
+Athenian	B-ORG
+League	I-ORG
+''	O
+'	O
+
+Yamagata	B-PER
+Aritomo	I-PER
+(	O
+1838–1922	O
+)	O
+.	O
+
+''	O
+Uma	B-ORG
+Thurman	I-ORG
+''	O
+,	O
+Fall	B-ORG
+Out	I-ORG
+Boy	I-ORG
+
+Danny	B-PER
+Ainge	I-PER
+,	O
+Boston	B-ORG
+Celtics	I-ORG
+
+Robby	B-PER
+Ginepri	I-PER
+''	O
+(	O
+terzo	O
+turno	O
+)	O
+
+''	O
+Anacamptis	B-LOC
+papilionacea	I-LOC
+''	O
+
+Unione	B-ORG
+Sindacale	I-ORG
+Italiana	I-ORG
+(	O
+USI	O
+)	O
+
+San	B-LOC
+Fruttuoso	I-LOC
+(	I-LOC
+quartiere	I-LOC
+di	I-LOC
+Monza	I-LOC
+)	I-LOC
+
+Football	B-LOC
+League	I-LOC
+Two	I-LOC
+2011-2012	I-LOC
+
+'	O
+''	O
+Alberto	B-PER
+Puig	I-PER
+''	O
+'	O

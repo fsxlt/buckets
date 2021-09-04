@@ -1,0 +1,13 @@
+José	B-PER
+Luiz	I-PER
+Ferreira	I-PER
+Rodrigues	I-PER
+
+St	B-ORG
+George	I-ORG
+Stadium	I-ORG
+
+''	O
+Bulbophyllum	B-LOC
+echinochilum	I-LOC
+''	O

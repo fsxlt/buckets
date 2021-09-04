@@ -1,0 +1,125 @@
+Натали	B-PER
+Грандин	I-PER
+/	O
+Владимира	B-PER
+Ухлиржова	I-PER
+''	O
+(	O
+осминафинал	O
+)	O
+
+Роман	B-PER
+Абрамович	I-PER
+(	O
+р	O
+.	O
+
+Видът	O
+е	O
+разпространен	O
+в	O
+Бурунди	B-LOC
+,	O
+Демократична	B-LOC
+република	I-LOC
+Конго	I-LOC
+,	O
+Замбия	B-LOC
+и	O
+Танзания	B-LOC
+.	O
+
+Разпространен	O
+е	O
+в	O
+Австралия	B-LOC
+(	O
+Западна	B-LOC
+Австралия	I-LOC
+,	O
+Куинсланд	B-LOC
+и	O
+Северна	B-LOC
+територия	I-LOC
+)	O
+.	O
+
+Крава	B-ORG
+и	I-ORG
+пиле	I-ORG
+''	O
+(	O
+TV-Y7	O
+)	O
+
+Хан	B-ORG
+(	I-ORG
+титла	I-ORG
+)	I-ORG
+—	O
+тюркско-монголска	O
+владетелска	O
+титла	O
+;	O
+
+'	O
+''	O
+Дъстин	B-PER
+Хофман	I-PER
+''	O
+'	O
+
+Туршос	B-LOC
+(	O
+''Torsås	O
+''	O
+)	O
+с	O
+население	O
+души	O
+;	O
+
+пренасочване	O
+Германска	B-LOC
+империя	I-LOC
+(	I-LOC
+1933	I-LOC
+–	I-LOC
+1945	I-LOC
+)	I-LOC
+
+Луцие	B-PER
+Храдецка	I-PER
+/	O
+Саня	B-PER
+Мирза	I-PER
+''	O
+(	O
+осминафинал	O
+)	O
+
+Ерцхерцогство	B-LOC
+Австрия	I-LOC
+(	O
+''Erzherzogtum	O
+Österreich	O
+''	O
+)	O
+
+виж	O
+Never	B-ORG
+Ever	I-ORG
+(	I-ORG
+Песен	I-ORG
+на	I-ORG
+All	I-ORG
+Saints	I-ORG
+)	I-ORG
+
+Унион	B-ORG
+Сан	I-ORG
+Фелипе	I-ORG
+(	O
+под	O
+наем	O
+)	O

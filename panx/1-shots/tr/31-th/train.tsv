@@ -1,0 +1,17 @@
+Hava	B-ORG
+yolu	I-ORG
+,	O
+taşımacılık	O
+yapan	O
+şirket	O
+
+Jan	B-PER
+Hooks	I-PER
+(	O
+1986–1991	O
+)	O
+
+YÖNLENDİRME	O
+Bolatlı	B-LOC
+,	I-LOC
+Gölpazarı	I-LOC

@@ -1,0 +1,68 @@
+'	O
+''	O
+পূর্ব	B-ORG
+মধ্য	I-ORG
+রেল	I-ORG
+''	O
+'	O
+
+বিমান	B-ORG
+বাংলাদেশ	I-ORG
+এয়ারলাইন্স	I-ORG
+
+আহমেদ	B-PER
+আকবর	I-PER
+সোবহান	I-PER
+
+ব্রাজিল	B-ORG
+জাতীয়	I-ORG
+ফুটবল	I-ORG
+দল	I-ORG
+
+ইউরোপীয়	B-ORG
+বিশ্ববিদ্যালয়	I-ORG
+এসোসিয়েশন	I-ORG
+
+পঞ্চম	B-PER
+চার্লস	I-PER
+,	I-PER
+পবিত্র	I-PER
+রোমান	I-PER
+সম্রাট	I-PER
+
+সিডনি	B-LOC
+ক্রিকেট	I-LOC
+গ্রাউন্ড	I-LOC
+,	O
+সিডনি	B-LOC
+
+ওসামা	B-PER
+বিন	I-PER
+লাদেন	I-PER
+
+'	O
+''	O
+ক্রিস্তিয়ানো	B-PER
+রোনালদো	I-PER
+''	O
+'	O
+
+শারজাহ]]	O
+,	O
+সংযুক্ত	B-LOC
+আরব	I-LOC
+আমিরাত	I-LOC
+
+কেশবপুর	B-LOC
+(	I-LOC
+পশ্চিম	I-LOC
+বঙ্গ	I-LOC
+)	I-LOC
+
+ভুবন	B-LOC
+চিল	I-LOC
+(	O
+''Milvus	O
+migrans	O
+''	O
+)	O

@@ -1,0 +1,15 @@
+Lambo	B-ORG
+la	I-ORG
+Aswan	I-ORG
+
+Arusha	B-LOC
+(	I-LOC
+mji	I-LOC
+)	I-LOC
+
+Bruce	B-PER
+Willis	I-PER
+kacheza	O
+kama	O
+Dk	O
+.	O

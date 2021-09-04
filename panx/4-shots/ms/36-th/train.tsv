@@ -1,0 +1,74 @@
+LENCONG	O
+Anjing	B-ORG
+gembala	I-ORG
+Pyrénées	I-ORG
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Vosges	I-LOC
+
+Running	B-ORG
+Man	I-ORG
+(	O
+episod	O
+75	O
+)	O
+(	O
+2012	O
+)	O
+
+LENCONG	O
+Lada	B-LOC
+,	I-LOC
+Daerah	I-LOC
+Prešov	I-LOC
+
+LENCONG	O
+Újezdec	B-LOC
+(	I-LOC
+Daerah	I-LOC
+Mělník	I-LOC
+)	I-LOC
+
+Frederik	B-PER
+Willem	I-PER
+de	I-PER
+Klerk	I-PER
+1989-1994	O
+
+Perlumbaan	O
+ini	O
+dimenangi	O
+oleh	O
+Lewis	B-PER
+Hamilton	I-PER
+.	O
+
+'	O
+''	O
+Nico	B-PER
+Hülkenberg	I-PER
+''	O
+'	O
+
+Dia	O
+kemudiannya	O
+menyertai	O
+Selangor	B-ORG
+FA	I-ORG
+.	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Côtes-d'Armor	I-LOC
+
+Hidayat	B-PER
+Nur	I-PER
+Wahid	I-PER
+,	O
+Mantan	O
+Ketua	O
+MPR	B-ORG
+RI	I-ORG

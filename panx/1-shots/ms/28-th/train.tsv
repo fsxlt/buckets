@@ -1,0 +1,14 @@
+Mines	B-ORG
+Resort	I-ORG
+City	I-ORG
+
+Dolfin	B-LOC
+Hidung	I-LOC
+Botol	I-LOC
+
+'	O
+''	O
+Kimi	B-PER
+Räikkönen	I-PER
+''	O
+'	O

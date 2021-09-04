@@ -1,0 +1,56 @@
+Jessie	B-PER
+J	I-PER
+,	O
+Ariana	B-PER
+Grande	I-PER
+,	O
+và	O
+Nicki	B-PER
+Minaj	I-PER
+
+``	O
+Did	B-ORG
+n't	I-ORG
+We	I-ORG
+Almost	I-ORG
+Have	I-ORG
+It	I-ORG
+All	I-ORG
+''	O
+
+đổi	O
+An	B-LOC
+Thạnh	I-LOC
+Trung	I-LOC
+
+``	O
+Dear	B-ORG
+Future	I-ORG
+Husband	I-ORG
+''	O
+
+''	O
+Pterophorus	B-LOC
+pentadactyla	I-LOC
+''	O
+
+Nông	B-PER
+Đức	I-PER
+Mạnh	I-PER
+(	O
+1940-	O
+)	O
+(	O
+đến	O
+6-2001	O
+)	O
+Nguyễn	B-PER
+Văn	I-PER
+An	I-PER
+(	O
+1937-	O
+)	O
+(	O
+từ	O
+6-2001	O
+)	O

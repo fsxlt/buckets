@@ -1,0 +1,86 @@
+Brandenburgo	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+``	O
+Love	B-ORG
+Gun	I-ORG
+''	O
+
+``	O
+Robin	B-ORG
+(	I-ORG
+The	I-ORG
+Hooded	I-ORG
+Man	I-ORG
+)	I-ORG
+''	O
+–	O
+2:48	O
+
+'	O
+''	O
+Paris	B-ORG
+Saint-Germain	I-ORG
+FC	I-ORG
+''	O
+'	O
+
+BIRZUZENDU	O
+Gartzea	B-PER
+I.a	I-PER
+Leongoa	I-PER
+
+La	B-LOC
+Vernarède	I-LOC
+(	O
+30345	O
+)	O
+
+'	O
+''	O
+Edvald	B-PER
+Boasson	I-PER
+Hagen	I-PER
+
+'	O
+''	O
+Roger	B-PER
+De	I-PER
+Vlaeminck	I-PER
+''	O
+'	O
+
+Casertako	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Campania	B-LOC
+eskualdean	O
+.	O
+
+Ain	B-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Falange	B-LOC
+(	I-LOC
+hezurra	I-LOC
+)	I-LOC
+
+Mayor	B-PER
+Oreja	I-PER
+,	I-PER
+Jaime	I-PER
+
+Atsuta	B-ORG
+santutegia	I-ORG
+(	I-ORG
+Nagoia	I-ORG
+)	I-ORG

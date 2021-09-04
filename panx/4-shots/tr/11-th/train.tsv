@@ -1,0 +1,121 @@
+**	O
+Kırmızı	B-LOC
+lori	I-LOC
+,	O
+''Eos	O
+bornea	O
+''	O
+
+Aynı	O
+araştırmaya	O
+göre	O
+,	O
+dinsel	O
+olarak	O
+bağımsızlar	O
+yalnızca	O
+iki	O
+Avrupa	B-LOC
+ülkesinde	O
+popülasyonun	O
+çoğunluğuna	O
+erişmektedir	O
+:	O
+Çek	B-LOC
+Cumhuriyeti	I-LOC
+(	O
+%	O
+75	O
+)	O
+ve	O
+Estonya	B-LOC
+(	O
+%	O
+60	O
+)	O
+.	O
+
+*1840	O
+:	O
+Justus	B-PER
+von	I-PER
+Liebig	I-PER
+(	O
+1803–1873	O
+)	O
+
+YÖNLENDİRME	O
+Beşiktaş	B-ORG
+(	I-ORG
+tekerlekli	I-ORG
+sandalye	I-ORG
+basketbol	I-ORG
+takımı	I-ORG
+)	I-ORG
+
+'	O
+''	O
+Kadıköy	B-LOC
+''	O
+'	O
+:	O
+(	B-ORG
+İDO	I-ORG
+)	I-ORG
+
+(	O
+Κρήτη	O
+)	O
+Girit	B-LOC
+
+Oyuncular	O
+:	O
+Jack	B-PER
+Nicholson	I-PER
+ve	O
+Jessica	B-PER
+Lange	I-PER
+.	O
+
+'	O
+''	O
+Nürabad	B-ORG
+İlçesi	I-ORG
+''	O
+'	O
+
+Nelly	B-PER
+Furtado'nun	I-PER
+Mi	B-ORG
+Plan	I-ORG
+''	O
+ve	O
+The	B-ORG
+Spirit	I-ORG
+Indestructible	I-ORG
+''	O
+albümlerinde	O
+görev	O
+aldı	O
+.	O
+
+YÖNLENDİRME	O
+Tahiti	B-LOC
+Futbol	I-LOC
+Federasyonu	I-LOC
+
+:	O
+:	O
+(	O
+Güney	B-LOC
+İskoçya	I-LOC
+)	O
+
+Hoca	B-PER
+Tahsin	I-PER
+Efendi	I-PER
+kurumun	O
+ilk	O
+müdürü	O
+oldu	O
+.	O

@@ -1,0 +1,17 @@
+تغییرمسیر	O
+ژان	B-PER
+دو	I-PER
+لا	I-PER
+فونتن	I-PER
+
+تغییر_مسیر	O
+قاضی	B-LOC
+عثمان	I-LOC
+پاشا	I-LOC
+
+تغییرمسیر	O
+مرکز	B-ORG
+اینترنت	I-ORG
+و	I-ORG
+جامعه	I-ORG
+برکمن	I-ORG

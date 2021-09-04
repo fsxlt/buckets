@@ -1,0 +1,55 @@
+הפניה	O
+Reclaim	B-ORG
+the	I-ORG
+Streets	I-ORG
+
+הפניה	O
+ג'ורג	B-PER
+'	I-PER
+שולץ	I-PER
+
+הפניה	O
+אמי	B-ORG
+-	I-ORG
+הילדה	I-ORG
+עם	I-ORG
+הילקוט	I-ORG
+הכחול	I-ORG
+
+בשל	O
+פשטותו	O
+זכה	O
+המאכל	O
+להצלחה	O
+רבה	O
+והפך	O
+למאכל	O
+פופולרי	O
+גם	O
+ארצות	B-LOC
+הברית	I-LOC
+צרפת	B-LOC
+.	O
+
+ג'יי	B-PER
+שון	I-PER
+בשיתוף	O
+עם	O
+ליל	B-PER
+ויין	I-PER
+
+*1938	O
+-	O
+'	O
+''	O
+סידני	B-LOC
+''	O
+'	O
+,	O
+ניו	B-LOC
+סאות	I-LOC
+'	I-LOC
+ויילס	I-LOC
+,	O
+אוסטרליה	B-LOC
+.	O

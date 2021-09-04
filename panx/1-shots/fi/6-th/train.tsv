@@ -1,0 +1,28 @@
+Veiksel-jääkausi	B-ORG
+päättyi	O
+Suomessa	B-LOC
+ja	O
+Baltian	B-LOC
+jääjärvi	I-LOC
+syntyi	O
+.	O
+
+Kilpailun	O
+voitti	O
+Alberto	B-PER
+Ascari	I-PER
+,	O
+jolle	O
+voitto	O
+oli	O
+toinen	O
+perättäinen	O
+.	O
+
+OHJAUS	O
+Yleisurheilu	B-ORG
+kesäolympialaisissa	I-ORG
+2008	I-ORG
+–	I-ORG
+miesten	I-ORG
+kiekonheitto	I-ORG

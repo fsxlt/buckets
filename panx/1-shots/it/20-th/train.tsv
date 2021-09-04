@@ -1,0 +1,37 @@
+Houghton	B-LOC
+-	O
+borgata	O
+East	B-LOC
+Riding	I-LOC
+of	I-LOC
+Yorkshire	I-LOC
+
+''Roller	O
+''	O
+(	O
+April	B-ORG
+Wine	I-ORG
+)	O
+-	O
+Treble	B-ORG
+Charger	I-ORG
+-	O
+3:07	O
+
+Riuscì	O
+ad	O
+accedere	O
+alla	O
+finale	O
+con	O
+il	O
+secondo	O
+tempo	O
+complessivo	O
+,	O
+dietro	O
+solo	O
+all'olandese	O
+Femke	B-PER
+Heemskerk	I-PER
+.	O

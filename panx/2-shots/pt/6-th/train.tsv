@@ -1,0 +1,40 @@
+São	B-LOC
+José	I-LOC
+dos	I-LOC
+Campos	I-LOC
+,	O
+São	B-LOC
+Paulo	I-LOC
+
+``	O
+Smile	B-ORG
+''	O
+–	O
+Lily	B-PER
+Allen	I-PER
+(	O
+3:15	O
+)	O
+
+35º	O
+-	O
+Caxias	B-LOC
+do	I-LOC
+Sul	I-LOC
+
+REDIRECIONAMENTO	O
+Gerdau	B-ORG
+Sociedade	I-ORG
+Anônima	I-ORG
+
+New	B-ORG
+Jack	I-ORG
+City	I-ORG
+Part	I-ORG
+2	I-ORG
+
+Lev	B-PER
+Landau	I-PER
+e	O
+Vitaly	B-PER
+Ginzburg	I-PER

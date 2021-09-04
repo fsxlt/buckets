@@ -1,0 +1,127 @@
+Eyton	B-LOC
+on	I-LOC
+Severn	I-LOC
+
+Embassy	B-ORG
+of	I-ORG
+Tanzania	I-ORG
+,	I-ORG
+Beijing	I-ORG
+
+Of	O
+those	O
+aged	O
+16–74	O
+,	O
+30.2	O
+%	O
+had	O
+no	O
+academic	B-ORG
+qualifications	I-ORG
+.	O
+
+Paoay	B-LOC
+Lake	I-LOC
+National	I-LOC
+Park	I-LOC
+-	O
+Ilocos	B-LOC
+Norte	I-LOC
+
+Tor	B-PER
+Henning	I-PER
+Hamre	I-PER
+(	O
+39	O
+)	O
+
+The	O
+exhibition	O
+included	O
+work	O
+by	O
+David	B-PER
+Hare	I-PER
+,	O
+Arshile	B-PER
+Gorky	I-PER
+,	O
+Roberto	B-PER
+Matta	I-PER
+and	O
+Isamu	B-PER
+Noguchi	I-PER
+.	O
+
+Antiochia	B-LOC
+in	I-LOC
+Sittacene	I-LOC
+–	O
+Antiochus	B-PER
+I	I-PER
+Soter	I-PER
+
+Shandong	B-ORG
+University	I-ORG
+of	I-ORG
+Finance	I-ORG
+and	I-ORG
+Economics	I-ORG
+
+He	O
+died	O
+aged	O
+95	O
+in	O
+Beijing	B-LOC
+,	O
+following	O
+an	O
+illness	O
+.	O
+
+He	O
+was	O
+promoted	O
+to	O
+his	O
+final	O
+rank	O
+of	O
+Air	B-ORG
+Vice-Marshal	I-ORG
+on	O
+4	O
+January	O
+2005	O
+.	O
+
+Michael	B-PER
+Doleac	I-PER
+–	O
+1999	O
+
+Kilmuir	B-LOC
+,	I-LOC
+Easter	I-LOC
+Ross	I-LOC
+
+Kosuge	O
+was	O
+born	O
+in	O
+Tokyo	B-LOC
+,	O
+Japan	B-LOC
+in	O
+1983	O
+.	O
+
+/	O
+255	O
+or	O
+256	O
+Samarra	B-LOC
+,	O
+Iraq	B-LOC

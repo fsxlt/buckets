@@ -1,0 +1,89 @@
+Lamb	B-LOC
+'s	I-LOC
+Conduit	I-LOC
+Field	I-LOC
+
+They	O
+arrived	O
+on	O
+May	O
+22	O
+,	O
+1870	O
+,	O
+and	O
+along	O
+with	O
+Henry	B-ORG
+Howell	I-ORG
+helped	O
+settle	O
+Fish	B-LOC
+Haven	I-LOC
+,	I-LOC
+Idaho	I-LOC
+,	O
+where	O
+he	O
+later	O
+served	O
+as	O
+Bishop	B-ORG
+.	O
+
+Bismarck	B-ORG
+Civic	I-ORG
+Center	I-ORG
+,	O
+Bismarck	B-LOC
+,	I-LOC
+North	I-LOC
+Dakota	I-LOC
+
+Steven	B-PER
+van	I-PER
+Herwijck	I-PER
+
+Communes	B-LOC
+of	I-LOC
+the	I-LOC
+Eure	I-LOC
+department	I-LOC
+
+Sharaud	B-PER
+Curry	I-PER
+(	O
+3.5	O
+)	O
+
+Amit	B-PER
+Kumar	I-PER
+,	O
+Kavita	B-PER
+Krishnamurthy	I-PER
+
+Lesley-Anne	B-PER
+Down	I-PER
+-	O
+Georgina	B-ORG
+Worsley	I-ORG
+
+'	O
+''	O
+Flow	O
+''	O
+'	O
+(	O
+Ft.	O
+Plan	B-ORG
+B	I-ORG
+)	O
+(	O
+2008	O
+)	O
+
+Universidad	B-ORG
+del	I-ORG
+Norte	I-ORG
+,	I-ORG
+Colombia	I-ORG

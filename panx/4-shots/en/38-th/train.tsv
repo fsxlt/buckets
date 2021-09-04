@@ -1,0 +1,95 @@
+Formerly	O
+Mangotsfield	B-LOC
+Urban	I-LOC
+District	I-LOC
+
+:	O
+in	O
+Lake	B-LOC
+Benton	I-LOC
+.	O
+
+Rajiv	B-PER
+Joseph	I-PER
+,	O
+playwright	O
+
+*The	O
+Rawadid	B-ORG
+(	O
+955–1221	O
+)	O
+ruled	O
+Azerbaijan	B-LOC
+.	O
+
+'	O
+''	O
+Joe	B-PER
+Gander	I-PER
+''	O
+'	O
+
+La	B-LOC
+Paz	I-LOC
+Centro	I-LOC
+
+Gaston	B-PER
+Eyskens	I-PER
+(	O
+1905–1988	O
+)	O
+
+Roger	B-PER
+Nash	I-PER
+Baldwin	I-PER
+–	O
+Founder	O
+,	O
+American	B-ORG
+Civil	I-ORG
+Liberties	I-ORG
+Union	I-ORG
+
+In	O
+July	O
+several	O
+demonstrators	O
+were	O
+killed	O
+by	O
+troops	O
+in	O
+San	B-LOC
+Pedro	I-LOC
+Sula	I-LOC
+.	O
+
+Henderson	B-ORG
+Police	I-ORG
+Department	I-ORG
+in	O
+Henderson	B-LOC
+
+By	O
+age	O
+16	O
+he	O
+was	O
+playing	O
+with	O
+the	O
+Milwaukee	B-ORG
+Symphony	I-ORG
+Orchestra	I-ORG
+and	O
+the	O
+Chicago	B-ORG
+Symphony	I-ORG
+Orchestra	I-ORG
+.	O
+
+Success	B-ORG
+Academy	I-ORG
+Charter	I-ORG
+Schools	I-ORG

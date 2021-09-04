@@ -1,0 +1,54 @@
+''	O
+Snowblind	O
+''	O
+otettu	O
+Live	B-ORG
+at	I-ORG
+Last	I-ORG
+''	O
+-albumilta	O
+
+Agnaattis-kognaattista	O
+välimuotoa	O
+käytettiin	O
+kruununperimysjärjestyksenä	O
+muun	O
+muassa	O
+Itävallan	B-LOC
+ja	O
+Venäjän	B-LOC
+keisarikunnissa	I-LOC
+.	O
+
+OHJAUS	O
+Puškinskije	B-LOC
+Goryn	I-LOC
+piiri	I-LOC
+
+Salvatore	B-PER
+``	I-PER
+Toto	I-PER
+''	I-PER
+Cutugno	I-PER
+,	O
+suom	O
+.	O
+
+Dallas	B-ORG
+Mavericks	I-ORG
+erotti	O
+päävalmentajansa	O
+Avery	B-PER
+Johnsonin	I-PER
+joukkueen	O
+hävittyä	O
+pudotuspeleissä	O
+ensimmäisellä	O
+kierroksella	O
+.	O
+
+Osavaltion	O
+pääkaupunki	O
+on	O
+Potsdam	B-LOC
+.	O

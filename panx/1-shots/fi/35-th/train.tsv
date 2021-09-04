@@ -1,0 +1,36 @@
+Yhteensä	O
+Elustondo	O
+pelasi	O
+kaudella	B-LOC
+2014–2015	I-LOC
+neljä	O
+sarjaottelua	O
+ja	O
+teki	O
+yhden	O
+maalin	O
+.	O
+
+Virolaisivat	O
+hävisivät	O
+heidän	O
+ainoan	O
+ottelunsa	O
+Yhdysvaltoja	B-ORG
+vastaan	O
+1–0	O
+.	O
+
+–	O
+Emeli	B-PER
+Sandé	I-PER
+''	O
+'	O
+
+Lontoon	B-ORG
+olympialaisissa	I-ORG
+2012	I-ORG
+hän	O
+sijoittui	O
+viidenneksi	O
+.	O

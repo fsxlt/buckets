@@ -1,0 +1,117 @@
+넘겨주기	O
+파트마	B-PER
+알리예	I-PER
+토푸즈	I-PER
+
+KAT-TUN	B-ORG
+멤버	O
+중에서는	O
+유일하게	O
+아카니시	B-PER
+진	I-PER
+하고는	O
+친한	O
+멤버	O
+이다	O
+.	O
+
+넘겨주기	O
+도쿄	B-ORG
+지하철	I-ORG
+후쿠토신	I-ORG
+선	I-ORG
+
+오다테	B-ORG
+역	I-ORG
+방면으로	O
+향하는	O
+열차나	O
+,	O
+전용	O
+화물	O
+열차의	O
+발착은	O
+없다	O
+.	O
+
+넘겨주기	O
+인구	B-LOC
+조사	I-LOC
+지정	I-LOC
+구역	I-LOC
+
+애들레이드	B-LOC
+(	O
+사우스오스트레일리아	B-LOC
+주	I-LOC
+)	O
+
+해리	B-PER
+S.	I-PER
+트루먼	I-PER
+대통령은	O
+그의	O
+권력이	O
+강화되는	O
+것을	O
+견제하게	O
+되었다	O
+.	O
+
+애틀랜타	B-LOC
+시	I-LOC
+동북쪽의	O
+넓은	O
+녹지대인	O
+드루이드힐스에	O
+위치하고	O
+있으며	O
+캠퍼스	O
+면적은	O
+2.6㎢이다	O
+.	O
+
+*독일의	O
+헬골란트	B-LOC
+섬	I-LOC
+(	O
+Helgoland	O
+)	O
+
+넘겨주기	O
+국제	B-ORG
+봅슬레이	I-ORG
+스켈레톤	I-ORG
+연맹	I-ORG
+
+평택터미널]]	O
+,	O
+평택역	B-ORG
+,	O
+통복시장	O
+,	O
+세교동	O
+,	O
+방축리	O
+,	O
+고덕면사무소	O
+
+트랜스	B-ORG
+유럽	I-ORG
+익스프레스	I-ORG
+(	O
+Trans	O
+Europ	O
+Express	O
+)	O
+
+같은	O
+해에	O
+드러머	O
+빌	B-PER
+베리가	I-PER
+탈퇴하면서	O
+이들은	O
+3인조가	O
+되었다	O
+.	O

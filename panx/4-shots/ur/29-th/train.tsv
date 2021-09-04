@@ -1,0 +1,67 @@
+رجوع_مکرر	O
+برہ	B-PER
+بنت	I-PER
+عبد	I-PER
+العزی	I-PER
+
+رجوع_مکرر	O
+تحریک	B-ORG
+اسلامی	I-ORG
+طالبان	I-ORG
+
+رجوع_مکرر	O
+ڈیکاٹور	B-LOC
+کاؤنٹی،	I-LOC
+آئیووا	I-LOC
+
+کار	B-ORG
+کی	I-ORG
+بیٹری	I-ORG
+
+رجوع_مکرر	O
+مون	B-PER
+مون	B-PER
+سین	I-PER
+
+رجوع_مکرر	O
+شارلے	B-LOC
+ووئی،	I-LOC
+مشی	I-LOC
+گن	I-LOC
+
+رجوع_مکرر	O
+سلیمان	B-PER
+ابن	I-PER
+احمد	I-PER
+ابن	I-PER
+الطبرانی	I-PER
+
+ہابیل	B-PER
+و	I-PER
+قابیل	I-PER
+
+دھاؤنکل	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+(	O
+DUX	O
+)	O
+
+رجوع_مکرر	O
+یلقز	B-LOC
+اغاج،	I-LOC
+مغربی	I-LOC
+آذربائجان	I-LOC
+
+رجوع_مکرر	O
+وین	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+فائیٹ	I-LOC
+کاؤنٹی،	I-LOC
+اوہائیو	I-LOC
+
+رجوع_مکرر	O
+متحدہ	B-ORG
+قومی	I-ORG
+موومنٹ	I-ORG

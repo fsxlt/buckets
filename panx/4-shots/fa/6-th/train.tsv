@@ -1,0 +1,73 @@
+تغییرمسیر	O
+عشق‌آباد	B-LOC
+(	I-LOC
+اردکان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+بخش	B-LOC
+مرکزی	I-LOC
+شهرستان	I-LOC
+بندرعباس	I-LOC
+
+تغییرمسیر	O
+نظریه	B-LOC
+ارزش	I-LOC
+کار	I-LOC
+
+تغییرمسیر	O
+نیروگاه	B-ORG
+هسته‌ای	I-ORG
+دارلینگتون	I-ORG
+
+تغییرمسیر	O
+جسیکا	B-PER
+پارکر	I-PER
+کندی	I-PER
+
+تغییرمسیر	O
+فینال	B-ORG
+جام	I-ORG
+باشگاه‌های	I-ORG
+اروپا	I-ORG
+۱۹۹۰	I-ORG
+
+دهستان	B-LOC
+شریف‌آباد	I-LOC
+(	I-LOC
+رفسنجان	I-LOC
+)	I-LOC
+در	O
+شهرستان	B-LOC
+رفسنجان	I-LOC
+
+تغییرمسیر	O
+پیر	B-PER
+آندره	I-PER
+لاتریه	I-PER
+
+تغییر_مسیر	O
+انتخابات	B-ORG
+مجلس	I-ORG
+سوریه	I-ORG
+(	I-ORG
+۲۰۱۲	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+کارل	B-PER
+فریدریش	I-PER
+گاوس	I-PER
+
+تغییرمسیر	O
+کیم	B-PER
+گرانت	I-PER
+(	I-PER
+تنیس‌باز	I-PER
+)	I-PER
+
+تغییر_مسیر	O
+جام	B-ORG
+باشگاه‌های	I-ORG
+اروپا	I-ORG
+۵۷–۱۹۵۶	I-ORG

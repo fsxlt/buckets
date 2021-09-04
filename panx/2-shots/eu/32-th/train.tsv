@@ -1,0 +1,36 @@
+Administratiboki	O
+Sakhalingo	B-LOC
+oblastak	I-LOC
+kontrolatzen	O
+du	O
+.	O
+
+2008ko	B-ORG
+Sichuango	I-ORG
+lurrikararen	I-ORG
+ondorioz	O
+itxi	O
+egin	O
+behar	O
+izan	O
+zuten	O
+.	O
+
+Pirinio	B-LOC
+Atlantikoak	I-LOC
+departamenduko	I-LOC
+udalerrien	I-LOC
+zerrenda	I-LOC
+
+Imanol	B-PER
+Agirretxe	I-PER
+-	O
+Real	B-ORG
+Sociedad	I-ORG
+
+'	O
+''	O
+Delio	B-PER
+Rodríguez	I-PER
+''	O
+'	O

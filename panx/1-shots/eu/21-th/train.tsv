@@ -1,0 +1,18 @@
+Morrissey	B-PER
+(	O
+The	B-ORG
+Smiths	I-ORG
+)	O
+
+La	B-LOC
+Chapelle-Thouarault	I-LOC
+(	O
+CAR	O
+)	O
+
+'	O
+''	O
+Igor	B-PER
+Astarloa	I-PER
+''	O
+'	O

@@ -1,0 +1,31 @@
+স্যান	B-LOC
+হোসে	I-LOC
+,	I-LOC
+কোস্টা	I-LOC
+রিকা	I-LOC
+
+জন	B-PER
+লুইস	I-PER
+হল	I-PER
+
+পেরিতো	B-LOC
+মোরেনো	I-LOC
+হিমবাহ	I-LOC
+
+২৭।	O
+অধ্যাপক	O
+উমাশঙ্কর	B-PER
+যোশী	I-PER
+(	O
+১৯১১-১৯৮৮	O
+)	O
+
+মেলবোর্ন	B-ORG
+ক্রিকেট	I-ORG
+গ্রাউন্ড	I-ORG
+,	O
+মেলবোর্ন	B-LOC
+
+২০০৬	B-ORG
+ফিফা	I-ORG
+বিশ্বকাপ	I-ORG

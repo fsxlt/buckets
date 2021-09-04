@@ -1,0 +1,80 @@
+Jelena	B-PER
+Jankovic	I-PER
+''	O
+(	O
+Bán	O
+kết	O
+)	O
+
+Tối	B-ORG
+cao	I-ORG
+Pháp	I-ORG
+viện	I-ORG
+Hoa	I-ORG
+Kỳ	I-ORG
+
+đổi	O
+Sơn	B-LOC
+ca	I-LOC
+cánh	I-LOC
+đỏ	I-LOC
+
+đổi	O
+Chim	B-LOC
+xanh	I-LOC
+Nam	I-LOC
+Bộ	I-LOC
+
+'	O
+''	O
+Quách	B-PER
+Thái	I-PER
+Khiết	I-PER
+''	O
+'	O
+
+đổi	O
+Viện	B-ORG
+Hàn	I-ORG
+lâm	I-ORG
+Khoa	I-ORG
+học	I-ORG
+Brasil	I-ORG
+
+Gia	B-LOC
+Hưng	I-LOC
+(	O
+嘉兴	O
+)	O
+
+Quỹ	B-ORG
+Nhi	I-ORG
+đồng	I-ORG
+Liên	I-ORG
+Hiệp	I-ORG
+Quốc	I-ORG
+
+Vườn	B-ORG
+quốc	I-ORG
+gia	I-ORG
+Quebrada	I-ORG
+del	I-ORG
+Condorito	I-ORG
+
+Tiêu	B-PER
+Chiêu	I-PER
+Văn	I-PER
+(	O
+蕭昭文	O
+)	O
+
+Thiên	B-PER
+hoàng	I-PER
+Minh	I-PER
+Trị	I-PER
+
+Địa	B-LOC
+lý	I-LOC
+Tây	I-LOC
+Ban	I-LOC
+Nha	I-LOC

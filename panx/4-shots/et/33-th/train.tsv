@@ -1,0 +1,85 @@
+Ego”	B-ORG
+(	O
+Remix	O
+)	O
+feat	O
+.	O
+
+**	O
+'	O
+''	O
+8	O
+''	O
+'	O
+Rubens	B-PER
+Barrichello	I-PER
+,	O
+Brasiilia	B-LOC
+
+Ameerika	B-ORG
+Ühendriikide	I-ORG
+Sisejulgeolekuministeerium	I-ORG
+
+*1936–1944	O
+–	O
+Hugo	B-ORG
+Treffneri	I-ORG
+Gümnaasium	I-ORG
+
+Trinidadi	B-ORG
+ja	I-ORG
+Tobago	I-ORG
+presidendiks	O
+valiti	O
+Anthony	B-PER
+Carmona	I-PER
+.	O
+
+Julia	B-PER
+Beljajeva	I-PER
+,	O
+vehkleja	O
+
+Osa	O
+neist	O
+lammutati	O
+,	O
+ülejäänud	O
+paigutati	O
+Jordani	B-LOC
+jõe	I-LOC
+kaldale	O
+statsionaarseteks	O
+tulepunktideks	O
+.	O
+
+Asub	O
+Musta	B-LOC
+mere	I-LOC
+ääres	O
+.	O
+
+suuna	O
+Albert	B-PER
+(	I-PER
+Riia	I-PER
+piiskop	I-PER
+)	I-PER
+
+aastal	O
+Osmanite	B-LOC
+riigi	I-LOC
+vastasel	O
+sõjaretkel	O
+.	O
+
+suuna	O
+Eesti	B-ORG
+Energia	I-ORG
+Kaevandused	I-ORG
+
+Lyoni	B-LOC
+maakond	I-LOC
+(	O
+läänes	O
+)	O

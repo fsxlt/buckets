@@ -1,0 +1,91 @@
+Alimfuata	O
+Papa	B-PER
+Benedikto	I-PER
+V	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Yohane	I-PER
+XIII	I-PER
+.	O
+
+Zama	B-ORG
+za	I-ORG
+Mwangaza	I-ORG
+
+''	O
+Ulaya	B-LOC
+''	O
+'	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Katiola	I-ORG
+
+Washington	B-LOC
+,	I-LOC
+D.C	I-LOC
+.	I-LOC
+
+Wilaya	B-ORG
+ya	I-ORG
+Yamoussoukro	I-ORG
+
+Brazzaville	B-LOC
+-	O
+''Maya-Maya	O
+Airport	O
+''	O
+
+30px]]	O
+Jamhuri	B-LOC
+ya	I-LOC
+Kidemokrasia	I-LOC
+ya	I-LOC
+Kongo	I-LOC
+
+Eneo	O
+lake	O
+ni	O
+103	O
+km²	B-ORG
+.	O
+
+2004	O
+David	B-PER
+Gross	I-PER
+,	O
+David	B-PER
+Politzer	I-PER
+na	O
+Frank	B-PER
+Wilczek	I-PER
+
+Yonkers	B-LOC
+,	I-LOC
+New	I-LOC
+York	I-LOC
+
+Hospitali	B-ORG
+ya	I-ORG
+Mafunzo	I-ORG
+na	I-ORG
+Marejereo	I-ORG
+ya	I-ORG
+Moi	I-ORG
+
+Bernard	B-PER
+Kamilius	I-PER
+Membe	I-PER
+
+Elizabeth	B-PER
+I	I-PER
+wa	I-PER
+Uingereza	I-PER
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+53805	O
+.	O

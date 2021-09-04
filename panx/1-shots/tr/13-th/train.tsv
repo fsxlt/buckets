@@ -1,0 +1,34 @@
+Harvey	B-PER
+Milk	I-PER
+bu	O
+yasa	O
+teklifine	O
+karşı	O
+yapılan	O
+çekişmelerde	O
+çok	O
+etkili	O
+idi	O
+ve	O
+Ronald	B-PER
+Reagan'ın	I-PER
+inisiyatife	O
+karşı	O
+olması	O
+inisiyatifin	O
+mağlup	O
+edilmesine	O
+yardım	O
+etti	O
+.	O
+
+Rocko	B-ORG
+'s	I-ORG
+Modern	I-ORG
+Life	I-ORG
+
+YÖNLENDİRME	O
+Ahaya	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC

@@ -1,0 +1,130 @@
+보로네시	B-LOC
+강이	I-LOC
+12km지점에서	O
+흐르고	O
+,	O
+보로네시	B-LOC
+주의	I-LOC
+중심지이다	O
+.	O
+
+데이비	B-PER
+존스	I-PER
+(	I-PER
+음악가	I-PER
+)	I-PER
+
+그	O
+후	O
+5개월	O
+만에	O
+퇴원하여	O
+휴식을	O
+취한	O
+뒤	O
+정규	O
+Do	B-ORG
+n't	I-ORG
+Don》을	I-ORG
+통하여	O
+활동을	O
+재개했다	O
+.	O
+
+노모	B-PER
+히데오	I-PER
+(	O
+로스앤젤레스	B-ORG
+다저스	I-ORG
+)	O
+
+루멜리아	B-LOC
+(	O
+Rumelia	O
+)	O
+와	O
+아나톨리아	B-LOC
+출신으로	O
+구성된	O
+오스만군의	O
+측면은	O
+경기병대가	O
+지원하러	O
+올	O
+때까지	O
+많은	O
+피해를	O
+입었다	O
+.	O
+
+넘겨주기	O
+스타드	B-ORG
+모리스	I-ORG
+뒤프란	I-ORG
+
+서울대학교	B-ORG
+서양사학과	O
+교수로	O
+재직	O
+중인	O
+사학자이다	O
+.	O
+
+**	O
+아이난	B-LOC
+정	I-LOC
+(	O
+)	O
+
+'	O
+''	O
+소시	B-LOC
+''	O
+'	O
+(	O
+小柿	O
+)	O
+는	O
+고욤나무의	O
+열매이다	O
+.	O
+
+쓰노	B-LOC
+정	I-LOC
+(	O
+)	O
+
+미금역	B-ORG
+,	O
+정자역	B-ORG
+,	O
+수내역	B-ORG
+,	O
+서현1동주민센터	O
+,	O
+분당요한성당	O
+,	O
+신현3리	O
+,	O
+청솔마을	O
+
+월트	B-PER
+휘트먼	I-PER
+로스토	I-PER
+
+넘겨주기	O
+니컬러스	B-PER
+토머스	I-PER
+라이트	I-PER
+
+매니토바	B-LOC
+주	I-LOC
+북부	O
+,	O
+노스웨스트	B-LOC
+준주	I-LOC
+
+넘겨주기	O
+석유	B-ORG
+수출국	I-ORG
+기구	I-ORG

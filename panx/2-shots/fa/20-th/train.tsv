@@ -1,0 +1,45 @@
+تغییرمسیر	O
+فرانسیس	B-PER
+لی	I-PER
+مک‌کین	I-PER
+
+تغییر_مسیر	O
+محمدرضا	B-PER
+شاه	I-PER
+پهلوی	I-PER
+
+تغییرمسیر	O
+خانی‌آباد	B-LOC
+(	I-LOC
+بروجن	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+جاده	B-ORG
+ای۱۱۰	I-ORG
+(	I-ORG
+انگلستان	I-ORG
+)	I-ORG
+
+تغییرمسیر	O
+کشتی	B-ORG
+در	I-ORG
+بازی‌های	I-ORG
+المپیک	I-ORG
+تابستانی	I-ORG
+۲۰۱۲	I-ORG
+–	I-ORG
+۹۶	I-ORG
+کیلوگرم	I-ORG
+آزاد	I-ORG
+مردان	I-ORG
+
+گل‌دشت	B-LOC
+(	I-LOC
+جویبار	I-LOC
+)	I-LOC
+،	I-LOC
+روستایی	O
+در	O
+شهرستان	B-LOC
+جویبار	I-LOC

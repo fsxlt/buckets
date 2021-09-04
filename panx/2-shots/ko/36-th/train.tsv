@@ -1,0 +1,85 @@
+'	O
+''	O
+장송	B-PER
+''	O
+'	O
+(	O
+張松	O
+)	O
+자교	O
+
+넘겨주기	O
+이서우	B-PER
+(	I-PER
+1633년	I-PER
+)	I-PER
+
+비록	O
+큰	O
+배가	O
+항해할	O
+수	O
+있는	O
+해협이지만	O
+,	O
+남쪽	O
+(	O
+드레이크	B-LOC
+해협	I-LOC
+)	O
+과	O
+북쪽	O
+(	O
+마젤란	B-LOC
+해협	I-LOC
+)	O
+에	O
+더	O
+안전한	O
+수로가	O
+존재한다	O
+.	O
+
+넘겨주기	O
+시티	B-ORG
+대학교	I-ORG
+런던	I-ORG
+
+명	B-LOC
+(	O
+明	O
+)	O
+태조	B-PER
+홍무제	I-PER
+(	O
+太祖	O
+洪武帝	O
+)	O
+22년	O
+
+특별상	O
+-	O
+《고교교사》	O
+제작진	O
+,	O
+류	B-ORG
+지슈	I-ORG
+
+고령군수	B-LOC
+(	O
+민선	O
+,	O
+새누리당	B-ORG
+)	O
+/	O
+전	O
+.	O
+
+미시시피	B-LOC
+강의	I-LOC
+지류인	O
+오하이오	B-LOC
+강	I-LOC
+남안에	O
+위치한다	O
+.	O

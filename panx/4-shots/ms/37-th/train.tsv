@@ -1,0 +1,72 @@
+Drunken	B-ORG
+Tiger	I-ORG
+(	O
+드렁큰	O
+타이거	O
+)	O
+
+LENCONG	O
+Abu	B-PER
+Dzar	I-PER
+al-Ghifari	I-PER
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Charente-Maritime	I-LOC
+
+''Dinyanyikan	O
+oleh	O
+Okai	B-PER
+Chisato	I-PER
+''	O
+
+Daerah	B-LOC
+Žďár	I-LOC
+nad	I-LOC
+Sázavou	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Aisne	I-LOC
+
+Senjata	O
+ini	O
+turut	O
+digunakan	O
+oleh	O
+Angkatan	B-ORG
+Tentera	I-ORG
+Malaysia	I-ORG
+.	O
+
+30px]]	O
+Sekolah	B-ORG
+Menengah	I-ORG
+Sultan	I-ORG
+Abdul	I-ORG
+Halim	I-ORG
+
+Sekolah	B-ORG
+Menengah	I-ORG
+Sains	I-ORG
+Kuala	I-ORG
+Selangor	I-ORG
+
+Ronald	B-PER
+Reagan	I-PER
+(	O
+1911-2004	O
+)	O
+
+LENCONG	O
+Anjing	B-PER
+gembala	I-PER
+Rusia	I-PER
+Selatan	I-PER
+
+Daerah	B-LOC
+Žiar	I-LOC
+nad	I-LOC
+Hronom	I-LOC

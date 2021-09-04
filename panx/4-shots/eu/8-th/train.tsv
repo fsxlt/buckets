@@ -1,0 +1,105 @@
+BIRZUZENDU	O
+John	B-PER
+Everett	I-PER
+Millais	I-PER
+
+Trajanok	B-PER
+konkistatu	O
+eta	O
+Arabia	B-LOC
+Petraea	I-LOC
+bilakatu	O
+
+Louis	B-PER
+François	I-PER
+Armand	I-PER
+de	I-PER
+Vignerot	I-PER
+du	I-PER
+Plessis	I-PER
+
+Biak	O
+,	O
+Taj	B-ORG
+Mahalean	I-ORG
+lurperatuak	O
+daude	O
+.	O
+
+Hasieran	O
+Euzko	B-ORG
+Alderdi	I-ORG
+Jeltzaleko	I-ORG
+kide	O
+izan	O
+zen	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Pirinio	B-LOC
+Garaiak	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Hiriko	O
+talderik	O
+ezagunena	O
+Sporting	B-ORG
+Clube	I-ORG
+de	I-ORG
+Braga	I-ORG
+da	O
+.	O
+
+Salbuespen	O
+moduan	O
+bada	O
+ere	O
+,	O
+Antzinako	B-LOC
+Egipton	I-LOC
+ere	O
+erabili	O
+zen	O
+.	O
+
+Frantziar	B-ORG
+Errepublikaren	I-ORG
+behin-behineko	I-ORG
+gobernua	I-ORG
+
+Baden-Württemberg	B-LOC
+estatuan	O
+kokatuta	O
+dago	O
+,	O
+barrutian	O
+.	O
+
+Bere	O
+izena	O
+,	O
+Kristobal	B-PER
+Kolonengatik	I-PER
+jasotzen	O
+du	O
+.	O
+
+Frosinoneko	B-LOC
+probintzian	I-LOC
+kokatuta	O
+dago	O
+,	O
+Lazio	B-LOC
+eskualdean	O
+.	O
+
+Bernard	B-PER
+Hinault	I-PER
+222	O
+punturekin	O

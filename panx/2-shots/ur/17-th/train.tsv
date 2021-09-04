@@ -1,0 +1,37 @@
+رجوع_مکرر	O
+سید	B-PER
+عطاء	I-PER
+اللہ	I-PER
+شاہ	I-PER
+بخاری	I-PER
+
+رجوع_مکرر	O
+صوبہ	B-LOC
+ام	I-LOC
+البواقی	I-LOC
+
+رجوع_مکرر	O
+بروکفیلڈ	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+ہیوران	I-LOC
+کاؤنٹی،	I-LOC
+مشی	I-LOC
+گن	I-LOC
+
+رجوع_مکرر	O
+آگ	B-ORG
+ٹی	I-ORG
+وی	I-ORG
+
+رجوع_مکرر	O
+سید	B-PER
+جماعت	I-PER
+علی	I-PER
+شاہ	I-PER
+
+رجوع_مکرر	O
+شینا	B-ORG
+کھیوڑہ	I-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG

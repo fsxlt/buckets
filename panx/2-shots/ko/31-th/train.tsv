@@ -1,0 +1,38 @@
+메이허커우	B-LOC
+시	I-LOC
+(	O
+梅河口市	O
+)	O
+
+로런스	B-PER
+올리비에	I-PER
+/	O
+마이클	B-PER
+케인	I-PER
+
+'	O
+''	O
+카자흐스탄	B-ORG
+프리미어리그	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+루트비히	B-PER
+4세	I-PER
+''	O
+'	O
+(	O
+1837~1892	O
+)	O
+는	O
+헤센	B-ORG
+대공국의	I-ORG
+군주이다	O
+.	O
+
+기리시마	B-LOC
+산	I-LOC
+(	O
+)	O

@@ -1,0 +1,21 @@
+Dhèwèké	O
+misuwur	O
+minangka	O
+panyithak	O
+gol	O
+kapisan	O
+Euro	B-ORG
+2008	I-ORG
+.	O
+
+Robert	B-PER
+Kubica	I-PER
+(	O
+2010-	O
+...	O
+)	O
+
+ALIH	O
+Otoritas	B-LOC
+Nasional	I-LOC
+Palèstina	I-LOC

@@ -1,0 +1,87 @@
+Championnat	B-ORG
+du	I-ORG
+monde	I-ORG
+des	I-ORG
+rallyes	I-ORG
+2002	I-ORG
+
+'	O
+''	O
+Victoire	O
+''	O
+'	O
+Owen	B-PER
+Davidson	I-PER
+
+'	O
+''	O
+Aprilia	B-ORG
+''	O
+'	O
+
+'	O
+''	O
+Braves	B-ORG
+d'Atlanta	I-ORG
+''	O
+'	O
+
+Allemands	B-LOC
+de	I-LOC
+la	I-LOC
+mer	I-LOC
+Noire	I-LOC
+
+Senneterre	B-LOC
+(	I-LOC
+ville	I-LOC
+)	I-LOC
+,	O
+
+REDIRECTION	O
+Steinbrunn	B-LOC
+(	I-LOC
+Autriche	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Kazakhstan	B-LOC
+''	O
+'	O
+
+Spartak	B-ORG
+région	I-ORG
+de	I-ORG
+Moscou	I-ORG
+
+Eduard	B-PER
+Friedrich	I-PER
+von	I-PER
+Eversmann	I-PER
+
+San	B-LOC
+Francisco	I-LOC
+(	I-LOC
+Antioquia	I-LOC
+)	I-LOC
+
+Evan	B-PER
+Dunfee	I-PER
+1	O
+h	O
+25	O
+min	O
+30	O
+s	O
+
+Pour	O
+Simon	B-PER
+Claude	I-PER
+Mimouni	I-PER
+,	O
+
+Océano	B-ORG
+Club	I-ORG
+de	I-ORG
+Kerkennah	I-ORG

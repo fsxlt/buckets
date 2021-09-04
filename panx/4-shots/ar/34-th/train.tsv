@@ -1,0 +1,85 @@
+وهو	O
+عضو	O
+في	O
+الاتحاد	B-ORG
+الديمقراطي	I-ORG
+الكرواتي	I-ORG
+.	O
+
+تحويل	O
+شازل	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+كلاماث	I-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+
+تحويل	O
+العصبة	B-ORG
+الديموقراطية	I-ORG
+-	I-ORG
+حركة	I-ORG
+حزب	I-ORG
+العمل	I-ORG
+
+تحويل	O
+كاستاليا	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+'	O
+''	O
+أنور	B-PER
+وجدي	I-PER
+''	O
+'	O
+في	O
+دور	O
+''أمين	O
+''	O
+
+تحويل	O
+ديتا	B-PER
+فون	I-PER
+تيسي	I-PER
+
+تحويل	O
+قرية	B-LOC
+موانت	I-LOC
+موريس	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+علي	B-PER
+بن	I-PER
+أبي	I-PER
+طالب	I-PER
+
+تحويل	O
+المفوضية	B-ORG
+العليا	I-ORG
+للأمم	I-ORG
+المتحدة	I-ORG
+لشؤون	I-ORG
+اللاجئين	I-ORG
+
+تحويل	O
+هورنتشورتش	B-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+محمد	B-PER
+بن	I-PER
+إدريس	I-PER
+الشافعي	I-PER

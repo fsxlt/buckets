@@ -1,0 +1,33 @@
+*1985	O
+-	O
+Edwin	B-PER
+Ernest	I-PER
+Salpeter	I-PER
+
+Moto	B-ORG
+Clube	I-ORG
+(	O
+Porto	B-LOC
+Velho	I-LOC
+''	O
+)	O
+
+M	B-ORG
+&	I-ORG
+T	I-ORG
+Bank	I-ORG
+Stadium	I-ORG
+
+REDIRECIONAMENTO	O
+Ōta	B-LOC
+(	I-LOC
+Tóquio	I-LOC
+)	I-LOC
+
+REDIRECIONAMENTO	O
+Haakon	B-PER
+,	I-PER
+Príncipe	I-PER
+Herdeiro	I-PER
+da	I-PER
+Noruega	I-PER

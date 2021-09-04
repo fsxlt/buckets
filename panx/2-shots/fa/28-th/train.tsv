@@ -1,0 +1,46 @@
+حزب	B-ORG
+سوسیال	I-ORG
+دموکرات	I-ORG
+متحد	I-ORG
+گینه	I-ORG
+بیسائو	I-ORG
+
+بازگشت	O
+پادشاه]]	O
+''	O
+اثر	O
+جان	B-PER
+رونالد	I-PER
+روئل	I-PER
+تالکین	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+'	O
+''	O
+''Blown	O
+Away	O
+''	O
+-	O
+کری	B-PER
+آندروود	I-PER
+''	O
+'	O
+
+قرقاول	B-LOC
+شاخ‌دار	I-LOC
+بلایث	I-LOC
+''Tragopan	O
+blythii	O
+''	O
+
+احمدآباد	B-LOC
+(	I-LOC
+رشتخوار	I-LOC
+)	I-LOC

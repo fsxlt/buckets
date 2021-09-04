@@ -1,0 +1,95 @@
+Administratiboki	O
+Frantziako	B-LOC
+Bouches-du-Rhône	B-LOC
+departamenduan	O
+dago	O
+,	O
+Provence-Alpes-Côte	B-LOC
+d'Azur	I-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Rodion	B-PER
+Romanovitx	I-PER
+Raskolnikov	I-PER
+
+Konick	B-ORG
+zaldien	I-ORG
+antza	O
+handia	O
+daukate	O
+.	O
+
+Arriaga	B-ORG
+antzokiak	I-ORG
+haren	O
+omenez	O
+du	O
+izena	O
+.	O
+
+La	B-LOC
+Aldea	I-LOC
+de	I-LOC
+San	I-LOC
+Nicolás	I-LOC
+
+Martinus	B-PER
+W.	I-PER
+Beijerinck	I-PER
+zientzialari	O
+holandarrak	O
+aurkitu	O
+zuen	O
+XX	O
+.	O
+
+BIRZUZENDU	O
+Luis	B-PER
+Migel	I-PER
+Arkonada	I-PER
+
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Konstantino	B-PER
+I.a	I-PER
+(	O
+862	O
+-	O
+877	O
+)	O
+
+'	O
+''	O
+Bilbao	B-ORG
+Athletic	I-ORG
+''	O
+'	O
+
+Bateatzaile	O
+trebea	O
+,	O
+Liga	B-ORG
+Handietako	I-ORG
+jokalari	O
+ospetsuenetariko	O
+bat	O
+izan	O
+zen	O
+.	O
+
+Cinco	B-LOC
+Villas	I-LOC
+eskualdean	O
+dago	O
+.	O

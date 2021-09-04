@@ -1,0 +1,26 @@
+'	O
+''	O
+Hindi	B-LOC
+''	O
+'	O
+
+Santa	B-ORG
+Barbara	I-ORG
+Botanic	I-ORG
+Garden	I-ORG
+
+Shaka	B-PER
+Zoeloe	I-PER
+(	O
+1786-1828	O
+)	O
+,	O
+stichter	O
+van	O
+het	O
+Zoeloekoninkrijk	B-LOC
+
+Franqueville	B-LOC
+(	I-LOC
+Aisne	I-LOC
+)	I-LOC

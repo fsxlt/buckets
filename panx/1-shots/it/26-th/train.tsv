@@ -1,0 +1,25 @@
+Mark	B-PER
+Edmondson	I-PER
+/	O
+Sherwood	B-PER
+Stewart	I-PER
+''	O
+(	O
+primo	O
+turno	O
+)	O
+
+RINVIA	O
+Championnat	B-LOC
+National	I-LOC
+2004-2005	I-LOC
+(	I-LOC
+Algeria	I-LOC
+)	I-LOC
+
+Partito	B-ORG
+Repubblicano	I-ORG
+Italiano	I-ORG
+(	O
+PRI	O
+)	O

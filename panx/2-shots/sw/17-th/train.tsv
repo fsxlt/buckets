@@ -1,0 +1,44 @@
+Hamed	B-PER
+bin	I-PER
+Mohammed	I-PER
+el	I-PER
+Murjebi	I-PER
+
+Uhindi	B-LOC
+(	O
+New	B-LOC
+Delhi	I-LOC
+)	O
+(	O
+AS	O
+)	O
+
+Jigawa	B-ORG
+(	I-ORG
+jimbo	I-ORG
+)	I-ORG
+
+Orodha	B-ORG
+ya	I-ORG
+Mawaziri	I-ORG
+Wakuu	I-ORG
+wa	I-ORG
+Ethiopia	I-ORG
+
+Msimbo	B-LOC
+wa	I-LOC
+posta	I-LOC
+ni	O
+33410	O
+.	O
+
+'	O
+''	O
+Daniel	B-PER
+Arap	I-PER
+Moi	I-PER
+''	O
+'	O
+(	O
+1924–	O
+)	O

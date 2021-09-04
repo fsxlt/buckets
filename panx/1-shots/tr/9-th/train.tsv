@@ -1,0 +1,31 @@
+YÖNLENDİRME	O
+Halid	B-PER
+bin	I-PER
+Abdülaziz	I-PER
+el-Suud	I-PER
+
+YÖNLENDİRME	O
+Kamışlı	B-LOC
+,	I-LOC
+Merzifon	I-LOC
+
+'	O
+''	O
+Denizlispor	B-ORG
+''	O
+'	O
+
+Ligue	B-ORG
+1	I-ORG
+takımlarından	O
+RC	B-ORG
+Lens'in	I-ORG
+formasını	O
+giyen	O
+oyuncu	O
+,	O
+forvet	B-PER
+bölgesinde	O
+görev	O
+yapmaktadır	O
+.	O

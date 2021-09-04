@@ -1,0 +1,77 @@
+رجوع_مکرر	O
+ڈاؤ	B-ORG
+یونیورسٹی	I-ORG
+آف	I-ORG
+ہیلتھ	I-ORG
+سائنسز	I-ORG
+
+رجوع_مکرر	O
+کامونکے	B-ORG
+ریلوے	I-ORG
+اسٹیشن	I-ORG
+
+رجوع_مکرر	O
+ماؤنٹین	B-LOC
+ویو،	I-LOC
+چیویز	I-LOC
+کاؤنٹی،	I-LOC
+نیو	I-LOC
+میکسیکو	I-LOC
+
+رجوع_مکرر	O
+فلک	B-ORG
+نما	I-ORG
+محل	I-ORG
+
+رجوع_مکرر	O
+مصنع	B-PER
+لطیفی	I-PER
+ترقی	I-PER
+دہندہ	I-PER
+
+رجوع_مکرر	O
+آگسٹا	B-LOC
+ٹاؤن	I-LOC
+شپ،	I-LOC
+ہینکوک	I-LOC
+کاؤنٹی،	I-LOC
+الینوائے	I-LOC
+
+رجوع_مکرر	O
+الیک	B-LOC
+قلعہ	I-LOC
+ضلع	I-LOC
+
+رجوع_مکرر	O
+خان	B-PER
+عبدالجبار	I-PER
+خان	B-PER
+
+رجوع_مکرر	O
+سربراہ	B-PER
+پاک	I-PER
+فوج	I-PER
+
+رجوع_مکرر	O
+شاہ	B-PER
+عبداللطیف	I-PER
+بھٹائی	I-PER
+
+رجوع_مکرر	O
+فیئرویو	B-LOC
+(	I-LOC
+نزد	I-LOC
+ہیلویٹیا	I-LOC
+)	I-LOC
+،	I-LOC
+رانڈولپہ	I-LOC
+کاؤنٹی،	I-LOC
+مغربی	I-LOC
+ورجینیا	I-LOC
+
+رجوع_مکرر	O
+2011	B-ORG
+لیبیا	I-ORG
+میں	I-ORG
+فوجی	I-ORG
+مداخلت	I-ORG

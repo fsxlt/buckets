@@ -1,0 +1,19 @@
+пренасочване	O
+Слатино	B-LOC
+(	I-LOC
+област	I-LOC
+Кюстендил	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Хилари	B-ORG
+Скот	I-ORG
+''	O
+'	O
+
+Филип	B-PER
+IV	I-PER
+(	I-PER
+Франция	I-PER
+)	I-PER

@@ -1,0 +1,46 @@
+Cộng	B-LOC
+hòa	I-LOC
+Xã	I-LOC
+hội	I-LOC
+chủ	I-LOC
+nghĩa	I-LOC
+Xô	I-LOC
+viết	I-LOC
+Moldavia	I-LOC
+
+Grevenmacher	B-LOC
+(	I-LOC
+tổng	I-LOC
+)	I-LOC
+
+Jean-Marie	B-PER
+Gustave	I-PER
+Le	I-PER
+Clézio	I-PER
+
+Giáo	B-PER
+hoàng	I-PER
+Ađrianô	I-PER
+VI	I-PER
+(	O
+1522–1523	O
+)	O
+
+Quốc	B-ORG
+vụ	I-ORG
+viện	I-ORG
+Cộng	I-ORG
+hòa	I-ORG
+Nhân	I-ORG
+dân	I-ORG
+Trung	I-ORG
+Hoa	I-ORG
+
+===	O
+Các	B-ORG
+cộng	I-ORG
+đồng	I-ORG
+chưa	I-ORG
+hợp	I-ORG
+nhất	I-ORG
+===	O

@@ -1,0 +1,87 @@
+بُني	O
+هذا	O
+التمثال	O
+أثناء	O
+فترة	O
+حكم	O
+سلالة	B-LOC
+تانغ	I-LOC
+(	O
+618-907	O
+)	O
+م	O
+.	O
+
+'	O
+''	O
+دونالد	B-PER
+جونسون	I-PER
+جاريد	B-PER
+بالمر	I-PER
+
+تحويل	O
+أوبيو	B-LOC
+(	I-LOC
+الألب	I-LOC
+الجبلية	I-LOC
+)	I-LOC
+
+اثبت	O
+في	O
+دبي	B-ORG
+الرياضية	I-ORG
+.	O
+
+تحويل	O
+دائرة	B-LOC
+أم	I-LOC
+العظائم	I-LOC
+
+و	O
+خلفه	O
+ريتشارد	B-PER
+فون	I-PER
+فايتسكر	I-PER
+.	O
+
+تحويل	O
+اسماعیل	B-LOC
+خان	I-LOC
+کندي	I-LOC
+(	I-LOC
+غربي	I-LOC
+أردبيل	I-LOC
+)	I-LOC
+
+تحويل	O
+جماعة	B-ORG
+الجهاد	I-ORG
+الإسلامي	I-ORG
+
+تحويل	O
+عبد	B-PER
+الحكيم	I-PER
+عامر	I-PER
+
+تحويل	O
+إدوارد	B-PER
+وستمنستر	I-PER
+(	I-PER
+أمير	I-PER
+ويلز	I-PER
+)	I-PER
+
+حزب	B-ORG
+البعث	I-ORG
+العربي	I-ORG
+الاشتراكي	I-ORG
+(	I-ORG
+سوريا	I-ORG
+)	I-ORG
+
+وهو	O
+عضو	O
+في	O
+الحزب	B-ORG
+الجمهوري	I-ORG
+.	O

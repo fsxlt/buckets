@@ -1,0 +1,19 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+حسین‌آباد	B-LOC
+(	I-LOC
+ارسنجان	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+ژان	B-PER
+کلود	I-PER
+ون	I-PER
+دم	I-PER

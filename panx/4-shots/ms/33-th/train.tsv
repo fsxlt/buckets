@@ -1,0 +1,77 @@
+'	O
+''	O
+Felipe	B-PER
+Massa	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Ron	B-PER
+Ng	I-PER
+''	O
+'	O
+
+4	O
+-	O
+dinaikkan	O
+dari	O
+Liga	B-LOC
+FAM	I-LOC
+2012	I-LOC
+
+**	O
+中島早貴	O
+(	O
+Nakajima	B-PER
+Saki	I-PER
+)	O
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Marne	I-LOC
+
+LENCONG	O
+Pengepala	B-ORG
+(	I-ORG
+teknologi	I-ORG
+maklumat	I-ORG
+)	I-ORG
+
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Gard	I-LOC
+
+Stadium	B-ORG
+Sultan	I-ORG
+Ismail	I-ORG
+Nasiruddin	I-ORG
+Shah	I-ORG
+
+Stadium	B-ORG
+Bung	I-ORG
+Karno	I-ORG
+,	O
+Indonesia	B-LOC
+
+Lebuhraya	B-ORG
+Bertingkat	I-ORG
+Ampang-Kuala	I-ORG
+Lumpur	I-ORG
+(	O
+RM28	O
+juta	O
+)	O
+
+Buzz	B-PER
+Aldrin	I-PER
+sebagai	O
+Himself	O

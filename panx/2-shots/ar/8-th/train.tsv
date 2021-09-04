@@ -1,0 +1,40 @@
+راؤول	B-PER
+راميريز	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+تحويل	O
+رايلاي	B-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+كأس	B-ORG
+الجمهورية	I-ORG
+السورية	I-ORG
+
+تحويل	O
+وقواق	B-LOC
+مروحي	I-LOC
+الذيل	I-LOC
+
+تحويل	O
+مهدي	B-LOC
+خیل	I-LOC
+(	I-LOC
+دشت	I-LOC
+سر	I-LOC
+)	I-LOC
+
+تحويل	O
+آن	B-PER
+أميرة	I-PER
+أورانج	I-PER

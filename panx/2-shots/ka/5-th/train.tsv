@@ -1,0 +1,55 @@
+I	B-ORG
+'m	I-ORG
+Happy	I-ORG
+Just	I-ORG
+to	I-ORG
+Dance	I-ORG
+with	I-ORG
+You	I-ORG
+
+პირველმა	O
+გამოიკვლია	O
+რუალ	B-PER
+ამუნდსენმა	I-PER
+1903-06	O
+წლებში	O
+.	O
+
+გადამისამართება	O
+სან-ლუისი	B-LOC
+(	I-LOC
+მარანიანი	I-LOC
+)	I-LOC
+
+,	O
+,გონზაგა	O
+,	O
+,	O
+მილანი	B-LOC
+
+ჰეთუმ	B-PER
+II	I-PER
+—	O
+კილიკიის	B-ORG
+სომეხთა	I-ORG
+სამეფოს	I-ORG
+მმართველი	O
+(	O
+გ	O
+.	O
+
+მთავარი	O
+მდინარეა	O
+ვემე	O
+(	O
+ჩაედინება	O
+გვინეის	B-LOC
+ყურეში	I-LOC
+,	O
+რომელიც	O
+შესართავიდან	O
+მხოლოდ	O
+200	O
+კმ-ზეა	O
+სანაოსნო	O
+.	O

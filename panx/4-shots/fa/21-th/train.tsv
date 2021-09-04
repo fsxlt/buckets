@@ -1,0 +1,81 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+جان	B-PER
+اف.	I-PER
+کندی	I-PER
+
+日本代表	O
+試合別出場記録	O
+منتشرشده	O
+توسط	O
+فدراسیون	B-ORG
+فوتبال	I-ORG
+ژاپن	I-ORG
+
+تغییر_مسیر	O
+باشگاه	B-ORG
+فوتبال	I-ORG
+بارکینگ	I-ORG
+
+کمتر	O
+از	O
+10	O
+درصد	O
+است	O
+در	O
+سایر	O
+ترکیبات	B-LOC
+شیمیایی	I-LOC
+استفاده	O
+می	O
+شود	O
+.	O
+
+تغییرمسیر	O
+دوریوا	B-PER
+(	I-PER
+بازیکن	I-PER
+فوتبال	I-PER
+)	I-PER
+
+تغییرمسیر	O
+ان،	B-PER
+شاهدخت	I-PER
+پادشاهی	I-PER
+
+تغییرمسیر	O
+سید	B-PER
+ابوالقاسم	I-PER
+خویی	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+فولتن،	B-LOC
+داکوتای	I-LOC
+جنوبی	I-LOC
+
+تغییرمسیر	O
+قلعه	B-LOC
+گردن	I-LOC
+(	I-LOC
+تنکابن	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+قاسم‌آباد	B-LOC
+(	I-LOC
+ورامین	I-LOC
+)	I-LOC

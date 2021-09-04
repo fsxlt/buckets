@@ -1,0 +1,113 @@
+Джон	B-PER
+Норъм	I-PER
+(	O
+р	O
+.	O
+
+Цвят	O
+[[Колката	O
+,	O
+Западна	B-LOC
+Бенгалия	I-LOC
+,	O
+Индия	B-LOC
+.	O
+
+Те	O
+били	O
+части	O
+от	O
+Ханзейската	B-LOC
+лига	I-LOC
+.	O
+
+'	O
+''	O
+Дерек	B-PER
+Уорик	I-PER
+''	O
+'	O
+
+``	O
+What	B-ORG
+You	I-ORG
+Do	I-ORG
+n't	I-ORG
+Know	I-ORG
+''	O
+
+'	O
+''	O
+Дженсън	B-PER
+Бътън	I-PER
+''	O
+'	O
+
+виж	O
+Фондация	B-ORG
+``	I-ORG
+Изкуството	I-ORG
+да	I-ORG
+живееш	I-ORG
+''	I-ORG
+
+В	O
+периода	O
+2010-2012	O
+г.	O
+той	O
+е	O
+Председател	O
+на	O
+Висшия	B-ORG
+електорален	I-ORG
+съд	I-ORG
+.	O
+
+Use	B-ORG
+Your	I-ORG
+Illusion	I-ORG
+II	I-ORG
+''	O
+
+Разпространен	O
+е	O
+в	O
+Алжир	B-LOC
+,	O
+Египет	B-LOC
+,	O
+Западна	B-LOC
+Сахара	I-LOC
+,	O
+Израел	B-LOC
+,	O
+Йордания	B-LOC
+,	O
+Либия	B-LOC
+,	O
+Мавритания	B-LOC
+,	O
+Мали	B-LOC
+,	O
+Мароко	B-LOC
+,	O
+Нигер	B-LOC
+,	O
+Судан	B-LOC
+,	O
+Тунис	B-LOC
+и	O
+Чад	B-LOC
+.	O
+
+виж	O
+Сяр	B-LOC
+(	I-LOC
+дем	I-LOC
+)	I-LOC
+
+виж	O
+Жозеф	B-PER
+дьо	I-PER
+Местр	I-PER

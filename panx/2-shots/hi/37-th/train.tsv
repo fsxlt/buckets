@@ -1,0 +1,48 @@
+मल्टी	B-ORG
+कमोडिटी	I-ORG
+एक्सचेंज	I-ORG
+ऑफ	I-ORG
+इंडिया	I-ORG
+लि	I-ORG
+.	I-ORG
+
+पिंचू	B-PER
+कपूर	I-PER
+-	O
+मद्यालय	O
+का	O
+मालिक	O
+
+भूपेंद्र	B-PER
+सिंह	I-PER
+हुड्डा	I-PER
+
+१००	O
+,	O
+८६०	O
+कि.मी२	O
+--	O
+क्यूबा	B-LOC
+(	O
+१०६वें	O
+स्थान	O
+पर	O
+)	O
+
+लोकमान्य	B-ORG
+तिलक	I-ORG
+टर्मिनस	I-ORG
+रेलवे	I-ORG
+स्टेशन	I-ORG
+
+आन्ध्र	B-LOC
+प्रदेश	I-LOC
+(	O
+369	O
+)	O
+
+लक्ष्मी	B-LOC
+नगर	I-LOC
+(	I-LOC
+दिल्ली	I-LOC
+)	I-LOC

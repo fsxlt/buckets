@@ -1,0 +1,80 @@
+Liên	B-ORG
+đoàn	I-ORG
+bóng	I-ORG
+đá	I-ORG
+Gruzia	I-ORG
+
+đổi	O
+Xã	B-LOC
+Adams	I-LOC
+,	I-LOC
+Quận	I-LOC
+Cambria	I-LOC
+,	I-LOC
+Pennsylvania	I-LOC
+
+Timbaland	B-PER
+,	O
+Nelly	B-PER
+Furtado	I-PER
+và	O
+Justin	B-PER
+Timberlake	I-PER
+
+3.90	O
+Khối	B-ORG
+lượng	I-ORG
+Trái	I-ORG
+Đất	I-ORG
+
+Giáo	B-PER
+hoàng	I-PER
+Hônôriô	I-PER
+I	I-PER
+(	O
+625-638	O
+)	O
+
+''	O
+Bulbophyllum	B-LOC
+formosum	I-LOC
+''	O
+Schltr	O
+.	O
+
+''	O
+Polyscias	B-LOC
+paniculata	I-LOC
+''	O
+
+đổi	O
+Mất	B-LOC
+môi	I-LOC
+trường	I-LOC
+sống	I-LOC
+
+đổi	O
+The	B-ORG
+Cheesecake	I-ORG
+Factory	I-ORG
+
+'	O
+''	O
+Nguyễn	B-PER
+Thiện	I-PER
+Nhân	I-PER
+''	O
+'	O
+
+Con	O
+của	O
+Cyrus	B-PER
+Đại	I-PER
+đế	I-PER
+
+Giải	B-ORG
+bóng	I-ORG
+đá	I-ORG
+Ngoại	I-ORG
+hạng	I-ORG
+Anh	I-ORG

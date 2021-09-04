@@ -1,0 +1,26 @@
+'	O
+''	O
+Baarle-Nassau	B-LOC
+''	O
+'	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Cantal	I-LOC
+
+Luca	B-ORG
+Turilli	I-ORG
+(	I-ORG
+groupe	I-ORG
+)	I-ORG
+
+Jerome	B-PER
+Davis	I-PER
+Antonio	B-PER
+Pettigrew	I-PER
+Angelo	B-PER
+Taylor	I-PER
+Michael	B-PER
+Johnson	I-PER

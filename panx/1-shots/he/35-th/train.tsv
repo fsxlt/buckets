@@ -1,0 +1,35 @@
+הנפה	O
+גובלת	O
+נפת	B-LOC
+טרנטו	I-LOC
+נפת	B-LOC
+בולצנו	I-LOC
+מחוז	B-LOC
+טרנטינו	B-LOC
+-	I-LOC
+אלטו	I-LOC
+אדיג'ה	I-LOC
+במערב	O
+.	O
+
+השיר	O
+נכלל	O
+גם	O
+באלבום	O
+האוסף	O
+של	O
+הלהקה	O
+,	O
+Relics	B-ORG
+.	O
+
+הפניה	O
+משרד	B-ORG
+ההגנה	I-ORG
+של	I-ORG
+רוסיה	I-ORG
+
+הפניה	O
+קוויריקה	B-PER
+השלישי	I-PER
+הגדול	I-PER

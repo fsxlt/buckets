@@ -1,0 +1,74 @@
+====	O
+Provincia	B-LOC
+di	I-LOC
+Teruel	I-LOC
+====	O
+
+Špindlerův	B-LOC
+Mlýn	I-LOC
+,	O
+Repubblica	B-LOC
+Ceca	I-LOC
+
+Juan	B-PER
+Martín	I-PER
+del	I-PER
+Potro	I-PER
+era	O
+il	O
+detentore	O
+del	O
+titolo	O
+,	O
+ma	O
+ha	O
+deciso	O
+di	O
+non	O
+partecipare	O
+,	O
+dopo	O
+essersi	O
+operato	O
+al	O
+polso	O
+a	O
+maggio	O
+e	O
+ricominciato	O
+ad	O
+allenarsi	O
+ad	O
+agosto	O
+.	O
+
+Partito	B-ORG
+Socialista	I-ORG
+Democratico	I-ORG
+Italiano	I-ORG
+(	O
+PSDI	O
+)	O
+
+'	O
+''	O
+L	O
+''	O
+'	O
+Lappi	B-LOC
+
+'	O
+''	O
+Győri	B-ORG
+ETO	I-ORG
+KC	I-ORG
+''	O
+'	O
+
+Angelique	B-PER
+Kerber	I-PER
+''	O
+(	O
+quarto	O
+turno	O
+)	O

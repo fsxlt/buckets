@@ -1,0 +1,81 @@
+'	O
+''	O
+Frisch	B-ORG
+Auf	I-ORG
+Göppingen	I-ORG
+''	O
+'	O
+
+Ittihad	B-ORG
+Riadi	I-ORG
+Fkih	I-ORG
+Ben	I-ORG
+Salah	I-ORG
+
+*2006	O
+-	O
+Lionel	B-PER
+Messi	I-PER
+,	O
+FC	B-ORG
+Barcelone	I-ORG
+(	O
+36	O
+%	O
+)	O
+
+Greensboro]]	O
+(	O
+Caroline	B-LOC
+du	I-LOC
+Nord	I-LOC
+)	O
+
+Communes	B-LOC
+de	I-LOC
+la	I-LOC
+Haute-Loire	I-LOC
+
+Serveur	B-ORG
+vocal	I-ORG
+interactif	I-ORG
+
+''Sus-Menour	O
+''	O
+(	O
+,	O
+d'après	O
+Pierre	B-PER
+de	I-PER
+Marca	I-PER
+)	O
+,	O
+
+Stad	B-LOC
+Delden	I-LOC
+>	O
+Hof	B-LOC
+van	I-LOC
+Twente	I-LOC
+
+Kristaps	B-PER
+Porziņģis	I-PER
+(	O
+13	O
+)	O
+
+REDIRECTION	O
+Koltsovo	B-LOC
+(	I-LOC
+oblast	I-LOC
+de	I-LOC
+Novossibirsk	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Avec	O
+Ernestine	B-PER
+Anderson	I-PER
+''	O
+'	O

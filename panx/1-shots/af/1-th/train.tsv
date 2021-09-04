@@ -1,0 +1,27 @@
+Hy	O
+word	O
+opgevolg	O
+deur	O
+Pous	B-PER
+Anastasius	I-PER
+IV	I-PER
+.	O
+
+31	B-LOC
+Mei	I-LOC
+–	O
+Suid-Afrika	B-LOC
+is	O
+'n	O
+100	O
+jaar	O
+oud	O
+.	O
+
+van	O
+Loggerenberg	O
+van	O
+die	O
+Nasionale	B-ORG
+Party	I-ORG
+.	O

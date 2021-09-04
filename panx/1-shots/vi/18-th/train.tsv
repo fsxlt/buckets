@@ -1,0 +1,22 @@
+đổi	O
+Người	B-PER
+đẹp	I-PER
+ngủ	I-PER
+trong	I-PER
+rừng	I-PER
+
+đổi	O
+Xã	B-LOC
+Monroe	I-LOC
+,	I-LOC
+Quận	I-LOC
+Richland	I-LOC
+,	I-LOC
+Ohio	I-LOC
+
+United	B-ORG
+We	I-ORG
+Are	I-ORG
+(	O
+2015	O
+)	O

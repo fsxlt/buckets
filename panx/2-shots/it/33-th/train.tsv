@@ -1,0 +1,57 @@
+Gareggiò	O
+anche	O
+nelle	O
+100	B-ORG
+iarde	I-ORG
+dorso	I-ORG
+,	O
+arrivando	O
+quarto	O
+in	O
+semifinale	O
+.	O
+
+Contea	B-LOC
+di	I-LOC
+Stewart	I-LOC
+(	I-LOC
+Tennessee	I-LOC
+)	I-LOC
+
+Figlio	O
+di	O
+una	O
+coppia	O
+originaria	O
+Alta	B-LOC
+Austria	I-LOC
+trasferitasi	O
+a	O
+Merano	B-LOC
+quando	O
+la	O
+città	O
+faceva	O
+ancora	O
+parte	O
+Impero	B-LOC
+austro-ungarico	I-LOC
+
+'	O
+''	O
+Max	B-PER
+Deubel	I-PER
+''	O
+'	O
+
+Gli	O
+subentra	O
+Serse	B-PER
+Cosmi	I-PER
+.	O
+
+Modulazione	B-ORG
+a	I-ORG
+banda	I-ORG
+laterale	I-ORG
+singola	I-ORG

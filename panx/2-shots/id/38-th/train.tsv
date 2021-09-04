@@ -1,0 +1,36 @@
+Tapi	O
+memakai	O
+suara	O
+Pinkan	B-PER
+Mambo	I-PER
+.	O
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Pas-de-Calais	I-LOC
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Meurthe-et-Moselle	I-LOC
+
+ALIH	O
+Angkatan	B-ORG
+Laut	I-ORG
+Korea	I-ORG
+Selatan	I-ORG
+
+ALIH	O
+Junior	B-ORG
+Chamber	I-ORG
+International	I-ORG
+
+'	O
+''	O
+Jupp	B-PER
+Heynckes	I-PER
+''	O
+'	O

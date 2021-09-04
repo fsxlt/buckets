@@ -1,0 +1,122 @@
+Soltau]]	O
+,	O
+Winsen	B-LOC
+(	I-LOC
+Luhe	I-LOC
+)	I-LOC
+
+***	O
+'	O
+''	O
+Hochstift	B-LOC
+Verdun	I-LOC
+''	O
+'	O
+
+Roman	B-PER
+Wladimirowitsch	I-PER
+Rasskasow	I-PER
+
+Sie	O
+geht	O
+auf	O
+Wilhelm	B-PER
+Windelband	I-PER
+zurück	O
+.	O
+
+Sie	O
+erinnern	O
+sich	O
+an	O
+eine	O
+Dokumentation	O
+über	O
+das	O
+Attentat	B-ORG
+vom	I-ORG
+20.	I-ORG
+Juli	I-ORG
+1944	I-ORG
+durch	O
+Stauffenberg	B-PER
+.	O
+
+Es	O
+folgten	O
+erste	O
+Engagements	O
+an	O
+der	O
+English	B-ORG
+National	I-ORG
+Opera	I-ORG
+und	O
+am	O
+Royal	B-ORG
+Opera	I-ORG
+House	I-ORG
+.	O
+
+Für	O
+den	O
+Giro	B-ORG
+d’Italia	I-ORG
+2007	I-ORG
+wurde	O
+die	O
+Wertung	O
+wieder	O
+eingeführt	O
+.	O
+
+Dies	O
+waren	O
+Alan	B-PER
+Jones	I-PER
+,	O
+Jacques	B-PER
+Laffite	I-PER
+,	O
+Nelson	B-PER
+Piquet	I-PER
+,	O
+Didier	B-PER
+Pironi	I-PER
+und	O
+Carlos	B-PER
+Reutemann	I-PER
+.	O
+
+Erie	B-LOC
+County	I-LOC
+im	O
+Jahr	O
+2005	O
+
+Lenzen	B-LOC
+(	I-LOC
+Elbe	I-LOC
+)	I-LOC
+,	O
+Stadt	O
+
+'	O
+''	O
+Tampa	B-ORG
+Bay	I-ORG
+Rays	I-ORG
+''	O
+'	O
+
+Zunächst	O
+war	O
+er	O
+wohl	O
+mit	O
+dem	O
+ägyptischen	B-PER
+König	I-PER
+Amasis	B-PER
+verbündet	O
+.	O

@@ -1,0 +1,103 @@
+YÖNLENDİRME	O
+Filyos	B-LOC
+,	I-LOC
+Çaycuma	I-LOC
+
+YÖNLENDİRME	O
+Acebşir	B-LOC
+merkezî	I-LOC
+bahşı	I-LOC
+
+**	O
+Tiflis	B-LOC
+(	O
+Büyükelçilik	O
+)	O
+
+Teknik	O
+direktör	O
+:	O
+Luiz	B-PER
+Felipe	I-PER
+Scolari	I-PER
+
+YÖNLENDİRME	O
+Martin	B-LOC
+County	I-LOC
+,	I-LOC
+Florida	I-LOC
+
+Yazar	O
+Stan	B-PER
+Lee	I-PER
+ve	O
+sanatçı	O
+Jack	B-PER
+Kirby	I-PER
+tarafından	O
+yaratılmıştır	O
+.	O
+
+Madison	B-PER
+Chock	I-PER
+/	O
+Greg	B-PER
+Zuerlein	I-PER
+
+Los	B-ORG
+Angeles	I-ORG
+,	O
+Binaların	O
+%	O
+70'i	O
+tahrip	O
+oldu	O
+.	O
+
+Belediye	O
+,	O
+Makedonya'nın	B-LOC
+idari	O
+dağılımında	O
+Polog	B-LOC
+Bölgesi'nde	I-LOC
+yer	O
+alır	O
+
+YÖNLENDİR	O
+Nijerya	B-ORG
+Millî	I-ORG
+Futbol	I-ORG
+Takımı	I-ORG
+
+YÖNLENDİRME	O
+Kadın	B-ORG
+Koruma	I-ORG
+Birlikleri	I-ORG
+
+YÖNLENDİRME	O
+Anthology	B-ORG
+(	I-ORG
+Bryan	I-ORG
+Adams	I-ORG
+albümü	I-ORG
+)	I-ORG
+
+Savaş	B-PER
+Dinçel	I-PER
+-	O
+İsmet	B-PER
+İnönü	I-PER
+.	O
+
+Genç	O
+bir	O
+Avusturya	B-LOC
+subayı	O
+olarak	O
+İtalya	B-LOC
+ve	O
+Bosna'da	B-LOC
+görev	O
+yaptı	O
+.	O

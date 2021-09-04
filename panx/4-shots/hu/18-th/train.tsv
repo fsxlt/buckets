@@ -1,0 +1,109 @@
+''	O
+Hand	B-ORG
+on	I-ORG
+Your	I-ORG
+Heart	I-ORG
+''	O
+
+'	O
+''	O
+Ausztrália	B-LOC
+''	O
+'	O
+a	O
+Szingapúrban	B-LOC
+megrendezett	O
+'	O
+''	O
+2010.	B-ORG
+évi	I-ORG
+nyári	I-ORG
+ifjúsági	I-ORG
+olimpiai	I-ORG
+játékok	I-ORG
+''	O
+'	O
+egyik	O
+részt	O
+vevő	O
+nemzete	O
+volt	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Borek	B-LOC
+(	I-LOC
+Kelet-prágai	I-LOC
+járás	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+1986-os	B-ORG
+Formula–1	I-ORG
+mexikói	I-ORG
+nagydíj	I-ORG
+
+ÁTIRÁNYÍTÁS	O
+Ali	B-PER
+ibn	I-PER
+al-Huszajn	I-PER
+al-Maszúdi	I-PER
+
+Magyar	B-ORG
+Nemzeti	I-ORG
+Galéria	I-ORG
+,	O
+Budapest	B-LOC
+,	O
+Magyarország	B-LOC
+
+Argentína	B-LOC
+,	O
+Brazília	B-LOC
+és	O
+Paraguay	B-LOC
+területén	O
+honos	O
+.	O
+
+Sheridan	B-LOC
+megye	I-LOC
+-	O
+kelet	O
+
+Bay	B-PER
+Zoltán	I-PER
+(	O
+1900–1992	O
+)	O
+
+ఆంధ్ర	O
+ప్రదేశ్	O
+=	O
+Ándhra	B-LOC
+Prades	I-LOC
+
+|	O
+IV.	B-PER
+(	I-PER
+Kun	I-PER
+)	I-PER
+László	I-PER
+,	O
+III.	B-PER
+András	I-PER
+
+Mauna	B-LOC
+Loa	I-LOC
+,	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Államok	I-LOC
+
+Később	O
+csatlakoztak	O
+a	O
+lázadó	O
+Quintus	B-PER
+Sertoriushoz	I-PER
+.	O

@@ -1,0 +1,62 @@
+Euskal	B-LOC
+Herria	I-LOC
+,	O
+Nazioarteko	B-ORG
+Olinpiar	I-ORG
+Batzordeak	I-ORG
+talde	O
+onartua	O
+ez	O
+bazen	O
+,	O
+37.	O
+postuan	O
+egongo	O
+litzateke	O
+beste	O
+43	O
+herrialdeekin	O
+batera	O
+.	O
+
+Irlandako	B-ORG
+Armada	I-ORG
+Errepublikarra	I-ORG
+-	I-ORG
+Ofiziala	I-ORG
+
+New	B-LOC
+Inn	I-LOC
+parrokiaren	O
+barnean	O
+dago	O
+.	O
+
+23px]]	O
+'	O
+''	O
+Manuel	B-PER
+Santana	I-PER
+
+Halaber	O
+,	O
+Europako	B-LOC
+urtetsuenetarikoa	O
+da	O
+,	O
+Oxfordekoa	B-ORG
+,	O
+Bolognakoa	B-ORG
+,	O
+Salamancakoa	B-ORG
+eta	O
+Coimbrakoarekin	B-ORG
+batera	O
+.	O
+
+'	O
+''	O
+Ben	B-PER
+Affleck	I-PER
+''	O
+'	O

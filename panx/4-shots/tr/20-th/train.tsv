@@ -1,0 +1,108 @@
+YÖNLENDİRME	O
+Hamide	B-PER
+Bıkçın	I-PER
+Çetiner	I-PER
+
+Sony	B-ORG
+Pictures	I-ORG
+Entertainment	I-ORG
+(	O
+Sony	B-ORG
+)	O
+;	O
+
+Chris	B-PER
+Brown	I-PER
+ve	O
+T-Pain	B-PER
+–	O
+``	O
+Kiss	B-ORG
+Kiss	B-ORG
+''	O
+
+Newton	B-ORG
+(	I-ORG
+birim	I-ORG
+)	I-ORG
+,	O
+kuvvet	O
+birimi	O
+.	O
+
+YÖNLENDİRME	O
+Ortaköy	B-LOC
+,	I-LOC
+Efeler	I-LOC
+
+[[Yahudilerin	O
+yoğunlukta	O
+olduğu	O
+bölgeleri	O
+gösteren	O
+Hindistan	B-LOC
+haritası	O
+.]]	O
+
+Roland	B-PER
+Linz	I-PER
+–	O
+Nice	B-ORG
+–	O
+2004–05	O
+
+:	O
+Maja	B-PER
+Poljak	I-PER
+(	O
+Eczacıbaşı	B-ORG
+)	O
+
+2004	B-ORG
+Yaz	I-ORG
+Olimpiyatları'nda	I-ORG
+halter	I-ORG
+-	I-ORG
+Kadınlar	I-ORG
+48	I-ORG
+kg	I-ORG
+
+YÖNLENDİRME	O
+Selahaddin	B-LOC
+(	I-LOC
+il	I-LOC
+)	I-LOC
+
+1908-1918	O
+arasında	O
+Osmanlı	B-LOC
+İmparatorluğu’nun	I-LOC
+fiilen	O
+yönetildiği	O
+yerdi	O
+.	O
+
+Assen	B-LOC
+,	O
+Hollanda	B-LOC
+(	O
+2006'den	O
+beri	O
+)	O
+
+YÖNLENDİRME	O
+Older	B-ORG
+and	I-ORG
+Far	I-ORG
+Away	I-ORG
+
+YÖNLENDİRME	O
+Alpagut	B-LOC
+,	I-LOC
+Mudurnu	I-LOC
+
+'	O
+''	O
+Tufanbeyli	B-LOC
+''	O
+'	O

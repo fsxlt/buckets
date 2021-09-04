@@ -1,0 +1,141 @@
+Az	O
+érettségi	O
+után	O
+egy	O
+évig	O
+segédmunkásként	O
+dolgozott	O
+,	O
+kerámiakészítést	O
+tanult	O
+Budapesten	B-LOC
+.	O
+
+1918–20	O
+között	O
+Fehérgyarmaton	B-LOC
+segédlelkész	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Lilly	B-LOC
+(	I-LOC
+Eure	I-LOC
+)	I-LOC
+
+A	B-ORG
+Bahama-szigetek	I-ORG
+,	O
+Bermuda	B-ORG
+,	O
+a	O
+Kajmán-szigetek	B-ORG
+,	O
+Saint-Martin	B-ORG
+és	O
+Sint	B-ORG
+Maarten	I-ORG
+nem	O
+indult	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Tréméven	B-LOC
+(	I-LOC
+Côtes-d'Armor	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+Jagelló	B-PER
+Hedvig	I-PER
+lengyel	I-PER
+királyi	I-PER
+hercegnő	I-PER
+
+Jimmy	B-PER
+Connors	I-PER
+''	O
+(	O
+Döntős	O
+)	O
+''	O
+
+ÁTIRÁNYÍTÁS	O
+Leonyid	B-PER
+Kosztyantinovics	I-PER
+Kadenyuk	I-PER
+
+Az	O
+első	O
+három	O
+dal	O
+a	O
+Jefferson	B-ORG
+Airplane	I-ORG
+Takes	I-ORG
+Off	I-ORG
+''	O
+felvétele	O
+idején	O
+készült	O
+;	O
+ezeken	O
+az	O
+együttes	O
+első	O
+felállása	O
+játszott	O
+.	O
+
+Hungária	B-ORG
+körúti	I-ORG
+Stadion	I-ORG
+,	O
+Budapest	B-LOC
+
+'	O
+''	O
+FC	B-ORG
+Schalke	I-ORG
+04	I-ORG
+''	O
+'	O
+
+Lengyelországban	B-LOC
+,	O
+Egyesült	B-LOC
+Királyságban	I-LOC
+,	O
+Franciaországban	B-LOC
+,	O
+Németországban	B-LOC
+,	O
+Afrika	B-LOC
+egyes	O
+területein	O
+a	O
+legaktívabbak	O
+.	O
+
+14	O
+évesen	O
+elhagyta	O
+otthonát	O
+,	O
+és	O
+New	B-LOC
+Yorkba	I-LOC
+költözött	O
+.	O
+
+Falk	B-PER
+Miksa	I-PER
+(	O
+1828–1908	O
+)	O
+író	O
+,	O
+politikus	O
+[29	O
+/	O
+3-1-13]	O

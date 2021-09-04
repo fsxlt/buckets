@@ -1,0 +1,65 @@
+Ostrogorsky	B-PER
+,	I-PER
+Georg	I-PER
+(	O
+çev	O
+.	O
+
+Sporcu	O
+Doğu	B-LOC
+Almanya'da	I-LOC
+yetişmiştir	O
+.	O
+
+En	O
+İyi	O
+Erkek	O
+Oyuncu	O
+:	O
+Clark	B-PER
+Gable	I-PER
+
+2009	B-ORG
+Eurovision	I-ORG
+Şarkı	I-ORG
+Yarışması'nda	I-ORG
+Azerbaycan'ı	B-LOC
+Aysel	B-PER
+ile	O
+birlikte	O
+``	O
+Always	B-ORG
+''	O
+adlı	O
+şarkıyla	O
+temsil	O
+etmiştir	O
+.	O
+
+'	O
+''	O
+Valencia	B-ORG
+CF	I-ORG
+''	O
+'	O
+
+Süveyş	B-LOC
+Kanalı	I-LOC
+ve	O
+Panama	B-LOC
+Kanalı'nı	I-LOC
+geçemeyecek	O
+kadar	O
+büyük	O
+olan	O
+gemilerdir.110.000	O
+ile	O
+200.000	O
+DWT'a	O
+kadar	O
+olan	O
+gemiler	O
+bu	O
+sınıfa	O
+girmektedir	O
+.	O

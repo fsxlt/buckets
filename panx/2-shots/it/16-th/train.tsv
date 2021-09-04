@@ -1,0 +1,51 @@
+Candia	B-LOC
+(	I-LOC
+unità	I-LOC
+periferica	I-LOC
+)	I-LOC
+
+Charlestown	B-LOC
+-	O
+città	O
+della	O
+Contea	B-LOC
+di	I-LOC
+Clark	I-LOC
+,	O
+Indiana	B-LOC
+
+Tom	B-PER
+Hanks	I-PER
+interpreta	O
+Robert	B-PER
+Langdon	I-PER
+,	O
+professore	O
+di	O
+simbologia	O
+Università	B-ORG
+di	I-ORG
+Harvard	I-ORG
+.	O
+
+Burnin	B-ORG
+'	I-ORG
+Up	I-ORG
+''	O
+-	O
+5:42	O
+
+(	O
+Giovanni	B-PER
+Pascoli	I-PER
+,	O
+''Patria	O
+''	O
+,	O
+18-19	O
+)	O
+
+Rodenberg	B-LOC
+(	O
+città	O
+)	O

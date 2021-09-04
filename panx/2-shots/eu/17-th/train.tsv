@@ -1,0 +1,58 @@
+''Etxekoak	O
+''	O
+(	O
+ETB1	B-PER
+)	O
+
+Berna	B-LOC
+kantonamenduan	I-LOC
+dago	O
+,	O
+barrutian	O
+.	O
+
+Abtwil	B-LOC
+(	I-LOC
+Argovia	I-LOC
+)	I-LOC
+
+Dustin	B-PER
+Hoffman	I-PER
+,	O
+Geena	B-PER
+Davis	I-PER
+eta	O
+Andy	B-PER
+García	I-PER
+aktoreek	O
+antzeztu	O
+zuten	O
+.	O
+
+Administratiboki	O
+Frantziako	B-LOC
+Lot	B-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Partido	B-ORG
+Aragonés	I-ORG
+(	O
+PAR	O
+)	O
+
+'	O
+''	O
+Fernando	B-PER
+Alonso	I-PER
+''	O
+'	O
+
+Bilboko	B-LOC
+Done	B-ORG
+Jakue	I-ORG
+katedrala	I-ORG

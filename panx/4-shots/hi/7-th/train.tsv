@@ -1,0 +1,66 @@
+'	O
+''	O
+जॉन	B-PER
+मेकनरो	I-PER
+''	O
+'	O
+
+मदन	B-PER
+पुरी	I-PER
+-	O
+गिरधारी	O
+
+पूर्वी	B-LOC
+दिल्ली	I-LOC
+लोकसभा	I-LOC
+निर्वाचन	I-LOC
+क्षेत्र	I-LOC
+
+दो	B-ORG
+दिल	I-ORG
+बंधे	I-ORG
+इक	I-ORG
+डोरी	I-ORG
+से	I-ORG
+
+अण्डमान	B-LOC
+और	I-LOC
+निकोबार	I-LOC
+द्वीपसमूह	I-LOC
+
+रॉकी	B-LOC
+पर्वत	I-LOC
+शृंखला	I-LOC
+
+;	O
+सिटी	B-ORG
+पैलेस	I-ORG
+,	I-ORG
+उदयपुर	I-ORG
+
+अनुप्रेषित	O
+महात्मा	B-ORG
+गान्धी	I-ORG
+अन्तर्राष्ट्रीय	I-ORG
+हिन्दी	I-ORG
+विश्वविद्यालय	I-ORG
+
+बेंजामिन	B-PER
+फ्रैंकलिन	I-PER
+(	O
+संयुक्त	B-LOC
+राज्य	I-LOC
+अमेरिका	I-LOC
+)	O
+
+जॉन	B-PER
+फोर्ब्स	I-PER
+नैश	I-PER
+जूनियर	I-PER
+
+टिहरी	B-ORG
+गढ़वाल	I-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG

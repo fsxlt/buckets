@@ -1,0 +1,17 @@
+ALIH	O
+LOT	B-ORG
+Polish	I-ORG
+Airlines	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Côte-d'Or	I-LOC
+
+Ian	B-PER
+McKellen	I-PER
+sebagai	O
+Gandalf	B-PER
+si	I-PER
+Abu-Abu	I-PER

@@ -1,0 +1,46 @@
+היא	O
+גובלת	O
+נפת	B-LOC
+קומו	I-LOC
+נפת	B-LOC
+לקו	I-LOC
+במערב	O
+.	O
+
+הפניה	O
+עבד	B-PER
+אל-ואחד	I-PER
+מוחמד	I-PER
+נור	I-PER
+
+קתדרלת	B-ORG
+זאגרב	I-ORG
+,	O
+קרואטיה	B-LOC
+
+הסופה	O
+פגעה	O
+בעיקר	O
+חצי	B-LOC
+האי	I-LOC
+יוקטן	I-LOC
+מקסיקו	B-LOC
+,	O
+קובה	B-LOC
+ובמדינת	O
+פלורידה	B-LOC
+ארצות	B-LOC
+הברית	I-LOC
+.	O
+
+מנהרות	B-ORG
+הכרמל	I-ORG
+,	O
+דרך	O
+יגאל	B-PER
+ידין	I-PER
+
+הפניה	O
+סקרימינג	B-PER
+ג'יי	I-PER
+הוקינס	I-PER

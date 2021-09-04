@@ -1,0 +1,54 @@
+BIRZUZENDU	O
+Châtillon	B-LOC
+(	I-LOC
+Delémont	I-LOC
+)	I-LOC
+
+Didio	B-PER
+Juliano	I-PER
+(	O
+193	O
+)	O
+
+'	O
+''	O
+Elizabeth	B-PER
+Taylor	I-PER
+''	O
+'	O
+
+Arratsaldeko	O
+lauretan	O
+,	O
+Goardia	B-ORG
+Zibila	I-ORG
+,	O
+matxinatuen	O
+aldekoa	O
+,	O
+kalera	O
+irten	O
+zen	O
+.	O
+
+Villarejo	B-LOC
+de	I-LOC
+la	I-LOC
+Peñuela	I-LOC
+,	O
+Cuencako	B-ORG
+probintzia	I-ORG
+
+Argentinan	B-LOC
+eta	O
+Madrilen	B-LOC
+ikasi	O
+ondoren	O
+,	O
+jaioterrira	O
+itzuli	O
+eta	O
+hantxe	O
+geratu	O
+zen	O
+.	O

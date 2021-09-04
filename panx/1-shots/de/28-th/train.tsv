@@ -1,0 +1,40 @@
+Massimo	B-PER
+Pupillo	I-PER
+(	I-PER
+Regisseur	I-PER
+)	I-PER
+
+**	O
+'	O
+''	O
+Delhi	B-LOC
+''	O
+'	O
+
+„Was	O
+sind	O
+überhaupt	O
+Freunde	O
+?	O
+“	O
+,	O
+Interview	O
+in	O
+Süddeutsche	B-ORG
+Zeitung	I-ORG
+vom	O
+9	O
+.	O
+
+Er	O
+liegt	O
+bei	O
+der	O
+Kernstadt	O
+von	O
+Goslar	B-LOC
+im	O
+niedersächsischen	B-LOC
+Landkreis	B-LOC
+Goslar	I-LOC
+.	O

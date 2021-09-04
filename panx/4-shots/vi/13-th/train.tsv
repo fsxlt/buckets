@@ -1,0 +1,72 @@
+Sân	B-ORG
+vận	I-ORG
+động	I-ORG
+Vélodrome	I-ORG
+
+đổi	O
+Rudolf	B-PER
+I	I-PER
+nhà	I-PER
+Habsburg	I-PER
+
+Karl	B-PER
+XII	I-PER
+của	I-PER
+Thụy	I-PER
+Điển	I-PER
+
+Quyển	O
+2	O
+-	O
+Thái	B-PER
+Tổ	I-PER
+Đạo	I-PER
+Vũ	I-PER
+Đế	I-PER
+
+Arakawa	B-ORG
+Under	I-ORG
+the	I-ORG
+Bridge	I-ORG
+
+''	O
+Hemaris	B-LOC
+croatica	I-LOC
+''	O
+
+đổi	O
+Bói	B-LOC
+cá	I-LOC
+mào	I-LOC
+
+La	B-LOC
+Membrolle-sur-Choisille	I-LOC
+(	O
+37151	O
+)	O
+
+``	O
+Man	B-ORG
+in	I-ORG
+the	I-ORG
+Mirror	I-ORG
+''	O
+
+Paolo	B-PER
+Maldini	I-PER
+647	O
+(	O
+1984-2009	O
+)	O
+
+Đôi	B-ORG
+tai	I-ORG
+ngoại	I-ORG
+cảm	I-ORG
+''	O
+
+đổi	O
+Lách	B-LOC
+tách	I-LOC
+má	I-LOC
+xám	I-LOC

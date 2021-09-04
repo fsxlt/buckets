@@ -1,0 +1,114 @@
+Valladolid]]	O
+-	O
+Medina	B-LOC
+del	I-LOC
+Campo	I-LOC
+
+International	B-ORG
+Linear	I-ORG
+Collider	I-ORG
+
+-	O
+'	O
+''	O
+Golčův	B-LOC
+Jeníkov	I-LOC
+''	O
+'	O
+
+José	B-PER
+Luis	I-PER
+Arrieta	I-PER
+verloor	O
+uiteindelijk	O
+een	O
+kleine	O
+minuut	O
+.	O
+
+'	O
+''	O
+Landskampioen	B-ORG
+DDR	I-ORG
+''	O
+'	O
+
+Negrilești	B-LOC
+(	I-LOC
+Bistrița-Năsăud	I-LOC
+)	I-LOC
+
+Terwijl	O
+niet	O
+alle	O
+36	O
+ontwerpen	O
+zijn	O
+gebouwd	O
+zijn	O
+de	O
+meeste	O
+gebouwd	O
+in	O
+de	O
+omgeving	O
+van	O
+Los	B-LOC
+Angeles	I-LOC
+;	O
+enkelen	O
+kunnen	O
+teruggevonden	O
+worden	O
+in	O
+de	O
+San	B-LOC
+Francisco	I-LOC
+Bay	I-LOC
+Area	I-LOC
+en	O
+één	O
+werd	O
+gebouwd	O
+in	O
+Phoenix	B-LOC
+)	I-LOC
+.	O
+
+'	O
+''	O
+'	O
+''	O
+Simon	B-PER
+Fourcade	I-PER
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+*International	O
+album	O
+–	O
+Kylie	B-PER
+Minogue	I-PER
+–	O
+Fever	B-ORG
+''	O
+
+Red	B-ORG
+Hot	I-ORG
+Chili	I-ORG
+Peppers	I-ORG
+
+Winona	B-PER
+Ryder	I-PER
+–	O
+''Vinni	O
+Restiano	O
+''	O

@@ -1,0 +1,76 @@
+'	O
+''	O
+हैरी	B-PER
+एस	I-PER
+ट्रूमैन	I-PER
+''	O
+'	O
+(	O
+1884–1972	O
+)	O
+
+जैक्सनविल	B-LOC
+,	I-LOC
+फ्लोरिडा	I-LOC
+
+**	O
+हॉन्ग	B-LOC
+कॉन्ग	I-LOC
+(	O
+जनरल-वाणिज्य	O
+दूतावास	O
+)	O
+
+भारतीय	B-ORG
+सांख्यिकी	I-ORG
+संस्थान	I-ORG
+,	I-ORG
+कोलकाता	B-LOC
+
+महानगर	B-ORG
+टेलीफोन	I-ORG
+निगम	I-ORG
+लिमिटेड	I-ORG
+
+'	O
+''	O
+फीनिक्स	B-ORG
+चाइनीज़	I-ORG
+चैनल	I-ORG
+''	O
+'	O
+
+वर्तमान	O
+में	O
+,	O
+अरुण	B-PER
+जेटली	I-PER
+भारत	B-ORG
+के	I-ORG
+वित्त	I-ORG
+मंत्री	I-ORG
+है।	O
+
+अनुप्रेषित	O
+सनीवेल	B-LOC
+,	I-LOC
+कैलिफ़ोर्निया	I-LOC
+
+ब्रिटेन	B-PER
+के	I-PER
+प्रधान	I-PER
+मन्त्री	I-PER
+
+हुमा	B-PER
+क़ुरैशी	I-PER
+(	I-PER
+पत्रकार	I-PER
+)	I-PER
+स्वतंत्र	O
+पत्रकार।	O
+
+उत्तर	B-LOC
+प्रदेश	I-LOC
+(	O
+220	O
+)	O

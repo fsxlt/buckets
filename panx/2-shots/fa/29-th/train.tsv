@@ -1,0 +1,37 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+آب‌انجیر	B-LOC
+سفلی	I-LOC
+(	I-LOC
+گچساران	I-LOC
+)	I-LOC
+
+بخش	B-ORG
+فارسی	I-ORG
+صدای	I-ORG
+آمریکا	I-ORG
+
+'	O
+''	O
+هیلاری	B-PER
+سوانک	I-PER
+''	O
+'	O
+
+تغییرمسیر	O
+کوئین	B-LOC
+کریک،	I-LOC
+آریزونا	I-LOC
+
+تایتانیک]]	O
+به	O
+کارگردانی	O
+جیمز	B-PER
+کامرون	I-PER

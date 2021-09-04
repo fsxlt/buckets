@@ -1,0 +1,102 @@
+suuna	O
+Marshall	B-PER
+Warren	I-PER
+Nirenberg	I-PER
+
+Yeongdo	B-LOC
+linnarajoon	I-LOC
+-	O
+영도구	O
+
+Mińsk	B-LOC
+Mazowiecki	I-LOC
+(	O
+Poola	B-LOC
+)	O
+
+Carlos	B-PER
+Filipe	I-PER
+Ximenes	I-PER
+Belo	I-PER
+
+Eesti	B-ORG
+Looduseuurijate	I-ORG
+Selts	I-ORG
+
+Malawis	B-LOC
+peatus	O
+kohtusüsteemi	O
+töö	O
+kohtute	O
+nooremametnike	O
+tähtajatu	O
+üldtsreigi	O
+tõttu	O
+.	O
+
+``	O
+'	O
+''	O
+Toxicity	O
+''	O
+'	O
+''	O
+on	O
+ansambli	O
+System	B-ORG
+of	I-ORG
+a	I-ORG
+Down	I-ORG
+album	O
+.	O
+
+aastal	O
+astus	O
+ta	O
+Res	B-ORG
+Publicasse	I-ORG
+.	O
+
+Carl	B-PER
+Timoleon	I-PER
+von	I-PER
+Neff	I-PER
+
+Siis	O
+sai	O
+Kevin	B-PER
+Garnett	I-PER
+vigastuse	O
+,	O
+mis	O
+lõpetas	O
+tema	O
+hooaja	O
+,	O
+ja	O
+edaspidi	O
+ei	O
+läinud	O
+Celticsil	O
+nii	O
+hästi	O
+.	O
+
+.pm	B-ORG
+–	O
+Saint-Pierre	B-LOC
+ja	I-LOC
+Miquelon	I-LOC
+
+Ameerika	B-LOC
+Ühendriikide	I-LOC
+autotootja	O
+Ford	B-ORG
+Motor	I-ORG
+Company	I-ORG
+avalikustas	O
+ulatuslikud	O
+meetmed	O
+kulude	O
+kokkuhoiuks	O
+.	O

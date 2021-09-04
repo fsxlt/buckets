@@ -1,0 +1,21 @@
+**	O
+'	O
+''	O
+Clarksville	B-LOC
+''	O
+'	O
+,	O
+en	O
+Nuevo	B-LOC
+Hampshire	I-LOC
+.	O
+
+Johann	B-PER
+Müller	I-PER
+Regiomontano	I-PER
+
+Museo	B-ORG
+Field	I-ORG
+de	I-ORG
+Historia	I-ORG
+Natural	I-ORG

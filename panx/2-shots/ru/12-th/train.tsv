@@ -1,0 +1,50 @@
+Список	B-PER
+сеньоров	I-PER
+и	I-PER
+графов	I-PER
+Кастра	I-PER
+
+Ампква	B-LOC
+(	I-LOC
+река	I-LOC
+)	I-LOC
+
+перенаправление	O
+Радзымин	B-LOC
+(	I-LOC
+гмина	I-LOC
+)	I-LOC
+
+Сергей	B-PER
+Березин	I-PER
+—	O
+10	O
+раунд	O
+,	O
+256	O
+номер	O
+,	O
+Торонто	B-ORG
+Мейпл	I-ORG
+Лифс	I-ORG
+
+Как	O
+и	O
+в	O
+случае	O
+с	O
+британским	O
+изданием	O
+,	O
+параллельно	O
+альбому	O
+в	O
+продажу	O
+поступил	O
+сингл	O
+Yellow	B-ORG
+Submarine	I-ORG
+/	O
+Eleanor	B-ORG
+Rigby	I-ORG
+.	O

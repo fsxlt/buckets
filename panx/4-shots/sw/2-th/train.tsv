@@ -1,0 +1,105 @@
+J.	B-PER
+M.	I-PER
+G.	I-PER
+Le	I-PER
+Clézio	I-PER
+
+Breyten	B-PER
+Breytenbach	I-PER
+(	O
+1939–	O
+)	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Katiola	I-ORG
+
+Eneo	O
+lake	O
+ni	O
+324.2	O
+km²	B-ORG
+.	O
+
+Shirika	B-ORG
+Lisilo	I-ORG
+la	I-ORG
+Kiserikali	I-ORG
+
+Mji	B-LOC
+mkuu	I-LOC
+wake	O
+ni	O
+Lyon	B-LOC
+.	O
+
+'	O
+''	O
+Wilaya	B-LOC
+ya	I-LOC
+Bondo	I-LOC
+''	O
+'	O
+
+Wilaya	B-ORG
+ya	I-ORG
+Sinématiali	I-ORG
+
+Uzalishaji	O
+ni	O
+mkubwa	O
+hasa	O
+Hispania	B-LOC
+,	O
+halafu	O
+Italia	B-LOC
+,	O
+Ugiriki	B-LOC
+,	O
+Uturuki	B-LOC
+n.k	O
+.	O
+
+Alimfuata	O
+Papa	B-PER
+Leo	I-PER
+VII	I-PER
+akafuatwa	O
+na	O
+Papa	B-PER
+Marinus	I-PER
+II	I-PER
+.	O
+
+Shirika	B-ORG
+za	I-ORG
+msalaba	I-ORG
+mwekundu	I-ORG
+na	I-ORG
+hilali	I-ORG
+nyekundu	I-ORG
+
+''O	O
+-	O
+Asia	B-LOC
+ya	I-LOC
+Magharibi	I-LOC
+(	O
+excl	O
+.	O
+
+Mlinzi	B-LOC
+(	I-LOC
+ndege	I-LOC
+)	I-LOC
+
+Alisema	O
+kuwa	O
+huo	O
+ndio	O
+ulikuwa	O
+wakati	O
+aliongozwa	O
+na	O
+Stevie	B-PER
+Wonder	I-PER

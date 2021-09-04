@@ -1,0 +1,106 @@
+Ville	B-PER
+Laihiala	I-PER
+–	O
+laulu	O
+,	O
+kitara	O
+,	O
+tuottaja	O
+
+Peter	B-PER
+Criss	I-PER
+–	O
+rummut	O
+,	O
+taustalaulu	O
+kappaleissa	O
+1-3	O
+
+Don’t	B-ORG
+Tell	I-ORG
+Me	I-ORG
+''	O
+(	O
+4:39	O
+)	O
+
+Kausilla	O
+2005–2009	O
+hän	O
+pelasi	O
+Bostonin	B-ORG
+yliopistossa	I-ORG
+yliopistosarjassa	B-ORG
+.	O
+
+Prahan	B-ORG
+vanha	I-ORG
+juutalainen	I-ORG
+hautausmaa	I-ORG
+
+Kirjokorte	B-LOC
+(	O
+''Equisetum	O
+variegatum	O
+''	O
+)	O
+
+OHJAUS	O
+Ramadan	B-PER
+Abdel	I-PER
+Rehim	I-PER
+Mansour	I-PER
+
+Kolmas	O
+video	O
+,	O
+``	O
+Hyvien	O
+puolella	O
+''	O
+tullaan	O
+kuvaamaan	O
+Las	B-LOC
+Vegasissa	I-LOC
+.	O
+
+**	O
+Saint	B-LOC
+Vincent	I-LOC
+ja	I-LOC
+Grenadiinit	I-LOC
+
+Blaine	B-PER
+Anderson	I-PER
+sekä	O
+Uudet	O
+Tuulet	O
+
+Tämä	O
+viittaa	O
+Suezin	B-LOC
+kanavan	I-LOC
+rakentamiseen	O
+.	O
+
+Joki	O
+virtaa	O
+kiemurrelleen	O
+leveässä	O
+laaksossa	O
+Pohjois-Venäjän	B-LOC
+selänteen	I-LOC
+pohjoisreunalla	O
+.	O
+
+2006	O
+/	O
+07	O
+Hapoel	B-ORG
+Jerusalem	I-ORG
+BC	I-ORG
+'	O
+''	O
+(	O
+3	O
+.	O

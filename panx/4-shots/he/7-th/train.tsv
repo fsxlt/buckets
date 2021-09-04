@@ -1,0 +1,103 @@
+דף	O
+הדמות	O
+באתר	O
+הרשמי	O
+של	O
+DC	B-ORG
+Comics	I-ORG
+
+ארכף	B-LOC
+עגול	I-LOC
+אוזן	I-LOC
+נמיבי	I-LOC
+(	O
+Macroscelides	O
+flavicaudatus	O
+)	O
+
+הופעה	O
+ראשונה	O
+של	O
+קילר	B-PER
+קרוק	I-PER
+
+הפניה	O
+נווה	B-LOC
+אטי	I-LOC
+''	I-LOC
+ב	I-LOC
+
+הפניה	O
+נסיכות	B-LOC
+הבוחר	I-LOC
+ממיינץ	I-LOC
+
+הפניה	O
+משרד	B-ORG
+העלייה	I-ORG
+והקליטה	I-ORG
+
+כפר	B-LOC
+ביל	I-LOC
+''	I-LOC
+ו	I-LOC
+
+בטורניר	O
+הזוגות	O
+,	O
+שבו	O
+שיתף	O
+פעולה	O
+עם	O
+הראל	B-PER
+לוי	I-PER
+,	O
+הודחו	O
+השניים	O
+כבר	O
+בסיבוב	O
+הראשון	O
+.	O
+
+'	O
+''	O
+זומבים	B-ORG
+''	O
+'	O
+-	O
+נחשבים	O
+לאויבים	O
+הכי	O
+בולטים	O
+בסדרה	O
+.	O
+
+המאמנים	O
+במשחק	O
+היו	O
+פט	B-PER
+ריילי	I-PER
+לוס	B-ORG
+אנג'לס	I-ORG
+לייקרס	I-ORG
+בילי	B-PER
+קנינגהם	I-PER
+פילדלפיה	B-ORG
+76	I-ORG
+'	I-ORG
+.	O
+
+תאילנד	B-LOC
+פועלת	O
+הרשת	O
+טסקו	B-ORG
+לוטוס	I-ORG
+שבבעלות	O
+החברה	O
+.	O
+
+הופעה	O
+ראשונה	O
+של	O
+אדווין	B-PER
+ג'רביס	I-PER

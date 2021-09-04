@@ -1,0 +1,18 @@
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+نهر	B-LOC
+(	I-LOC
+آمل	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+لوسیانو	B-PER
+آندراده	I-PER
+ریسوت	I-PER

@@ -1,0 +1,24 @@
+Keep	B-ORG
+Your	I-ORG
+Head	I-ORG
+Down	I-ORG
+''	O
+
+ĐỔI	O
+Giáo	B-PER
+hoàng	I-PER
+Urbanô	I-PER
+VIII	I-PER
+
+''	O
+Cotoneaster	B-LOC
+acuminatus	I-LOC
+''	O
+Lindl	O
+.	O
+
+'	O
+''	O
+Suceava	B-LOC
+''	O
+'	O

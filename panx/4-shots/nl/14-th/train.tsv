@@ -1,0 +1,126 @@
+Veel	O
+van	O
+de	O
+bewoners	O
+(	O
+Gattenaren	O
+genoemd	O
+)	O
+zijn	O
+hierdoor	O
+voornamelijk	O
+in	O
+het	O
+nabijgelegen	O
+Hoek	B-LOC
+gaan	O
+wonen	O
+.	O
+
+Malakoff	B-ORG
+-	I-ORG
+Plateau	I-ORG
+de	I-ORG
+Vanves	I-ORG
+(	I-ORG
+metrostation	I-ORG
+)	I-ORG
+
+Abdij	B-ORG
+Notre-Dame	I-ORG
+de	I-ORG
+Saint-Rémy	I-ORG
+
+Het	O
+werd	O
+verkocht	O
+aan	O
+een	O
+investeerder	O
+uit	O
+Oklahoma	B-LOC
+City	I-LOC
+,	O
+die	O
+het	O
+object	O
+daar	O
+liet	O
+herplaatsen	O
+.	O
+
+Hij	O
+is	O
+een	O
+veelzijdige	O
+verdediger	O
+,	O
+te	O
+beginnen	O
+bij	O
+Vålerenga	B-ORG
+IF	I-ORG
+als	O
+centrale	O
+verdediger	O
+,	O
+op	O
+huurbasis	O
+van	O
+FC	B-ORG
+Flora	I-ORG
+Tallinn	I-ORG
+.	O
+
+Werk	O
+van	O
+Jan	B-PER
+Toorop	I-PER
+in	O
+particulier	O
+bezit	O
+
+'	O
+''	O
+Johann	B-PER
+Zarco	I-PER
+''	O
+'	O
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+Cavan	B-LOC
+(	I-LOC
+Ierland	I-LOC
+)	I-LOC
+
+Lila	B-LOC
+(	I-LOC
+Bohol	I-LOC
+)	I-LOC
+-	O
+
+Liroy	B-PER
+Zhairi	I-PER
+(	O
+2011-2013	O
+)	O
+
+Jean-François	B-PER
+Bernard	I-PER
+(	O
+Fra	O
+)	O
+
+Lozenets	B-LOC
+(	I-LOC
+Boergas	I-LOC
+)	I-LOC

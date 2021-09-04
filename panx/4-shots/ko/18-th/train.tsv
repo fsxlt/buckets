@@ -1,0 +1,135 @@
+**	O
+국왕	B-PER
+―	O
+무함마드	B-PER
+자히르	I-PER
+샤	I-PER
+(	O
+1933	O
+~	O
+1973	O
+)	O
+
+그	O
+중	O
+하나가	O
+수에즈	B-LOC
+운하이다	I-LOC
+.	O
+
+**	O
+6권	O
+-	O
+이탈리아	B-LOC
+편	O
+
+〈핑크레이디〉는	O
+개그콘서트》의	B-ORG
+한	O
+코너이다	O
+.	O
+
+케빈	B-PER
+맥헤일	I-PER
+(	I-PER
+배우	I-PER
+)	I-PER
+
+독일인	B-PER
+루트비히는	I-PER
+다른	O
+아들	O
+뚱보	B-PER
+카를을	I-PER
+이탈리아로	B-LOC
+보냈고	O
+,	O
+베렝가리오는	O
+몇몇	O
+귀족과	O
+명망있는	O
+인사를	O
+모아	O
+뚱보	B-PER
+카를과	I-PER
+합세하였다	O
+.	O
+
+마야과나	B-LOC
+섬	I-LOC
+(	O
+Mayaguana	O
+)	O
+
+야마가타	B-ORG
+TV가	I-ORG
+ANN으로	O
+일방적으로	O
+네트워크로	O
+옮긴	O
+뒤	O
+시청자	O
+보호관점에서	O
+일부	O
+후지	B-ORG
+TV	I-ORG
+프로그램을	O
+방송했다	O
+.	O
+
+몽골	B-ORG
+인민당의	I-ORG
+남바린	B-PER
+엥흐바야르	I-PER
+후보와	O
+민주당의	B-ORG
+차히아긴	B-PER
+엘베그도르지	I-PER
+후보가	O
+경쟁을	O
+했다	O
+.	O
+
+아와즈	B-ORG
+역	I-ORG
+(	I-ORG
+이시카와	I-ORG
+현	I-ORG
+)	I-ORG
+
+'	O
+''	O
+조지아	B-LOC
+연방	I-LOC
+''	O
+'	O
+
+현재	O
+대한민국	B-LOC
+K리그	B-ORG
+챌린지	I-ORG
+강원	B-ORG
+FC에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+북쪽과	O
+동쪽으로는	O
+브라질과	B-LOC
+국경을	O
+접하며	O
+남동쪽으로는	O
+세로라르고	B-LOC
+주	I-LOC
+,	O
+남쪽과	O
+서쪽으로는	O
+타콰렘보	B-LOC
+주	I-LOC
+,	O
+북서쪽으로는	O
+살토	B-LOC
+주와	I-LOC
+접한다	O
+.	O

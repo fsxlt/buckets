@@ -1,0 +1,39 @@
+Jawatankuasa	B-LOC
+pembangunan	I-LOC
+kampung	I-LOC
+di	I-LOC
+Nepal	I-LOC
+
+Komun	B-LOC
+di	I-LOC
+jabatan	I-LOC
+Haute-Loire	I-LOC
+
+LENCONG	O
+Sekolah	B-ORG
+Menengah	I-ORG
+Kebangsaan	I-ORG
+Datin	I-ORG
+Onn	I-ORG
+Jaafar	I-ORG
+
+'	O
+''	O
+Lisa	B-PER
+Surihani	I-PER
+''	O
+'	O
+
+LENCONG	O
+Pasukan	B-ORG
+bola	I-ORG
+sepak	I-ORG
+kebangsaan	I-ORG
+bawah-17	I-ORG
+Malaysia	I-ORG
+
+Suzuki	B-PER
+Kanon	I-PER
+(	O
+鈴木香音	O
+)	O

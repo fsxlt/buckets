@@ -1,0 +1,87 @@
+تغییر_مسیر	O
+علی	B-PER
+العامری	I-PER
+(	I-PER
+بازیکن	I-PER
+فوتبال	I-PER
+)	I-PER
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییر_مسیر	O
+حجت	B-PER
+بن	I-PER
+الحسن	I-PER
+
+'	O
+''	O
+پیوس	B-PER
+یازدهم	I-PER
+''	O
+'Papa	O
+'	O
+''	O
+PIUS	O
+''	O
+'	O
+Undecimus	O
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+تغییرمسیر	O
+ابراهیم‌آباد	B-LOC
+دشت	I-LOC
+بر	I-LOC
+
+تغییرمسیر	O
+موبوتو	B-PER
+سسه	I-PER
+سوکو	I-PER
+
+تغییرمسیر	O
+لعل‌آباد	B-LOC
+(	I-LOC
+سلسله	I-LOC
+)	I-LOC
+
+تغییرمسیر	O
+حاجی‌آباد	B-LOC
+(	I-LOC
+اصفهان	I-LOC
+)	I-LOC
+
+سازمان	B-ORG
+میراث	I-ORG
+فرهنگی،	I-ORG
+صنایع	I-ORG
+دستی	I-ORG
+و	I-ORG
+گردشگری	I-ORG
+
+**	O
+زنبورخوار	B-LOC
+سبز	I-LOC
+,	O
+''Merops	O
+orientalis	O
+''	O

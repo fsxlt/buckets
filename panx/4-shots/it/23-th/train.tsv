@@ -1,0 +1,81 @@
+Ovanåker	B-LOC
+(	I-LOC
+comune	I-LOC
+)	I-LOC
+
+Alejandro	B-PER
+Falla	I-PER
+''	O
+(	O
+secondo	O
+turno	O
+)	O
+
+'	O
+''	O
+Central	B-ORG
+Division	I-ORG
+''	O
+'	O
+
+Contea	B-LOC
+di	I-LOC
+Ray	I-LOC
+(	I-LOC
+Missouri	I-LOC
+)	I-LOC
+-	O
+est	O
+
+Egospotami	B-LOC
+(	I-LOC
+fiume	I-LOC
+)	I-LOC
+
+Brittney	B-PER
+Griner	I-PER
+,	O
+Phoenix	B-ORG
+Mercury	I-ORG
+
+'	O
+''	O
+Suzuki	B-ORG
+''	O
+'	O
+
+Disputa	O
+la	O
+Primeira	B-ORG
+Liga	I-ORG
+.	O
+
+Regno	B-LOC
+d'Italia	I-LOC
+(	I-LOC
+1861-1946	I-LOC
+)	I-LOC
+
+Sjeng	B-PER
+Schalken	I-PER
+''	O
+(	O
+quarti	O
+di	O
+finale	O
+)	O
+''	O
+
+Hendrick	B-ORG
+Motorsports	I-ORG
+(	O
+4	O
+)	O
+
+Joanne	B-PER
+Russell	I-PER
+''	O
+(	O
+Secondo	O
+turno	O
+)	O

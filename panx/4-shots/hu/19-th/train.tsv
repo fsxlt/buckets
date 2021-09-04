@@ -1,0 +1,100 @@
+ÁTIRÁNYÍTÁS	O
+Súkan	B-ORG
+Sónen	I-ORG
+Magazine	I-ORG
+
+Gabriela	B-PER
+Spanic	I-PER
+saját	O
+magát	O
+javasolta	O
+a	O
+szerepre	O
+.	O
+
+A	O
+Maginot-vonal	B-LOC
+erődítményeinek	O
+makettjét	O
+felhasználva	O
+úgy	O
+találták	O
+,	O
+hogy	O
+hatásos	O
+kombinált	O
+gyújtófegyver	O
+és	O
+harci	O
+gáz	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Élie	B-PER
+Frédéric	I-PER
+Forey	I-PER
+
+**	O
+Ferenc	B-PER
+József	I-PER
+,	O
+Osztrák–Magyar	B-LOC
+Monarchia	I-LOC
+
+'	O
+''	O
+Bellarmin	B-PER
+Szent	I-PER
+Róbert	I-PER
+''	O
+'	O
+
+''	O
+CSI	B-ORG
+:	I-ORG
+A	I-ORG
+helyszínelők	I-ORG
+''	O
+
+Szusza	B-LOC
+Ferenc	I-LOC
+Stadion	I-LOC
+,	O
+Budapest	B-LOC
+
+Székhelye	O
+Andorra	B-LOC
+la	I-LOC
+Vellában	I-LOC
+volt	O
+.	O
+
+Festőművész	O
+feleségével	O
+ezért	O
+úgy	O
+döntöttek	O
+,	O
+hogy	O
+elköltöznek	O
+Szerbia	B-ORG
+és	I-ORG
+Montenegróból	I-ORG
+felesége	O
+szülőhelyére	O
+az	O
+Isztriai-félszigeten	B-LOC
+lévő	O
+Rovinjba	B-LOC
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Tök	B-LOC
+(	I-LOC
+növénynemzetség	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+FC	B-ORG
+Dacia	I-ORG
+Chișinău	I-ORG

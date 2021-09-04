@@ -1,0 +1,37 @@
+Mji	B-LOC
+mkuu	I-LOC
+ni	O
+Shijiazhuang	B-LOC
+(	O
+石家庄	O
+)	O
+.	O
+
+''	O
+So	B-ORG
+Many	I-ORG
+Tears	I-ORG
+''	O
+
+'	O
+''	O
+Mengistu	B-PER
+Haile	I-PER
+Mariam	I-PER
+''	O
+'	O
+
+Balch	B-LOC
+Springs	I-LOC
+,	I-LOC
+Texas	I-LOC
+
+Maria	B-PER
+Ana	I-PER
+wa	I-PER
+Yesu	I-PER
+
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Göttingen	I-ORG

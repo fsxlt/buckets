@@ -1,0 +1,49 @@
+Suurtarbijatel	O
+,	O
+nagu	O
+Ameerika	B-LOC
+Ühendriigid	I-LOC
+või	O
+Euroopa	B-ORG
+Liit	I-ORG
+,	O
+puuduvad	O
+legaalsed	O
+vahendid	O
+,	O
+et	O
+ära	O
+hoida	O
+selliste	O
+toodete	O
+sattumist	O
+turule	O
+.	O
+
+Kimi	B-PER
+Räikkönen	I-PER
+Soome	B-LOC
+McLaren	B-ORG
++	O
+2,130	O
+
+Virgilijus	B-PER
+Alekna	I-PER
+,	O
+Leedu	B-LOC
+66.46	O
+
+aastal	O
+tuli	O
+nõukogude	B-LOC
+võim	I-LOC
+.	O
+
+See	O
+tähendab	O
+muutusi	O
+ka	O
+Balti	B-ORG
+kubermangude	I-ORG
+poliitikas	O
+.	O

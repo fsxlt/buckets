@@ -1,0 +1,24 @@
+يوسف	B-PER
+عزيزي	I-PER
+بني	I-PER
+طرف،	I-PER
+صحفي	O
+وناشط	O
+.	O
+
+وهي	O
+جزء	O
+من	O
+سلسلة	O
+``	O
+رحلات	B-ORG
+غير	I-ORG
+عادية	I-ORG
+''	O
+
+تحويل	O
+آب	B-LOC
+میس	I-LOC
+(	I-LOC
+أمجز	I-LOC
+)	I-LOC

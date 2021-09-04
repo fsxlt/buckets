@@ -1,0 +1,94 @@
+En	O
+este	O
+periodo	O
+entrenaron	O
+al	O
+equipo	O
+Vujadin	B-PER
+Boškov	I-PER
+,	O
+Luis	B-PER
+Molowny	I-PER
+,	O
+Alfredo	B-PER
+Di	I-PER
+Stéfano	I-PER
+y	O
+Amancio	B-PER
+Amaro	I-PER
+.	O
+
+Tren	B-ORG
+cremallera	I-ORG
+de	I-ORG
+Montserrat	I-ORG
+
+REDIRECCIÓN	O
+Francisco	B-PER
+de	I-PER
+Moraes	I-PER
+
+Bacău	B-LOC
+(	I-LOC
+distrito	I-LOC
+)	I-LOC
+
+San	B-LOC
+Francisco	I-LOC
+,	O
+California	B-LOC
+,	O
+Estados	B-LOC
+Unidos	I-LOC
+.	O
+
+REDIRECCIÓN	O
+Call	B-ORG
+and	I-ORG
+response	I-ORG
+:	I-ORG
+the	I-ORG
+remix	I-ORG
+album	I-ORG
+
+Charice	B-PER
+Pempengco	I-PER
+como	O
+ella	O
+misma	O
+.	O
+
+REDIRECCIÓN	O
+1.	B-LOC
+Bundesliga	I-LOC
+1980-81	I-LOC
+
+Teoría	B-LOC
+de	I-LOC
+los	I-LOC
+cuatro	I-LOC
+humores	I-LOC
+
+Estadio	B-ORG
+Santiago	I-ORG
+Bernabéu	I-ORG
+,	O
+Madrid	B-LOC
+/	O
+Camp	B-ORG
+Nou	I-ORG
+,	O
+Barcelona	B-LOC
+
+Carole	B-PER
+Cook	I-PER
+interpreta	O
+a	O
+una	O
+mesera	O
+.	O
+
+REDIRECCIÓN	O
+Sing	B-ORG
+for	I-ORG
+Absolution	I-ORG

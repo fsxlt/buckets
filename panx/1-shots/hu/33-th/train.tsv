@@ -1,0 +1,28 @@
+'	O
+''	O
+Gino	B-PER
+Bartali	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Ausztrália	B-LOC
+(	I-LOC
+ország	I-LOC
+)	I-LOC
+
+Sony	B-ORG
+Music	I-ORG
+Entertainment	I-ORG
+Japan	I-ORG
+
+A	O
+következő	O
+századokban	O
+a	O
+laurói	B-LOC
+birtokhoz	O
+tartozó	O
+falucska	O
+volt	O
+.	O

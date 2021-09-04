@@ -1,0 +1,95 @@
+Gábor	B-PER
+Talmácsi	I-PER
+(	O
+KTM	B-ORG
+)	O
+
+''	O
+Myotis	B-LOC
+oxyotus	I-LOC
+''	O
+
+The	B-ORG
+Black	I-ORG
+Adder	I-ORG
+
+Ole	B-PER
+Tobiasen	I-PER
+Brian	B-PER
+Steen	I-PER
+Nielsen	I-PER
+
+Röttenbach	B-LOC
+(	I-LOC
+Roth	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Pauline	B-PER
+Parmentier	I-PER
+''	O
+'	O
+Christina	B-PER
+McHale	I-PER
+
+Matthew	B-PER
+Laurance	I-PER
+-	O
+''Ronnie	O
+Ciello	O
+''	O
+
+Grand	B-ORG
+Prix	I-ORG
+Formule	I-ORG
+1	I-ORG
+van	I-ORG
+Italië	I-ORG
+1992	I-ORG
+
+Agenzia	B-ORG
+Nazionale	I-ORG
+Stampa	I-ORG
+Associata	I-ORG
+
+De	O
+soort	O
+komt	O
+voor	O
+in	O
+het	O
+Neotropisch	B-ORG
+gebied	I-ORG
+.	O
+
+Weg	O
+door	O
+het	O
+centrum	O
+van	O
+Newcastle	B-LOC
+upon	I-LOC
+Tyne	I-LOC
+
+Dziemiany	B-LOC
+,	O
+Karsin	B-LOC
+,	O
+Kościerzyna	B-LOC
+,	O
+Liniewo	B-LOC
+,	O
+Lipusz	B-LOC
+,	O
+Nowa	B-LOC
+Karczma	I-LOC
+,	O
+Somonino	B-LOC
+,	O
+Stara	B-LOC
+Kiszewa	I-LOC
+,	O
+Stężyca	B-LOC
+,	O
+Sulęczyno	B-LOC

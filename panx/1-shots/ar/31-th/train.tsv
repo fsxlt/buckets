@@ -1,0 +1,15 @@
+محمد	B-PER
+سعيد	I-PER
+رمضان	I-PER
+البوطي	I-PER
+
+ليموج	B-ORG
+سي	I-ORG
+إس	I-ORG
+بي	I-ORG
+
+تحويل	O
+إينديانولا	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC

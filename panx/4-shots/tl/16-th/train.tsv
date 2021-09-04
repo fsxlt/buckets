@@ -1,0 +1,66 @@
+Aklat	B-ORG
+ni	I-ORG
+Oseas	I-ORG
+
+Suliranin	B-PER
+ni	I-PER
+Elektra	I-PER
+
+Incheon	B-LOC
+,	O
+Timog	B-LOC
+Korea	I-LOC
+(	O
+1988	O
+)	O
+
+Hukbong	B-ORG
+Katihan	I-ORG
+ng	I-ORG
+Pilipinas	I-ORG
+
+Friedrich	B-PER
+Nietzsche	I-PER
+(	O
+1844–1900	O
+)	O
+
+Osama	B-PER
+bin	I-PER
+Laden	I-PER
+
+Richard	B-ORG
+Gordon	I-ORG
+(	I-ORG
+politiko	I-ORG
+)	I-ORG
+
+Marin	B-LOC
+County	I-LOC
+,	I-LOC
+California	I-LOC
+
+Lungsod	B-LOC
+ng	I-LOC
+Cathedral	I-LOC
+,	I-LOC
+California	I-LOC
+
+''	O
+Christopher	B-PER
+de	I-PER
+Leon	I-PER
+
+Saint-Pierre	B-LOC
+at	I-LOC
+Miquelon	I-LOC
+
+Nagasaki	B-LOC
+(	O
+''Kabisera	O
+''	O
+)	O
+
+Nagsasanggalang	B-ORG
+na	I-ORG
+pader	I-ORG

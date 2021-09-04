@@ -1,0 +1,84 @@
+REDIRECCIÓN	O
+Thomas	B-PER
+Volney	I-PER
+Munson	I-PER
+
+REDIRECCIÓN	O
+Brigada	B-ORG
+«Almogávares»	I-ORG
+VI	I-ORG
+de	I-ORG
+Paracaidistas	I-ORG
+
+Rheinpark	B-ORG
+Stadion	I-ORG
+,	O
+Vaduz	B-LOC
+,	O
+Liechtenstein	B-LOC
+
+REDIRECCIÓN	O
+Servicio	B-ORG
+Oficial	I-ORG
+de	I-ORG
+Difusión	I-ORG
+,	I-ORG
+Radiotelevisión	I-ORG
+y	I-ORG
+Espectáculos	I-ORG
+
+La	O
+'	O
+''	O
+petra	B-LOC
+''	O
+'	O
+''	O
+(	O
+Myrceugenia	B-LOC
+exsucca	I-LOC
+)	O
+''	O
+
+Condado	B-LOC
+de	I-LOC
+Adams	I-LOC
+-	O
+sureste	O
+
+Steve	B-PER
+Francis	I-PER
+(	O
+2	O
+)	O
+
+``	O
+Underneath	B-ORG
+the	I-ORG
+Stars	I-ORG
+''	O
+–	O
+3:35	O
+
+REDIRECCIÓN	O
+Aragua	B-LOC
+de	I-LOC
+Maturín	I-LOC
+
+'	O
+''	O
+Wayne	B-PER
+Odesnik	I-PER
+''	O
+'	O
+
+Valladolid	B-LOC
+(	I-LOC
+Yucatán	I-LOC
+)	I-LOC
+
+Woodes	B-PER
+Rogers	I-PER
+(	O
+1728-1732	O
+)	O

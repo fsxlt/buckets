@@ -1,0 +1,118 @@
+*A	O
+Duna	B-ORG
+Televízió	I-ORG
+–	O
+több	O
+műsorsávban	O
+is	O
+–	O
+egy	O
+korábbi	O
+dokumentumfilmmel	O
+emlékezett	O
+meg	O
+róla	O
+.	O
+
+25px]]	O
+'	O
+''	O
+Talmácsi	B-PER
+Gábor	I-PER
+''	O
+'	O
+
+ÁTIRÁNYÍTÁS	O
+Nemzetközi	B-ORG
+Páneurópa	I-ORG
+Unió	I-ORG
+
+Lewis	B-PER
+Hamilton	I-PER
+43.	O
+győzelme	O
+és	O
+3.	O
+egyéni	O
+világbajnoki	O
+címe	O
+ezen	O
+a	O
+futamon	O
+.	O
+
+ÁTIRÁNYÍTÁS	O
+Radvanice	B-LOC
+(	I-LOC
+Přerovi	I-LOC
+járás	I-LOC
+)	I-LOC
+
+ÁTIRÁNYÍTÁS	O
+I.	B-PER
+Baszileiosz	I-PER
+bizánci	I-PER
+császár	I-PER
+
+22px]]	O
+Kamerun	B-LOC
+(	O
+ma	O
+)	O
+
+'	O
+''	O
+Fégyér	O
+''	O
+'	O
+,	O
+falu	O
+Romániában	B-LOC
+,	O
+Erdélyben	B-LOC
+,	O
+Hunyad	B-LOC
+megyében	I-LOC
+.	O
+
+Székhelye	O
+Ústí	B-LOC
+nad	I-LOC
+Labem	I-LOC
+.	O
+
+Veszprém	B-LOC
+megye	I-LOC
+legmagasabb	O
+épülete	O
+.	O
+
+Lusitanos	B-ORG
+(	O
+0,700	O
+)	O
+
+``	O
+Single	B-ORG
+Ladies	I-ORG
+(	I-ORG
+Put	I-ORG
+a	I-ORG
+Ring	I-ORG
+on	I-ORG
+It	I-ORG
+)	I-ORG
+''	O
+
+I.	B-PER
+(	I-PER
+Földnélküli	I-PER
+)	I-PER
+János	I-PER
+
+ÁTIRÁNYÍTÁS	O
+Keleti	B-ORG
+főcsoport	I-ORG
+(	I-ORG
+NBA	I-ORG
+)	I-ORG

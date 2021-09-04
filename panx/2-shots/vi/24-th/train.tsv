@@ -1,0 +1,51 @@
+Cô	O
+hát	O
+bè	O
+cùng	O
+với	O
+đồng	O
+nghiệp	O
+cùng	O
+hãng	O
+Yong	B-PER
+Jun-hyung	I-PER
+và	O
+G.NA	B-PER
+.	O
+
+Xã	B-LOC
+của	I-LOC
+tỉnh	I-LOC
+Bas-Rhin	I-LOC
+
+Quận	B-LOC
+Union	I-LOC
+,	I-LOC
+Pennsylvania	I-LOC
+
+đổi	O
+FC	B-ORG
+Bayern	I-ORG
+München	I-ORG
+
+George	B-PER
+Harrison	I-PER
+–	O
+guitar	O
+lead	O
+,	O
+hát	O
+bè	O
+.	O
+
+đổi	O
+Sonata	B-ORG
+số	I-ORG
+16	I-ORG
+dành	I-ORG
+cho	I-ORG
+dương	I-ORG
+cầm	I-ORG
+(	I-ORG
+Mozart	I-ORG
+)	I-ORG

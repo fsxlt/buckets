@@ -1,0 +1,38 @@
+''	O
+Doktor	B-ORG
+Martin	I-ORG
+''	O
+
+BBC	B-ORG
+keelas	O
+loo	O
+eetris	O
+mängimise	O
+.	O
+
+Lõhnav	B-LOC
+käoraamat	I-LOC
+-	O
+''Gymnadenia	O
+odoratissima	O
+''	O
+
+Arvatavasti	O
+kõige	O
+suurema	O
+leviku	O
+osaliseks	O
+selles	O
+valdkonnas	O
+sai	O
+Paul-Eerik	B-PER
+Rummo	I-PER
+luulekogu	O
+``	O
+Saatja	O
+aadress	O
+ja	O
+teisi	O
+luuletusi	O
+''	O
+.	O

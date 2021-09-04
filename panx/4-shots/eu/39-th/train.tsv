@@ -1,0 +1,106 @@
+Società	B-ORG
+Sportiva	I-ORG
+Calcio	I-ORG
+Napoli	I-ORG
+
+Baita	O
+Hillary	B-ORG
+Clintonen	I-ORG
+agindua	O
+lan	O
+hau	O
+egiteko	O
+.	O
+
+BIRZUZENDU	O
+Bot	B-LOC
+(	I-LOC
+Katalunia	I-LOC
+)	I-LOC
+
+Administratiboki	O
+Frantziako	B-LOC
+Garona	B-LOC
+Garaia	I-LOC
+departamenduan	O
+dago	O
+,	O
+Languedoc-Roussillon-Midi-Pyrénées	B-LOC
+eskualdean	O
+.	O
+
+Filipe	B-PER
+III.a	I-PER
+Frantziakoa	I-PER
+.	O
+
+'	O
+''	O
+Bart	B-PER
+Wellens	I-PER
+''	O
+'	O
+
+Prentsa-erreportaiaren	O
+eta	O
+saiakera	O
+literarioaren	O
+arteko	O
+lan	O
+bat	O
+da	O
+,	O
+Herrialde	B-LOC
+Valentziarreko	I-LOC
+azken	O
+15	O
+urteak	O
+maila	O
+politikoan	O
+,	O
+sozialean	O
+eta	O
+kulturalean	O
+azaltzen	O
+duena	O
+,	O
+abestien	O
+eta	O
+taldearen	O
+ibilbidearen	O
+bitartez	O
+.	O
+
+New	B-ORG
+York	I-ORG
+Red	I-ORG
+Bulls	I-ORG
+''	O
+
+Stade	B-ORG
+de	I-ORG
+Reims	I-ORG
+(	O
+1	O
+)	O
+
+Turingo	B-LOC
+Hiri	I-LOC
+Metropolitanoan	I-LOC
+kokatuta	O
+dago	O
+,	O
+Piemonte	B-LOC
+eskualdean	O
+.	O
+
+BIRZUZENDU	O
+Louis	B-PER
+Seymour	I-PER
+Bazett	I-PER
+Leakey	I-PER
+
+Julio	B-PER
+Ruiz	I-PER
+de	I-PER
+Alda	I-PER

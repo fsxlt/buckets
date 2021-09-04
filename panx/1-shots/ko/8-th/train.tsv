@@ -1,0 +1,26 @@
+베스트팔렌	B-ORG
+조약	I-ORG
+후에	O
+스웨덴의	B-LOC
+통치아래	O
+있었다	O
+.	O
+
+대통령	B-ORG
+―	O
+안드리스	B-PER
+베르진시	I-PER
+(	O
+2012	O
+~	O
+)	O
+
+테네시	B-LOC
+주	I-LOC
+오크리지는	B-LOC
+맨해튼	B-ORG
+계획이	I-ORG
+진행되는	O
+동안	O
+폐쇄되었다	O
+.	O

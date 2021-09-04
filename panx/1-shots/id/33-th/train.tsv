@@ -1,0 +1,17 @@
+'	O
+''	O
+Rubens	B-PER
+Barrichello	I-PER
+''	O
+'	O
+
+ALIH	O
+Bursa	B-ORG
+efek	I-ORG
+London	I-ORG
+
+ALIH	O
+Komune	B-LOC
+di	I-LOC
+departemen	I-LOC
+Lot	I-LOC

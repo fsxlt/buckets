@@ -1,0 +1,141 @@
+Joukkue	O
+kuitenkin	O
+hävisi	O
+Houston	B-ORG
+Rocketsille	I-ORG
+otteluvoitoin	O
+4-0	O
+.	O
+
+Se	O
+oli	O
+osa	O
+Song-dynastiaa	B-ORG
+.	O
+
+välillä	O
+kasvoivat	O
+Mesopotamian	B-LOC
+kaksi	O
+kaupunkia	O
+Tell	B-LOC
+Brak	I-LOC
+ja	O
+Tell	B-LOC
+Hamoukar	I-LOC
+suuremmiksi	O
+kuin	O
+Etelä-Mesopotamian	O
+keskukset	O
+.	O
+
+Nahkamies	O
+kulki	O
+lähes	O
+600	O
+kilometrin	O
+pituista	O
+reittiä	O
+Uuden-Englannin	B-LOC
+Connecticutissa	B-LOC
+ja	O
+osan	O
+matkaa	O
+New	B-LOC
+Yorkin	I-LOC
+osavaltion	O
+puolella	O
+.	O
+
+Jaime	B-PER
+Lucas	I-PER
+Ortega	I-PER
+y	I-PER
+Alamino	I-PER
+
+Levyt	O
+julkaisi	O
+Sanctuary	B-ORG
+Records	I-ORG
+.	O
+
+Sébastien	B-PER
+Loeb	I-PER
+/	O
+Daniel	B-PER
+Elena	I-PER
+
+Hussein	B-PER
+(	I-PER
+Jordania	I-PER
+)	I-PER
+
+OHJAUS	O
+BB	B-LOC
+&	I-LOC
+T	I-LOC
+Center	I-LOC
+
+Se	O
+sijaitsee	O
+Ortesjoen	B-LOC
+rannalla	O
+31	O
+kilometriä	O
+Hatsinasta	B-LOC
+etelään	O
+ja	O
+2,5	O
+kilometriä	O
+Possatasta	O
+lounaaseen	O
+.	O
+
+'	O
+''	O
+''	O
+1	B-ORG
+,	I-ORG
+2	I-ORG
+Step	I-ORG
+''	O
+'	O
+''	O
+
+Jäävuoren	O
+havainnoinnin	O
+aikaan	O
+sen	O
+pinta-ala	O
+oli	O
+noin	O
+11	O
+000	O
+km²	O
+eli	O
+se	O
+oli	O
+Jamaikan	B-LOC
+saaren	O
+kokoinen	O
+.	O
+
+Revilla	B-LOC
+Gigedon	I-LOC
+saaret	I-LOC
+
+20px]]	O
+'	O
+''	O
+Wolfgang	B-PER
+von	I-PER
+Trips	I-PER
+''	O
+'	O
+
+Hän	O
+syntyi	O
+todennäköisesti	O
+Stirlingin	B-ORG
+linnassa	I-ORG
+.	O

@@ -1,0 +1,84 @@
+पुनर्प्रेषित	O
+जॉन	B-PER
+स्टूवर्ट	I-PER
+मिल	I-PER
+
+अनुप्रेषित	O
+मौत	B-LOC
+की	I-LOC
+घाटी	I-LOC
+
+महाराजा	B-PER
+रणजीत	I-PER
+सिंह	I-PER
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+११	I-ORG
+
+अनुप्रेषित	O
+चार्ल्स	B-PER
+डी	I-PER
+गॉल	I-PER
+
+रीवा	B-ORG
+लोक	I-ORG
+सभा	I-ORG
+निर्वाचन	I-ORG
+क्षेत्र	I-ORG
+
+रोमन	B-LOC
+साम्राज्य	I-LOC
+प्रान्तों	O
+में	O
+बंटा	O
+था	O
+''प्रोविन्सिये	O
+''	O
+.	O
+
+कोकोस	B-LOC
+(	I-LOC
+कीलिंग	I-LOC
+)	I-LOC
+द्वीपसमूह	I-LOC
+(	O
+ऑस्ट्रेलिया	B-LOC
+)	O
+
+क्योंकि	B-ORG
+सास	I-ORG
+भी	I-ORG
+कभी	I-ORG
+बहू	I-ORG
+थी	I-ORG
+''	O
+
+राष्ट्रीय	B-ORG
+राजमार्ग	I-ORG
+६९	I-ORG
+
+अक्षय	B-PER
+कुमार	I-PER
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+अमोल	B-PER
+पालेकर	I-PER
+--	O
+--	O
+--	O
+--	O
+--	O
+--	O
+आमिर	B-PER
+ख़ान	I-PER
+
+दक्षिण	B-LOC
+अफ़्रीका	I-LOC
+के	I-LOC
+प्रान्त	I-LOC

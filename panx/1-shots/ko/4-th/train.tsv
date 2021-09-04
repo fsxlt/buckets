@@ -1,0 +1,16 @@
+넘겨주기	O
+서울	B-ORG
+유나이티드	I-ORG
+FC	I-ORG
+
+넘겨주기	O
+이특	B-PER
+(	I-PER
+가수	I-PER
+)	I-PER
+
+헨더슨빌	B-LOC
+(	I-LOC
+노스캐롤라이나	I-LOC
+주	I-LOC
+)	I-LOC

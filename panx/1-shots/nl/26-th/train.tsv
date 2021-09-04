@@ -1,0 +1,17 @@
+*1992	O
+Pieter	B-PER
+Wispelwey	I-PER
+(	O
+cello	O
+)	O
+
+DOORVERWIJZING	O
+Makedonska	B-ORG
+Radio	I-ORG
+Televizija	I-ORG
+
+Lila	B-LOC
+(	I-LOC
+Bohol	I-LOC
+)	I-LOC
+-	O

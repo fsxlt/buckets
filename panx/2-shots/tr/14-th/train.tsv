@@ -1,0 +1,42 @@
+Mladen	B-PER
+Krstajić	I-PER
+–	O
+SV	B-ORG
+Werder	I-ORG
+Bremen	I-ORG
+,	O
+FC	B-ORG
+Schalke	I-ORG
+04	I-ORG
+–	O
+2000–04	O
+,	O
+2004–09	O
+
+Pekin	B-LOC
+,	O
+Çin	B-LOC
+Halk	I-LOC
+Cumhuriyeti	I-LOC
+
+YÖNLENDİRME	O
+Arabian	B-ORG
+Gulf	I-ORG
+League	I-ORG
+
+'	O
+''	O
+Michael	B-PER
+Douglas	I-PER
+''	O
+'	O
+†	O
+
+Henüz	O
+üç	O
+yaşında	O
+Moskova	B-LOC
+Knezliği'nin	I-LOC
+başına	O
+geçti	O
+.	O

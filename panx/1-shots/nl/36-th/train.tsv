@@ -1,0 +1,32 @@
+'	O
+''	O
+Venus	B-PER
+Williams	I-PER
+(	O
+winnares	O
+)	O
+'	O
+''	O
+
+Baja	B-LOC
+California	I-LOC
+(	I-LOC
+staat	I-LOC
+)	I-LOC
+
+De	O
+NAVO	B-ORG
+kondigt	O
+het	O
+aantal	O
+troepen	O
+van	O
+haar	O
+interventiemacht	O
+Response	B-ORG
+Force	I-ORG
+te	O
+verdrievoudigen	O
+tot	O
+40.000	O
+.	O

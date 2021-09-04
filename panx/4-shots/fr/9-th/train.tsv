@@ -1,0 +1,93 @@
+'	O
+''	O
+Mattia	B-PER
+Pasini	I-PER
+''	O
+'	O
+
+Cochrane	B-LOC
+(	I-LOC
+ancienne	I-LOC
+circonscription	I-LOC
+fédérale	I-LOC
+)	I-LOC
+
+Blackburn	B-LOC
+(	O
+West	B-LOC
+Lothian	I-LOC
+)	O
+
+Autorité	B-ORG
+nationale	I-ORG
+du	I-ORG
+ladino	I-ORG
+
+Pawtuxet	B-ORG
+(	O
+désormais	O
+englobé	O
+dans	O
+Cranston	B-LOC
+,	I-LOC
+Rhode	I-LOC
+Island	I-LOC
+)	O
+
+redirection	O
+Championnat	B-ORG
+d'Espagne	I-ORG
+de	I-ORG
+football	I-ORG
+1929-1930	I-ORG
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+du	I-LOC
+Loiret	I-LOC
+
+Elle	O
+entretenait	O
+des	O
+liens	O
+avec	O
+la	O
+Monarchie	B-ORG
+britannique	I-ORG
+.	O
+
+Guerre	B-ORG
+civile	I-ORG
+tchadienne	I-ORG
+(	I-ORG
+2005-2010	I-ORG
+)	I-ORG
+
+Édouard	B-PER
+Batiste	I-PER
+''Offertoire	O
+op	O
+.	O
+
+'	O
+''	O
+Suisse	B-LOC
+''	O
+'	O
+
+Sir	O
+John	B-PER
+Henry	I-PER
+Thomas	I-PER
+Manners-Sutton	I-PER
+
+Pays-Bas	B-LOC
+Kadene	B-PER
+Vassell	I-PER
+42	O
+s	O
+80	O
+(	O
+NR	O
+)	O

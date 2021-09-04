@@ -1,0 +1,35 @@
+Chuo	B-ORG
+Kikuu	I-ORG
+cha	I-ORG
+Heidelberg	I-ORG
+
+``	O
+Ghetto	B-ORG
+Gospel	I-ORG
+''	O
+(	O
+akishirikiana	O
+na	O
+Elton	B-PER
+John	I-PER
+)	O
+
+Uhusika	O
+ulichezwa	O
+na	O
+D.	B-PER
+B.	I-PER
+Woodside	I-PER
+.	O
+
+Hifadhi	B-LOC
+ya	I-LOC
+Taifa	I-LOC
+ya	I-LOC
+Tsavo	I-LOC
+Mashariki	I-LOC
+
+Palos	B-LOC
+Hills	I-LOC
+,	I-LOC
+Illinois	I-LOC
