@@ -9,3 +9,6 @@ due to licence restrictions
 (cf. github.com/facebookresearch/MLDoc). We will provide the document
 indices soon.
 
+The pickle format of the data is available at:
+
+https://drive.google.com/file/d/1Vi1Cu9qx_2e44FLEHi1Z_Auh483j22ZD/view?usp=sharing
